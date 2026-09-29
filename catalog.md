@@ -2,7 +2,7 @@
 
 A catalog of soma design and somaesthetic interaction design, centred on Kristina Höök's lineage: research prototypes, design methods, somatic practices, artworks, performances and theory that treat body and mind as one soma, felt from within. Fields: foundations (somaesthetics, phenomenology, East Asian body-mind thought), somatic practices, soma design methods, somaesthetic interaction design, augmented and transhuman bodies, affective loops and biodata, movement and somatic art, intimate and feminist soma design, health and care, social soma, and soma with machines, AI and XR. Compiled by Reality Design Lab as idea material for designers, researchers, artists and students. Each work lists its core idea, how it works, and links to its paper, video and images.
 
-https://somatic.reality.design · 2026-09-29 · 400 creators · 527 works
+https://somatic.reality.design · 2026-09-29 · 471 creators · 624 works
 
 ## How an AI assistant should use this file
 
@@ -579,6 +579,15 @@ How HCI turned to the body: Dourish, Klemmer, Hornecker, Loke & Robertson, Höö
 - Paper: https://doi.org/10.7551/mitpress/7221.001.0001 (MIT Press)
 - Images: https://covers.openlibrary.org/b/id/149713-L.jpg https://upload.wikimedia.org/wikipedia/commons/9/97/Paul_Dourish_in_Pasadena%2C_2010.jpg
 - Project page: https://www.dourish.com
+
+#### Direct Manipulation vs. Interface Agents — Ben Shneiderman, Pattie Maes (1997)
+- Type: Paper · Body & senses: Whole body-mind, Movement & kinesthesia
+- Idea: The question later asked of muscles and reflexes is first asked of software: when a system acts for you, is it still your action? Human–computer integration inherits this split between control and delegation.
+- What it is: The edited transcript of a debate between Ben Shneiderman, who argues that people should act directly on visible objects and stay in control, and Pattie Maes, who argues for software agents that learn from us and act on our behalf.
+- How it works: Public debate at CHI 1997 and IUI 1997, published as a structured exchange of position statements and rebuttals.
+- Lens: Extended body, First-person & felt experience
+- Paper: https://doi.org/10.1145/267505.267514 (ACM Interactions 1997)
+- Images: https://upload.wikimedia.org/wikipedia/commons/3/3d/Ben_Shneiderman_at_UNCC_%283x4_cropped%29.jpg https://upload.wikimedia.org/wikipedia/commons/c/c3/Dubai_Future_Forum_2024_-_Pattie_Maes.jpg
 
 ## Somatic Practices
 
@@ -1287,6 +1296,17 @@ Ideating with and through moving bodies, props and play.
 - Paper: https://doi.org/10.1145/2858036.2858486 (CHI 2016)
 - Video: https://www.youtube.com/watch?v=tI1GUPjrXjQ
 
+#### Exertion Cards — Florian 'Floyd' Mueller (2014)
+- Type: Method & toolkit · Body & senses: Movement & kinesthesia, Whole body-mind
+- Idea: A shared vocabulary for the exerting body helps designers talk about sweat, fatigue and touch as design material rather than side effects.
+- What it is: A free deck of design cards, 'things to think about' when designing games for the active body, built on the Exertion Framework and used by more than 130 designers.
+- How it works: Card deck derived from the Exertion Framework, evaluated in design workshops with game and interaction design students and industry practitioners.
+- Lens: Pleasure & play, Movement & expression
+- Paper: https://doi.org/10.1145/2556288.2557272 (CHI 2014)
+- Video: https://www.youtube.com/watch?v=H4O8GXIJNns
+- Images: https://exertiongameslab.org/wp-content/uploads/2014/04/exertion_cards1.jpg https://exertiongameslab.org/wp-content/uploads/2014/04/exertion_cards2.jpg
+- Project page: https://exertiongameslab.org/projects/design-tools-exertion-cards
+
 #### Bodystorming as Embodied Designing — Dennis Schleicher (2010)
 - Type: Method & toolkit · Body & senses: Movement & kinesthesia, Whole body-mind
 - Idea: Acting a scenario out with the whole body produces knowledge that talking and sketching on paper do not.
@@ -1621,6 +1641,16 @@ Interactive systems that help us feel our own body-mind more richly: soma mats, 
 
 Systems that slow us down and direct attention inward: Soma Mat, Breathing Light, guided body scans.
 
+#### Fluito — Maria F. Montoya, Rakesh Patibanda, Aryan Saini, Sarah Jane Pell, Florian 'Floyd' Mueller (2023)
+- Type: Research prototype · Body & senses: Breath, Posture, balance & proprioception, Whole body-mind
+- Idea: Floating removes the usual pull of gravity, so a design that calls attention to water and breath can turn the tank into a place for felt body awareness and play.
+- What it is: A playful extended-reality floatation tank experience: floating in warm salt water, the participant is guided by visuals and sound to attend to the water, their breath and their body.
+- How it works: Somaesthetic design of an XR floatation tank; 13-participant study analysed through a postphenomenological lens, giving eight design strategies for playful water experiences.
+- Lens: Attunement & appreciation, Pleasure & play
+- Paper: https://doi.org/10.1145/3611056 (CHI PLAY 2023)
+- Video: https://www.youtube.com/watch?v=NNWuqEz29Ag
+- Project page: https://exertiongameslab.org/
+
 #### Soma Mat — Martin Jonsson, Anna Ståhl, Kristina Höök (2016)
 - Type: Research prototype · Body & senses: Heat & temperature, Whole body-mind
 - Idea: Slow, subtle heat does not signal anything; it quietly draws attention to parts of the body we rarely feel.
@@ -1775,11 +1805,20 @@ Clothing and soft materials that sense and touch: corsets, shirts, e-textiles.
 
 ## Augmented & Transhuman Soma
 
-Technology that extends the felt body: extra limbs, new senses, muscles moved by computers, cyborg art, and the transhuman and posthuman ideas behind them, read from the soma rather than from the machine.
+Technology that extends the felt body: extra limbs, new senses, muscles moved by computers, brain–computer interfaces, cyborg art, and the transhuman and posthuman ideas behind them, read from the soma rather than from the machine.
 
 ### Extra Limbs, Tails & Prostheses
 
 Supernumerary fingers, arms and tails, and prostheses that the body learns to feel as its own.
+
+#### Playful Bodily Extensions via Body Schema and Body Image — Florian 'Floyd' Mueller, Oğuz 'Oz' Buruk, Aryan Saini (2025)
+- Type: Paper · Body & senses: Extra limbs & body extensions, Posture, balance & proprioception
+- Idea: An extension can change how the body moves without changing how it feels as 'mine', or the other way round; designing both is designing the felt soma.
+- What it is: Characterises playful bodily extensions by how much they alter the wearer's body schema (how the body works without thought) and body image (how one perceives and thinks of one's body), laid out as a two-dimensional design space.
+- How it works: Conceptual analysis of playful bodily extensions using the phenomenological distinction between body schema and body image.
+- Lens: Extended body, Body-mind unity
+- Paper: https://doi.org/10.1016/j.ijhcs.2025.103457 (International Journal of Human-Computer Studies 2025)
+- Project page: https://exertiongameslab.org/
 
 #### PneuMa — Aryan Saini, Rakesh Patibanda, Florian 'Floyd' Mueller (2024)
 - Type: Research prototype · Body & senses: Extra limbs & body extensions, Shape-change & inflatables, Movement & kinesthesia
@@ -1799,6 +1838,26 @@ Supernumerary fingers, arms and tails, and prostheses that the body learns to fe
 - Paper: https://doi.org/10.1145/3544548.3581169 (CHI 2023)
 - Video: https://www.youtube.com/watch?v=KFyZQfqaXhE
 - Project page: https://jizai-body.com
+
+#### Towards Designing Playful Bodily Extensions — Oğuz 'Oz' Buruk, Florian 'Floyd' Mueller (2023)
+- Type: Paper · Body & senses: Extra limbs & body extensions
+- Idea: Extra body parts are not only tools; played with, they let people explore and remake their sense of their own body.
+- What it is: Interviews with experts who design and build bodily extensions on how extra limbs and body parts can be designed for play.
+- How it works: Semi-structured interviews with experts in bodily extensions, analysed into themes and design suggestions for playful extensions.
+- Lens: Extended body, Pleasure & play
+- Paper: https://doi.org/10.1145/3544548.3581165 (CHI 2023)
+- Video: https://www.youtube.com/watch?v=vCfClAzbo-k
+- Project page: https://exertiongameslab.org/
+
+#### Principles of Human Movement Augmentation and the Challenges in Making It a Reality — Jonathan Eden (2022)
+- Type: Paper · Body & senses: Extra limbs & body extensions, Movement & kinesthesia, Muscle tension (EMG)
+- Idea: A body cannot be added to for free: every extra limb competes with the natural body for attention, muscles and neural resources, so augmentation is a reorganisation of the whole soma.
+- What it is: A review that builds a taxonomy of movement augmentation by what is augmented and how, focuses on adding degrees of freedom such as extra robotic limbs, and asks where their control signals, sensory feedback and learning can come from.
+- How it works: Review of supernumerary robotics, physiological control signals, sensory feedback and motor learning, organised by the proposed taxonomy.
+- Lens: Extended body
+- Paper: https://doi.org/10.1038/s41467-022-28725-7 (Nature Communications 2022)
+- Images: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-022-28725-7/MediaObjects/41467_2022_28725_Fig1_HTML.png
+- Project page: https://www.nature.com/articles/s41467-022-28725-7
 
 #### Robotic Hand Augmentation Drives Changes in Neural Body Representation — Paulina Kieliba, Dani Clode, Tamar Makin (2021)
 - Type: Paper · Body & senses: Extra limbs & body extensions, Movement & kinesthesia, Brain (EEG)
@@ -1842,6 +1901,17 @@ Supernumerary fingers, arms and tails, and prostheses that the body learns to fe
 - Images: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/The_Debut_of_Bionic_Ballet_%2813480669224%29_%282%29.jpg/1280px-The_Debut_of_Bionic_Ballet_%2813480669224%29_%282%29.jpg
 - Project page: https://www.media.mit.edu/groups/biomechatronics/overview/
 
+#### Arm-A-Dine — Yash Dhanpal Mehta, Rohit Ashok Khot, Rakesh Patibanda, Florian 'Floyd' Mueller (2018)
+- Type: Research prototype · Body & senses: Extra limbs & body extensions, Movement & kinesthesia
+- Idea: Giving up some control over one's own eating to an extra limb steered by another person makes eating slower, stranger and more shared.
+- What it is: Diners wear a robotic third arm on the chest; the arm picks up food and, depending on the other diner's facial expression, feeds either its wearer or the companion.
+- How it works: Chest-mounted robotic arm driven by facial-expression recognition of the co-diner; study with pairs of diners yielded themes such as reducing bodily control and encouraging savouring.
+- Lens: Extended body, Intercorporeality, Pleasure & play
+- Paper: https://doi.org/10.1145/3242671.3242710 (CHI PLAY 2018)
+- Video: https://www.youtube.com/watch?v=iBW2D9ghaak
+- Images: https://exertiongameslab.org/wp-content/uploads/2018/06/Arm-a-dine-1-OK-to-use.jpg
+- Project page: https://exertiongameslab.org/projects/arm-a-dine-augmented-social-eating
+
 #### Fusion — MHD Yamen Saraiji, Tomoya Sasaki, Kouta Minamizawa (2018)
 - Type: Research prototype · Body & senses: Extra limbs & body extensions, Movement & kinesthesia, Light & vision
 - Idea: When two people inhabit one body, the boundary of 'my' body and 'my' action becomes negotiable, and guidance can be felt directly in the limbs.
@@ -1860,6 +1930,15 @@ Supernumerary fingers, arms and tails, and prostheses that the body learns to fe
 - Lens: Extended body, Body-mind unity, Estrangement
 - Paper: https://doi.org/10.1145/3084822.3084837 (SIGGRAPH 2017 Emerging Technologies)
 - Video: https://www.youtube.com/watch?v=NIuIiI5mVhI
+
+#### Morphological Interfaces: On Body Transforming Technologies — Sang-won Leigh, Pattie Maes (2017)
+- Type: Paper · Body & senses: Extra limbs & body extensions, Movement & kinesthesia, Whole body-mind
+- Idea: The body is the interface: because body schema is plastic, a new limb can become part of how one feels and moves, so designing it means designing a changed self, not a tool.
+- What it is: A position paper on technologies that change the shape and capacities of the body itself, from extra robotic fingers to reconfigured limbs, and on the body plasticity that lets people take them in.
+- How it works: Position paper drawing on tool-use neuroscience and the authors' body-extending robots.
+- Lens: Extended body, Body-mind unity
+- Paper: https://doi.org/10.1145/3027063.3052758 (CHI 2017 Extended Abstracts)
+- Video: https://www.youtube.com/watch?v=V6CMtXQj_Ts
 
 #### Neurocognitive Barriers to the Embodiment of Technology — Tamar Makin (2017)
 - Type: Paper · Body & senses: Extra limbs & body extensions, Brain (EEG), Whole body-mind
@@ -1933,6 +2012,17 @@ Feeling north, sound, infrared, echolocation or other species' senses through th
 - Images: https://reality.design/media/feltsight-cover-forest-closeup.webp
 - Project page: https://reality.design/project/feltsight
 
+#### Seeing with the Hands — Shan-Yuan Teng, Pedro Lopes (2025)
+- Type: Research prototype · Body & senses: New & substituted senses, Touch & pressure, Electrical stimulation (EMS, GVS)
+- Idea: Moving the 'eye' from the head to the hand turns sensory substitution into part of the reaching gesture: perception and action become one movement.
+- What it is: A wrist camera looks from the hand's point of view and an electro-tactile display on the back of the hand turns what it sees into touch, so blind, low-vision and sighted users can feel objects while reaching toward them.
+- How it works: Wrist-mounted camera feeding a back-of-hand electro-tactile array; study with sighted and blind or low-vision participants on locating and grasping objects.
+- Lens: Extended body, Body-mind unity
+- Paper: https://doi.org/10.1145/3706598.3713419 (CHI 2025)
+- Video: https://www.youtube.com/watch?v=EP9Y2XWmlds
+- Images: https://lab.plopes.org/project-thumbnails/CHI25-SeeingWithHands.jpg
+- Project page: https://lab.plopes.org
+
 #### TentacUs — Botao 'Amber' Hu, Danlin Huang (2025)
 - Type: Performance, dance & music · Body & senses: New & substituted senses, Vibration & haptics, Touch & pressure
 - Idea: An octopus senses with its arms, not only its brain; sharing sensation across bodies lets participants feel a decentred, distributed body-mind.
@@ -1945,6 +2035,17 @@ Feeling north, sound, infrared, echolocation or other species' senses through th
 - Project page: https://amber.botao.hu/design/tentacus
 - Code: https://github.com/realitydeslab/tentacus
 
+#### Augmented Breathing via Thermal Feedback in the Nose — Jas Brooks, Pedro Lopes (2024)
+- Type: Research prototype · Body & senses: Breath, Heat & temperature
+- Idea: We feel our breath mostly as coolness in the nose, so breath, usually only read by devices, can now be written back into felt experience, for example in meditation or under a mask.
+- What it is: A small device cools or warms the inside of the nose in time with each inhale, making users feel they are breathing in more or less air than they really are.
+- How it works: Psychophysical study of in-nose temperature stimulation (about 90% of trials were described as a change in airflow, only about 8% as temperature), then a compact Peltier device worn across the septum, synced to inhalation; applications in VR, relaxation and mask wearing.
+- Lens: Body-mind unity, Technology that touches back
+- Paper: https://doi.org/10.1145/3654777.3676438 (UIST 2024)
+- Video: https://youtu.be/pNdZel2SG10
+- Images: https://lab.plopes.org/project-thumbnails/UIST24-AugmentedBreathing.jpg
+- Project page: https://lab.plopes.org
+
 #### EchoVision — Botao 'Amber' Hu, Jiabao Li, Danlin Huang (2024)
 - Type: Artwork & installation · Body & senses: New & substituted senses, Voice, sound & listening, Light & vision
 - Idea: Using one's own voice to 'see' turns a familiar place strange and makes perception feel like an active, bodily act.
@@ -1956,6 +2057,19 @@ Feeling north, sound, infrared, echolocation or other species' senses through th
 - Video: https://vimeo.com/955577972
 - Images: https://reality.design/media/_resources/echovision-jiabao-01.webp
 - Project page: https://reality.design/project/echovision
+
+#### Taste Retargeting via Chemical Taste Modulators — Jas Brooks, Pedro Lopes (2023)
+- Type: Research prototype · Body & senses: New & substituted senses
+- Idea: Taste lives in the tongue as much as in the food; by changing the body's receptors, an interface can change what the world tastes like.
+- What it is: Just before eating, the user takes a small dose of a chemical taste modulator that temporarily changes the tongue's receptors, so a real food can be made less salty, umami, sweet or bitter, or taste sweet instead of sour.
+- How it works: First study identified six accessible taste modulators that suppress salty, umami, sweet or bitter, or turn sour into sweet; second study used them in VR to reduce the mismatch between one food prop and different virtual foods.
+- Lens: Estrangement, Body-mind unity
+- Shown at: UIST 2023 Best Demo Honorable Mention (Jury's Choice)
+- Paper: https://doi.org/10.1145/3586183.3606818 (UIST 2023)
+- Video: https://youtu.be/_9Wefip1K5s
+- Images: https://lab.plopes.org/project-thumbnails/UIST23-TasteRetargeting.jpg
+- Project page: https://lab.plopes.org
+- Code: https://github.com/humancomputerintegration/taste-retargeting
 
 #### Chemical Haptics — Jasmine Lu, Jas Brooks, Pedro Lopes (2021)
 - Type: Research prototype · Body & senses: Heat & temperature, Pain & inner sensations, Touch & pressure
@@ -1975,6 +2089,18 @@ Feeling north, sound, infrared, echolocation or other species' senses through th
 - Lens: Extended body, Technology that touches back
 - Paper: https://doi.org/10.1145/3411764.3445300 (CHI 2021)
 - Video: https://www.youtube.com/watch?v=sbmYBUSuM48
+- Project page: https://lab.plopes.org
+
+#### Trigeminal-based Temperature Illusions — Jas Brooks, Pedro Lopes (2020)
+- Type: Research prototype · Body & senses: Heat & temperature, New & substituted senses
+- Idea: Smell and temperature are not separate channels: the same nerve feels both, so a scent can change how warm the whole body feels.
+- What it is: A small wearable puffs scents such as mint or capsaicin-like odors into the nose, and breathing them in makes the user feel warmer or cooler without any heating element.
+- How it works: Custom 'thermal' scents that stimulate the trigeminal nerve, released by a nose-mounted device; user studies in VR compared perceived warmth and coolness.
+- Lens: Body-mind unity, Estrangement
+- Shown at: CHI 2020 Best Paper Award
+- Paper: https://doi.org/10.1145/3313831.3376806 (CHI 2020)
+- Video: https://www.youtube.com/watch?v=pH68GNkb_fA
+- Images: https://lab.plopes.org/project-thumbnails/CHI20-trigeminal.jpeg
 - Project page: https://lab.plopes.org
 
 #### Egocentric Smaller-Person Experience — Jun Nishida (2019)
@@ -2060,6 +2186,73 @@ Feeling north, sound, infrared, echolocation or other species' senses through th
 
 Computers that move muscles, balance and reflexes (EMS, GVS): who is acting when the body is shared with a machine.
 
+#### Generative Muscle Stimulation — Yun Ho, Romain Nith, Shan-Yuan Teng, Pedro Lopes (2026)
+- Type: Research prototype · Body & senses: Electrical stimulation (EMS, GVS), Movement & kinesthesia
+- Idea: An AI that acts through your muscles has to know your body: it constrains what it generates to your joints and current pose, so the assistance becomes embodied knowledge you perform.
+- What it is: A multimodal AI reads the user's pose, point of view and location, works out how to use an unfamiliar object such as a bike rack or an analog camera, and then guides the user's hands through it with muscle stimulation.
+- How it works: IMU suit plus egocentric camera feeding a multimodal model that writes step instructions, filtered by a biomechanical model of joint limits and pose before being mapped to EMS channels.
+- Lens: Extended body, More-than-human
+- Shown at: CHI 2026 Best Paper Award; CVPR 2026 Art Gallery (artistic rendition)
+- Paper: https://doi.org/10.1145/3772318.3790817 (CHI 2026)
+- Video: https://www.youtube.com/watch?v=pJM2Z8mmwAw
+- Images: https://lab.plopes.org/project-thumbnails/CHI26-EmbodiedAI.jpg
+- Project page: https://embodied-ai.plopes.org/
+
+#### Grand Challenges around Designing Computers' Control Over Our Bodies — Florian 'Floyd' Mueller, Nadia Bianchi-Berthouze, Richard Byrne, Zhuying Li, Joe Marshall, Rakesh Patibanda, Aryan Saini (2026)
+- Type: Paper · Body & senses: Electrical stimulation (EMS, GVS), Extra limbs & body extensions, Movement & kinesthesia
+- Idea: When a machine can move your body, agency and the sense of 'I did this' become design material, and an ethical question.
+- What it is: Researchers gathered in a week-long seminar set out the technical, design, user and ethical challenges raised when actuators and electrical muscle stimulation let computers move our bodies.
+- How it works: Week-long expert seminar synthesised into grand challenges and a research agenda for bodily control.
+- Lens: Extended body, Body-mind unity, Body politics
+- Paper: https://doi.org/10.1145/3772318.3790606 (CHI 2026)
+- Video: https://www.youtube.com/watch?v=ysgZl9jEwtg
+- Project page: https://exertiongameslab.org/
+
+#### My(o) Action — Yudai Tanaka, Pedro Lopes (2026)
+- Type: Research prototype · Body & senses: Muscle tension (EMG), Electrical stimulation (EMS, GVS), Movement & kinesthesia
+- Idea: When the machine only follows the body's first impulse, speed-up and agency stop being a trade-off: the action is accelerated and still mine.
+- What it is: The user's own muscle signal, read by EMG at the first onset of a movement, triggers muscle stimulation within 290 microseconds, so the movement finishes faster than the person could alone yet starts from their intention.
+- How it works: Low-latency loop from surface EMG onset detection to EMS on the same muscle, with no external sensors or timing calibration; reaction-time and agency study.
+- Lens: Extended body, Body-mind unity
+- Paper: https://doi.org/10.1145/3772318.3791103 (CHI 2026)
+- Video: https://www.youtube.com/watch?v=M0EVjipRmPU
+- Images: https://lab.plopes.org/project-thumbnails/CHI26-MyoAction.jpg
+- Project page: https://lab.plopes.org/projects/agency.html
+
+#### Primed Action — Yudai Tanaka, Pedro Lopes (2025)
+- Type: Research prototype · Body & senses: Brain (EEG), Movement & kinesthesia
+- Idea: Help can be given before the body moves rather than instead of it: speeding up the person's own intention preserves agency better than moving the muscle for them.
+- What it is: Instead of forcing a faster reaction with muscle stimulation, subthreshold magnetic stimulation of the motor cortex 'primes' the neurons so the user moves faster by themselves, and feels the action as their own.
+- How it works: Subthreshold transcranial magnetic stimulation of the motor cortex that raises neural excitability without triggering movement; study compared reaction time and sense of agency against EMS-based Preemptive Action, with VR sports-training demos.
+- Lens: Body-mind unity, Extended body
+- Paper: https://doi.org/10.1145/3746059.3747634 (UIST 2025)
+- Video: https://www.youtube.com/watch?v=FpyPQ6JZDWM
+- Images: https://lab.plopes.org/project-thumbnails/UIST25-PrimedAction.jpg
+- Project page: https://lab.plopes.org/projects/agency.html
+- Code: https://github.com/humancomputerintegration/PrimedAction
+
+#### Vestibular Stimulation Enhances Hand Redirection — Kensuke Katori, Yudai Tanaka, Pedro Lopes (2025)
+- Type: Research prototype · Body & senses: Electrical stimulation (EMS, GVS), Posture, balance & proprioception
+- Idea: Where the hand feels to be depends on balance: the sense of the whole body's sway and the sense of one limb's position are one felt system.
+- What it is: While VR quietly shifts where the virtual hand appears, galvanic vestibular stimulation makes the body sway slightly in the same direction, so users accept larger hand offsets without noticing.
+- How it works: Galvanic vestibular stimulation behind the ears synchronised with VR hand redirection; psychophysical detection thresholds rose by about 45–55%.
+- Lens: Extended body, Estrangement
+- Paper: https://doi.org/10.1145/3746059.3747776 (UIST 2025)
+- Video: https://www.youtube.com/watch?v=tpcovBqYYAo
+- Images: https://lab.plopes.org/project-thumbnails/UIST25-GVSHandRedirection.jpg
+- Project page: https://lab.plopes.org
+
+#### What if the “I” in HCI Stands for Integration? — Pedro Lopes (2025)
+- Type: Paper · Body & senses: Whole body-mind, Electrical stimulation (EMS, GVS), Brain (EEG)
+- Idea: Assistance only feels empowering if the body stays the one acting, so integration must be designed around the user's sense of agency.
+- What it is: A UIST vision talk and paper arguing that, as devices move from desks to wrists to skin, the next interfaces will integrate with muscles and brain to assist the body directly instead of replacing it with external robots.
+- How it works: Keynote-style vision talk at UIST 2025 with an adjunct paper, drawing on the lab's EMS, brain-stimulation and agency studies.
+- Lens: Extended body, Body-mind unity
+- Paper: https://doi.org/10.1145/3746058.3762829 (UIST 2025 Adjunct (Vision Talk))
+- Video: https://www.youtube.com/watch?v=S1snYMDqpXY
+- Images: https://lab.plopes.org/project-thumbnails/UIST25-Vision.png
+- Project page: https://vision.plopes.org/uist
+
 #### Haptic Source-Effector — Yudai Tanaka, Pedro Lopes (2024)
 - Type: Research prototype · Body & senses: Brain (EEG), Touch & pressure, Movement & kinesthesia
 - Idea: Touch can start at the brain and still be felt out in the limbs, which shows how the felt body is assembled centrally and projected outward.
@@ -2080,6 +2273,37 @@ Computers that move muscles, balance and reflexes (EMS, GVS): who is acting when
 - Video: https://www.youtube.com/watch?v=J4tJ1FZ-QoA
 - Project page: https://lab.plopes.org
 
+#### Full-hand Electro-Tactile Feedback without Obstructing the Palm — Yudai Tanaka, Pedro Lopes (2023)
+- Type: Research prototype · Body & senses: Electrical stimulation (EMS, GVS), Touch & pressure
+- Idea: A touch can be felt where nothing touches: the body places sensation along the nerve's map, which lets virtual touch coexist with real touch on the same skin.
+- What it is: Electrodes placed only on the back of the hand and sides of the fingers stimulate nerves so that touches are felt at 11 spots on the palm and fingertips, while the palm stays bare to hold real tools and props.
+- How it works: Electro-tactile stimulation of the nerves that serve the palm, delivered from the dorsal side; mapped perceived locations and tested dexterity with VR props and AR tools.
+- Lens: Technology that touches back, Extended body
+- Shown at: CHI 2023 Best Paper Award
+- Paper: https://doi.org/10.1145/3544548.3581382 (CHI 2023)
+- Video: https://www.youtube.com/watch?v=q6G8Htzq_gQ
+- Images: https://lab.plopes.org/project-thumbnails/CHI23-BackOfHandElectroTactile.png
+- Project page: https://lab.plopes.org
+- Code: https://github.com/humancomputerintegration/BOH-Electro-Tactile
+
+#### Temporal Dynamics of Brain Activity Predicting Sense of Agency over Muscle Movements — John P. Veillette, Pedro Lopes (2023)
+- Type: Paper · Body & senses: Brain (EEG), Electrical stimulation (EMS, GVS), Movement & kinesthesia
+- Idea: Agency is not fixed by who sent the motor command; the brain keeps deciding it over time, which is why a computer-moved hand can still feel like mine.
+- What it is: EEG recorded while muscle stimulation moved participants' muscles shows two neural processes behind feeling that a movement was one's own: an early sensorimotor response to the stimulation and a later, sustained signature of agency.
+- How it works: Human-in-the-loop Bayesian optimisation tuned EMS timing so that actuated movements were reliably felt as self-caused; trial-by-trial agency reports were predicted from time-resolved EEG decoding.
+- Lens: Body-mind unity, Extended body
+- Paper: https://doi.org/10.1523/jneurosci.1116-23.2023 (Journal of Neuroscience 2023)
+- Images: https://lab.plopes.org/project-thumbnails/JNeuro23-agencyEEG.jpg
+- Project page: https://lab.plopes.org/projects/agency.html
+
+#### The Placebo Effect of Human Augmentation — Steeven Villa, Albrecht Schmidt (2023)
+- Type: Paper · Body & senses: Brain (EEG), Whole body-mind
+- Idea: Expecting to be augmented already changes how one acts and what the brain does: augmentation is partly a lived belief of the body-mind, which also means claims about devices must be tested against placebo.
+- What it is: An experiment in which participants were told a brain–computer interface was boosting their cognition with inaudible sounds; nothing was played, yet their belief in improvement persisted, their risk-taking rose with expectation, and their EEG differed.
+- How it works: Between-condition study (n=30) with a sham BCI during the Columbia Card Task, Bayesian modelling of risk-taking and EEG event-related potentials.
+- Lens: Body-mind unity, First-person & felt experience
+- Paper: https://doi.org/10.1016/j.chb.2023.107787 (Computers in Human Behavior 2023)
+
 #### Toward Understanding the Design of Intertwined Human–Computer Integrations — Florian 'Floyd' Mueller, Nathan Semertzidis, Josh Andres (2023)
 - Type: Paper · Body & senses: Whole body-mind, Electrical stimulation (EMS, GVS), Movement & kinesthesia
 - Idea: When agency over one's body is shared, the question 'who moved?' becomes part of the experience, and designers can tune how aware the person is of the machine and how aligned it is with them.
@@ -2087,6 +2311,37 @@ Computers that move muscles, balance and reflexes (EMS, GVS): who is acting when
 - How it works: Three case studies (an EMS game, an eBike and a brain-computer system) analysed along two dimensions, awareness of the machine's agency and alignment of the machine's agency.
 - Lens: Extended body, Body-mind unity
 - Paper: https://doi.org/10.1145/3590766 (ACM TOCHI 2023)
+
+#### Understanding Perception of Human Augmentation: A Mixed-Method Study — Steeven Villa, Albrecht Schmidt (2023)
+- Type: Paper · Body & senses: Whole body-mind, New & substituted senses, Extra limbs & body extensions
+- Idea: Augmentation is judged socially: the same device reads as repair or as unfair enhancement depending on whose body wears it, so designing augmentation is also designing how bodies are seen.
+- What it is: A study of how people see augmented humans: interviews (16) and an online survey (506) in four countries respond to scenarios of sensory, motor and cognitive augmentation for people with and without a disability.
+- How it works: Scenario-based interviews and a cross-cultural online study varying augmentation type and disability, analysed into design dimensions.
+- Lens: Extended body, Body politics
+- Paper: https://doi.org/10.1145/3544548.3581485 (CHI 2023)
+- Video: https://www.youtube.com/watch?v=9iBiynVrr74
+
+#### Electrical Head Actuation — Yudai Tanaka, Jun Nishida, Pedro Lopes (2022)
+- Type: Research prototype · Body & senses: Electrical stimulation (EMS, GVS), Movement & kinesthesia, Posture, balance & proprioception
+- Idea: Where you look is usually the most voluntary act there is; when a computer turns your head, attention itself becomes shared between you and the machine.
+- What it is: Electrical muscle stimulation of the neck turns the wearer's head left, right, up or down, so a system can point your gaze at an object or make you nod in sync with another person.
+- How it works: EMS on the neck muscles; characterised which muscles move the head robustly in yaw and pitch, measured accuracy toward targets and trajectories, then built AR guidance and two-person head-synchrony applications.
+- Lens: Extended body, Intercorporeality
+- Shown at: CHI 2022 Best Demo (People's Choice); SIGGRAPH 2022 Emerging Technologies
+- Paper: https://doi.org/10.1145/3491102.3501910 (CHI 2022)
+- Video: https://youtu.be/vqpH9gNGpts
+- Images: https://lab.plopes.org/project-thumbnails/CHI22-EHA.png
+- Project page: https://lab.plopes.org
+- Code: https://github.com/humancomputerintegration/electrical-head-actuation
+
+#### Human–Computer Integration: Towards Integrating the Human Body with the Computational Machine — Florian 'Floyd' Mueller, Nathan Semertzidis, Josh Andres, Rakesh Patibanda, Zhuying Li, Marianna Obrist, Pattie Maes, Kai Kunze, Jonathan Grudin (2022)
+- Type: Book & essay · Body & senses: Whole body-mind, Electrical stimulation (EMS, GVS), Extra limbs & body extensions
+- Idea: The field's own textbook moves the unit of design from the mind to the body: what matters is whether the integrated system feels like my body and my action, not only whether it performs.
+- What it is: A monograph by twenty researchers that sets out human–computer integration as a paradigm for integrating the human body with the computational machine, built on two dimensions, bodily agency and bodily ownership, and a list of open challenges.
+- How it works: Synthesis of the authors' Dagstuhl and CHI work and of wider HCInt systems (EMS, exoskeletons, ingestibles, GVS) into two dimensions and a set of challenges.
+- Lens: Extended body, Body-mind unity
+- Paper: https://doi.org/10.1561/1100000086 (Foundations and Trends in Human–Computer Interaction 2022)
+- Project page: https://www.exertiongameslab.org
 
 #### JIZAI Body — Masahiko Inami (2022)
 - Type: Paper · Body & senses: Extra limbs & body extensions, Whole body-mind, Movement & kinesthesia
@@ -2098,6 +2353,15 @@ Computers that move muscles, balance and reflexes (EMS, GVS): who is acting when
 - Images: https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/inami-erato/2ea56722-b49c-46e6-82e1-836af40f4d7b/9ea864a6c8efa2fa81a9ea43ef46d6ef.jpg
 - Project page: https://jizai-body.com
 
+#### On Eliciting a Sense of Self when Integrating with Computers — Valdemar Danry, Pat Pataranutaporn, Florian 'Floyd' Mueller, Pattie Maes, Sang-won Leigh (2022)
+- Type: Paper · Body & senses: Whole body-mind, Extra limbs & body extensions
+- Idea: Integration succeeds only when it reaches pre-reflective experience: ownership and agency together make a device part of 'me', which moves the goal from function to how the body-mind lives the device.
+- What it is: A paper observing that physically and functionally integrated systems are often not felt as part of the user and can even cause self-dissociation, and proposing phenomenological and cognitive-science measures to design for a sense of self.
+- How it works: Theoretical paper drawing on phenomenology (pre-reflective self-awareness) and cognitive science (body ownership, agency), with suggested metrics for evaluation.
+- Lens: Extended body, First-person & felt experience, Body-mind unity
+- Paper: https://doi.org/10.1145/3519391.3519414 (Augmented Humans 2022)
+- Project page: https://www.media.mit.edu/publications/on-eliciting-a-sense-of-self-when-integrating-with-computers/
+
 #### Parallel Adaptation — Adrien Verhulst, Shunichi Kasahara (2022)
 - Type: Paper · Body & senses: Movement & kinesthesia, Light & vision, Extra limbs & body extensions
 - Idea: One body-mind can hold two motor selves if the switch between them is clearly marked, a first step toward living in several bodies.
@@ -2107,6 +2371,24 @@ Computers that move muscles, balance and reflexes (EMS, GVS): who is acting when
 - Paper: https://doi.org/10.1109/ismar55827.2022.00031 (IEEE ISMAR 2022)
 - Video: https://www.youtube.com/watch?v=nXcPkRxc4SM
 
+#### The Sense of Agency in Emerging Technologies for Human–Computer Integration: A Review — Patricia Cornelio, Marianna Obrist (2022)
+- Type: Paper · Body & senses: Movement & kinesthesia, Electrical stimulation (EMS, GVS), Whole body-mind
+- Idea: Agency is a felt experience built from intention, movement and sensory feedback, first learned as an infant finds its thumb; when a computer moves the body, designers have to protect that feeling, not only the outcome.
+- What it is: A review, co-written with neuroscientist Patrick Haggard, of how the sense of agency, the feeling that my voluntary action caused an outcome, changes with technologies that augment the body (extra limbs, prostheses), the action (muscle actuation, intelligent assistance) or the outcome (VR illusions, crossmodal feedback).
+- How it works: Narrative review of agency research (intentional binding, comparator model) applied to HCInt technologies, with design implications.
+- Lens: Extended body, First-person & felt experience
+- Paper: https://doi.org/10.3389/fnins.2022.949138 (Frontiers in Neuroscience 2022)
+- Images: https://www.frontiersin.org/files/Articles/949138/fnins-16-949138-HTML-r2/image_m/fnins-16-949138-g001.jpg
+- Project page: https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2022.949138/full
+
+#### What We Talk About When We Talk About Human-Computer Integration — Nathan Semertzidis, Pedro Lopes, Kai Kunze, Florian 'Floyd' Mueller, Pattie Maes (2022)
+- Type: Paper · Body & senses: Whole body-mind
+- Idea: By 2022 integration names at least three things, shared agency, shared body and cybernetic coupling; asking which one a design means is the first step to asking how it feels.
+- What it is: A CHI 2022 panel, five years after the 'Integration vs Powerful Tools' debate, that brings together HCInt researchers and the cybernetician Paul Pangaro to ask what the essence of integration is, since each theorist now means something different by it.
+- How it works: Moderated panel with position statements and audience discussion.
+- Lens: Extended body, Body-mind unity
+- Paper: https://doi.org/10.1145/3491101.3516509 (CHI 2022 Extended Abstracts (Panel))
+
 #### Whose Touch is This? — Daisuke Tajima, Jun Nishida, Pedro Lopes, Shunichi Kasahara (2022)
 - Type: Paper · Body & senses: Electrical stimulation (EMS, GVS), Touch & pressure, Muscle tension (EMG)
 - Idea: Agency is a trade-off, not a switch: a computer can help the body and keep the feeling of authorship if assistance stays close to what the person was about to do.
@@ -2115,6 +2397,31 @@ Computers that move muscles, balance and reflexes (EMS, GVS): who is acting when
 - Lens: Extended body, First-person & felt experience
 - Paper: https://doi.org/10.1145/3489608 (ACM TOCHI 2022)
 - Video: https://www.youtube.com/watch?v=XWaPYYrG3Rw
+
+#### Altering Perceived Softness of Real Rigid Objects — Yujie Tao, Shan-Yuan Teng, Pedro Lopes (2021)
+- Type: Research prototype · Body & senses: Touch & pressure
+- Idea: Softness is not a property of the object alone: it is made in how the fingertip deforms, so changing the finger changes the world it touches.
+- What it is: A ring-like wearable squeezes the sides of the fingertip to limit how the fingerpad spreads, so a hard 3D-printed button or VR prop feels soft, while the middle of the fingerpad still touches the real surface.
+- How it works: Wearable actuator that restricts lateral fingerpad deformation while leaving the pad free; psychophysics study of perceived softness plus VR and physical-prop applications.
+- Lens: Technology that touches back, Estrangement
+- Shown at: UIST 2021 Best Paper Award; UIST 2021 Best Demo (Jury's Choice)
+- Paper: https://doi.org/10.1145/3472749.3474800 (UIST 2021)
+- Video: https://www.youtube.com/watch?v=I2BBV0JZ0ww
+- Images: https://lab.plopes.org/project-thumbnails/UIST21-SoftWearableIllusion.png
+- Project page: https://lab.plopes.org
+- Code: https://github.com/humancomputerintegration/alter-softness
+
+#### Back of the Hand EMS — Akifumi Takahashi, Jas Brooks, Pedro Lopes (2021)
+- Type: Research prototype · Body & senses: Electrical stimulation (EMS, GVS), Movement & kinesthesia
+- Idea: The more finely a computer can move your fingers, the more pressing the question of whose skill a played note belongs to.
+- What it is: A new electrode layout on the back of the hand stimulates the small muscles of the palm, letting a computer flex single fingers at the knuckle to play piano notes, drum rolls or guitar chords.
+- How it works: EMS of the interossei and lumbrical muscles via electrodes on the dorsal hand instead of the forearm; compared dexterity at the metacarpophalangeal joints with standard layouts.
+- Lens: Extended body, Technology that touches back
+- Shown at: CHI 2021 Best Paper Award; CHI 2021 Best Demo (People's Choice)
+- Paper: https://doi.org/10.1145/3411764.3445761 (CHI 2021)
+- Video: https://www.youtube.com/watch?v=C6rj64TgsDI
+- Images: https://lab.plopes.org/project-thumbnails/CHI21-BackHandEMS.jpg
+- Project page: https://lab.plopes.org
 
 #### Preserving Agency During Electrical Muscle Stimulation Training — Shunichi Kasahara, Jun Nishida, Pedro Lopes (2021)
 - Type: Paper · Body & senses: Electrical stimulation (EMS, GVS), Muscle tension (EMG), Movement & kinesthesia
@@ -2134,14 +2441,13 @@ Computers that move muscles, balance and reflexes (EMS, GVS): who is acting when
 - Paper: https://doi.org/10.1016/j.ijhcs.2021.102643 (International Journal of Human-Computer Studies 2021)
 - Video: https://www.youtube.com/watch?v=A49aAYMUd9M
 
-#### Neo-Noumena — Nathan Semertzidis, Florian 'Floyd' Mueller, Josh Andres (2020)
-- Type: Research prototype · Body & senses: Brain (EEG), Light & vision, Whole body-mind
-- Idea: Emotion read from the brain becomes something partners see and respond to together; participants got better at regulating each other's feelings, showing that neural data can support felt, shared attunement rather than only measurement.
-- What it is: Two people wear EEG headsets and mixed-reality headsets for three days; the system reads each person's emotional state and shows it to the other as animated graphics in mixed reality around them.
-- How it works: Consumer EEG with a machine-learning emotion classifier drives procedurally generated visuals in two head-mounted displays; field study with five pairs, emotional-competence measures and interviews.
-- Lens: Affective loops, Intercorporeality
-- Paper: https://doi.org/10.1145/3313831.3376599 (CHI 2020)
-- Video: https://www.youtube.com/watch?v=GbSzwxNmYz0
+#### Wearable Technologies as Extensions: A Postphenomenological Framework and Its Design Implications — Amon Rapp (2021)
+- Type: Paper · Body & senses: Whole body-mind, New & substituted senses
+- Idea: A wearable is designed well when it withdraws into lived experience and extends what one can perceive and do, a postphenomenological version of integration that starts from the lived body rather than the device.
+- What it is: A theory paper that looks at wearables 'from the inside': instead of listing their external properties, it treats them as extensions of a person's intentionality and introduces the 'extension relation' to describe how they change the way one relates to the world.
+- How it works: Postphenomenological analysis building on Ihde's human–technology relations, applied to examples of wearable design, with design considerations.
+- Lens: Extended body, First-person & felt experience, Body-mind unity
+- Paper: https://doi.org/10.1080/07370024.2021.1927039 (Human–Computer Interaction (journal) 2021)
 
 #### Next Steps for Human-Computer Integration — Florian 'Floyd' Mueller, Pedro Lopes (2020)
 - Type: Paper · Body & senses: Whole body-mind, Muscle tension (EMG)
@@ -2152,6 +2458,14 @@ Computers that move muscles, balance and reflexes (EMS, GVS): who is acting when
 - Paper: https://doi.org/10.1145/3313831.3376242 (CHI 2020)
 - Video: https://www.youtube.com/watch?v=qpwl2QiGhAI
 
+#### Human Augmentation: Past, Present and Future — Roope Raisamo (2019)
+- Type: Paper · Body & senses: Whole body-mind, New & substituted senses, Extra limbs & body extensions
+- Idea: The standard map of augmentation splits the person into senses, actions and cognition; reading from the soma means asking how these parts are felt together as one body.
+- What it is: A survey of human augmentation that sorts technologies into augmented senses, augmented action and augmented cognition, traces their history and discusses ethics and the future of augmented people.
+- How it works: Literature survey organised by a three-part taxonomy with historical background and an outlook section.
+- Lens: Extended body
+- Paper: https://doi.org/10.1016/j.ijhcs.2019.05.008 (International Journal of Human-Computer Studies 2019)
+
 #### Preemptive Action — Shunichi Kasahara, Jun Nishida (2019)
 - Type: Research prototype · Body & senses: Electrical stimulation (EMS, GVS), Muscle tension (EMG), Movement & kinesthesia
 - Idea: The sense of 'I did it' depends on timing: assistance that arrives in step with one's intention is felt as one's own movement.
@@ -2160,6 +2474,46 @@ Computers that move muscles, balance and reflexes (EMS, GVS): who is acting when
 - Lens: First-person & felt experience, Body-mind unity
 - Paper: https://doi.org/10.1145/3290605.3300873 (CHI 2019)
 - Video: https://www.youtube.com/watch?v=1BT8REEJibM
+
+#### Human-Computer Integration (Dagstuhl Seminar 18322) — Florian 'Floyd' Mueller, Pattie Maes, Jonathan Grudin (2018)
+- Type: Paper · Body & senses: Whole body-mind, Movement & kinesthesia
+- Idea: The seminar shifts integration from a partnership of minds to the body: besides functional performance it asks, citing phenomenology, how integrated systems are lived and what they do to the person's experience.
+- What it is: The report of a Dagstuhl seminar in which researchers on wearables, on-body robotics and exertion systems worked out what integrating computers with the human body means and how to design for it.
+- How it works: Dagstuhl seminar (August 2018) with talks, working groups and demos; report with abstracts and group outcomes.
+- Lens: Extended body, First-person & felt experience, Body-mind unity
+- Paper: https://drops.dagstuhl.de/entities/document/10.4230/DagRep.8.8.18 (Dagstuhl Reports 8(8), 2018)
+- Images: https://drops.dagstuhl.de/storage/04dagstuhl-reports/volume08/issue08/18322/thumbnails/DagRep.8.8.18/DagRep.8.8.18.png
+- Project page: https://www.dagstuhl.de/18322
+
+#### Augmenting Human Intellect and Amplifying Perception and Cognition — Albrecht Schmidt (2017)
+- Type: Paper · Body & senses: Whole body-mind, New & substituted senses
+- Idea: Augmentation moves from the desk onto the body: once sensing and output are worn, amplifying perception means changing how the world is felt, not only what the mind knows.
+- What it is: The first column of IEEE Pervasive Computing's Human Augmentation department, linking Engelbart's programme to wearables, ubiquitous sensing and AI that amplify perception, memory and cognition.
+- How it works: Position column surveying technologies for perceptual and cognitive amplification and outlining research directions.
+- Lens: Extended body
+- Paper: https://doi.org/10.1109/mprv.2017.8 (IEEE Pervasive Computing 2017)
+- Video: https://www.youtube.com/watch?v=fBAFg1HFI7w
+
+#### Haptics for Walls & Heavy Objects in VR via EMS — Pedro Lopes, Patrick Baudisch (2017)
+- Type: Research prototype · Body & senses: Electrical stimulation (EMS, GVS), Movement & kinesthesia, Touch & pressure
+- Idea: Weight and solidity can be felt from inside, as one's own muscles pulling back, without any object or exoskeleton in the room.
+- What it is: When a VR user pushes against a virtual wall or lifts a heavy virtual cube, electrodes on the arm contract the opposing muscles, so the hand stops at the wall and the cube feels heavy.
+- How it works: Wearable EMS on arm and shoulder muscles triggered by hand tracking in VR; stronger pushes produce stronger counterforce; studied designs for walls, buttons and heavy objects.
+- Lens: Technology that touches back, Extended body
+- Shown at: SIGGRAPH 2017 Studio
+- Paper: https://doi.org/10.1145/3025453.3025600 (CHI 2017)
+- Video: https://www.youtube.com/watch?v=OcSmCamMKfs
+- Images: https://lab.plopes.org/project-thumbnails/CHI17-EMS-Walls.jpeg
+- Project page: https://hpi.de/baudisch/projects/mobile-force-feedback.html
+
+#### Human Computer Integration versus Powerful Tools — Umer Farooq, Jonathan Grudin, Ben Shneiderman, Pattie Maes, Xiangshi Ren (2017)
+- Type: Paper · Body & senses: Whole body-mind
+- Idea: The founding debate of HCInt is about control: tool-makers fear losing it, integrationists welcome sharing it; neither side yet asks how shared control feels from inside the body.
+- What it is: A CHI 2017 panel in which Farooq, Grudin, Shneiderman, Maes and Ren debate whether HCI is moving from interaction to integration, and whether integration is desirable or undermines human self-efficacy, control and predictability.
+- How it works: Moderated panel debate, starting from Licklider's three phases of human-machine relation (interaction, symbiosis, ultra-intelligent machines).
+- Lens: Extended body, Body politics
+- Paper: https://doi.org/10.1145/3027063.3051137 (CHI 2017 Extended Abstracts (Panel))
+- Video: https://www.youtube.com/watch?v=6kbpmUAPRzI
 
 #### Hybrid Body Craft — Cindy Hsin-Liu Kao (2017)
 - Type: Method & toolkit · Body & senses: Touch & pressure, Extra limbs & body extensions, Light & vision
@@ -2170,6 +2524,14 @@ Computers that move muscles, balance and reflexes (EMS, GVS): who is acting when
 - Paper: https://doi.org/10.1109/mprv.2021.3079321 (IEEE Pervasive Computing 2021)
 - Video: https://www.youtube.com/watch?v=13xJIJd4R54
 - Project page: https://www.hybridbody.human.cornell.edu
+
+#### Hybrid-Augmented Intelligence: Collaboration and Cognition — Nanning Zheng (2017)
+- Type: Paper · Body & senses: Whole body-mind, Brain (EEG)
+- Idea: The main Chinese framing of human–machine integration joins human cognition and machine intelligence while leaving the body out; soma design asks what integration means when cognition is embodied.
+- What it is: A survey that sets out 'hybrid-augmented intelligence': AI that keeps humans in the loop of decisions, or embeds models of human cognition such as intuition and causal reasoning inside machine learning.
+- How it works: Survey defining two models (human-in-the-loop collaboration; cognitive-computing-based augmentation) and reviewing their components and applications.
+- Lens: Extended body, Body-mind unity
+- Paper: https://doi.org/10.1631/fitee.1700053 (Frontiers of Information Technology & Electronic Engineering 2017)
 
 #### Malleable Embodiment — Shunichi Kasahara (2017)
 - Type: Research prototype · Body & senses: Movement & kinesthesia, Light & vision, Posture, balance & proprioception
@@ -2188,6 +2550,15 @@ Computers that move muscles, balance and reflexes (EMS, GVS): who is acting when
 - Lens: Intercorporeality, Care & healing
 - Paper: https://doi.org/10.1145/3025453.3025829 (CHI 2017)
 - Video: https://www.youtube.com/watch?v=vOyt4pA6wow
+
+#### Human-Computer Integration — Umer Farooq, Jonathan Grudin (2016)
+- Type: Paper · Body & senses: Whole body-mind
+- Idea: Integration is first defined as partnership between agents, not as a shared body; the essay sets the question of initiative and control that later bodily integration relocates into muscles and felt agency.
+- What it is: The Interactions essay that named the field: it argues that interaction, a stimulus-response exchange, is giving way to integration, a partnership or symbiotic relation in which computers also take initiative.
+- How it works: Essay tracing a continuum from interaction to integration through historical visions (Licklider, science fiction) and current systems.
+- Lens: Extended body, Body-mind unity
+- Paper: https://doi.org/10.1145/3001896 (ACM Interactions 2016)
+- Images: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Jonathan_Grudin.jpg/1280px-Jonathan_Grudin.jpg
 
 #### Muscle-plotter — Pedro Lopes (2016)
 - Type: Research prototype · Body & senses: Electrical stimulation (EMS, GVS), Muscle tension (EMG), Movement & kinesthesia
@@ -2238,6 +2609,28 @@ Computers that move muscles, balance and reflexes (EMS, GVS): who is acting when
 - Paper: https://doi.org/10.1145/2702123.2702461 (CHI 2015)
 - Video: https://www.youtube.com/watch?v=KMxIfj7zhlw
 
+#### Symbiotic Interaction: A Critical Definition and Comparison to other Human-Computer Paradigms — Giulio Jacucci (2014)
+- Type: Paper · Body & senses: Whole body-mind, Skin conductance & arousal, Brain (EEG)
+- Idea: Licklider's symbiosis is reread through the body's implicit signals: the computer partners with heartbeat, skin and brain activity, which raises the soma question of whether those signals are read as truth or felt as one's own.
+- What it is: The opening paper of the first Symbiotic Interaction workshop, defining symbiotic systems as ones that sense a person's physiological and behavioural signals, infer states and intentions, and adapt, and comparing this with ubiquitous, affective and physiological computing.
+- How it works: Critical definition and comparison with neighbouring paradigms (ubiquitous, affective, physiological and brain-computer computing), drawing on research on implicit physiological sensing.
+- Lens: Body data & ambiguity, Affective loops
+- Paper: https://doi.org/10.1007/978-3-319-13500-7_1 (Symbiotic Interaction (Symbiotic 2014), LNCS 8820)
+- Images: https://media.springernature.com/full/springer-static/cover-hires/book/978-3-319-13500-7
+- Project page: https://link.springer.com/book/10.1007/978-3-319-13500-7
+
+#### Muscle-Propelled Force Feedback — Pedro Lopes, Patrick Baudisch (2013)
+- Type: Research prototype · Body & senses: Electrical stimulation (EMS, GVS), Movement & kinesthesia
+- Idea: The first step of Lopes's line of work: the actuator is the wearer's own muscle, so the force you feel is produced by your body against itself.
+- What it is: A phone-sized device with no motors: it sends current through four electrodes on the forearm so the user's own muscles tilt the phone, and the user feels force feedback while resisting with the other arm.
+- How it works: Electrical muscle stimulation of the forearm driven from the back of a mobile phone; a game tilts the device involuntarily and the user counters with the other hand.
+- Lens: Technology that touches back, Extended body
+- Shown at: IEEE World Haptics 2013, People's Choice Best Demo nomination
+- Paper: https://doi.org/10.1145/2470654.2481355 (CHI 2013)
+- Video: https://www.youtube.com/watch?v=swmGaGT8lvs
+- Images: https://lab.plopes.org/project-thumbnails/CHI13-MPFF.jpg
+- Project page: https://lab.plopes.org
+
 #### TELESAR V — Susumu Tachi, Kouta Minamizawa (2012)
 - Type: Research prototype · Body & senses: Touch & pressure, Light & vision, Movement & kinesthesia
 - Idea: Telexistence shows that presence depends on closing the loop of seeing, moving and touching; with it, the self can be felt in a distant body.
@@ -2264,6 +2657,394 @@ Computers that move muscles, balance and reflexes (EMS, GVS): who is acting when
 - Lens: Estrangement, Technology that touches back
 - Paper: https://doi.org/10.1145/1187297.1187315 (SIGGRAPH 2005 Emerging Technologies)
 - Video: https://www.youtube.com/watch?v=jPeWwvsnaaQ
+
+### Brain–Computer Interfaces & Neurofeedback
+
+EEG, implants and neurofeedback: brains that move cursors, limbs and art, feel touch back, or sync with other brains — and whether the mind is really in the head.
+
+#### EmoPals — Siyi Liu, Nathan Semertzidis, Florian 'Floyd' Mueller (2025)
+- Type: Research prototype · Body & senses: Brain (EEG), Electrical stimulation (EMS, GVS), Muscle tension (EMG)
+- Idea: Emotion passed brain to face shows that feelings live in the body: it strengthened empathy but also spread negative moods and social discomfort, side effects a demo would hide.
+- What it is: A 'telepathy' system for two people: when a BCI detects one person's happiness, electrical muscle stimulation makes the other person's face smile, and the other way round; pairs lived with it for five days.
+- How it works: EEG-based emotion detection on one wearer drives facial EMS on the other; five-day field study with 12 participants and interviews, yielding five design recommendations for superpower design.
+- Lens: Intercorporeality, Affective loops, Body politics
+- Paper: https://doi.org/10.1145/3715336.3735699 (DIS 2025)
+- Video: https://www.youtube.com/watch?v=jM6l12MasIc
+- Project page: https://exertiongameslab.org
+
+#### LuciEntry — Po-Yao (Cosmos) Wang, Nathan Semertzidis, Florian 'Floyd' Mueller (2024)
+- Type: Research prototype · Body & senses: Brain (EEG), Light & vision, Voice, sound & listening
+- Idea: It designs for an altered state lived from the inside, where the cue has to be felt within sleep without waking the body.
+- What it is: A portable prototype that helps people have lucid dreams: an app guides pre-sleep training, and during the night the system detects the sleep stage and plays timed light and sound cues meant to make the sleeper aware they are dreaming.
+- How it works: Sleep-stage sensing (likely EEG) triggers visual and auditory cues automatically; lab and field studies with interviews, leading to seven design considerations for lucid dream systems.
+- Lens: Attunement & appreciation, First-person & felt experience
+- Paper: https://doi.org/10.1145/3715336.3735790 (DIS 2025)
+- Video: https://www.youtube.com/watch?v=qInl7UzuqPU
+- Project page: https://exertiongameslab.org
+
+#### Neuralink N1 Implant (PRIME Study) — Neuralink (2024)
+- Type: Product & app · Body & senses: Brain (EEG), Movement & kinesthesia
+- Idea: For its user it restores independence, but the company's framing of the brain as the whole person to be upgraded is dualist; the body appears only as something to bypass.
+- What it is: In January 2024 Noland Arbaugh, paralysed below the shoulders, became the first person to receive Neuralink's wireless N1 implant; he controls a laptop cursor by intending hand movements and plays chess and video games with it.
+- How it works: 1,024 electrodes on 64 flexible threads inserted into motor cortex by a surgical robot; the sealed implant streams data over Bluetooth to decoding software; early in the trial some threads retracted from the brain.
+- Lens: Extended body, Body politics, Body data & ambiguity
+- Paper: https://doi.org/10.2196/16194 (Journal of Medical Internet Research 2019)
+- Video: https://www.youtube.com/watch?v=mIAsUkJZbow
+- Images: https://neuralink.com/assets/static/homepage.CQ861ZM0.jpg
+- Project page: https://neuralink.com
+
+#### PsiNet — Nathan Semertzidis, Florian 'Floyd' Mueller (2024)
+- Type: Research prototype · Body & senses: Brain (EEG), Electrical stimulation (EMS, GVS)
+- Idea: Participants described hyper-awareness, a changed way of relating and a 'dissolution of self', showing that coupling brains is felt as a change in the whole relational body-mind.
+- What it is: The first wearable brain-to-brain system for everyday settings: two people wear headsets that sense brain activity and stimulate the brain to increase their inter-brain synchrony as they spend time together.
+- How it works: Mobile EEG sensing combined with transcranial electrical stimulation (likely tACS) to modulate synchrony between two wearers; in-the-wild study with interviews, yielding three experience themes and three design tactics.
+- Lens: Intercorporeality, Body-mind unity, First-person & felt experience
+- Paper: https://doi.org/10.1145/3613904.3641983 (CHI 2024)
+- Video: https://www.youtube.com/watch?v=kyTDRF9_3cQ
+- Project page: https://exertiongameslab.org
+
+#### A high-performance neuroprosthesis for speech decoding and avatar control — Sean L. Metzger, Edward F. Chang (2023)
+- Type: Paper · Body & senses: Brain (EEG), Voice, sound & listening
+- Idea: Speech is a bodily act of face, breath and voice; restoring it means giving back an expressive face and one's own voice, not only words per minute.
+- What it is: Ann Johnson, unable to speak after a brainstem stroke, silently attempted sentences while a grid on her speech cortex was decoded into text, a synthesised voice built from a recording of her pre-injury voice, and a talking avatar face with expressions.
+- How it works: 253-electrode high-density ECoG array over speech motor cortex; deep-learning decoders for text, speech audio and orofacial avatar movements, trained in under two weeks.
+- Lens: Extended body, Care & healing
+- Paper: https://doi.org/10.1038/s41586-023-06443-4 (Nature 2023)
+- Video: https://www.youtube.com/watch?v=vL7yMn6kiMg
+- Images: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06443-4/MediaObjects/41586_2023_6443_Fig1_HTML.png
+- Project page: https://changlab.ucsf.edu
+
+#### Brain-Computer Integration: A Framework for the Design of Brain-Computer Interfaces from an Integrations Perspective — Nathan Semertzidis, Florian 'Floyd' Mueller (2023)
+- Type: Paper · Body & senses: Brain (EEG), Whole body-mind
+- Idea: Designing BCIs for integration means designing for states people live through, not commands they issue; the brain is treated as part of a feeling, social body.
+- What it is: A design framework that moves BCI from command-and-response interaction to integration, where the system works with the brain's ongoing processes of sleep, emotion and social connection, illustrated by Inter-Dream, Neo-Noumena and PsiNet.
+- How it works: Conceptual framework derived from three prototype studies from the Exertion Games Lab, organised around dimensions of how system and user share agency and awareness.
+- Lens: Body-mind unity, Extended body
+- Paper: https://doi.org/10.1145/3603621 (ACM Transactions on Computer-Human Interaction 2023)
+- Project page: https://exertiongameslab.org
+
+#### NEO — Bo Hong (2023)
+- Type: Product & app · Body & senses: Brain (EEG), Movement & kinesthesia
+- Idea: It keeps the device outside the brain tissue and aims at the person's own hand; the goal is a body that can hold a cup again, not a mind that runs a computer.
+- What it is: A wireless, battery-free implant placed outside the dura over the hand area of the sensorimotor cortex lets people with tetraplegia from spinal cord injury open and close their own hand in a pneumatic glove by intending to grasp, for example to drink by themselves. In March 2026 China's National Medical Products Administration approved the implant system developed by Hong Bo's team for market, reported by China News Service as the world's first approved invasive BCI medical device.
+- How it works: Eight platinum-iridium epidural electrodes in a coin-sized implant powered and read wirelessly through the scalp; decoded grasp intentions drive a pneumatic glove, developed by Bo Hong's team at Tsinghua University.
+- Lens: Care & healing, Extended body
+- Paper: https://doi.org/10.1101/2025.10.06.25337264 (medRxiv 2025)
+- Video: https://www.youtube.com/watch?v=S4gKIhp8Jd8
+
+#### Walking naturally after spinal cord injury using a brain–spine interface — Henri Lorach, Grégoire Courtine (2023)
+- Type: Paper · Body & senses: Brain (EEG), Movement & kinesthesia, Electrical stimulation (EMS, GVS)
+- Idea: Walking returns through the body's own spinal circuits and legs, and the nervous system relearns with it; he describes the movement as natural, not remote-controlled.
+- What it is: Gert-Jan Oskam, paralysed after a cycling accident, stands, walks, climbs stairs and crosses rough ground by intending to move, as a wireless 'digital bridge' carries his motor-cortex signals to stimulators on his spinal cord; with training he recovered some walking even with the system off.
+- How it works: Two WIMAGINE epidural ECoG implants over motor cortex decode walking intentions that modulate an implanted epidural spinal cord stimulator in real time; one-year home use and neurorehabilitation.
+- Lens: Body-mind unity, Care & healing, Extended body
+- Paper: https://doi.org/10.1038/s41586-023-06094-5 (Nature 2023)
+- Video: https://www.youtube.com/watch?v=AARVY-3oDRQ
+- Images: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06094-5/MediaObjects/41586_2023_6094_Fig1_HTML.png
+- Project page: https://www.epfl.ch/labs/courtine-lab/
+
+#### A brain-computer interface that evokes tactile sensations improves robotic arm control — Sharlene N. Flesher, Robert A. Gaunt (2021)
+- Type: Paper · Body & senses: Brain (EEG), Touch & pressure, Extra limbs & body extensions
+- Idea: Moving well needs feeling: a two-way loop between action and touch works far better than a brain that only sends commands.
+- What it is: With touch from the robotic hand's sensors fed back into his somatosensory cortex, Nathan Copeland picked up and moved objects in about half the time he needed with vision alone.
+- How it works: Bidirectional BCI: motor-cortex arrays decode arm commands while torque sensors on the robotic fingers drive microstimulation in somatosensory cortex; standard hand-function tasks with and without feedback.
+- Lens: Technology that touches back, Body-mind unity, Extended body
+- Paper: https://doi.org/10.1126/science.abd0380 (Science 2021)
+- Project page: https://www.rnel.pitt.edu
+
+#### Ena: Peripheral Awareness as a Neurological State for Human-Computer Integration — Josh Andres, Nathan Semertzidis, Florian 'Floyd' Mueller (2020)
+- Type: Research prototype · Body & senses: Brain (EEG), Light & vision, Movement & kinesthesia
+- Idea: The machine is tuned to an internal bodily state rather than a command, so riding well and feeling safe become the same thing.
+- What it is: An EEG eBike that gives motor support only while the rider's brain activity indicates peripheral awareness, the wide field of view people lose when they feel threatened; when attention narrows, the bike stops helping.
+- How it works: Rider-worn EEG classified in real time for peripheral awareness regulates the eBike's engine assistance; study with 20 participants riding outdoors, analysed through interviews.
+- Lens: Body-mind unity, Extended body
+- Paper: https://doi.org/10.1145/3313831.3376128 (CHI 2020)
+- Video: https://www.youtube.com/watch?v=ccYM0AHaj0E
+- Project page: https://exertiongameslab.org
+
+#### Neo-Noumena — Nathan Semertzidis, Florian 'Floyd' Mueller, Josh Andres (2020)
+- Type: Research prototype · Body & senses: Brain (EEG), Light & vision, Whole body-mind
+- Idea: Emotion read from the brain becomes something partners see and respond to together; participants got better at regulating each other's feelings, showing that neural data can support felt, shared attunement rather than only measurement.
+- What it is: Two people wear EEG headsets and mixed-reality headsets for three days; the system reads each person's emotional state and shows it to the other as animated graphics in mixed reality around them.
+- How it works: Consumer EEG with a machine-learning emotion classifier drives procedurally generated visuals in two head-mounted displays; field study with five pairs, emotional-competence measures and interviews.
+- Lens: Affective loops, Intercorporeality
+- Paper: https://doi.org/10.1145/3313831.3376599 (CHI 2020)
+- Video: https://www.youtube.com/watch?v=GbSzwxNmYz0
+
+#### Restoring the Sense of Touch Using a Sensorimotor Demultiplexing Neural Interface — Patrick D. Ganzer (2020)
+- Type: Paper · Body & senses: Brain (EEG), Touch & pressure, Electrical stimulation (EMS, GVS)
+- Idea: The hand still speaks to the brain below the threshold of feeling; the interface amplifies the body's own touch instead of inventing a new one.
+- What it is: Ian Burkhart, whose own hand is moved by electrical stimulation from a forearm sleeve controlled by his motor-cortex implant, regained a sense of touch: faint touch signals from his hand, too weak to feel, were detected in his cortex and returned to him as vibration on his arm.
+- How it works: Utah array in primary motor cortex; decoders separate motor intention from residual touch signals; functional electrical stimulation sleeve reanimates the hand and vibrotactile feedback on the upper arm closes the loop.
+- Lens: Technology that touches back, Body-mind unity, Care & healing
+- Paper: https://doi.org/10.1016/j.cell.2020.03.054 (Cell 2020)
+- Video: https://www.youtube.com/watch?v=b_iMxYPe9Lw
+- Project page: https://www.battelle.org
+
+#### Stentrode — Synchron, Thomas J. Oxley (2020)
+- Type: Product & app · Body & senses: Brain (EEG), Movement & kinesthesia
+- Idea: Entering through the blood vessels instead of the skull changes the bodily bargain of a BCI: less surgery, fewer signals, more ordinary daily use.
+- What it is: An electrode array on a stent is threaded through the jugular vein into a blood vessel beside the motor cortex; people with ALS used it at home to click, type, text and shop online, with an eye tracker for pointing.
+- How it works: Self-expanding nitinol stent with 16 electrodes in the superior sagittal sinus, wired to a chest unit that transmits signals from attempted movements; first-in-human study with two participants.
+- Lens: Extended body, Care & healing
+- Paper: https://doi.org/10.1136/neurintsurg-2020-016862 (Journal of NeuroInterventional Surgery 2020)
+- Video: https://www.youtube.com/watch?v=mm95r05hui0
+- Images: https://upload.wikimedia.org/wikipedia/commons/8/8a/Stentrode_Device.jpg
+- Project page: https://synchron.com
+
+#### What is it like to use a BCI? – insights from an interview study with brain-computer interface users — Johannes Kögel (2020)
+- Type: Paper · Body & senses: Brain (EEG)
+- Idea: Users' own accounts show that emotions and mood affect BCI control; mind and feeling cannot be separated from the 'signal'.
+- What it is: Nine people who use BCIs for medical reasons describe themselves as active operators of a technology that gives them social participation and changes how they define themselves, and report moments when the system clashes with their feelings.
+- How it works: Semi-structured interviews analysed with grounded theory.
+- Lens: First-person & felt experience, Extended body
+- Paper: https://doi.org/10.1186/s12910-019-0442-2 (BMC Medical Ethics 2020)
+
+#### Inter-Dream — Nathan Semertzidis, Florian 'Floyd' Mueller (2019)
+- Type: Research prototype · Body & senses: Brain (EEG), Light & vision, Voice, sound & listening
+- Idea: Neurofeedback here is used to let go rather than to control; participants described mindful, playful self-exploration and reported less pre-sleep arousal.
+- What it is: A neurofeedback artwork for the edge of sleep: a person rests wearing an EEG headband while visuals and sound respond to their brain activity, guiding them toward rest.
+- How it works: Consumer EEG neurofeedback drives generative visuals and a soundscape while the person rests; lab study with 12 participants measuring pre-sleep arousal, emotion and EEG, plus interviews; made with artist Betty Sargeant.
+- Lens: Attunement & appreciation, Care & healing
+- Paper: https://doi.org/10.1145/3290605.3300804 (CHI 2019)
+- Video: https://www.youtube.com/watch?v=vr5g1CBB9qI
+- Project page: https://exertiongameslab.org
+
+#### Brain-to-Brain Synchrony Tracks Real-World Dynamic Group Interactions in the Classroom — Suzanne Dikker, Matthias Oostrik (2017)
+- Type: Paper · Body & senses: Brain (EEG)
+- Idea: Shared attention is built by bodies in a room, through face-to-face contact and engagement, not by brains in isolation.
+- What it is: Twelve high-school students wore portable EEG headsets through a semester of ordinary biology classes; the more engaged they were, the more their brainwaves synchronised, and pairs who had spent time face to face before class were more in sync during it.
+- How it works: Simultaneous portable EEG from a whole class over 11 sessions; total interdependence measures of inter-brain synchrony related to self-reported engagement and social closeness.
+- Lens: Intercorporeality, Attunement & appreciation
+- Paper: https://doi.org/10.1016/j.cub.2017.04.002 (Current Biology 2017)
+- Images: https://images.squarespace-cdn.com/content/v1/5542eef2e4b0f37cdc4dc093/453351b8-bd0f-4d0a-928e-fe455c10b16e/2_classroomEEG.jpg
+- Project page: https://www.suzannedikker.net/projects-1/gtq4rp7kp1avduvjlegcy6qcd3mn55
+
+#### Embodiment and Estrangement: Results from a First-in-Human “Intelligent BCI” Trial — Frederic Gilbert (2017)
+- Type: Paper · Body & senses: Brain (EEG), Pain & inner sensations
+- Idea: A BCI is lived by the whole person: the same device can be embodied as one's own or felt as a stranger inside, so felt experience must be designed for, not assumed.
+- What it is: Phenomenological interviews with six people with epilepsy who lived with an implanted device that predicted their seizures and warned them: for some it became part of themselves and increased their sense of control; for others it brought distress and a feeling of no longer being themselves.
+- How it works: Qualitative study grounded in phenomenology: in-depth semi-structured interviews with participants of the first-in-human trial of an implanted seizure advisory system.
+- Lens: First-person & felt experience, Estrangement, Extended body
+- Paper: https://doi.org/10.1007/s11948-017-0001-5 (Science and Engineering Ethics 2017)
+
+#### Four ethical priorities for neurotechnologies and AI — Rafael Yuste (2017)
+- Type: Paper · Body & senses: Brain (EEG)
+- Idea: Once devices read and write the brain, a person's sense of agency and identity becomes a design and legal question, not only a clinical one.
+- What it is: A Nature comment by a group of neuroscientists, clinicians, engineers and ethicists calling for protection of privacy and consent, agency and identity, fair access to augmentation, and against bias, as brain data and BCIs spread.
+- How it works: Position paper from the Morningside Group workshop; proposes neurorights and regulation of neural data; the video is a later talk by Yuste on neurorights.
+- Lens: Body politics, Body data & ambiguity
+- Paper: https://doi.org/10.1038/551159a (Nature 2017)
+- Video: https://www.youtube.com/watch?v=F33_Mvj43YY
+- Images: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2F551159a/MediaObjects/41586_2017_Article_BF551159a_Figa_HTML.jpg
+- Project page: https://neurorightsfoundation.org
+
+#### Intracortical microstimulation of human somatosensory cortex — Sharlene N. Flesher, Robert A. Gaunt (2016)
+- Type: Paper · Body & senses: Brain (EEG), Touch & pressure, Electrical stimulation (EMS, GVS)
+- Idea: Touch evoked in the brain is felt in the hand, not the head: the body map stays intact after injury and can be spoken to again.
+- What it is: Nathan Copeland, paralysed from the chest down, felt touch on specific fingers of his own paralysed hand when tiny currents were delivered through electrodes in his somatosensory cortex, including when a robotic hand was touched.
+- How it works: Two microelectrode arrays in the hand area of somatosensory cortex deliver patterned microstimulation; Copeland reported location, quality and intensity of the evoked sensations over months.
+- Lens: Technology that touches back, Extended body, Care & healing
+- Paper: https://doi.org/10.1126/scitranslmed.aaf8083 (Science Translational Medicine 2016)
+- Video: https://www.youtube.com/watch?v=L1bO-29FhMU
+- Images: https://www.rnel.pitt.edu/sites/default/files/slider-image/FistBumpRecruitment.jpg
+- Project page: https://www.rnel.pitt.edu
+
+#### Noor: A Brain Opera — Ellen Pearlman (2016)
+- Type: Performance, dance & music · Body & senses: Brain (EEG), Voice, sound & listening, Movement & kinesthesia
+- Idea: Displaying a mind as data raises the question the artist asks in its title: is there any part of a person that surveillance cannot reach?
+- What it is: A performer wearing a wireless EEG headset moves and sings in an immersive space while her brain data, read as emotional states, triggers video, sound and text around her; the audience watches her inner life being read.
+- How it works: Emotiv EEG emotion metrics mapped to media cues in a 360-degree environment, with a somatic movement director shaping the performer's movement (details likely per the 2016 Hong Kong production).
+- Lens: Body politics, Body data & ambiguity, Movement & expression
+- Paper: https://doi.org/10.1162/leon_a_01807 (Leonardo 2019)
+- Video: https://www.youtube.com/watch?v=URv_iz631Y0
+
+#### A Direct Brain-to-Brain Interface in Humans — Rajesh P. N. Rao (2014)
+- Type: Paper · Body & senses: Brain (EEG), Movement & kinesthesia, Electrical stimulation (EMS, GVS)
+- Idea: The receiver feels his hand move without having chosen to, a sharp case of shared agency that shows how thin 'telepathy' is compared with ordinary bodily communication.
+- What it is: In a cooperative game, a 'sender' imagines moving his hand; the EEG signal is sent over the internet and delivered by magnetic stimulation to the motor cortex of a 'receiver' in another building, whose finger twitches to press a touchpad.
+- How it works: EEG motor-imagery detection at the sender; transcranial magnetic stimulation over the receiver's hand motor cortex; six participants in three pairs, first demonstrated in August 2013.
+- Lens: Intercorporeality, Extended body
+- Paper: https://doi.org/10.1371/journal.pone.0111332 (PLOS ONE 2014)
+- Video: https://www.youtube.com/watch?v=rNRDc714W5I
+- Images: https://journals.plos.org/plosone/article/figure/image?size=inline&id=10.1371/journal.pone.0111332.g001
+- Project page: https://homes.cs.washington.edu/~rao/brain2brain/
+
+#### E.E.G. KISS — Lancel & Maat (2014)
+- Type: Performance, dance & music · Body & senses: Brain (EEG), Touch & pressure
+- Idea: The kiss stays a felt act between two bodies; the data version shows how much of intimacy escapes measurement and who owns what is recorded.
+- What it is: Couples and strangers kiss while wearing EEG headsets; their brain activity is turned live into shared visuals and sound for the kissers and the audience, asking whether a kiss can be measured, stored and shared.
+- How it works: Multi-brain EEG with a soundscape algorithm and projected data visualisation in a participatory performance-installation; developed with TU Delft and partners, including a 2014 residency at Tsinghua University's neuro-engineering lab.
+- Lens: Intercorporeality, Body politics, Body data & ambiguity
+- Shown at: Beyond Biennial, Amsterdam, 2014; HeK Basel, Future Love
+- Paper: https://doi.org/10.1007/978-3-030-14323-7_7 (Brain Art (Springer, 2019))
+- Video: https://www.youtube.com/watch?v=Ds-HXCYhHIo
+- Images: https://lancelmaat.nl/site/assets/files/1192/eegkissstillhighres2.jpg https://lancelmaat.nl/site/assets/files/1183/eegkissviennadsc05023lowres.jpg
+- Project page: https://lancelmaat.nl/work/e.e.g-kiss/
+
+#### Muse — InteraXon (2014)
+- Type: Product & app · Body & senses: Brain (EEG), Voice, sound & listening
+- Idea: It makes a quiet mind audible so it can be practised, but it scores calm as a number; attention to breath and body can easily turn into chasing a score.
+- What it is: A four-sensor EEG headband for meditation: while you sit with eyes closed, an app turns your brain activity into sound, rising wind when the mind is busy and calm weather and birdsong when it settles.
+- How it works: Dry forehead and behind-ear EEG electrodes stream over Bluetooth to a phone app that maps relative band power to soundscape changes; Muse 2 adds heart, breath and movement sensing.
+- Lens: Attunement & appreciation, Body data & ambiguity
+- Video: https://www.youtube.com/watch?v=oTZFphOovRk
+- Images: https://choosemuse.com/cdn/shop/files/Shopify-Preview_1200x.png?v=1753110109
+- Project page: https://choosemuse.com
+
+#### Eunoia — Lisa Park (2013)
+- Type: Performance, dance & music · Body & senses: Brain (EEG), Vibration & haptics, Voice, sound & listening
+- Idea: Her feelings become visible in water in front of an audience, so the performance is a practice of meeting one's own emotions rather than hiding them.
+- What it is: Park sits among water-filled metal dishes on loudspeakers wearing an EEG headset; sounds generated from her emotional states make the water ripple and splash, so the calmer she becomes, the stiller the water. Eunoia II (2014) expands this to 48 pools after the emotions in Spinoza's Ethics.
+- How it works: Emotiv EEG headset values (such as frustration, excitement, meditation) mapped in real time to volume, speed and panning of sound driving speaker-mounted water dishes.
+- Lens: Affective loops, Attunement & appreciation, First-person & felt experience
+- Video: https://www.youtube.com/watch?v=ZXMXqULrEWg
+- Images: http://static1.squarespace.com/static/5d80747c843cc1282b82d420/5d80769988353d1b2d069fb9/5d825f8b8637a727e65aabfc/1569218865299/eunoia.jpg?format=1500w https://images.squarespace-cdn.com/content/v1/5d80747c843cc1282b82d420/1568868323990-F91211HPGM6URC6A0L1B/eunoiaii.jpg
+- Project page: https://www.thelisapark.com/work/eunoia
+
+#### Mutual Wave Machine — Suzanne Dikker, Matthias Oostrik (2013)
+- Type: Artwork & installation · Body & senses: Brain (EEG), Light & vision, Voice, sound & listening
+- Idea: Closeness is made tangible as a shared environment that two people can feel themselves approach or drift from together.
+- What it is: Two visitors sit face to face inside an intimate capsule; the more their brainwaves synchronise, the more vivid and coherent the projected light and sound become, while falling out of sync dissolves it into dark noise.
+- How it works: Emotiv EEG headsets, inter-brain synchrony computed in real time and mapped to projected audiovisuals inside a capsule; presented by the Marina Abramović Institute Art+Science programme and shown at EYE Amsterdam.
+- Lens: Intercorporeality, Affective loops
+- Shown at: EYE Film Institute, Amsterdam, 2013
+- Video: https://www.youtube.com/watch?v=nmMy42SuBns
+- Images: https://images.squarespace-cdn.com/content/v1/5542eef2e4b0f37cdc4dc093/1450295095558-DBA7XSM7F49K87VUQ9BX/mwm.jpeg
+- Project page: https://www.suzannedikker.net/projects-1/art-science-education
+
+#### My Virtual Dream — Natasha Kovacevic (2013)
+- Type: Artwork & installation · Body & senses: Brain (EEG), Light & vision, Voice, sound & listening
+- Idea: Learning to settle happened in company and in about a minute, suggesting that attunement is shaped by the shared setting as much as by the individual brain.
+- What it is: At Toronto's Nuit Blanche, groups of visitors in a large dome wore EEG headsets and played a collective neurofeedback game, relaxing and concentrating to shape projected images and live music; 523 people took part in one night.
+- How it works: Wireless EEG neurofeedback on relative alpha and beta power, in groups inside a projection dome with musicians; data analysed as a large-sample study at Baycrest's Rotman Research Institute.
+- Lens: Attunement & appreciation, Intercorporeality, Body data & ambiguity
+- Shown at: Scotiabank Nuit Blanche, Toronto, 2013
+- Paper: https://doi.org/10.1371/journal.pone.0130129 (PLOS ONE 2015)
+- Video: https://www.youtube.com/watch?v=iMZ0K-xOPPI
+- Images: https://journals.plos.org/plosone/article/figure/image?size=inline&id=10.1371/journal.pone.0130129.g001
+
+#### OpenBCI and Galea — OpenBCI (2013)
+- Type: Product & app · Body & senses: Brain (EEG), Muscle tension (EMG), Skin conductance & arousal
+- Idea: Open, cheap brain sensing moved BCI from clinics into studios, where the brain is read together with muscles, skin and heart as one sensing body.
+- What it is: Low-cost, open-source boards and 3D-printable headsets that let artists, students and researchers record EEG, muscle and heart signals themselves; Galea later combined EEG, EMG, skin conductance, pulse and eye tracking in a mixed-reality headset.
+- How it works: Cyton and Ganglion biosensing boards built on the ADS1299 amplifier chip with open GUI software; Galea integrates multimodal sensors into a Varjo headset.
+- Lens: Body data & ambiguity, Extended body
+- Video: https://www.youtube.com/watch?v=4P5JcA0tB9w
+- Images: http://openbci.com/images/frontCarousel/UC-production-1140x424.jpg https://galea.co/og.jpeg
+- Project page: https://openbci.com
+
+#### Brain Pulse Music — Masaki Batoh (2012)
+- Type: Performance, dance & music · Body & senses: Brain (EEG), Voice, sound & listening
+- Idea: Brainwave sound is set inside ritual and mourning, where listening to one's own brain is meant as a way toward inner quiet rather than control.
+- What it is: An album and live performances in which a box built by Batoh turns the brainwaves of performers and test subjects into sound, alongside traditional Japanese ritual melodies offered as a prayer for the victims of the 2011 Great East Japan Earthquake.
+- How it works: Custom 'BPM' device, described as no more complex than a guitar effects pedal, converts EEG into audio; one track uses two BPM machines at once; released on Drag City.
+- Lens: Attunement & appreciation, Care & healing
+- Video: https://www.youtube.com/watch?v=XI4Mge8nLMw
+- Images: https://www.dragcity.com/uploads/products/1940/images/782/large_DC471.jpg
+- Project page: https://www.dragcity.com/products/brain-pulse-music
+
+#### BrainGate: Reach and grasp with a neurally controlled robotic arm — Leigh R. Hochberg (2012)
+- Type: Paper · Body & senses: Brain (EEG), Extra limbs & body extensions, Movement & kinesthesia
+- Idea: The coffee sip matters because it closes a loop through her own mouth and taste; the robot arm becomes meaningful when it returns something to the felt body.
+- What it is: Two people paralysed by brainstem stroke reached and grasped with a robotic arm controlled from their motor cortex; Cathy Hutchinson brought a bottle of coffee to her mouth and drank, her first self-directed drink in about 15 years.
+- How it works: 96-channel intracortical array decoded into continuous 3D arm and hand commands for DLR and DEKA robotic arms; one array had been implanted five years earlier.
+- Lens: Extended body, Care & healing
+- Paper: https://doi.org/10.1038/nature11076 (Nature 2012)
+- Video: https://www.youtube.com/watch?v=ogBX18maUiM
+- Images: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature11076/MediaObjects/41586_2012_Article_BFnature11076_Fig1_HTML.jpg
+- Project page: https://www.braingate.org
+
+#### Measuring the Magic of Mutual Gaze — Marina Abramović, Suzanne Dikker, Matthias Oostrik (2011)
+- Type: Artwork & installation · Body & senses: Brain (EEG), Light & vision
+- Idea: Presence between two people is felt first and measured second; the visualisation points to a connection the gaze already makes.
+- What it is: Restaging Abramović's The Artist Is Present as an installation and experiment: two visitors sit facing each other in silent eye contact for 30 minutes while both wear EEG headsets, and moments when their brainwaves synchronise appear as lightning between two model brains.
+- How it works: Two wireless EEG headsets recorded simultaneously; real-time inter-brain synchrony visualised as animated connections; shown at Garage Center for Contemporary Culture, Moscow, in Abramović's retrospective.
+- Lens: Intercorporeality, Attunement & appreciation
+- Shown at: Marina Abramović: The Artist Is Present, Garage CCC, Moscow, 2011
+- Video: https://www.youtube.com/watch?v=Ut9oPo8sLJw
+- Images: https://images.squarespace-cdn.com/content/v1/5542eef2e4b0f37cdc4dc093/1445464973009-L0HG5YQ8YZD3HKOYYV6O/image-asset.jpeg
+- Project page: https://www.suzannedikker.net/projects-1/2015/10/21/measuring-the-magic-of-mutual-gaze
+
+#### necomimi — neurowear (2011)
+- Type: Product & app · Body & senses: Brain (EEG), Extra limbs & body extensions
+- Idea: Brain states shown as a playful extra body part, visible to others, become social expression you cannot fully control, like a blush.
+- What it is: A headband with motorised cat ears that perk up when the wearer concentrates and droop when they relax, read from a forehead EEG sensor.
+- How it works: NeuroSky single-channel EEG sensor with ear clip; attention and meditation indices drive servo motors in the ears.
+- Lens: Affective loops, Pleasure & play, Body data & ambiguity
+- Shown at: Prix Ars Electronica 2013, Interactive Art, Honorary Mention
+- Images: https://neurowear.com/wp-content/uploads/2021/03/necomimi_-project.png
+- Project page: https://neurowear.com
+
+#### Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness — Alva Noë (2009)
+- Type: Book & essay · Body & senses: Brain (EEG), Whole body-mind
+- Idea: The book is a direct counter to the idea behind many BCIs: if you are not your brain, reading the brain can never read the whole person.
+- What it is: Noë argues that consciousness is not something that happens inside the brain but something we do, as living bodies engaged with the world and with other people.
+- How it works: Philosophical argument drawing on enactive and sensorimotor theories of perception, neural plasticity and animal cognition.
+- Lens: Body-mind unity, Extended body
+- Paper: https://us.macmillan.com/books/9780809016488/outofourheads (Hill and Wang (Farrar, Straus and Giroux) 2009)
+- Video: https://www.youtube.com/watch?v=af3Vq-C1ck8
+- Images: https://upload.wikimedia.org/wikipedia/commons/5/56/Alva_No%C3%AB_%283419836383%29.jpg
+
+#### BrainGate: Neuronal ensemble control of prosthetic devices — Leigh R. Hochberg (2006)
+- Type: Paper · Body & senses: Brain (EEG), Movement & kinesthesia
+- Idea: Motor cortex still carries the intention to move years after the body stopped answering, but the loop here ends at a screen, not the felt body.
+- What it is: Matt Nagle, paralysed below the neck, used a 96-electrode array in his motor cortex to move a computer cursor, open email, operate a TV and open and close a prosthetic hand by imagining movement.
+- How it works: Utah microelectrode array implanted in the hand area of motor cortex; neuronal firing decoded into cursor and device commands in the first BrainGate pilot trial.
+- Lens: Extended body, Care & healing
+- Paper: https://doi.org/10.1038/nature04970 (Nature 2006)
+- Images: https://upload.wikimedia.org/wikipedia/commons/f/fd/BrainGate.jpg https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature04970/MediaObjects/41586_2006_Article_BFnature04970_Fig1_HTML.jpg
+- Project page: https://www.braingate.org
+
+#### Brain–computer interfaces for communication and control — Jonathan R. Wolpaw (2002)
+- Type: Paper · Body & senses: Brain (EEG), Movement & kinesthesia
+- Idea: A BCI is learned like a new motor skill; the person's brain-body adapts to the machine as much as the machine adapts to it.
+- What it is: A field-defining review describing BCIs as a new output channel for the nervous system, surveying EEG and implanted approaches, and stressing that user and system must adapt to each other.
+- How it works: Review of sensorimotor-rhythm, P300 and cortical-neuron BCIs; the video shows a person with spinal cord injury moving a cursor by modulating EEG rhythms with BCI2000 at the Wadsworth Center.
+- Lens: Body data & ambiguity, Care & healing
+- Paper: https://doi.org/10.1016/s1388-2457(02)00057-3 (Clinical Neurophysiology 2002)
+- Video: https://www.youtube.com/watch?v=zozOjmpD5Cw
+- Project page: https://www.bci2000.org
+
+#### On Being Invisible — David Rosenboom (1977)
+- Type: Performance, dance & music · Body & senses: Brain (EEG), Voice, sound & listening
+- Idea: Attention itself becomes the instrument; the performer shapes the music by how he listens, not by what he does.
+- What it is: A self-organising music performance in which a computer analyses Rosenboom's EEG, including brain responses to the sounds he hears, and reshapes the unfolding music according to what his attention picks out.
+- How it works: EEG and event-related potentials analysed in real time by a computer music system that treats shifts of attention as structural cues (likely as described in Rosenboom's 1990 'The Performing Brain'); documented at Western Front, Vancouver, 1977.
+- Lens: Attunement & appreciation, First-person & felt experience
+- Paper: https://doi.org/10.2307/3680116 (Computer Music Journal 1990)
+- Video: https://www.youtube.com/watch?v=FHOhbmFyUZg
+- Project page: https://www.davidrosenboom.com
+
+#### BrainWave Drawings — Nina Sobell (1973)
+- Type: Artwork & installation · Body & senses: Brain (EEG), Light & vision
+- Idea: Brain data is used to meet another person, not to command a machine: being 'on the same wavelength' becomes something two bodies practise together.
+- What it is: Two people sit together wearing EEG electrodes and watch a live oscilloscope figure made from both their brainwaves beside closed-circuit video of themselves, silently trying to make the shared drawing come together.
+- How it works: Two-channel EEG combined on an oscilloscope as a Lissajous-like figure, composited with closed-circuit video; shown from 1973 onwards, including at the Getty's California Video exhibition in 2008.
+- Lens: Intercorporeality, Body data & ambiguity
+- Shown at: California Video, Getty Museum, 2008
+- Paper: https://doi.org/10.1109/tcac.1989.697094 (Delicate Balance: Technics, Culture and Consequences (IEEE, 1989))
+- Video: https://www.youtube.com/watch?v=8S0aHAmaseI
+- Project page: https://ninasobell.com
+
+#### Toward Direct Brain-Computer Communication — Jacques J. Vidal (1973)
+- Type: Paper · Body & senses: Brain (EEG), Light & vision
+- Idea: The founding text treats the brain as a signal source for a computer; later soma-oriented work asks what this leaves out of the living, feeling person.
+- What it is: Vidal's review coined the term brain–computer interface and proposed that EEG signals, especially brain responses evoked by visual stimuli, could be read by a computer as a direct communication channel.
+- How it works: Literature review and research programme at UCLA's Brain-Computer Interface Laboratory on scalp EEG and visual evoked potentials as computer input.
+- Lens: Body data & ambiguity, Extended body
+- Paper: https://doi.org/10.1146/annurev.bb.02.060173.001105 (Annual Review of Biophysics and Bioengineering 1973)
+
+#### Music for Solo Performer — Alvin Lucier (1965)
+- Type: Performance, dance & music · Body & senses: Brain (EEG), Voice, sound & listening, Vibration & haptics
+- Idea: The piece can only be played by letting go: effort stops the sound, so the performer must attend to a calm, whole-body state rather than command anything.
+- What it is: The performer sits still with electrodes on his scalp; when he relaxes into alpha rhythm with eyes closed, the amplified brainwaves drive loudspeakers pressed against drums, gongs and cymbals, which buzz and rattle around the room.
+- How it works: Scalp EEG electrodes, amplifiers and band-pass filters send alpha-band signals to loudspeakers coupled to percussion; first performed at the Rose Art Museum, Brandeis University, with equipment from physicist Edmond Dewan.
+- Lens: Attunement & appreciation, Body-mind unity
+- Paper: https://doi.org/10.1017/s135577181300037x (Organised Sound 2014 (Straebel & Thoben))
+- Video: https://www.youtube.com/watch?v=bIPU2ynqy2Y
+- Images: https://upload.wikimedia.org/wikipedia/commons/1/1b/AlvinLucier-MusicForSoloPerformer-DenHaag2010.jpg
+- Project page: https://en.wikipedia.org/wiki/Alvin_Lucier
 
 ### Superhuman Sports, Augmented Play & Performance
 
@@ -2344,6 +3125,16 @@ Play, sport, performance and rituals with augmented, AI-read or shared bodies.
 - Paper: https://doi.org/10.1145/3411764.3445744 (CHI 2021)
 - Video: https://www.youtube.com/watch?v=KCnPPuS4kjA
 
+#### Towards Designing Bodily Integrated Play — Florian 'Floyd' Mueller, Zhuying Li, Yash Dhanpal Mehta, Josh Andres, Rakesh Patibanda (2020)
+- Type: Paper · Body & senses: Extra limbs & body extensions, Whole body-mind
+- Idea: When the machine becomes part of the body, play is no longer about controlling a device but about living with a changed body.
+- What it is: Proposes 'bodily integrated play', where the computer is worn on or inside the body, such as a robotic third arm or an ingestible sensor, and offers initial design strategies for it.
+- How it works: Design strategies drawn from the lab's own integrated play systems, including Arm-A-Dine and ingestible-sensor games.
+- Lens: Extended body, Pleasure & play
+- Paper: https://doi.org/10.1145/3374920.3374931 (TEI 2020)
+- Video: https://www.youtube.com/watch?v=IKC_3sm0MCY
+- Project page: https://exertiongameslab.org/
+
 #### Superhuman Sports — Masahiko Inami, Kai Kunze, Kouta Minamizawa (2015)
 - Type: Somatic practice · Body & senses: Movement & kinesthesia, Extra limbs & body extensions, Whole body-mind
 - Idea: If augmentation can level differences between bodies, sport becomes a way to explore what an extended body feels like in play rather than to rank bodies.
@@ -2378,6 +3169,17 @@ Artists who rebuild their own bodies with technology: Stelarc, Harbisson, Ribas,
 - Video: https://www.youtube.com/watch?v=6P0Vsg81Om0
 - Images: https://marcodonnarumma.com/live/wp-content/uploads/2018/03/Donnarumma-Pevere_Eingeweide_by-De-Angelis_2_web.jpg
 - Project page: https://marcodonnarumma.com/works/eingeweide/
+
+#### Ad Infinitum: A Parasite that Lives off Human Energy — Pedro Lopes, Patrick Baudisch (2016)
+- Type: Artwork & installation · Body & senses: Electrical stimulation (EMS, GVS), Movement & kinesthesia
+- Idea: It reverses the user and the used: the involuntary movement in your own arm is the moment you feel that a machine, not you, is acting through your body.
+- What it is: An installation that cuffs a visitor's arm and uses electrical muscle stimulation to make them turn a crank that feeds the machine; the only way out is to persuade another visitor to take your place.
+- How it works: Stand-alone installation with EMS units, electrodes, cuffs, energy-harvesting dynamos, pressure sensors and custom electronics; made with Robert Kovacs, Alexandra Ion and David Lindlbauer.
+- Lens: Body politics, Estrangement, More-than-human
+- Shown at: Ars Electronica 2017; Science Gallery Dublin, Humans Need Not Apply (2017); World Economic Forum Center for the Fourth Industrial Revolution, San Francisco (2017–18); Copernicus Science Centre, Przemiany Festival (2018); VIDA 16 Incentive Award
+- Video: https://www.youtube.com/watch?v=UsL48gkh3GI
+- Images: https://a-parasite.org/wp-content/uploads/2017/01/Ad-Infinitum-a-human-getting-trapped-in-the-cuffs-Arthur-Silber-photographer.jpg https://a-parasite.org/wp-content/uploads/2017/01/MG_9829.jpg https://a-parasite.org/wp-content/uploads/2017/02/ars-electronica-1-9.jpg
+- Project page: https://a-parasite.org/
 
 #### Corpus Nil — Marco Donnarumma (2016)
 - Type: Performance, dance & music · Body & senses: Muscle tension (EMG), Movement & kinesthesia, Light & vision
@@ -2771,6 +3573,18 @@ From natural-born cyborgs and the cyborg manifesto to transhumanism and its crit
 - Video: https://www.youtube.com/watch?v=Q9gis7-Jads
 - Images: https://covers.openlibrary.org/b/id/902702-L.jpg https://upload.wikimedia.org/wikipedia/commons/c/ce/Donna_Haraway_2006_%28cropped%29.jpg
 
+#### Augmenting Human Intellect: A Conceptual Framework — Douglas Engelbart (1962)
+- Type: Book & essay · Body & senses: Whole body-mind, Movement & kinesthesia, Light & vision
+- Idea: Engelbart's H-LAM/T system counts training and practice as part of augmentation, so a skilled, trained body belongs to the system, yet his goal remains the intellect; soma design keeps the training and changes the goal.
+- What it is: An SRI report defining augmentation as the whole system of 'artifacts, language, methodology and training' that raises a person's capacity to solve complex problems; its ideas were shown live in the 1968 'Mother of All Demos' with mouse, chord keyset and hypertext.
+- How it works: Conceptual framework report for the US Air Force Office of Scientific Research, later built out at SRI's Augmentation Research Center (NLS, mouse, chord keyset) and demonstrated publicly in 1968.
+- Lens: Extended body, Body-mind unity
+- Shown at: The Mother of All Demos, Fall Joint Computer Conference, San Francisco 1968
+- Paper: https://doi.org/10.21236/ad0289565 (SRI Summary Report AFOSR-3223, 1962)
+- Video: https://www.youtube.com/watch?v=UhpTiWyVa6k
+- Images: https://upload.wikimedia.org/wikipedia/commons/0/04/SRI_Douglas_Engelbart_1968.jpg
+- Project page: https://www.dougengelbart.org/content/view/138
+
 #### Cyborgs and Space — Manfred Clynes, Nathan S. Kline (1960)
 - Type: Paper · Body & senses: Whole body-mind, Pain & inner sensations
 - Idea: The first cyborg was about homeostasis handled below awareness 'leaving man free to explore, to create, to think, and to feel'; the body is changed, not left behind.
@@ -2780,6 +3594,16 @@ From natural-born cyborgs and the cyborg manifesto to transhumanism and its crit
 - Paper: https://web.mit.edu/digitalapollo/Documents/Chapter1/cyborgs.pdf (Astronautics, September 1960)
 - Project page: https://en.wikipedia.org/wiki/Cyborg
 
+#### Man-Computer Symbiosis — J. C. R. Licklider (1960)
+- Type: Paper · Body & senses: Whole body-mind
+- Idea: Symbiosis divides labour between a thinking human and a calculating machine; the body appears only as a bottleneck of typing and reading, the mind-centred model that bodily integration later sets out to replace.
+- What it is: A short paper proposing that people and computers should work as partners in real time: humans set goals, form hypotheses and judge, while computers do the routine work that prepares the way for insight.
+- How it works: Conceptual paper based on Licklider's time-and-motion study of his own research work, with a list of technical requirements (time-sharing, memory, displays, speech).
+- Lens: Extended body, Body-mind unity
+- Paper: https://doi.org/10.1109/thfe2.1960.4503259 (IRE Transactions on Human Factors in Electronics 1960)
+- Images: https://upload.wikimedia.org/wikipedia/commons/e/e6/Portrait_of_J._C._R._Licklider.jpg
+- Project page: https://en.wikipedia.org/wiki/Man%E2%80%93Computer_Symbiosis
+
 #### Transhumanism — Julian Huxley (1957)
 - Type: Book & essay · Body & senses: Whole body-mind
 - Idea: Huxley's transhumanism is about unfolding the potential of human nature, including richer experience, not about leaving the body; later transhumanism narrowed this to technology.
@@ -2788,6 +3612,17 @@ From natural-born cyborgs and the cyborg manifesto to transhumanism and its crit
 - Lens: Body-mind unity
 - Paper: https://doi.org/10.1177/002216786800800107 (New Bottles for New Wine (Chatto & Windus, 1957); Journal of Humanistic Psychology 8(1), 1968)
 - Images: https://upload.wikimedia.org/wikipedia/commons/6/69/Hux-Oxon-72.jpg
+
+#### As We May Think — Vannevar Bush (1945)
+- Type: Book & essay · Body & senses: Whole body-mind, Light & vision
+- Idea: The first augmentation vision treats the mind as a filing system and the body only as the hand on a lever; the extension is of memory, not of the felt body, which is exactly the assumption soma design questions.
+- What it is: An essay in The Atlantic imagining the memex, a desk of microfilm, screens and levers that stores a person's books and notes and links them along 'associative trails', so that a machine extends human memory.
+- How it works: Speculative essay extrapolating from 1940s microfilm, photocells and vocoders to a personal associative memory machine.
+- Lens: Extended body, Body-mind unity
+- Paper: https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/ (The Atlantic Monthly, July 1945 (reprinted in ACM Interactions 1996))
+- Video: https://www.youtube.com/watch?v=c539cK58ees
+- Images: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Memex_at_Das_Netz_exhibition_of_Deutsches_Technikmuseum.jpg/1280px-Memex_at_Das_Netz_exhibition_of_Deutsches_Technikmuseum.jpg https://upload.wikimedia.org/wikipedia/commons/f/f6/Vannevar_Bush%2C_1938%2C_Harris_%26_Ewing_%28cropped%29.jpg
+- Project page: https://en.wikipedia.org/wiki/As_We_May_Think
 
 ## Affective Loops & Biodata
 
@@ -3011,6 +3846,28 @@ EDA, heart rate, EMG, EEG turned into felt experience: from biodata to somadata.
 
 Heartbeat, gut, breath and inner sensations made perceptible or altered.
 
+#### My Tummy Has a Little Dragon — Nandini Pasumarthy, Maria F. Montoya, Rakesh Patibanda, Rohit Ashok Khot, Florian 'Floyd' Mueller (2026)
+- Type: Paper · Body & senses: Pain & inner sensations, Voice, sound & listening
+- Idea: Making an ignored, even embarrassing, inner process audible opens a path to interoceptive awareness through reflection and care.
+- What it is: Participants wore a sensor that made their gut sounds audible for a week; hearing their digestion changed how they noticed, felt about and cared for their bodies.
+- How it works: Week-long in-the-wild qualitative study with ten participants using wearable gut-sound sensing; findings articulated as four bodily perspectives, such as registering, reacting and reflecting.
+- Lens: Attunement & appreciation, Body data & ambiguity, Care & healing
+- Paper: https://doi.org/10.1145/3772318.3790973 (CHI 2026)
+- Video: https://www.youtube.com/watch?v=BeV_flg8VgM
+- Project page: https://exertiongameslab.org/
+
+#### InsideOut — Zhuying Li, Florian 'Floyd' Mueller (2020)
+- Type: Research prototype · Body & senses: Pain & inner sensations, Light & vision
+- Idea: Seeing the inside of one's own body in real time makes the familiar body strange and invites a playful, less clinical relation to it.
+- What it is: A player swallows a medical imaging capsule and plays with the live video of their own gastrointestinal tract, shown on a wearable display.
+- How it works: Imaging capsule streaming gut video to a playful wearable system; in-the-wild study with players.
+- Lens: Estrangement, Body data & ambiguity
+- Shown at: DIS 2020 Best Paper Honorable Mention
+- Paper: https://doi.org/10.1145/3357236.3395484 (DIS 2020)
+- Video: https://www.youtube.com/watch?v=1_dR1OVr5Ts
+- Images: https://exertiongameslab.org/wp-content/uploads/2020/06/insideout.jpg https://exertiongameslab.org/wp-content/uploads/2020/07/holding.jpg
+- Project page: https://exertiongameslab.org/projects/insideout-ingestible-games
+
 #### Mettāmatics — George Poonkhin Khut (2020)
 - Type: Artwork & installation · Body & senses: Heartbeat, Breath
 - Idea: Feelings of compassion and gratitude have a bodily signature; a slow interface lets people sense that shift in themselves, a 'being as a way of doing'.
@@ -3041,6 +3898,17 @@ Heartbeat, gut, breath and inner sensations made perceptible or altered.
 - Video: https://vimeo.com/314159216
 - Images: https://nourahowell.com/static/img/1000px_wide/red_bench.jpg https://nourahowell.com/static/img/1000px_wide/hsbv3.jpg
 - Project page: https://nourahowell.com/projects/heart_sounds_bench.html
+
+#### HeatCraft — Zhuying Li, Florian 'Floyd' Mueller (2019)
+- Type: Research prototype · Body & senses: Heat & temperature, Pain & inner sensations
+- Idea: Translating core temperature into local warmth turns an invisible inner state into something felt, prompting curiosity about one's own body.
+- What it is: In this two-player system, a swallowed sensor pill measures core body temperature and heating pads on a waist belt warm the skin accordingly, so players feel their inner body on the skin as they go about their day.
+- How it works: Ingestible temperature sensor linked to a waist belt with heating pads; in-the-wild study with 16 participants, yielding eight design strategies for ingestible play.
+- Lens: Technology that touches back, Body data & ambiguity
+- Paper: https://doi.org/10.1145/3290605.3300806 (CHI 2019)
+- Video: https://www.youtube.com/watch?v=wcc4CBmNbSo
+- Images: https://exertiongameslab.org/wp-content/uploads/2019/04/heatcraft.jpg https://exertiongameslab.org/wp-content/uploads/2019/04/pill.jpg
+- Project page: https://exertiongameslab.org/projects/heatcraft-ingestible-games
 
 #### How Emotions Are Made — Lisa Feldman Barrett (2017)
 - Type: Book & essay · Body & senses: Pain & inner sensations, Heartbeat, Whole body-mind
@@ -3208,6 +4076,27 @@ Self-tracking reconsidered: open interpretation, ambiguity, reflection rather th
 - Paper: https://doi.org/10.1145/2901790.2901850 (DIS 2016)
 - Images: https://nourahowell.com/static/img/1000px_wide/hint_shirt.jpg https://biosense.berkeley.edu/files/2018/03/3Hint.jpg
 - Project page: https://biosense.berkeley.edu/portfolio/biosignals-as-social-cues-designing-color-changing-clothing-displays/
+
+#### Open Heart Helmet — Wouter Walmink, Danielle Wilde, Florian 'Floyd' Mueller (2014)
+- Type: Research prototype · Body & senses: Heartbeat, Movement & kinesthesia
+- Idea: Making one's heartbeat visible to others rather than to oneself turns exertion into a shared, social sensation instead of a private metric.
+- What it is: A bicycle helmet shows the rider's live heart rate on its back, so the cyclist riding behind can see it while the wearer cannot easily see their own.
+- How it works: Displays strapped to helmets and driven by a chest-strap heart-rate sensor; studied with pairs of cyclists, yielding design strategies such as limiting direct access to one's own heart rate.
+- Lens: Body data & ambiguity, Intercorporeality
+- Paper: https://doi.org/10.1145/2540930.2540970 (TEI 2014)
+- Video: https://www.youtube.com/watch?v=LCP8d3fkFMY
+- Images: https://exertiongameslab.org/wp-content/uploads/2011/11/helmet_720_website.jpg https://exertiongameslab.org/wp-content/uploads/2011/11/study_720_website.jpg
+- Project page: https://exertiongameslab.org/projects/open-heart-cycling
+
+#### SweatAtoms — Rohit Ashok Khot, Florian 'Floyd' Mueller (2014)
+- Type: Research prototype · Body & senses: Heartbeat, Movement & kinesthesia
+- Idea: A physical object made from one's own heartbeat invites reflection on effort in a way that numbers on a screen do not.
+- What it is: Heart-rate data from a day of physical activity is turned into small 3D-printed objects whose shapes encode the effort, which households kept and handled for weeks.
+- How it works: Heart-rate monitor data mapped to five parametric 3D-printed forms; two-week in-the-wild deployments in six households.
+- Lens: Body data & ambiguity, Attunement & appreciation
+- Paper: https://doi.org/10.1145/2556288.2557144 (CHI 2014)
+- Video: https://www.youtube.com/watch?v=Wh1v1QsL41E
+- Project page: https://exertiongameslab.org/projects/sweatatoms
 
 #### Affective Diary — Anna Ståhl, Kristina Höök, Jarmo Laaksolahti (2006)
 - Type: Research prototype · Body & senses: Skin conductance & arousal, Movement & kinesthesia
@@ -3466,6 +4355,16 @@ Modelling movement quality: Laban effort, MOCO, interactive machine learning for
 
 Exertion games, body-centric play, physical training and sport.
 
+#### SeaMate and OceanEcho — Maria F. Montoya, Aryan Saini, Sarah Jane Pell, Florian 'Floyd' Mueller (2025)
+- Type: Research prototype · Body & senses: Movement & kinesthesia, Touch & pressure, Whole body-mind
+- Idea: Surfing is felt connection with water, nature and community; soma design starting from the surfer's own body can support that felt side instead of measuring it.
+- What it is: Two prototypes to enrich the experience of surfing rather than performance, an actuating wearable top and an octopus-inspired soft robot, designed from the researchers' own surfing through a soma design process.
+- How it works: Soma design process grounded in first-person surfing; exploratory pool study with eight surfers, analysed through a postphenomenological lens of human-technology-water relations, giving five design strategies.
+- Lens: First-person & felt experience, Pleasure & play, More-than-human
+- Paper: https://doi.org/10.1145/3715336.3735791 (DIS 2025)
+- Video: https://www.youtube.com/watch?v=VZ45HiU1Frw
+- Project page: https://exertiongameslab.org/projects/oceanecho-and-seamate-enriching-surfing
+
 #### The Body as Its Own Best Sensor — Jakob Tholander (2025)
 - Type: Paper · Body & senses: Movement & kinesthesia, Breath, Heartbeat
 - Idea: A trained body senses more finely than the watch; sports technology should support these somatic sensitivities rather than replace them.
@@ -3473,6 +4372,16 @@ Exertion games, body-centric play, physical training and sport.
 - How it works: Autoethnography of running practice and data use, distilled into six themes for sports technology design.
 - Lens: First-person & felt experience, Body data & ambiguity, Attunement & appreciation
 - Paper: https://doi.org/10.1145/3706598.3713607 (CHI 2025)
+
+#### Grand Challenges in WaterHCI — Florian 'Floyd' Mueller, Maria F. Montoya, Sarah Jane Pell, Joe Marshall, Nathan Semertzidis (2024)
+- Type: Paper · Body & senses: Whole body-mind, Breath, Movement & kinesthesia
+- Idea: Water changes the whole soma, including breath, weight, temperature and sound, so designing for bodies in water asks for more than performance tracking.
+- What it is: Experts in interactive technology for water, from snorkelling AR and floatation-tank VR to underwater instruments and swimmers' wearables, set out the field's grand challenges.
+- How it works: Expert workshop whose discussions were synthesised into grand challenges and a WaterHCI research agenda.
+- Lens: Body-mind unity, Pleasure & play, More-than-human
+- Paper: https://doi.org/10.1145/3613904.3642052 (CHI 2024)
+- Video: https://www.youtube.com/watch?v=pMh5TZiJVcw
+- Project page: https://exertiongameslab.org/
 
 #### Boards Hit Back — Yoav Luft, Pavel Karpashevich, Kristina Höök (2023)
 - Type: Research prototype · Body & senses: Movement & kinesthesia, Touch & pressure, Posture, balance & proprioception
@@ -3491,6 +4400,26 @@ Exertion games, body-centric play, physical training and sport.
 - Lens: Pleasure & play, Attunement & appreciation, Intercorporeality
 - Paper: https://doi.org/10.1145/3411764.3445163 (CHI 2021)
 - Video: https://www.youtube.com/watch?v=xD9P-kBwDRk
+
+#### Designing Digital Vertigo Experiences — Richard Byrne, Joe Marshall, Florian 'Floyd' Mueller (2020)
+- Type: Paper · Body & senses: Posture, balance & proprioception, Electrical stimulation (EMS, GVS), Movement & kinesthesia
+- Idea: Disturbing the vestibular sense on purpose makes a normally silent part of the body loudly felt, and people enjoy it.
+- What it is: Building on Caillois's idea of 'vertigo play' (spinning, swinging, fairground rides), the paper offers a framework for digital games that deliberately confuse the senses of balance and motion for enjoyment.
+- How it works: Digital Vertigo Experience framework derived from four case studies and three built vertigo games, including galvanic vestibular stimulation play such as Balance Ninja.
+- Lens: Estrangement, Pleasure & play
+- Paper: https://doi.org/10.1145/3387167 (ACM TOCHI 2020)
+- Video: https://www.youtube.com/watch?v=311LUH5ylDo
+- Project page: https://exertiongameslab.org/
+
+#### Erfahrung & Erlebnis — Florian 'Floyd' Mueller, Josh Andres, Zhuying Li, Rakesh Patibanda, Rohit Ashok Khot (2020)
+- Type: Paper · Body & senses: Whole body-mind, Movement & kinesthesia
+- Idea: Bodily play has two sides, the lived moment and what one learns from it; designers need words for both to design for the felt body.
+- What it is: Uses two German words for experience, Erfahrung (experience one actively engages in and learns from) and Erlebnis (tacit, lived experience), to articulate what bodily play feels like and to guide its design.
+- How it works: Reflection on the lab's bodily play systems through the German lexicon, deriving design considerations for each kind of experience.
+- Lens: Body-mind unity, First-person & felt experience
+- Paper: https://doi.org/10.1145/3374920.3374926 (TEI 2020)
+- Video: https://www.youtube.com/watch?v=aFD4JW8vO_4
+- Project page: https://exertiongameslab.org/
 
 #### Ari, the eBike — Josh Andres, Florian 'Floyd' Mueller (2019)
 - Type: Research prototype · Body & senses: Movement & kinesthesia, Muscle tension (EMG)
@@ -3532,6 +4461,16 @@ Exertion games, body-centric play, physical training and sport.
 - Paper: https://doi.org/10.1145/3064938 (ACM TOCHI)
 - Video: https://www.youtube.com/watch?v=3-BoqB6eskM
 
+#### Five Lenses for Designing Exertion Experiences — Florian 'Floyd' Mueller, Damon Young (2017)
+- Type: Paper · Body & senses: Whole body-mind, Movement & kinesthesia
+- Idea: Exercise is a practice of the whole person: designing it only for health metrics misses what effort does for how we feel and who we become.
+- What it is: With philosopher Damon Young, Mueller draws five design lenses from the philosophy of sport and exercise, so that exertion is designed as a path to personal growth and not only as a way to stay healthy.
+- How it works: Conceptual paper extending sports-philosophy writing into design lenses, illustrated with exertion games from the lab and elsewhere.
+- Lens: Body-mind unity, Pleasure & play
+- Paper: https://doi.org/10.1145/3025453.3025746 (CHI 2017)
+- Video: https://www.youtube.com/watch?v=ZsN5yyqGuEA
+- Project page: https://exertiongameslab.org/
+
 #### Balance Ninja — Richard Byrne, Florian 'Floyd' Mueller (2016)
 - Type: Research prototype · Body & senses: Posture, balance & proprioception, Pain & inner sensations
 - Idea: Vertigo makes the usually invisible vestibular sense felt, and can be shaped as a playful, shared experience.
@@ -3542,6 +4481,16 @@ Exertion games, body-centric play, physical training and sport.
 - Video: https://www.youtube.com/watch?v=MfHaKFiAyOQ
 - Images: http://exertiongameslab.org/wp-content/uploads/2018/06/balance_ninja-300x169.jpg
 - Project page: https://exertiongameslab.org/projects/balance-ninja
+
+#### Exertion Games — Florian 'Floyd' Mueller, Rohit Ashok Khot (2016)
+- Type: Book & essay · Body & senses: Movement & kinesthesia, Whole body-mind
+- Idea: Exertion games take a body-centric view of computing: they must be designed for the experience of the active body, not only for sensing it.
+- What it is: A survey monograph on games that make physical exertion part of play: a spectrum of exertion games, their enabling technologies and the design frameworks for them.
+- How it works: Literature review and analysis of exertion games, sensing technologies and design approaches, with directions for future work.
+- Lens: Pleasure & play, Body-mind unity
+- Paper: https://doi.org/10.1561/1100000041 (Foundations and Trends in HCI 2016)
+- Video: https://www.youtube.com/watch?v=-OJFtYBW9ac
+- Project page: https://exertiongameslab.org/
 
 #### Movement-Based Game Guidelines — Florian 'Floyd' Mueller, Katherine Isbister (2014)
 - Type: Method & toolkit · Body & senses: Movement & kinesthesia, Whole body-mind
@@ -3582,6 +4531,27 @@ Exertion games, body-centric play, physical training and sport.
 - Paper: https://doi.org/10.1145/2212776.2212384 (CHI 2012 Extended Abstracts)
 - Video: https://www.youtube.com/watch?v=TLDEr4XO4wg
 - Project page: https://exertiongameslab.org/projects/hanging-off-a-bar
+
+#### Joggobot — Eberhard Graether, Florian 'Floyd' Mueller (2012)
+- Type: Research prototype · Body & senses: Movement & kinesthesia
+- Idea: A robot that runs with you changes the felt rhythm of the run; companionship, not data, becomes the support for effort.
+- What it is: An autonomous quadcopter flies ahead of a jogger and reacts to their pace, acting as a running companion rather than a coach on a screen.
+- How it works: Quadcopter with an on-board camera tracking a tag worn by the jogger; design themes of embodiment, control, personality and communication from test runs.
+- Lens: Pleasure & play, More-than-human
+- Paper: https://doi.org/10.1145/2212776.2212386 (CHI 2012 Extended Abstracts)
+- Video: https://www.youtube.com/watch?v=4x4d8IX_0kI
+- Images: https://exertiongameslab.org/wp-content/uploads/2011/09/joggobot.jpg https://exertiongameslab.org/wp-content/uploads/2012/06/joggobot-1024x328.jpg
+- Project page: https://exertiongameslab.org/projects/joggobot
+
+#### Designing Sports: A Framework for Exertion Games — Florian 'Floyd' Mueller (2011)
+- Type: Paper · Body & senses: Movement & kinesthesia, Whole body-mind
+- Idea: Designing for physical effort means designing for the whole felt body, how it responds, moves, senses and relates to others, rather than for a tracked controller.
+- What it is: The Exertion Framework describes exertion games through four views of the body in play: the responding body, the moving body, the sensing body and the relating body.
+- How it works: Framework derived from the authors' networked exertion games and body-centred theory, then used as a design tool in a case study.
+- Lens: Body-mind unity, Pleasure & play
+- Paper: https://doi.org/10.1145/1978942.1979330 (CHI 2011)
+- Video: https://www.youtube.com/watch?v=EVWZtJNbAek
+- Project page: https://exertiongameslab.org/
 
 #### Johann Sebastian Joust — Die Gute Fabrik (2011)
 - Type: Product & app · Body & senses: Movement & kinesthesia, Voice, sound & listening, Posture, balance & proprioception
@@ -4366,6 +5336,17 @@ Biofeedback, breath and body awareness for stress and mental health.
 - Lens: First-person & felt experience, Care & healing, Body politics
 - Paper: https://doi.org/10.1145/3715336.3735707 (DIS 2025)
 
+#### Affective Touch as Immediate and Passive Wearable Intervention — Yiran Zhao, Yujie Tao, Pedro Lopes (2022)
+- Type: Research prototype · Body & senses: Touch & pressure, Skin conductance & arousal
+- Idea: Calming need not pass through thinking or instruction: a stroke on the skin reaches the anxious body-mind directly.
+- What it is: A wearable on the forearm renders a slow, soft stroking sensation during a stressful task; people who received it reported lower anxiety in the moment than a control group.
+- How it works: Wearable forearm device rendering slow stroking on hairy skin (the touch neuroscience links to innate pleasantness); between-group study with 24 participants under high-stress tasks, measuring state anxiety and physiological stress, plus interviews; led by Tanzeem Choudhury's group at Cornell.
+- Lens: Care & healing, Technology that touches back
+- Paper: https://doi.org/10.1145/3569484 (IMWUT 2022 (UbiComp 2023))
+- Video: https://www.youtube.com/watch?v=bfhqXAXfaHc
+- Images: https://lab.plopes.org/project-thumbnails/Ubicomp23-HapticIntervention.jpg
+- Project page: https://lab.plopes.org
+
 #### HCI and Affective Health — Pedro Sanches, Pavel Karpashevich, Muhammad Umair, Kristina Höök (2019)
 - Type: Paper · Body & senses: Whole body-mind, Skin conductance & arousal
 - Idea: Producing more body data is not care; mental health technology should help people live with and act on what they feel.
@@ -4670,6 +5651,17 @@ Sharing biosignals and falling into rhythm with others.
 - Video: https://vimeo.com/915076535
 - Images: https://reality.design/media/project-cell-space-gallery-01.jpg
 - Project page: https://reality.design/project/cell-space
+
+#### DigituSync — Jun Nishida, Yudai Tanaka, Romain Nith, Pedro Lopes (2022)
+- Type: Research prototype · Body & senses: Movement & kinesthesia, Touch & pressure
+- Idea: Two hands become one coupled body: because the link is mechanical and two-way, each person feels the other's intention and resistance with no delay.
+- What it is: A passive exoskeleton glove mechanically links two people's hands, so the teacher's finger movements and forces pass directly into the learner's fingers, and the learner's hand pushes back.
+- How it works: Four-bar linkages per finger transmit motion and force between two gloves; a variable-length linkage adjusts how much of the teacher's force reaches the learner; study on piano-like finger sequences.
+- Lens: Intercorporeality, Extended body
+- Paper: https://doi.org/10.1145/3526113.3545630 (UIST 2022)
+- Video: https://youtu.be/ljytGz4nnho
+- Images: https://lab.plopes.org/project-thumbnails/UIST22-DigituSync.jpg
+- Project page: https://lab.plopes.org
 
 #### Shared User Interfaces of Physiological Data — Clara Moge (2022)
 - Type: Paper · Body & senses: Heartbeat, Breath, Skin conductance & arousal
@@ -5001,6 +5993,18 @@ Machine learning as a somatic material; AI that listens to the body.
 ### Virtual Bodies & XR
 
 Body ownership, embodiment swaps, breath- and biosignal-driven VR/AR.
+
+#### VR Side-Effects — Antonin Cheymol, Pedro Lopes (2025)
+- Type: Paper · Body & senses: Posture, balance & proprioception, Light & vision
+- Idea: The body does not reset when the headset comes off: VR retrains proprioception and memory, and that adapted body walks back into the real world.
+- What it is: After a VR session with hand redirection, participants' real hands stayed shifted by up to 7 cm, and they recalled where objects were in VR instead of where they really are.
+- How it works: VR tasks with hand redirection and object placement, followed by real-world pointing and recall tests measuring residual proprioceptive drift and memory confusion.
+- Lens: Extended body, Body-mind unity
+- Paper: https://doi.org/10.1145/3746059.3747596 (UIST 2025)
+- Video: https://www.youtube.com/watch?v=uoJtpx78RmU
+- Images: https://lab.plopes.org/project-thumbnails/UIST25-VRSideEffect.jpg
+- Project page: https://lab.plopes.org
+- Code: https://github.com/humancomputerintegration/VRSideEffects
 
 #### Soma Design and Sensory Misalignment — Paul Tennent, Joe Marshall (2020)
 - Type: Paper · Body & senses: Posture, balance & proprioception, Movement & kinesthesia, Light & vision
@@ -5570,17 +6574,22 @@ Feeling with plants, animals, weather and ecosystems.
 
 ## Creators
 
+- **Florian 'Floyd' Mueller** (56) — Professor, Monash University; directs the Exertion Games Lab. HCI researcher on exertion games, bodily play and human-computer integration. https://exertiongameslab.org
 - **Kristina Höök** (44) — Professor of Interaction Design, KTH Royal Institute of Technology. Kristina Höök moved from affective computing at SICS (eMoto, Affective Diary, Affective Health) to founding soma design at KTH. The book Designing with the Body (MIT Press, 2018) sets out the programme. https://www.kth.se/profile/khook
-- **Florian 'Floyd' Mueller** (26) — Professor, Monash University; directs the Exertion Games Lab. HCI researcher on exertion games, bodily play and human-computer integration. https://exertiongameslab.org
+- **Pedro Lopes** (35) — Associate Professor of Computer Science, University of Chicago; director of the Human Computer Integration Lab. Pedro Lopes builds devices that integrate with the body, such as electrical muscle stimulation that moves the wearer's limbs. https://plopes.org
 - **Madeline Balaam** (19) — Professor of Interaction Design, KTH Royal Institute of Technology (previously Open Lab, Newcastle University). HCI researcher working on women's health, intimate care, rehabilitation and feminist approaches to designing for the body.
 - **Anna Ståhl** (17) — Senior researcher, RISE Research Institutes of Sweden. Anna Ståhl is an interaction designer who has worked with Höök since eMoto and the Affective Diary, and co-designed the Soma Mat, Breathing Light and Pelvic Chair.
 - **Thecla Schiphorst** (16) — Professor, School of Interactive Arts and Technology, Simon Fraser University. Media artist, dancer and Certified Laban Movement Analyst who brought somatics into HCI. https://www.sfu.ca/siat/people/research-faculty/thecla-schiphorst.html
-- **Pedro Lopes** (14) — Associate Professor of Computer Science, University of Chicago; director of the Human Computer Integration Lab. Pedro Lopes builds devices that integrate with the body, such as electrical muscle stimulation that moves the wearer's limbs. https://plopes.org
+- **Rakesh Patibanda** (14) — HCI researcher, Exertion Games Lab, Monash University. Researcher on breathing games, bodily play and actuated bodily extensions.
+- **Nathan Semertzidis** (13) — HCI researcher; PhD, Exertion Games Lab, Monash University. Researcher who designs brain-computer integrations that turn neural activity into shared experiences, such as Neo-Noumena.
+- **Josh Andres** (12) — Researcher in human-computer integration; Australian National University (formerly Exertion Games Lab). Designer-researcher of integrated exertion systems such as eBikes that act with the rider.
 - **Lian Loke** (12) — Associate Professor, Design Lab, The University of Sydney. Interaction designer and performance-maker who works with the moving, feeling body in design. https://www.lianloke.com/
 - **Vasiliki Tsaknaki** (12) — Associate Professor, IT University of Copenhagen. Vasiliki Tsaknaki did a PhD at KTH on craft and materials in interaction design and then worked on shape-change, breathing and biodata in the soma design group.
+- **Zhuying Li** (11) — HCI researcher; PhD, Exertion Games Lab (RMIT and Monash). Chinese HCI researcher whose doctoral work founded 'ingestible play', games played with sensors swallowed into the body.
 - **Claudia Núñez-Pacheco** (9) — Design researcher, Malmö University (formerly KTH). Claudia Núñez-Pacheco develops Focusing-based methods for articulating felt sense in design, and worked as a postdoc in the KTH soma design group.
 - **Pedro Sanches** (9) — Interaction design researcher, Umeå University (formerly KTH). Pedro Sanches designed Affective Health at SICS and later worked on soma design, biodata and lived data at KTH.
-- **Josh Andres** (8) — Researcher in human-computer integration; Australian National University (formerly Exertion Games Lab). Designer-researcher of integrated exertion systems such as eBikes that act with the rider.
+- **Aryan Saini** (8) — HCI researcher, Exertion Games Lab, Monash University. Researcher who designs pneumatic bodily extensions that gently move the wearer's ear, hand or arm in everyday situations.
+- **Jun Nishida** (8) — Assistant Professor, University of Maryland; director of the Embodied Dynamics Lab. Japanese researcher who designs wearables that let people borrow each other's bodies: EMS devices that share muscle activity and rigs that give you a child's eye height; previously at the University of Tsukuba and the University of Chicago. https://junnishida.net
 - **Katherine Isbister** (8) — Professor of Computational Media, University of California, Santa Cruz. Game and HCI researcher on emotion, movement and social play; author of How Games Move Us (2016). https://www.isbister.org
 - **Marianela Ciolfi Felice** (8) — Researcher, KTH Royal Institute of Technology. Marianela Ciolfi Felice works on participatory, body-centred design for women's health, including menopause, menstruation and contraception.
 - **Pavel Karpashevich** (8) — Researcher, Carl von Ossietzky University of Oldenburg (PhD, KTH). Pavel Karpashevich designed interactive costumes at Bauhaus-Universität Weimar and shape-changing garments such as the Soma Corset during doctoral work at KTH.
@@ -5588,11 +6597,12 @@ Feeling with plants, animals, weather and ecosystems.
 - **Botao 'Amber' Hu** (7) — Researcher, University of Oxford; founder of Reality Design Lab; inventor of HoloKit. Designer and researcher (Tsinghua BS, Stanford MS in AI) who leads Reality Design Lab's work on embodied, social mixed reality and XR soma design; his group's works have been shown at SIGGRAPH, CHI, TEI and Ars Electronica. https://reality.design
 - **Elena Márquez Segura** (7) — Associate Professor, Universidad Carlos III de Madrid. Interaction designer working on embodied and social play, movement and physical training.
 - **Noura Howell** (7) — Assistant Professor, School of Literature, Media, and Communication, Georgia Tech. HCI researcher and designer who builds emotional biosensing garments and installations; PhD from UC Berkeley's School of Information, now directs the Future Feelings Lab at Georgia Tech. https://nourahowell.com
+- **Pattie Maes** (7) — Professor, MIT Media Lab; head of the Fluid Interfaces group. Media Lab professor who pioneered software agents in the 1990s and whose Fluid Interfaces group builds wearable and cognitive augmentation systems; co-organiser of the 2018 Dagstuhl seminar on human–computer integration. https://www.media.mit.edu/people/pattie/overview/
 - **Rachael Garrett** (7) — Interaction design researcher (PhD, KTH), felt ethics and soma design. Rachael Garrett studied how ethical sensibility is felt in the body during design work, and co-designed shape-changing garments and drone interactions at KTH.
-- **Rakesh Patibanda** (7) — HCI researcher, Exertion Games Lab, Monash University. Researcher on breathing games, bodily play and actuated bodily extensions.
 - **Stelarc** (7) — Performance artist; Distinguished Research Fellow, Curtin University. Cyprus-born Australian artist who since the 1970s has extended, suspended and wired his own body with robots, prostheses and networks. https://stelarc.org/
+- **Yudai Tanaka** (7) — HCI researcher, Human Computer Integration Lab, University of Chicago. Researcher who produces touch and force sensations by stimulating nerves and the brain rather than the skin.
+- **Jas Brooks** (6) — HCI researcher, Human Computer Integration Lab, University of Chicago. Researcher who builds interfaces for smell and temperature by stimulating the trigeminal nerve in the nose.
 - **Joseph La Delfa** (6) — Interaction design researcher, KTH Royal Institute of Technology (formerly RMIT Exertion Games Lab). Joseph La Delfa designs somaesthetic human-drone interactions, from Drone Chi at RMIT to How to Train Your Drone at KTH.
-- **Jun Nishida** (6) — Assistant Professor, University of Maryland; director of the Embodied Dynamics Lab. Japanese researcher who designs wearables that let people borrow each other's bodies: EMS devices that share muscle activity and rigs that give you a child's eye height; previously at the University of Tsukuba and the University of Chicago. https://junnishida.net
 - **Kouta Minamizawa** (6) — Professor, Keio University Graduate School of Media Design (KMD). Haptics researcher who leads the Embodied Media Project at Keio KMD, working on telexistence, haptic transmission and shared bodies. https://embodiedmedia.org
 - **Marie Louise Juul Søndergaard** (6) — Associate Professor, Oslo School of Architecture and Design (AHO). Marie Louise Juul Søndergaard designs feminist intimate technologies; as a postdoc at KTH, Søndergaard made Menarche Bits and worked on menstrual and menopause design.
 - **Mel Slater** (6) — Distinguished Investigator, University of Barcelona (Event Lab); formerly UCL. Mel Slater pioneered research on presence and virtual body ownership, from body transfer to extended avatars.
@@ -5604,51 +6614,65 @@ Feeling with plants, animals, weather and ecosystems.
 - **Frédéric Bevilacqua** (5) — Head of Sound Music Movement Interaction team (ISMM), IRCAM. Researcher who has led IRCAM's work on gesture following, motion-sound interaction and embodied music tools since the 2000s. https://ismm.ircam.fr/
 - **George Poonkhin Khut** (5) — Artist; Senior Lecturer, UNSW Art & Design. Australian artist and interaction designer who has made heart-rate, breath and brainwave biofeedback artworks since the early 2000s, for galleries and for children's hospitals. https://www.georgekhut.com
 - **Jiabao Li** (5) — Artist, designer and technologist; Associate Professor, Northeastern University. Chinese-born artist and inventor (Harvard GSD alum, former Apple designer) whose installations, wearables, XR, bio-art and performances deal with perception, feminist biotech and the more-than-human; co-directs work with Reality Design Lab. https://www.jiabaoli.org
+- **Joe Marshall** (5) — Associate Professor, Mixed Reality Lab, University of Nottingham. Joe Marshall designs breath- and body-controlled experiences, from the Broncomatic ride to VR.
 - **Jules Françoise** (5) — CNRS researcher, LISN, Université Paris-Saclay. Researcher in movement-sound interaction and interactive machine learning. https://julesfrancoise.com/
 - **Katta Spiel** (5) — Assistant Professor, Human-Computer Interaction group, TU Wien. HCI researcher working on neurodivergent, disabled, non-binary and trans perspectives on embodied interaction; SIGCHI Outstanding Dissertation Award 2020.
 - **Kelsey Cotton** (5) — Singer, composer and HCI researcher (KTH; Chalmers University of Technology). Kelsey Cotton is a classically trained singer who designs and performs with breathing-driven instruments and robotic garments, first at KTH and then in a PhD on AI and voice at Chalmers.
 - **Laia Turmo Vidal** (5) — Researcher, Universidad Carlos III de Madrid / KTH. Interaction designer researching technology for physical training, movement learning and embodied design methods. https://www.laiaturmovidal.com
 - **Lygia Clark** (5) — Artist and therapist (1920–1988). Brazilian Neo-Concrete artist who moved from painting to 'propositions' completed by participants' bodies, and finally to a therapy with relational objects. https://portal.lygiaclark.org.br/
+- **Nadia Bianchi-Berthouze** (5) — Professor of Affective Computing and Interaction, UCL Interaction Centre (UCLIC). Researcher on body movement, touch and affect, who led the EmoPain project on technology for chronic pain rehabilitation.
 - **Paul Tennent** (5) — Associate Professor, Mixed Reality Lab, University of Nottingham. HCI researcher on amusement rides, bodily experience and biosensing in extreme experiences. https://paultennent.wordpress.com
 - **Richard Shusterman** (5) — Dorothy F. Schmidt Eminent Scholar in the Humanities, Florida Atlantic University. American pragmatist philosopher who founded somaesthetics, the study of the body as the site of sensory appreciation and self-fashioning, and a trained Feldenkrais practitioner. https://en.wikipedia.org/wiki/Richard_Shusterman
+- **Rohit Ashok Khot** (5) — Associate Professor, School of Design, RMIT University. Designer-researcher who turns heart-rate and physical-activity data into 3D-printed and edible artefacts, and leads human-food interaction work.
 - **Toni Robertson** (5) — Professor Emerita of Interaction Design, University of Technology Sydney. Interaction design researcher who brought Merleau-Ponty's phenomenology into the study of cooperative work and movement-based interaction.
-- **Zhuying Li** (5) — HCI researcher; PhD, Exertion Games Lab (RMIT and Monash). Chinese HCI researcher whose doctoral work founded 'ingestible play', games played with sensors swallowed into the body.
-- **Aryan Saini** (4) — HCI researcher, Exertion Games Lab, Monash University. Researcher who designs pneumatic bodily extensions that gently move the wearer's ear, hand or arm in everyday situations.
 - **Caroline Hummels** (4) — Professor of Design and Theory for Transformative Qualities, Eindhoven University of Technology. Design researcher who works on embodied, movement-based and first-person design, and on design for societal transformation.
 - **Jeffrey Bardzell** (4) — Professor of Informatics, Pennsylvania State University. HCI theorist working on design criticism, aesthetics and feminist and humanistic perspectives on interaction design.
+- **Jonathan Grudin** (4) — HCI researcher and historian; Microsoft Research (emeritus), affiliate professor, University of Washington. Researcher in computer-supported cooperative work and the historian of HCI (From Tool to Partner, 2017); co-author of the 2016 'Human-computer integration' essay and co-organiser of the 2018 Dagstuhl seminar. https://en.wikipedia.org/wiki/Jonathan_Grudin
 - **Joo Young Park** (4) — Interaction design researcher, KTH Royal Institute of Technology. Joo Young Park designs touch technologies for menstrual discomfort and critiques FemTech through feminist disability studies.
 - **Kristina Popova** (4) — Researcher, KTH Royal Institute of Technology. HCI researcher on vulnerability, ethics and intimate data in soma design.
+- **Maria F. Montoya** (4) — Researcher, Exertion Games Lab, Monash University. HCI researcher who designs playful water experiences, from an extended-reality floatation tank to wearables and soft robots for surfing, using somaesthetic design.
 - **Mark Johnson** (4) — Philip H. Knight Professor of Liberal Arts and Sciences, University of Oregon. Pragmatist philosopher who developed image schemas and argues that meaning is rooted in bodily, felt, aesthetic experience. https://en.wikipedia.org/wiki/Mark_Johnson_(philosopher)
-- **Nadia Bianchi-Berthouze** (4) — Professor of Affective Computing and Interaction, UCL Interaction Centre (UCLIC). Researcher on body movement, touch and affect, who led the EmoPain project on technology for chronic pain rehabilitation.
-- **Nathan Semertzidis** (4) — HCI researcher; PhD, Exertion Games Lab, Monash University. Researcher who designs brain-computer integrations that turn neural activity into shared experiences, such as Neo-Noumena.
 - **Ozgun Kilic Afsar** (4) — Researcher, MIT Media Lab and KTH Royal Institute of Technology. Ozgun Kilic Afsar develops fluidic fibre actuators and soft robotic garments, combining a KTH soma design PhD with work in MIT's Tangible Media Group.
 - **Phoebe Sengers** (4) — Professor of Information Science and Science & Technology Studies, Cornell University. Cultural theorist and technologist whose work on reflective design, affect and ambiguity shaped critical and experiential HCI.
+- **Richard Byrne** (4) — Researcher, Exertion Games Lab (RMIT / Monash). Game designer and researcher on digital vertigo play using galvanic vestibular stimulation.
 - **Rob Comber** (4) — Associate Professor of Communication, KTH Royal Institute of Technology. HCI researcher on civic, feminist and food technologies, formerly at Open Lab, Newcastle University.
+- **Romain Nith** (4) — HCI researcher, Human Computer Integration Lab, University of Chicago. Researcher who works on EMS and haptic wearables that act on the body, such as SplitBody and JumpMod.
 - **Susan Kozel** (4) — Professor, School of Arts and Communication, Malmö University. Dancer, philosopher and researcher whose phenomenology of performance with technology shaped somatic approaches in HCI.
 - **Yoav Luft** (4) — Researcher and martial arts practitioner, KTH Royal Institute of Technology. Yoav Luft builds sensing and actuation systems for the soma design group and brings a long martial arts practice into design.
+- **Albrecht Schmidt** (3) — Professor of Computer Science (Human-Centered Ubiquitous Media), LMU Munich. Ubiquitous-computing researcher who founded the 'Human Augmentation' department of IEEE Pervasive Computing and works on amplifying perception and cognition with digital technology. https://en.wikipedia.org/wiki/Albrecht_Schmidt_(computer_scientist)
 - **Ana Tajadura-Jiménez** (3) — Associate Professor, Universidad Carlos III de Madrid; lead of the i_mBODY Lab. Researcher in multisensory body perception who uses sound to change how people feel their own body; led the ERC project BODYinTRANSIT. https://imbodylab.com/ana-tajadura-jimenez/
 - **Aneesha Singh** (3) — Professor of Human-Computer Interaction, UCL Interaction Centre (UCLIC). HCI researcher on chronic pain, body awareness and technology for health and wellbeing.
 - **Anupriya Tuli** (3) — HCI researcher, Indraprastha Institute of Information Technology Delhi (IIIT-Delhi). HCI researcher on menstrual health, education and mobility in India, working with feminist and period-positive approaches.
 - **Brendan Walker** (3) — Artist and 'thrill engineer'; founder of Thrill Laboratory; collaborator of the Mixed Reality Lab, University of Nottingham. Brendan Walker designs amusement rides and VR swings as artworks about thrill and the felt body.
+- **Danielle Wilde** (3) — Professor of Embodied Design, Umeå Institute of Design / University of Southern Denmark. Designer and researcher working with the body, performance, wearables and participatory futures.
 - **Ekaterina R. Stepanova** (3) — Researcher, iSpace Lab, Simon Fraser University. Ekaterina Stepanova studies transformative and self-transcendent experiences in VR.
 - **Eugene Gendlin** (3) — Philosopher and psychotherapist, University of Chicago (1926–2017). American philosopher who described the 'felt sense', a bodily, pre-verbal sense of a whole situation, and developed Focusing and Thinking at the Edge from it. https://focusing.org
 - **H. Henrik Ehrsson** (3) — Professor of Cognitive Neuroscience, Karolinska Institutet; Brain, Body and Self Laboratory. Henrik Ehrsson studies how the brain builds the feeling of owning a body, using illusions of body swap and out-of-body experience.
 - **John Desnoyers-Stewart** (3) — Artist-researcher, iSpace Lab, Simon Fraser University. John Desnoyers-Stewart makes social VR installations about connection, breath and touch.
 - **Jon Kabat-Zinn** (3) — Molecular biologist, founder of Mindfulness-Based Stress Reduction. Jon Kabat-Zinn (born 1944) holds a PhD in molecular biology and founded the Stress Reduction Clinic and MBSR at the University of Massachusetts Medical School in 1979. https://en.wikipedia.org/wiki/Jon_Kabat-Zinn
+- **Kai Kunze** (3) — Professor, Keio University Graduate School of Media Design (KMD). German-born wearable computing researcher at Keio KMD who co-authored the Superhuman Sports agenda.
 - **Marco Donnarumma** (3) — Performance artist, composer and researcher. Italian artist who makes biophysical music and performances in which muscle sounds and bioelectric signals drive sound, light and machines. https://marcodonnarumma.com/
+- **Marianna Obrist** (3) — Professor of Multisensory Interfaces, University College London. HCI researcher who leads the SCHI Lab and studies touch, taste and smell as channels of experience and emotion.
 - **Marshmallow Laser Feast** (3) — Experiential art collective. Marshmallow Laser Feast is a London collective (Barney Steel, Robin McNicholas and others) making multisensory VR and installations about perception and the natural world. https://marshmallowlaserfeast.com
 - **Martin Jonsson** (3) — Interaction design researcher, Södertörn University. Martin Jonsson (also published as Jönsson) co-developed the heated Soma Mat and the Sarka sound mat with Höök's group.
 - **Masahiko Inami** (3) — Professor, Research Center for Advanced Science and Technology (RCAST), University of Tokyo; director of the JST ERATO Inami JIZAI Body Project. Augmented-human researcher known for optical camouflage, co-founder of the Superhuman Sports Society, and author of the JIZAI Body concept. https://jizai-body.com
+- **Matthias Oostrik** (3) — Media artist. Dutch interactive media artist who builds the real-time visualisations and systems in Suzanne Dikker's brain-synchrony artworks.
 - **Miquel Alfaras** (3) — Biomedical engineer and HCI researcher (PLUX Wireless Biosignals; Universitat Jaume I). Miquel Alfaras worked on biosignal hardware at PLUX and on soma design with KTH in the AffecTech network.
 - **Neha Kumar** (3) — Associate Professor, School of Interactive Computing, Georgia Institute of Technology. HCI researcher on technology and global development, with a focus on women's health in the Global South.
+- **Patrick Baudisch** (3) — Professor of Human Computer Interaction, Hasso Plattner Institute, University of Potsdam. Computer scientist who leads the HPI lab that built personal fabrication and haptics systems, and where Pedro Lopes did a PhD on electrical muscle stimulation. https://hpi.de/baudisch/
 - **Sara Eriksson** (3) — Interaction design researcher (PhD, KTH), drones and choreography. Sara Eriksson studied how a choreographer and engineers shaped the movement of drones for an opera, and the ethics of movement.
 - **Sarah Homewood** (3) — Design researcher, feminist and somatic HCI. Design researcher working on feminist, somatic and more-than-human perspectives on the body and self-tracking.
+- **Sarah Jane Pell** (3) — Artist, commercial diver and researcher, Exertion Games Lab, Monash University. Performance artist and occupational diver whose work takes place underwater and in space-exploration settings; co-author of the WaterHCI agenda.
+- **Shan-Yuan Teng** (3) — Assistant Professor, Computer Science & Information Engineering, National Taiwan University; leads the Dexterous Interaction Lab. Haptics researcher who did a PhD in Pedro Lopes's lab (2019–2025) on devices that render touch and force while keeping the hands dexterous. https://tengshanyuan.info/
+- **Suzanne Dikker** (3) — Cognitive neuroscientist and artist; New York University and Utrecht University. Neuroscientist who studies brain-to-brain synchrony in real-world settings and makes neurofeedback installations with media artist Matthias Oostrik. https://www.suzannedikker.net
 - **Teresa Almeida** (3) — Interaction design researcher; PhD from Open Lab, Newcastle University; later at Umeå University. Portuguese designer-researcher who works on women's intimate health, pelvic fitness and self-knowledge of the body through wearables and interactive systems.
 - **Thomas Hanna** (3) — Philosopher and founder of Hanna Somatic Education (1928–1990). American philosopher who coined 'somatics' and defined the soma as the body experienced from within by first-person perception; he trained with Moshe Feldenkrais. https://en.wikipedia.org/wiki/Thomas_Louis_Hanna
+- **Alva Noë** (2) — Professor of Philosophy, University of California, Berkeley. Philosopher who argues that perceiving is something we do with our moving bodies, through our practical grasp of how sensation changes as we move. https://en.wikipedia.org/wiki/Alva_No%C3%AB
 - **Andy Clark** (2) — Professor of Cognitive Philosophy, University of Sussex. British philosopher of embodied and extended cognition, author of Natural-Born Cyborgs (2003) and The Experience Machine (2023). https://en.wikipedia.org/wiki/Andy_Clark
 - **Antonio Camurri** (2) — Professor, DIBRIS, University of Genoa; founder of Casa Paganini–InfoMus. Italian computer scientist who built EyesWeb and has studied expressive movement qualities in dance for three decades. http://www.casapaganini.org/
 - **Antonio Damasio** (2) — University Professor of Neuroscience, University of Southern California. Neuroscientist whose somatic marker hypothesis showed that bodily feeling is part of reasoning, and who traces consciousness to the body's homeostatic feelings. https://en.wikipedia.org/wiki/Antonio_Damasio
 - **Audrey Desjardins** (2) — Associate Professor, School of Art + Art History + Design, University of Washington. Design researcher who works through autobiographical design and living with prototypes at home. https://desjardins.design
+- **Ben Shneiderman** (2) — Distinguished University Professor Emeritus of Computer Science, University of Maryland. Computer scientist who coined 'direct manipulation', founded the Human-Computer Interaction Lab at Maryland and now argues for human-centred AI built as 'supertools' under human control. https://www.cs.umd.edu/users/ben/
 - **Bonnie Bainbridge Cohen** (2) — Movement artist, occupational therapist, founder of Body-Mind Centering. Bonnie Bainbridge Cohen is an occupational therapist, dancer and educator who founded the School for Body-Mind Centering in 1973. https://www.bodymindcentering.com
 - **Carl Unander-Scharin** (2) — Composer and opera singer; Professor, Karlstad University. Swedish tenor and composer who builds interactive instruments for singers, co-author with Kristina Höök. https://www.operamecatronica.com/
 - **Carman Neustaedter** (2) — Professor, School of Interactive Arts and Technology, Simon Fraser University. HCI researcher on domestic and family technologies and telepresence.
@@ -5656,7 +6680,6 @@ Feeling with plants, animals, weather and ecosystems.
 - **Char Davies** (2) — Painter and virtual reality artist; founder of Immersence. Canadian artist who made Osmose (1995) and Ephémère (1998), VR works navigated by breath and balance. https://www.immersence.com
 - **Dag Svanæs** (2) — Professor of Interaction Design, Norwegian University of Science and Technology (NTNU). Interaction design researcher who has worked since the 1990s on what Merleau-Ponty's phenomenology means for interaction design.
 - **Dani Clode** (2) — Augmentation designer working with the Plasticity Lab, MRC Cognition and Brain Sciences Unit, University of Cambridge. Designer who made the Third Thumb as a Royal College of Art graduate project and then developed it with neuroscientists into a research device.
-- **Danielle Wilde** (2) — Professor of Embodied Design, Umeå Institute of Design / University of Southern Denmark. Designer and researcher working with the body, performance, wearables and participatory futures.
 - **Diane Gromala** (2) — Professor, School of Interactive Arts and Technology, Simon Fraser University; former Canada Research Chair in Computational Technologies for Transforming Pain. Artist and researcher who has worked on VR and the body since the early 1990s, and on immersive technology for people living with chronic pain.
 - **Don Ihde** (2) — Philosopher of technology; Distinguished Professor Emeritus, Stony Brook University. American philosopher who founded postphenomenology, the study of how technologies shape perception and action. https://en.wikipedia.org/wiki/Don_Ihde
 - **Dōgen Zenji** (2) — Zen master (1200–1253), founder of Japanese Sōtō Zen. Japanese Buddhist monk who brought Caodong Chan from Song China to Japan, founded Eiheiji and wrote the Shōbōgenzō and the Fukanzazengi. https://en.wikipedia.org/wiki/D%C5%8Dgen
@@ -5669,15 +6692,14 @@ Feeling with plants, animals, weather and ecosystems.
 - **Hélio Oiticica** (2) — Artist (1937–1980). Brazilian Neo-Concrete artist whose Parangolés, Penetrables and environments turned viewers into wearers, dancers and inhabitants.
 - **Ichikawa Hiroshi** (2) — Philosopher (1931–2002); professor at Meiji University. Japanese phenomenologist of the body who proposed the 'body as spirit' and the concept of mi, the lived body-self that extends into tools, others and the world. https://ja.wikipedia.org/wiki/市川浩_(哲学者)
 - **Irmgard Bartenieff** (2) — Dance theorist, physical therapist, pioneer of dance therapy. Irmgard Bartenieff (1900–1981), a student of Laban, applied his spatial concepts to polio rehabilitation in the 1940s and developed the body-level exercises known as Bartenieff Fundamentals. https://labaninstitute.org
-- **Jas Brooks** (2) — HCI researcher, Human Computer Integration Lab, University of Chicago. Researcher who builds interfaces for smell and temperature by stimulating the trigeminal nerve in the nose.
 - **Jin Moen** (2) — Interaction designer; founder of Movinto Fun (Oriboo); PhD KTH. Swedish designer who developed kinaesthetic movement interaction from modern dance and built the BodyBug wearable.
-- **Joe Marshall** (2) — Associate Professor, Mixed Reality Lab, University of Nottingham. Joe Marshall designs breath- and body-controlled experiences, from the Broncomatic ride to VR.
 - **Jonas Löwgren** (2) — Professor of Interaction and Information Design, Linköping University. Interaction design researcher known for work on design knowledge and interaction aesthetics.
 - **Joris H. Janssen** (2) — Researcher in affective computing (formerly Philips Research / TU Eindhoven). Researcher who studied heartbeats as social signals and physiological empathy at Philips Research and Eindhoven University of Technology.
 - **Jun Rekimoto** (2) — Professor, Interfaculty Initiative in Information Studies, University of Tokyo; Deputy Director, Sony Computer Science Laboratories. HCI pioneer whose lab has produced augmented-human work such as PossessedHand and JackIn. https://lab.rekimoto.org
 - **Jérémy Frey** (2) — Co-founder, Ullo; HCI and physiological computing researcher. Researcher in physiological computing and tangible interfaces (Inria, IDC Herzliya) who co-founded Ullo to make biofeedback objects. https://phd.jfrey.info
 - **Kristina Mah** (2) — Design researcher, The University of Sydney. Design researcher who studies contemplative and compassion practices as a way to train designers' self-observation.
 - **Kyung Yun Choi** (2) — Researcher; PhD, MIT Media Lab. Korean designer-researcher who builds tactile and pneumatic wearables that guide heart rate and breathing through gentle rhythms on the skin.
+- **Leigh R. Hochberg** (2) — Neurologist; director of the BrainGate clinical trials, Brown University and Massachusetts General Hospital. Neurologist and neuroengineer who leads the BrainGate trials of intracortical BCIs for people with paralysis.
 - **Lucy McRae** (2) — Artist and body architect. Australian artist who calls herself a body architect and builds speculative devices, films and rituals for future bodies. https://www.lucymcrae.net/
 - **MHD Yamen Saraiji** (2) — Researcher in telepresence and body augmentation; formerly Keio University Graduate School of Media Design (Embodied Media Project). Syrian-born researcher who built telepresence robots and extra limbs at Keio KMD, including Fusion, MetaArms and Arque.
 - **Manos Tsakiris** (2) — Professor of Psychology, Royal Holloway, University of London. Psychologist and neuroscientist of the bodily self, interoception and body ownership; leads the Lab of Action & Body. https://www.royalholloway.ac.uk/
@@ -5689,24 +6711,30 @@ Feeling with plants, animals, weather and ecosystems.
 - **Nancy Stark Smith** (2) — Dancer, co-founder of Contact Improvisation and Contact Quarterly. Nancy Stark Smith (1952–2020) was a founding participant of Contact Improvisation, co-editor of Contact Quarterly and creator of the Underscore. https://en.wikipedia.org/wiki/Nancy_Stark_Smith
 - **Natasha Vita-More** (2) — Designer and transhumanist theorist; former chair of Humanity+. American designer and writer who has proposed designed future bodies since the 1980s and co-edited The Transhumanist Reader. https://www.natashavita-more.com/
 - **Os Keyes** (2) — Researcher in HCI and science and technology studies (PhD, University of Washington). Writer and researcher on gender, disability and technology, known for critical work on automated gender recognition.
+- **Oğuz 'Oz' Buruk** (2) — Assistant Professor, Gamification Group, Tampere University. Game and interaction design researcher working on wearables, playful bodily extensions and posthuman play.
 - **Palindrome (Robert Wechsler)** (2) — Interactive dance company led by choreographer Robert Wechsler; co-developers of EyeCon and MotionComposer. Founded in New York in 1982 and based in Germany since 1991, Palindrome made early dance pieces in which camera tracking, skin contact and body signals play music and light, mostly with engineer Frieder Weiss. https://www.palindrome.de
 - **Peter A. Levine** (2) — Psychologist, developer of Somatic Experiencing. Peter A. Levine (born 1942) holds doctorates in medical biophysics and psychology and developed Somatic Experiencing, a body-based approach to trauma. https://traumahealing.org
 - **Petr Slovák** (2) — Reader in Human-Computer Interaction, King's College London. HCI researcher working on social-emotional learning, mental health and technologies that support felt, embodied skills.
 - **Rebecca Horn** (2) — Artist (1944–2024). German artist who began with wearable body extensions (horns, feathers, long gloves) and moved on to kinetic sculpture.
 - **Rem RunGu Lin** (2) — Media artist and researcher; Reality Design Lab collaborator. Media artist and researcher who combines contact improvisation, neurofeedback and mixed reality; co-teaches XR soma design with Botao Amber Hu.
-- **Richard Byrne** (2) — Researcher, Exertion Games Lab (RMIT / Monash). Game designer and researcher on digital vertigo play using galvanic vestibular stimulation.
-- **Romain Nith** (2) — HCI researcher, Human Computer Integration Lab, University of Chicago. Researcher who works on EMS and haptic wearables that act on the body, such as SplitBody and JumpMod.
+- **Robert A. Gaunt** (2) — Associate Professor of Physical Medicine and Rehabilitation, University of Pittsburgh. Neural engineer at Pittsburgh's Rehab Neural Engineering Labs working on bidirectional BCIs and restoring sensation.
+- **Sang-won Leigh** (2) — Assistant Professor, Georgia Tech; formerly MIT Media Lab Fluid Interfaces. Sang-won Leigh designs body-extending robots and wrote on human–machine body plasticity with Pattie Maes.
 - **Scott Brave** (2) — Former researcher, Tangible Media Group, MIT Media Lab. Scott Brave built inTouch with Andrew Dahley and Hiroshi Ishii in the Tangible Media Group.
 - **Shaan Chopra** (2) — HCI researcher (IIIT-Delhi; later University of Washington). HCI researcher on menstrual health and chronic illness self-management.
+- **Sharlene N. Flesher** (2) — Biomedical engineer; led touch-feedback BCI studies at the Rehab Neural Engineering Labs, University of Pittsburgh. Biomedical engineer who showed that stimulating the somatosensory cortex through implanted electrodes can give a person with paralysis felt touch on a robotic hand.
 - **Shigeo Yoshida** (2) — Researcher, OMRON SINIC X; formerly University of Tokyo. Japanese researcher on how altered bodily feedback, such as one's own facial expression, changes emotion and behaviour. http://www.shigeodayo.com
+- **Steeven Villa** (2) — Researcher, LMU Munich (Human-Centered Ubiquitous Media). HCI researcher studying how people perceive, expect and experience human augmentation technologies, in Albrecht Schmidt's group.
 - **Tamar Makin** (2) — Professor of Cognitive Neuroscience, MRC Cognition and Brain Sciences Unit, University of Cambridge; leads the Plasticity Lab. Neuroscientist who studies body representation in amputees, prosthesis users and people wearing augmentation devices. https://www.plasticity-lab.com
 - **Tatsumi Hijikata** (2) — Dancer and choreographer (1928–1986), founder of butoh. Japanese choreographer whose 1959 Kinjiki started Ankoku Butoh, the 'dance of darkness' built from images, memory and the collapsing body. https://en.wikipedia.org/wiki/Tatsumi_Hijikata
 - **Thomas Fuchs** (2) — Karl Jaspers Professor of Philosophical Foundations of Psychiatry, Heidelberg University. Psychiatrist and phenomenologist who describes the brain as an organ of a living body in relation with others, and developed the idea of intercorporeality. https://en.wikipedia.org/wiki/Thomas_Fuchs_(psychiatrist)
 - **Tomoya Sasaki** (2) — Researcher, Embodied Media Project (Keio KMD) and University of Tokyo. Japanese researcher who designs wearable robotic limbs and studies how extra limbs enter the body schema.
+- **Umer Farooq** (2) — HCI researcher; formerly Microsoft. HCI researcher who, with Jonathan Grudin, wrote the 2016 Interactions essay that named 'human-computer integration' and organised the CHI 2017 panel and SIG on it.
 - **Valeria I. Petkova** (2) — Cognitive neuroscientist; formerly Karolinska Institutet (Ehrsson lab). Valeria Petkova led the 2008 body-swap illusion study with Henrik Ehrsson.
 - **Wayne McGregor** (2) — Choreographer; Artistic Director, Studio Wayne McGregor. British choreographer who has worked with cognitive scientists and technologists on how movement ideas are made. https://waynemcgregor.com/
 - **William Forsythe** (2) — Choreographer. American choreographer who directed Ballett Frankfurt and The Forsythe Company and developed digital tools to teach and analyse improvisation. https://www.williamforsythe.com/
+- **Yash Dhanpal Mehta** (2) — Researcher, formerly Exertion Games Lab, RMIT University. Designer of Arm-A-Dine, a playful robotic third arm worn on the body for social eating.
 - **Yuasa Yasuo** (2) — Philosopher (1925–2005); professor at Osaka, Tsukuba and Obirin universities. Japanese philosopher, a student of Watsuji Tetsurō, who wrote on the body, ki, self-cultivation and Jungian psychology; his 1977 book on the body became the main English-language source on Eastern mind-body theory. https://en.wikipedia.org/wiki/Yasuo_Yuasa
+- **Yujie Tao** (2) — PhD researcher, Stanford University; formerly pre-doctoral researcher at the Human Computer Integration Lab, University of Chicago. HCI researcher working on wearable haptics that change how real objects feel while leaving the skin free to touch them.
 - **Yves Candau** (2) — Researcher and somatic movement practitioner, Simon Fraser University. Movement practitioner and researcher who connects somatic practices, embodied cognition and interaction design.
 - **Zhuangzi** (2) — Daoist philosopher (c. 369–286 BCE). Warring States thinker whose book, the Zhuangzi, uses stories of craftsmen, butchers and swimmers to show skill as effortless, attuned action. https://en.wikipedia.org/wiki/Zhuang_Zhou
 - **Åsa Unander-Scharin** (2) — Choreographer; Professor, Luleå University of Technology. Swedish choreographer and dancer who choreographs robots and mechatronic opera with Carl Unander-Scharin (Opera Mecatronica). https://www.operamecatronica.com/
@@ -5715,15 +6743,17 @@ Feeling with plants, animals, weather and ecosystems.
 - **Ad Verheul** (1) — Therapist, De Hartenberg Institute, Ede (Netherlands). Dutch therapist and co-founder of Snoezelen with Jan Hulsegge.
 - **Adrien Verhulst** (1) — Researcher, Sony Computer Science Laboratories (Cybernetic Humanity Studio). VR researcher who studies embodiment of one or several virtual bodies with Shunichi Kasahara.
 - **Aimee Mullins** (1) — Athlete, actor and model. American Paralympic sprinter, actor and model, born without fibula bones, who owns many pairs of prosthetic legs. https://www.aimeemullins.com/
+- **Akifumi Takahashi** (1) — HCI and haptics researcher; postdoc at the Human Computer Integration Lab, University of Chicago (2022–24), then faculty at Tohoku University. Haptics researcher trained in Hiroyuki Kajimoto's lab who works on making electrical muscle stimulation precise enough for single fingers. https://www.akiphvmi.com/
 - **Alex A. Ahmed** (1) — HCI researcher; founder of Project Spectra (PhD, Northeastern University). Researcher and developer who built free, open-source voice training tools with and for trans communities.
 - **Alexander Toet** (1) — Senior scientist, TNO (Netherlands Organisation for Applied Scientific Research). Alexander Toet studies perception, emotion and mediated social touch.
 - **Alexis E. Block** (1) — Roboticist; PhD at Max Planck Institute for Intelligent Systems and ETH Zurich (HuggieBot). Alexis Block built the HuggieBot series of soft, warm hugging robots with Katherine J. Kuchenbecker.
 - **Alice Haynes** (1) — Researcher in soft robotics and haptics; PhD at the University of Bristol. Alice Haynes designs soft, shape-changing objects for emotional support, such as a cushion that breathes.
 - **Allucquére Rosanne Stone** (1) — Media theorist and artist; Professor Emerita, University of Texas at Austin. American media theorist, performance artist and a founder of transgender studies (also known as Sandy Stone). https://en.wikipedia.org/wiki/Sandy_Stone_(artist)
-- **Alva Noë** (1) — Professor of Philosophy, University of California, Berkeley. Philosopher who argues that perceiving is something we do with our moving bodies, through our practical grasp of how sensation changes as we move. https://en.wikipedia.org/wiki/Alva_No%C3%AB
 - **Alvaro Cassinelli** (1) — Associate Professor, School of Creative Media, City University of Hong Kong; formerly Ishikawa Lab, University of Tokyo. Uruguayan-born researcher and artist who made the Haptic Radar, a headband that lets wearers feel nearby objects on the skin of the head.
+- **Alvin Lucier** (1) — Composer (1931–2021). American experimental composer whose works explore the physical properties of sound, rooms and the body. https://en.wikipedia.org/wiki/Alvin_Lucier
 - **Amanda Lazar** (1) — Associate Professor, College of Information, University of Maryland. HCI researcher working on ageing, dementia, menopause and the lived experience of changing bodies.
 - **Amey Holden** (1) — HCI researcher (PhD, Open Lab, Newcastle University). Researcher on wearable technology for upper limb rehabilitation after stroke.
+- **Amon Rapp** (1) — Associate Professor, Computer Science Department, University of Turin. HCI researcher working on wearables, personal informatics and games, often through phenomenological and postphenomenological theory.
 - **Amy Huggard** (1) — Designer; Exertion Games Lab alumna (RMIT University). Game designer who led Musical Embrace, a game played by strangers hugging a pillow-like controller.
 - **Ana Paiva** (1) — Professor, Instituto Superior Técnico, University of Lisbon (GAIPS, INESC-ID). Ana Paiva leads research on affective agents and social robots in Lisbon. In the EU SAFIRA project, Paiva's team built SenToy with Höök's SICS team.
 - **Andrea Stevenson Won** (1) — Associate Professor of Communication, Cornell University; director of the Virtual Embodiment Lab. VR researcher who, with Jeremy Bailenson and Jaron Lanier, tested how people learn to move avatars with extra or rearranged limbs.
@@ -5733,6 +6763,7 @@ Feeling with plants, animals, weather and ecosystems.
 - **Anna Halprin** (1) — Choreographer, pioneer of postmodern dance and dance for healing. Anna Halprin (1920–2021) founded the San Francisco Dancers' Workshop, developed the RSVP Cycles with Lawrence Halprin and co-founded the Tamalpa Institute with her daughter Daria in 1978. https://en.wikipedia.org/wiki/Anna_Halprin
 - **Anna Vallgårda** (1) — Associate Professor, IT University of Copenhagen. Interaction design researcher on computational composites, materiality and the body.
 - **Annkatrin Jung** (1) — Interaction designer, KTH Royal Institute of Technology. Annkatrin Jung designed the Breathing Garment, which applies deep touch pressure in time with breathing.
+- **Antonin Cheymol** (1) — VR researcher, Inria / Univ Rennes (IRISA), visiting the Human Computer Integration Lab, University of Chicago. Researcher who studies how virtual reality reshapes body perception, including what lingers after the headset comes off.
 - **Antti Oulasvirta** (1) — Professor of Computer Science, Aalto University. HCI researcher, early on in mobile and contextual design, later in computational models of interaction.
 - **Art Orienté Objet** (1) — Artist duo of Marion Laval-Jeantet and Benoît Mangin. Art Orienté Objet is a French duo working at the edges of art, ethology and biology since 1991.
 - **Arvid Guterstam** (1) — Neuroscientist and physician; formerly Brain, Body and Self Laboratory, Karolinska Institutet. Researcher in Henrik Ehrsson's lab who produced the illusion of owning a third arm and other body-ownership illusions.
@@ -5745,6 +6776,7 @@ Feeling with plants, animals, weather and ecosystems.
 - **Bernhard E. Riecke** (1) — Professor, School of Interactive Arts and Technology, Simon Fraser University; leads the iSpace Lab. Researcher on self-motion perception, VR and technology for transformative, connected experiences.
 - **Bessel van der Kolk** (1) — Psychiatrist and trauma researcher. Bessel van der Kolk (born 1943) is a Dutch-born psychiatrist and trauma researcher, author of The Body Keeps the Score (2014). https://en.wikipedia.org/wiki/Bessel_van_der_Kolk
 - **Bigna Lenggenhager** (1) — Professor of Cognitive Psychology and Neuropsychology, University of Konstanz; formerly EPFL (Blanke lab). Bigna Lenggenhager led the 2007 full-body illusion study with Olaf Blanke and Thomas Metzinger.
+- **Bo Hong** (1) — Professor of Biomedical Engineering, Tsinghua University. Neuroengineer whose Tsinghua lab developed NEO, a wireless epidural BCI that sits outside the brain's dura and helps people with tetraplegia grasp again.
 - **Bronwyn Tarr** (1) — Evolutionary anthropologist and dancer; formerly Institute of Cognitive and Evolutionary Anthropology, University of Oxford. Bronwyn Tarr studies how dancing and moving in synchrony bond people together.
 - **Carey Jewitt** (1) — Professor of Learning and Technology, UCL; director of the UCL Knowledge Lab. Carey Jewitt led the ERC project IN-TOUCH on how digital technologies reshape touch and communication.
 - **Carl DiSalvo** (1) — Professor, School of Interactive Computing, Georgia Institute of Technology. Carl DiSalvo works on design, robots and public life; at Carnegie Mellon he co-designed The Hug, a robotic pillow for intimate communication.
@@ -5766,11 +6798,13 @@ Feeling with plants, animals, weather and ecosystems.
 - **Cyborg Nest** (1) — Company that made the North Sense wearable (founded 2016 by Liviu Babitz and Scott Cohen). Start-up that sold the North Sense, a small device pierced onto the chest that vibrates when the wearer faces north.
 - **Daisuke Tajima** (1) — Researcher in the sense of agency and human augmentation (University of Tokyo and Sony Computer Science Laboratories). Researcher who, with Jun Nishida, Pedro Lopes and Shunichi Kasahara, studied how people feel about touches their muscles are made to perform.
 - **Daito Manabe** (1) — Artist and programmer, Rhizomatiks. Japanese artist, programmer and DJ, co-founder of Rhizomatiks, working with data, bodies and electrical stimulation. https://www.daito.ws/en/
+- **Damon Young** (1) — Philosopher and writer. Australian philosopher and author of books including How to Think About Exercise (2014), which reads sport and exercise through philosophy.
 - **Daria Halprin** (1) — Expressive arts therapist, co-founder of the Tamalpa Institute. Daria Halprin is a movement-based expressive arts therapist who co-founded the Tamalpa Institute with Anna Halprin in 1978 and directs it. https://www.tamalpa.org
 - **David Chalmers** (1) — Professor of Philosophy and Neural Science, New York University. Australian philosopher who named the 'hard problem' of consciousness and writes on virtual worlds and machine consciousness. https://consc.net/
 - **David Eagleman** (1) — Neuroscientist, Stanford University; co-founder of Neosensory. Neuroscientist and author who built the VEST, a vest that turns sound into vibration on the torso, and the wristband product Neosensory Buzz. https://eagleman.com
 - **David Kirsh** (1) — Professor of Cognitive Science, UC San Diego. Cognitive scientist who studies thinking with bodies and things, including how dancers think through marking movement. https://adrenaline.ucsd.edu/kirsh/
 - **David Rokeby** (1) — Media artist. Canadian artist whose Very Nervous System (1982–91) was one of the first camera-based interactive sound environments. http://www.davidrokeby.com/
+- **David Rosenboom** (1) — Composer, performer and educator; former Dean of Music, California Institute of the Arts. American experimental composer who, from the early 1970s, built music systems driven by EEG and biofeedback and edited Biofeedback and the Arts (1975). https://www.davidrosenboom.com
 - **Deborah Hay** (1) — Choreographer, member of Judson Dance Theater. Deborah Hay (born 1941) danced with Merce Cunningham, took part in Judson Dance Theater and developed a choreographic practice built on attention questions such as 'What if every cell in my body at once has the potential to perceive…'. https://www.deborahhay.com
 - **Dennis Schleicher** (1) — Design researcher and consultant; OCAD University Strategic Foresight and Innovation alumnus. Design researcher who wrote on bodystorming as a form of embodied designing.
 - **Dianya Mia Hua** (1) — HCI and design researcher. HCI researcher working on somaesthetic, feminist and disability-informed design for sexual wellbeing.
@@ -5779,10 +6813,14 @@ Feeling with plants, animals, weather and ecosystems.
 - **Domna Banakou** (1) — Researcher in virtual embodiment; formerly Event Lab, University of Barcelona. Domna Banakou studies how virtual bodies change perception and bias.
 - **Don Hanlon Johnson** (1) — Professor, founder of the Somatics graduate program, California Institute of Integral Studies. Philosopher and Rolfer who founded the first accredited graduate program in somatics and edited anthologies that gathered the founders of the somatic movement. https://www.donhanlonjohnson.com
 - **Donna Haraway** (1) — Distinguished Professor Emerita, History of Consciousness Department, UC Santa Cruz. Feminist scholar of science and technology, author of A Cyborg Manifesto, When Species Meet and Staying with the Trouble. https://en.wikipedia.org/wiki/Donna_Haraway
+- **Douglas Engelbart** (1) — Engineer and inventor; founder of the Augmentation Research Center, SRI (1925–2013). Engineer who founded the Augmentation Research Center at the Stanford Research Institute, wrote the 1962 framework for augmenting human intellect and showed the mouse, hypertext and shared screens in the 1968 'Mother of All Demos'. https://www.dougengelbart.org
 - **Drew Leder** (1) — Professor of Western and Eastern Philosophy, Loyola University Maryland. Philosopher and physician who analysed why the body usually recedes from awareness and 'dys-appears' in pain and illness. https://en.wikipedia.org/wiki/Drew_Leder
+- **Eberhard Graether** (1) — Designer-researcher, formerly Exertion Games Lab, RMIT University. Built Joggobot, an autonomous quadcopter that flies ahead of a jogger as a running companion.
 - **Edmund Husserl** (1) — Philosopher, founder of phenomenology (1859–1938). German philosopher who founded phenomenology and distinguished the lived body (Leib), felt from within, from the physical body (Körper) seen as a thing. https://en.wikipedia.org/wiki/Edmund_Husserl
 - **Eduardo Kac** (1) — Artist; pioneer of telepresence and bio art. Brazilian-American artist who made telerobotic works from the late 1980s before turning to transgenic art. https://www.ekac.org
+- **Edward F. Chang** (1) — Neurosurgeon; Chair of Neurological Surgery, University of California, San Francisco. Neurosurgeon whose lab maps the speech cortex and builds speech neuroprostheses for people who have lost the ability to talk.
 - **Eleanor Rosch** (1) — Professor Emerita of Psychology, University of California, Berkeley. Cognitive psychologist known for prototype theory of categories and for bringing contemplative practice into the study of mind. https://en.wikipedia.org/wiki/Eleanor_Rosch
+- **Ellen Pearlman** (1) — New-media artist, curator and researcher. American artist and writer who makes brain-computer and AI operas and writes on surveillance, the body and consciousness.
 - **Elsa Gindler** (1) — Gymnastik teacher, pioneer of somatic education. Elsa Gindler (1885–1961) was a Berlin gymnastik teacher whose 'work on the human being' explored sitting, standing and walking through self-observation, in collaboration with Heinrich Jacoby. https://en.wikipedia.org/wiki/Elsa_Gindler
 - **Emi Tamaki** (1) — Founder and CEO of H2L, Inc.; formerly Rekimoto Lab, University of Tokyo. Researcher and entrepreneur who made PossessedHand, which moves the fingers with electrical muscle stimulation, and founded the body-sharing company H2L.
 - **Emilie Conrad** (1) — Dancer, founder of Continuum. Emilie Conrad (1934–2014) was a dancer who, after years in Haiti, founded Continuum in 1967, a practice of breath, sound and fluid micro-movement. https://continuummovement.com
@@ -5793,14 +6831,18 @@ Feeling with plants, animals, weather and ecosystems.
 - **Franca Garzotto** (1) — Professor, Politecnico di Milano; leads the I3Lab. HCI researcher on smart multisensory spaces and technology for children with neurodevelopmental disorders.
 - **Francesca Ferrando** (1) — Philosopher; Clinical Associate Professor, New York University. Italian philosopher who distinguishes philosophical posthumanism from transhumanism and teaches the posthuman. https://en.wikipedia.org/wiki/Francesca_Ferrando
 - **Francis Fukuyama** (1) — Political scientist; Senior Fellow, Stanford University. American political scientist known for The End of History and for his critique of biotechnological enhancement. https://en.wikipedia.org/wiki/Francis_Fukuyama
+- **Frederic Gilbert** (1) — Philosopher and neuroethicist (Center for Sensorimotor Neural Engineering, University of Washington; later University of Tasmania). Neuroethicist who interviews people living with brain implants about how the devices change their sense of self.
 - **Game Oven** (1) — Independent game studio (Adriaan de Jongh, Bojan Endrovski, Jonathan Barbosa). Game Oven made playful games about physical closeness between players, including Fingle and Bounden.
 - **Genevieve Bell** (1) — Anthropologist; former Intel Fellow and Director of the School of Cybernetics, Australian National University. Cultural anthropologist who studied technology in everyday life across cultures.
 - **Gerda Alexander** (1) — Rhythmics teacher, founder of Eutony. Gerda Alexander (1908–1994), a German-born Dalcroze rhythmics teacher, emigrated to Denmark in 1933, founded her training school in Copenhagen in 1940 and named her method Eutony in 1956. https://en.wikipedia.org/wiki/Gerda_Alexander
 - **Giovanna Colombetti** (1) — Professor of Philosophy, University of Exeter. Philosopher who brought affective science and enactivism together, arguing that the whole living body, not only the brain, is the organ of feeling. https://experts.exeter.ac.uk/1082-giovanna-colombetti
+- **Giulio Jacucci** (1) — Professor of Computer Science, University of Helsinki. HCI researcher working on physiological computing, implicit interaction and information seeking; he led the EU Symbiotic network and edited the Symbiotic Interaction proceedings. https://www.helsinki.fi/en/about-us/people/people-finder/giulio-jacucci-9076
 - **Gopinaath Kannabiran** (1) — Researcher in interaction design, IT University of Copenhagen. Brings queer, ecofeminist and sexuality perspectives into HCI and computational art.
+- **Grégoire Courtine** (1) — Professor of Neuroscience, EPFL; co-director of .NeuroRestore. Neuroscientist who, with neurosurgeon Jocelyne Bloch, develops spinal cord stimulation and brain–spine interfaces to restore walking after paralysis.
 - **Haiyan Zhang** (1) — Designer and engineer; Director of Innovation, Microsoft Research. China-born Australian designer and engineer at Microsoft Research who builds assistive and playful technologies; featured on the BBC's Big Life Fix.
 - **Hanne De Jaegher** (1) — Ikerbasque Research Fellow, University of the Basque Country. Enactive philosopher who, with Ezequiel Di Paolo, developed participatory sense-making: meaning created in the coordinated movement of interacting bodies. https://hannedejaegher.net
 - **Hans Moravec** (1) — Roboticist; former Research Professor, Robotics Institute, Carnegie Mellon University. Austrian-born roboticist known for Moravec's paradox and for predicting that human minds could be transferred into robots. https://en.wikipedia.org/wiki/Hans_Moravec
+- **Henri Lorach** (1) — Neuroengineer, .NeuroRestore, EPFL and Lausanne University Hospital (CHUV). Neuroengineer and first author of the brain–spine interface study that let a man with tetraplegia walk again.
 - **Hester Anderiesen-Le Riche** (1) — Designer; founder of Tover (PhD, Delft University of Technology). Industrial designer whose PhD on playful design for people with advanced dementia led to the Tovertafel.
 - **Hideyuki Ando** (1) — Professor, Osaka University. Japanese researcher and media artist working on perception, galvanic vestibular stimulation and sensory interfaces.
 - **Hiromi Nakamura** (1) — Researcher in electric taste, University of Tokyo; formerly Miyashita Lab, Meiji University. Researcher who has spent more than a decade making taste changeable with weak electric currents, from Augmented Gustation (2011) to the Kirin Electric Salt Spoon.
@@ -5815,8 +6857,11 @@ Feeling with plants, animals, weather and ecosystems.
 - **Ida Rolf** (1) — Biochemist, founder of Structural Integration (Rolfing). Ida Rolf (1896–1979) held a PhD in biochemistry and from the 1940s developed Structural Integration, a ten-session series of deep manual work on connective tissue. https://rolf.org
 - **Ilias Bergström** (1) — Researcher in sound and interaction, KTH Royal Institute of Technology. Ilias Bergström works on sonification and virtual embodiment; at KTH, Bergström built the Sarka mat with Martin Jonsson.
 - **Ilse Middendorf** (1) — Breath therapist, founder of the Perceptible Breath. Ilse Middendorf (1910–2009) developed 'Der Erfahrbare Atem' (the perceptible breath), founded her breath-therapy institute in Berlin in 1965 and became a professor at the Berlin University of the Arts in 1971. https://de.wikipedia.org/wiki/Ilse_Middendorf
+- **InteraXon** (1) — Maker of the Muse EEG meditation headband. Toronto company founded in 2007 by Ariel Garten, Trevor Coleman and Chris Aimone; it released the Muse headband in 2014. https://choosemuse.com
 - **Iris Marion Young** (1) — Political philosopher, University of Chicago (1949–2006). Feminist philosopher whose phenomenology of feminine bodily comportment showed how social norms shape how bodies move and feel their own capacities. https://en.wikipedia.org/wiki/Iris_Marion_Young
+- **J. C. R. Licklider** (1) — Psychologist and computer scientist (1915–1990). Psychoacoustician at MIT and BBN who, as head of ARPA's Information Processing Techniques Office, funded interactive computing and the networks that led to the internet. https://en.wikipedia.org/wiki/J._C._R._Licklider
 - **Jacob Buur** (1) — Professor of User-Centred Design, University of Southern Denmark. Design researcher who works on participatory innovation and on design as a bodily, material practice.
+- **Jacques J. Vidal** (1) — Computer scientist, University of California, Los Angeles. Computer scientist at UCLA who coined the term brain–computer interface in 1973 and built early EEG systems that read visual evoked potentials to steer a cursor.
 - **Jakob Tholander** (1) — Interaction design researcher, Stockholm University. Jakob Tholander studies whole-body interaction, sports and bodily experience, and co-organised the Move to be Moved workshop behind the first-person soma design paper.
 - **Jan Hulsegge** (1) — Therapist, De Hartenberg Institute, Ede (Netherlands). Dutch therapist who, with Ad Verheul, developed and named Snoezelen in 1978 and co-wrote Snoezelen: Another World.
 - **Jane Aspell** (1) — Professor of Cognitive Neuroscience, Anglia Ruskin University. Cognitive neuroscientist of bodily self-consciousness who worked with Olaf Blanke at EPFL on full-body and cardio-visual illusions.
@@ -5830,30 +6875,36 @@ Feeling with plants, animals, weather and ecosystems.
 - **Joan Mora-Guiard** (1) — Researcher, Full-Body Interaction Lab, Universitat Pompeu Fabra. Researcher on full-body mixed reality for social interaction in autistic children.
 - **Joan Skinner** (1) — Dancer, creator of Skinner Releasing Technique. Joan Skinner (1924–2021) danced with Martha Graham and Merce Cunningham and first shared the beginnings of Skinner Releasing Technique with her students at the University of Illinois in 1966–67. https://en.wikipedia.org/wiki/Skinner_Releasing_Technique
 - **Joan Sol Roo** (1) — HCI researcher (PhD, Inria Bordeaux, Potioc team). Researcher on spatial augmented reality and tangible mixed reality for introspection.
+- **Johannes Kögel** (1) — Researcher, Institute of Ethics, History and Theory of Medicine, LMU Munich. Researcher in medical ethics who studies the lived experience of people using brain–computer interfaces.
 - **John Dewey** (1) — Philosopher, psychologist and educator (1859–1952). American pragmatist philosopher whose theory of experience treated the live creature and its environment as one continuous process; he also studied with F. M. Alexander. https://en.wikipedia.org/wiki/John_Dewey
 - **John McCarthy** (1) — Professor of Applied Psychology, University College Cork. Psychologist and HCI researcher who co-developed experience-centred design with Peter Wright.
+- **John P. Veillette** (1) — Cognitive neuroscientist, University of Chicago (Department of Psychology). Neuroscientist who uses EEG and electrical muscle stimulation to study how the brain decides whether a movement was one's own.
 - **Jonas Fritsch** (1) — Associate Professor of Digital Design, IT University of Copenhagen. Interaction design researcher working with affect theory, atmospheres and sound in design.
+- **Jonathan Eden** (1) — Robotics researcher on human movement augmentation; Imperial College London (Burdet group). Robotics researcher who studies how people can control supernumerary robotic limbs alongside their natural limbs, with Etienne Burdet and Dario Farina.
+- **Jonathan R. Wolpaw** (1) — Neurologist; founder of the BCI research program at the Wadsworth Center, Albany. Neurologist whose Wadsworth Center group developed EEG-based BCIs driven by sensorimotor rhythms and the open BCI2000 software platform.
 - **Joseph Pilates** (1) — Physical trainer, creator of Contrology (Pilates). Joseph Pilates (1883–1967) was a German-born trainer who opened a studio in New York and set out his method, Contrology, in books of 1934 and 1945. https://en.wikipedia.org/wiki/Joseph_Pilates
 - **Joseph W. Newbold** (1) — HCI researcher (PhD, UCL Interaction Centre; later Northumbria University). Researcher on musical sonification of movement for physical rehabilitation.
 - **Julia Werner** (1) — Interaction designer; studied at the University of Applied Sciences Potsdam. Julia Werner designed United-pulse with Reto Wettach and Eva Hornecker.
 - **Julian Huxley** (1) — Evolutionary biologist; first Director-General of UNESCO (1887–1975). British biologist and humanist who popularised the word 'transhumanism' in 1957. https://en.wikipedia.org/wiki/Julian_Huxley
 - **Junichi Nabeshima** (1) — Researcher, Embodied Media Project, Keio University Graduate School of Media Design (KMD). Designer-researcher who built Arque, a wearable robotic tail, with Yamen Saraiji and Kouta Minamizawa.
 - **Jérôme Bel** (1) — Choreographer. French conceptual choreographer whose pieces put dancers' own bodies and biographies on stage. https://www.jeromebel.fr
-- **Kai Kunze** (1) — Professor, Keio University Graduate School of Media Design (KMD). German-born wearable computing researcher at Keio KMD who co-authored the Superhuman Sports agenda.
 - **Karen Anne Cochrane** (1) — Design researcher, Carleton University. Design researcher working on body maps, wearables and emotion.
 - **Kathryn E. Ringland** (1) — Assistant Professor of Computational Media, University of California, Santa Cruz. HCI researcher on autism, sensory experience, disability and play.
 - **Kazuo Ohno** (1) — Butoh dancer (1906–2010). Co-founder of butoh with Hijikata, who kept dancing past 100 and taught that dance begins in the soul and the life of the body. https://en.wikipedia.org/wiki/Kazuo_Ohno
 - **Kazuo Shiraga** (1) — Gutai painter and performer (1924–2008). Gutai artist who painted with his feet while hanging from a rope and later became a Tendai monk. https://en.wikipedia.org/wiki/Kazuo_Shiraga
 - **Ke Huang** (1) — Artist and designer; Reality Design Lab collaborator. Designer who directs Reality Design Lab's kinetic and machine-vision installations Cybroc and Body Oracle.
 - **Kenichi Okada** (1) — Designer; Royal College of Art Design Interactions graduate. Kenichi Okada is a Japanese designer who co-created Animal Superpowers with Chris Woebken.
+- **Kensuke Katori** (1) — HCI researcher, Human Computer Integration Lab, University of Chicago. Researcher who uses galvanic vestibular stimulation to change how people sense their body's position in virtual reality.
 - **Kevin Warwick** (1) — Cybernetics researcher; Emeritus Professor, Coventry and Reading Universities. British engineer who had an RFID chip (1998) and then a neural electrode array (2002) implanted to connect his nervous system to computers. https://en.wikipedia.org/wiki/Kevin_Warwick
 - **Kirsten Boehner** (1) — HCI researcher (PhD, Cornell University). Researcher in information science and critical HCI who, with Dourish and Sengers, formulated the interactional approach to emotion in design.
 - **Konstantina Kilteni** (1) — Neuroscientist, Donders Institute; formerly Karolinska Institutet and Event Lab, Barcelona. Konstantina Kilteni studies body ownership, self-touch and the sense of embodiment.
+- **Lancel & Maat** (1) — Artist duo Karen Lancel and Hermen Maat. Dutch artist duo who make participatory performances about touch, intimacy and trust in networked and data-driven society. https://lancelmaat.nl
 - **Laura Devendorf** (1) — Associate Professor, ATLAS Institute and Information Science, University of Colorado Boulder; director of the Unstable Design Lab. Laura Devendorf is a designer and artist working on weaving, smart textiles and hybrid human-machine making. https://unstable.design
 - **Laura Forlano** (1) — Professor of Art + Design and Communication Studies, Northeastern University. American design researcher and writer on disability, feminist technoscience and living with an automated insulin system. https://www.lauraforlano.org/
 - **Lee Bul** (1) — Artist. Korean artist working across performance, sculpture and installation; her work addresses technology, gender, utopia and the body. https://en.wikipedia.org/wiki/Lee_Bul
 - **Lin Hwai-min** (1) — Choreographer; founder of Cloud Gate Dance Theatre. Taiwanese writer and choreographer who founded Cloud Gate in 1973 and built its training on tai chi daoyin, meditation, martial arts and calligraphy. https://www.cloudgate.org.tw/en
 - **Lisa Feldman Barrett** (1) — University Distinguished Professor of Psychology, Northeastern University. Psychologist and neuroscientist who developed the theory of constructed emotion, in which the brain builds emotions from interoceptive predictions. https://lisafeldmanbarrett.com
+- **Lisa Park** (1) — Artist working with biosensors, sound and installation. Korean-born, New York-based artist who uses EEG and heart-rate sensors to make her inner states visible and audible in water, sound and light. https://www.thelisapark.com
 - **Lone Koefoed Hansen** (1) — Associate Professor of Digital Design, Aarhus University. Digital design researcher working on aesthetics, critique and embodied experience with technology.
 - **Lulu Sweigard** (1) — Movement educator, developer of Ideokinesis. Lulu Sweigard (1895–1974), a student of Mabel Todd, researched imagery and skeletal alignment, taught at the Juilliard School and named the practice ideokinesis. https://en.wikipedia.org/wiki/Ideokinesis
 - **Mabel Elsworth Todd** (1) — Movement educator, author of The Thinking Body. Mabel Elsworth Todd (c.1880–1956) taught posture through imagery at Columbia Teachers College and published The Thinking Body in 1937. https://en.wikipedia.org/wiki/Mabel_Elsworth_Todd
@@ -5864,8 +6915,8 @@ Feeling with plants, animals, weather and ecosystems.
 - **Margherita Pevere** (1) — Artist and researcher in biological art. Italian artist who works with living matter, bacteria and the leaking, ageing body.
 - **Mariam Hassib** (1) — HCI researcher (LMU Munich at the time of HeartChat). HCI researcher working on physiological sensing for communication and on affective and brain-computer interfaces.
 - **Marian Chace** (1) — Dancer, founder of dance/movement therapy. Marian Chace (1896–1970) trained at Denishawn, began dancing with psychiatric patients at St. Elizabeths Hospital in 1942 and became the first president of the American Dance Therapy Association in 1966. https://en.wikipedia.org/wiki/Marian_Chace
-- **Marianna Obrist** (1) — Professor of Multisensory Interfaces, University College London. HCI researcher who leads the SCHI Lab and studies touch, taste and smell as channels of experience and emotion.
 - **Mariko Mori** (1) — Artist. Japanese artist whose photographs, videos and installations join technology with Buddhist and Shinto ideas of oneness. https://en.wikipedia.org/wiki/Mariko_Mori
+- **Marina Abramović** (1) — Performance artist. Serbian-born performance artist working since the early 1970s with endurance, presence and the relation between performer and audience. https://en.wikipedia.org/wiki/Marina_Abramovi%C4%87
 - **Marion Buchenau** (1) — Designer, formerly IDEO. Interaction designer who, with Jane Fulton Suri, described experience prototyping at IDEO.
 - **Marion Rosen** (1) — Physical therapist, founder of Rosen Method. Marion Rosen (1914–2012) trained in Berlin with Lucy Heyer, a student of Elsa Gindler, and developed Rosen Method Bodywork in Berkeley; the Rosen Institute was formed in 1980. https://rosenmethod.org
 - **Mark Coniglio / Troika Ranch (with Dawn Stoppiello)** (1) — Interactive dance-theatre company; Mark Coniglio created the Isadora media software and the MidiDancer sensor suit. Composer-programmer Mark Coniglio and choreographer Dawn Stoppiello founded Troika Ranch in 1994; their sensor suits and camera tracking let dancers shape video, sound and light. https://troikaranch.org
@@ -5873,6 +6924,7 @@ Feeling with plants, animals, weather and ecosystems.
 - **Martin Hachet** (1) — Research Director, Inria Bordeaux (Potioc team). Researcher on tangible and augmented interaction for learning, art and wellbeing.
 - **Mary Overlie** (1) — Choreographer, originator of the Six Viewpoints. Mary Overlie (1946–2020) was a choreographer and teacher who originated the Six Viewpoints (space, shape, time, emotion, movement, story), taught at NYU's Experimental Theater Wing from 1978. https://en.wikipedia.org/wiki/Mary_Overlie
 - **Mary Starks Whitehouse** (1) — Dancer and dance therapist, originator of Authentic Movement. Mary Starks Whitehouse (1911–1979) studied with Mary Wigman and Martha Graham and, drawing on Jungian active imagination, developed 'movement in depth' in the 1950s. https://en.wikipedia.org/wiki/Authentic_Movement
+- **Masaki Batoh** (1) — Musician; founder of the Tokyo band Ghost. Japanese musician who led the experimental rock group Ghost and later built a brainwave-to-sound device for Brain Pulse Music (2012). https://www.dragcity.com/artists/masaki-batoh
 - **Matthew Botvinick** (1) — Cognitive neuroscientist; formerly Princeton University and DeepMind. Matthew Botvinick and Jonathan Cohen described the rubber hand illusion in 1998.
 - **Max More** (1) — Philosopher; co-founder of the Extropy Institute. British-born philosopher who shaped modern transhumanism through the Extropian principles (1990s) and led the Alcor Life Extension Foundation.
 - **Max Rheiner** (1) — Media artist; creator of Birdly and founder of Somniacs; formerly Zurich University of the Arts. Max Rheiner is a Swiss media artist who developed Birdly at the Zurich University of the Arts.
@@ -5891,12 +6943,17 @@ Feeling with plants, animals, weather and ecosystems.
 - **Myron Krueger** (1) — Computer artist; pioneer of 'artificial reality'. American artist-engineer who from the 1970s built responsive environments in which people's video silhouettes play with graphics.
 - **N. Katherine Hayles** (1) — Distinguished Research Professor, UCLA; James B. Duke Professor Emerita, Duke University. American literary and media theorist of cybernetics, posthumanism and nonconscious cognition. https://en.wikipedia.org/wiki/N._Katherine_Hayles
 - **Nahoko Yamamura** (1) — Designer-researcher, University of Tokyo; JIZAI ARMS team of the JIZAI Body Project. Researcher who led the collaborative design of JIZAI ARMS, a wearable base with detachable robot arms that wearers can exchange.
+- **Nandini Pasumarthy** (1) — Researcher, Exertion Games Lab, Monash University. HCI researcher studying how everyday gut sounds can support interoceptive awareness.
+- **Nanning Zheng** (1) — Professor, Institute of Artificial Intelligence and Robotics, Xi'an Jiaotong University; member of the Chinese Academy of Engineering. Computer-vision and AI researcher who led the Chinese framing of 'hybrid-augmented intelligence', a pillar of China's 2017 national AI plan.
 - **Narcís Parés** (1) — Associate Professor; leads the Full-Body Interaction Lab, Universitat Pompeu Fabra. Researcher on full-body interaction and embodied cognition in interactive environments.
+- **Natasha Kovacevic** (1) — Neuroscientist, Rotman Research Institute, Baycrest, Toronto. Neuroscientist who led My Virtual Dream, a collective EEG neurofeedback installation and large-scale experiment at Toronto's Nuit Blanche.
 - **Nathan S. Kline** (1) — Psychiatrist (1916–1983). American psychiatrist and psychopharmacology pioneer who directed research at Rockland State Hospital. https://en.wikipedia.org/wiki/Nathan_S._Kline
 - **Neil Harbisson** (1) — Cyborg artist; co-founder of the Cyborg Foundation and Cyborg Arts. Artist born with achromatopsia who hears colour through an antenna implanted in his skull. https://www.cyborgarts.com/
+- **Neuralink** (1) — Neurotechnology company developing implanted brain–computer interfaces. Company founded in 2016 by Elon Musk and others that develops the N1 implant, a coin-sized device with thin electrode threads inserted by a surgical robot. https://neuralink.com
 - **Nick Bostrom** (1) — Philosopher; founding director of the Future of Humanity Institute, Oxford (2005–2024). Swedish philosopher of existential risk and human enhancement, co-founder of the World Transhumanist Association. https://nickbostrom.com/
 - **Nicolas Rasamimanana** (1) — Researcher and co-founder of Phonotonic; formerly IRCAM. Violinist and researcher in gesture and music who led the design of IRCAM's Modular Musical Objects.
 - **Nikki Theofanopoulou** (1) — Researcher; co-founder of Purrble (King's College London / Sensing Self). Researcher on in-situ, embodied interventions for children's emotion regulation.
+- **Nina Sobell** (1) — Video, performance and net artist. American artist, part of the 1970s feminist video movement, who has made BrainWave Drawings with two people's EEG since 1973. https://ninasobell.com
 - **Nishida Kitarō** (1) — Philosopher (1870–1945), founder of the Kyoto School. Founder of modern Japanese philosophy, known for 'pure experience', the logic of basho (place) and 'action-intuition' (kōiteki chokkan). https://plato.stanford.edu/entries/nishida-kitaro/
 - **Noguchi Haruchika** (1) — Founder of Seitai (1911–1976). Japanese healer who founded Seitai, a system of body types (taiheki), hand attention (yuki) and spontaneous movement (katsugen undō). https://en.wikipedia.org/wiki/Haruchika_Noguchi
 - **Noguchi Michizō** (1) — Physical educator (1914–1998); professor, Tokyo University of the Arts. Former military gymnastics teacher who, after the war, developed Noguchi Taisō, a practice of releasing effort and letting weight and momentum move the body. https://ja.wikipedia.org/wiki/野口三千三
@@ -5904,8 +6961,12 @@ Feeling with plants, animals, weather and ecosystems.
 - **Odile Fillod** (1) — Independent researcher in the sociology of science. French researcher who critiques biological claims about sex and gender and made an open-source, life-size 3D model of the clitoris in 2016.
 - **Ohad Naharin** (1) — Choreographer, creator of Gaga. Ohad Naharin (born 1952) was artistic director of Batsheva Dance Company from 1990 to 2018 and developed the movement language Gaga. https://www.gagapeople.com
 - **Oliver L. Haimson** (1) — Assistant Professor, School of Information, University of Michigan. Social computing researcher on trans people's experiences with technology; author of Trans Technologies (MIT Press, 2025).
+- **OpenBCI** (1) — Open-source biosensing hardware company. Company started by Joel Murphy and Conor Russomanno after a 2013 Kickstarter campaign; it makes low-cost open EEG/EMG/ECG boards and the Galea headset. https://openbci.com
 - **Oscar Tomico** (1) — Associate Professor, Eindhoven University of Technology; Elisava Barcelona. Design researcher on soft wearables, first-person and embodied design research.
 - **Owen Harris** (1) — VR designer and artist; co-creator of DEEP. Owen Harris makes meditative VR; he built DEEP with Niki Smit after using breathing to manage his own anxiety. https://www.exploredeep.com
+- **Pat Pataranutaporn** (1) — Researcher, MIT Media Lab (Fluid Interfaces group). Pat Pataranutaporn is a technologist working across synthetic biology, wearables and human–AI interaction; his bio work includes the Living Bits framework and wearable bio-digital organs. https://www.media.mit.edu/people/patpat/overview/
+- **Patricia Cornelio** (1) — HCI researcher on the sense of agency; PhD, University College London. Researcher in multisensory interfaces and the sense of agency, trained in Marianna Obrist's group at UCL and working with neuroscientist Patrick Haggard.
+- **Patrick D. Ganzer** (1) — Neuroscientist, formerly at Battelle Memorial Institute. Neuroscientist who led the Battelle NeuroLife study that decoded faint touch signals from motor cortex to restore a sense of touch in a man with spinal cord injury.
 - **Paul Bach-y-Rita** (1) — Neuroscientist and rehabilitation physician (1934–2006); University of Wisconsin–Madison. Pioneer of sensory substitution who, from 1969, let blind people perceive images through touch on the back and later the tongue.
 - **Paul Bucci** (1) — Researcher; formerly SPIN Lab, University of British Columbia. Paul Bucci led CuddleBits, small breathing robots prototyped together with their behaviour.
 - **Paul Dourish** (1) — Chancellor's Professor of Informatics, University of California, Irvine. Computer scientist and social scientist who brought phenomenology into HCI and defined embodied interaction. https://www.dourish.com
@@ -5917,10 +6978,14 @@ Feeling with plants, animals, weather and ecosystems.
 - **Petra Sundström** (1) — Interaction design researcher (SICS and Stockholm University), creator of eMoto. Petra Sundström (published earlier as Petra Fagerberg) designed eMoto, an affective messaging service, as doctoral research with Höök.
 - **Pichet Klunchun** (1) — Dancer and choreographer. Thai dancer trained in classical masked khon who makes contemporary work from its body knowledge. https://en.wikipedia.org/wiki/Pichet_Klunchun
 - **Ping-Hsuan Han** (1) — HCI researcher, National Taiwan University (Yi-Ping Hung's lab). Taiwanese researcher who builds mixed reality tools for learning embodied skills such as tai chi.
+- **Po-Yao (Cosmos) Wang** (1) — HCI researcher, Exertion Games Lab, Monash University. HCI researcher who designs interactive systems for lucid dreaming and other altered states of consciousness.
 - **R. Michael Winters** (1) — Researcher in sonification and auditory display (PhD, Georgia Tech). Researcher in sonification and music technology who studied heartbeat sounds as expressive biosignals at Georgia Tech's Sonification Lab.
 - **Rafael Lozano-Hemmer** (1) — Artist. Mexican-Canadian media artist whose large-scale participatory installations use biometric signals such as heartbeat, breath and fingerprints. https://www.lozano-hemmer.com
+- **Rafael Yuste** (1) — Professor of Biological Sciences, Columbia University; chair of the Neurorights Foundation. Spanish neuroscientist who helped launch the US BRAIN Initiative and campaigns for neurorights in law. https://en.wikipedia.org/wiki/Rafael_Yuste
+- **Rajesh P. N. Rao** (1) — Professor of Computer Science and Engineering, University of Washington. Computational neuroscientist who, with psychologist Andrea Stocco, built the first direct non-invasive brain-to-brain interface between humans.
 - **Rebecca Fiebrink** (1) — Professor, UAL Creative Computing Institute. Rebecca Fiebrink is a computer scientist and musician who builds interactive machine learning tools for artists. http://www.wekinator.org/
 - **Ron Kurtz** (1) — Psychotherapist, founder of the Hakomi Method. Ron Kurtz (1934–2011) developed the Hakomi Method in the 1970s, a body-centred psychotherapy that works in mindfulness, and co-founded the Hakomi Institute in 1981. https://hakomiinstitute.com
+- **Roope Raisamo** (1) — Professor of Computer Science, Tampere University; head of TAUCHI. HCI researcher on multimodal, haptic and gaze interaction who leads the Tampere Unit for Computer-Human Interaction (TAUCHI). https://research.tuni.fi/tauchi/
 - **Rosalind Picard** (1) — Professor, MIT Media Lab; founder of the Affective Computing group. Electrical engineer who founded the field of affective computing and co-founded Affectiva and Empatica. https://www.media.mit.edu/people/picard/overview/
 - **Rosemary Candelario** (1) — Dance scholar and butoh choreographer; Texas Woman's University. Dance scholar and butoh practitioner, author of Flowers Cracking Concrete on Eiko & Koma, who choreographs site-based butoh.
 - **Rosi Braidotti** (1) — Distinguished University Professor Emerita, Utrecht University. Italian-Australian feminist philosopher of nomadic subjectivity and critical posthumanism. https://en.wikipedia.org/wiki/Rosi_Braidotti
@@ -5930,28 +6995,34 @@ Feeling with plants, animals, weather and ecosystems.
 - **Sarah Garfinkel** (1) — Professor of Cognitive Neuroscience, Institute of Cognitive Neuroscience, UCL. Neuroscientist who studies how signals from the heart shape emotion, cognition and mental health.
 - **Saskia K. Nagel** (1) — Professor of Applied Ethics, RWTH Aachen University; formerly Institute of Cognitive Science, University of Osnabrück. Cognitive scientist and ethicist who, with Peter König's group in Osnabrück, first tested the feelSpace belt that lets wearers feel magnetic north. https://www.feelspace.de
 - **Scott Klemmer** (1) — Professor of Cognitive Science and Computer Science, UC San Diego. HCI researcher working on design tools, tangible interaction and how people learn design. https://d.ucsd.edu/srk/
+- **Sean L. Metzger** (1) — Neuroengineer, Chang Lab, University of California, San Francisco. Neuroengineer and first author of the speech neuroprosthesis that decoded attempted speech into text, voice and a talking facial avatar.
 - **Shaun Gallagher** (1) — Lillian and Morris Moss Professor of Excellence in Philosophy, University of Memphis. Phenomenologist and cognitive scientist who distinguished body schema from body image and helped found 4E (embodied, embedded, enactive, extended) cognition. https://en.wikipedia.org/wiki/Shaun_Gallagher
 - **Shigehisa Kuriyama** (1) — Historian of medicine; Reischauer Institute Professor of Cultural History, Harvard University. Japanese-born historian of medicine who compares how Greek and Chinese physicians learned to touch, see and name the body. https://en.wikipedia.org/wiki/Shigehisa_Kuriyama
 - **Shigenori Nagatomo** (1) — Professor of Philosophy and Religion, Temple University. Japanese philosopher and translator of Yuasa Yasuo who writes on Japanese Buddhism, the lived body and ki. https://sunypress.edu/Contributors/N/Nagatomo-Shigenori
 - **Shizuto Masunaga** (1) — Shiatsu practitioner and psychologist (1925–1981). Japanese psychologist and shiatsu teacher who created Zen Shiatsu, combining meridian theory with a two-handed, relaxed, listening touch. https://en.wikipedia.org/wiki/Shizuto_Masunaga
 - **Shu Lea Cheang** (1) — Artist and filmmaker. Taiwanese-American net-art pioneer whose films and installations deal with surveillance, sexuality and data. https://en.wikipedia.org/wiki/Shu_Lea_Cheang
 - **Simo Järvelä** (1) — Researcher in psychophysiology and VR, Aalto University and University of Helsinki. Simo Järvelä studies shared biofeedback, meditation and social presence in virtual reality.
+- **Siyi Liu** (1) — HCI researcher, Exertion Games Lab, Monash University. HCI researcher who designs 'superpower' systems that couple brain sensing with electrical muscle stimulation between people.
 - **Somniacs** (1) — Swiss VR simulator company behind Birdly. Somniacs was founded by Max Rheiner to develop Birdly, a full-body flight simulator. https://www.birdlyvr.com
 - **Sputniko! (Hiromi Ozaki)** (1) — Artist and designer. Japanese artist and designer (born 1985) known for speculative films and devices about technology and gender; trained in Design Interactions at the Royal College of Art. https://sputniko.com
 - **Steve Paxton** (1) — Dancer, choreographer, initiator of Contact Improvisation. Steve Paxton (1939–2024) danced with Merce Cunningham, co-founded Judson Dance Theater and Grand Union, and in 1972 initiated Contact Improvisation. https://en.wikipedia.org/wiki/Steve_Paxton
 - **Steve Yohanan** (1) — Researcher; formerly SPIN Lab, University of British Columbia. Steve Yohanan built the Haptic Creature, a furry robot that breathes, purrs and stiffens under the hand.
 - **Susumu Tachi** (1) — Professor Emeritus, University of Tokyo; originator of telexistence. Engineer who proposed telexistence in 1980 and built the TELESAR robot series, which let an operator see, hear and feel through a remote robot body.
+- **Synchron** (1) — Neurotechnology company developing the endovascular Stentrode BCI. Company founded in Melbourne that implants a stent-mounted electrode array through the jugular vein into a blood vessel over the motor cortex, avoiding open brain surgery. https://synchron.com
 - **TERMINALBEACH** (1) — Artist duo (Peter Votava and Erich Berger). Austrian artist duo of Peter Votava and Erich Berger working with audiovisual performance, biofeedback and generative systems.
 - **Tabitha C. Peck** (1) — Associate Professor of Mathematics and Computer Science, Davidson College. Tabitha Peck studies avatar embodiment, bias and perception in VR.
 - **Takanori Shibata** (1) — Chief senior research scientist, AIST (National Institute of Advanced Industrial Science and Technology). Japanese roboticist who has developed PARO, a therapeutic seal robot, since 1993. https://en.wikipedia.org/wiki/Paro_(robot)
 - **Tao Ye** (1) — Choreographer; co-founder of TAO Dance Theater. Chinese choreographer who founded TAO Dance Theater in 2008 with Duan Ni and makes numbered works built on continuous circular movement. https://www.taodancetheater.com
 - **Taro Maeda** (1) — Professor, Osaka University; formerly NTT Communication Science Laboratories. Japanese researcher in human interfaces and telexistence who led the galvanic vestibular stimulation (GVS) work at NTT.
 - **Thich Nhat Hanh** (1) — Vietnamese Zen monk and teacher (1926–2022), founder of Plum Village. Vietnamese Thiền monk, peace activist and author of The Miracle of Mindfulness, who taught mindful breathing, walking and eating to a worldwide lay public. https://plumvillage.org
+- **Thomas J. Oxley** (1) — Neurologist; founder and CEO of Synchron. Australian neurologist and interventional neuroradiologist who invented the Stentrode and led its first-in-human study.
 - **Thomas Thwaites** (1) — Designer. Thomas Thwaites is a designer known for The Toaster Project and GoatMan. https://www.thomasthwaites.com
 - **Thórhildur Ásgeirsdóttir** (1) — Interaction design researcher, KTH Royal Institute of Technology. Thórhildur Ásgeirsdóttir uses soma design to rethink everyday relations with energy.
 - **Tom Calvert** (1) — Professor Emeritus, School of Interactive Arts and Technology, Simon Fraser University. Computer scientist who led the SFU team that built Life Forms (later DanceForms), a figure-animation tool for choreographers.
 - **Tu Weiming** (1) — Confucian philosopher; professor emeritus, Harvard University and Peking University. Leading New Confucian thinker who reinterprets self-cultivation (xiushen) and 'embodied knowing' (tizhi) for the modern world. https://en.wikipedia.org/wiki/Tu_Weiming
 - **V. S. Ramachandran** (1) — Distinguished Professor, Department of Psychology, University of California, San Diego. Neuroscientist known for work on phantom limbs, body image and synaesthesia; author of Phantoms in the Brain (1998).
+- **Valdemar Danry** (1) — Researcher, MIT Media Lab (Fluid Interfaces group). Researcher working on human–AI interaction, cognitive augmentation and the phenomenology of integrated systems at the MIT Media Lab.
+- **Vannevar Bush** (1) — Engineer and science administrator (1890–1974). Electrical engineer at MIT who directed the US Office of Scientific Research and Development during the Second World War; his 1945 essay imagined the memex, a desk that extends human memory. https://en.wikipedia.org/wiki/Vannevar_Bush
 - **Viktoria Modesta** (1) — Bionic pop artist and performer. Latvian-born British singer and performer who chose a below-knee amputation in 2007 and performs with designed prosthetic legs. https://www.viktoriamodesta.com/
 - **Vivian Sobchack** (1) — Professor Emerita of Film, Television and Digital Media, UCLA. American film and media theorist who brought existential phenomenology to film and wrote about living with her own prosthetic leg. https://en.wikipedia.org/wiki/Vivian_Sobchack
 - **Vygandas Šimbelis** (1) — Artist and interaction design researcher, KTH Royal Institute of Technology. Vygandas Šimbelis is an artist who made the Metaphone biofeedback painting machine during doctoral work with Höök at KTH.
@@ -5961,12 +7032,16 @@ Feeling with plants, animals, weather and ecosystems.
 - **William Steptoe** (1) — VR researcher; formerly Virtual Environments and Computer Graphics group, UCL. William Steptoe led the Human Tails study on owning and controlling an extra body part in VR.
 - **Winslow Porter** (1) — Immersive producer and creative director. Winslow Porter co-created the VR works Giant and Tree with Milica Zec.
 - **Wonjun Lee** (1) — Design researcher; KAIST Department of Industrial Design (at the time of the study). Korean design researcher who, with Youn-kyung Lim and Richard Shusterman, tested somaesthetic practice as preparation for product ideation.
+- **Wouter Walmink** (1) — Interaction designer, formerly Exertion Games Lab, RMIT University. Designed bicycle helmets that display the wearer's heart rate and LumaHelm, a helmet covered in LEDs for communication and play.
+- **Xiangshi Ren** (1) — Professor, Kochi University of Technology; director, Center for Human-Engaged Computing. HCI researcher who proposes 'human-engaged computing', which pairs human capacities with computing and draws on East Asian philosophy; panellist at the CHI 2017 integration debate.
 - **Xinglin Sun** (1) — HCI researcher. HCI researcher who designs embodied probes for adolescent mental health.
 - **Yang Chengfu** (1) — Tai chi master (1883–1936). Grandson of Yang Luchan who standardised the large-frame Yang-style tai chi form and taught it widely in Beijing, Shanghai and Nanjing. https://en.wikipedia.org/wiki/Yang_Chengfu
 - **Yi Je-ma** (1) — Korean physician and thinker (1837–1900). Joseon-era physician who founded Sasang constitutional medicine in his book Dongui Suse Bowon (1894). https://en.wikipedia.org/wiki/Yi_Je-ma
+- **Yiran Zhao** (1) — PhD researcher, Cornell University (People-Aware Computing Lab). Researcher in mobile health who studies wearables that act on the body in the moment, such as affective touch against anxiety.
 - **Yoko Ono** (1) — Artist, musician and peace activist. Japanese-American artist (born 1933) close to Fluxus, whose instruction pieces and performances ask the audience to complete the work with their own bodies. https://imaginepeace.com
 - **Yolande Strengers** (1) — Professor of Digital Technology and Society, Monash University. Sociologist of technology working on smart homes, gender and intimate technologies; co-author of The Smart Wife (2020).
-- **Yudai Tanaka** (1) — HCI researcher, Human Computer Integration Lab, University of Chicago. Researcher who produces touch and force sensations by stimulating nerves and the brain rather than the skin.
+- **Yun Ho** (1) — PhD student, Human Computer Integration Lab, University of Chicago. HCI researcher and artist who builds electrical muscle stimulation systems that assist the body, including AI-generated muscle guidance. https://yunho7464.github.io/
 - **Zeami Motokiyo** (1) — Noh actor, playwright and theorist (c. 1363–1443). Master of Noh theatre whose secret treatises, such as the Fūshikaden and Kakyō, set out how an actor trains body, voice and awareness. https://en.wikipedia.org/wiki/Zeami_Motokiyo
 - **Ziyue Piao** (1) — Researcher, McGill University (Input Devices and Music Interaction Laboratory). Researcher in music technology who studies performers' breathing and somatic experience.
 - **doppel** (1) — Wearable technology company. London start-up founded in 2015 by four Royal College of Art / Imperial College graduates that makes a wristband emitting a heartbeat-like pulse. https://feeldoppel.co.uk
+- **neurowear** (1) — Tokyo gadget project team working on the “Augmented Human Body”. Japanese project team whose first product, necomimi, turned a consumer EEG sensor into cat ears that move with the wearer's mental state. https://neurowear.com

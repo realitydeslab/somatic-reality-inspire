@@ -2106,7 +2106,8 @@
    "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Marina_Abramovi%C4%87._The_Cleaner_%2845524492341%29.jpg",
    "based": "New York, US",
    "based_zh": "纽约，美国",
-   "born": 1946
+   "born": 1946,
+   "creator_id": "marina-abramovic"
   },
   {
    "id": "person--yvonne-rainer",
@@ -2397,7 +2398,8 @@
    ],
    "url": "https://en.wikipedia.org/wiki/Lisa_Park_(artist)",
    "based": "New York, US",
-   "based_zh": "纽约，美国"
+   "based_zh": "纽约，美国",
+   "creator_id": "lisa-park"
   },
   {
    "id": "person--rafael-lozano-hemmer",

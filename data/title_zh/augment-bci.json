@@ -1,0 +1,150 @@
+{
+ "jacques-vidal--toward-direct-brain-computer-communication": {
+  "zh": "迈向直接的脑-计算机通信",
+  "src": "translated"
+ },
+ "jonathan-wolpaw--bci-for-communication-and-control": {
+  "zh": "用于交流与控制的脑机接口",
+  "src": "translated"
+ },
+ "leigh-hochberg--braingate-neuronal-ensemble-control": {
+  "zh": "BrainGate：用神经元集群控制假体设备",
+  "src": "translated"
+ },
+ "leigh-hochberg--braingate-reach-and-grasp": {
+  "zh": "BrainGate：用神经控制的机械臂伸手与抓握",
+  "src": "translated"
+ },
+ "sharlene-flesher--intracortical-microstimulation-touch": {
+  "zh": "人类躯体感觉皮层的皮层内微电刺激",
+  "src": "translated"
+ },
+ "sharlene-flesher--tactile-feedback-improves-arm-control": {
+  "zh": "唤起触觉的脑机接口改善了机械臂控制",
+  "src": "translated"
+ },
+ "patrick-ganzer--restoring-touch-demultiplexing": {
+  "zh": "用感觉运动解复用神经接口恢复触觉",
+  "src": "translated"
+ },
+ "henri-lorach--brain-spine-interface-walking": {
+  "zh": "借助脑-脊髓接口在脊髓损伤后自然行走",
+  "src": "translated"
+ },
+ "sean-metzger--speech-neuroprosthesis-avatar": {
+  "zh": "用于言语解码与虚拟形象控制的高性能神经假体",
+  "src": "translated"
+ },
+ "neuralink--n1-implant": {
+  "zh": "Neuralink N1 植入体（PRIME 研究）",
+  "src": "translated"
+ },
+ "synchron--stentrode": {
+  "zh": "Stentrode",
+  "src": "keep"
+ },
+ "bo-hong--neo": {
+  "zh": "NEO 脑机接口",
+  "src": "translated"
+ },
+ "interaxon--muse": {
+  "zh": "Muse 冥想头带",
+  "src": "translated"
+ },
+ "openbci--openbci-and-galea": {
+  "zh": "OpenBCI 与 Galea",
+  "src": "keep"
+ },
+ "neurowear--necomimi": {
+  "zh": "necomimi 脑波猫耳",
+  "src": "translated"
+ },
+ "alvin-lucier--music-for-solo-performer": {
+  "zh": "为独奏者而作的音乐",
+  "src": "translated"
+ },
+ "david-rosenboom--on-being-invisible": {
+  "zh": "论隐形",
+  "src": "translated"
+ },
+ "nina-sobell--brainwave-drawings": {
+  "zh": "脑波绘画",
+  "src": "translated"
+ },
+ "lisa-park--eunoia": {
+  "zh": "Eunoia（美好的思想）",
+  "src": "keep"
+ },
+ "masaki-batoh--brain-pulse-music": {
+  "zh": "Brain Pulse Music（脑脉冲音乐）",
+  "src": "keep"
+ },
+ "marina-abramovic--measuring-the-magic-of-mutual-gaze": {
+  "zh": "测量相互凝视的魔力",
+  "src": "translated"
+ },
+ "suzanne-dikker--mutual-wave-machine": {
+  "zh": "相互波动机器",
+  "src": "translated"
+ },
+ "natasha-kovacevic--my-virtual-dream": {
+  "zh": "我的虚拟之梦",
+  "src": "translated"
+ },
+ "ellen-pearlman--noor-a-brain-opera": {
+  "zh": "Noor：脑歌剧",
+  "src": "translated"
+ },
+ "lancel-maat--eeg-kiss": {
+  "zh": "E.E.G. KISS（脑电之吻）",
+  "src": "keep"
+ },
+ "rajesh-rao--direct-brain-to-brain-interface": {
+  "zh": "人类之间的直接脑对脑接口",
+  "src": "translated"
+ },
+ "suzanne-dikker--classroom-brain-to-brain-synchrony": {
+  "zh": "脑与脑的同步追踪课堂中真实的群体互动",
+  "src": "translated"
+ },
+ "nathan-semertzidis--inter-dream": {
+  "zh": "Inter-Dream",
+  "src": "keep"
+ },
+ "nathan-semertzidis--psinet": {
+  "zh": "PsiNet",
+  "src": "keep"
+ },
+ "nathan-semertzidis--brain-computer-integration": {
+  "zh": "脑机融合：从融合视角设计脑机接口的框架",
+  "src": "translated"
+ },
+ "josh-andres--ena-peripheral-awareness": {
+  "zh": "Ena：把周边觉察作为人机融合的神经状态",
+  "src": "translated"
+ },
+ "siyi-liu--emopals": {
+  "zh": "EmoPals",
+  "src": "keep"
+ },
+ "po-yao-wang--luci-entry": {
+  "zh": "LuciEntry",
+  "src": "keep"
+ },
+ "rafael-yuste--four-ethical-priorities": {
+  "zh": "神经技术与人工智能的四项伦理优先事项",
+  "src": "translated"
+ },
+ "frederic-gilbert--embodiment-and-estrangement": {
+  "zh": "具身与疏离：首个“智能脑机接口”人体试验的结果",
+  "src": "translated"
+ },
+ "johannes-kogel--what-is-it-like-to-use-a-bci": {
+  "zh": "使用脑机接口是什么感觉？——对脑机接口使用者的访谈研究",
+  "src": "translated"
+ },
+ "alva-noe--out-of-our-heads": {
+  "zh": "走出头颅：为什么你不是你的大脑",
+  "src": "translated"
+ }
+}

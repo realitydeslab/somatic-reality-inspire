@@ -1,5 +1,253 @@
 [
  {
+  "name": "Mueller, Gibbs, Vetere, Agamanolis — Table Tennis for Three (Computers in Entertainment 2008)",
+  "why": "Three-way networked physical table tennis; video leoWDvUcv6c on floydmueller. Left out: overlaps Breakout for Two / Jogging over a Distance.",
+  "link": "https://doi.org/10.1145/1394021.1394029",
+  "found_via": "florian-mueller",
+  "status": "open",
+  "batch": "add-florian-mueller"
+ },
+ {
+  "name": "Mueller & Young — 10 Lenses to Design Sports-HCI (Foundations and Trends in HCI 2018)",
+  "why": "Extension of Five Lenses into a monograph (10.1561/1100000076).",
+  "link": "https://doi.org/10.1561/1100000076",
+  "found_via": "florian-mueller",
+  "status": "open",
+  "batch": "add-florian-mueller"
+ },
+ {
+  "name": "van Rheden et al. — BreathCrunch and BellyBreath (CHI EA 2025)",
+  "why": "EMS-based breath guidance and enforcement for meditation and running; computer-driven breathing, strong soma fit; video 6A8qpm0T5uY.",
+  "link": "https://doi.org/10.1145/3706599.3721197",
+  "found_via": "florian-mueller",
+  "status": "open",
+  "batch": "add-florian-mueller"
+ },
+ {
+  "name": "Saini, Van Den Hoven, Mueller — PneuExtensio (DIS 2024 companion)",
+  "why": "Pneumatic bodily extensions for embodiment; sibling of PneuMa (already in augment-hci).",
+  "link": "https://doi.org/10.1145/3656156.3665136",
+  "found_via": "florian-mueller",
+  "status": "open",
+  "batch": "add-florian-mueller"
+ },
+ {
+  "name": "Saini et al. — Inflated Exertion (TEI 2025)",
+  "why": "Inflatable bodily extension that embodies physical activity.",
+  "link": "https://doi.org/10.1145/3689050.3706069",
+  "found_via": "florian-mueller",
+  "status": "open",
+  "batch": "add-florian-mueller"
+ },
+ {
+  "name": "Li et al. — A Design Framework for Ingestible Play (TOCHI 2023)",
+  "why": "Framework behind The Guts Game, HeatCraft and InsideOut.",
+  "link": "https://doi.org/10.1145/3589954",
+  "found_via": "florian-mueller",
+  "status": "open",
+  "batch": "add-florian-mueller"
+ },
+ {
+  "name": "Montoya et al. — XR floatation tank to reduce fear of water (CHI 2024)",
+  "why": "Follow-up to Fluito for water anxiety; care angle.",
+  "link": "https://doi.org/10.1145/3613904.3642285",
+  "found_via": "florian-mueller",
+  "status": "open",
+  "batch": "add-florian-mueller"
+ },
+ {
+  "name": "Montoya et al. — SurfSync (DIS 2026)",
+  "why": "Refined surfing wearable after SeaMate/OceanEcho; video pzTl1Nb9wlg.",
+  "link": "https://doi.org/10.1145/3800645.3812942",
+  "found_via": "florian-mueller",
+  "status": "open",
+  "batch": "add-florian-mueller"
+ },
+ {
+  "name": "Pell & Mueller — Gravity Well: underwater play (CHI 2013 Interactivity)",
+  "why": "Underwater play with robotic fish mimicking a swimmer; videos HiegQBU_bxE, dy8kzR0sH2I.",
+  "link": "https://doi.org/10.1145/2468356.2479624",
+  "found_via": "florian-mueller",
+  "status": "open",
+  "batch": "add-florian-mueller"
+ },
+ {
+  "name": "Mueller et al. — Proxemics Play (DIS 2014)",
+  "why": "Interpersonal distance as a design resource for digital play (82 citations).",
+  "link": "https://doi.org/10.1145/2598510.2598532",
+  "found_via": "florian-mueller",
+  "status": "open",
+  "batch": "add-florian-mueller"
+ },
+ {
+  "name": "Mueller & Walmink — Duel Reality (IE 2013)",
+  "why": "Sword-fighting game where body data is hidden from its owner but shown to the opponent; vimeo 37451177.",
+  "link": "https://doi.org/10.1145/2513002.2513021",
+  "found_via": "florian-mueller",
+  "status": "open",
+  "batch": "add-florian-mueller"
+ },
+ {
+  "name": "Elvitigala et al. — Grand Challenges in SportsHCI (CHI 2024)",
+  "why": "Research agenda for sports and HCI (65 citations); Mueller co-author.",
+  "link": "https://doi.org/10.1145/3613904.3642050",
+  "found_via": "florian-mueller",
+  "status": "open",
+  "batch": "add-florian-mueller"
+ },
+ {
+  "name": "Liu, Ens, Semertzidis, Lee, Mueller — Flytrap Hand: (Un)Fortunate Superpowers via a flytrap-inspired hand augmentation (TEI 2026)",
+  "why": "EMS 'superpower' hand augmentation and its dark patterns. The sibling EmoPals / 'My Happiness Makes You Smile' was added by augment-bci (siyi-liu--emopals).",
+  "link": "https://doi.org/10.1145/3731459.3773299",
+  "found_via": "florian-mueller",
+  "status": "open",
+  "batch": "add-florian-mueller"
+ },
+ {
+  "name": "SIGHInt: Special Interest Group for Human-Computer Integration (CHI 2021 EA, Semertzidis et al.)",
+  "why": "Community-building SIG between the 2017 and 2022 panels; thin on its own.",
+  "link": "https://doi.org/10.1145/3411763.3450400",
+  "found_via": "nathan-semertzidis",
+  "status": "open",
+  "batch": "add-hcint-literature"
+ },
+ {
+  "name": "Mueller, von Kaenel, Duckworth, Andres: Taking inspiration from becoming 'one with a bike' to design human-computer integration (HCI journal 2023)",
+  "why": "Conceptual HCInt paper from felt cycling experience; belongs to add-florian-mueller.",
+  "link": "https://doi.org/10.1080/07370024.2023.2269148",
+  "found_via": "florian-mueller",
+  "status": "open",
+  "batch": "add-hcint-literature"
+ },
+ {
+  "name": "Pedro Lopes, 'Human Computer Integration' keynote (TAI CHI 2026)",
+  "why": "Unused Lopes talk video (YouTube G5IjoXr24b4); media for add-pedro-lopes.",
+  "link": "https://www.youtube.com/watch?v=G5IjoXr24b4",
+  "found_via": "pedro-lopes",
+  "status": "open",
+  "batch": "add-hcint-literature"
+ },
+ {
+  "name": "Pattie Maes, Human Machine Symbiosis (TEDxBrussels)",
+  "why": "Unused video (kCOV51S7Xqg) for a future Pattie Maes / Fluid Interfaces work.",
+  "link": "https://www.youtube.com/watch?v=kCOV51S7Xqg",
+  "found_via": "pattie-maes",
+  "status": "open",
+  "batch": "add-hcint-literature"
+ },
+ {
+  "name": "Ben Shneiderman, Human-Centered AI (Oxford UP 2022) / IJHCI 2020",
+  "why": "Current form of the 'supertools, not partners' counter-position; AI-focused rather than bodily.",
+  "link": "https://doi.org/10.1080/10447318.2020.1741118",
+  "found_via": "ben-shneiderman",
+  "status": "open",
+  "batch": "add-hcint-literature"
+ },
+ {
+  "name": "Gilbert, Newendorp, Marshall: Moving Licklider from Man- to Human-Computer Symbiosis (EduCHI 2025)",
+  "why": "Critical rereading of Licklider's gendered framing for teaching HCI.",
+  "link": "https://doi.org/10.1145/3742901.3742906",
+  "found_via": "j-c-r-licklider",
+  "status": "open",
+  "batch": "add-hcint-literature"
+ },
+ {
+  "name": "Huber, Rekimoto, Inami, Shilkrot, Maes, Nanayakkara: Workshop on Assistive Augmentation (CHI 2014) and the Assistive Augmentation book (Springer 2018)",
+  "why": "Links augmentation to disability and care; Nanayakkara's Augmented Human Lab also hosts talks used here.",
+  "link": "https://doi.org/10.1145/2559206.2560473",
+  "found_via": "pattie-maes",
+  "status": "open",
+  "batch": "add-hcint-literature"
+ },
+ {
+  "name": "Shengdong Zhao et al., Heads-Up Computing (CACM 2023)",
+  "why": "Body-compatible wearable paradigm moving beyond the device-centred model; cites HCInt.",
+  "link": "https://doi.org/10.1145/3571722",
+  "found_via": "florian-mueller",
+  "status": "open",
+  "batch": "add-hcint-literature"
+ },
+ {
+  "name": "Guerrero et al., Augmented Humanity: A Systematic Mapping Review (Sensors 2022)",
+  "why": "Second survey of augmentation; weaker than Raisamo 2019.",
+  "link": "https://doi.org/10.3390/s22020514",
+  "found_via": "roope-raisamo",
+  "status": "open",
+  "batch": "add-hcint-literature"
+ },
+ {
+  "name": "Paul Pangaro (cybernetician)",
+  "why": "Panellist on the 2022 HCInt panel; cybernetics as a lineage for integration (with Norbert Wiener, not yet in the gallery).",
+  "link": "https://www.pangaro.com",
+  "found_via": "nathan-semertzidis",
+  "status": "open",
+  "batch": "add-hcint-literature"
+ },
+ {
+  "name": "Xiangshi Ren, Human-Engaged Computing",
+  "why": "East Asian framing of computing that cultivates human capacities; could become its own work.",
+  "link": "https://doi.org/10.1109/mc.2016.253",
+  "found_via": "xiangshi-ren",
+  "status": "open",
+  "batch": "add-hcint-literature"
+ },
+ {
+  "name": "Dickinson, Semertzidis, Mueller: Machine In The Middle (CHI 2022 EA)",
+  "why": "Media art on dark patterns of emotional HCInt.",
+  "link": "https://doi.org/10.1145/3491101.3503555",
+  "found_via": "nathan-semertzidis",
+  "status": "open",
+  "batch": "add-hcint-literature"
+ },
+ {
+  "name": "Smell & Paste (Brooks & Lopes, CHI 2023)",
+  "why": "Low-fidelity scratch-and-sniff prototyping toolkit for olfactory experiences; a design method, could join the methods field (DOI 10.1145/3544548.3580680).",
+  "link": "https://doi.org/10.1145/3544548.3580680",
+  "found_via": "pedro-lopes",
+  "status": "open",
+  "batch": "add-pedro-lopes"
+ },
+ {
+  "name": "Integrating Living Organisms in Devices to Implement Care-based Interactions (Lu et al., UIST 2022)",
+  "why": "Jasmine Lu's slime-mould devices that the user must care for; more-than-human care rather than body actuation.",
+  "link": "https://lab.plopes.org/published/2022-UIST-IntegratingLivingOrganisms.pdf",
+  "found_via": "pedro-lopes",
+  "status": "open",
+  "batch": "add-pedro-lopes"
+ },
+ {
+  "name": "Action-dependent processing of touch in the human parietal operculum (Limanowski, Lopes, … Friston, Blankenburg, Cerebral Cortex 2020)",
+  "why": "fMRI study of self- vs externally-caused touch using EMS; theory for agency and touch attenuation.",
+  "link": "https://academic.oup.com/cercor",
+  "found_via": "pedro-lopes",
+  "status": "open",
+  "batch": "add-pedro-lopes"
+ },
+ {
+  "name": "Dream engineering: Simulating worlds through sensory stimulation (Carr, Haar, Amores, Lopes et al., Consciousness and Cognition 2020)",
+  "why": "Survey linking VR sensory devices to dream manipulation; led by Michelle Carr with MIT Fluid Interfaces (DOI 10.1016/j.concog.2020.102955).",
+  "link": "https://doi.org/10.1016/j.concog.2020.102955",
+  "found_via": "pedro-lopes",
+  "status": "open",
+  "batch": "add-pedro-lopes"
+ },
+ {
+  "name": "Adaptive EMS Improves Muscle Memory (Choudhary, Nith, Ho et al., CHI 2025) and DextrEMS (UIST 2021), wrist EMS smartwatch (UIST 2024)",
+  "why": "Further EMS engineering / motor-learning papers; lower felt-experience salience than the works added.",
+  "link": "https://lab.plopes.org",
+  "found_via": "pedro-lopes",
+  "status": "open",
+  "batch": "add-pedro-lopes"
+ },
+ {
+  "name": "Interactive Systems Based on Electrical Muscle Stimulation (Lopes & Baudisch, IEEE Computer 2017)",
+  "why": "Overview article of the HPI EMS line (DOI 10.1109/mc.2017.3641627); could serve as an entry point if a survey-type work is wanted.",
+  "link": "https://doi.org/10.1109/mc.2017.3641627",
+  "found_via": "pedro-lopes",
+  "status": "open",
+  "batch": "add-pedro-lopes"
+ },
+ {
   "name": "Jean Costa — BoostMeUp (IMWUT 2019)",
   "why": "Smartwatch false heart-rate feedback to regulate emotion during tests; follow-up to EmotionCheck.",
   "link": "https://doi.org/10.1145/3328911",
@@ -230,6 +478,94 @@
   "found_via": "stelarc",
   "status": "open",
   "batch": "augment-art-theory"
+ },
+ {
+  "name": "Marcello Ienca & Roberto Andorno — Towards new human rights in the age of neuroscience and neurotechnology (2017)",
+  "why": "Proposes rights to cognitive liberty, mental privacy, mental integrity and psychological continuity; DOI verified (10.1186/s40504-017-0050-1); left out to keep one neurorights work (Yuste).",
+  "link": "https://doi.org/10.1186/s40504-017-0050-1",
+  "found_via": "rafael-yuste",
+  "status": "open",
+  "batch": "augment-bci"
+ },
+ {
+  "name": "Linxing Jiang, Andrea Stocco, Rajesh Rao et al. — BrainNet (Scientific Reports 2019)",
+  "why": "First multi-person brain-to-brain interface (three people playing a Tetris-like game via EEG and TMS); DOI verified (10.1038/s41598-019-41895-7); no lab video found.",
+  "link": "https://doi.org/10.1038/s41598-019-41895-7",
+  "found_via": "rajesh-rao",
+  "status": "open",
+  "batch": "augment-bci"
+ },
+ {
+  "name": "Xiao Fang, Nathan Semertzidis et al. — Telepathic Play (CHI PLAY 2021 EA)",
+  "why": "Playful brain-to-brain interfacing from the Exertion Games Lab; DOI 10.1145/3450337.3483468; PsiNet added instead.",
+  "link": "https://doi.org/10.1145/3450337.3483468",
+  "found_via": "nathan-semertzidis",
+  "status": "open",
+  "batch": "augment-bci"
+ },
+ {
+  "name": "Francis R. Willett et al. — A high-performance speech neuroprosthesis (Nature 2023)",
+  "why": "Stanford BrainGate speech decoding with Pat Bennett (ALS); DOI 10.1038/s41586-023-06377-x; Metzger's avatar study added as the more embodied case.",
+  "link": "https://doi.org/10.1038/s41586-023-06377-x",
+  "found_via": "leigh-hochberg",
+  "status": "open",
+  "batch": "augment-bci"
+ },
+ {
+  "name": "CEBSIT (Chinese Academy of Sciences) & Huashan Hospital — China's first invasive BCI clinical trial (2025)",
+  "why": "Zhao Zhengtuo's team implanted a coin-sized device with ultra-thin flexible electrodes in a man who lost all four limbs; he played chess and racing games after 2–3 weeks. Source: Xinhua 2025-06-14; CCTV video YY9znxLLJ9U on the second case.",
+  "link": "http://www.news.cn/tech/20250614/7fe7be8c7b1f4233b80d5cca20d22430/c.html",
+  "found_via": "bo-hong",
+  "status": "open",
+  "batch": "augment-bci"
+ },
+ {
+  "name": "北脑一号 Beinao-1 (NeuCyber / Chinese Institute for Brain Research, Beijing)",
+  "why": "Semi-invasive, wireless, fully implanted BCI with over 100 channels on the dura; surgery broadcast live on CCTV on 2026-04-13 (video KJJRedB4GS4). Needs a primary technical source.",
+  "link": "https://www.youtube.com/watch?v=KJJRedB4GS4",
+  "found_via": "bo-hong",
+  "status": "open",
+  "batch": "augment-bci"
+ },
+ {
+  "name": "Suzanne Dikker, Matthias Oostrik & ICK Amsterdam — Harmonic Dissonance: Synchron(icit)y & Phantom Body (2019)",
+  "why": "Dance performance with two dancers' brainwave and movement synchrony that explicitly questions mind-body duality; strong soma fit, needs a video check.",
+  "link": "https://www.suzannedikker.net/projects-1/2019/1/4/harmonic-dissonance-synchronicity",
+  "found_via": "suzanne-dikker",
+  "status": "open",
+  "batch": "augment-bci"
+ },
+ {
+  "name": "Anton Nijholt (ed.) — Brain Art: Brain-Computer Interfaces for Artistic Expression (Springer 2019)",
+  "why": "Anthology of BCI art (includes the E.E.G. KISS chapter); DOI 10.1007/978-3-030-14323-7; could be added as a publication.",
+  "link": "https://doi.org/10.1007/978-3-030-14323-7",
+  "found_via": "lancel-maat",
+  "status": "open",
+  "batch": "augment-bci"
+ },
+ {
+  "name": "Junichi Ushiba (Keio University) — EEG brain-machine interface for stroke rehabilitation",
+  "why": "Japanese BMI rehab that pairs motor imagery with exoskeleton or electrical stimulation so the paralysed hand moves and is felt; needs a salient paper and video.",
+  "link": "https://doi.org/10.1016/j.neures.2009.09.1685",
+  "found_via": "bo-hong",
+  "status": "open",
+  "batch": "augment-bci"
+ },
+ {
+  "name": "Karen Lancel & Hermen Maat — Kissing Data Symphony / Brainwave Wedding Lab",
+  "why": "Follow-up BCI intimacy works on the artists' site; check media.",
+  "link": "https://lancelmaat.nl/work/kissing-data-symphony/",
+  "found_via": "lancel-maat",
+  "status": "open",
+  "batch": "augment-bci"
+ },
+ {
+  "name": "Eduardo Reck Miranda — brain-computer music interfacing",
+  "why": "Brain-computer music interfacing at Plymouth, including music-making with people with severe motor impairment; creator exists on sister site mth-inspire.",
+  "link": "https://en.wikipedia.org/wiki/Eduardo_Reck_Miranda",
+  "found_via": "david-rosenboom",
+  "status": "open",
+  "batch": "augment-bci"
  },
  {
   "name": "Frank Parietti & H. Harry Asada — Supernumerary Robotic Limbs (IEEE T-RO 2016)",

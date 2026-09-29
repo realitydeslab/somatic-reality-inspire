@@ -1,0 +1,1564 @@
+{
+ "batch": "add-hcint-literature",
+ "creators": [
+  {
+   "id": "vannevar-bush",
+   "name": "Vannevar Bush",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Engineer and science administrator (1890–1974)",
+   "based": "Washington, DC, US",
+   "bio": "Electrical engineer at MIT who directed the US Office of Scientific Research and Development during the Second World War; his 1945 essay imagined the memex, a desk that extends human memory.",
+   "why": "His memex is the first widely read picture of a machine joined to the mind, and the starting point that Engelbart and HCI history return to.",
+   "disciplines": [
+    "engineering"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Vannevar_Bush"
+   },
+   "role_zh": "工程师、科学管理者（1890–1974）",
+   "bio_zh": "麻省理工学院的电气工程师，二战期间主持美国科学研究与发展办公室；他 1945 年的文章设想了 memex——一张延伸人类记忆的书桌。",
+   "why_zh": "memex 是最早被广泛阅读的“机器与心智相连”的图景，也是 Engelbart 与人机交互史不断回望的起点。",
+   "based_zh": "华盛顿特区，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "j-c-r-licklider",
+   "name": "J. C. R. Licklider",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Psychologist and computer scientist (1915–1990)",
+   "based": "Cambridge, US",
+   "bio": "Psychoacoustician at MIT and BBN who, as head of ARPA's Information Processing Techniques Office, funded interactive computing and the networks that led to the internet.",
+   "why": "He framed computing as a partnership between person and machine; human–computer integration still defines itself against his 'symbiosis'.",
+   "disciplines": [
+    "hci",
+    "health"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/J._C._R._Licklider"
+   },
+   "role_zh": "心理学家、计算机科学家（1915–1990）",
+   "bio_zh": "麻省理工学院与 BBN 的心理声学家，任美国高级研究计划署信息处理技术办公室主任时资助了交互式计算，以及后来通向互联网的网络研究。",
+   "why_zh": "他把计算设想为人与机器的伙伴关系；今天的“人机融合”仍以他的“共生”为参照来定义自己。",
+   "based_zh": "剑桥（马萨诸塞州），美国",
+   "connected_to": [
+    "douglas-engelbart"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "douglas-engelbart",
+   "name": "Douglas Engelbart",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Engineer and inventor; founder of the Augmentation Research Center, SRI (1925–2013)",
+   "based": "Menlo Park, US",
+   "bio": "Engineer who founded the Augmentation Research Center at the Stanford Research Institute, wrote the 1962 framework for augmenting human intellect and showed the mouse, hypertext and shared screens in the 1968 'Mother of All Demos'.",
+   "why": "He named 'augmentation' as HCI's goal; his framework is the mind-centred root that bodily human–computer integration now reworks.",
+   "disciplines": [
+    "hci",
+    "engineering"
+   ],
+   "links": {
+    "site": "https://www.dougengelbart.org"
+   },
+   "role_zh": "工程师、发明家；斯坦福研究院增强研究中心创始人（1925–2013）",
+   "bio_zh": "在斯坦福研究院创立增强研究中心，1962 年写下增强人类智力的框架，并在 1968 年“所有演示之母”中展示了鼠标、超文本与共享屏幕。",
+   "why_zh": "他把“增强”定为人机交互的目标；他的框架是以心智为中心的源头，今天的身体化人机融合正在改写它。",
+   "based_zh": "门洛帕克，美国",
+   "connected_to": [
+    "vannevar-bush",
+    "j-c-r-licklider"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ben-shneiderman",
+   "name": "Ben Shneiderman",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Distinguished University Professor Emeritus of Computer Science, University of Maryland",
+   "based": "College Park, US",
+   "bio": "Computer scientist who coined 'direct manipulation', founded the Human-Computer Interaction Lab at Maryland and now argues for human-centred AI built as 'supertools' under human control.",
+   "why": "He is the clearest counter-voice to integration: computers should stay predictable tools that people command, not partners that share agency over body and action.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": "https://www.cs.umd.edu/users/ben/"
+   },
+   "role_zh": "马里兰大学计算机科学荣休杰出大学教授",
+   "bio_zh": "计算机科学家，提出“直接操纵”，创立马里兰大学人机交互实验室，近年主张以“超级工具”方式、在人的控制下构建以人为中心的 AI。",
+   "why_zh": "他是“融合”最清楚的反对声音：计算机应当是人可预测、可掌控的工具，而不是与人分享身体与行动能动性的伙伴。",
+   "based_zh": "科利奇帕克，美国",
+   "connected_to": [
+    "pattie-maes",
+    "jonathan-grudin"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "pattie-maes",
+   "name": "Pattie Maes",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor, MIT Media Lab; head of the Fluid Interfaces group",
+   "based": "Cambridge, US",
+   "bio": "Media Lab professor who pioneered software agents in the 1990s and whose Fluid Interfaces group builds wearable and cognitive augmentation systems; co-organiser of the 2018 Dagstuhl seminar on human–computer integration.",
+   "why": "Her line of work runs from agents that act for us to wearables that act with the body, the arc that human–computer integration argues about.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": "https://www.media.mit.edu/people/pattie/overview/"
+   },
+   "role_zh": "麻省理工学院媒体实验室教授；Fluid Interfaces 组负责人",
+   "bio_zh": "媒体实验室教授，1990 年代开创软件代理研究；她的 Fluid Interfaces 组研发可穿戴与认知增强系统；2018 年达格斯图尔人机融合研讨会的共同组织者。",
+   "why_zh": "她的研究从“替我们行动的代理”走到“与身体一起行动的可穿戴设备”，正是人机融合争论的那条线。",
+   "based_zh": "剑桥（马萨诸塞州），美国",
+   "connected_to": [
+    "ben-shneiderman",
+    "florian-mueller",
+    "jonathan-grudin",
+    "valdemar-danry",
+    "sang-won-leigh"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "giulio-jacucci",
+   "name": "Giulio Jacucci",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Computer Science, University of Helsinki",
+   "based": "Helsinki, FI",
+   "bio": "HCI researcher working on physiological computing, implicit interaction and information seeking; he led the EU Symbiotic network and edited the Symbiotic Interaction proceedings.",
+   "why": "He gave 'symbiotic interaction' a working definition built on sensing the body's implicit signals, which puts the lived body inside the loop.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": "https://www.helsinki.fi/en/about-us/people/people-finder/giulio-jacucci-9076"
+   },
+   "role_zh": "赫尔辛基大学计算机科学教授",
+   "bio_zh": "人机交互研究者，研究生理计算、隐式交互与信息检索；曾牵头欧盟 Symbiotic 研究网络，并主编 Symbiotic Interaction 会议论文集。",
+   "why_zh": "他为“共生交互”给出了可操作的定义——以感知身体的隐式信号为基础，把活的身体放进了回路。",
+   "based_zh": "赫尔辛基，芬兰",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "umer-farooq",
+   "name": "Umer Farooq",
+   "name_zh": "",
+   "kind": "person",
+   "role": "HCI researcher; formerly Microsoft",
+   "based": "US",
+   "bio": "HCI researcher who, with Jonathan Grudin, wrote the 2016 Interactions essay that named 'human-computer integration' and organised the CHI 2017 panel and SIG on it.",
+   "why": "He put the word 'integration' into HCI's vocabulary, as a shift from turn-taking with computers to partnership with them.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "人机交互研究者；曾任职于微软",
+   "bio_zh": "人机交互研究者，与 Jonathan Grudin 合写 2016 年 Interactions 文章，首次提出“人机融合”，并组织了 CHI 2017 相关的专题讨论与兴趣小组。",
+   "why_zh": "他把“融合”一词带进人机交互的词汇：从与计算机轮流对答，转向与计算机结成伙伴。",
+   "based_zh": "美国",
+   "connected_to": [
+    "jonathan-grudin"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jonathan-grudin",
+   "name": "Jonathan Grudin",
+   "name_zh": "",
+   "kind": "person",
+   "role": "HCI researcher and historian; Microsoft Research (emeritus), affiliate professor, University of Washington",
+   "based": "Redmond, US",
+   "bio": "Researcher in computer-supported cooperative work and the historian of HCI (From Tool to Partner, 2017); co-author of the 2016 'Human-computer integration' essay and co-organiser of the 2018 Dagstuhl seminar.",
+   "why": "His history of HCI as a move 'from tool to partner' gives integration its long view, from Licklider to wearables.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Jonathan_Grudin"
+   },
+   "role_zh": "人机交互研究者与史学家；微软研究院（荣休），华盛顿大学兼职教授",
+   "bio_zh": "计算机支持的协同工作研究者，也是人机交互史的书写者（《From Tool to Partner》，2017）；2016 年“人机融合”文章的合著者，2018 年达格斯图尔研讨会的共同组织者。",
+   "why_zh": "他把人机交互史写成一段“从工具到伙伴”的历程，为“融合”提供了从 Licklider 到可穿戴设备的长时段视角。",
+   "based_zh": "雷德蒙德，美国",
+   "connected_to": [
+    "umer-farooq",
+    "florian-mueller",
+    "pattie-maes"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "xiangshi-ren",
+   "name": "Xiangshi Ren",
+   "name_zh": "任向实",
+   "kind": "person",
+   "role": "Professor, Kochi University of Technology; director, Center for Human-Engaged Computing",
+   "based": "Kochi, JP",
+   "bio": "HCI researcher who proposes 'human-engaged computing', which pairs human capacities with computing and draws on East Asian philosophy; panellist at the CHI 2017 integration debate.",
+   "why": "He brings an East Asian voice to the integration debate: computing that cultivates human capacities rather than replacing them.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "高知工科大学教授；人本参与计算研究中心主任",
+   "bio_zh": "人机交互研究者，提出“人本参与计算”（human-engaged computing），强调人的能力与计算相互协同，并借鉴东亚哲学；CHI 2017 融合之辩的讨论嘉宾。",
+   "why_zh": "他为融合之辩带来了东亚的声音：计算应当培养人的能力，而不是替代它。",
+   "based_zh": "高知，日本",
+   "connected_to": [
+    "umer-farooq",
+    "jonathan-grudin"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "albrecht-schmidt",
+   "name": "Albrecht Schmidt",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Computer Science (Human-Centered Ubiquitous Media), LMU Munich",
+   "based": "Munich, DE",
+   "bio": "Ubiquitous-computing researcher who founded the 'Human Augmentation' department of IEEE Pervasive Computing and works on amplifying perception and cognition with digital technology.",
+   "why": "He re-read Engelbart for the age of wearables and ubiquitous sensing, the step that brought augmentation onto and into the body.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Albrecht_Schmidt_(computer_scientist)"
+   },
+   "role_zh": "慕尼黑大学计算机科学教授（以人为本的普适媒体）",
+   "bio_zh": "普适计算研究者，在 IEEE Pervasive Computing 开设“人类增强”专栏，研究以数字技术放大感知与认知。",
+   "why_zh": "他在可穿戴与普适感知的时代重读 Engelbart，这一步把“增强”带到了身体之上、身体之内。",
+   "based_zh": "慕尼黑，德国",
+   "connected_to": [
+    "steeven-villa"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "sang-won-leigh",
+   "name": "Sang-won Leigh",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Assistant Professor, Georgia Tech; formerly MIT Media Lab Fluid Interfaces",
+   "based": "Atlanta, US",
+   "bio": "Sang-won Leigh designs body-extending robots and wrote on human–machine body plasticity with Pattie Maes.",
+   "why": "He proposed 'morphological interfaces' that change the shape of the body itself, so that the body, not the screen, becomes the interface.",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "role_zh": "佐治亚理工学院助理教授；曾就职于 MIT 媒体实验室 Fluid Interfaces 组",
+   "bio_zh": "Sang-won Leigh 设计延伸身体的机器人，并与 Pattie Maes 合写了关于人机身体可塑性的论文。",
+   "why_zh": "他提出改变身体形态本身的“形态界面”：界面不再是屏幕，而是身体。",
+   "based_zh": "亚特兰大，美国",
+   "connected_to": [
+    "pattie-maes"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "roope-raisamo",
+   "name": "Roope Raisamo",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Computer Science, Tampere University; head of TAUCHI",
+   "based": "Tampere, FI",
+   "bio": "HCI researcher on multimodal, haptic and gaze interaction who leads the Tampere Unit for Computer-Human Interaction (TAUCHI).",
+   "why": "His team wrote the most cited survey of human augmentation, a map of the field that designers from the soma can argue with.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": "https://research.tuni.fi/tauchi/"
+   },
+   "role_zh": "坦佩雷大学计算机科学教授；TAUCHI 负责人",
+   "bio_zh": "研究多模态、触觉与眼动交互的人机交互学者，领导坦佩雷人机交互研究组（TAUCHI）。",
+   "why_zh": "他的团队写出了被引最多的人类增强综述——一张可供从身体出发的设计者去辩驳的领域地图。",
+   "based_zh": "坦佩雷，芬兰",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "nanning-zheng",
+   "name": "Nanning Zheng",
+   "name_zh": "郑南宁",
+   "kind": "person",
+   "role": "Professor, Institute of Artificial Intelligence and Robotics, Xi'an Jiaotong University; member of the Chinese Academy of Engineering",
+   "based": "Xi'an, CN",
+   "bio": "Computer-vision and AI researcher who led the Chinese framing of 'hybrid-augmented intelligence', a pillar of China's 2017 national AI plan.",
+   "why": "His paper is the main Chinese statement of human–machine integration, and a clear case of integration framed around cognition rather than the lived body.",
+   "disciplines": [
+    "engineering"
+   ],
+   "links": {},
+   "role_zh": "西安交通大学人工智能与机器人研究所教授；中国工程院院士",
+   "bio_zh": "计算机视觉与人工智能研究者，主导提出“混合增强智能”这一中文框架，它是 2017 年《新一代人工智能发展规划》的支柱之一。",
+   "why_zh": "他的论文是人机融合在中文语境中的代表性表述，也清楚地展示了以认知而非活的身体为中心的融合观。",
+   "based_zh": "西安，中国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "amon-rapp",
+   "name": "Amon Rapp",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Associate Professor, Computer Science Department, University of Turin",
+   "based": "Turin, IT",
+   "bio": "HCI researcher working on wearables, personal informatics and games, often through phenomenological and postphenomenological theory.",
+   "why": "He theorised wearables 'from the inside', as extensions of lived intentionality, which gives soma designers a vocabulary for integration.",
+   "disciplines": [
+    "hci",
+    "philosophy"
+   ],
+   "links": {},
+   "role_zh": "都灵大学计算机科学系副教授",
+   "bio_zh": "人机交互研究者，研究可穿戴设备、个人信息学与游戏，常借助现象学与后现象学理论。",
+   "why_zh": "他“从内部”理解可穿戴设备，把它们视为活的意向性的延伸，为身体设计者提供了谈论融合的词汇。",
+   "based_zh": "都灵，意大利",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "valdemar-danry",
+   "name": "Valdemar Danry",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, MIT Media Lab (Fluid Interfaces group)",
+   "based": "Cambridge, US",
+   "bio": "Researcher working on human–AI interaction, cognitive augmentation and the phenomenology of integrated systems at the MIT Media Lab.",
+   "why": "He asked when an integrated device becomes part of the self, bringing pre-reflective experience, ownership and agency into HCInt design.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "麻省理工学院媒体实验室研究员（Fluid Interfaces 组）",
+   "bio_zh": "在麻省理工学院媒体实验室研究人与 AI 的交互、认知增强以及融合系统的现象学。",
+   "why_zh": "他追问一件融合设备何时成为“自我”的一部分，把前反思经验、身体归属感与能动感带进人机融合设计。",
+   "based_zh": "剑桥（马萨诸塞州），美国",
+   "connected_to": [
+    "pattie-maes",
+    "pat-pataranutaporn",
+    "florian-mueller"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "pat-pataranutaporn",
+   "name": "Pat Pataranutaporn",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, MIT Media Lab (Fluid Interfaces group)",
+   "based": "Cambridge, US",
+   "bio": "Pat Pataranutaporn is a technologist working across synthetic biology, wearables and human–AI interaction; his bio work includes the Living Bits framework and wearable bio-digital organs.",
+   "why": "He extends integration past electronics to living materials and AI companions, and co-wrote the Media Lab's paper on the sense of self in integration.",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {
+    "site": "https://www.media.mit.edu/people/patpat/overview/"
+   },
+   "role_zh": "麻省理工学院媒体实验室（Fluid Interfaces 组）研究员",
+   "bio_zh": "Pat Pataranutaporn 横跨合成生物学、可穿戴设备和人机智能交互开展研究；他的生物方向工作包括 Living Bits 框架和可穿戴的生物-数字器官。",
+   "why_zh": "他把融合从电子设备扩展到活体材料与 AI 伙伴，并合写了媒体实验室关于融合中“自我感”的论文。",
+   "based_zh": "剑桥（马萨诸塞州），美国",
+   "connected_to": [
+    "pattie-maes",
+    "valdemar-danry"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "patricia-cornelio",
+   "name": "Patricia Cornelio",
+   "name_zh": "",
+   "kind": "person",
+   "role": "HCI researcher on the sense of agency; PhD, University College London",
+   "based": "London, UK",
+   "bio": "Researcher in multisensory interfaces and the sense of agency, trained in Marianna Obrist's group at UCL and working with neuroscientist Patrick Haggard.",
+   "why": "She connected the neuroscience of agency with HCInt, turning 'who is acting?' into something designers can measure and design for.",
+   "disciplines": [
+    "hci",
+    "health"
+   ],
+   "links": {},
+   "role_zh": "研究能动感的人机交互学者；伦敦大学学院博士",
+   "bio_zh": "研究多感官界面与能动感，在伦敦大学学院 Marianna Obrist 团队接受训练，并与神经科学家 Patrick Haggard 合作。",
+   "why_zh": "她把能动感的神经科学与人机融合连接起来，让“是谁在行动”成为设计者可以测量、可以设计的问题。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [
+    "marianna-obrist"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jonathan-eden",
+   "name": "Jonathan Eden",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Robotics researcher on human movement augmentation; Imperial College London (Burdet group)",
+   "based": "London, UK",
+   "bio": "Robotics researcher who studies how people can control supernumerary robotic limbs alongside their natural limbs, with Etienne Burdet and Dario Farina.",
+   "why": "His review names the hard bodily limits of augmentation: where the control signals come from and what the nervous system can spare.",
+   "disciplines": [
+    "engineering",
+    "health"
+   ],
+   "links": {},
+   "role_zh": "研究人体运动增强的机器人学者；伦敦帝国理工学院（Burdet 团队）",
+   "bio_zh": "机器人学研究者，与 Etienne Burdet、Dario Farina 等人研究人如何在使用自然肢体的同时控制额外的机器人肢体。",
+   "why_zh": "他的综述指出增强在身体层面的硬性限制：控制信号从何而来，神经系统还能分出多少余力。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "steeven-villa",
+   "name": "Steeven Villa",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, LMU Munich (Human-Centered Ubiquitous Media)",
+   "based": "Munich, DE",
+   "bio": "HCI researcher studying how people perceive, expect and experience human augmentation technologies, in Albrecht Schmidt's group.",
+   "why": "His studies show that augmentation lives partly in belief and social perception, not only in the device.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "慕尼黑大学研究员（以人为本的普适媒体）",
+   "bio_zh": "人机交互研究者，在 Albrecht Schmidt 团队研究人们如何感知、期待与体验人类增强技术。",
+   "why_zh": "他的研究表明，增强有一部分存在于信念与社会感知之中，而不只在设备里。",
+   "based_zh": "慕尼黑，德国",
+   "connected_to": [
+    "albrecht-schmidt"
+   ],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "vannevar-bush--as-we-may-think",
+   "creator_ids": [
+    "vannevar-bush"
+   ],
+   "title": "As We May Think",
+   "year": 1945,
+   "field": "augmented",
+   "sub": "transhuman-thought",
+   "also": [
+    "foundations"
+   ],
+   "modalities": [
+    "whole-soma",
+    "light-vision"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-mind-unity"
+   ],
+   "kind": "publication",
+   "description": "An essay in The Atlantic imagining the memex, a desk of microfilm, screens and levers that stores a person's books and notes and links them along 'associative trails', so that a machine extends human memory.",
+   "description_zh": "发表于《大西洋月刊》的文章，设想了 memex：一张装有缩微胶片、屏幕和操纵杆的书桌，储存一个人的书籍与笔记，并沿“联想轨迹”把它们连起来，让机器延伸人的记忆。",
+   "idea_en": "The first augmentation vision treats the mind as a filing system and the body only as the hand on a lever; the extension is of memory, not of the felt body, which is exactly the assumption soma design questions.",
+   "idea_zh": "第一个增强愿景把心智当作档案系统，把身体仅仅当作扳动杠杆的手；被延伸的是记忆，而不是被感受的身体——这正是身体设计要质疑的前提。",
+   "method": "Speculative essay extrapolating from 1940s microfilm, photocells and vocoders to a personal associative memory machine.",
+   "method_zh": "思辨性文章，从 1940 年代的缩微胶片、光电管与声码器推演出一台个人联想记忆机器。",
+   "keywords": [
+    "memex",
+    "associative trails",
+    "hypertext",
+    "memory augmentation",
+    "The Atlantic"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=c539cK58ees"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Memex_at_Das_Netz_exhibition_of_Deutsches_Technikmuseum.jpg/1280px-Memex_at_Das_Netz_exhibition_of_Deutsches_Technikmuseum.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/f/f6/Vannevar_Bush%2C_1938%2C_Harris_%26_Ewing_%28cropped%29.jpg"
+   ],
+   "paper": {
+    "url": "https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/",
+    "doi": "10.1145/227181.227186",
+    "arxiv": "",
+    "venue": "The Atlantic Monthly, July 1945 (reprinted in ACM Interactions 1996)",
+    "title": "As We May Think"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/As_We_May_Think",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "j-c-r-licklider--man-computer-symbiosis",
+   "creator_ids": [
+    "j-c-r-licklider"
+   ],
+   "title": "Man-Computer Symbiosis",
+   "year": 1960,
+   "field": "augmented",
+   "sub": "transhuman-thought",
+   "also": [
+    "foundations"
+   ],
+   "modalities": [
+    "whole-soma"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-mind-unity"
+   ],
+   "kind": "paper",
+   "description": "A short paper proposing that people and computers should work as partners in real time: humans set goals, form hypotheses and judge, while computers do the routine work that prepares the way for insight.",
+   "description_zh": "一篇短文，主张人与计算机应当实时协作：人设定目标、提出假设、作出判断，计算机承担为洞见铺路的例行工作。",
+   "idea_en": "Symbiosis divides labour between a thinking human and a calculating machine; the body appears only as a bottleneck of typing and reading, the mind-centred model that bodily integration later sets out to replace.",
+   "idea_zh": "“共生”是在思考的人与计算的机器之间分工；身体只作为打字与阅读的瓶颈出现——这正是后来的身体融合想要取代的心智中心模型。",
+   "method": "Conceptual paper based on Licklider's time-and-motion study of his own research work, with a list of technical requirements (time-sharing, memory, displays, speech).",
+   "method_zh": "概念性论文，依据 Licklider 对自己研究工作的时间与动作记录，列出实现共生所需的技术条件（分时、存储、显示、语音）。",
+   "keywords": [
+    "man-computer symbiosis",
+    "Licklider",
+    "ARPA",
+    "time-sharing",
+    "intelligence augmentation"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/e/e6/Portrait_of_J._C._R._Licklider.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1109/thfe2.1960.4503259",
+    "doi": "10.1109/thfe2.1960.4503259",
+    "arxiv": "",
+    "venue": "IRE Transactions on Human Factors in Electronics 1960",
+    "title": "Man-Computer Symbiosis"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Man%E2%80%93Computer_Symbiosis",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "douglas-engelbart--augmenting-human-intellect",
+   "creator_ids": [
+    "douglas-engelbart"
+   ],
+   "title": "Augmenting Human Intellect: A Conceptual Framework",
+   "year": 1962,
+   "field": "augmented",
+   "sub": "transhuman-thought",
+   "also": [
+    "foundations"
+   ],
+   "modalities": [
+    "whole-soma",
+    "movement",
+    "light-vision"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-mind-unity"
+   ],
+   "kind": "publication",
+   "description": "An SRI report defining augmentation as the whole system of 'artifacts, language, methodology and training' that raises a person's capacity to solve complex problems; its ideas were shown live in the 1968 'Mother of All Demos' with mouse, chord keyset and hypertext.",
+   "description_zh": "斯坦福研究院的一份报告，把“增强”定义为由“人工物、语言、方法与训练”构成的整体系统，用以提升人解决复杂问题的能力；1968 年“所有演示之母”用鼠标、和弦键盘与超文本现场展示了这些想法。",
+   "idea_en": "Engelbart's H-LAM/T system counts training and practice as part of augmentation, so a skilled, trained body belongs to the system, yet his goal remains the intellect; soma design keeps the training and changes the goal.",
+   "idea_zh": "Engelbart 的 H-LAM/T 系统把训练与练习算作增强的一部分，因此训练有素的身体也属于系统；但他的目标仍是智力。身体设计保留了“训练”，改变了目标。",
+   "method": "Conceptual framework report for the US Air Force Office of Scientific Research, later built out at SRI's Augmentation Research Center (NLS, mouse, chord keyset) and demonstrated publicly in 1968.",
+   "method_zh": "为美国空军科学研究办公室撰写的概念框架报告，随后在斯坦福研究院增强研究中心实现（NLS 系统、鼠标、和弦键盘），并于 1968 年公开演示。",
+   "keywords": [
+    "augmenting human intellect",
+    "H-LAM/T",
+    "Mother of All Demos",
+    "NLS",
+    "mouse",
+    "SRI"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=UhpTiWyVa6k"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/0/04/SRI_Douglas_Engelbart_1968.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.21236/ad0289565",
+    "doi": "10.21236/ad0289565",
+    "arxiv": "",
+    "venue": "SRI Summary Report AFOSR-3223, 1962",
+    "title": "Augmenting Human Intellect: A Conceptual Framework"
+   },
+   "source_url": "https://www.dougengelbart.org/content/view/138",
+   "code_url": "",
+   "collections": [],
+   "exhibited": [
+    "The Mother of All Demos, Fall Joint Computer Conference, San Francisco 1968"
+   ]
+  },
+  {
+   "id": "ben-shneiderman--direct-manipulation-vs-interface-agents",
+   "creator_ids": [
+    "ben-shneiderman",
+    "pattie-maes"
+   ],
+   "title": "Direct Manipulation vs. Interface Agents",
+   "year": 1997,
+   "field": "foundations",
+   "sub": "hci-theory",
+   "also": [
+    "augmented"
+   ],
+   "modalities": [
+    "whole-soma",
+    "movement"
+   ],
+   "lenses": [
+    "extended-body",
+    "first-person"
+   ],
+   "kind": "paper",
+   "description": "The edited transcript of a debate between Ben Shneiderman, who argues that people should act directly on visible objects and stay in control, and Pattie Maes, who argues for software agents that learn from us and act on our behalf.",
+   "description_zh": "Ben Shneiderman 与 Pattie Maes 辩论的整理稿：Shneiderman 主张人应直接操作可见的对象并保持控制，Maes 主张由向我们学习、代我们行动的软件代理来分担。",
+   "idea_en": "The question later asked of muscles and reflexes is first asked of software: when a system acts for you, is it still your action? Human–computer integration inherits this split between control and delegation.",
+   "idea_zh": "后来被用来追问肌肉与反射的问题，最早是针对软件提出的：当系统替你行动时，那还是你的行动吗？人机融合继承了“控制”与“委托”之间的这道分歧。",
+   "method": "Public debate at CHI 1997 and IUI 1997, published as a structured exchange of position statements and rebuttals.",
+   "method_zh": "1997 年 CHI 与 IUI 会议上的公开辩论，以立场陈述与反驳的形式发表。",
+   "keywords": [
+    "direct manipulation",
+    "interface agents",
+    "agency",
+    "delegation",
+    "Shneiderman",
+    "Maes"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/3/3d/Ben_Shneiderman_at_UNCC_%283x4_cropped%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/c/c3/Dubai_Future_Forum_2024_-_Pattie_Maes.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/267505.267514",
+    "doi": "10.1145/267505.267514",
+    "arxiv": "",
+    "venue": "ACM Interactions 1997",
+    "title": "Direct manipulation vs. interface agents"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "giulio-jacucci--symbiotic-interaction",
+   "creator_ids": [
+    "giulio-jacucci"
+   ],
+   "title": "Symbiotic Interaction: A Critical Definition and Comparison to other Human-Computer Paradigms",
+   "year": 2014,
+   "field": "augmented",
+   "sub": "body-integration",
+   "also": [
+    "affect"
+   ],
+   "modalities": [
+    "whole-soma",
+    "skin-arousal",
+    "brain"
+   ],
+   "lenses": [
+    "body-data",
+    "affective-loop"
+   ],
+   "kind": "paper",
+   "description": "The opening paper of the first Symbiotic Interaction workshop, defining symbiotic systems as ones that sense a person's physiological and behavioural signals, infer states and intentions, and adapt, and comparing this with ubiquitous, affective and physiological computing.",
+   "description_zh": "首届 Symbiotic Interaction 研讨会的开篇论文，把共生系统定义为：感知人的生理与行为信号、推断其状态与意图并作出调整的系统，并与普适计算、情感计算和生理计算加以比较。",
+   "idea_en": "Licklider's symbiosis is reread through the body's implicit signals: the computer partners with heartbeat, skin and brain activity, which raises the soma question of whether those signals are read as truth or felt as one's own.",
+   "idea_zh": "Licklider 的“共生”在这里通过身体的隐式信号被重新理解：计算机与心跳、皮肤和脑活动结为伙伴；这引出一个身体设计的问题——这些信号是被读作真相，还是被感受为自己的？",
+   "method": "Critical definition and comparison with neighbouring paradigms (ubiquitous, affective, physiological and brain-computer computing), drawing on research on implicit physiological sensing.",
+   "method_zh": "给出批判性定义，并与相邻范式（普适计算、情感计算、生理计算与脑机接口）比较，借鉴隐式生理感知方面的研究。",
+   "keywords": [
+    "symbiotic interaction",
+    "physiological computing",
+    "implicit interaction",
+    "Licklider",
+    "Symbiotic 2014"
+   ],
+   "images": [
+    "https://media.springernature.com/full/springer-static/cover-hires/book/978-3-319-13500-7"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1007/978-3-319-13500-7_1",
+    "doi": "10.1007/978-3-319-13500-7_1",
+    "arxiv": "",
+    "venue": "Symbiotic Interaction (Symbiotic 2014), LNCS 8820",
+    "title": "Symbiotic Interaction: A Critical Definition and Comparison to other Human-Computer Paradigms"
+   },
+   "source_url": "https://link.springer.com/book/10.1007/978-3-319-13500-7",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "umer-farooq--human-computer-integration",
+   "creator_ids": [
+    "umer-farooq",
+    "jonathan-grudin"
+   ],
+   "title": "Human-Computer Integration",
+   "year": 2016,
+   "field": "augmented",
+   "sub": "body-integration",
+   "also": [
+    "foundations"
+   ],
+   "modalities": [
+    "whole-soma"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-mind-unity"
+   ],
+   "kind": "paper",
+   "description": "The Interactions essay that named the field: it argues that interaction, a stimulus-response exchange, is giving way to integration, a partnership or symbiotic relation in which computers also take initiative.",
+   "description_zh": "为这一领域命名的 Interactions 文章：它主张“交互”这种刺激—反应式的往来，正让位于“融合”——一种伙伴或共生关系，在其中计算机也会主动出手。",
+   "idea_en": "Integration is first defined as partnership between agents, not as a shared body; the essay sets the question of initiative and control that later bodily integration relocates into muscles and felt agency.",
+   "idea_zh": "“融合”最初被定义为能动者之间的伙伴关系，而不是共享的身体；文章提出的主动权与控制问题，后来被身体融合研究移进了肌肉与被感受的能动感之中。",
+   "method": "Essay tracing a continuum from interaction to integration through historical visions (Licklider, science fiction) and current systems.",
+   "method_zh": "评论文章，借历史愿景（Licklider、科幻）与当下系统，描绘从交互到融合的连续谱。",
+   "keywords": [
+    "human-computer integration",
+    "partnership",
+    "symbiosis",
+    "Interactions",
+    "Grudin"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Jonathan_Grudin.jpg/1280px-Jonathan_Grudin.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3001896",
+    "doi": "10.1145/3001896",
+    "arxiv": "",
+    "venue": "ACM Interactions 2016",
+    "title": "Human-computer integration"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "umer-farooq--integration-versus-powerful-tools",
+   "creator_ids": [
+    "umer-farooq",
+    "jonathan-grudin",
+    "ben-shneiderman",
+    "pattie-maes",
+    "xiangshi-ren"
+   ],
+   "title": "Human Computer Integration versus Powerful Tools",
+   "year": 2017,
+   "field": "augmented",
+   "sub": "body-integration",
+   "also": [
+    "foundations"
+   ],
+   "modalities": [
+    "whole-soma"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-politics"
+   ],
+   "kind": "paper",
+   "description": "A CHI 2017 panel in which Farooq, Grudin, Shneiderman, Maes and Ren debate whether HCI is moving from interaction to integration, and whether integration is desirable or undermines human self-efficacy, control and predictability.",
+   "description_zh": "CHI 2017 的一场专题讨论：Farooq、Grudin、Shneiderman、Maes 与任向实辩论人机交互是否正从“交互”走向“融合”，以及融合是值得追求，还是会削弱人的自我效能、控制与可预测性。",
+   "idea_en": "The founding debate of HCInt is about control: tool-makers fear losing it, integrationists welcome sharing it; neither side yet asks how shared control feels from inside the body.",
+   "idea_zh": "人机融合的奠基之辩围绕“控制”展开：工具派担心失去控制，融合派乐于分享控制；双方都还没有追问，被分享的控制从身体内部感受起来是什么样。",
+   "method": "Moderated panel debate, starting from Licklider's three phases of human-machine relation (interaction, symbiosis, ultra-intelligent machines).",
+   "method_zh": "有主持的专题辩论，以 Licklider 提出的人机关系三阶段（交互、共生、超智能机器）为起点。",
+   "keywords": [
+    "CHI 2017 panel",
+    "integration",
+    "powerful tools",
+    "human-centred AI",
+    "Licklider",
+    "control"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=6kbpmUAPRzI"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3027063.3051137",
+    "doi": "10.1145/3027063.3051137",
+    "arxiv": "",
+    "venue": "CHI 2017 Extended Abstracts (Panel)",
+    "title": "Human Computer Integration versus Powerful Tools"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "albrecht-schmidt--augmenting-human-intellect-perception",
+   "creator_ids": [
+    "albrecht-schmidt"
+   ],
+   "title": "Augmenting Human Intellect and Amplifying Perception and Cognition",
+   "year": 2017,
+   "field": "augmented",
+   "sub": "body-integration",
+   "also": [
+    "foundations"
+   ],
+   "modalities": [
+    "whole-soma",
+    "new-senses"
+   ],
+   "lenses": [
+    "extended-body"
+   ],
+   "kind": "paper",
+   "description": "The first column of IEEE Pervasive Computing's Human Augmentation department, linking Engelbart's programme to wearables, ubiquitous sensing and AI that amplify perception, memory and cognition.",
+   "description_zh": "IEEE Pervasive Computing“人类增强”专栏的第一篇，把 Engelbart 的计划与放大感知、记忆和认知的可穿戴设备、普适感知和 AI 连接起来。",
+   "idea_en": "Augmentation moves from the desk onto the body: once sensing and output are worn, amplifying perception means changing how the world is felt, not only what the mind knows.",
+   "idea_zh": "增强从书桌移到了身上：一旦感知与输出被穿戴在身，放大感知就意味着改变世界被感受的方式，而不只是改变心智知道什么。",
+   "method": "Position column surveying technologies for perceptual and cognitive amplification and outlining research directions.",
+   "method_zh": "立场性专栏，综述放大感知与认知的技术，并提出研究方向。",
+   "keywords": [
+    "human augmentation",
+    "Engelbart",
+    "amplifying perception",
+    "ubiquitous computing",
+    "IEEE Pervasive Computing"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=fBAFg1HFI7w"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1109/mprv.2017.8",
+    "doi": "10.1109/mprv.2017.8",
+    "arxiv": "",
+    "venue": "IEEE Pervasive Computing 2017",
+    "title": "Augmenting Human Intellect and Amplifying Perception and Cognition"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "sang-won-leigh--morphological-interfaces",
+   "creator_ids": [
+    "sang-won-leigh",
+    "pattie-maes"
+   ],
+   "title": "Morphological Interfaces: On Body Transforming Technologies",
+   "year": 2017,
+   "field": "augmented",
+   "sub": "extra-limbs",
+   "also": [
+    "foundations"
+   ],
+   "modalities": [
+    "extra-body",
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-mind-unity"
+   ],
+   "kind": "paper",
+   "description": "A position paper on technologies that change the shape and capacities of the body itself, from extra robotic fingers to reconfigured limbs, and on the body plasticity that lets people take them in.",
+   "description_zh": "一篇立场论文，讨论改变身体形态与能力本身的技术——从额外的机械手指到重新配置的肢体——以及让人能够接纳它们的身体可塑性。",
+   "idea_en": "The body is the interface: because body schema is plastic, a new limb can become part of how one feels and moves, so designing it means designing a changed self, not a tool.",
+   "idea_zh": "身体就是界面：由于身体图式具有可塑性，新的肢体可以成为一个人感受与行动方式的一部分；因此设计它就是在设计一个改变了的自我，而不是一件工具。",
+   "method": "Position paper drawing on tool-use neuroscience and the authors' body-extending robots.",
+   "method_zh": "立场论文，借鉴工具使用的神经科学研究与作者自己的身体延伸机器人。",
+   "keywords": [
+    "morphological interfaces",
+    "body plasticity",
+    "body schema",
+    "Pattie Maes",
+    "MIT Media Lab",
+    "CHI"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=V6CMtXQj_Ts"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3027063.3052758",
+    "doi": "10.1145/3027063.3052758",
+    "arxiv": "",
+    "venue": "CHI 2017 Extended Abstracts",
+    "title": "Morphological Interfaces: On Body Transforming Technologies"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "florian-mueller--dagstuhl-human-computer-integration",
+   "creator_ids": [
+    "florian-mueller",
+    "pattie-maes",
+    "jonathan-grudin"
+   ],
+   "title": "Human-Computer Integration (Dagstuhl Seminar 18322)",
+   "year": 2018,
+   "field": "augmented",
+   "sub": "body-integration",
+   "also": [
+    "foundations"
+   ],
+   "modalities": [
+    "whole-soma",
+    "movement"
+   ],
+   "lenses": [
+    "extended-body",
+    "first-person",
+    "body-mind-unity"
+   ],
+   "kind": "paper",
+   "description": "The report of a Dagstuhl seminar in which researchers on wearables, on-body robotics and exertion systems worked out what integrating computers with the human body means and how to design for it.",
+   "description_zh": "一次达格斯图尔研讨会的报告：研究可穿戴设备、贴身机器人与发力系统的学者们一起梳理，计算机与人体融合意味着什么，又该如何为此设计。",
+   "idea_en": "The seminar shifts integration from a partnership of minds to the body: besides functional performance it asks, citing phenomenology, how integrated systems are lived and what they do to the person's experience.",
+   "idea_zh": "这次研讨会把“融合”从心智之间的伙伴关系转向身体：除了功能表现，它还借助现象学追问——融合系统如何被亲身经历，又如何改变人的体验。",
+   "method": "Dagstuhl seminar (August 2018) with talks, working groups and demos; report with abstracts and group outcomes.",
+   "method_zh": "达格斯图尔研讨会（2018 年 8 月），包括报告、分组讨论与演示；报告收录摘要与分组成果。",
+   "keywords": [
+    "Dagstuhl",
+    "human-computer integration",
+    "whole-body interaction",
+    "wearables",
+    "phenomenology"
+   ],
+   "images": [
+    "https://drops.dagstuhl.de/storage/04dagstuhl-reports/volume08/issue08/18322/thumbnails/DagRep.8.8.18/DagRep.8.8.18.png"
+   ],
+   "paper": {
+    "url": "https://drops.dagstuhl.de/entities/document/10.4230/DagRep.8.8.18",
+    "doi": "",
+    "arxiv": "",
+    "venue": "Dagstuhl Reports 8(8), 2018",
+    "title": "Human-Computer Integration (Dagstuhl Seminar 18322)"
+   },
+   "source_url": "https://www.dagstuhl.de/18322",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "nanning-zheng--hybrid-augmented-intelligence",
+   "creator_ids": [
+    "nanning-zheng"
+   ],
+   "title": "Hybrid-Augmented Intelligence: Collaboration and Cognition",
+   "year": 2017,
+   "field": "augmented",
+   "sub": "body-integration",
+   "also": [
+    "machines-xr"
+   ],
+   "modalities": [
+    "whole-soma",
+    "brain"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-mind-unity"
+   ],
+   "kind": "paper",
+   "description": "A survey that sets out 'hybrid-augmented intelligence': AI that keeps humans in the loop of decisions, or embeds models of human cognition such as intuition and causal reasoning inside machine learning.",
+   "description_zh": "一篇综述，提出“混合增强智能”：让人留在决策回路中的人工智能，或把直觉、因果推理等人类认知模型嵌入机器学习之中。",
+   "idea_en": "The main Chinese framing of human–machine integration joins human cognition and machine intelligence while leaving the body out; soma design asks what integration means when cognition is embodied.",
+   "idea_zh": "“人机融合”在中文语境中的主要表述，把人的认知与机器智能结合起来，却把身体留在了外面；身体设计要问的是：当认知本就是具身的，融合意味着什么。",
+   "method": "Survey defining two models (human-in-the-loop collaboration; cognitive-computing-based augmentation) and reviewing their components and applications.",
+   "method_zh": "综述，界定两种模式（人在回路中的人机协作；基于认知计算的增强），并梳理其组成要素与应用。",
+   "keywords": [
+    "hybrid-augmented intelligence",
+    "混合增强智能",
+    "人机融合",
+    "human-in-the-loop",
+    "Xi'an Jiaotong University"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1631/fitee.1700053",
+    "doi": "10.1631/fitee.1700053",
+    "arxiv": "",
+    "venue": "Frontiers of Information Technology & Electronic Engineering 2017",
+    "title": "Hybrid-augmented intelligence: collaboration and cognition"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "roope-raisamo--human-augmentation-past-present-future",
+   "creator_ids": [
+    "roope-raisamo"
+   ],
+   "title": "Human Augmentation: Past, Present and Future",
+   "year": 2019,
+   "field": "augmented",
+   "sub": "body-integration",
+   "also": [
+    "foundations"
+   ],
+   "modalities": [
+    "whole-soma",
+    "new-senses",
+    "extra-body"
+   ],
+   "lenses": [
+    "extended-body"
+   ],
+   "kind": "paper",
+   "description": "A survey of human augmentation that sorts technologies into augmented senses, augmented action and augmented cognition, traces their history and discusses ethics and the future of augmented people.",
+   "description_zh": "一篇人类增强综述，把相关技术分为增强感官、增强行动与增强认知三类，梳理其历史，并讨论伦理问题与增强之人的未来。",
+   "idea_en": "The standard map of augmentation splits the person into senses, actions and cognition; reading from the soma means asking how these parts are felt together as one body.",
+   "idea_zh": "这张人类增强的标准地图把人拆成感官、行动与认知；从身体出发去读，就是追问这些部分如何被感受为同一个身体。",
+   "method": "Literature survey organised by a three-part taxonomy with historical background and an outlook section.",
+   "method_zh": "文献综述，按三分法分类组织，附历史背景与展望。",
+   "keywords": [
+    "human augmentation",
+    "augmented senses",
+    "augmented action",
+    "augmented cognition",
+    "IJHCS",
+    "TAUCHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1016/j.ijhcs.2019.05.008",
+    "doi": "10.1016/j.ijhcs.2019.05.008",
+    "arxiv": "",
+    "venue": "International Journal of Human-Computer Studies 2019",
+    "title": "Human augmentation: Past, present and future"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "amon-rapp--wearables-as-extensions",
+   "creator_ids": [
+    "amon-rapp"
+   ],
+   "title": "Wearable Technologies as Extensions: A Postphenomenological Framework and Its Design Implications",
+   "year": 2021,
+   "field": "augmented",
+   "sub": "body-integration",
+   "also": [
+    "foundations"
+   ],
+   "modalities": [
+    "whole-soma",
+    "new-senses"
+   ],
+   "lenses": [
+    "extended-body",
+    "first-person",
+    "body-mind-unity"
+   ],
+   "kind": "paper",
+   "description": "A theory paper that looks at wearables 'from the inside': instead of listing their external properties, it treats them as extensions of a person's intentionality and introduces the 'extension relation' to describe how they change the way one relates to the world.",
+   "description_zh": "一篇理论论文，“从内部”看待可穿戴设备：不再罗列它们的外部属性，而把它们视为人的意向性的延伸，并提出“延伸关系”来描述它们如何改变人与世界的关联方式。",
+   "idea_en": "A wearable is designed well when it withdraws into lived experience and extends what one can perceive and do, a postphenomenological version of integration that starts from the lived body rather than the device.",
+   "idea_zh": "好的可穿戴设备会隐入亲身经验，延伸人能感知与能做的事——这是一种后现象学版本的融合，它从活的身体而不是设备出发。",
+   "method": "Postphenomenological analysis building on Ihde's human–technology relations, applied to examples of wearable design, with design considerations.",
+   "method_zh": "在 Ihde 的人—技术关系理论基础上做后现象学分析，结合可穿戴设计实例，提出设计考量。",
+   "keywords": [
+    "postphenomenology",
+    "wearables",
+    "extension relation",
+    "intentionality",
+    "Ihde",
+    "Human-Computer Interaction journal"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1080/07370024.2021.1927039",
+    "doi": "10.1080/07370024.2021.1927039",
+    "arxiv": "",
+    "venue": "Human–Computer Interaction (journal) 2021",
+    "title": "Wearable technologies as extensions: a postphenomenological framework and its design implications"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "florian-mueller--hcint-monograph",
+   "creator_ids": [
+    "florian-mueller",
+    "nathan-semertzidis",
+    "josh-andres",
+    "rakesh-patibanda",
+    "zhuying-li",
+    "marianna-obrist",
+    "pattie-maes",
+    "kai-kunze",
+    "jonathan-grudin"
+   ],
+   "title": "Human–Computer Integration: Towards Integrating the Human Body with the Computational Machine",
+   "year": 2022,
+   "field": "augmented",
+   "sub": "body-integration",
+   "also": [
+    "foundations"
+   ],
+   "modalities": [
+    "whole-soma",
+    "electrical",
+    "extra-body"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-mind-unity"
+   ],
+   "kind": "publication",
+   "description": "A monograph by twenty researchers that sets out human–computer integration as a paradigm for integrating the human body with the computational machine, built on two dimensions, bodily agency and bodily ownership, and a list of open challenges.",
+   "description_zh": "一部由二十位研究者合著的专著，把人机融合阐述为“将人体与计算机器融为一体”的范式，建立在身体能动感与身体归属感两个维度之上，并列出一组待解决的挑战。",
+   "idea_en": "The field's own textbook moves the unit of design from the mind to the body: what matters is whether the integrated system feels like my body and my action, not only whether it performs.",
+   "idea_zh": "这部领域自己的“教科书”把设计的单位从心智移到了身体：关键在于融合系统是否被感受为我的身体、我的行动，而不只是它是否好用。",
+   "method": "Synthesis of the authors' Dagstuhl and CHI work and of wider HCInt systems (EMS, exoskeletons, ingestibles, GVS) into two dimensions and a set of challenges.",
+   "method_zh": "综合作者们在达格斯图尔与 CHI 的工作以及更广泛的人机融合系统（肌肉电刺激、外骨骼、可吞咽设备、前庭电刺激），归纳出两个维度与一组挑战。",
+   "keywords": [
+    "human-computer integration",
+    "HInt",
+    "bodily agency",
+    "bodily ownership",
+    "Foundations and Trends in HCI",
+    "Exertion Games Lab"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1561/1100000086",
+    "doi": "10.1561/1100000086",
+    "arxiv": "",
+    "venue": "Foundations and Trends in Human–Computer Interaction 2022",
+    "title": "Human–Computer Integration: Towards Integrating the Human Body with the Computational Machine"
+   },
+   "source_url": "https://www.exertiongameslab.org",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "valdemar-danry--sense-of-self-integration",
+   "creator_ids": [
+    "valdemar-danry",
+    "pat-pataranutaporn",
+    "florian-mueller",
+    "pattie-maes",
+    "sang-won-leigh"
+   ],
+   "title": "On Eliciting a Sense of Self when Integrating with Computers",
+   "year": 2022,
+   "field": "augmented",
+   "sub": "body-integration",
+   "also": [
+    "foundations"
+   ],
+   "modalities": [
+    "whole-soma",
+    "extra-body"
+   ],
+   "lenses": [
+    "extended-body",
+    "first-person",
+    "body-mind-unity"
+   ],
+   "kind": "paper",
+   "description": "A paper observing that physically and functionally integrated systems are often not felt as part of the user and can even cause self-dissociation, and proposing phenomenological and cognitive-science measures to design for a sense of self.",
+   "description_zh": "一篇论文，指出在物理与功能上已经融合的系统，常常并不被使用者感受为自身的一部分，甚至会引发自我解离；并借助现象学与认知科学提出为“自我感”而设计的衡量方式。",
+   "idea_en": "Integration succeeds only when it reaches pre-reflective experience: ownership and agency together make a device part of 'me', which moves the goal from function to how the body-mind lives the device.",
+   "idea_zh": "只有进入前反思经验，融合才算成功：归属感与能动感一起，才使设备成为“我”的一部分——目标因此从功能转向身心如何活出这件设备。",
+   "method": "Theoretical paper drawing on phenomenology (pre-reflective self-awareness) and cognitive science (body ownership, agency), with suggested metrics for evaluation.",
+   "method_zh": "理论论文，借鉴现象学（前反思的自我意识）与认知科学（身体归属感、能动感），并提出评估指标。",
+   "keywords": [
+    "sense of self",
+    "pre-reflective experience",
+    "body ownership",
+    "sense of agency",
+    "Augmented Humans",
+    "Fluid Interfaces"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3519391.3519414",
+    "doi": "10.1145/3519391.3519414",
+    "arxiv": "",
+    "venue": "Augmented Humans 2022",
+    "title": "On Eliciting a Sense of Self when Integrating with Computers"
+   },
+   "source_url": "https://www.media.mit.edu/publications/on-eliciting-a-sense-of-self-when-integrating-with-computers/",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "patricia-cornelio--sense-of-agency-hcint",
+   "creator_ids": [
+    "patricia-cornelio",
+    "marianna-obrist"
+   ],
+   "title": "The Sense of Agency in Emerging Technologies for Human–Computer Integration: A Review",
+   "year": 2022,
+   "field": "augmented",
+   "sub": "body-integration",
+   "also": [
+    "foundations"
+   ],
+   "modalities": [
+    "movement",
+    "electrical",
+    "whole-soma"
+   ],
+   "lenses": [
+    "extended-body",
+    "first-person"
+   ],
+   "kind": "paper",
+   "description": "A review, co-written with neuroscientist Patrick Haggard, of how the sense of agency, the feeling that my voluntary action caused an outcome, changes with technologies that augment the body (extra limbs, prostheses), the action (muscle actuation, intelligent assistance) or the outcome (VR illusions, crossmodal feedback).",
+   "description_zh": "一篇与神经科学家 Patrick Haggard 合写的综述，梳理“能动感”——感到是我的自主动作引发了结果——如何随三类技术而改变：增强身体（额外肢体、假肢）、增强动作（肌肉驱动、智能辅助）与增强结果（虚拟现实错觉、跨感官反馈）。",
+   "idea_en": "Agency is a felt experience built from intention, movement and sensory feedback, first learned as an infant finds its thumb; when a computer moves the body, designers have to protect that feeling, not only the outcome.",
+   "idea_zh": "能动感是由意图、动作与感官反馈共同构成的感受，婴儿找到自己拇指的那一刻就开始学习它；当计算机驱动身体时，设计者要守护的是这种感受，而不只是结果。",
+   "method": "Narrative review of agency research (intentional binding, comparator model) applied to HCInt technologies, with design implications.",
+   "method_zh": "叙述性综述，把能动感研究（意向捆绑、比较器模型）应用到人机融合技术上，并提出设计启示。",
+   "keywords": [
+    "sense of agency",
+    "intentional binding",
+    "Patrick Haggard",
+    "EMS",
+    "human-computer integration",
+    "Frontiers in Neuroscience"
+   ],
+   "images": [
+    "https://www.frontiersin.org/files/Articles/949138/fnins-16-949138-HTML-r2/image_m/fnins-16-949138-g001.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.3389/fnins.2022.949138",
+    "doi": "10.3389/fnins.2022.949138",
+    "arxiv": "",
+    "venue": "Frontiers in Neuroscience 2022",
+    "title": "The sense of agency in emerging technologies for human–computer integration: A review"
+   },
+   "source_url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2022.949138/full",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "jonathan-eden--movement-augmentation-principles",
+   "creator_ids": [
+    "jonathan-eden"
+   ],
+   "title": "Principles of Human Movement Augmentation and the Challenges in Making It a Reality",
+   "year": 2022,
+   "field": "augmented",
+   "sub": "extra-limbs",
+   "also": [
+    "care"
+   ],
+   "modalities": [
+    "extra-body",
+    "movement",
+    "muscle"
+   ],
+   "lenses": [
+    "extended-body"
+   ],
+   "kind": "paper",
+   "description": "A review that builds a taxonomy of movement augmentation by what is augmented and how, focuses on adding degrees of freedom such as extra robotic limbs, and asks where their control signals, sensory feedback and learning can come from.",
+   "description_zh": "一篇综述，按“增强什么、如何增强”建立运动增强的分类，重点讨论增加自由度（例如额外的机器人肢体），并追问其控制信号、感官反馈与学习从何而来。",
+   "idea_en": "A body cannot be added to for free: every extra limb competes with the natural body for attention, muscles and neural resources, so augmentation is a reorganisation of the whole soma.",
+   "idea_zh": "身体不能被免费地添加：每一只额外的肢体都在与自然身体争夺注意、肌肉与神经资源，因此增强是对整个身体的重组。",
+   "method": "Review of supernumerary robotics, physiological control signals, sensory feedback and motor learning, organised by the proposed taxonomy.",
+   "method_zh": "综述额外机器人肢体、生理控制信号、感官反馈与运动学习，按所提出的分类组织。",
+   "keywords": [
+    "movement augmentation",
+    "supernumerary limbs",
+    "degrees of freedom",
+    "neural resources",
+    "Nature Communications"
+   ],
+   "images": [
+    "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-022-28725-7/MediaObjects/41467_2022_28725_Fig1_HTML.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/s41467-022-28725-7",
+    "doi": "10.1038/s41467-022-28725-7",
+    "arxiv": "",
+    "venue": "Nature Communications 2022",
+    "title": "Principles of human movement augmentation and the challenges in making it a reality"
+   },
+   "source_url": "https://www.nature.com/articles/s41467-022-28725-7",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "nathan-semertzidis--what-we-talk-about-hcint",
+   "creator_ids": [
+    "nathan-semertzidis",
+    "pedro-lopes",
+    "kai-kunze",
+    "florian-mueller",
+    "pattie-maes"
+   ],
+   "title": "What We Talk About When We Talk About Human-Computer Integration",
+   "year": 2022,
+   "field": "augmented",
+   "sub": "body-integration",
+   "also": [
+    "foundations"
+   ],
+   "modalities": [
+    "whole-soma"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-mind-unity"
+   ],
+   "kind": "paper",
+   "description": "A CHI 2022 panel, five years after the 'Integration vs Powerful Tools' debate, that brings together HCInt researchers and the cybernetician Paul Pangaro to ask what the essence of integration is, since each theorist now means something different by it.",
+   "description_zh": "CHI 2022 的一场专题讨论，距“融合与强大工具”之辩五年后，邀请人机融合研究者与控制论学者 Paul Pangaro 共同追问：融合的本质是什么——因为如今每位理论家说“融合”时指的都不一样。",
+   "idea_en": "By 2022 integration names at least three things, shared agency, shared body and cybernetic coupling; asking which one a design means is the first step to asking how it feels.",
+   "idea_zh": "到 2022 年，“融合”至少指三件事：共享的能动性、共享的身体，以及控制论意义上的耦合；先问清一个设计指的是哪一种，才能进一步问它的感受。",
+   "method": "Moderated panel with position statements and audience discussion.",
+   "method_zh": "有主持的专题讨论，包括立场陈述与听众讨论。",
+   "keywords": [
+    "CHI 2022 panel",
+    "human-computer integration",
+    "cybernetics",
+    "Paul Pangaro",
+    "agency"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3491101.3516509",
+    "doi": "10.1145/3491101.3516509",
+    "arxiv": "",
+    "venue": "CHI 2022 Extended Abstracts (Panel)",
+    "title": "What We Talk About When We Talk About Human-Computer Integration"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "steeven-villa--perception-of-human-augmentation",
+   "creator_ids": [
+    "steeven-villa",
+    "albrecht-schmidt"
+   ],
+   "title": "Understanding Perception of Human Augmentation: A Mixed-Method Study",
+   "year": 2023,
+   "field": "augmented",
+   "sub": "body-integration",
+   "also": [
+    "care"
+   ],
+   "modalities": [
+    "whole-soma",
+    "new-senses",
+    "extra-body"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-politics"
+   ],
+   "kind": "paper",
+   "description": "A study of how people see augmented humans: interviews (16) and an online survey (506) in four countries respond to scenarios of sensory, motor and cognitive augmentation for people with and without a disability.",
+   "description_zh": "一项关于人们如何看待增强之人的研究：在四个国家进行访谈（16 人）与在线调查（506 人），让参与者回应感官、运动与认知增强的情景，情景中的人或有或无残障。",
+   "idea_en": "Augmentation is judged socially: the same device reads as repair or as unfair enhancement depending on whose body wears it, so designing augmentation is also designing how bodies are seen.",
+   "idea_zh": "增强是在社会中被评判的：同一件设备，戴在谁的身体上，就被看作修复或不公平的强化；因此设计增强，也是在设计身体如何被看待。",
+   "method": "Scenario-based interviews and a cross-cultural online study varying augmentation type and disability, analysed into design dimensions.",
+   "method_zh": "基于情景的访谈与跨文化在线研究，变换增强类型与是否残障，归纳出设计维度。",
+   "keywords": [
+    "human augmentation",
+    "perception",
+    "disability",
+    "cross-cultural",
+    "CHI 2023"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=9iBiynVrr74"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3544548.3581485",
+    "doi": "10.1145/3544548.3581485",
+    "arxiv": "",
+    "venue": "CHI 2023",
+    "title": "Understanding Perception of Human Augmentation: A Mixed-Method Study"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "steeven-villa--placebo-effect-of-augmentation",
+   "creator_ids": [
+    "steeven-villa",
+    "albrecht-schmidt"
+   ],
+   "title": "The Placebo Effect of Human Augmentation",
+   "year": 2023,
+   "field": "augmented",
+   "sub": "body-integration",
+   "also": [
+    "affect"
+   ],
+   "modalities": [
+    "brain",
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "first-person"
+   ],
+   "kind": "paper",
+   "description": "An experiment in which participants were told a brain–computer interface was boosting their cognition with inaudible sounds; nothing was played, yet their belief in improvement persisted, their risk-taking rose with expectation, and their EEG differed.",
+   "description_zh": "一项实验：参与者被告知一台脑机接口正以听不见的声音提升他们的认知；实际上什么也没有播放，但他们对“变强”的信念持续存在，冒险行为随期待升高，脑电也出现差异。",
+   "idea_en": "Expecting to be augmented already changes how one acts and what the brain does: augmentation is partly a lived belief of the body-mind, which also means claims about devices must be tested against placebo.",
+   "idea_zh": "单是期待被增强，就已经改变了人的行动和大脑的反应：增强有一部分是身心亲历的信念；这也意味着关于设备的说法必须经过安慰剂对照的检验。",
+   "method": "Between-condition study (n=30) with a sham BCI during the Columbia Card Task, Bayesian modelling of risk-taking and EEG event-related potentials.",
+   "method_zh": "组间实验（30 人），在 Columbia 卡片任务中使用假脑机接口，以贝叶斯模型分析冒险行为，并测量脑电事件相关电位。",
+   "keywords": [
+    "placebo",
+    "human augmentation",
+    "expectation",
+    "sham BCI",
+    "EEG",
+    "Computers in Human Behavior"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1016/j.chb.2023.107787",
+    "doi": "10.1016/j.chb.2023.107787",
+    "arxiv": "",
+    "venue": "Computers in Human Behavior 2023",
+    "title": "The placebo effect of human augmentation: Anticipating cognitive augmentation increases risk-taking behavior"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  }
+ ],
+ "leads": [
+  {
+   "name": "SIGHInt: Special Interest Group for Human-Computer Integration (CHI 2021 EA, Semertzidis et al.)",
+   "why": "Community-building SIG between the 2017 and 2022 panels; thin on its own.",
+   "link": "https://doi.org/10.1145/3411763.3450400",
+   "found_via": "nathan-semertzidis",
+   "status": "open"
+  },
+  {
+   "name": "Farooq & Grudin, Paradigm Shift from Human Computer Interaction to Integration (CHI 2017 EA SIG)",
+   "why": "Companion SIG to the 2017 panel; merged into the panel entry.",
+   "link": "https://doi.org/10.1145/3027063.3049285",
+   "found_via": "umer-farooq",
+   "status": "duplicate"
+  },
+  {
+   "name": "Mueller, von Kaenel, Duckworth, Andres: Taking inspiration from becoming 'one with a bike' to design human-computer integration (HCI journal 2023)",
+   "why": "Conceptual HCInt paper from felt cycling experience; belongs to add-florian-mueller.",
+   "link": "https://doi.org/10.1080/07370024.2023.2269148",
+   "found_via": "florian-mueller",
+   "status": "open"
+  },
+  {
+   "name": "Pedro Lopes, 'Human Computer Integration' keynote (TAI CHI 2026)",
+   "why": "Unused Lopes talk video (YouTube G5IjoXr24b4); media for add-pedro-lopes.",
+   "link": "https://www.youtube.com/watch?v=G5IjoXr24b4",
+   "found_via": "pedro-lopes",
+   "status": "open"
+  },
+  {
+   "name": "Pattie Maes, Human Machine Symbiosis (TEDxBrussels)",
+   "why": "Unused video (kCOV51S7Xqg) for a future Pattie Maes / Fluid Interfaces work.",
+   "link": "https://www.youtube.com/watch?v=kCOV51S7Xqg",
+   "found_via": "pattie-maes",
+   "status": "open"
+  },
+  {
+   "name": "Ben Shneiderman, Human-Centered AI (Oxford UP 2022) / IJHCI 2020",
+   "why": "Current form of the 'supertools, not partners' counter-position; AI-focused rather than bodily.",
+   "link": "https://doi.org/10.1080/10447318.2020.1741118",
+   "found_via": "ben-shneiderman",
+   "status": "open"
+  },
+  {
+   "name": "Gilbert, Newendorp, Marshall: Moving Licklider from Man- to Human-Computer Symbiosis (EduCHI 2025)",
+   "why": "Critical rereading of Licklider's gendered framing for teaching HCI.",
+   "link": "https://doi.org/10.1145/3742901.3742906",
+   "found_via": "j-c-r-licklider",
+   "status": "open"
+  },
+  {
+   "name": "Huber, Rekimoto, Inami, Shilkrot, Maes, Nanayakkara: Workshop on Assistive Augmentation (CHI 2014) and the Assistive Augmentation book (Springer 2018)",
+   "why": "Links augmentation to disability and care; Nanayakkara's Augmented Human Lab also hosts talks used here.",
+   "link": "https://doi.org/10.1145/2559206.2560473",
+   "found_via": "pattie-maes",
+   "status": "open"
+  },
+  {
+   "name": "Shengdong Zhao et al., Heads-Up Computing (CACM 2023)",
+   "why": "Body-compatible wearable paradigm moving beyond the device-centred model; cites HCInt.",
+   "link": "https://doi.org/10.1145/3571722",
+   "found_via": "florian-mueller",
+   "status": "open"
+  },
+  {
+   "name": "Guerrero et al., Augmented Humanity: A Systematic Mapping Review (Sensors 2022)",
+   "why": "Second survey of augmentation; weaker than Raisamo 2019.",
+   "link": "https://doi.org/10.3390/s22020514",
+   "found_via": "roope-raisamo",
+   "status": "open"
+  },
+  {
+   "name": "Paul Pangaro (cybernetician)",
+   "why": "Panellist on the 2022 HCInt panel; cybernetics as a lineage for integration (with Norbert Wiener, not yet in the gallery).",
+   "link": "https://www.pangaro.com",
+   "found_via": "nathan-semertzidis",
+   "status": "open"
+  },
+  {
+   "name": "Xiangshi Ren, Human-Engaged Computing",
+   "why": "East Asian framing of computing that cultivates human capacities; could become its own work.",
+   "link": "https://doi.org/10.1109/mc.2016.253",
+   "found_via": "xiangshi-ren",
+   "status": "open"
+  },
+  {
+   "name": "Dickinson, Semertzidis, Mueller: Machine In The Middle (CHI 2022 EA)",
+   "why": "Media art on dark patterns of emotional HCInt.",
+   "link": "https://doi.org/10.1145/3491101.3503555",
+   "found_via": "nathan-semertzidis",
+   "status": "open"
+  }
+ ]
+}

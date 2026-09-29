@@ -1,0 +1,22 @@
+{
+ "vannevar-bush--as-we-may-think": {"zh": "诚如所思", "src": "translated"},
+ "j-c-r-licklider--man-computer-symbiosis": {"zh": "人机共生", "src": "established"},
+ "douglas-engelbart--augmenting-human-intellect": {"zh": "增强人类智力：一个概念框架", "src": "translated"},
+ "ben-shneiderman--direct-manipulation-vs-interface-agents": {"zh": "直接操纵与界面代理之辩", "src": "translated"},
+ "giulio-jacucci--symbiotic-interaction": {"zh": "共生交互：批判性定义及与其他人机范式的比较", "src": "translated"},
+ "umer-farooq--human-computer-integration": {"zh": "人机融合", "src": "translated"},
+ "umer-farooq--integration-versus-powerful-tools": {"zh": "人机融合，还是强大的工具？", "src": "translated"},
+ "albrecht-schmidt--augmenting-human-intellect-perception": {"zh": "增强人类智力，放大感知与认知", "src": "translated"},
+ "sang-won-leigh--morphological-interfaces": {"zh": "形态界面：论改变身体的技术", "src": "translated"},
+ "florian-mueller--dagstuhl-human-computer-integration": {"zh": "人机融合（达格斯图尔研讨会 18322）", "src": "translated"},
+ "nanning-zheng--hybrid-augmented-intelligence": {"zh": "混合增强智能：协作与认知", "src": "translated"},
+ "roope-raisamo--human-augmentation-past-present-future": {"zh": "人类增强：过去、现在与未来", "src": "translated"},
+ "amon-rapp--wearables-as-extensions": {"zh": "作为延伸的可穿戴技术：一个后现象学框架及其设计启示", "src": "translated"},
+ "florian-mueller--hcint-monograph": {"zh": "人机融合：迈向人体与计算机器的融合", "src": "translated"},
+ "valdemar-danry--sense-of-self-integration": {"zh": "论在人机融合中唤起自我感", "src": "translated"},
+ "patricia-cornelio--sense-of-agency-hcint": {"zh": "人机融合新兴技术中的能动感：综述", "src": "translated"},
+ "jonathan-eden--movement-augmentation-principles": {"zh": "人体运动增强的原理及其实现挑战", "src": "translated"},
+ "nathan-semertzidis--what-we-talk-about-hcint": {"zh": "当我们谈论人机融合时，我们在谈论什么", "src": "translated"},
+ "steeven-villa--perception-of-human-augmentation": {"zh": "理解人们对人类增强的看法：一项混合方法研究", "src": "translated"},
+ "steeven-villa--placebo-effect-of-augmentation": {"zh": "人类增强的安慰剂效应", "src": "translated"}
+}

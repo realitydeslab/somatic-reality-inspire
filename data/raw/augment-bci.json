@@ -1,0 +1,2705 @@
+{
+ "batch": "augment-bci",
+ "creators": [
+  {
+   "id": "jacques-vidal",
+   "name": "Jacques J. Vidal",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Computer scientist, University of California, Los Angeles",
+   "role_zh": "计算机科学家，加州大学洛杉矶分校",
+   "based": "Los Angeles, US",
+   "based_zh": "洛杉矶，美国",
+   "bio": "Computer scientist at UCLA who coined the term brain–computer interface in 1973 and built early EEG systems that read visual evoked potentials to steer a cursor.",
+   "bio_zh": "加州大学洛杉矶分校的计算机科学家，1973 年提出“脑机接口”一词，并搭建了早期读取视觉诱发电位来操控光标的脑电系统。",
+   "why": "He framed the brain as something a computer could listen to directly, the starting point that later soma-oriented BCI work questions and extends.",
+   "why_zh": "他把大脑设想为计算机可以直接“聆听”的对象；后来面向身体的脑机接口研究正是从这里出发，对其提出质疑并加以扩展。",
+   "disciplines": [
+    "engineering"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jonathan-wolpaw",
+   "name": "Jonathan R. Wolpaw",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Neurologist; founder of the BCI research program at the Wadsworth Center, Albany",
+   "role_zh": "神经科医生；奥尔巴尼 Wadsworth Center 脑机接口研究项目创始人",
+   "based": "Albany, NY, US",
+   "based_zh": "奥尔巴尼（纽约州），美国",
+   "bio": "Neurologist whose Wadsworth Center group developed EEG-based BCIs driven by sensorimotor rhythms and the open BCI2000 software platform.",
+   "bio_zh": "神经科医生，其 Wadsworth Center 团队开发了由感觉运动节律驱动的脑电脑机接口，以及开放的 BCI2000 软件平台。",
+   "why": "His definition of a BCI as a new, learned output channel of the nervous system shows that using one is a bodily skill, not only a decoding problem.",
+   "why_zh": "他把脑机接口定义为神经系统一条需要学习的新输出通道，说明使用它是一种身体技能，而不只是解码问题。",
+   "disciplines": [
+    "health",
+    "engineering"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "leigh-hochberg",
+   "name": "Leigh R. Hochberg",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Neurologist; director of the BrainGate clinical trials, Brown University and Massachusetts General Hospital",
+   "role_zh": "神经科医生；BrainGate 临床试验负责人，布朗大学与麻省总医院",
+   "based": "Providence, RI, US",
+   "based_zh": "普罗维登斯（罗得岛州），美国",
+   "bio": "Neurologist and neuroengineer who leads the BrainGate trials of intracortical BCIs for people with paralysis.",
+   "bio_zh": "神经科医生与神经工程师，主持面向瘫痪人士的皮层内脑机接口 BrainGate 试验。",
+   "why": "BrainGate's participants were the first people to move cursors and robot arms from implanted motor-cortex signals, the reference point for every later implant.",
+   "why_zh": "BrainGate 的参与者是最早用植入运动皮层的信号移动光标和机械臂的人，此后所有植入式设备都以此为参照。",
+   "disciplines": [
+    "health",
+    "engineering"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "sharlene-flesher",
+   "name": "Sharlene N. Flesher",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Biomedical engineer; led touch-feedback BCI studies at the Rehab Neural Engineering Labs, University of Pittsburgh",
+   "role_zh": "生物医学工程师；在匹兹堡大学康复神经工程实验室主持触觉反馈脑机接口研究",
+   "based": "Pittsburgh, US",
+   "based_zh": "匹兹堡，美国",
+   "bio": "Biomedical engineer who showed that stimulating the somatosensory cortex through implanted electrodes can give a person with paralysis felt touch on a robotic hand.",
+   "bio_zh": "生物医学工程师，证明了通过植入电极刺激躯体感觉皮层，可以让瘫痪者在机械手上感到触觉。",
+   "why": "Her work puts feeling back into BCIs: the loop runs from brain to arm and back to felt touch.",
+   "why_zh": "她的工作把感受重新放回脑机接口：回路从大脑到手臂，再回到被感受到的触觉。",
+   "disciplines": [
+    "engineering",
+    "health"
+   ],
+   "links": {},
+   "connected_to": [
+    "robert-gaunt"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "robert-gaunt",
+   "name": "Robert A. Gaunt",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Associate Professor of Physical Medicine and Rehabilitation, University of Pittsburgh",
+   "role_zh": "匹兹堡大学物理医学与康复系副教授",
+   "based": "Pittsburgh, US",
+   "based_zh": "匹兹堡，美国",
+   "bio": "Neural engineer at Pittsburgh's Rehab Neural Engineering Labs working on bidirectional BCIs and restoring sensation.",
+   "bio_zh": "匹兹堡康复神经工程实验室的神经工程师，研究双向脑机接口与感觉恢复。",
+   "why": "He co-led the studies in which intracortical microstimulation gave a BCI user felt touch and better control.",
+   "why_zh": "他共同主持了用皮层内微电刺激让脑机接口使用者获得触觉、并改善控制的研究。",
+   "disciplines": [
+    "engineering",
+    "health"
+   ],
+   "links": {},
+   "connected_to": [
+    "sharlene-flesher"
+   ],
+   "discovered_via": "sharlene-flesher"
+  },
+  {
+   "id": "patrick-ganzer",
+   "name": "Patrick D. Ganzer",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Neuroscientist, formerly at Battelle Memorial Institute",
+   "role_zh": "神经科学家，曾任职于 Battelle 研究所",
+   "based": "Columbus, OH, US",
+   "based_zh": "哥伦布（俄亥俄州），美国",
+   "bio": "Neuroscientist who led the Battelle NeuroLife study that decoded faint touch signals from motor cortex to restore a sense of touch in a man with spinal cord injury.",
+   "bio_zh": "神经科学家，主持 Battelle NeuroLife 研究，从运动皮层解码微弱的触觉信号，为一位脊髓损伤者恢复触觉。",
+   "why": "His work showed that a hand's own leftover touch signals can be made conscious again, rather than replaced by an artificial channel.",
+   "why_zh": "他的工作表明，手自身残留的触觉信号可以重新被意识到，而不必用人工通道替代。",
+   "disciplines": [
+    "health",
+    "engineering"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "henri-lorach",
+   "name": "Henri Lorach",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Neuroengineer, .NeuroRestore, EPFL and Lausanne University Hospital (CHUV)",
+   "role_zh": "神经工程师，洛桑联邦理工学院与洛桑大学医院 .NeuroRestore 中心",
+   "based": "Lausanne, CH",
+   "based_zh": "洛桑，瑞士",
+   "bio": "Neuroengineer and first author of the brain–spine interface study that let a man with tetraplegia walk again.",
+   "bio_zh": "神经工程师，“脑-脊髓接口”研究的第一作者，该研究让一位四肢瘫痪的男子重新行走。",
+   "why": "He works on bridging brain and spinal cord so that walking returns as the person's own movement.",
+   "why_zh": "他致力于在大脑与脊髓之间架桥，使行走重新成为当事人自己的动作。",
+   "disciplines": [
+    "engineering",
+    "health"
+   ],
+   "links": {},
+   "connected_to": [
+    "gregoire-courtine"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "gregoire-courtine",
+   "name": "Grégoire Courtine",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Neuroscience, EPFL; co-director of .NeuroRestore",
+   "role_zh": "洛桑联邦理工学院神经科学教授；.NeuroRestore 联合主任",
+   "based": "Lausanne, CH",
+   "based_zh": "洛桑，瑞士",
+   "bio": "Neuroscientist who, with neurosurgeon Jocelyne Bloch, develops spinal cord stimulation and brain–spine interfaces to restore walking after paralysis.",
+   "bio_zh": "神经科学家，与神经外科医生 Jocelyne Bloch 合作，开发脊髓电刺激与脑-脊髓接口，帮助瘫痪者恢复行走。",
+   "why": "His lab routes brain signals back into the body's own spinal circuits, so the legs do the walking rather than a machine.",
+   "why_zh": "他的实验室把大脑信号送回身体自己的脊髓回路，由双腿而不是机器来完成行走。",
+   "disciplines": [
+    "health",
+    "engineering"
+   ],
+   "links": {},
+   "connected_to": [
+    "henri-lorach"
+   ],
+   "discovered_via": "henri-lorach"
+  },
+  {
+   "id": "sean-metzger",
+   "name": "Sean L. Metzger",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Neuroengineer, Chang Lab, University of California, San Francisco",
+   "role_zh": "神经工程师，加州大学旧金山分校 Chang 实验室",
+   "based": "San Francisco, US",
+   "based_zh": "旧金山，美国",
+   "bio": "Neuroengineer and first author of the speech neuroprosthesis that decoded attempted speech into text, voice and a talking facial avatar.",
+   "bio_zh": "神经工程师，言语神经假体研究的第一作者，该系统把尝试说话时的脑信号解码为文字、声音与会说话的面部虚拟形象。",
+   "why": "His work treats speech as a whole bodily act, face and voice included, not only as words.",
+   "why_zh": "他的工作把说话看作包括面部与嗓音在内的整体身体行为，而不只是文字。",
+   "disciplines": [
+    "engineering",
+    "health"
+   ],
+   "links": {},
+   "connected_to": [
+    "edward-chang"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "edward-chang",
+   "name": "Edward F. Chang",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Neurosurgeon; Chair of Neurological Surgery, University of California, San Francisco",
+   "role_zh": "神经外科医生；加州大学旧金山分校神经外科主任",
+   "based": "San Francisco, US",
+   "based_zh": "旧金山，美国",
+   "bio": "Neurosurgeon whose lab maps the speech cortex and builds speech neuroprostheses for people who have lost the ability to talk.",
+   "bio_zh": "神经外科医生，其实验室绘制言语皮层图谱，并为失去说话能力的人开发言语神经假体。",
+   "why": "His lab decodes the movements of lips, tongue and jaw, so restored speech includes the felt, facial side of talking.",
+   "why_zh": "他的实验室解码嘴唇、舌头与下颌的动作，使恢复的言语包含说话时被感受的面部一面。",
+   "disciplines": [
+    "health",
+    "engineering"
+   ],
+   "links": {},
+   "connected_to": [
+    "sean-metzger"
+   ],
+   "discovered_via": "sean-metzger"
+  },
+  {
+   "id": "neuralink",
+   "name": "Neuralink",
+   "name_zh": "",
+   "kind": "company",
+   "role": "Neurotechnology company developing implanted brain–computer interfaces",
+   "role_zh": "开发植入式脑机接口的神经技术公司",
+   "based": "Fremont, CA, US",
+   "based_zh": "弗里蒙特（加利福尼亚州），美国",
+   "bio": "Company founded in 2016 by Elon Musk and others that develops the N1 implant, a coin-sized device with thin electrode threads inserted by a surgical robot.",
+   "bio_zh": "由埃隆·马斯克等人于 2016 年创立的公司，开发 N1 植入体：一枚硬币大小的设备，由手术机器人植入细如发丝的电极线。",
+   "why": "It is the most publicised BCI company and a clear case of the brain-as-controller framing that soma design questions.",
+   "why_zh": "它是最受关注的脑机接口公司，也清楚地体现了身体设计所质疑的“大脑即控制器”思路。",
+   "disciplines": [
+    "engineering"
+   ],
+   "links": {
+    "site": "https://neuralink.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "synchron",
+   "name": "Synchron",
+   "name_zh": "",
+   "kind": "company",
+   "role": "Neurotechnology company developing the endovascular Stentrode BCI",
+   "role_zh": "开发血管内 Stentrode 脑机接口的神经技术公司",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "bio": "Company founded in Melbourne that implants a stent-mounted electrode array through the jugular vein into a blood vessel over the motor cortex, avoiding open brain surgery.",
+   "bio_zh": "起源于墨尔本的公司，通过颈静脉把装在支架上的电极阵列送入运动皮层上方的血管，避免开颅手术。",
+   "why": "Its route through the body's own blood vessels shows that how a device enters the body shapes risk and daily life as much as its signals.",
+   "why_zh": "它经由身体自身血管植入的方式表明，设备如何进入身体，与其信号一样影响风险与日常生活。",
+   "disciplines": [
+    "engineering",
+    "health"
+   ],
+   "links": {
+    "site": "https://synchron.com"
+   },
+   "connected_to": [
+    "thomas-oxley"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "thomas-oxley",
+   "name": "Thomas J. Oxley",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Neurologist; founder and CEO of Synchron",
+   "role_zh": "神经科医生；Synchron 创始人兼首席执行官",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "bio": "Australian neurologist and interventional neuroradiologist who invented the Stentrode and led its first-in-human study.",
+   "bio_zh": "澳大利亚神经科医生与介入神经放射科医生，发明了 Stentrode 并主持首次人体研究。",
+   "why": "He showed a BCI can be placed without opening the skull, lowering the bodily cost of an implant.",
+   "why_zh": "他证明脑机接口可以在不开颅的情况下植入，降低了植入对身体的代价。",
+   "disciplines": [
+    "health",
+    "engineering"
+   ],
+   "links": {},
+   "connected_to": [
+    "synchron"
+   ],
+   "discovered_via": "synchron"
+  },
+  {
+   "id": "interaxon",
+   "name": "InteraXon",
+   "name_zh": "",
+   "kind": "company",
+   "role": "Maker of the Muse EEG meditation headband",
+   "role_zh": "Muse 脑电冥想头带的制造商",
+   "based": "Toronto, CA",
+   "based_zh": "多伦多，加拿大",
+   "bio": "Toronto company founded in 2007 by Ariel Garten, Trevor Coleman and Chris Aimone; it released the Muse headband in 2014.",
+   "bio_zh": "多伦多公司，2007 年由 Ariel Garten、Trevor Coleman 与 Chris Aimone 创立，2014 年推出 Muse 头带。",
+   "why": "Muse brought EEG neurofeedback for meditation into everyday use, for better and worse.",
+   "why_zh": "Muse 把用于冥想的脑电神经反馈带入日常生活，利弊兼有。",
+   "disciplines": [
+    "engineering"
+   ],
+   "links": {
+    "site": "https://choosemuse.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "openbci",
+   "name": "OpenBCI",
+   "name_zh": "",
+   "kind": "company",
+   "role": "Open-source biosensing hardware company",
+   "role_zh": "开源生物传感硬件公司",
+   "based": "Brooklyn, NY, US",
+   "based_zh": "布鲁克林（纽约州），美国",
+   "bio": "Company started by Joel Murphy and Conor Russomanno after a 2013 Kickstarter campaign; it makes low-cost open EEG/EMG/ECG boards and the Galea headset.",
+   "bio_zh": "由 Joel Murphy 与 Conor Russomanno 在 2013 年 Kickstarter 众筹后创立，生产低成本的开源脑电/肌电/心电板，以及 Galea 头显。",
+   "why": "Its open boards are the default tool for artists and HCI researchers building their own brain and body sensing work.",
+   "why_zh": "它的开源电路板是艺术家和人机交互研究者自制脑与身体传感作品的常用工具。",
+   "disciplines": [
+    "engineering"
+   ],
+   "links": {
+    "site": "https://openbci.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "bo-hong",
+   "name": "Bo Hong",
+   "name_zh": "洪波",
+   "kind": "person",
+   "role": "Professor of Biomedical Engineering, Tsinghua University",
+   "role_zh": "清华大学医学院生物医学工程系教授",
+   "based": "Beijing, CN",
+   "based_zh": "北京，中国",
+   "bio": "Neuroengineer whose Tsinghua lab developed NEO, a wireless epidural BCI that sits outside the brain's dura and helps people with tetraplegia grasp again.",
+   "bio_zh": "神经工程师，其清华团队研发了 NEO：一种置于硬脑膜外的无线脑机接口，帮助四肢瘫痪者重新抓握。",
+   "why": "His semi-invasive design trades signal detail for long-term safety, and puts the goal on the person's own hand.",
+   "why_zh": "他的半侵入式设计以部分信号精度换取长期安全，并把目标放在患者自己的手上。",
+   "disciplines": [
+    "engineering",
+    "health"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "neurowear",
+   "name": "neurowear",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Tokyo gadget project team working on the “Augmented Human Body”",
+   "role_zh": "以“增强的人体”为主题的东京小型设备项目团队",
+   "based": "Tokyo, JP",
+   "based_zh": "东京，日本",
+   "bio": "Japanese project team whose first product, necomimi, turned a consumer EEG sensor into cat ears that move with the wearer's mental state.",
+   "bio_zh": "日本项目团队，其第一件产品 necomimi 把消费级脑电传感器变成会随佩戴者心理状态而动的猫耳。",
+   "why": "It made brain data playful and worn on the body, visible to others rather than hidden in a screen.",
+   "why_zh": "它让脑数据变得好玩，并戴在身体上，让他人看得见，而不是藏在屏幕里。",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": "https://neurowear.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "alvin-lucier",
+   "name": "Alvin Lucier",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Composer (1931–2021)",
+   "role_zh": "作曲家（1931–2021）",
+   "based": "Middletown, CT, US",
+   "based_zh": "米德尔敦（康涅狄格州），美国",
+   "bio": "American experimental composer whose works explore the physical properties of sound, rooms and the body.",
+   "bio_zh": "美国实验作曲家，作品探索声音、空间与身体的物理特性。",
+   "why": "Music for Solo Performer (1965) was the first piece to make music from brainwaves, and it can only be played by relaxing.",
+   "why_zh": "《为独奏者而作的音乐》（1965）是第一部用脑电波制造音乐的作品，而且只能通过放松来演奏。",
+   "disciplines": [
+    "dance",
+    "art"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Alvin_Lucier"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "david-rosenboom",
+   "name": "David Rosenboom",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Composer, performer and educator; former Dean of Music, California Institute of the Arts",
+   "role_zh": "作曲家、演奏者与教育者；曾任加州艺术学院音乐学院院长",
+   "based": "Valencia, CA, US",
+   "based_zh": "瓦伦西亚（加利福尼亚州），美国",
+   "bio": "American experimental composer who, from the early 1970s, built music systems driven by EEG and biofeedback and edited Biofeedback and the Arts (1975).",
+   "bio_zh": "美国实验作曲家，自 1970 年代初起搭建由脑电与生物反馈驱动的音乐系统，并主编《生物反馈与艺术》（1975）。",
+   "why": "He treated the performer's attention as musical material, making neurofeedback a practice of listening inward.",
+   "why_zh": "他把演奏者的注意力当作音乐材料，使神经反馈成为一种向内聆听的修习。",
+   "disciplines": [
+    "dance",
+    "art"
+   ],
+   "links": {
+    "site": "https://www.davidrosenboom.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "nina-sobell",
+   "name": "Nina Sobell",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Video, performance and net artist",
+   "role_zh": "录像、行为与网络艺术家",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "bio": "American artist, part of the 1970s feminist video movement, who has made BrainWave Drawings with two people's EEG since 1973.",
+   "bio_zh": "美国艺术家，1970 年代女性主义录像运动的一员，自 1973 年起用两个人的脑电制作《脑波绘画》。",
+   "why": "Her EEG pieces are about two people trying to meet, not one person controlling a machine.",
+   "why_zh": "她的脑电作品关注两个人如何彼此相遇，而不是一个人如何控制机器。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://ninasobell.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "lisa-park",
+   "name": "Lisa Park",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist working with biosensors, sound and installation",
+   "role_zh": "使用生物传感器、声音与装置创作的艺术家",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "bio": "Korean-born, New York-based artist who uses EEG and heart-rate sensors to make her inner states visible and audible in water, sound and light.",
+   "bio_zh": "出生于韩国、现居纽约的艺术家，用脑电与心率传感器，让自己的内在状态在水、声音与光中变得可见、可听。",
+   "why": "Her performances depend on how she meets her own feelings in public, making neurofeedback a practice of self-attunement.",
+   "why_zh": "她的表演取决于她如何在众人面前面对自己的情绪，使神经反馈成为一种自我调谐的修习。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.thelisapark.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "masaki-batoh",
+   "name": "Masaki Batoh",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Musician; founder of the Tokyo band Ghost",
+   "role_zh": "音乐人；东京乐队 Ghost 的创始人",
+   "based": "Tokyo, JP",
+   "based_zh": "东京，日本",
+   "bio": "Japanese musician who led the experimental rock group Ghost and later built a brainwave-to-sound device for Brain Pulse Music (2012).",
+   "bio_zh": "日本音乐人，曾领导实验摇滚乐队 Ghost，后来为专辑《Brain Pulse Music》（2012）制作了把脑电转为声音的设备。",
+   "why": "He joined brainwave sonification with Japanese ritual music as a requiem after the 2011 earthquake.",
+   "why_zh": "他把脑电发声与日本仪式音乐结合，作为 2011 年地震之后的安魂之作。",
+   "disciplines": [
+    "dance",
+    "art"
+   ],
+   "links": {
+    "site": "https://www.dragcity.com/artists/masaki-batoh"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "marina-abramovic",
+   "name": "Marina Abramović",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Performance artist",
+   "role_zh": "行为艺术家",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "bio": "Serbian-born performance artist working since the early 1970s with endurance, presence and the relation between performer and audience.",
+   "bio_zh": "出生于塞尔维亚的行为艺术家，自 1970 年代初起以耐力、在场以及表演者与观众的关系为创作核心。",
+   "why": "Her long, silent gazes with strangers became the setting for early art-science studies of brain synchrony between two people.",
+   "why_zh": "她与陌生人长久无声的对视，成为早期研究两人之间脑同步的艺术-科学实验的场景。",
+   "disciplines": [
+    "art",
+    "dance"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Marina_Abramovi%C4%87"
+   },
+   "connected_to": [
+    "suzanne-dikker"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "suzanne-dikker",
+   "name": "Suzanne Dikker",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Cognitive neuroscientist and artist; New York University and Utrecht University",
+   "role_zh": "认知神经科学家与艺术家；纽约大学与乌得勒支大学",
+   "based": "New York, US / Amsterdam, NL",
+   "based_zh": "纽约，美国 / 阿姆斯特丹，荷兰",
+   "bio": "Neuroscientist who studies brain-to-brain synchrony in real-world settings and makes neurofeedback installations with media artist Matthias Oostrik.",
+   "bio_zh": "神经科学家，在真实情境中研究人与人之间的脑同步，并与媒体艺术家 Matthias Oostrik 一起制作神经反馈装置。",
+   "why": "Her work moves the question from one brain to what happens between people who share space, gaze and attention.",
+   "why_zh": "她的工作把问题从单个大脑转向共享空间、目光与注意力的人与人之间发生了什么。",
+   "disciplines": [
+    "health",
+    "art"
+   ],
+   "links": {
+    "site": "https://www.suzannedikker.net"
+   },
+   "connected_to": [
+    "matthias-oostrik",
+    "marina-abramovic"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "matthias-oostrik",
+   "name": "Matthias Oostrik",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Media artist",
+   "role_zh": "媒体艺术家",
+   "based": "Amsterdam, NL",
+   "based_zh": "阿姆斯特丹，荷兰",
+   "bio": "Dutch interactive media artist who builds the real-time visualisations and systems in Suzanne Dikker's brain-synchrony artworks.",
+   "bio_zh": "荷兰互动媒体艺术家，为 Suzanne Dikker 的脑同步艺术作品搭建实时可视化与系统。",
+   "why": "He turns shared brain data into light and sound that two people can feel themselves moving together.",
+   "why_zh": "他把共享的脑数据变成光与声音，让两个人能感到彼此在一起变化。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "connected_to": [
+    "suzanne-dikker"
+   ],
+   "discovered_via": "suzanne-dikker"
+  },
+  {
+   "id": "natasha-kovacevic",
+   "name": "Natasha Kovacevic",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Neuroscientist, Rotman Research Institute, Baycrest, Toronto",
+   "role_zh": "神经科学家，多伦多 Baycrest 罗特曼研究所",
+   "based": "Toronto, CA",
+   "based_zh": "多伦多，加拿大",
+   "bio": "Neuroscientist who led My Virtual Dream, a collective EEG neurofeedback installation and large-scale experiment at Toronto's Nuit Blanche.",
+   "bio_zh": "神经科学家，主持《My Virtual Dream》：在多伦多“不眠之夜”艺术节上的集体脑电神经反馈装置与大规模实验。",
+   "why": "Her project took neurofeedback out of the lab into a crowded public dome, where learning to relax happened in company.",
+   "why_zh": "她的项目把神经反馈从实验室带进拥挤的公共穹顶，学习放松在与他人同处中发生。",
+   "disciplines": [
+    "health"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ellen-pearlman",
+   "name": "Ellen Pearlman",
+   "name_zh": "",
+   "kind": "person",
+   "role": "New-media artist, curator and researcher",
+   "role_zh": "新媒体艺术家、策展人与研究者",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "bio": "American artist and writer who makes brain-computer and AI operas and writes on surveillance, the body and consciousness.",
+   "bio_zh": "美国艺术家与作者，创作脑机接口与人工智能歌剧，写作关于监控、身体与意识的议题。",
+   "why": "Her brain opera asks what happens to a performer's inner life when it is read and shown to an audience.",
+   "why_zh": "她的脑歌剧追问：当表演者的内心生活被读取并展示给观众时，会发生什么。",
+   "disciplines": [
+    "art",
+    "dance"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "lancel-maat",
+   "name": "Lancel & Maat",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Artist duo Karen Lancel and Hermen Maat",
+   "role_zh": "艺术家二人组 Karen Lancel 与 Hermen Maat",
+   "based": "Amsterdam, NL",
+   "based_zh": "阿姆斯特丹，荷兰",
+   "bio": "Dutch artist duo who make participatory performances about touch, intimacy and trust in networked and data-driven society.",
+   "bio_zh": "荷兰艺术家二人组，创作关于网络化与数据化社会中触摸、亲密与信任的参与式表演。",
+   "why": "Their E.E.G. KISS asks whether a kiss can be measured and shared as brain data, keeping touch at the centre of BCI art.",
+   "why_zh": "他们的《E.E.G. KISS》追问一个吻能否被测量并作为脑数据分享，把触摸放在脑机接口艺术的中心。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://lancelmaat.nl"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "rajesh-rao",
+   "name": "Rajesh P. N. Rao",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Computer Science and Engineering, University of Washington",
+   "role_zh": "华盛顿大学计算机科学与工程系教授",
+   "based": "Seattle, US",
+   "based_zh": "西雅图，美国",
+   "bio": "Computational neuroscientist who, with psychologist Andrea Stocco, built the first direct non-invasive brain-to-brain interface between humans.",
+   "bio_zh": "计算神经科学家，与心理学家 Andrea Stocco 一起搭建了人类之间第一个直接的无创脑对脑接口。",
+   "why": "His experiments test what it would mean to share intentions without speech or gesture, and how thin such a channel still is.",
+   "why_zh": "他的实验检验不借助语言或手势分享意图意味着什么，以及这样的通道至今仍然多么单薄。",
+   "disciplines": [
+    "engineering",
+    "health"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "rafael-yuste",
+   "name": "Rafael Yuste",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Biological Sciences, Columbia University; chair of the Neurorights Foundation",
+   "role_zh": "哥伦比亚大学生物科学教授；神经权利基金会主席",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "bio": "Spanish neuroscientist who helped launch the US BRAIN Initiative and campaigns for neurorights in law.",
+   "bio_zh": "西班牙神经科学家，参与发起美国“脑计划”，并推动把神经权利写入法律。",
+   "why": "He argues that mental privacy, identity and agency need protection as neurotechnology reaches into the mind.",
+   "why_zh": "他主张，随着神经技术伸入心智，心理隐私、身份认同与能动性需要受到保护。",
+   "disciplines": [
+    "health",
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Rafael_Yuste"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "frederic-gilbert",
+   "name": "Frederic Gilbert",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Philosopher and neuroethicist (Center for Sensorimotor Neural Engineering, University of Washington; later University of Tasmania)",
+   "role_zh": "哲学家与神经伦理学者（华盛顿大学感觉运动神经工程中心；后任职于塔斯马尼亚大学）",
+   "based": "Hobart, AU",
+   "based_zh": "霍巴特，澳大利亚",
+   "bio": "Neuroethicist who interviews people living with brain implants about how the devices change their sense of self.",
+   "bio_zh": "神经伦理学者，访谈体内装有脑植入物的人，了解这些设备如何改变他们的自我感。",
+   "why": "His phenomenological interviews show that a BCI is lived through the whole person, sometimes as part of the self and sometimes as a stranger.",
+   "why_zh": "他的现象学访谈显示，脑机接口是被整个人所经历的，有时成为自我的一部分，有时又像陌生人。",
+   "disciplines": [
+    "philosophy",
+    "health"
+   ],
+   "links": {},
+   "connected_to": [
+    "rajesh-rao"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "johannes-kogel",
+   "name": "Johannes Kögel",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, Institute of Ethics, History and Theory of Medicine, LMU Munich",
+   "role_zh": "慕尼黑大学医学伦理、历史与理论研究所研究员",
+   "based": "Munich, DE",
+   "based_zh": "慕尼黑，德国",
+   "bio": "Researcher in medical ethics who studies the lived experience of people using brain–computer interfaces.",
+   "bio_zh": "医学伦理研究者，研究使用脑机接口者的亲身经验。",
+   "why": "He asks BCI users themselves what using one feels like, instead of deciding it for them.",
+   "why_zh": "他直接询问脑机接口使用者使用时的感受，而不是替他们下结论。",
+   "disciplines": [
+    "philosophy",
+    "health"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "siyi-liu",
+   "name": "Siyi Liu",
+   "name_zh": "",
+   "kind": "person",
+   "role": "HCI researcher, Exertion Games Lab, Monash University",
+   "role_zh": "人机交互研究者，莫纳什大学 Exertion Games Lab",
+   "based": "Melbourne, AU",
+   "based_zh": "墨尔本，澳大利亚",
+   "bio": "HCI researcher who designs 'superpower' systems that couple brain sensing with electrical muscle stimulation between people.",
+   "bio_zh": "人机交互研究者，设计把脑传感与人与人之间的肌肉电刺激结合起来的“超能力”系统。",
+   "why": "Her EmoPals study looks at the everyday side effects of sharing emotions body to body, not only the thrill of the demo.",
+   "why_zh": "她的 EmoPals 研究关注身体对身体地分享情绪在日常中带来的副作用，而不只是演示时的新奇。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "florian-mueller",
+    "nathan-semertzidis"
+   ],
+   "discovered_via": "florian-mueller"
+  },
+  {
+   "id": "po-yao-wang",
+   "name": "Po-Yao (Cosmos) Wang",
+   "name_zh": "",
+   "kind": "person",
+   "role": "HCI researcher, Exertion Games Lab, Monash University",
+   "role_zh": "人机交互研究者，莫纳什大学 Exertion Games Lab",
+   "based": "Melbourne, AU",
+   "based_zh": "墨尔本，澳大利亚",
+   "bio": "HCI researcher who designs interactive systems for lucid dreaming and other altered states of consciousness.",
+   "bio_zh": "人机交互研究者，为清醒梦及其他意识变化状态设计交互系统。",
+   "why": "His LuciEntry work treats sleep and dreaming as a lived bodily state that design can gently accompany.",
+   "why_zh": "他的 LuciEntry 工作把睡眠与做梦看作一种可被设计温和陪伴的、亲身经历的身体状态。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "florian-mueller",
+    "nathan-semertzidis"
+   ],
+   "discovered_via": "florian-mueller"
+  }
+ ],
+ "works": [
+  {
+   "id": "jacques-vidal--toward-direct-brain-computer-communication",
+   "creator_ids": [
+    "jacques-vidal"
+   ],
+   "title": "Toward Direct Brain-Computer Communication",
+   "year": 1973,
+   "field": "augmented",
+   "sub": "brain-interfaces",
+   "also": [],
+   "modalities": [
+    "brain",
+    "light-vision"
+   ],
+   "lenses": [
+    "body-data",
+    "extended-body"
+   ],
+   "kind": "paper",
+   "description": "Vidal's review coined the term brain–computer interface and proposed that EEG signals, especially brain responses evoked by visual stimuli, could be read by a computer as a direct communication channel.",
+   "description_zh": "Vidal 的这篇综述提出了“脑机接口”一词，设想脑电信号——尤其是视觉刺激诱发的大脑反应——可以被计算机读取，成为一条直接的交流通道。",
+   "idea_en": "The founding text treats the brain as a signal source for a computer; later soma-oriented work asks what this leaves out of the living, feeling person.",
+   "idea_zh": "这篇奠基文献把大脑当作供计算机读取的信号源；后来面向身体的研究追问：这样做把活生生、有感受的人遗漏了什么。",
+   "method": "Literature review and research programme at UCLA's Brain-Computer Interface Laboratory on scalp EEG and visual evoked potentials as computer input.",
+   "method_zh": "加州大学洛杉矶分校脑机接口实验室的文献综述与研究计划，探讨以头皮脑电和视觉诱发电位作为计算机输入。",
+   "keywords": [
+    "brain-computer interface",
+    "EEG",
+    "evoked potentials",
+    "UCLA",
+    "history of BCI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1146/annurev.bb.02.060173.001105",
+    "doi": "10.1146/annurev.bb.02.060173.001105",
+    "arxiv": "",
+    "venue": "Annual Review of Biophysics and Bioengineering 1973",
+    "title": "Toward Direct Brain-Computer Communication"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "jonathan-wolpaw--bci-for-communication-and-control",
+   "creator_ids": [
+    "jonathan-wolpaw"
+   ],
+   "title": "Brain–computer interfaces for communication and control",
+   "year": 2002,
+   "field": "augmented",
+   "sub": "brain-interfaces",
+   "also": [],
+   "modalities": [
+    "brain",
+    "movement"
+   ],
+   "lenses": [
+    "body-data",
+    "care-healing"
+   ],
+   "kind": "paper",
+   "description": "A field-defining review describing BCIs as a new output channel for the nervous system, surveying EEG and implanted approaches, and stressing that user and system must adapt to each other.",
+   "description_zh": "一篇奠定领域的综述，把脑机接口描述为神经系统的新输出通道，梳理了脑电与植入两类方法，并强调使用者与系统必须相互适应。",
+   "idea_en": "A BCI is learned like a new motor skill; the person's brain-body adapts to the machine as much as the machine adapts to it.",
+   "idea_zh": "脑机接口要像一种新的运动技能那样去学会；人的脑与身体适应机器，机器也适应人。",
+   "method": "Review of sensorimotor-rhythm, P300 and cortical-neuron BCIs; the video shows a person with spinal cord injury moving a cursor by modulating EEG rhythms with BCI2000 at the Wadsworth Center.",
+   "method_zh": "综述感觉运动节律、P300 与皮层神经元类脑机接口；视频中一位脊髓损伤者在 Wadsworth Center 用 BCI2000 调节脑电节律来移动光标。",
+   "keywords": [
+    "BCI2000",
+    "sensorimotor rhythms",
+    "Wadsworth Center",
+    "EEG",
+    "co-adaptation"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=zozOjmpD5Cw"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1016/s1388-2457(02)00057-3",
+    "doi": "10.1016/s1388-2457(02)00057-3",
+    "arxiv": "",
+    "venue": "Clinical Neurophysiology 2002",
+    "title": "Brain–computer interfaces for communication and control"
+   },
+   "source_url": "https://www.bci2000.org",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "leigh-hochberg--braingate-neuronal-ensemble-control",
+   "creator_ids": [
+    "leigh-hochberg"
+   ],
+   "title": "BrainGate: Neuronal ensemble control of prosthetic devices",
+   "year": 2006,
+   "field": "augmented",
+   "sub": "brain-interfaces",
+   "also": [],
+   "modalities": [
+    "brain",
+    "movement"
+   ],
+   "lenses": [
+    "extended-body",
+    "care-healing"
+   ],
+   "kind": "paper",
+   "description": "Matt Nagle, paralysed below the neck, used a 96-electrode array in his motor cortex to move a computer cursor, open email, operate a TV and open and close a prosthetic hand by imagining movement.",
+   "description_zh": "颈部以下瘫痪的 Matt Nagle 借助植入运动皮层的 96 电极阵列，通过想象动作来移动光标、打开邮件、操作电视，并开合一只假手。",
+   "idea_en": "Motor cortex still carries the intention to move years after the body stopped answering, but the loop here ends at a screen, not the felt body.",
+   "idea_zh": "身体不再回应多年之后，运动皮层仍然承载着想动的意图；但这里的回路止于屏幕，而不是被感受的身体。",
+   "method": "Utah microelectrode array implanted in the hand area of motor cortex; neuronal firing decoded into cursor and device commands in the first BrainGate pilot trial.",
+   "method_zh": "在运动皮层手部区域植入 Utah 微电极阵列；在首个 BrainGate 试点试验中把神经元放电解码为光标与设备指令。",
+   "keywords": [
+    "BrainGate",
+    "Matt Nagle",
+    "Utah array",
+    "tetraplegia",
+    "motor cortex"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/f/fd/BrainGate.jpg",
+    "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature04970/MediaObjects/41586_2006_Article_BFnature04970_Fig1_HTML.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/nature04970",
+    "doi": "10.1038/nature04970",
+    "arxiv": "",
+    "venue": "Nature 2006",
+    "title": "Neuronal ensemble control of prosthetic devices by a human with tetraplegia"
+   },
+   "source_url": "https://www.braingate.org",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "leigh-hochberg--braingate-reach-and-grasp",
+   "creator_ids": [
+    "leigh-hochberg"
+   ],
+   "title": "BrainGate: Reach and grasp with a neurally controlled robotic arm",
+   "year": 2012,
+   "field": "augmented",
+   "sub": "brain-interfaces",
+   "also": [],
+   "modalities": [
+    "brain",
+    "extra-body",
+    "movement"
+   ],
+   "lenses": [
+    "extended-body",
+    "care-healing"
+   ],
+   "kind": "paper",
+   "description": "Two people paralysed by brainstem stroke reached and grasped with a robotic arm controlled from their motor cortex; Cathy Hutchinson brought a bottle of coffee to her mouth and drank, her first self-directed drink in about 15 years.",
+   "description_zh": "两位因脑干中风而瘫痪的人通过运动皮层控制机械臂伸手抓握；Cathy Hutchinson 把一瓶咖啡送到嘴边喝下，这是她约 15 年来第一次自己喝东西。",
+   "idea_en": "The coffee sip matters because it closes a loop through her own mouth and taste; the robot arm becomes meaningful when it returns something to the felt body.",
+   "idea_zh": "那一口咖啡之所以重要，是因为回路经过她自己的嘴和味觉闭合；机械臂只有把某种东西带回被感受的身体时才有意义。",
+   "method": "96-channel intracortical array decoded into continuous 3D arm and hand commands for DLR and DEKA robotic arms; one array had been implanted five years earlier.",
+   "method_zh": "96 通道皮层内阵列被解码为连续的三维手臂与手部指令，控制 DLR 与 DEKA 机械臂；其中一个阵列已植入五年。",
+   "keywords": [
+    "BrainGate2",
+    "Cathy Hutchinson",
+    "robotic arm",
+    "reach and grasp",
+    "brainstem stroke"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ogBX18maUiM"
+   },
+   "images": [
+    "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature11076/MediaObjects/41586_2012_Article_BFnature11076_Fig1_HTML.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/nature11076",
+    "doi": "10.1038/nature11076",
+    "arxiv": "",
+    "venue": "Nature 2012",
+    "title": "Reach and grasp by people with tetraplegia using a neurally controlled robotic arm"
+   },
+   "source_url": "https://www.braingate.org",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "sharlene-flesher--intracortical-microstimulation-touch",
+   "creator_ids": [
+    "sharlene-flesher",
+    "robert-gaunt"
+   ],
+   "title": "Intracortical microstimulation of human somatosensory cortex",
+   "year": 2016,
+   "field": "augmented",
+   "sub": "brain-interfaces",
+   "also": [],
+   "modalities": [
+    "brain",
+    "touch",
+    "electrical"
+   ],
+   "lenses": [
+    "touching-back",
+    "extended-body",
+    "care-healing"
+   ],
+   "kind": "paper",
+   "description": "Nathan Copeland, paralysed from the chest down, felt touch on specific fingers of his own paralysed hand when tiny currents were delivered through electrodes in his somatosensory cortex, including when a robotic hand was touched.",
+   "description_zh": "胸部以下瘫痪的 Nathan Copeland 在躯体感觉皮层的电极通入微弱电流时，能在自己瘫痪的手的特定手指上感到触碰，包括机械手被触碰的时候。",
+   "idea_en": "Touch evoked in the brain is felt in the hand, not the head: the body map stays intact after injury and can be spoken to again.",
+   "idea_zh": "在大脑中唤起的触觉被感到在手上，而不是在头里：受伤之后，身体地图依然完整，并能再次被“对话”。",
+   "method": "Two microelectrode arrays in the hand area of somatosensory cortex deliver patterned microstimulation; Copeland reported location, quality and intensity of the evoked sensations over months.",
+   "method_zh": "在躯体感觉皮层手部区域植入两个微电极阵列，施加有模式的微电刺激；Copeland 在数月中报告所诱发感觉的位置、性质与强度。",
+   "keywords": [
+    "Nathan Copeland",
+    "intracortical microstimulation",
+    "somatosensory cortex",
+    "artificial touch",
+    "University of Pittsburgh"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=L1bO-29FhMU"
+   },
+   "images": [
+    "https://www.rnel.pitt.edu/sites/default/files/slider-image/FistBumpRecruitment.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1126/scitranslmed.aaf8083",
+    "doi": "10.1126/scitranslmed.aaf8083",
+    "arxiv": "",
+    "venue": "Science Translational Medicine 2016",
+    "title": "Intracortical microstimulation of human somatosensory cortex"
+   },
+   "source_url": "https://www.rnel.pitt.edu",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "sharlene-flesher--tactile-feedback-improves-arm-control",
+   "creator_ids": [
+    "sharlene-flesher",
+    "robert-gaunt"
+   ],
+   "title": "A brain-computer interface that evokes tactile sensations improves robotic arm control",
+   "year": 2021,
+   "field": "augmented",
+   "sub": "brain-interfaces",
+   "also": [],
+   "modalities": [
+    "brain",
+    "touch",
+    "extra-body"
+   ],
+   "lenses": [
+    "touching-back",
+    "body-mind-unity",
+    "extended-body"
+   ],
+   "kind": "paper",
+   "description": "With touch from the robotic hand's sensors fed back into his somatosensory cortex, Nathan Copeland picked up and moved objects in about half the time he needed with vision alone.",
+   "description_zh": "当机械手传感器的触觉被反馈进躯体感觉皮层后，Nathan Copeland 抓取和移动物体所需的时间约为只靠视觉时的一半。",
+   "idea_en": "Moving well needs feeling: a two-way loop between action and touch works far better than a brain that only sends commands.",
+   "idea_zh": "动得好需要感受：动作与触觉之间的双向回路，远胜于只发出指令的大脑。",
+   "method": "Bidirectional BCI: motor-cortex arrays decode arm commands while torque sensors on the robotic fingers drive microstimulation in somatosensory cortex; standard hand-function tasks with and without feedback.",
+   "method_zh": "双向脑机接口：运动皮层阵列解码手臂指令，同时机械手指上的力矩传感器驱动躯体感觉皮层的微电刺激；在有无反馈条件下完成标准手功能任务。",
+   "keywords": [
+    "bidirectional BCI",
+    "tactile feedback",
+    "Nathan Copeland",
+    "Action Research Arm Test",
+    "closed loop"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1126/science.abd0380",
+    "doi": "10.1126/science.abd0380",
+    "arxiv": "",
+    "venue": "Science 2021",
+    "title": "A brain-computer interface that evokes tactile sensations improves robotic arm control"
+   },
+   "source_url": "https://www.rnel.pitt.edu",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "patrick-ganzer--restoring-touch-demultiplexing",
+   "creator_ids": [
+    "patrick-ganzer"
+   ],
+   "title": "Restoring the Sense of Touch Using a Sensorimotor Demultiplexing Neural Interface",
+   "year": 2020,
+   "field": "augmented",
+   "sub": "brain-interfaces",
+   "also": [],
+   "modalities": [
+    "brain",
+    "touch",
+    "electrical"
+   ],
+   "lenses": [
+    "touching-back",
+    "body-mind-unity",
+    "care-healing"
+   ],
+   "kind": "paper",
+   "description": "Ian Burkhart, whose own hand is moved by electrical stimulation from a forearm sleeve controlled by his motor-cortex implant, regained a sense of touch: faint touch signals from his hand, too weak to feel, were detected in his cortex and returned to him as vibration on his arm.",
+   "description_zh": "Ian Burkhart 的手由前臂电刺激袖套驱动，袖套受他运动皮层中的植入物控制；他手上微弱到无法感知的触觉信号在皮层中被检测到，并以手臂上的振动反馈给他，使他重新获得触觉。",
+   "idea_en": "The hand still speaks to the brain below the threshold of feeling; the interface amplifies the body's own touch instead of inventing a new one.",
+   "idea_zh": "手在感知阈值之下仍在向大脑说话；这个接口放大的是身体自己的触觉，而不是发明一种新的。",
+   "method": "Utah array in primary motor cortex; decoders separate motor intention from residual touch signals; functional electrical stimulation sleeve reanimates the hand and vibrotactile feedback on the upper arm closes the loop.",
+   "method_zh": "在初级运动皮层植入 Utah 阵列；解码器把运动意图与残留触觉信号分离；功能性电刺激袖套驱动手部，上臂的振动触觉反馈闭合回路。",
+   "keywords": [
+    "Ian Burkhart",
+    "NeuroLife",
+    "Battelle",
+    "functional electrical stimulation",
+    "residual touch"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=b_iMxYPe9Lw"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1016/j.cell.2020.03.054",
+    "doi": "10.1016/j.cell.2020.03.054",
+    "arxiv": "",
+    "venue": "Cell 2020",
+    "title": "Restoring the Sense of Touch Using a Sensorimotor Demultiplexing Neural Interface"
+   },
+   "source_url": "https://www.battelle.org",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "henri-lorach--brain-spine-interface-walking",
+   "creator_ids": [
+    "henri-lorach",
+    "gregoire-courtine"
+   ],
+   "title": "Walking naturally after spinal cord injury using a brain–spine interface",
+   "year": 2023,
+   "field": "augmented",
+   "sub": "brain-interfaces",
+   "also": [],
+   "modalities": [
+    "brain",
+    "movement",
+    "electrical"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "care-healing",
+    "extended-body"
+   ],
+   "kind": "paper",
+   "description": "Gert-Jan Oskam, paralysed after a cycling accident, stands, walks, climbs stairs and crosses rough ground by intending to move, as a wireless 'digital bridge' carries his motor-cortex signals to stimulators on his spinal cord; with training he recovered some walking even with the system off.",
+   "description_zh": "骑车事故后瘫痪的 Gert-Jan Oskam，只要有行走的意图就能站立、行走、爬楼梯和穿越崎岖地面：一座无线“数字桥梁”把他运动皮层的信号传给脊髓上的刺激器；经过训练，即使关闭系统他也恢复了部分行走能力。",
+   "idea_en": "Walking returns through the body's own spinal circuits and legs, and the nervous system relearns with it; he describes the movement as natural, not remote-controlled.",
+   "idea_zh": "行走通过身体自己的脊髓回路和双腿回来，神经系统也随之重新学习；他形容这种动作是自然的，而不是被遥控的。",
+   "method": "Two WIMAGINE epidural ECoG implants over motor cortex decode walking intentions that modulate an implanted epidural spinal cord stimulator in real time; one-year home use and neurorehabilitation.",
+   "method_zh": "运动皮层上方两枚 WIMAGINE 硬膜外皮层脑电植入体解码行走意图，实时调节植入的硬膜外脊髓刺激器；为期一年的居家使用与神经康复。",
+   "keywords": [
+    "Gert-Jan Oskam",
+    "digital bridge",
+    "brain–spine interface",
+    "EPFL",
+    "CHUV",
+    "spinal cord stimulation"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=AARVY-3oDRQ"
+   },
+   "images": [
+    "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06094-5/MediaObjects/41586_2023_6094_Fig1_HTML.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/s41586-023-06094-5",
+    "doi": "10.1038/s41586-023-06094-5",
+    "arxiv": "",
+    "venue": "Nature 2023",
+    "title": "Walking naturally after spinal cord injury using a brain–spine interface"
+   },
+   "source_url": "https://www.epfl.ch/labs/courtine-lab/",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "sean-metzger--speech-neuroprosthesis-avatar",
+   "creator_ids": [
+    "sean-metzger",
+    "edward-chang"
+   ],
+   "title": "A high-performance neuroprosthesis for speech decoding and avatar control",
+   "year": 2023,
+   "field": "augmented",
+   "sub": "brain-interfaces",
+   "also": [],
+   "modalities": [
+    "brain",
+    "voice-sound"
+   ],
+   "lenses": [
+    "extended-body",
+    "care-healing"
+   ],
+   "kind": "paper",
+   "description": "Ann Johnson, unable to speak after a brainstem stroke, silently attempted sentences while a grid on her speech cortex was decoded into text, a synthesised voice built from a recording of her pre-injury voice, and a talking avatar face with expressions.",
+   "description_zh": "因脑干中风而失语的 Ann Johnson 默默尝试说出句子，覆盖在她言语皮层上的电极网格被解码为文字、以她受伤前录音合成的嗓音，以及带表情的会说话的虚拟面孔。",
+   "idea_en": "Speech is a bodily act of face, breath and voice; restoring it means giving back an expressive face and one's own voice, not only words per minute.",
+   "idea_zh": "说话是一种由面孔、呼吸与嗓音构成的身体行为；恢复言语意味着还给人一张有表情的脸和自己的声音，而不只是每分钟多少字。",
+   "method": "253-electrode high-density ECoG array over speech motor cortex; deep-learning decoders for text, speech audio and orofacial avatar movements, trained in under two weeks.",
+   "method_zh": "在言语运动皮层覆盖 253 个电极的高密度皮层脑电阵列；深度学习解码器输出文字、语音与口面部虚拟形象动作，训练时间不到两周。",
+   "keywords": [
+    "Ann Johnson",
+    "speech neuroprosthesis",
+    "avatar",
+    "ECoG",
+    "UCSF Chang Lab"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=vL7yMn6kiMg"
+   },
+   "images": [
+    "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06443-4/MediaObjects/41586_2023_6443_Fig1_HTML.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/s41586-023-06443-4",
+    "doi": "10.1038/s41586-023-06443-4",
+    "arxiv": "",
+    "venue": "Nature 2023",
+    "title": "A high-performance neuroprosthesis for speech decoding and avatar control"
+   },
+   "source_url": "https://changlab.ucsf.edu",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "neuralink--n1-implant",
+   "creator_ids": [
+    "neuralink"
+   ],
+   "title": "Neuralink N1 Implant (PRIME Study)",
+   "year": 2024,
+   "field": "augmented",
+   "sub": "brain-interfaces",
+   "also": [],
+   "modalities": [
+    "brain",
+    "movement"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-politics",
+    "body-data"
+   ],
+   "kind": "product",
+   "description": "In January 2024 Noland Arbaugh, paralysed below the shoulders, became the first person to receive Neuralink's wireless N1 implant; he controls a laptop cursor by intending hand movements and plays chess and video games with it.",
+   "description_zh": "2024 年 1 月，肩部以下瘫痪的 Noland Arbaugh 成为第一位植入 Neuralink 无线 N1 设备的人；他通过意图手部动作来控制笔记本电脑光标，用它下棋、玩电子游戏。",
+   "idea_en": "For its user it restores independence, but the company's framing of the brain as the whole person to be upgraded is dualist; the body appears only as something to bypass.",
+   "idea_zh": "对使用者而言它恢复了自主，但公司把大脑当作有待升级的整个人，这种框架是二元论的：身体只作为需要绕过的东西出现。",
+   "method": "1,024 electrodes on 64 flexible threads inserted into motor cortex by a surgical robot; the sealed implant streams data over Bluetooth to decoding software; early in the trial some threads retracted from the brain.",
+   "method_zh": "由手术机器人把分布在 64 根柔性细线上的 1024 个电极植入运动皮层；密封植入体经蓝牙把数据传给解码软件；试验早期部分细线从脑组织中回缩。",
+   "keywords": [
+    "Neuralink",
+    "Noland Arbaugh",
+    "PRIME Study",
+    "N1",
+    "Elon Musk",
+    "cursor control"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=mIAsUkJZbow"
+   },
+   "images": [
+    "https://neuralink.com/assets/static/homepage.CQ861ZM0.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.2196/16194",
+    "doi": "10.2196/16194",
+    "arxiv": "",
+    "venue": "Journal of Medical Internet Research 2019",
+    "title": "An Integrated Brain-Machine Interface Platform With Thousands of Channels"
+   },
+   "source_url": "https://neuralink.com",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "synchron--stentrode",
+   "creator_ids": [
+    "synchron",
+    "thomas-oxley"
+   ],
+   "title": "Stentrode",
+   "year": 2020,
+   "field": "augmented",
+   "sub": "brain-interfaces",
+   "also": [],
+   "modalities": [
+    "brain",
+    "movement"
+   ],
+   "lenses": [
+    "extended-body",
+    "care-healing"
+   ],
+   "kind": "product",
+   "description": "An electrode array on a stent is threaded through the jugular vein into a blood vessel beside the motor cortex; people with ALS used it at home to click, type, text and shop online, with an eye tracker for pointing.",
+   "description_zh": "装在支架上的电极阵列经颈静脉送入运动皮层旁的血管；渐冻症患者在家中用它点击、打字、发短信与网购，并借助眼动仪来指向。",
+   "idea_en": "Entering through the blood vessels instead of the skull changes the bodily bargain of a BCI: less surgery, fewer signals, more ordinary daily use.",
+   "idea_zh": "经由血管而不是颅骨进入，改变了脑机接口对身体的交换条件：手术更少，信号更少，日常使用更寻常。",
+   "method": "Self-expanding nitinol stent with 16 electrodes in the superior sagittal sinus, wired to a chest unit that transmits signals from attempted movements; first-in-human study with two participants.",
+   "method_zh": "位于上矢状窦内、带 16 个电极的自膨式镍钛合金支架，连接胸部发射单元，传输尝试动作时的信号；首次人体研究有两名参与者。",
+   "keywords": [
+    "Synchron",
+    "Stentrode",
+    "endovascular BCI",
+    "ALS",
+    "jugular vein"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=mm95r05hui0"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/8/8a/Stentrode_Device.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1136/neurintsurg-2020-016862",
+    "doi": "10.1136/neurintsurg-2020-016862",
+    "arxiv": "",
+    "venue": "Journal of NeuroInterventional Surgery 2020",
+    "title": "Motor neuroprosthesis implanted with neurointerventional surgery improves capacity for activities of daily living tasks in severe paralysis: first in-human experience"
+   },
+   "source_url": "https://synchron.com",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "bo-hong--neo",
+   "creator_ids": [
+    "bo-hong"
+   ],
+   "title": "NEO",
+   "year": 2023,
+   "field": "augmented",
+   "sub": "brain-interfaces",
+   "also": [],
+   "modalities": [
+    "brain",
+    "movement"
+   ],
+   "lenses": [
+    "care-healing",
+    "extended-body"
+   ],
+   "kind": "product",
+   "description": "A wireless, battery-free implant placed outside the dura over the hand area of the sensorimotor cortex lets people with tetraplegia from spinal cord injury open and close their own hand in a pneumatic glove by intending to grasp, for example to drink by themselves. In March 2026 China's National Medical Products Administration approved the implant system developed by Hong Bo's team for market, reported by China News Service as the world's first approved invasive BCI medical device.",
+   "description_zh": "一种无线、无电池的植入体，置于感觉运动皮层手部区域的硬脑膜外，让脊髓损伤导致四肢瘫痪的人只要有抓握的意图，就能通过气动手套开合自己的手，例如自己喝水。2026 年 3 月，洪波团队研发的植入式脑机接口系统获国家药监局批准上市，中国新闻社报道称其为全球首款获批的侵入式脑机接口医疗器械。",
+   "idea_en": "It keeps the device outside the brain tissue and aims at the person's own hand; the goal is a body that can hold a cup again, not a mind that runs a computer.",
+   "idea_zh": "它让设备留在脑组织之外，把目标放在患者自己的手上：要的是重新能握住杯子的身体，而不是运行电脑的心智。",
+   "method": "Eight platinum-iridium epidural electrodes in a coin-sized implant powered and read wirelessly through the scalp; decoded grasp intentions drive a pneumatic glove, developed by Bo Hong's team at Tsinghua University.",
+   "method_zh": "硬币大小的植入体带 8 个铂铱硬膜外电极，经头皮无线供电与读取；解码的抓握意图驱动气动手套；由清华大学洪波团队研发。",
+   "keywords": [
+    "NEO",
+    "Tsinghua University",
+    "洪波",
+    "epidural BCI",
+    "pneumatic glove",
+    "China",
+    "NMPA approval"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=S4gKIhp8Jd8"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1101/2025.10.06.25337264",
+    "doi": "10.1101/2025.10.06.25337264",
+    "arxiv": "",
+    "venue": "medRxiv 2025",
+    "title": "Fine grained two-dimensional cursor control with epidural minimally invasive brain-computer interface"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "interaxon--muse",
+   "creator_ids": [
+    "interaxon"
+   ],
+   "title": "Muse",
+   "year": 2014,
+   "field": "augmented",
+   "sub": "brain-interfaces",
+   "also": [
+    "practices"
+   ],
+   "modalities": [
+    "brain",
+    "voice-sound"
+   ],
+   "lenses": [
+    "attunement",
+    "body-data"
+   ],
+   "kind": "product",
+   "description": "A four-sensor EEG headband for meditation: while you sit with eyes closed, an app turns your brain activity into sound, rising wind when the mind is busy and calm weather and birdsong when it settles.",
+   "description_zh": "一款带四个传感器的脑电冥想头带：闭眼静坐时，应用把脑活动变成声音——心绪纷乱时风声渐起，心神安定时天气平静、鸟鸣出现。",
+   "idea_en": "It makes a quiet mind audible so it can be practised, but it scores calm as a number; attention to breath and body can easily turn into chasing a score.",
+   "idea_zh": "它让安静的心变得可听，以便练习；但它把平静打成分数，对呼吸与身体的注意很容易变成追逐分数。",
+   "method": "Dry forehead and behind-ear EEG electrodes stream over Bluetooth to a phone app that maps relative band power to soundscape changes; Muse 2 adds heart, breath and movement sensing.",
+   "method_zh": "额头与耳后的干电极脑电经蓝牙传至手机应用，应用把各频段相对功率映射为声景变化；Muse 2 另加心率、呼吸与动作传感。",
+   "keywords": [
+    "Muse",
+    "InteraXon",
+    "neurofeedback",
+    "meditation",
+    "consumer EEG"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=oTZFphOovRk"
+   },
+   "images": [
+    "https://choosemuse.com/cdn/shop/files/Shopify-Preview_1200x.png?v=1753110109"
+   ],
+   "source_url": "https://choosemuse.com",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "openbci--openbci-and-galea",
+   "creator_ids": [
+    "openbci"
+   ],
+   "title": "OpenBCI and Galea",
+   "year": 2013,
+   "field": "augmented",
+   "sub": "brain-interfaces",
+   "also": [],
+   "modalities": [
+    "brain",
+    "muscle",
+    "skin-arousal"
+   ],
+   "lenses": [
+    "body-data",
+    "extended-body"
+   ],
+   "kind": "product",
+   "description": "Low-cost, open-source boards and 3D-printable headsets that let artists, students and researchers record EEG, muscle and heart signals themselves; Galea later combined EEG, EMG, skin conductance, pulse and eye tracking in a mixed-reality headset.",
+   "description_zh": "低成本的开源电路板与可 3D 打印的头戴架，让艺术家、学生与研究者自己记录脑电、肌电与心电；后来的 Galea 在混合现实头显中整合了脑电、肌电、皮肤电、脉搏与眼动追踪。",
+   "idea_en": "Open, cheap brain sensing moved BCI from clinics into studios, where the brain is read together with muscles, skin and heart as one sensing body.",
+   "idea_zh": "开放而便宜的脑传感把脑机接口从诊所带进工作室；在那里，大脑与肌肉、皮肤和心脏一起被读取，成为一个完整的感知身体。",
+   "method": "Cyton and Ganglion biosensing boards built on the ADS1299 amplifier chip with open GUI software; Galea integrates multimodal sensors into a Varjo headset.",
+   "method_zh": "基于 ADS1299 放大芯片的 Cyton 与 Ganglion 生物传感板，配开源图形界面软件；Galea 把多模态传感器集成到 Varjo 头显中。",
+   "keywords": [
+    "OpenBCI",
+    "Galea",
+    "open hardware",
+    "EEG",
+    "EMG",
+    "Kickstarter"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=4P5JcA0tB9w"
+   },
+   "images": [
+    "http://openbci.com/images/frontCarousel/UC-production-1140x424.jpg",
+    "https://galea.co/og.jpeg"
+   ],
+   "source_url": "https://openbci.com",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "neurowear--necomimi",
+   "creator_ids": [
+    "neurowear"
+   ],
+   "title": "necomimi",
+   "year": 2011,
+   "field": "augmented",
+   "sub": "brain-interfaces",
+   "also": [
+    "affect"
+   ],
+   "modalities": [
+    "brain",
+    "extra-body"
+   ],
+   "lenses": [
+    "affective-loop",
+    "pleasure-play",
+    "body-data"
+   ],
+   "kind": "product",
+   "description": "A headband with motorised cat ears that perk up when the wearer concentrates and droop when they relax, read from a forehead EEG sensor.",
+   "description_zh": "一款带电动猫耳的头带：佩戴者专注时耳朵竖起，放松时耳朵垂下，信号来自额头的脑电传感器。",
+   "idea_en": "Brain states shown as a playful extra body part, visible to others, become social expression you cannot fully control, like a blush.",
+   "idea_zh": "脑状态被表现为一个好玩的额外身体部位，让他人看得见，就像脸红一样，成为一种无法完全控制的社交表达。",
+   "method": "NeuroSky single-channel EEG sensor with ear clip; attention and meditation indices drive servo motors in the ears.",
+   "method_zh": "NeuroSky 单通道脑电传感器配耳夹；注意力与放松指数驱动猫耳中的舵机。",
+   "keywords": [
+    "necomimi",
+    "neurowear",
+    "NeuroSky",
+    "cat ears",
+    "Japan",
+    "wearable EEG"
+   ],
+   "images": [
+    "https://neurowear.com/wp-content/uploads/2021/03/necomimi_-project.png"
+   ],
+   "source_url": "https://neurowear.com",
+   "code_url": "",
+   "collections": [],
+   "exhibited": [
+    "Prix Ars Electronica 2013, Interactive Art, Honorary Mention"
+   ]
+  },
+  {
+   "id": "alvin-lucier--music-for-solo-performer",
+   "creator_ids": [
+    "alvin-lucier"
+   ],
+   "title": "Music for Solo Performer",
+   "year": 1965,
+   "field": "augmented",
+   "sub": "brain-interfaces",
+   "also": [],
+   "modalities": [
+    "brain",
+    "voice-sound",
+    "vibration"
+   ],
+   "lenses": [
+    "attunement",
+    "body-mind-unity"
+   ],
+   "kind": "performance",
+   "description": "The performer sits still with electrodes on his scalp; when he relaxes into alpha rhythm with eyes closed, the amplified brainwaves drive loudspeakers pressed against drums, gongs and cymbals, which buzz and rattle around the room.",
+   "description_zh": "表演者静坐，头皮上贴着电极；当他闭眼放松、进入阿尔法节律时，放大的脑电波驱动贴在鼓、锣和镲上的扬声器，让它们在房间里嗡嗡作响。",
+   "idea_en": "The piece can only be played by letting go: effort stops the sound, so the performer must attend to a calm, whole-body state rather than command anything.",
+   "idea_zh": "这部作品只能靠放下来演奏：一用力声音就停止，表演者必须留意一种平静的全身状态，而不是去控制什么。",
+   "method": "Scalp EEG electrodes, amplifiers and band-pass filters send alpha-band signals to loudspeakers coupled to percussion; first performed at the Rose Art Museum, Brandeis University, with equipment from physicist Edmond Dewan.",
+   "method_zh": "头皮脑电电极、放大器与带通滤波器把阿尔法频段信号送入与打击乐器耦合的扬声器；首演于布兰迪斯大学 Rose 美术馆，设备由物理学家 Edmond Dewan 提供。",
+   "keywords": [
+    "alpha waves",
+    "EEG",
+    "experimental music",
+    "biofeedback",
+    "Edmond Dewan"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=bIPU2ynqy2Y"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/AlvinLucier-MusicForSoloPerformer-DenHaag2010.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1017/s135577181300037x",
+    "doi": "10.1017/s135577181300037x",
+    "arxiv": "",
+    "venue": "Organised Sound 2014 (Straebel & Thoben)",
+    "title": "Alvin Lucier's Music for Solo Performer: Experimental music beyond sonification"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Alvin_Lucier",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "david-rosenboom--on-being-invisible",
+   "creator_ids": [
+    "david-rosenboom"
+   ],
+   "title": "On Being Invisible",
+   "year": 1977,
+   "field": "augmented",
+   "sub": "brain-interfaces",
+   "also": [],
+   "modalities": [
+    "brain",
+    "voice-sound"
+   ],
+   "lenses": [
+    "attunement",
+    "first-person"
+   ],
+   "kind": "performance",
+   "description": "A self-organising music performance in which a computer analyses Rosenboom's EEG, including brain responses to the sounds he hears, and reshapes the unfolding music according to what his attention picks out.",
+   "description_zh": "一场自组织的音乐表演：计算机分析 Rosenboom 的脑电，包括他对所听声音的脑反应，并依据他注意力所选取的内容重新塑造正在展开的音乐。",
+   "idea_en": "Attention itself becomes the instrument; the performer shapes the music by how he listens, not by what he does.",
+   "idea_zh": "注意力本身成了乐器；演奏者通过如何聆听，而不是做了什么，来塑造音乐。",
+   "method": "EEG and event-related potentials analysed in real time by a computer music system that treats shifts of attention as structural cues (likely as described in Rosenboom's 1990 'The Performing Brain'); documented at Western Front, Vancouver, 1977.",
+   "method_zh": "由计算机音乐系统实时分析脑电与事件相关电位，把注意力的转移当作结构线索（据 Rosenboom 1990 年《The Performing Brain》所述，大致如此）；1977 年在温哥华 Western Front 录像记录。",
+   "keywords": [
+    "David Rosenboom",
+    "event-related potentials",
+    "biofeedback music",
+    "attention",
+    "Western Front"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=FHOhbmFyUZg"
+   },
+   "paper": {
+    "url": "https://doi.org/10.2307/3680116",
+    "doi": "10.2307/3680116",
+    "arxiv": "",
+    "venue": "Computer Music Journal 1990",
+    "title": "The Performing Brain"
+   },
+   "source_url": "https://www.davidrosenboom.com",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "nina-sobell--brainwave-drawings",
+   "creator_ids": [
+    "nina-sobell"
+   ],
+   "title": "BrainWave Drawings",
+   "year": 1973,
+   "field": "augmented",
+   "sub": "brain-interfaces",
+   "also": [
+    "social"
+   ],
+   "modalities": [
+    "brain",
+    "light-vision"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "body-data"
+   ],
+   "kind": "artwork",
+   "description": "Two people sit together wearing EEG electrodes and watch a live oscilloscope figure made from both their brainwaves beside closed-circuit video of themselves, silently trying to make the shared drawing come together.",
+   "description_zh": "两个人坐在一起，戴着脑电电极，观看由两人脑电波合成的实时示波器图形，旁边是他们自己的闭路录像，他们默默尝试让这幅共同的绘画合拢起来。",
+   "idea_en": "Brain data is used to meet another person, not to command a machine: being 'on the same wavelength' becomes something two bodies practise together.",
+   "idea_zh": "脑数据被用来与另一个人相遇，而不是指挥机器：“在同一频率上”成了两个身体一起练习的事情。",
+   "method": "Two-channel EEG combined on an oscilloscope as a Lissajous-like figure, composited with closed-circuit video; shown from 1973 onwards, including at the Getty's California Video exhibition in 2008.",
+   "method_zh": "两路脑电在示波器上合成为类似利萨如图形，并与闭路录像叠合；自 1973 年起多次展出，包括 2008 年盖蒂中心的“California Video”展。",
+   "keywords": [
+    "Nina Sobell",
+    "EEG",
+    "oscilloscope",
+    "closed-circuit video",
+    "feminist video art"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=8S0aHAmaseI"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1109/tcac.1989.697094",
+    "doi": "10.1109/tcac.1989.697094",
+    "arxiv": "",
+    "venue": "Delicate Balance: Technics, Culture and Consequences (IEEE, 1989)",
+    "title": "Brainwave Drawing Game"
+   },
+   "source_url": "https://ninasobell.com",
+   "code_url": "",
+   "collections": [],
+   "exhibited": [
+    "California Video, Getty Museum, 2008"
+   ]
+  },
+  {
+   "id": "lisa-park--eunoia",
+   "creator_ids": [
+    "lisa-park"
+   ],
+   "title": "Eunoia",
+   "year": 2013,
+   "field": "augmented",
+   "sub": "brain-interfaces",
+   "also": [
+    "affect"
+   ],
+   "modalities": [
+    "brain",
+    "vibration",
+    "voice-sound"
+   ],
+   "lenses": [
+    "affective-loop",
+    "attunement",
+    "first-person"
+   ],
+   "kind": "performance",
+   "description": "Park sits among water-filled metal dishes on loudspeakers wearing an EEG headset; sounds generated from her emotional states make the water ripple and splash, so the calmer she becomes, the stiller the water. Eunoia II (2014) expands this to 48 pools after the emotions in Spinoza's Ethics.",
+   "description_zh": "Park 戴着脑电头带，坐在放在扬声器上的盛水金属盘之间；由她情绪状态生成的声音让水面起波、溅起水花，她越平静，水就越静。《Eunoia II》（2014）把它扩展为 48 个水池，对应斯宾诺莎《伦理学》中的情感。",
+   "idea_en": "Her feelings become visible in water in front of an audience, so the performance is a practice of meeting one's own emotions rather than hiding them.",
+   "idea_zh": "她的情绪在观众面前化为水的动态，因此这场表演是一种直面自身情绪、而不是掩藏情绪的修习。",
+   "method": "Emotiv EEG headset values (such as frustration, excitement, meditation) mapped in real time to volume, speed and panning of sound driving speaker-mounted water dishes.",
+   "method_zh": "Emotiv 脑电头带输出的数值（如挫败、兴奋、冥想）被实时映射为声音的音量、速度与声像，驱动扬声器上的水盘。",
+   "keywords": [
+    "Lisa Park",
+    "Eunoia",
+    "Emotiv",
+    "Spinoza",
+    "water",
+    "sound"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ZXMXqULrEWg"
+   },
+   "images": [
+    "http://static1.squarespace.com/static/5d80747c843cc1282b82d420/5d80769988353d1b2d069fb9/5d825f8b8637a727e65aabfc/1569218865299/eunoia.jpg?format=1500w",
+    "https://images.squarespace-cdn.com/content/v1/5d80747c843cc1282b82d420/1568868323990-F91211HPGM6URC6A0L1B/eunoiaii.jpg"
+   ],
+   "source_url": "https://www.thelisapark.com/work/eunoia",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "masaki-batoh--brain-pulse-music",
+   "creator_ids": [
+    "masaki-batoh"
+   ],
+   "title": "Brain Pulse Music",
+   "year": 2012,
+   "field": "augmented",
+   "sub": "brain-interfaces",
+   "also": [],
+   "modalities": [
+    "brain",
+    "voice-sound"
+   ],
+   "lenses": [
+    "attunement",
+    "care-healing"
+   ],
+   "kind": "performance",
+   "description": "An album and live performances in which a box built by Batoh turns the brainwaves of performers and test subjects into sound, alongside traditional Japanese ritual melodies offered as a prayer for the victims of the 2011 Great East Japan Earthquake.",
+   "description_zh": "一张专辑及其现场演出：Batoh 自制的装置把表演者与受试者的脑电波变成声音，并与日本传统仪式旋律并置，作为献给 2011 年东日本大地震遇难者的祈祷。",
+   "idea_en": "Brainwave sound is set inside ritual and mourning, where listening to one's own brain is meant as a way toward inner quiet rather than control.",
+   "idea_zh": "脑电之声被放进仪式与哀悼之中；聆听自己的大脑，是为了走向内在的安静，而不是控制。",
+   "method": "Custom 'BPM' device, described as no more complex than a guitar effects pedal, converts EEG into audio; one track uses two BPM machines at once; released on Drag City.",
+   "method_zh": "自制的“BPM”装置（被形容为不比吉他效果器复杂）把脑电转为音频；其中一首同时使用两台 BPM 机器；由 Drag City 发行。",
+   "keywords": [
+    "Masaki Batoh",
+    "Ghost",
+    "brainwave music",
+    "Great East Japan Earthquake",
+    "requiem",
+    "Drag City"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=XI4Mge8nLMw"
+   },
+   "images": [
+    "https://www.dragcity.com/uploads/products/1940/images/782/large_DC471.jpg"
+   ],
+   "source_url": "https://www.dragcity.com/products/brain-pulse-music",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "marina-abramovic--measuring-the-magic-of-mutual-gaze",
+   "creator_ids": [
+    "marina-abramovic",
+    "suzanne-dikker",
+    "matthias-oostrik"
+   ],
+   "title": "Measuring the Magic of Mutual Gaze",
+   "year": 2011,
+   "field": "augmented",
+   "sub": "brain-interfaces",
+   "also": [
+    "social"
+   ],
+   "modalities": [
+    "brain",
+    "light-vision"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "attunement"
+   ],
+   "kind": "artwork",
+   "description": "Restaging Abramović's The Artist Is Present as an installation and experiment: two visitors sit facing each other in silent eye contact for 30 minutes while both wear EEG headsets, and moments when their brainwaves synchronise appear as lightning between two model brains.",
+   "description_zh": "把 Abramović 的《艺术家在场》重构为装置与实验：两位观众面对面无声对视 30 分钟，两人都戴着脑电头带；当他们的脑电波同步时，两个大脑模型之间会出现闪电动画。",
+   "idea_en": "Presence between two people is felt first and measured second; the visualisation points to a connection the gaze already makes.",
+   "idea_zh": "两人之间的在场先被感受，后被测量；可视化指向的是目光早已建立的联系。",
+   "method": "Two wireless EEG headsets recorded simultaneously; real-time inter-brain synchrony visualised as animated connections; shown at Garage Center for Contemporary Culture, Moscow, in Abramović's retrospective.",
+   "method_zh": "同时记录两个无线脑电头带；实时的脑间同步被可视化为动态连线；在莫斯科车库当代文化中心的 Abramović 回顾展中展出。",
+   "keywords": [
+    "Marina Abramović",
+    "mutual gaze",
+    "brain-to-brain synchrony",
+    "The Artist Is Present",
+    "Garage Moscow"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Ut9oPo8sLJw"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5542eef2e4b0f37cdc4dc093/1445464973009-L0HG5YQ8YZD3HKOYYV6O/image-asset.jpeg"
+   ],
+   "source_url": "https://www.suzannedikker.net/projects-1/2015/10/21/measuring-the-magic-of-mutual-gaze",
+   "code_url": "",
+   "collections": [],
+   "exhibited": [
+    "Marina Abramović: The Artist Is Present, Garage CCC, Moscow, 2011"
+   ]
+  },
+  {
+   "id": "suzanne-dikker--mutual-wave-machine",
+   "creator_ids": [
+    "suzanne-dikker",
+    "matthias-oostrik"
+   ],
+   "title": "Mutual Wave Machine",
+   "year": 2013,
+   "field": "augmented",
+   "sub": "brain-interfaces",
+   "also": [
+    "social"
+   ],
+   "modalities": [
+    "brain",
+    "light-vision",
+    "voice-sound"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "affective-loop"
+   ],
+   "kind": "artwork",
+   "description": "Two visitors sit face to face inside an intimate capsule; the more their brainwaves synchronise, the more vivid and coherent the projected light and sound become, while falling out of sync dissolves it into dark noise.",
+   "description_zh": "两位观众在一个亲密的舱体中面对面而坐；两人脑电波越同步，投影的光与声音就越鲜明、越协调，失去同步时则消散为黑暗的噪声。",
+   "idea_en": "Closeness is made tangible as a shared environment that two people can feel themselves approach or drift from together.",
+   "idea_zh": "亲近被做成一个可以触知的共享环境，两个人能一起感到彼此在靠近或疏远。",
+   "method": "Emotiv EEG headsets, inter-brain synchrony computed in real time and mapped to projected audiovisuals inside a capsule; presented by the Marina Abramović Institute Art+Science programme and shown at EYE Amsterdam.",
+   "method_zh": "使用 Emotiv 脑电头带，实时计算脑间同步并映射为舱内投影的影像与声音；由 Marina Abramović Institute 的艺术+科学项目呈现，并在阿姆斯特丹 EYE 电影博物馆展出。",
+   "keywords": [
+    "Mutual Wave Machine",
+    "neurofeedback",
+    "brain synchrony",
+    "Marina Abramović Institute",
+    "EYE Amsterdam"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=nmMy42SuBns"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5542eef2e4b0f37cdc4dc093/1450295095558-DBA7XSM7F49K87VUQ9BX/mwm.jpeg"
+   ],
+   "source_url": "https://www.suzannedikker.net/projects-1/art-science-education",
+   "code_url": "",
+   "collections": [],
+   "exhibited": [
+    "EYE Film Institute, Amsterdam, 2013"
+   ]
+  },
+  {
+   "id": "natasha-kovacevic--my-virtual-dream",
+   "creator_ids": [
+    "natasha-kovacevic"
+   ],
+   "title": "My Virtual Dream",
+   "year": 2013,
+   "field": "augmented",
+   "sub": "brain-interfaces",
+   "also": [
+    "social"
+   ],
+   "modalities": [
+    "brain",
+    "light-vision",
+    "voice-sound"
+   ],
+   "lenses": [
+    "attunement",
+    "intercorporeality",
+    "body-data"
+   ],
+   "kind": "artwork",
+   "description": "At Toronto's Nuit Blanche, groups of visitors in a large dome wore EEG headsets and played a collective neurofeedback game, relaxing and concentrating to shape projected images and live music; 523 people took part in one night.",
+   "description_zh": "在多伦多“不眠之夜”艺术节上，一组组观众在大型穹顶中戴上脑电头带，玩一场集体神经反馈游戏，通过放松与专注来塑造投影影像和现场音乐；一晚共有 523 人参与。",
+   "idea_en": "Learning to settle happened in company and in about a minute, suggesting that attunement is shaped by the shared setting as much as by the individual brain.",
+   "idea_zh": "学习安定下来是在与他人同处中发生的，而且只需约一分钟，说明调谐既取决于个人大脑，也同样取决于共享的情境。",
+   "method": "Wireless EEG neurofeedback on relative alpha and beta power, in groups inside a projection dome with musicians; data analysed as a large-sample study at Baycrest's Rotman Research Institute.",
+   "method_zh": "以阿尔法与贝塔频段相对功率为指标的无线脑电神经反馈，参与者分组进入有乐手演奏的投影穹顶；数据在 Baycrest 罗特曼研究所作为大样本研究分析。",
+   "keywords": [
+    "My Virtual Dream",
+    "Nuit Blanche",
+    "collective neurofeedback",
+    "Baycrest",
+    "Toronto"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=iMZ0K-xOPPI"
+   },
+   "images": [
+    "https://journals.plos.org/plosone/article/figure/image?size=inline&id=10.1371/journal.pone.0130129.g001"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1371/journal.pone.0130129",
+    "doi": "10.1371/journal.pone.0130129",
+    "arxiv": "",
+    "venue": "PLOS ONE 2015",
+    "title": "'My Virtual Dream': Collective Neurofeedback in an Immersive Art Environment"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": [
+    "Scotiabank Nuit Blanche, Toronto, 2013"
+   ]
+  },
+  {
+   "id": "ellen-pearlman--noor-a-brain-opera",
+   "creator_ids": [
+    "ellen-pearlman"
+   ],
+   "title": "Noor: A Brain Opera",
+   "year": 2016,
+   "field": "augmented",
+   "sub": "brain-interfaces",
+   "also": [],
+   "modalities": [
+    "brain",
+    "voice-sound",
+    "movement"
+   ],
+   "lenses": [
+    "body-politics",
+    "body-data",
+    "movement-expression"
+   ],
+   "kind": "performance",
+   "description": "A performer wearing a wireless EEG headset moves and sings in an immersive space while her brain data, read as emotional states, triggers video, sound and text around her; the audience watches her inner life being read.",
+   "description_zh": "一位表演者戴着无线脑电头带，在沉浸式空间中行动与歌唱；她的脑数据被读作情绪状态，触发周围的影像、声音与文字，观众看着她的内心生活被读取。",
+   "idea_en": "Displaying a mind as data raises the question the artist asks in its title: is there any part of a person that surveillance cannot reach?",
+   "idea_zh": "把心智展示为数据，引出艺术家在论文标题中提出的问题：人身上是否还有监控无法抵达的地方？",
+   "method": "Emotiv EEG emotion metrics mapped to media cues in a 360-degree environment, with a somatic movement director shaping the performer's movement (details likely per the 2016 Hong Kong production).",
+   "method_zh": "Emotiv 脑电情绪指标被映射为 360 度环境中的媒体触发，并有躯体动作指导塑造表演者的动作（细节大致依据 2016 年香港制作）。",
+   "keywords": [
+    "Ellen Pearlman",
+    "brain opera",
+    "EEG",
+    "surveillance",
+    "Hong Kong",
+    "Emotiv"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=URv_iz631Y0"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1162/leon_a_01807",
+    "doi": "10.1162/leon_a_01807",
+    "arxiv": "",
+    "venue": "Leonardo 2019",
+    "title": "Is There a Place in Human Consciousness Where Surveillance Cannot Go? Noor: A Brain Opera"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "lancel-maat--eeg-kiss",
+   "creator_ids": [
+    "lancel-maat"
+   ],
+   "title": "E.E.G. KISS",
+   "year": 2014,
+   "field": "augmented",
+   "sub": "brain-interfaces",
+   "also": [
+    "intimate"
+   ],
+   "modalities": [
+    "brain",
+    "touch"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "body-politics",
+    "body-data"
+   ],
+   "kind": "performance",
+   "description": "Couples and strangers kiss while wearing EEG headsets; their brain activity is turned live into shared visuals and sound for the kissers and the audience, asking whether a kiss can be measured, stored and shared.",
+   "description_zh": "情侣或陌生人戴着脑电头带接吻；他们的脑活动被实时转化为共享的影像与声音，呈现给接吻者与观众，追问一个吻能否被测量、存储和分享。",
+   "idea_en": "The kiss stays a felt act between two bodies; the data version shows how much of intimacy escapes measurement and who owns what is recorded.",
+   "idea_zh": "吻仍然是两个身体之间被感受的行为；数据版本显示亲密中有多少无法被测量，以及被记录下来的东西归谁所有。",
+   "method": "Multi-brain EEG with a soundscape algorithm and projected data visualisation in a participatory performance-installation; developed with TU Delft and partners, including a 2014 residency at Tsinghua University's neuro-engineering lab.",
+   "method_zh": "多人脑电配合声景算法与投影数据可视化，构成参与式表演装置；与代尔夫特理工大学等伙伴合作开发，包括 2014 年在清华大学神经工程实验室的驻留。",
+   "keywords": [
+    "Lancel & Maat",
+    "kiss",
+    "multi-brain BCI",
+    "intimacy",
+    "data ownership"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Ds-HXCYhHIo"
+   },
+   "images": [
+    "https://lancelmaat.nl/site/assets/files/1192/eegkissstillhighres2.jpg",
+    "https://lancelmaat.nl/site/assets/files/1183/eegkissviennadsc05023lowres.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1007/978-3-030-14323-7_7",
+    "doi": "10.1007/978-3-030-14323-7_7",
+    "arxiv": "",
+    "venue": "Brain Art (Springer, 2019)",
+    "title": "EEG KISS: Shared Multi-modal, Multi Brain Computer Interface Experience, in Public Space"
+   },
+   "source_url": "https://lancelmaat.nl/work/e.e.g-kiss/",
+   "code_url": "",
+   "collections": [],
+   "exhibited": [
+    "Beyond Biennial, Amsterdam, 2014",
+    "HeK Basel, Future Love"
+   ]
+  },
+  {
+   "id": "rajesh-rao--direct-brain-to-brain-interface",
+   "creator_ids": [
+    "rajesh-rao"
+   ],
+   "title": "A Direct Brain-to-Brain Interface in Humans",
+   "year": 2014,
+   "field": "augmented",
+   "sub": "brain-interfaces",
+   "also": [
+    "social"
+   ],
+   "modalities": [
+    "brain",
+    "movement",
+    "electrical"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "extended-body"
+   ],
+   "kind": "paper",
+   "description": "In a cooperative game, a 'sender' imagines moving his hand; the EEG signal is sent over the internet and delivered by magnetic stimulation to the motor cortex of a 'receiver' in another building, whose finger twitches to press a touchpad.",
+   "description_zh": "在一场合作游戏中，“发送者”想象移动自己的手；脑电信号经互联网传出，通过磁刺激送入另一栋楼里“接收者”的运动皮层，使其手指抽动去按触控板。",
+   "idea_en": "The receiver feels his hand move without having chosen to, a sharp case of shared agency that shows how thin 'telepathy' is compared with ordinary bodily communication.",
+   "idea_zh": "接收者感到自己的手在未经选择时动了；这是一个鲜明的共享能动性案例，也显示“心灵感应”与日常的身体交流相比是多么单薄。",
+   "method": "EEG motor-imagery detection at the sender; transcranial magnetic stimulation over the receiver's hand motor cortex; six participants in three pairs, first demonstrated in August 2013.",
+   "method_zh": "发送端检测脑电中的运动想象；在接收者的手部运动皮层上施加经颅磁刺激；六名参与者组成三对，首次演示于 2013 年 8 月。",
+   "keywords": [
+    "brain-to-brain interface",
+    "TMS",
+    "EEG",
+    "University of Washington",
+    "Andrea Stocco"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=rNRDc714W5I"
+   },
+   "images": [
+    "https://journals.plos.org/plosone/article/figure/image?size=inline&id=10.1371/journal.pone.0111332.g001"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1371/journal.pone.0111332",
+    "doi": "10.1371/journal.pone.0111332",
+    "arxiv": "",
+    "venue": "PLOS ONE 2014",
+    "title": "A Direct Brain-to-Brain Interface in Humans"
+   },
+   "source_url": "https://homes.cs.washington.edu/~rao/brain2brain/",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "suzanne-dikker--classroom-brain-to-brain-synchrony",
+   "creator_ids": [
+    "suzanne-dikker",
+    "matthias-oostrik"
+   ],
+   "title": "Brain-to-Brain Synchrony Tracks Real-World Dynamic Group Interactions in the Classroom",
+   "year": 2017,
+   "field": "augmented",
+   "sub": "brain-interfaces",
+   "also": [
+    "social"
+   ],
+   "modalities": [
+    "brain"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "attunement"
+   ],
+   "kind": "paper",
+   "description": "Twelve high-school students wore portable EEG headsets through a semester of ordinary biology classes; the more engaged they were, the more their brainwaves synchronised, and pairs who had spent time face to face before class were more in sync during it.",
+   "description_zh": "十二名高中生在一个学期的普通生物课上佩戴便携脑电头带；他们越投入，脑电波同步程度越高；课前有过面对面相处的两人，在课上也更同步。",
+   "idea_en": "Shared attention is built by bodies in a room, through face-to-face contact and engagement, not by brains in isolation.",
+   "idea_zh": "共享的注意力是由同处一室的身体，通过面对面接触与投入建立起来的，而不是由孤立的大脑。",
+   "method": "Simultaneous portable EEG from a whole class over 11 sessions; total interdependence measures of inter-brain synchrony related to self-reported engagement and social closeness.",
+   "method_zh": "在 11 堂课中同时记录全班的便携脑电；用“总体相互依存”指标衡量脑间同步，并与自评投入度和社交亲近度相关联。",
+   "keywords": [
+    "hyperscanning",
+    "classroom",
+    "inter-brain synchrony",
+    "portable EEG",
+    "social neuroscience"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5542eef2e4b0f37cdc4dc093/453351b8-bd0f-4d0a-928e-fe455c10b16e/2_classroomEEG.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1016/j.cub.2017.04.002",
+    "doi": "10.1016/j.cub.2017.04.002",
+    "arxiv": "",
+    "venue": "Current Biology 2017",
+    "title": "Brain-to-Brain Synchrony Tracks Real-World Dynamic Group Interactions in the Classroom"
+   },
+   "source_url": "https://www.suzannedikker.net/projects-1/gtq4rp7kp1avduvjlegcy6qcd3mn55",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "nathan-semertzidis--inter-dream",
+   "creator_ids": [
+    "nathan-semertzidis",
+    "florian-mueller"
+   ],
+   "title": "Inter-Dream",
+   "year": 2019,
+   "field": "augmented",
+   "sub": "brain-interfaces",
+   "also": [
+    "care"
+   ],
+   "modalities": [
+    "brain",
+    "light-vision",
+    "voice-sound"
+   ],
+   "lenses": [
+    "attunement",
+    "care-healing"
+   ],
+   "kind": "prototype",
+   "description": "A neurofeedback artwork for the edge of sleep: a person rests wearing an EEG headband while visuals and sound respond to their brain activity, guiding them toward rest.",
+   "description_zh": "一件为入睡边缘而作的神经反馈艺术作品：人戴着脑电头带休息，影像与声音随其脑活动变化，引导其走向休息。",
+   "idea_en": "Neurofeedback here is used to let go rather than to control; participants described mindful, playful self-exploration and reported less pre-sleep arousal.",
+   "idea_zh": "这里的神经反馈用于放下而不是控制；参与者描述了正念而好玩的自我探索，并报告入睡前的唤醒程度降低。",
+   "method": "Consumer EEG neurofeedback drives generative visuals and a soundscape while the person rests; lab study with 12 participants measuring pre-sleep arousal, emotion and EEG, plus interviews; made with artist Betty Sargeant.",
+   "method_zh": "休息时，消费级脑电神经反馈驱动生成影像与声景；12 名参与者的实验室研究，测量入睡前唤醒、情绪与脑电，并进行访谈；与艺术家 Betty Sargeant 合作完成。",
+   "keywords": [
+    "Inter-Dream",
+    "neurofeedback",
+    "sleep onset",
+    "Exertion Games Lab",
+    "CHI 2019"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=vr5g1CBB9qI"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3290605.3300804",
+    "doi": "10.1145/3290605.3300804",
+    "arxiv": "",
+    "venue": "CHI 2019",
+    "title": "Towards Understanding the Design of Positive Pre-sleep Through a Neurofeedback Artistic Experience"
+   },
+   "source_url": "https://exertiongameslab.org",
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "nathan-semertzidis--psinet",
+   "creator_ids": [
+    "nathan-semertzidis",
+    "florian-mueller"
+   ],
+   "title": "PsiNet",
+   "year": 2024,
+   "field": "augmented",
+   "sub": "brain-interfaces",
+   "also": [
+    "social"
+   ],
+   "modalities": [
+    "brain",
+    "electrical"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "body-mind-unity",
+    "first-person"
+   ],
+   "kind": "prototype",
+   "description": "The first wearable brain-to-brain system for everyday settings: two people wear headsets that sense brain activity and stimulate the brain to increase their inter-brain synchrony as they spend time together.",
+   "description_zh": "首个用于日常情境的可穿戴脑对脑系统：两人戴着头戴设备，设备感测脑活动并刺激大脑，在他们相处时增强彼此的脑间同步。",
+   "idea_en": "Participants described hyper-awareness, a changed way of relating and a 'dissolution of self', showing that coupling brains is felt as a change in the whole relational body-mind.",
+   "idea_zh": "参与者描述了超敏的觉察、改变了的相处方式，以及“自我的消融”，说明大脑的耦合被感受为整个关系性身心的变化。",
+   "method": "Mobile EEG sensing combined with transcranial electrical stimulation (likely tACS) to modulate synchrony between two wearers; in-the-wild study with interviews, yielding three experience themes and three design tactics.",
+   "method_zh": "移动脑电感测结合经颅电刺激（可能是经颅交流电刺激）来调节两位佩戴者之间的同步；野外研究配合访谈，得出三个体验主题与三条设计策略。",
+   "keywords": [
+    "PsiNet",
+    "brain-to-brain interface",
+    "inter-brain synchrony",
+    "dissolution of self",
+    "CHI 2024"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=kyTDRF9_3cQ"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3613904.3641983",
+    "doi": "10.1145/3613904.3641983",
+    "arxiv": "",
+    "venue": "CHI 2024",
+    "title": "PsiNet: Toward Understanding the Design of Brain-to-Brain Interfaces for Augmenting Inter-Brain Synchrony"
+   },
+   "source_url": "https://exertiongameslab.org",
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "nathan-semertzidis--brain-computer-integration",
+   "creator_ids": [
+    "nathan-semertzidis",
+    "florian-mueller"
+   ],
+   "title": "Brain-Computer Integration: A Framework for the Design of Brain-Computer Interfaces from an Integrations Perspective",
+   "year": 2023,
+   "field": "augmented",
+   "sub": "brain-interfaces",
+   "also": [
+    "methods"
+   ],
+   "modalities": [
+    "brain",
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "extended-body"
+   ],
+   "kind": "paper",
+   "description": "A design framework that moves BCI from command-and-response interaction to integration, where the system works with the brain's ongoing processes of sleep, emotion and social connection, illustrated by Inter-Dream, Neo-Noumena and PsiNet.",
+   "description_zh": "一个设计框架，把脑机接口从“指令-响应”式交互转向融合：系统与大脑中持续进行的睡眠、情绪与社会联结过程协同，以 Inter-Dream、Neo-Noumena 与 PsiNet 为例。",
+   "idea_en": "Designing BCIs for integration means designing for states people live through, not commands they issue; the brain is treated as part of a feeling, social body.",
+   "idea_zh": "为融合而设计脑机接口，意味着为人们经历的状态设计，而不是为他们发出的指令设计；大脑被视为有感受、有社会性的身体的一部分。",
+   "method": "Conceptual framework derived from three prototype studies from the Exertion Games Lab, organised around dimensions of how system and user share agency and awareness.",
+   "method_zh": "基于 Exertion Games Lab 三项原型研究得出的概念框架，围绕系统与使用者如何分享能动性与觉知的若干维度组织。",
+   "keywords": [
+    "brain-computer integration",
+    "human-computer integration",
+    "design framework",
+    "TOCHI",
+    "Exertion Games Lab"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3603621",
+    "doi": "10.1145/3603621",
+    "arxiv": "",
+    "venue": "ACM Transactions on Computer-Human Interaction 2023",
+    "title": "Brain-Computer Integration: A Framework for the Design of Brain-Computer Interfaces from an Integrations Perspective"
+   },
+   "source_url": "https://exertiongameslab.org",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "josh-andres--ena-peripheral-awareness",
+   "creator_ids": [
+    "josh-andres",
+    "nathan-semertzidis",
+    "florian-mueller"
+   ],
+   "title": "Ena: Peripheral Awareness as a Neurological State for Human-Computer Integration",
+   "year": 2020,
+   "field": "augmented",
+   "sub": "brain-interfaces",
+   "also": [
+    "movement"
+   ],
+   "modalities": [
+    "brain",
+    "light-vision",
+    "movement"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "extended-body"
+   ],
+   "kind": "prototype",
+   "description": "An EEG eBike that gives motor support only while the rider's brain activity indicates peripheral awareness, the wide field of view people lose when they feel threatened; when attention narrows, the bike stops helping.",
+   "description_zh": "一辆脑电电动自行车：只有当骑行者的脑活动显示处于“周边觉察”状态——人感到威胁时会失去的宽广视野——时才提供电机助力；注意力一收窄，车就停止帮忙。",
+   "idea_en": "The machine is tuned to an internal bodily state rather than a command, so riding well and feeling safe become the same thing.",
+   "idea_zh": "机器配合的是身体内部的状态而不是指令，于是骑得好与感到安全成了同一件事。",
+   "method": "Rider-worn EEG classified in real time for peripheral awareness regulates the eBike's engine assistance; study with 20 participants riding outdoors, analysed through interviews.",
+   "method_zh": "骑行者佩戴的脑电被实时分类判断是否处于周边觉察，以此调节电动自行车的电机助力；20 名参与者在户外骑行，并通过访谈分析。",
+   "keywords": [
+    "Ena",
+    "EEG eBike",
+    "peripheral awareness",
+    "human-computer integration",
+    "CHI 2020"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ccYM0AHaj0E"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3313831.3376128",
+    "doi": "10.1145/3313831.3376128",
+    "arxiv": "",
+    "venue": "CHI 2020",
+    "title": "Introducing Peripheral Awareness as a Neurological State for Human-computer Integration"
+   },
+   "source_url": "https://exertiongameslab.org",
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "siyi-liu--emopals",
+   "creator_ids": [
+    "siyi-liu",
+    "nathan-semertzidis",
+    "florian-mueller"
+   ],
+   "title": "EmoPals",
+   "year": 2025,
+   "field": "augmented",
+   "sub": "brain-interfaces",
+   "also": [
+    "social"
+   ],
+   "modalities": [
+    "brain",
+    "electrical",
+    "muscle"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "affective-loop",
+    "body-politics"
+   ],
+   "kind": "prototype",
+   "description": "A 'telepathy' system for two people: when a BCI detects one person's happiness, electrical muscle stimulation makes the other person's face smile, and the other way round; pairs lived with it for five days.",
+   "description_zh": "一个供两人使用的“心灵感应”系统：当脑机接口检测到一人的快乐时，肌肉电刺激让另一人的脸露出微笑，反之亦然；参与者两两一组与它共同生活了五天。",
+   "idea_en": "Emotion passed brain to face shows that feelings live in the body: it strengthened empathy but also spread negative moods and social discomfort, side effects a demo would hide.",
+   "idea_zh": "情绪从一人的大脑传到另一人的脸上，说明情感就活在身体里：它增强了共情，但也扩散了负面情绪、带来社交不适，这些副作用在演示中是看不到的。",
+   "method": "EEG-based emotion detection on one wearer drives facial EMS on the other; five-day field study with 12 participants and interviews, yielding five design recommendations for superpower design.",
+   "method_zh": "一方佩戴的脑电进行情绪检测，驱动另一方面部的肌肉电刺激；12 名参与者参加为期五天的田野研究与访谈，得出五条超能力设计建议。",
+   "keywords": [
+    "EmoPals",
+    "telepathy",
+    "brain-muscle interface",
+    "EMS",
+    "superpower design",
+    "DIS 2025"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=jM6l12MasIc"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3715336.3735699",
+    "doi": "10.1145/3715336.3735699",
+    "arxiv": "",
+    "venue": "DIS 2025",
+    "title": "“My Happiness Makes You Smile”: Beginning to Understand Telepathic Superpower Design Via Brain-Muscle Interfaces"
+   },
+   "source_url": "https://exertiongameslab.org",
+   "code_url": "",
+   "collections": [
+    "dis"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "po-yao-wang--luci-entry",
+   "creator_ids": [
+    "po-yao-wang",
+    "nathan-semertzidis",
+    "florian-mueller"
+   ],
+   "title": "LuciEntry",
+   "year": 2024,
+   "field": "augmented",
+   "sub": "brain-interfaces",
+   "also": [
+    "care"
+   ],
+   "modalities": [
+    "brain",
+    "light-vision",
+    "voice-sound"
+   ],
+   "lenses": [
+    "attunement",
+    "first-person"
+   ],
+   "kind": "prototype",
+   "description": "A portable prototype that helps people have lucid dreams: an app guides pre-sleep training, and during the night the system detects the sleep stage and plays timed light and sound cues meant to make the sleeper aware they are dreaming.",
+   "description_zh": "一款帮助人进入清醒梦的便携原型：应用引导睡前训练，夜间系统检测睡眠阶段，并在合适时机播放光与声音提示，让睡者意识到自己正在做梦。",
+   "idea_en": "It designs for an altered state lived from the inside, where the cue has to be felt within sleep without waking the body.",
+   "idea_zh": "它为一种从内部经历的意识变化状态而设计：提示必须在睡眠中被感到，却不能把身体唤醒。",
+   "method": "Sleep-stage sensing (likely EEG) triggers visual and auditory cues automatically; lab and field studies with interviews, leading to seven design considerations for lucid dream systems.",
+   "method_zh": "睡眠阶段感测（可能基于脑电）自动触发视觉与听觉提示；实验室与田野研究配合访谈，得出七条清醒梦系统设计考量。",
+   "keywords": [
+    "LuciEntry",
+    "lucid dreaming",
+    "sleep",
+    "altered states",
+    "DIS 2025",
+    "CHI 2024"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=qInl7UzuqPU"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3715336.3735790",
+    "doi": "10.1145/3715336.3735790",
+    "arxiv": "",
+    "venue": "DIS 2025",
+    "title": "LuciEntry: Towards Understanding the Design of Lucid Dream Induction"
+   },
+   "source_url": "https://exertiongameslab.org",
+   "code_url": "",
+   "collections": [
+    "dis"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "rafael-yuste--four-ethical-priorities",
+   "creator_ids": [
+    "rafael-yuste"
+   ],
+   "title": "Four ethical priorities for neurotechnologies and AI",
+   "year": 2017,
+   "field": "augmented",
+   "sub": "brain-interfaces",
+   "also": [],
+   "modalities": [
+    "brain"
+   ],
+   "lenses": [
+    "body-politics",
+    "body-data"
+   ],
+   "kind": "paper",
+   "description": "A Nature comment by a group of neuroscientists, clinicians, engineers and ethicists calling for protection of privacy and consent, agency and identity, fair access to augmentation, and against bias, as brain data and BCIs spread.",
+   "description_zh": "一篇由神经科学家、临床医生、工程师与伦理学者联合署名的《自然》评论，呼吁在脑数据与脑机接口普及之际，保护隐私与知情同意、能动性与身份认同，确保增强技术公平可及，并防止偏见。",
+   "idea_en": "Once devices read and write the brain, a person's sense of agency and identity becomes a design and legal question, not only a clinical one.",
+   "idea_zh": "一旦设备能读写大脑，人的能动感与身份认同就成了设计与法律问题，而不只是临床问题。",
+   "method": "Position paper from the Morningside Group workshop; proposes neurorights and regulation of neural data; the video is a later talk by Yuste on neurorights.",
+   "method_zh": "Morningside 小组研讨会的立场文章，提出神经权利与神经数据监管；视频为 Yuste 后来关于神经权利的演讲。",
+   "keywords": [
+    "neurorights",
+    "neuroethics",
+    "mental privacy",
+    "Morningside Group",
+    "agency",
+    "identity"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=F33_Mvj43YY"
+   },
+   "images": [
+    "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2F551159a/MediaObjects/41586_2017_Article_BF551159a_Figa_HTML.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/551159a",
+    "doi": "10.1038/551159a",
+    "arxiv": "",
+    "venue": "Nature 2017",
+    "title": "Four ethical priorities for neurotechnologies and AI"
+   },
+   "source_url": "https://neurorightsfoundation.org",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "frederic-gilbert--embodiment-and-estrangement",
+   "creator_ids": [
+    "frederic-gilbert"
+   ],
+   "title": "Embodiment and Estrangement: Results from a First-in-Human “Intelligent BCI” Trial",
+   "year": 2017,
+   "field": "augmented",
+   "sub": "brain-interfaces",
+   "also": [
+    "care"
+   ],
+   "modalities": [
+    "brain",
+    "pain-interoception"
+   ],
+   "lenses": [
+    "first-person",
+    "estrangement",
+    "extended-body"
+   ],
+   "kind": "paper",
+   "description": "Phenomenological interviews with six people with epilepsy who lived with an implanted device that predicted their seizures and warned them: for some it became part of themselves and increased their sense of control; for others it brought distress and a feeling of no longer being themselves.",
+   "description_zh": "对六位癫痫患者的现象学访谈，他们体内植入了预测发作并发出警告的设备：对一些人来说，它成了自我的一部分并增强了控制感；对另一些人来说，它带来痛苦，让人觉得自己不再是自己。",
+   "idea_en": "A BCI is lived by the whole person: the same device can be embodied as one's own or felt as a stranger inside, so felt experience must be designed for, not assumed.",
+   "idea_zh": "脑机接口是由整个人来经历的：同一台设备既可能被具身为自己的一部分，也可能被感受为体内的陌生者；因此亲身感受需要被纳入设计，而不能想当然。",
+   "method": "Qualitative study grounded in phenomenology: in-depth semi-structured interviews with participants of the first-in-human trial of an implanted seizure advisory system.",
+   "method_zh": "基于现象学的质性研究：对植入式癫痫预警系统首次人体试验的参与者进行深入的半结构化访谈。",
+   "keywords": [
+    "phenomenology",
+    "neuroethics",
+    "seizure advisory system",
+    "self",
+    "embodiment",
+    "estrangement"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1007/s11948-017-0001-5",
+    "doi": "10.1007/s11948-017-0001-5",
+    "arxiv": "",
+    "venue": "Science and Engineering Ethics 2017",
+    "title": "Embodiment and Estrangement: Results from a First-in-Human “Intelligent BCI” Trial"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "johannes-kogel--what-is-it-like-to-use-a-bci",
+   "creator_ids": [
+    "johannes-kogel"
+   ],
+   "title": "What is it like to use a BCI? – insights from an interview study with brain-computer interface users",
+   "year": 2020,
+   "field": "augmented",
+   "sub": "brain-interfaces",
+   "also": [
+    "care"
+   ],
+   "modalities": [
+    "brain"
+   ],
+   "lenses": [
+    "first-person",
+    "extended-body"
+   ],
+   "kind": "paper",
+   "description": "Nine people who use BCIs for medical reasons describe themselves as active operators of a technology that gives them social participation and changes how they define themselves, and report moments when the system clashes with their feelings.",
+   "description_zh": "九位因医疗原因使用脑机接口的人把自己描述为一项技术的主动操作者：这项技术让他们得以参与社会，也改变了他们对自己的定义；他们也谈到系统与自身情绪发生冲突的时刻。",
+   "idea_en": "Users' own accounts show that emotions and mood affect BCI control; mind and feeling cannot be separated from the 'signal'.",
+   "idea_zh": "使用者自己的讲述表明，情绪与心境会影响脑机接口的控制；心智与感受无法与“信号”分开。",
+   "method": "Semi-structured interviews analysed with grounded theory.",
+   "method_zh": "半结构化访谈，采用扎根理论分析。",
+   "keywords": [
+    "BCI users",
+    "lived experience",
+    "interview study",
+    "grounded theory",
+    "self-definition"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1186/s12910-019-0442-2",
+    "doi": "10.1186/s12910-019-0442-2",
+    "arxiv": "",
+    "venue": "BMC Medical Ethics 2020",
+    "title": "What is it like to use a BCI? – insights from an interview study with brain-computer interface users"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "alva-noe--out-of-our-heads",
+   "creator_ids": [
+    "alva-noe"
+   ],
+   "title": "Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness",
+   "year": 2009,
+   "field": "augmented",
+   "sub": "brain-interfaces",
+   "also": [
+    "foundations"
+   ],
+   "modalities": [
+    "brain",
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "extended-body"
+   ],
+   "kind": "publication",
+   "description": "Noë argues that consciousness is not something that happens inside the brain but something we do, as living bodies engaged with the world and with other people.",
+   "description_zh": "Noë 主张，意识不是发生在大脑内部的事情，而是我们作为与世界、与他人交往的活的身体所做的事情。",
+   "idea_en": "The book is a direct counter to the idea behind many BCIs: if you are not your brain, reading the brain can never read the whole person.",
+   "idea_zh": "这本书直接反驳许多脑机接口背后的观念：如果你不是你的大脑，那么读取大脑就永远无法读出整个人。",
+   "method": "Philosophical argument drawing on enactive and sensorimotor theories of perception, neural plasticity and animal cognition.",
+   "method_zh": "借助生成论与感觉运动的知觉理论、神经可塑性与动物认知展开的哲学论证。",
+   "keywords": [
+    "Alva Noë",
+    "enactivism",
+    "consciousness",
+    "you are not your brain",
+    "extended mind"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=af3Vq-C1ck8"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/5/56/Alva_No%C3%AB_%283419836383%29.jpg"
+   ],
+   "paper": {
+    "url": "https://us.macmillan.com/books/9780809016488/outofourheads",
+    "doi": "",
+    "arxiv": "",
+    "venue": "Hill and Wang (Farrar, Straus and Giroux) 2009",
+    "title": "Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  }
+ ],
+ "leads": [
+  {
+   "name": "Marcello Ienca & Roberto Andorno — Towards new human rights in the age of neuroscience and neurotechnology (2017)",
+   "why": "Proposes rights to cognitive liberty, mental privacy, mental integrity and psychological continuity; DOI verified (10.1186/s40504-017-0050-1); left out to keep one neurorights work (Yuste).",
+   "link": "https://doi.org/10.1186/s40504-017-0050-1",
+   "found_via": "rafael-yuste",
+   "status": "open"
+  },
+  {
+   "name": "Linxing Jiang, Andrea Stocco, Rajesh Rao et al. — BrainNet (Scientific Reports 2019)",
+   "why": "First multi-person brain-to-brain interface (three people playing a Tetris-like game via EEG and TMS); DOI verified (10.1038/s41598-019-41895-7); no lab video found.",
+   "link": "https://doi.org/10.1038/s41598-019-41895-7",
+   "found_via": "rajesh-rao",
+   "status": "open"
+  },
+  {
+   "name": "Xiao Fang, Nathan Semertzidis et al. — Telepathic Play (CHI PLAY 2021 EA)",
+   "why": "Playful brain-to-brain interfacing from the Exertion Games Lab; DOI 10.1145/3450337.3483468; PsiNet added instead.",
+   "link": "https://doi.org/10.1145/3450337.3483468",
+   "found_via": "nathan-semertzidis",
+   "status": "open"
+  },
+  {
+   "name": "Francis R. Willett et al. — A high-performance speech neuroprosthesis (Nature 2023)",
+   "why": "Stanford BrainGate speech decoding with Pat Bennett (ALS); DOI 10.1038/s41586-023-06377-x; Metzger's avatar study added as the more embodied case.",
+   "link": "https://doi.org/10.1038/s41586-023-06377-x",
+   "found_via": "leigh-hochberg",
+   "status": "open"
+  },
+  {
+   "name": "CEBSIT (Chinese Academy of Sciences) & Huashan Hospital — China's first invasive BCI clinical trial (2025)",
+   "why": "Zhao Zhengtuo's team implanted a coin-sized device with ultra-thin flexible electrodes in a man who lost all four limbs; he played chess and racing games after 2–3 weeks. Source: Xinhua 2025-06-14; CCTV video YY9znxLLJ9U on the second case.",
+   "link": "http://www.news.cn/tech/20250614/7fe7be8c7b1f4233b80d5cca20d22430/c.html",
+   "found_via": "bo-hong",
+   "status": "open"
+  },
+  {
+   "name": "北脑一号 Beinao-1 (NeuCyber / Chinese Institute for Brain Research, Beijing)",
+   "why": "Semi-invasive, wireless, fully implanted BCI with over 100 channels on the dura; surgery broadcast live on CCTV on 2026-04-13 (video KJJRedB4GS4). Needs a primary technical source.",
+   "link": "https://www.youtube.com/watch?v=KJJRedB4GS4",
+   "found_via": "bo-hong",
+   "status": "open"
+  },
+  {
+   "name": "Suzanne Dikker, Matthias Oostrik & ICK Amsterdam — Harmonic Dissonance: Synchron(icit)y & Phantom Body (2019)",
+   "why": "Dance performance with two dancers' brainwave and movement synchrony that explicitly questions mind-body duality; strong soma fit, needs a video check.",
+   "link": "https://www.suzannedikker.net/projects-1/2019/1/4/harmonic-dissonance-synchronicity",
+   "found_via": "suzanne-dikker",
+   "status": "open"
+  },
+  {
+   "name": "Anton Nijholt (ed.) — Brain Art: Brain-Computer Interfaces for Artistic Expression (Springer 2019)",
+   "why": "Anthology of BCI art (includes the E.E.G. KISS chapter); DOI 10.1007/978-3-030-14323-7; could be added as a publication.",
+   "link": "https://doi.org/10.1007/978-3-030-14323-7",
+   "found_via": "lancel-maat",
+   "status": "open"
+  },
+  {
+   "name": "Richard Teitelbaum — In Tune (1967)",
+   "why": "Early brainwave and heartbeat music with a Moog synthesizer; no reliable video or primary source found this round.",
+   "link": "https://en.wikipedia.org/wiki/Richard_Teitelbaum",
+   "found_via": "alvin-lucier",
+   "status": "no_media"
+  },
+  {
+   "name": "Junichi Ushiba (Keio University) — EEG brain-machine interface for stroke rehabilitation",
+   "why": "Japanese BMI rehab that pairs motor imagery with exoskeleton or electrical stimulation so the paralysed hand moves and is felt; needs a salient paper and video.",
+   "link": "https://doi.org/10.1016/j.neures.2009.09.1685",
+   "found_via": "bo-hong",
+   "status": "open"
+  },
+  {
+   "name": "Karen Lancel & Hermen Maat — Kissing Data Symphony / Brainwave Wedding Lab",
+   "why": "Follow-up BCI intimacy works on the artists' site; check media.",
+   "link": "https://lancelmaat.nl/work/kissing-data-symphony/",
+   "found_via": "lancel-maat",
+   "status": "open"
+  },
+  {
+   "name": "Eduardo Reck Miranda — brain-computer music interfacing",
+   "why": "Brain-computer music interfacing at Plymouth, including music-making with people with severe motor impairment; creator exists on sister site mth-inspire.",
+   "link": "https://en.wikipedia.org/wiki/Eduardo_Reck_Miranda",
+   "found_via": "david-rosenboom",
+   "status": "open"
+  }
+ ]
+}

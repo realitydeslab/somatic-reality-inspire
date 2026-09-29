@@ -1,5 +1,29 @@
 [
  {
+  "name": "Semertzidis, Zambetta, Mueller — Brain-Computer Integration (TOCHI 2023); PsiNet (CHI 2024); Inter-Dream (CHI 2019); Andres et al. — Peripheral Awareness / Ena EEG eBike (CHI 2020)",
+  "why": "Exertion Games Lab BCI works; all added by the augment-bci batch (also Ena, LuciEntry, EmoPals).",
+  "link": "https://doi.org/10.1145/3603621",
+  "found_via": "florian-mueller",
+  "status": "duplicate",
+  "batch": "add-florian-mueller"
+ },
+ {
+  "name": "Farooq & Grudin, Paradigm Shift from Human Computer Interaction to Integration (CHI 2017 EA SIG)",
+  "why": "Companion SIG to the 2017 panel; merged into the panel entry.",
+  "link": "https://doi.org/10.1145/3027063.3049285",
+  "found_via": "umer-farooq",
+  "status": "duplicate",
+  "batch": "add-hcint-literature"
+ },
+ {
+  "name": "Adding Force Feedback to Mixed Reality Experiences and Games using EMS (Lopes et al., CHI 2018)",
+  "why": "HoloLens + EMS follow-up to the VR walls paper; left out as largely the same felt idea (DOI 10.1145/3173574.3174020, video mgGX6p0rA54).",
+  "link": "https://doi.org/10.1145/3173574.3174020",
+  "found_via": "pedro-lopes",
+  "status": "duplicate",
+  "batch": "add-pedro-lopes"
+ },
+ {
   "name": "Mirjana Prpa — Attending to Breath (DIS 2018) and Pulse Breath Water (2016)",
   "why": "Attending to Breath added by social-machines; Pulse Breath Water still unverified.",
   "link": "https://doi.org/10.1145/3196709.3196765",
@@ -54,6 +78,14 @@
   "found_via": "kevin-warwick",
   "status": "no_media",
   "batch": "augment-art-theory"
+ },
+ {
+  "name": "Richard Teitelbaum — In Tune (1967)",
+  "why": "Early brainwave and heartbeat music with a Moog synthesizer; no reliable video or primary source found this round.",
+  "link": "https://en.wikipedia.org/wiki/Richard_Teitelbaum",
+  "found_via": "alvin-lucier",
+  "status": "no_media",
+  "batch": "augment-bci"
  },
  {
   "name": "Shusterman on Confucius and Zen",

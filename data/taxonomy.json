@@ -194,8 +194,8 @@
    "id": "augmented",
    "en": "Augmented & Transhuman Soma",
    "zh": "增强与超人类的身体",
-   "desc_en": "Technology that extends the felt body: extra limbs, new senses, muscles moved by computers, cyborg art, and the transhuman and posthuman ideas behind them, read from the soma rather than from the machine.",
-   "desc_zh": "延展被感受的身体的技术：多出来的肢体、新的感官、由计算机驱动的肌肉、赛博格艺术，以及其背后的超人类与后人类思想——从身体出发，而不是从机器出发来理解。",
+   "desc_en": "Technology that extends the felt body: extra limbs, new senses, muscles moved by computers, brain–computer interfaces, cyborg art, and the transhuman and posthuman ideas behind them, read from the soma rather than from the machine.",
+   "desc_zh": "延展被感受的身体的技术：多出来的肢体、新的感官、由计算机驱动的肌肉、脑机接口、赛博格艺术，以及其背后的超人类与后人类思想——从身体出发，而不是从机器出发来理解。",
    "subs": [
     {
      "id": "extra-limbs",
@@ -217,6 +217,13 @@
      "zh": "人机融合",
      "desc_en": "Computers that move muscles, balance and reflexes (EMS, GVS): who is acting when the body is shared with a machine.",
      "desc_zh": "驱动肌肉、平衡与反射的计算机（肌肉电刺激、前庭电刺激）：当身体与机器共享时，是谁在行动。"
+    },
+    {
+     "id": "brain-interfaces",
+     "en": "Brain–Computer Interfaces & Neurofeedback",
+     "zh": "脑机接口与神经反馈",
+     "desc_en": "EEG, implants and neurofeedback: brains that move cursors, limbs and art, feel touch back, or sync with other brains — and whether the mind is really in the head.",
+     "desc_zh": "脑电、植入与神经反馈：用大脑移动光标、肢体与艺术，重新感到触觉，或与他人的大脑同步——以及心智是否真的只在头颅之中。"
     },
     {
      "id": "augmented-play",

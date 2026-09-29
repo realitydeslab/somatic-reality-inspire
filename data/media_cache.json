@@ -11475,5 +11475,2291 @@
   "ok": true,
   "type": "image",
   "content_type": "image/jpeg"
+ },
+ "video:youtube:EVWZtJNbAek": {
+  "url": "https://www.youtube.com/watch?v=EVWZtJNbAek",
+  "ok": true,
+  "platform": "youtube",
+  "id": "EVWZtJNbAek",
+  "title": "Designing Sports: a Framework for Exertion Games",
+  "author": "floydmueller",
+  "thumbnail": "https://i.ytimg.com/vi/EVWZtJNbAek/hqdefault.jpg"
+ },
+ "doi:10.1145/1978942.1979330": {
+  "doi": "10.1145/1978942.1979330",
+  "ok": true,
+  "type": "doi",
+  "title": "Designing sports",
+  "year": 2011,
+  "venue": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/1978942.1979330"
+ },
+ "video:youtube:H4O8GXIJNns": {
+  "url": "https://www.youtube.com/watch?v=H4O8GXIJNns",
+  "ok": true,
+  "platform": "youtube",
+  "id": "H4O8GXIJNns",
+  "title": "Exertion Cards",
+  "author": "floydmueller",
+  "thumbnail": "https://i.ytimg.com/vi/H4O8GXIJNns/hqdefault.jpg"
+ },
+ "img:https://exertiongameslab.org/wp-content/uploads/2014/04/exertion_cards1.jpg": {
+  "url": "https://exertiongameslab.org/wp-content/uploads/2014/04/exertion_cards1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://exertiongameslab.org/wp-content/uploads/2014/04/exertion_cards2.jpg": {
+  "url": "https://exertiongameslab.org/wp-content/uploads/2014/04/exertion_cards2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1145/2556288.2557272": {
+  "doi": "10.1145/2556288.2557272",
+  "ok": true,
+  "type": "doi",
+  "title": "Supporting the creative game design process with exertion cards",
+  "year": 2014,
+  "venue": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/2556288.2557272"
+ },
+ "video:youtube:ZsN5yyqGuEA": {
+  "url": "https://www.youtube.com/watch?v=ZsN5yyqGuEA",
+  "ok": true,
+  "platform": "youtube",
+  "id": "ZsN5yyqGuEA",
+  "title": "CHI 2017: Five lenses for designing exertion experiences",
+  "author": "floydmueller",
+  "thumbnail": "https://i.ytimg.com/vi/ZsN5yyqGuEA/hqdefault.jpg"
+ },
+ "doi:10.1145/3025453.3025746": {
+  "doi": "10.1145/3025453.3025746",
+  "ok": true,
+  "type": "doi",
+  "title": "Five Lenses for Designing Exertion Experiences",
+  "year": 2017,
+  "venue": "Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3025453.3025746"
+ },
+ "video:youtube:-OJFtYBW9ac": {
+  "url": "https://www.youtube.com/watch?v=-OJFtYBW9ac",
+  "ok": true,
+  "platform": "youtube",
+  "id": "-OJFtYBW9ac",
+  "title": "Exertion Games: Foundations and Trends in HCI",
+  "author": "floydmueller",
+  "thumbnail": "https://i.ytimg.com/vi/-OJFtYBW9ac/hqdefault.jpg"
+ },
+ "doi:10.1561/1100000041": {
+  "doi": "10.1561/1100000041",
+  "ok": true,
+  "type": "doi",
+  "title": "Exertion Games",
+  "year": 2016,
+  "venue": "Foundations and Trends® in Human–Computer Interaction",
+  "url": "https://doi.org/10.1561/1100000041"
+ },
+ "video:youtube:4x4d8IX_0kI": {
+  "url": "https://www.youtube.com/watch?v=4x4d8IX_0kI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "4x4d8IX_0kI",
+  "title": "Joggobot",
+  "author": "floydmueller",
+  "thumbnail": "https://i.ytimg.com/vi/4x4d8IX_0kI/hqdefault.jpg"
+ },
+ "img:https://exertiongameslab.org/wp-content/uploads/2011/09/joggobot.jpg": {
+  "url": "https://exertiongameslab.org/wp-content/uploads/2011/09/joggobot.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://exertiongameslab.org/wp-content/uploads/2012/06/joggobot-1024x328.jpg": {
+  "url": "https://exertiongameslab.org/wp-content/uploads/2012/06/joggobot-1024x328.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1145/2212776.2212386": {
+  "doi": "10.1145/2212776.2212386",
+  "ok": true,
+  "type": "doi",
+  "title": "Joggobot",
+  "year": 2012,
+  "venue": "CHI '12 Extended Abstracts on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/2212776.2212386"
+ },
+ "video:youtube:LCP8d3fkFMY": {
+  "url": "https://www.youtube.com/watch?v=LCP8d3fkFMY",
+  "ok": true,
+  "platform": "youtube",
+  "id": "LCP8d3fkFMY",
+  "title": "TEI2014: Wouter Walmink presents LumaHelm",
+  "author": "floydmueller",
+  "thumbnail": "https://i.ytimg.com/vi/LCP8d3fkFMY/hqdefault.jpg"
+ },
+ "img:https://exertiongameslab.org/wp-content/uploads/2011/11/helmet_720_website.jpg": {
+  "url": "https://exertiongameslab.org/wp-content/uploads/2011/11/helmet_720_website.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://exertiongameslab.org/wp-content/uploads/2011/11/study_720_website.jpg": {
+  "url": "https://exertiongameslab.org/wp-content/uploads/2011/11/study_720_website.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1145/2540930.2540970": {
+  "doi": "10.1145/2540930.2540970",
+  "ok": true,
+  "type": "doi",
+  "title": "Displaying heart rate data on a bicycle helmet to support social exertion experiences",
+  "year": 2014,
+  "venue": "Proceedings of the 8th International Conference on Tangible, Embedded and Embodied Interaction",
+  "url": "https://doi.org/10.1145/2540930.2540970"
+ },
+ "video:youtube:Wh1v1QsL41E": {
+  "url": "https://www.youtube.com/watch?v=Wh1v1QsL41E",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Wh1v1QsL41E",
+  "title": "Sweat-Atoms",
+  "author": "floydmueller",
+  "thumbnail": "https://i.ytimg.com/vi/Wh1v1QsL41E/hqdefault.jpg"
+ },
+ "doi:10.1145/2556288.2557144": {
+  "doi": "10.1145/2556288.2557144",
+  "ok": true,
+  "type": "doi",
+  "title": "Understanding physical activity through 3D printed material artifacts",
+  "year": 2014,
+  "venue": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/2556288.2557144"
+ },
+ "video:youtube:311LUH5ylDo": {
+  "url": "https://www.youtube.com/watch?v=311LUH5ylDo",
+  "ok": true,
+  "platform": "youtube",
+  "id": "311LUH5ylDo",
+  "title": "Designing Digital Vertigo Experiences",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/311LUH5ylDo/hqdefault.jpg"
+ },
+ "doi:10.1145/3387167": {
+  "doi": "10.1145/3387167",
+  "ok": true,
+  "type": "doi",
+  "title": "Designing Digital Vertigo Experiences",
+  "year": 2020,
+  "venue": "ACM Transactions on Computer-Human Interaction",
+  "url": "https://doi.org/10.1145/3387167"
+ },
+ "video:youtube:aFD4JW8vO_4": {
+  "url": "https://www.youtube.com/watch?v=aFD4JW8vO_4",
+  "ok": true,
+  "platform": "youtube",
+  "id": "aFD4JW8vO_4",
+  "title": "TEI 2020: “Erfahrung & Erlebnis”: Understanding the Bodily Play Experience through German Lexicon",
+  "author": "floydmueller",
+  "thumbnail": "https://i.ytimg.com/vi/aFD4JW8vO_4/hqdefault.jpg"
+ },
+ "doi:10.1145/3374920.3374926": {
+  "doi": "10.1145/3374920.3374926",
+  "ok": true,
+  "type": "doi",
+  "title": "\"Erfahrung & Erlebnis\"",
+  "year": 2020,
+  "venue": "Proceedings of the Fourteenth International Conference on Tangible, Embedded, and Embodied Interaction",
+  "url": "https://doi.org/10.1145/3374920.3374926"
+ },
+ "video:youtube:IKC_3sm0MCY": {
+  "url": "https://www.youtube.com/watch?v=IKC_3sm0MCY",
+  "ok": true,
+  "platform": "youtube",
+  "id": "IKC_3sm0MCY",
+  "title": "TEI 2020: Towards Designing Bodily Integrated Play",
+  "author": "floydmueller",
+  "thumbnail": "https://i.ytimg.com/vi/IKC_3sm0MCY/hqdefault.jpg"
+ },
+ "doi:10.1145/3374920.3374931": {
+  "doi": "10.1145/3374920.3374931",
+  "ok": true,
+  "type": "doi",
+  "title": "Towards Designing Bodily Integrated Play",
+  "year": 2020,
+  "venue": "Proceedings of the Fourteenth International Conference on Tangible, Embedded, and Embodied Interaction",
+  "url": "https://doi.org/10.1145/3374920.3374931"
+ },
+ "video:youtube:iBW2D9ghaak": {
+  "url": "https://www.youtube.com/watch?v=iBW2D9ghaak",
+  "ok": true,
+  "platform": "youtube",
+  "id": "iBW2D9ghaak",
+  "title": "Arm-a-Dine - Augmented Eating",
+  "author": "floydmueller",
+  "thumbnail": "https://i.ytimg.com/vi/iBW2D9ghaak/hqdefault.jpg"
+ },
+ "img:https://exertiongameslab.org/wp-content/uploads/2018/06/Arm-a-dine-1-OK-to-use.jpg": {
+  "url": "https://exertiongameslab.org/wp-content/uploads/2018/06/Arm-a-dine-1-OK-to-use.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1145/3242671.3242710": {
+  "doi": "10.1145/3242671.3242710",
+  "ok": true,
+  "type": "doi",
+  "title": "Arm-A-Dine",
+  "year": 2018,
+  "venue": "Proceedings of the 2018 Annual Symposium on Computer-Human Interaction in Play",
+  "url": "https://doi.org/10.1145/3242671.3242710"
+ },
+ "video:youtube:wcc4CBmNbSo": {
+  "url": "https://www.youtube.com/watch?v=wcc4CBmNbSo",
+  "ok": true,
+  "platform": "youtube",
+  "id": "wcc4CBmNbSo",
+  "title": "HeatCraft",
+  "author": "floydmueller",
+  "thumbnail": "https://i.ytimg.com/vi/wcc4CBmNbSo/hqdefault.jpg"
+ },
+ "img:https://exertiongameslab.org/wp-content/uploads/2019/04/heatcraft.jpg": {
+  "url": "https://exertiongameslab.org/wp-content/uploads/2019/04/heatcraft.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://exertiongameslab.org/wp-content/uploads/2019/04/pill.jpg": {
+  "url": "https://exertiongameslab.org/wp-content/uploads/2019/04/pill.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1145/3290605.3300806": {
+  "doi": "10.1145/3290605.3300806",
+  "ok": true,
+  "type": "doi",
+  "title": "HeatCraft",
+  "year": 2019,
+  "venue": "Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3290605.3300806"
+ },
+ "video:youtube:1_dR1OVr5Ts": {
+  "url": "https://www.youtube.com/watch?v=1_dR1OVr5Ts",
+  "ok": true,
+  "platform": "youtube",
+  "id": "1_dR1OVr5Ts",
+  "title": "InsideOut: Towards an Understanding of Designing Playful Experiences with Imaging Capsules",
+  "author": "floydmueller",
+  "thumbnail": "https://i.ytimg.com/vi/1_dR1OVr5Ts/hqdefault.jpg"
+ },
+ "img:https://exertiongameslab.org/wp-content/uploads/2020/06/insideout.jpg": {
+  "url": "https://exertiongameslab.org/wp-content/uploads/2020/06/insideout.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://exertiongameslab.org/wp-content/uploads/2020/07/holding.jpg": {
+  "url": "https://exertiongameslab.org/wp-content/uploads/2020/07/holding.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1145/3357236.3395484": {
+  "doi": "10.1145/3357236.3395484",
+  "ok": true,
+  "type": "doi",
+  "title": "InsideOut",
+  "year": 2020,
+  "venue": "Proceedings of the 2020 ACM Designing Interactive Systems Conference",
+  "url": "https://doi.org/10.1145/3357236.3395484"
+ },
+ "video:youtube:NNWuqEz29Ag": {
+  "url": "https://www.youtube.com/watch?v=NNWuqEz29Ag",
+  "ok": true,
+  "platform": "youtube",
+  "id": "NNWuqEz29Ag",
+  "title": "Fluito: An Extended Reality Floatation Tank Experience",
+  "author": "Maria Fernanda Montoya Vega",
+  "thumbnail": "https://i.ytimg.com/vi/NNWuqEz29Ag/hqdefault.jpg"
+ },
+ "doi:10.1145/3611056": {
+  "doi": "10.1145/3611056",
+  "ok": true,
+  "type": "doi",
+  "title": "Fluito: Towards Understanding the Design of Playful Water Experiences through an Extended Reality Floatation Tank System",
+  "year": 2023,
+  "venue": "Proceedings of the ACM on Human-Computer Interaction",
+  "url": "https://doi.org/10.1145/3611056"
+ },
+ "video:youtube:VZ45HiU1Frw": {
+  "url": "https://www.youtube.com/watch?v=VZ45HiU1Frw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "VZ45HiU1Frw",
+  "title": "OceanEcho and SeaMate: Exploring the Role of Interactive Technology to Enrich Surfing",
+  "author": "Maria Fernanda Montoya Vega",
+  "thumbnail": "https://i.ytimg.com/vi/VZ45HiU1Frw/hqdefault.jpg"
+ },
+ "doi:10.1145/3715336.3735791": {
+  "doi": "10.1145/3715336.3735791",
+  "ok": true,
+  "type": "doi",
+  "title": "Exploring the Role of Interactive Technology to Enrich Surfing",
+  "year": 2025,
+  "venue": "Proceedings of the 2025 ACM Designing Interactive Systems Conference",
+  "url": "https://doi.org/10.1145/3715336.3735791"
+ },
+ "video:youtube:pMh5TZiJVcw": {
+  "url": "https://www.youtube.com/watch?v=pMh5TZiJVcw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "pMh5TZiJVcw",
+  "title": "Grand Challenges in WaterHCI. Presentation video",
+  "author": "floydmueller",
+  "thumbnail": "https://i.ytimg.com/vi/pMh5TZiJVcw/hqdefault.jpg"
+ },
+ "doi:10.1145/3613904.3642052": {
+  "doi": "10.1145/3613904.3642052",
+  "ok": true,
+  "type": "doi",
+  "title": "Grand challenges in WaterHCI",
+  "year": 2024,
+  "venue": "Proceedings of the CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3613904.3642052"
+ },
+ "video:youtube:ysgZl9jEwtg": {
+  "url": "https://www.youtube.com/watch?v=ysgZl9jEwtg",
+  "ok": true,
+  "platform": "youtube",
+  "id": "ysgZl9jEwtg",
+  "title": "Grand Challenges around Designing Computers’ Control Over Our Bodies",
+  "author": "floydmueller",
+  "thumbnail": "https://i.ytimg.com/vi/ysgZl9jEwtg/hqdefault.jpg"
+ },
+ "doi:10.1145/3772318.3790606": {
+  "doi": "10.1145/3772318.3790606",
+  "ok": true,
+  "type": "doi",
+  "title": "Grand Challenges around Designing Computers’ Control Over Our Bodies",
+  "year": 2026,
+  "venue": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3772318.3790606"
+ },
+ "video:youtube:vCfClAzbo-k": {
+  "url": "https://www.youtube.com/watch?v=vCfClAzbo-k",
+  "ok": true,
+  "platform": "youtube",
+  "id": "vCfClAzbo-k",
+  "title": "Towards Designing Playful Bodily Extensions: Learning from Expert Interviews\" at CHI 2023.",
+  "author": "floydmueller",
+  "thumbnail": "https://i.ytimg.com/vi/vCfClAzbo-k/hqdefault.jpg"
+ },
+ "doi:10.1145/3544548.3581165": {
+  "doi": "10.1145/3544548.3581165",
+  "ok": true,
+  "type": "doi",
+  "title": "Towards Designing Playful Bodily Extensions",
+  "year": 2023,
+  "venue": "Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3544548.3581165"
+ },
+ "doi:10.1016/j.ijhcs.2025.103457": {
+  "doi": "10.1016/j.ijhcs.2025.103457",
+  "ok": true,
+  "type": "doi",
+  "title": "Towards understanding the design of playful bodily extensions via body schema and body image",
+  "year": 2025,
+  "venue": "International Journal of Human-Computer Studies",
+  "url": "https://doi.org/10.1016/j.ijhcs.2025.103457"
+ },
+ "video:youtube:BeV_flg8VgM": {
+  "url": "https://www.youtube.com/watch?v=BeV_flg8VgM",
+  "ok": true,
+  "platform": "youtube",
+  "id": "BeV_flg8VgM",
+  "title": "My Tummy Has a Little Dragon",
+  "author": "floydmueller",
+  "thumbnail": "https://i.ytimg.com/vi/BeV_flg8VgM/hqdefault.jpg"
+ },
+ "doi:10.1145/3772318.3790973": {
+  "doi": "10.1145/3772318.3790973",
+  "ok": true,
+  "type": "doi",
+  "title": "“My Tummy Has a Little Dragon”: From Everyday Experiences of Gut Sounds to Interoceptive Interaction Design",
+  "year": 2026,
+  "venue": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3772318.3790973"
+ },
+ "video:youtube:c539cK58ees": {
+  "url": "https://www.youtube.com/watch?v=c539cK58ees",
+  "ok": true,
+  "platform": "youtube",
+  "id": "c539cK58ees",
+  "title": "Memex animation - Vannevar Bush's diagrams made real",
+  "author": "Mark Sanderson - researcher",
+  "thumbnail": "https://i.ytimg.com/vi/c539cK58ees/hqdefault.jpg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Memex_at_Das_Netz_exhibition_of_Deutsches_Technikmuseum.jpg/1280px-Memex_at_Das_Netz_exhibition_of_Deutsches_Technikmuseum.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Memex_at_Das_Netz_exhibition_of_Deutsches_Technikmuseum.jpg/1280px-Memex_at_Das_Netz_exhibition_of_Deutsches_Technikmuseum.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/f/f6/Vannevar_Bush%2C_1938%2C_Harris_%26_Ewing_%28cropped%29.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Vannevar_Bush%2C_1938%2C_Harris_%26_Ewing_%28cropped%29.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1145/227181.227186": {
+  "doi": "10.1145/227181.227186",
+  "ok": true,
+  "type": "doi",
+  "title": "As we may think",
+  "year": 1996,
+  "venue": "Interactions",
+  "url": "https://doi.org/10.1145/227181.227186"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/e/e6/Portrait_of_J._C._R._Licklider.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Portrait_of_J._C._R._Licklider.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1109/thfe2.1960.4503259": {
+  "doi": "10.1109/thfe2.1960.4503259",
+  "ok": true,
+  "type": "doi",
+  "title": "Man-Computer Symbiosis",
+  "year": 1960,
+  "venue": "IRE Transactions on Human Factors in Electronics",
+  "url": "https://doi.org/10.1109/thfe2.1960.4503259"
+ },
+ "video:youtube:UhpTiWyVa6k": {
+  "url": "https://www.youtube.com/watch?v=UhpTiWyVa6k",
+  "ok": true,
+  "platform": "youtube",
+  "id": "UhpTiWyVa6k",
+  "title": "1968 \"Mother of All Demos\" with Doug Engelbart & Team (1/3)  [re-mastered]",
+  "author": "Doug Engelbart Institute",
+  "thumbnail": "https://i.ytimg.com/vi/UhpTiWyVa6k/hqdefault.jpg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/0/04/SRI_Douglas_Engelbart_1968.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/SRI_Douglas_Engelbart_1968.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.21236/ad0289565": {
+  "doi": "10.21236/ad0289565",
+  "ok": true,
+  "type": "doi",
+  "title": "AUGMENTING HUMAN INTELLECT: A CONCEPTUAL FRAMEWORK",
+  "year": 1962,
+  "venue": "",
+  "url": "https://doi.org/10.21236/ad0289565"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/3/3d/Ben_Shneiderman_at_UNCC_%283x4_cropped%29.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Ben_Shneiderman_at_UNCC_%283x4_cropped%29.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/c/c3/Dubai_Future_Forum_2024_-_Pattie_Maes.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Dubai_Future_Forum_2024_-_Pattie_Maes.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1145/267505.267514": {
+  "doi": "10.1145/267505.267514",
+  "ok": true,
+  "type": "doi",
+  "title": "Direct manipulation vs. interface agents",
+  "year": 1997,
+  "venue": "Interactions",
+  "url": "https://doi.org/10.1145/267505.267514"
+ },
+ "img:https://media.springernature.com/full/springer-static/cover-hires/book/978-3-319-13500-7": {
+  "url": "https://media.springernature.com/full/springer-static/cover-hires/book/978-3-319-13500-7",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1007/978-3-319-13500-7_1": {
+  "doi": "10.1007/978-3-319-13500-7_1",
+  "ok": true,
+  "type": "doi",
+  "title": "Symbiotic Interaction: A Critical Definition and Comparison to other Human-Computer Paradigms",
+  "year": 2014,
+  "venue": "Lecture Notes in Computer Science",
+  "url": "https://doi.org/10.1007/978-3-319-13500-7_1"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Jonathan_Grudin.jpg/1280px-Jonathan_Grudin.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Jonathan_Grudin.jpg/1280px-Jonathan_Grudin.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1145/3001896": {
+  "doi": "10.1145/3001896",
+  "ok": true,
+  "type": "doi",
+  "title": "Human-computer integration",
+  "year": 2016,
+  "venue": "Interactions",
+  "url": "https://doi.org/10.1145/3001896"
+ },
+ "video:youtube:6kbpmUAPRzI": {
+  "url": "https://www.youtube.com/watch?v=6kbpmUAPRzI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "6kbpmUAPRzI",
+  "title": "CHI 2017 Panel: Human Computer Integration versus Powerful Tools",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/6kbpmUAPRzI/hqdefault.jpg"
+ },
+ "doi:10.1145/3027063.3051137": {
+  "doi": "10.1145/3027063.3051137",
+  "ok": true,
+  "type": "doi",
+  "title": "Human Computer Integration\n            versus\n            Powerful Tools",
+  "year": 2017,
+  "venue": "Proceedings of the 2017 CHI Conference Extended Abstracts on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3027063.3051137"
+ },
+ "video:youtube:fBAFg1HFI7w": {
+  "url": "https://www.youtube.com/watch?v=fBAFg1HFI7w",
+  "ok": true,
+  "platform": "youtube",
+  "id": "fBAFg1HFI7w",
+  "title": "Amplifying Human Abilities - Albrecht  Schmidt",
+  "author": "Augmented Human Lab",
+  "thumbnail": "https://i.ytimg.com/vi/fBAFg1HFI7w/hqdefault.jpg"
+ },
+ "doi:10.1109/mprv.2017.8": {
+  "doi": "10.1109/mprv.2017.8",
+  "ok": true,
+  "type": "doi",
+  "title": "Augmenting Human Intellect and Amplifying Perception and Cognition",
+  "year": 2017,
+  "venue": "IEEE Pervasive Computing",
+  "url": "https://doi.org/10.1109/mprv.2017.8"
+ },
+ "video:youtube:V6CMtXQj_Ts": {
+  "url": "https://www.youtube.com/watch?v=V6CMtXQj_Ts",
+  "ok": true,
+  "platform": "youtube",
+  "id": "V6CMtXQj_Ts",
+  "title": "Morphological Interfaces: On Body Transforming Technologies",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/V6CMtXQj_Ts/hqdefault.jpg"
+ },
+ "doi:10.1145/3027063.3052758": {
+  "doi": "10.1145/3027063.3052758",
+  "ok": true,
+  "type": "doi",
+  "title": "Morphological Interfaces",
+  "year": 2017,
+  "venue": "Proceedings of the 2017 CHI Conference Extended Abstracts on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3027063.3052758"
+ },
+ "img:https://drops.dagstuhl.de/storage/04dagstuhl-reports/volume08/issue08/18322/thumbnails/DagRep.8.8.18/DagRep.8.8.18.png": {
+  "url": "https://drops.dagstuhl.de/storage/04dagstuhl-reports/volume08/issue08/18322/thumbnails/DagRep.8.8.18/DagRep.8.8.18.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1631/fitee.1700053": {
+  "doi": "10.1631/fitee.1700053",
+  "ok": true,
+  "type": "doi",
+  "title": "Hybrid-augmented intelligence: collaboration and cognition",
+  "year": 2017,
+  "venue": "Frontiers of Information Technology &amp; Electronic Engineering",
+  "url": "https://doi.org/10.1631/fitee.1700053"
+ },
+ "doi:10.1016/j.ijhcs.2019.05.008": {
+  "doi": "10.1016/j.ijhcs.2019.05.008",
+  "ok": true,
+  "type": "doi",
+  "title": "Human augmentation: Past, present and future",
+  "year": 2019,
+  "venue": "International Journal of Human-Computer Studies",
+  "url": "https://doi.org/10.1016/j.ijhcs.2019.05.008"
+ },
+ "doi:10.1080/07370024.2021.1927039": {
+  "doi": "10.1080/07370024.2021.1927039",
+  "ok": true,
+  "type": "doi",
+  "title": "Wearable technologies as extensions: a postphenomenological framework and its design implications",
+  "year": 2023,
+  "venue": "Human–Computer Interaction",
+  "url": "https://doi.org/10.1080/07370024.2021.1927039"
+ },
+ "doi:10.1561/1100000086": {
+  "doi": "10.1561/1100000086",
+  "ok": true,
+  "type": "doi",
+  "title": "Human–Computer Integration: Towards Integrating the Human Body with the Computational Machine",
+  "year": 2022,
+  "venue": "Foundations and Trends® in Human–Computer Interaction",
+  "url": "https://doi.org/10.1561/1100000086"
+ },
+ "doi:10.1145/3519391.3519414": {
+  "doi": "10.1145/3519391.3519414",
+  "ok": true,
+  "type": "doi",
+  "title": "On Eliciting a Sense of Self when Integrating with Computers",
+  "year": 2022,
+  "venue": "Augmented Humans 2022",
+  "url": "https://doi.org/10.1145/3519391.3519414"
+ },
+ "img:https://www.frontiersin.org/files/Articles/949138/fnins-16-949138-HTML-r2/image_m/fnins-16-949138-g001.jpg": {
+  "url": "https://www.frontiersin.org/files/Articles/949138/fnins-16-949138-HTML-r2/image_m/fnins-16-949138-g001.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.3389/fnins.2022.949138": {
+  "doi": "10.3389/fnins.2022.949138",
+  "ok": true,
+  "type": "doi",
+  "title": "The sense of agency in emerging technologies for human–computer integration: A review",
+  "year": 2022,
+  "venue": "Frontiers in Neuroscience",
+  "url": "https://doi.org/10.3389/fnins.2022.949138"
+ },
+ "img:https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-022-28725-7/MediaObjects/41467_2022_28725_Fig1_HTML.png": {
+  "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-022-28725-7/MediaObjects/41467_2022_28725_Fig1_HTML.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1038/s41467-022-28725-7": {
+  "doi": "10.1038/s41467-022-28725-7",
+  "ok": true,
+  "type": "doi",
+  "title": "Principles of human movement augmentation and the challenges in making it a reality",
+  "year": 2022,
+  "venue": "Nature Communications",
+  "url": "https://doi.org/10.1038/s41467-022-28725-7"
+ },
+ "doi:10.1145/3491101.3516509": {
+  "doi": "10.1145/3491101.3516509",
+  "ok": true,
+  "type": "doi",
+  "title": "What We Talk About When We Talk About Human-Computer Integration",
+  "year": 2022,
+  "venue": "CHI Conference on Human Factors in Computing Systems Extended Abstracts",
+  "url": "https://doi.org/10.1145/3491101.3516509"
+ },
+ "video:youtube:9iBiynVrr74": {
+  "url": "https://www.youtube.com/watch?v=9iBiynVrr74",
+  "ok": true,
+  "platform": "youtube",
+  "id": "9iBiynVrr74",
+  "title": "Understanding the Perception of Human Augmentation: A Mixed-Method Study",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/9iBiynVrr74/hqdefault.jpg"
+ },
+ "doi:10.1145/3544548.3581485": {
+  "doi": "10.1145/3544548.3581485",
+  "ok": true,
+  "type": "doi",
+  "title": "Understanding Perception of Human Augmentation: A Mixed-Method Study",
+  "year": 2023,
+  "venue": "Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3544548.3581485"
+ },
+ "doi:10.1016/j.chb.2023.107787": {
+  "doi": "10.1016/j.chb.2023.107787",
+  "ok": true,
+  "type": "doi",
+  "title": "The placebo effect of human augmentation: Anticipating cognitive augmentation increases risk-taking behavior",
+  "year": 2023,
+  "venue": "Computers in Human Behavior",
+  "url": "https://doi.org/10.1016/j.chb.2023.107787"
+ },
+ "video:youtube:swmGaGT8lvs": {
+  "url": "https://www.youtube.com/watch?v=swmGaGT8lvs",
+  "ok": true,
+  "platform": "youtube",
+  "id": "swmGaGT8lvs",
+  "title": "Muscle-Propelled Force Feedback: Bringing Force Feedback to Mobile Devices",
+  "author": "plopesresearch",
+  "thumbnail": "https://i.ytimg.com/vi/swmGaGT8lvs/hqdefault.jpg"
+ },
+ "img:https://lab.plopes.org/project-thumbnails/CHI13-MPFF.jpg": {
+  "url": "https://lab.plopes.org/project-thumbnails/CHI13-MPFF.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1145/2470654.2481355": {
+  "doi": "10.1145/2470654.2481355",
+  "ok": true,
+  "type": "doi",
+  "title": "Muscle-propelled force feedback",
+  "year": 2013,
+  "venue": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/2470654.2481355"
+ },
+ "video:youtube:OcSmCamMKfs": {
+  "url": "https://www.youtube.com/watch?v=OcSmCamMKfs",
+  "ok": true,
+  "platform": "youtube",
+  "id": "OcSmCamMKfs",
+  "title": "haptics for walls & heavy objects in virtual reality using electrical muscle stimulation",
+  "author": "HassoPlattnerInstitute HCI",
+  "thumbnail": "https://i.ytimg.com/vi/OcSmCamMKfs/hqdefault.jpg"
+ },
+ "img:https://lab.plopes.org/project-thumbnails/CHI17-EMS-Walls.jpeg": {
+  "url": "https://lab.plopes.org/project-thumbnails/CHI17-EMS-Walls.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1145/3025453.3025600": {
+  "doi": "10.1145/3025453.3025600",
+  "ok": true,
+  "type": "doi",
+  "title": "Providing Haptics to Walls & Heavy Objects in Virtual Reality by Means of Electrical Muscle Stimulation",
+  "year": 2017,
+  "venue": "Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3025453.3025600"
+ },
+ "video:youtube:UsL48gkh3GI": {
+  "url": "https://www.youtube.com/watch?v=UsL48gkh3GI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "UsL48gkh3GI",
+  "title": "Ad Infinitum: a parasite that lives off human energy (Ars Electronica'17, Science gallery Dublin'17)",
+  "author": "plopesresearch",
+  "thumbnail": "https://i.ytimg.com/vi/UsL48gkh3GI/hqdefault.jpg"
+ },
+ "img:https://a-parasite.org/wp-content/uploads/2017/01/Ad-Infinitum-a-human-getting-trapped-in-the-cuffs-Arthur-Silber-photographer.jpg": {
+  "url": "https://a-parasite.org/wp-content/uploads/2017/01/Ad-Infinitum-a-human-getting-trapped-in-the-cuffs-Arthur-Silber-photographer.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://a-parasite.org/wp-content/uploads/2017/01/MG_9829.jpg": {
+  "url": "https://a-parasite.org/wp-content/uploads/2017/01/MG_9829.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://a-parasite.org/wp-content/uploads/2017/02/ars-electronica-1-9.jpg": {
+  "url": "https://a-parasite.org/wp-content/uploads/2017/02/ars-electronica-1-9.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:pH68GNkb_fA": {
+  "url": "https://www.youtube.com/watch?v=pH68GNkb_fA",
+  "ok": true,
+  "platform": "youtube",
+  "id": "pH68GNkb_fA",
+  "title": "Trigeminal based Temperature Illusions",
+  "author": "HCintegration",
+  "thumbnail": "https://i.ytimg.com/vi/pH68GNkb_fA/hqdefault.jpg"
+ },
+ "img:https://lab.plopes.org/project-thumbnails/CHI20-trigeminal.jpeg": {
+  "url": "https://lab.plopes.org/project-thumbnails/CHI20-trigeminal.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1145/3313831.3376806": {
+  "doi": "10.1145/3313831.3376806",
+  "ok": true,
+  "type": "doi",
+  "title": "Trigeminal-based Temperature Illusions",
+  "year": 2020,
+  "venue": "Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3313831.3376806"
+ },
+ "video:youtube:C6rj64TgsDI": {
+  "url": "https://www.youtube.com/watch?v=C6rj64TgsDI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "C6rj64TgsDI",
+  "title": "Increasing Electrical Muscle Stimulation’s Dexterity via Back of the Hand Actuation (CHI Best Paper)",
+  "author": "HCintegration",
+  "thumbnail": "https://i.ytimg.com/vi/C6rj64TgsDI/hqdefault.jpg"
+ },
+ "img:https://lab.plopes.org/project-thumbnails/CHI21-BackHandEMS.jpg": {
+  "url": "https://lab.plopes.org/project-thumbnails/CHI21-BackHandEMS.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1145/3411764.3445761": {
+  "doi": "10.1145/3411764.3445761",
+  "ok": true,
+  "type": "doi",
+  "title": "Increasing Electrical Muscle Stimulation's Dexterity by means of Back of the Hand Actuation",
+  "year": 2021,
+  "venue": "Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3411764.3445761"
+ },
+ "video:youtube:I2BBV0JZ0ww": {
+  "url": "https://www.youtube.com/watch?v=I2BBV0JZ0ww",
+  "ok": true,
+  "platform": "youtube",
+  "id": "I2BBV0JZ0ww",
+  "title": "Altering Perceived Softness of Real Rigid Objects by Restricting Fingerpad Deformation (Best Paper)",
+  "author": "HCintegration",
+  "thumbnail": "https://i.ytimg.com/vi/I2BBV0JZ0ww/hqdefault.jpg"
+ },
+ "img:https://lab.plopes.org/project-thumbnails/UIST21-SoftWearableIllusion.png": {
+  "url": "https://lab.plopes.org/project-thumbnails/UIST21-SoftWearableIllusion.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3472749.3474800": {
+  "doi": "10.1145/3472749.3474800",
+  "ok": true,
+  "type": "doi",
+  "title": "Altering Perceived Softness of Real Rigid Objects by Restricting Fingerpad Deformation",
+  "year": 2021,
+  "venue": "The 34th Annual ACM Symposium on User Interface Software and Technology",
+  "url": "https://doi.org/10.1145/3472749.3474800"
+ },
+ "video:youtube:vqpH9gNGpts": {
+  "url": "https://youtu.be/vqpH9gNGpts",
+  "ok": true,
+  "platform": "youtube",
+  "id": "vqpH9gNGpts",
+  "title": "Electrical Head Actuation: Enabling Interactive Systems to Manipulate Head Orientation (CHI22)",
+  "author": "HCintegration",
+  "thumbnail": "https://i.ytimg.com/vi/vqpH9gNGpts/hqdefault.jpg"
+ },
+ "img:https://lab.plopes.org/project-thumbnails/CHI22-EHA.png": {
+  "url": "https://lab.plopes.org/project-thumbnails/CHI22-EHA.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3491102.3501910": {
+  "doi": "10.1145/3491102.3501910",
+  "ok": true,
+  "type": "doi",
+  "title": "Electrical Head Actuation: Enabling Interactive Systems to Directly Manipulate Head Orientation",
+  "year": 2022,
+  "venue": "CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3491102.3501910"
+ },
+ "video:youtube:ljytGz4nnho": {
+  "url": "https://youtu.be/ljytGz4nnho",
+  "ok": true,
+  "platform": "youtube",
+  "id": "ljytGz4nnho",
+  "title": "DigituSync: A Dual-User Passive Exoskeleton Glove That Adaptively Shares Hand Gestures",
+  "author": "HCintegration",
+  "thumbnail": "https://i.ytimg.com/vi/ljytGz4nnho/hqdefault.jpg"
+ },
+ "img:https://lab.plopes.org/project-thumbnails/UIST22-DigituSync.jpg": {
+  "url": "https://lab.plopes.org/project-thumbnails/UIST22-DigituSync.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1145/3526113.3545630": {
+  "doi": "10.1145/3526113.3545630",
+  "ok": true,
+  "type": "doi",
+  "title": "DigituSync: A Dual-User Passive Exoskeleton Glove That Adaptively Shares Hand Gestures",
+  "year": 2022,
+  "venue": "Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology",
+  "url": "https://doi.org/10.1145/3526113.3545630"
+ },
+ "video:youtube:q6G8Htzq_gQ": {
+  "url": "https://www.youtube.com/watch?v=q6G8Htzq_gQ",
+  "ok": true,
+  "platform": "youtube",
+  "id": "q6G8Htzq_gQ",
+  "title": "Full-Hand Electro-Tactile Feedback without Obstructing Palmar Side of Hand",
+  "author": "HCintegration",
+  "thumbnail": "https://i.ytimg.com/vi/q6G8Htzq_gQ/hqdefault.jpg"
+ },
+ "img:https://lab.plopes.org/project-thumbnails/CHI23-BackOfHandElectroTactile.png": {
+  "url": "https://lab.plopes.org/project-thumbnails/CHI23-BackOfHandElectroTactile.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3544548.3581382": {
+  "doi": "10.1145/3544548.3581382",
+  "ok": true,
+  "type": "doi",
+  "title": "Full-hand Electro-Tactile Feedback without Obstructing Palmar Side of Hand",
+  "year": 2023,
+  "venue": "Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3544548.3581382"
+ },
+ "video:youtube:bfhqXAXfaHc": {
+  "url": "https://www.youtube.com/watch?v=bfhqXAXfaHc",
+  "ok": true,
+  "platform": "youtube",
+  "id": "bfhqXAXfaHc",
+  "title": "UbiComp/ISWC 2023 Affective Touch as Immediate and Passive Wearable Intervention",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/bfhqXAXfaHc/hqdefault.jpg"
+ },
+ "img:https://lab.plopes.org/project-thumbnails/Ubicomp23-HapticIntervention.jpg": {
+  "url": "https://lab.plopes.org/project-thumbnails/Ubicomp23-HapticIntervention.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1145/3569484": {
+  "doi": "10.1145/3569484",
+  "ok": true,
+  "type": "doi",
+  "title": "Affective Touch as Immediate and Passive Wearable Intervention",
+  "year": 2022,
+  "venue": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies",
+  "url": "https://doi.org/10.1145/3569484"
+ },
+ "img:https://lab.plopes.org/project-thumbnails/JNeuro23-agencyEEG.jpg": {
+  "url": "https://lab.plopes.org/project-thumbnails/JNeuro23-agencyEEG.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1523/jneurosci.1116-23.2023": {
+  "doi": "10.1523/jneurosci.1116-23.2023",
+  "ok": true,
+  "type": "doi",
+  "title": "Temporal Dynamics of Brain Activity Predicting Sense of Agency over Muscle Movements",
+  "year": 2023,
+  "venue": "The Journal of Neuroscience",
+  "url": "https://doi.org/10.1523/jneurosci.1116-23.2023"
+ },
+ "video:youtube:_9Wefip1K5s": {
+  "url": "https://youtu.be/_9Wefip1K5s",
+  "ok": true,
+  "platform": "youtube",
+  "id": "_9Wefip1K5s",
+  "title": "Taste Retargeting via Chemical Taste Modulators",
+  "author": "HCintegration",
+  "thumbnail": "https://i.ytimg.com/vi/_9Wefip1K5s/hqdefault.jpg"
+ },
+ "img:https://lab.plopes.org/project-thumbnails/UIST23-TasteRetargeting.jpg": {
+  "url": "https://lab.plopes.org/project-thumbnails/UIST23-TasteRetargeting.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1145/3586183.3606818": {
+  "doi": "10.1145/3586183.3606818",
+  "ok": true,
+  "type": "doi",
+  "title": "Taste Retargeting via Chemical Taste Modulators",
+  "year": 2023,
+  "venue": "Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology",
+  "url": "https://doi.org/10.1145/3586183.3606818"
+ },
+ "video:youtube:pNdZel2SG10": {
+  "url": "https://youtu.be/pNdZel2SG10",
+  "ok": true,
+  "platform": "youtube",
+  "id": "pNdZel2SG10",
+  "title": "Augmented Breathing via Thermal Feedback in the Nose",
+  "author": "HCintegration",
+  "thumbnail": "https://i.ytimg.com/vi/pNdZel2SG10/hqdefault.jpg"
+ },
+ "img:https://lab.plopes.org/project-thumbnails/UIST24-AugmentedBreathing.jpg": {
+  "url": "https://lab.plopes.org/project-thumbnails/UIST24-AugmentedBreathing.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1145/3654777.3676438": {
+  "doi": "10.1145/3654777.3676438",
+  "ok": true,
+  "type": "doi",
+  "title": "Augmented Breathing via Thermal Feedback in the Nose",
+  "year": 2024,
+  "venue": "Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology",
+  "url": "https://doi.org/10.1145/3654777.3676438"
+ },
+ "video:youtube:EP9Y2XWmlds": {
+  "url": "https://www.youtube.com/watch?v=EP9Y2XWmlds",
+  "ok": true,
+  "platform": "youtube",
+  "id": "EP9Y2XWmlds",
+  "title": "Seeing with the Hands: A sensory substitution that supports manual interactions",
+  "author": "HCintegration",
+  "thumbnail": "https://i.ytimg.com/vi/EP9Y2XWmlds/hqdefault.jpg"
+ },
+ "img:https://lab.plopes.org/project-thumbnails/CHI25-SeeingWithHands.jpg": {
+  "url": "https://lab.plopes.org/project-thumbnails/CHI25-SeeingWithHands.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1145/3706598.3713419": {
+  "doi": "10.1145/3706598.3713419",
+  "ok": true,
+  "type": "doi",
+  "title": "Seeing with the Hands: A Sensory Substitution That Supports Manual Interactions",
+  "year": 2025,
+  "venue": "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3706598.3713419"
+ },
+ "video:youtube:FpyPQ6JZDWM": {
+  "url": "https://www.youtube.com/watch?v=FpyPQ6JZDWM",
+  "ok": true,
+  "platform": "youtube",
+  "id": "FpyPQ6JZDWM",
+  "title": "Primed Action: Preserving Agency while Accelerating Reaction Time via Subthreshold Brain Stimulation",
+  "author": "HCintegration",
+  "thumbnail": "https://i.ytimg.com/vi/FpyPQ6JZDWM/hqdefault.jpg"
+ },
+ "img:https://lab.plopes.org/project-thumbnails/UIST25-PrimedAction.jpg": {
+  "url": "https://lab.plopes.org/project-thumbnails/UIST25-PrimedAction.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1145/3746059.3747634": {
+  "doi": "10.1145/3746059.3747634",
+  "ok": true,
+  "type": "doi",
+  "title": "Primed Action: Preserving Agency while Accelerating Reaction Time via Subthreshold Brain Stimulation",
+  "year": 2025,
+  "venue": "Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology",
+  "url": "https://doi.org/10.1145/3746059.3747634"
+ },
+ "video:youtube:tpcovBqYYAo": {
+  "url": "https://www.youtube.com/watch?v=tpcovBqYYAo",
+  "ok": true,
+  "platform": "youtube",
+  "id": "tpcovBqYYAo",
+  "title": "Vestibular Stimulation Enhances Hand Redirection",
+  "author": "HCintegration",
+  "thumbnail": "https://i.ytimg.com/vi/tpcovBqYYAo/hqdefault.jpg"
+ },
+ "img:https://lab.plopes.org/project-thumbnails/UIST25-GVSHandRedirection.jpg": {
+  "url": "https://lab.plopes.org/project-thumbnails/UIST25-GVSHandRedirection.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1145/3746059.3747776": {
+  "doi": "10.1145/3746059.3747776",
+  "ok": true,
+  "type": "doi",
+  "title": "Vestibular Stimulation Enhances Hand Redirection",
+  "year": 2025,
+  "venue": "Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology",
+  "url": "https://doi.org/10.1145/3746059.3747776"
+ },
+ "video:youtube:uoJtpx78RmU": {
+  "url": "https://www.youtube.com/watch?v=uoJtpx78RmU",
+  "ok": true,
+  "platform": "youtube",
+  "id": "uoJtpx78RmU",
+  "title": "VR Side-Effects: Memory & Proprioceptive Discrepancies After Leaving Virtual Reality (UIST 2025)",
+  "author": "HCintegration",
+  "thumbnail": "https://i.ytimg.com/vi/uoJtpx78RmU/hqdefault.jpg"
+ },
+ "img:https://lab.plopes.org/project-thumbnails/UIST25-VRSideEffect.jpg": {
+  "url": "https://lab.plopes.org/project-thumbnails/UIST25-VRSideEffect.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1145/3746059.3747596": {
+  "doi": "10.1145/3746059.3747596",
+  "ok": true,
+  "type": "doi",
+  "title": "VR Side-Effects: Memory & Proprioceptive Discrepancies After Leaving Virtual Reality",
+  "year": 2025,
+  "venue": "Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology",
+  "url": "https://doi.org/10.1145/3746059.3747596"
+ },
+ "video:youtube:M0EVjipRmPU": {
+  "url": "https://www.youtube.com/watch?v=M0EVjipRmPU",
+  "ok": true,
+  "platform": "youtube",
+  "id": "M0EVjipRmPU",
+  "title": "Myo Action: Accelerating Voluntary Actions via Electromyography and Muscle Stimulation",
+  "author": "HCintegration",
+  "thumbnail": "https://i.ytimg.com/vi/M0EVjipRmPU/hqdefault.jpg"
+ },
+ "img:https://lab.plopes.org/project-thumbnails/CHI26-MyoAction.jpg": {
+  "url": "https://lab.plopes.org/project-thumbnails/CHI26-MyoAction.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1145/3772318.3791103": {
+  "doi": "10.1145/3772318.3791103",
+  "ok": true,
+  "type": "doi",
+  "title": "Myo Action: Accelerating Voluntary Actions via Electromyography and Muscle Stimulation",
+  "year": 2026,
+  "venue": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3772318.3791103"
+ },
+ "video:youtube:pJM2Z8mmwAw": {
+  "url": "https://www.youtube.com/watch?v=pJM2Z8mmwAw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "pJM2Z8mmwAw",
+  "title": "Generative Muscle Stimulation: Physical-AI by Constraining Multimodal-AI with Embodied Knowledge",
+  "author": "HCintegration",
+  "thumbnail": "https://i.ytimg.com/vi/pJM2Z8mmwAw/hqdefault.jpg"
+ },
+ "img:https://lab.plopes.org/project-thumbnails/CHI26-EmbodiedAI.jpg": {
+  "url": "https://lab.plopes.org/project-thumbnails/CHI26-EmbodiedAI.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1145/3772318.3790817": {
+  "doi": "10.1145/3772318.3790817",
+  "ok": true,
+  "type": "doi",
+  "title": "Generative Muscle Stimulation: Providing Users with Physical Assistance by Constraining Multimodal-AI with Embodied Knowledge",
+  "year": 2026,
+  "venue": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3772318.3790817"
+ },
+ "video:youtube:S1snYMDqpXY": {
+  "url": "https://www.youtube.com/watch?v=S1snYMDqpXY",
+  "ok": true,
+  "platform": "youtube",
+  "id": "S1snYMDqpXY",
+  "title": "What if the “I” in HCI stands for Integration? (UIST Vision Talk)",
+  "author": "HCintegration",
+  "thumbnail": "https://i.ytimg.com/vi/S1snYMDqpXY/hqdefault.jpg"
+ },
+ "img:https://lab.plopes.org/project-thumbnails/UIST25-Vision.png": {
+  "url": "https://lab.plopes.org/project-thumbnails/UIST25-Vision.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3746058.3762829": {
+  "doi": "10.1145/3746058.3762829",
+  "ok": true,
+  "type": "doi",
+  "title": "What if the “I” in HCI stands for Integration?",
+  "year": 2025,
+  "venue": "Adjunct Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology",
+  "url": "https://doi.org/10.1145/3746058.3762829"
+ },
+ "doi:10.1146/annurev.bb.02.060173.001105": {
+  "doi": "10.1146/annurev.bb.02.060173.001105",
+  "ok": true,
+  "type": "doi",
+  "title": "Toward Direct Brain-Computer Communication",
+  "year": 1973,
+  "venue": "Annual Review of Biophysics and Bioengineering",
+  "url": "https://doi.org/10.1146/annurev.bb.02.060173.001105"
+ },
+ "video:youtube:zozOjmpD5Cw": {
+  "url": "https://www.youtube.com/watch?v=zozOjmpD5Cw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "zozOjmpD5Cw",
+  "title": "One-Dimensional Cursor Control Using EEG",
+  "author": "BrainComputerInterf",
+  "thumbnail": "https://i.ytimg.com/vi/zozOjmpD5Cw/hqdefault.jpg"
+ },
+ "doi:10.1016/s1388-2457(02)00057-3": {
+  "doi": "10.1016/s1388-2457(02)00057-3",
+  "ok": true,
+  "type": "doi",
+  "title": "Brain–computer interfaces for communication and control",
+  "year": 2002,
+  "venue": "Clinical Neurophysiology",
+  "url": "https://doi.org/10.1016/s1388-2457(02)00057-3"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/f/fd/BrainGate.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/BrainGate.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature04970/MediaObjects/41586_2006_Article_BFnature04970_Fig1_HTML.jpg": {
+  "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature04970/MediaObjects/41586_2006_Article_BFnature04970_Fig1_HTML.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1038/nature04970": {
+  "doi": "10.1038/nature04970",
+  "ok": true,
+  "type": "doi",
+  "title": "Neuronal ensemble control of prosthetic devices by a human with tetraplegia",
+  "year": 2006,
+  "venue": "Nature",
+  "url": "https://doi.org/10.1038/nature04970"
+ },
+ "video:youtube:ogBX18maUiM": {
+  "url": "https://www.youtube.com/watch?v=ogBX18maUiM",
+  "ok": true,
+  "platform": "youtube",
+  "id": "ogBX18maUiM",
+  "title": "Paralysed woman moves robot with her mind - by Nature Video",
+  "author": "nature video",
+  "thumbnail": "https://i.ytimg.com/vi/ogBX18maUiM/hqdefault.jpg"
+ },
+ "img:https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature11076/MediaObjects/41586_2012_Article_BFnature11076_Fig1_HTML.jpg": {
+  "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature11076/MediaObjects/41586_2012_Article_BFnature11076_Fig1_HTML.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1038/nature11076": {
+  "doi": "10.1038/nature11076",
+  "ok": true,
+  "type": "doi",
+  "title": "Reach and grasp by people with tetraplegia using a neurally controlled robotic arm",
+  "year": 2012,
+  "venue": "Nature",
+  "url": "https://doi.org/10.1038/nature11076"
+ },
+ "video:youtube:L1bO-29FhMU": {
+  "url": "https://www.youtube.com/watch?v=L1bO-29FhMU",
+  "ok": true,
+  "platform": "youtube",
+  "id": "L1bO-29FhMU",
+  "title": "Touched by Science: Paralyzed Man Feels Again Through Mind-Controlled Robotic Arm",
+  "author": "UPMC",
+  "thumbnail": "https://i.ytimg.com/vi/L1bO-29FhMU/hqdefault.jpg"
+ },
+ "img:https://www.rnel.pitt.edu/sites/default/files/slider-image/FistBumpRecruitment.jpg": {
+  "url": "https://www.rnel.pitt.edu/sites/default/files/slider-image/FistBumpRecruitment.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1126/scitranslmed.aaf8083": {
+  "doi": "10.1126/scitranslmed.aaf8083",
+  "ok": true,
+  "type": "doi",
+  "title": "Intracortical microstimulation of human somatosensory cortex",
+  "year": 2016,
+  "venue": "Science Translational Medicine",
+  "url": "https://doi.org/10.1126/scitranslmed.aaf8083"
+ },
+ "doi:10.1126/science.abd0380": {
+  "doi": "10.1126/science.abd0380",
+  "ok": true,
+  "type": "doi",
+  "title": "A brain-computer interface that evokes tactile sensations improves robotic arm control",
+  "year": 2021,
+  "venue": "Science",
+  "url": "https://doi.org/10.1126/science.abd0380"
+ },
+ "video:youtube:b_iMxYPe9Lw": {
+  "url": "https://www.youtube.com/watch?v=b_iMxYPe9Lw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "b_iMxYPe9Lw",
+  "title": "An Interview with NeuroLife® Trial Participant Ian Burkhart",
+  "author": "Battelle",
+  "thumbnail": "https://i.ytimg.com/vi/b_iMxYPe9Lw/hqdefault.jpg"
+ },
+ "doi:10.1016/j.cell.2020.03.054": {
+  "doi": "10.1016/j.cell.2020.03.054",
+  "ok": true,
+  "type": "doi",
+  "title": "Restoring the Sense of Touch Using a Sensorimotor Demultiplexing Neural Interface",
+  "year": 2020,
+  "venue": "Cell",
+  "url": "https://doi.org/10.1016/j.cell.2020.03.054"
+ },
+ "video:youtube:AARVY-3oDRQ": {
+  "url": "https://www.youtube.com/watch?v=AARVY-3oDRQ",
+  "ok": true,
+  "platform": "youtube",
+  "id": "AARVY-3oDRQ",
+  "title": "Paralyzed man able to walk again with brain and spine implants",
+  "author": "NBC News",
+  "thumbnail": "https://i.ytimg.com/vi/AARVY-3oDRQ/hqdefault.jpg"
+ },
+ "img:https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06094-5/MediaObjects/41586_2023_6094_Fig1_HTML.png": {
+  "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06094-5/MediaObjects/41586_2023_6094_Fig1_HTML.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1038/s41586-023-06094-5": {
+  "doi": "10.1038/s41586-023-06094-5",
+  "ok": true,
+  "type": "doi",
+  "title": "Walking naturally after spinal cord injury using a brain–spine interface",
+  "year": 2023,
+  "venue": "Nature",
+  "url": "https://doi.org/10.1038/s41586-023-06094-5"
+ },
+ "video:youtube:vL7yMn6kiMg": {
+  "url": "https://www.youtube.com/watch?v=vL7yMn6kiMg",
+  "ok": true,
+  "platform": "youtube",
+  "id": "vL7yMn6kiMg",
+  "title": "A Neuroprosthesis for Speech Decoding and Avatar Control | Chang Lab - UCSF",
+  "author": "UCSF Neurosurgery",
+  "thumbnail": "https://i.ytimg.com/vi/vL7yMn6kiMg/hqdefault.jpg"
+ },
+ "img:https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06443-4/MediaObjects/41586_2023_6443_Fig1_HTML.png": {
+  "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06443-4/MediaObjects/41586_2023_6443_Fig1_HTML.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1038/s41586-023-06443-4": {
+  "doi": "10.1038/s41586-023-06443-4",
+  "ok": true,
+  "type": "doi",
+  "title": "A high-performance neuroprosthesis for speech decoding and avatar control",
+  "year": 2023,
+  "venue": "Nature",
+  "url": "https://doi.org/10.1038/s41586-023-06443-4"
+ },
+ "video:youtube:mIAsUkJZbow": {
+  "url": "https://www.youtube.com/watch?v=mIAsUkJZbow",
+  "ok": true,
+  "platform": "youtube",
+  "id": "mIAsUkJZbow",
+  "title": "One Year Later: First Neuralink Implant Patient Shares Story",
+  "author": "Barrow Neurological Institute",
+  "thumbnail": "https://i.ytimg.com/vi/mIAsUkJZbow/hqdefault.jpg"
+ },
+ "img:https://neuralink.com/assets/static/homepage.CQ861ZM0.jpg": {
+  "url": "https://neuralink.com/assets/static/homepage.CQ861ZM0.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.2196/16194": {
+  "doi": "10.2196/16194",
+  "ok": true,
+  "type": "doi",
+  "title": "An Integrated Brain-Machine Interface Platform With Thousands of Channels",
+  "year": 2019,
+  "venue": "Journal of Medical Internet Research",
+  "url": "https://doi.org/10.2196/16194"
+ },
+ "video:youtube:mm95r05hui0": {
+  "url": "https://www.youtube.com/watch?v=mm95r05hui0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "mm95r05hui0",
+  "title": "Stentrode brain computer interface online in first two human patients",
+  "author": "Synchron BCI",
+  "thumbnail": "https://i.ytimg.com/vi/mm95r05hui0/hqdefault.jpg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/8/8a/Stentrode_Device.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Stentrode_Device.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1136/neurintsurg-2020-016862": {
+  "doi": "10.1136/neurintsurg-2020-016862",
+  "ok": true,
+  "type": "doi",
+  "title": "Motor neuroprosthesis implanted with neurointerventional surgery improves capacity for activities of daily living tasks in severe paralysis: first in-human experience",
+  "year": 2021,
+  "venue": "Journal of NeuroInterventional Surgery",
+  "url": "https://doi.org/10.1136/neurintsurg-2020-016862"
+ },
+ "video:youtube:S4gKIhp8Jd8": {
+  "url": "https://www.youtube.com/watch?v=S4gKIhp8Jd8",
+  "ok": true,
+  "platform": "youtube",
+  "id": "S4gKIhp8Jd8",
+  "title": "全球首款获批 清华团队：将有更多患者使用中国设计制造的脑机接口产品",
+  "author": "中国新闻社",
+  "thumbnail": "https://i.ytimg.com/vi/S4gKIhp8Jd8/hqdefault.jpg"
+ },
+ "doi:10.1101/2025.10.06.25337264": {
+  "doi": "10.1101/2025.10.06.25337264",
+  "ok": true,
+  "type": "doi",
+  "title": "Fine grained two-dimensional cursor control with epidural minimally invasive brain-computer interface",
+  "year": 2025,
+  "venue": "",
+  "url": "https://doi.org/10.1101/2025.10.06.25337264"
+ },
+ "video:youtube:oTZFphOovRk": {
+  "url": "https://www.youtube.com/watch?v=oTZFphOovRk",
+  "ok": true,
+  "platform": "youtube",
+  "id": "oTZFphOovRk",
+  "title": "How can Muse help you meditate?",
+  "author": "Muse",
+  "thumbnail": "https://i.ytimg.com/vi/oTZFphOovRk/hqdefault.jpg"
+ },
+ "img:https://choosemuse.com/cdn/shop/files/Shopify-Preview_1200x.png?v=1753110109": {
+  "url": "https://choosemuse.com/cdn/shop/files/Shopify-Preview_1200x.png?v=1753110109",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:4P5JcA0tB9w": {
+  "url": "https://www.youtube.com/watch?v=4P5JcA0tB9w",
+  "ok": true,
+  "platform": "youtube",
+  "id": "4P5JcA0tB9w",
+  "title": "Galea: The Bridge Between Mixed Reality and Neurotechnology",
+  "author": "OpenBCI",
+  "thumbnail": "https://i.ytimg.com/vi/4P5JcA0tB9w/hqdefault.jpg"
+ },
+ "img:http://openbci.com/images/frontCarousel/UC-production-1140x424.jpg": {
+  "url": "http://openbci.com/images/frontCarousel/UC-production-1140x424.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://galea.co/og.jpeg": {
+  "url": "https://galea.co/og.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://neurowear.com/wp-content/uploads/2021/03/necomimi_-project.png": {
+  "url": "https://neurowear.com/wp-content/uploads/2021/03/necomimi_-project.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:youtube:bIPU2ynqy2Y": {
+  "url": "https://www.youtube.com/watch?v=bIPU2ynqy2Y",
+  "ok": true,
+  "platform": "youtube",
+  "id": "bIPU2ynqy2Y",
+  "title": "Alvin Lucier - \"Music For Solo Performer\" (1965)",
+  "author": "Carlos Conceição",
+  "thumbnail": "https://i.ytimg.com/vi/bIPU2ynqy2Y/hqdefault.jpg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/1/1b/AlvinLucier-MusicForSoloPerformer-DenHaag2010.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/AlvinLucier-MusicForSoloPerformer-DenHaag2010.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1017/s135577181300037x": {
+  "doi": "10.1017/s135577181300037x",
+  "ok": true,
+  "type": "doi",
+  "title": "Alvin Lucier'sMusic for Solo Performer: Experimental music beyond sonification",
+  "year": 2014,
+  "venue": "Organised Sound",
+  "url": "https://doi.org/10.1017/s135577181300037x"
+ },
+ "video:youtube:FHOhbmFyUZg": {
+  "url": "https://www.youtube.com/watch?v=FHOhbmFyUZg",
+  "ok": true,
+  "platform": "youtube",
+  "id": "FHOhbmFyUZg",
+  "title": "On Being Invisible, David Rosenboom at Western Front, Vancouver, 1977, Part 1",
+  "author": "David Rosenboom",
+  "thumbnail": "https://i.ytimg.com/vi/FHOhbmFyUZg/hqdefault.jpg"
+ },
+ "doi:10.2307/3680116": {
+  "doi": "10.2307/3680116",
+  "ok": true,
+  "type": "doi",
+  "title": "The Performing Brain",
+  "year": 1990,
+  "venue": "Computer Music Journal",
+  "url": "https://doi.org/10.2307/3680116"
+ },
+ "video:youtube:8S0aHAmaseI": {
+  "url": "https://www.youtube.com/watch?v=8S0aHAmaseI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "8S0aHAmaseI",
+  "title": "BrainWave Drawings 1973-2008",
+  "author": "ninasobell",
+  "thumbnail": "https://i.ytimg.com/vi/8S0aHAmaseI/hqdefault.jpg"
+ },
+ "doi:10.1109/tcac.1989.697094": {
+  "doi": "10.1109/tcac.1989.697094",
+  "ok": true,
+  "type": "doi",
+  "title": "Brainwave Drawing Game",
+  "year": 2005,
+  "venue": "Delicate Balance: Technics, Culture and Consequences",
+  "url": "https://doi.org/10.1109/tcac.1989.697094"
+ },
+ "video:youtube:ZXMXqULrEWg": {
+  "url": "https://www.youtube.com/watch?v=ZXMXqULrEWg",
+  "ok": true,
+  "platform": "youtube",
+  "id": "ZXMXqULrEWg",
+  "title": "Eunoia II (Beautiful thought; 아름다운 생각 ll) from Lisa Park",
+  "author": "Lisa Park",
+  "thumbnail": "https://i.ytimg.com/vi/ZXMXqULrEWg/hqdefault.jpg"
+ },
+ "img:http://static1.squarespace.com/static/5d80747c843cc1282b82d420/5d80769988353d1b2d069fb9/5d825f8b8637a727e65aabfc/1569218865299/eunoia.jpg?format=1500w": {
+  "url": "http://static1.squarespace.com/static/5d80747c843cc1282b82d420/5d80769988353d1b2d069fb9/5d825f8b8637a727e65aabfc/1569218865299/eunoia.jpg?format=1500w",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/5d80747c843cc1282b82d420/1568868323990-F91211HPGM6URC6A0L1B/eunoiaii.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/5d80747c843cc1282b82d420/1568868323990-F91211HPGM6URC6A0L1B/eunoiaii.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:XI4Mge8nLMw": {
+  "url": "https://www.youtube.com/watch?v=XI4Mge8nLMw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "XI4Mge8nLMw",
+  "title": "Masaki Batoh BRAIN PULSE MUSIC Promotional video",
+  "author": "Drag City",
+  "thumbnail": "https://i.ytimg.com/vi/XI4Mge8nLMw/hqdefault.jpg"
+ },
+ "img:https://www.dragcity.com/uploads/products/1940/images/782/large_DC471.jpg": {
+  "url": "https://www.dragcity.com/uploads/products/1940/images/782/large_DC471.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:Ut9oPo8sLJw": {
+  "url": "https://www.youtube.com/watch?v=Ut9oPo8sLJw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Ut9oPo8sLJw",
+  "title": "Measuring the Magic of Mutual Gaze",
+  "author": "Suzanne Dikker",
+  "thumbnail": "https://i.ytimg.com/vi/Ut9oPo8sLJw/hqdefault.jpg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/5542eef2e4b0f37cdc4dc093/1445464973009-L0HG5YQ8YZD3HKOYYV6O/image-asset.jpeg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/5542eef2e4b0f37cdc4dc093/1445464973009-L0HG5YQ8YZD3HKOYYV6O/image-asset.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:nmMy42SuBns": {
+  "url": "https://www.youtube.com/watch?v=nmMy42SuBns",
+  "ok": true,
+  "platform": "youtube",
+  "id": "nmMy42SuBns",
+  "title": "Mutual Wave Machine (filmed at EYE Amsterdam 2013)",
+  "author": "Suzanne Dikker",
+  "thumbnail": "https://i.ytimg.com/vi/nmMy42SuBns/hqdefault.jpg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/5542eef2e4b0f37cdc4dc093/1450295095558-DBA7XSM7F49K87VUQ9BX/mwm.jpeg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/5542eef2e4b0f37cdc4dc093/1450295095558-DBA7XSM7F49K87VUQ9BX/mwm.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:iMZ0K-xOPPI": {
+  "url": "https://www.youtube.com/watch?v=iMZ0K-xOPPI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "iMZ0K-xOPPI",
+  "title": "My Virtual Dream: Scotiabank Nuit Blanche 2013",
+  "author": "rotmanresearch",
+  "thumbnail": "https://i.ytimg.com/vi/iMZ0K-xOPPI/hqdefault.jpg"
+ },
+ "img:https://journals.plos.org/plosone/article/figure/image?size=inline&id=10.1371/journal.pone.0130129.g001": {
+  "url": "https://journals.plos.org/plosone/article/figure/image?size=inline&id=10.1371/journal.pone.0130129.g001",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1371/journal.pone.0130129": {
+  "doi": "10.1371/journal.pone.0130129",
+  "ok": true,
+  "type": "doi",
+  "title": "‘My Virtual Dream’: Collective Neurofeedback in an Immersive Art Environment",
+  "year": 2015,
+  "venue": "PLOS ONE",
+  "url": "https://doi.org/10.1371/journal.pone.0130129"
+ },
+ "video:youtube:URv_iz631Y0": {
+  "url": "https://www.youtube.com/watch?v=URv_iz631Y0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "URv_iz631Y0",
+  "title": "NoorABrainOperaWithSubTitles",
+  "author": "ellenluminescense",
+  "thumbnail": "https://i.ytimg.com/vi/URv_iz631Y0/hqdefault.jpg"
+ },
+ "doi:10.1162/leon_a_01807": {
+  "doi": "10.1162/leon_a_01807",
+  "ok": true,
+  "type": "doi",
+  "title": "Is There a Place in Human Consciousness Where Surveillance Cannot Go? Noor: A Brain Opera",
+  "year": 2019,
+  "venue": "Leonardo",
+  "url": "https://doi.org/10.1162/leon_a_01807"
+ },
+ "video:youtube:Ds-HXCYhHIo": {
+  "url": "https://www.youtube.com/watch?v=Ds-HXCYhHIo",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Ds-HXCYhHIo",
+  "title": "Interview with Lancel & Maat - E.E.G. Kiss",
+  "author": "digital worx",
+  "thumbnail": "https://i.ytimg.com/vi/Ds-HXCYhHIo/hqdefault.jpg"
+ },
+ "img:https://lancelmaat.nl/site/assets/files/1192/eegkissstillhighres2.jpg": {
+  "url": "https://lancelmaat.nl/site/assets/files/1192/eegkissstillhighres2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://lancelmaat.nl/site/assets/files/1183/eegkissviennadsc05023lowres.jpg": {
+  "url": "https://lancelmaat.nl/site/assets/files/1183/eegkissviennadsc05023lowres.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1007/978-3-030-14323-7_7": {
+  "doi": "10.1007/978-3-030-14323-7_7",
+  "ok": true,
+  "type": "doi",
+  "title": "EEG KISS: Shared Multi-modal, Multi Brain Computer Interface Experience, in Public Space",
+  "year": 2019,
+  "venue": "Brain Art",
+  "url": "https://doi.org/10.1007/978-3-030-14323-7_7"
+ },
+ "video:youtube:rNRDc714W5I": {
+  "url": "https://www.youtube.com/watch?v=rNRDc714W5I",
+  "ok": true,
+  "platform": "youtube",
+  "id": "rNRDc714W5I",
+  "title": "Direct Brain-to-Brain Communication in Humans: A Pilot Study",
+  "author": "uwneuralsystems",
+  "thumbnail": "https://i.ytimg.com/vi/rNRDc714W5I/hqdefault.jpg"
+ },
+ "img:https://journals.plos.org/plosone/article/figure/image?size=inline&id=10.1371/journal.pone.0111332.g001": {
+  "url": "https://journals.plos.org/plosone/article/figure/image?size=inline&id=10.1371/journal.pone.0111332.g001",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1371/journal.pone.0111332": {
+  "doi": "10.1371/journal.pone.0111332",
+  "ok": true,
+  "type": "doi",
+  "title": "A Direct Brain-to-Brain Interface in Humans",
+  "year": 2014,
+  "venue": "PLoS ONE",
+  "url": "https://doi.org/10.1371/journal.pone.0111332"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/5542eef2e4b0f37cdc4dc093/453351b8-bd0f-4d0a-928e-fe455c10b16e/2_classroomEEG.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/5542eef2e4b0f37cdc4dc093/453351b8-bd0f-4d0a-928e-fe455c10b16e/2_classroomEEG.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "doi:10.1016/j.cub.2017.04.002": {
+  "doi": "10.1016/j.cub.2017.04.002",
+  "ok": true,
+  "type": "doi",
+  "title": "Brain-to-Brain Synchrony Tracks Real-World Dynamic Group Interactions in the Classroom",
+  "year": 2017,
+  "venue": "Current Biology",
+  "url": "https://doi.org/10.1016/j.cub.2017.04.002"
+ },
+ "video:youtube:vr5g1CBB9qI": {
+  "url": "https://www.youtube.com/watch?v=vr5g1CBB9qI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "vr5g1CBB9qI",
+  "title": "Towards Understanding the Design of Positive Pre-sleep Through a Neurofeedback Artistic Experience",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/vr5g1CBB9qI/hqdefault.jpg"
+ },
+ "doi:10.1145/3290605.3300804": {
+  "doi": "10.1145/3290605.3300804",
+  "ok": true,
+  "type": "doi",
+  "title": "Towards Understanding the Design of Positive Pre-sleep Through a Neurofeedback Artistic Experience",
+  "year": 2019,
+  "venue": "Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3290605.3300804"
+ },
+ "video:youtube:kyTDRF9_3cQ": {
+  "url": "https://www.youtube.com/watch?v=kyTDRF9_3cQ",
+  "ok": true,
+  "platform": "youtube",
+  "id": "kyTDRF9_3cQ",
+  "title": "PsiNet: Toward Understanding the Design of Brain-to-Brain Interfaces for Augmenting Inter-Brain S...",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/kyTDRF9_3cQ/hqdefault.jpg"
+ },
+ "doi:10.1145/3613904.3641983": {
+  "doi": "10.1145/3613904.3641983",
+  "ok": true,
+  "type": "doi",
+  "title": "PsiNet: Toward Understanding the Design of Brain-to-Brain Interfaces for Augmenting Inter-Brain Synchrony",
+  "year": 2024,
+  "venue": "Proceedings of the CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3613904.3641983"
+ },
+ "doi:10.1145/3603621": {
+  "doi": "10.1145/3603621",
+  "ok": true,
+  "type": "doi",
+  "title": "Brain-Computer Integration: A Framework for the Design of Brain-Computer Interfaces from an Integrations Perspective",
+  "year": 2023,
+  "venue": "ACM Transactions on Computer-Human Interaction",
+  "url": "https://doi.org/10.1145/3603621"
+ },
+ "video:youtube:ccYM0AHaj0E": {
+  "url": "https://www.youtube.com/watch?v=ccYM0AHaj0E",
+  "ok": true,
+  "platform": "youtube",
+  "id": "ccYM0AHaj0E",
+  "title": "Introducing Peripheral Awareness as a Neurological State for Human-Computer Integration",
+  "author": "floydmueller",
+  "thumbnail": "https://i.ytimg.com/vi/ccYM0AHaj0E/hqdefault.jpg"
+ },
+ "doi:10.1145/3313831.3376128": {
+  "doi": "10.1145/3313831.3376128",
+  "ok": true,
+  "type": "doi",
+  "title": "Introducing Peripheral Awareness as a Neurological State for Human-computer Integration",
+  "year": 2020,
+  "venue": "Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3313831.3376128"
+ },
+ "video:youtube:jM6l12MasIc": {
+  "url": "https://www.youtube.com/watch?v=jM6l12MasIc",
+  "ok": true,
+  "platform": "youtube",
+  "id": "jM6l12MasIc",
+  "title": "“My Happiness Makes You Smile”: Towards Understanding Telepathic Superpower Design via BCIs @ CHI'25",
+  "author": "floydmueller",
+  "thumbnail": "https://i.ytimg.com/vi/jM6l12MasIc/hqdefault.jpg"
+ },
+ "doi:10.1145/3715336.3735699": {
+  "doi": "10.1145/3715336.3735699",
+  "ok": true,
+  "type": "doi",
+  "title": "“My Happiness Makes You Smile”: Beginning to Understand Telepathic Superpower Design Via Brain-Muscle Interfaces",
+  "year": 2025,
+  "venue": "Proceedings of the 2025 ACM Designing Interactive Systems Conference",
+  "url": "https://doi.org/10.1145/3715336.3735699"
+ },
+ "video:youtube:qInl7UzuqPU": {
+  "url": "https://www.youtube.com/watch?v=qInl7UzuqPU",
+  "ok": true,
+  "platform": "youtube",
+  "id": "qInl7UzuqPU",
+  "title": "LuciEntry: Towards Understanding the Design of Lucid Dream Induction - DIS 2025 full video",
+  "author": "floydmueller",
+  "thumbnail": "https://i.ytimg.com/vi/qInl7UzuqPU/hqdefault.jpg"
+ },
+ "doi:10.1145/3715336.3735790": {
+  "doi": "10.1145/3715336.3735790",
+  "ok": true,
+  "type": "doi",
+  "title": "LuciEntry: Towards Understanding the Design of Lucid Dream Induction",
+  "year": 2025,
+  "venue": "Proceedings of the 2025 ACM Designing Interactive Systems Conference",
+  "url": "https://doi.org/10.1145/3715336.3735790"
+ },
+ "video:youtube:F33_Mvj43YY": {
+  "url": "https://www.youtube.com/watch?v=F33_Mvj43YY",
+  "ok": true,
+  "platform": "youtube",
+  "id": "F33_Mvj43YY",
+  "title": "Rafael Yuste – Neurorights: new human rights for the new digital era",
+  "author": "Casina Pio IV",
+  "thumbnail": "https://i.ytimg.com/vi/F33_Mvj43YY/hqdefault.jpg"
+ },
+ "img:https://media.springernature.com/full/springer-static/image/art%3A10.1038%2F551159a/MediaObjects/41586_2017_Article_BF551159a_Figa_HTML.jpg": {
+  "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2F551159a/MediaObjects/41586_2017_Article_BF551159a_Figa_HTML.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1038/551159a": {
+  "doi": "10.1038/551159a",
+  "ok": true,
+  "type": "doi",
+  "title": "Four ethical priorities for neurotechnologies and AI",
+  "year": 2017,
+  "venue": "Nature",
+  "url": "https://doi.org/10.1038/551159a"
+ },
+ "doi:10.1007/s11948-017-0001-5": {
+  "doi": "10.1007/s11948-017-0001-5",
+  "ok": true,
+  "type": "doi",
+  "title": "Embodiment and Estrangement: Results from a First-in-Human “Intelligent BCI” Trial",
+  "year": 2019,
+  "venue": "Science and Engineering Ethics",
+  "url": "https://doi.org/10.1007/s11948-017-0001-5"
+ },
+ "doi:10.1186/s12910-019-0442-2": {
+  "doi": "10.1186/s12910-019-0442-2",
+  "ok": true,
+  "type": "doi",
+  "title": "What is it like to use a BCI? – insights from an interview study with brain-computer interface users",
+  "year": 2020,
+  "venue": "BMC Medical Ethics",
+  "url": "https://doi.org/10.1186/s12910-019-0442-2"
+ },
+ "video:youtube:af3Vq-C1ck8": {
+  "url": "https://www.youtube.com/watch?v=af3Vq-C1ck8",
+  "ok": true,
+  "platform": "youtube",
+  "id": "af3Vq-C1ck8",
+  "title": "Out of Our Heads | Alva Noë | Talks at Google",
+  "author": "Talks at Google",
+  "thumbnail": "https://i.ytimg.com/vi/af3Vq-C1ck8/hqdefault.jpg"
+ },
+ "ytmax:EVWZtJNbAek": {
+  "url": "https://i.ytimg.com/vi/EVWZtJNbAek/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:H4O8GXIJNns": {
+  "url": "https://i.ytimg.com/vi/H4O8GXIJNns/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:ZsN5yyqGuEA": {
+  "url": "https://i.ytimg.com/vi/ZsN5yyqGuEA/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:-OJFtYBW9ac": {
+  "url": "https://i.ytimg.com/vi/-OJFtYBW9ac/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:4x4d8IX_0kI": {
+  "url": "https://i.ytimg.com/vi/4x4d8IX_0kI/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:LCP8d3fkFMY": {
+  "url": "https://i.ytimg.com/vi/LCP8d3fkFMY/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:Wh1v1QsL41E": {
+  "url": "https://i.ytimg.com/vi/Wh1v1QsL41E/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:311LUH5ylDo": {
+  "url": "https://i.ytimg.com/vi/311LUH5ylDo/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:aFD4JW8vO_4": {
+  "url": "https://i.ytimg.com/vi/aFD4JW8vO_4/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:IKC_3sm0MCY": {
+  "url": "https://i.ytimg.com/vi/IKC_3sm0MCY/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:iBW2D9ghaak": {
+  "url": "https://i.ytimg.com/vi/iBW2D9ghaak/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:wcc4CBmNbSo": {
+  "url": "https://i.ytimg.com/vi/wcc4CBmNbSo/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:1_dR1OVr5Ts": {
+  "url": "https://i.ytimg.com/vi/1_dR1OVr5Ts/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:NNWuqEz29Ag": {
+  "url": "https://i.ytimg.com/vi/NNWuqEz29Ag/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:VZ45HiU1Frw": {
+  "url": "https://i.ytimg.com/vi/VZ45HiU1Frw/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:pMh5TZiJVcw": {
+  "url": "https://i.ytimg.com/vi/pMh5TZiJVcw/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:ysgZl9jEwtg": {
+  "url": "https://i.ytimg.com/vi/ysgZl9jEwtg/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:vCfClAzbo-k": {
+  "url": "https://i.ytimg.com/vi/vCfClAzbo-k/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:BeV_flg8VgM": {
+  "url": "https://i.ytimg.com/vi/BeV_flg8VgM/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:c539cK58ees": {
+  "url": "https://i.ytimg.com/vi/c539cK58ees/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:UhpTiWyVa6k": {
+  "url": "https://i.ytimg.com/vi/UhpTiWyVa6k/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:6kbpmUAPRzI": {
+  "url": "https://i.ytimg.com/vi/6kbpmUAPRzI/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:fBAFg1HFI7w": {
+  "url": "https://i.ytimg.com/vi/fBAFg1HFI7w/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:V6CMtXQj_Ts": {
+  "url": "https://i.ytimg.com/vi/V6CMtXQj_Ts/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:9iBiynVrr74": {
+  "url": "https://i.ytimg.com/vi/9iBiynVrr74/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:swmGaGT8lvs": {
+  "url": "https://i.ytimg.com/vi/swmGaGT8lvs/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:OcSmCamMKfs": {
+  "url": "https://i.ytimg.com/vi/OcSmCamMKfs/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:UsL48gkh3GI": {
+  "url": "https://i.ytimg.com/vi/UsL48gkh3GI/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:pH68GNkb_fA": {
+  "url": "https://i.ytimg.com/vi/pH68GNkb_fA/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:C6rj64TgsDI": {
+  "url": "https://i.ytimg.com/vi/C6rj64TgsDI/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:I2BBV0JZ0ww": {
+  "url": "https://i.ytimg.com/vi/I2BBV0JZ0ww/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:vqpH9gNGpts": {
+  "url": "https://i.ytimg.com/vi/vqpH9gNGpts/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:ljytGz4nnho": {
+  "url": "https://i.ytimg.com/vi/ljytGz4nnho/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:q6G8Htzq_gQ": {
+  "url": "https://i.ytimg.com/vi/q6G8Htzq_gQ/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:bfhqXAXfaHc": {
+  "url": "https://i.ytimg.com/vi/bfhqXAXfaHc/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:_9Wefip1K5s": {
+  "url": "https://i.ytimg.com/vi/_9Wefip1K5s/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:pNdZel2SG10": {
+  "url": "https://i.ytimg.com/vi/pNdZel2SG10/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:EP9Y2XWmlds": {
+  "url": "https://i.ytimg.com/vi/EP9Y2XWmlds/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:FpyPQ6JZDWM": {
+  "url": "https://i.ytimg.com/vi/FpyPQ6JZDWM/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:tpcovBqYYAo": {
+  "url": "https://i.ytimg.com/vi/tpcovBqYYAo/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:uoJtpx78RmU": {
+  "url": "https://i.ytimg.com/vi/uoJtpx78RmU/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:M0EVjipRmPU": {
+  "url": "https://i.ytimg.com/vi/M0EVjipRmPU/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:pJM2Z8mmwAw": {
+  "url": "https://i.ytimg.com/vi/pJM2Z8mmwAw/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:S1snYMDqpXY": {
+  "url": "https://i.ytimg.com/vi/S1snYMDqpXY/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:zozOjmpD5Cw": {
+  "url": "https://i.ytimg.com/vi/zozOjmpD5Cw/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:ogBX18maUiM": {
+  "url": "https://i.ytimg.com/vi/ogBX18maUiM/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:L1bO-29FhMU": {
+  "url": "https://i.ytimg.com/vi/L1bO-29FhMU/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:b_iMxYPe9Lw": {
+  "url": "https://i.ytimg.com/vi/b_iMxYPe9Lw/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:AARVY-3oDRQ": {
+  "url": "https://i.ytimg.com/vi/AARVY-3oDRQ/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:vL7yMn6kiMg": {
+  "url": "https://i.ytimg.com/vi/vL7yMn6kiMg/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:mIAsUkJZbow": {
+  "url": "https://i.ytimg.com/vi/mIAsUkJZbow/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:mm95r05hui0": {
+  "url": "https://i.ytimg.com/vi/mm95r05hui0/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:S4gKIhp8Jd8": {
+  "url": "https://i.ytimg.com/vi/S4gKIhp8Jd8/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:oTZFphOovRk": {
+  "url": "https://i.ytimg.com/vi/oTZFphOovRk/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:4P5JcA0tB9w": {
+  "url": "https://i.ytimg.com/vi/4P5JcA0tB9w/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:bIPU2ynqy2Y": {
+  "url": "https://i.ytimg.com/vi/bIPU2ynqy2Y/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:FHOhbmFyUZg": {
+  "url": "https://i.ytimg.com/vi/FHOhbmFyUZg/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:8S0aHAmaseI": {
+  "url": "https://i.ytimg.com/vi/8S0aHAmaseI/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:ZXMXqULrEWg": {
+  "url": "https://i.ytimg.com/vi/ZXMXqULrEWg/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:XI4Mge8nLMw": {
+  "url": "https://i.ytimg.com/vi/XI4Mge8nLMw/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:Ut9oPo8sLJw": {
+  "url": "https://i.ytimg.com/vi/Ut9oPo8sLJw/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:nmMy42SuBns": {
+  "url": "https://i.ytimg.com/vi/nmMy42SuBns/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:iMZ0K-xOPPI": {
+  "url": "https://i.ytimg.com/vi/iMZ0K-xOPPI/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:URv_iz631Y0": {
+  "url": "https://i.ytimg.com/vi/URv_iz631Y0/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:Ds-HXCYhHIo": {
+  "url": "https://i.ytimg.com/vi/Ds-HXCYhHIo/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:rNRDc714W5I": {
+  "url": "https://i.ytimg.com/vi/rNRDc714W5I/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:vr5g1CBB9qI": {
+  "url": "https://i.ytimg.com/vi/vr5g1CBB9qI/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:kyTDRF9_3cQ": {
+  "url": "https://i.ytimg.com/vi/kyTDRF9_3cQ/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:ccYM0AHaj0E": {
+  "url": "https://i.ytimg.com/vi/ccYM0AHaj0E/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:jM6l12MasIc": {
+  "url": "https://i.ytimg.com/vi/jM6l12MasIc/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:qInl7UzuqPU": {
+  "url": "https://i.ytimg.com/vi/qInl7UzuqPU/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:F33_Mvj43YY": {
+  "url": "https://i.ytimg.com/vi/F33_Mvj43YY/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:af3Vq-C1ck8": {
+  "url": "https://i.ytimg.com/vi/af3Vq-C1ck8/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
  }
 }

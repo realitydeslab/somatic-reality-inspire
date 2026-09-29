@@ -1,0 +1,1382 @@
+{
+ "batch": "add-pedro-lopes",
+ "creators": [
+  {
+   "id": "patrick-baudisch",
+   "name": "Patrick Baudisch",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Human Computer Interaction, Hasso Plattner Institute, University of Potsdam",
+   "role_zh": "波茨坦大学哈索·普拉特纳研究所人机交互教授",
+   "based": "Potsdam, DE",
+   "based_zh": "波茨坦，德国",
+   "bio": "Computer scientist who leads the HPI lab that built personal fabrication and haptics systems, and where Pedro Lopes did a PhD on electrical muscle stimulation.",
+   "bio_zh": "计算机科学家，其在哈索·普拉特纳研究所的实验室研究个人制造与触觉系统；Pedro Lopes 在这里完成了关于肌肉电刺激的博士研究。",
+   "why": "The HPI lab is where using the wearer's own muscles as the actuator of an interface began.",
+   "why_zh": "正是在这个实验室里，开始了把佩戴者自己的肌肉当作界面执行器的研究。",
+   "disciplines": [
+    "hci",
+    "engineering"
+   ],
+   "links": {
+    "site": "https://hpi.de/baudisch/"
+   },
+   "connected_to": [
+    "pedro-lopes"
+   ],
+   "discovered_via": "pedro-lopes"
+  },
+  {
+   "id": "akifumi-takahashi",
+   "name": "Akifumi Takahashi",
+   "name_zh": "",
+   "kind": "person",
+   "role": "HCI and haptics researcher; postdoc at the Human Computer Integration Lab, University of Chicago (2022–24), then faculty at Tohoku University",
+   "role_zh": "人机交互与触觉研究者；2022–24 年在芝加哥大学人机融合实验室做博士后，之后任教于东北大学",
+   "based": "Sendai, JP",
+   "based_zh": "仙台，日本",
+   "bio": "Haptics researcher trained in Hiroyuki Kajimoto's lab who works on making electrical muscle stimulation precise enough for single fingers.",
+   "bio_zh": "触觉研究者，出身于梶本裕之的实验室，致力于让肌肉电刺激精确到能单独驱动一根手指。",
+   "why": "These electrode layouts decide how finely a computer can move a person's hand.",
+   "why_zh": "这些电极布局决定了计算机能以多精细的程度驱动人的手。",
+   "disciplines": [
+    "hci",
+    "engineering"
+   ],
+   "links": {
+    "site": "https://www.akiphvmi.com/"
+   },
+   "connected_to": [
+    "pedro-lopes",
+    "jas-brooks",
+    "yudai-tanaka"
+   ],
+   "discovered_via": "pedro-lopes"
+  },
+  {
+   "id": "yujie-tao",
+   "name": "Yujie Tao",
+   "name_zh": "",
+   "kind": "person",
+   "role": "PhD researcher, Stanford University; formerly pre-doctoral researcher at the Human Computer Integration Lab, University of Chicago",
+   "role_zh": "斯坦福大学博士研究者；曾在芝加哥大学人机融合实验室担任博士前研究员",
+   "based": "Stanford, US",
+   "based_zh": "斯坦福，美国",
+   "bio": "HCI researcher working on wearable haptics that change how real objects feel while leaving the skin free to touch them.",
+   "bio_zh": "人机交互研究者，研究可穿戴触觉设备：改变真实物体的触感，同时让皮肤仍能直接触摸它们。",
+   "why": "These devices change what the fingertip feels without covering it.",
+   "why_zh": "这些设备在不遮住指尖的情况下改变指尖的感受。",
+   "disciplines": [
+    "hci",
+    "engineering"
+   ],
+   "links": {},
+   "connected_to": [
+    "pedro-lopes",
+    "shan-yuan-teng",
+    "yiran-zhao"
+   ],
+   "discovered_via": "pedro-lopes"
+  },
+  {
+   "id": "shan-yuan-teng",
+   "name": "Shan-Yuan Teng",
+   "name_zh": "鄧善元",
+   "kind": "person",
+   "role": "Assistant Professor, Computer Science & Information Engineering, National Taiwan University; leads the Dexterous Interaction Lab",
+   "role_zh": "台湾大学资讯工程学系助理教授，Dexterous Interaction Lab 负责人",
+   "based": "Taipei, TW",
+   "based_zh": "台北",
+   "bio": "Haptics researcher who did a PhD in Pedro Lopes's lab (2019–2025) on devices that render touch and force while keeping the hands dexterous.",
+   "bio_zh": "触觉研究者，2019–2025 年在 Pedro Lopes 实验室攻读博士，研究在保持双手灵巧的同时呈现触感与力的设备。",
+   "why": "Their work asks how touch can be added to the hand without taking away its own sense of touch.",
+   "why_zh": "这些研究追问：如何在不剥夺手本身触觉的前提下为手增加触感。",
+   "disciplines": [
+    "hci",
+    "engineering"
+   ],
+   "links": {
+    "site": "https://tengshanyuan.info/"
+   },
+   "connected_to": [
+    "pedro-lopes",
+    "yujie-tao",
+    "yun-ho"
+   ],
+   "discovered_via": "pedro-lopes"
+  },
+  {
+   "id": "yiran-zhao",
+   "name": "Yiran Zhao",
+   "name_zh": "",
+   "kind": "person",
+   "role": "PhD researcher, Cornell University (People-Aware Computing Lab)",
+   "role_zh": "康奈尔大学博士研究者（People-Aware Computing Lab）",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "bio": "Researcher in mobile health who studies wearables that act on the body in the moment, such as affective touch against anxiety.",
+   "bio_zh": "移动健康研究者，研究在当下作用于身体的可穿戴设备，例如用情感触摸缓解焦虑。",
+   "why": "Their work tests whether a machine's stroke on the skin can calm the body-mind right away.",
+   "why_zh": "这项研究检验机器在皮肤上的抚触能否立刻让身心平静下来。",
+   "disciplines": [
+    "hci",
+    "health"
+   ],
+   "links": {},
+   "connected_to": [
+    "pedro-lopes",
+    "yujie-tao"
+   ],
+   "discovered_via": "pedro-lopes"
+  },
+  {
+   "id": "john-veillette",
+   "name": "John P. Veillette",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Cognitive neuroscientist, University of Chicago (Department of Psychology)",
+   "role_zh": "认知神经科学家，芝加哥大学心理学系",
+   "based": "Chicago, US",
+   "based_zh": "芝加哥，美国",
+   "bio": "Neuroscientist who uses EEG and electrical muscle stimulation to study how the brain decides whether a movement was one's own.",
+   "bio_zh": "神经科学家，用脑电与肌肉电刺激研究大脑如何判断一个动作是否出于自己。",
+   "why": "These studies measure the sense of agency when a computer moves your muscles.",
+   "why_zh": "这些研究测量当计算机驱动你的肌肉时，你的能动感（sense of agency）如何产生。",
+   "disciplines": [
+    "health"
+   ],
+   "links": {},
+   "connected_to": [
+    "pedro-lopes"
+   ],
+   "discovered_via": "pedro-lopes"
+  },
+  {
+   "id": "kensuke-katori",
+   "name": "Kensuke Katori",
+   "name_zh": "",
+   "kind": "person",
+   "role": "HCI researcher, Human Computer Integration Lab, University of Chicago",
+   "role_zh": "人机交互研究者，芝加哥大学人机融合实验室",
+   "based": "Chicago, US",
+   "based_zh": "芝加哥，美国",
+   "bio": "Researcher who uses galvanic vestibular stimulation to change how people sense their body's position in virtual reality.",
+   "bio_zh": "研究者，用前庭电刺激改变人们在虚拟现实中对自身身体位置的感知。",
+   "why": "This work shows that balance and hand position are sensed together.",
+   "why_zh": "这项研究显示，平衡感与手的位置感是一起被感知的。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "pedro-lopes",
+    "yudai-tanaka"
+   ],
+   "discovered_via": "pedro-lopes"
+  },
+  {
+   "id": "antonin-cheymol",
+   "name": "Antonin Cheymol",
+   "name_zh": "",
+   "kind": "person",
+   "role": "VR researcher, Inria / Univ Rennes (IRISA), visiting the Human Computer Integration Lab, University of Chicago",
+   "role_zh": "虚拟现实研究者，Inria／雷恩大学（IRISA），曾访问芝加哥大学人机融合实验室",
+   "based": "Rennes, FR",
+   "based_zh": "雷恩，法国",
+   "bio": "Researcher who studies how virtual reality reshapes body perception, including what lingers after the headset comes off.",
+   "bio_zh": "研究者，研究虚拟现实如何重塑身体知觉，包括摘下头显后还残留什么。",
+   "why": "This work looks at the body returning from VR rather than entering it.",
+   "why_zh": "这项研究关注从 VR 回来的身体，而不是进入 VR 的身体。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "pedro-lopes"
+   ],
+   "discovered_via": "pedro-lopes"
+  },
+  {
+   "id": "yun-ho",
+   "name": "Yun Ho",
+   "name_zh": "",
+   "kind": "person",
+   "role": "PhD student, Human Computer Integration Lab, University of Chicago",
+   "role_zh": "芝加哥大学人机融合实验室博士生",
+   "based": "Chicago, US",
+   "based_zh": "芝加哥，美国",
+   "bio": "HCI researcher and artist who builds electrical muscle stimulation systems that assist the body, including AI-generated muscle guidance.",
+   "bio_zh": "人机交互研究者与艺术家，制作辅助身体的肌肉电刺激系统，包括由 AI 生成的肌肉引导。",
+   "why": "Their work asks how an AI can help a body move without taking the movement away from it.",
+   "why_zh": "这项研究追问：AI 如何帮助身体移动，而不把动作从身体那里夺走。",
+   "disciplines": [
+    "hci",
+    "art"
+   ],
+   "links": {
+    "site": "https://yunho7464.github.io/"
+   },
+   "connected_to": [
+    "pedro-lopes",
+    "romain-nith",
+    "shan-yuan-teng"
+   ],
+   "discovered_via": "pedro-lopes"
+  }
+ ],
+ "works": [
+  {
+   "id": "pedro-lopes--muscle-propelled-force-feedback",
+   "creator_ids": [
+    "pedro-lopes",
+    "patrick-baudisch"
+   ],
+   "title": "Muscle-Propelled Force Feedback",
+   "year": 2013,
+   "field": "augmented",
+   "sub": "body-integration",
+   "modalities": [
+    "electrical",
+    "movement"
+   ],
+   "lenses": [
+    "touching-back",
+    "extended-body"
+   ],
+   "kind": "prototype",
+   "description": "A phone-sized device with no motors: it sends current through four electrodes on the forearm so the user's own muscles tilt the phone, and the user feels force feedback while resisting with the other arm.",
+   "description_zh": "一个没有电机、手机大小的设备：它通过前臂上的四个电极通电，让用户自己的肌肉倾斜手机；用户用另一只手臂抵抗时，就感到了力反馈。",
+   "idea_en": "The first step of Lopes's line of work: the actuator is the wearer's own muscle, so the force you feel is produced by your body against itself.",
+   "idea_zh": "这是 Lopes 研究脉络的起点：执行器就是佩戴者自己的肌肉，你感到的力是身体与自身相抗而产生的。",
+   "method": "Electrical muscle stimulation of the forearm driven from the back of a mobile phone; a game tilts the device involuntarily and the user counters with the other hand.",
+   "method_zh": "由手机背面驱动的前臂肌肉电刺激；游戏让设备不自主地倾斜，用户用另一只手抵消。",
+   "keywords": [
+    "electrical muscle stimulation",
+    "EMS",
+    "force feedback",
+    "mobile",
+    "Hasso Plattner Institute",
+    "CHI 2013"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=swmGaGT8lvs"
+   },
+   "images": [
+    "https://lab.plopes.org/project-thumbnails/CHI13-MPFF.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2470654.2481355",
+    "doi": "10.1145/2470654.2481355",
+    "arxiv": "",
+    "venue": "CHI 2013",
+    "title": "Muscle-propelled force feedback: bringing force feedback to mobile devices"
+   },
+   "source_url": "https://lab.plopes.org",
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": [
+    "IEEE World Haptics 2013, People's Choice Best Demo nomination"
+   ]
+  },
+  {
+   "id": "pedro-lopes--ems-walls-vr",
+   "creator_ids": [
+    "pedro-lopes",
+    "patrick-baudisch"
+   ],
+   "title": "Haptics for Walls & Heavy Objects in VR via EMS",
+   "year": 2017,
+   "field": "augmented",
+   "sub": "body-integration",
+   "also": [
+    "machines-xr"
+   ],
+   "modalities": [
+    "electrical",
+    "movement",
+    "touch"
+   ],
+   "lenses": [
+    "touching-back",
+    "extended-body"
+   ],
+   "kind": "prototype",
+   "description": "When a VR user pushes against a virtual wall or lifts a heavy virtual cube, electrodes on the arm contract the opposing muscles, so the hand stops at the wall and the cube feels heavy.",
+   "description_zh": "当 VR 用户推一堵虚拟墙或举起一个沉重的虚拟方块时，手臂上的电极会收缩对抗的肌肉，于是手停在墙前，方块也显得沉重。",
+   "idea_en": "Weight and solidity can be felt from inside, as one's own muscles pulling back, without any object or exoskeleton in the room.",
+   "idea_zh": "重量与坚实感可以从内部被感受到：它们是自己的肌肉在往回拉，房间里并没有任何物体或外骨骼。",
+   "method": "Wearable EMS on arm and shoulder muscles triggered by hand tracking in VR; stronger pushes produce stronger counterforce; studied designs for walls, buttons and heavy objects.",
+   "method_zh": "由 VR 手部追踪触发的肩部与手臂肌肉电刺激；推得越用力，反作用力越强；研究了墙、按钮与重物的设计。",
+   "keywords": [
+    "EMS",
+    "virtual reality",
+    "force feedback",
+    "walls",
+    "weight",
+    "Hasso Plattner Institute",
+    "CHI 2017"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=OcSmCamMKfs"
+   },
+   "images": [
+    "https://lab.plopes.org/project-thumbnails/CHI17-EMS-Walls.jpeg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3025453.3025600",
+    "doi": "10.1145/3025453.3025600",
+    "arxiv": "",
+    "venue": "CHI 2017",
+    "title": "Providing Haptics to Walls & Heavy Objects in Virtual Reality by Means of Electrical Muscle Stimulation"
+   },
+   "source_url": "https://hpi.de/baudisch/projects/mobile-force-feedback.html",
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": [
+    "SIGGRAPH 2017 Studio"
+   ]
+  },
+  {
+   "id": "pedro-lopes--ad-infinitum",
+   "creator_ids": [
+    "pedro-lopes",
+    "patrick-baudisch"
+   ],
+   "title": "Ad Infinitum: A Parasite that Lives off Human Energy",
+   "year": 2016,
+   "field": "augmented",
+   "sub": "cyborg-art",
+   "modalities": [
+    "electrical",
+    "movement"
+   ],
+   "lenses": [
+    "body-politics",
+    "estrangement",
+    "more-than-human"
+   ],
+   "kind": "artwork",
+   "description": "An installation that cuffs a visitor's arm and uses electrical muscle stimulation to make them turn a crank that feeds the machine; the only way out is to persuade another visitor to take your place.",
+   "description_zh": "一件装置：它铐住观众的手臂，用肌肉电刺激让观众转动曲柄为机器供能；唯一的脱身办法是说服另一位观众来接替你。",
+   "idea_en": "It reverses the user and the used: the involuntary movement in your own arm is the moment you feel that a machine, not you, is acting through your body.",
+   "idea_zh": "它把「使用者」与「被使用者」倒转过来：自己手臂里不自主的动作，正是你感到是机器而非自己在借你的身体行动的那一刻。",
+   "method": "Stand-alone installation with EMS units, electrodes, cuffs, energy-harvesting dynamos, pressure sensors and custom electronics; made with Robert Kovacs, Alexandra Ion and David Lindlbauer.",
+   "method_zh": "独立装置，包含肌肉电刺激单元、电极、手铐、能量收集发电机、压力传感器与定制电路；与 Robert Kovacs、Alexandra Ion、David Lindlbauer 合作完成。",
+   "keywords": [
+    "Ad Infinitum",
+    "parasite",
+    "EMS",
+    "installation",
+    "Robert Kovacs",
+    "Alexandra Ion",
+    "David Lindlbauer",
+    "Ars Electronica"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=UsL48gkh3GI"
+   },
+   "images": [
+    "https://a-parasite.org/wp-content/uploads/2017/01/Ad-Infinitum-a-human-getting-trapped-in-the-cuffs-Arthur-Silber-photographer.jpg",
+    "https://a-parasite.org/wp-content/uploads/2017/01/MG_9829.jpg",
+    "https://a-parasite.org/wp-content/uploads/2017/02/ars-electronica-1-9.jpg"
+   ],
+   "source_url": "https://a-parasite.org/",
+   "code_url": "",
+   "collections": [],
+   "exhibited": [
+    "Ars Electronica 2017",
+    "Science Gallery Dublin, Humans Need Not Apply (2017)",
+    "World Economic Forum Center for the Fourth Industrial Revolution, San Francisco (2017–18)",
+    "Copernicus Science Centre, Przemiany Festival (2018)",
+    "VIDA 16 Incentive Award"
+   ]
+  },
+  {
+   "id": "jas-brooks--trigeminal-temperature-illusions",
+   "creator_ids": [
+    "jas-brooks",
+    "pedro-lopes"
+   ],
+   "title": "Trigeminal-based Temperature Illusions",
+   "year": 2020,
+   "field": "augmented",
+   "sub": "new-senses",
+   "modalities": [
+    "heat",
+    "new-senses"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "estrangement"
+   ],
+   "kind": "prototype",
+   "description": "A small wearable puffs scents such as mint or capsaicin-like odors into the nose, and breathing them in makes the user feel warmer or cooler without any heating element.",
+   "description_zh": "一个小型可穿戴设备把薄荷或类似辣椒素的气味喷入鼻腔，吸入后用户会感到更暖或更凉，而设备里并没有任何加热元件。",
+   "idea_en": "Smell and temperature are not separate channels: the same nerve feels both, so a scent can change how warm the whole body feels.",
+   "idea_zh": "嗅觉与温度并不是分开的通道：同一条神经同时感受两者，因此一种气味就能改变整个身体感到的冷暖。",
+   "method": "Custom 'thermal' scents that stimulate the trigeminal nerve, released by a nose-mounted device; user studies in VR compared perceived warmth and coolness.",
+   "method_zh": "定制的能刺激三叉神经的「温度」气味，由鼻部设备释放；在 VR 中的用户研究比较了感到的冷与暖。",
+   "keywords": [
+    "trigeminal nerve",
+    "temperature illusion",
+    "smell",
+    "olfaction",
+    "VR",
+    "CHI 2020"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=pH68GNkb_fA"
+   },
+   "images": [
+    "https://lab.plopes.org/project-thumbnails/CHI20-trigeminal.jpeg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3313831.3376806",
+    "doi": "10.1145/3313831.3376806",
+    "arxiv": "",
+    "venue": "CHI 2020",
+    "title": "Trigeminal-based Temperature Illusions"
+   },
+   "source_url": "https://lab.plopes.org",
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": [
+    "CHI 2020 Best Paper Award"
+   ]
+  },
+  {
+   "id": "akifumi-takahashi--back-of-hand-ems",
+   "creator_ids": [
+    "akifumi-takahashi",
+    "jas-brooks",
+    "pedro-lopes"
+   ],
+   "title": "Back of the Hand EMS",
+   "year": 2021,
+   "field": "augmented",
+   "sub": "body-integration",
+   "modalities": [
+    "electrical",
+    "movement"
+   ],
+   "lenses": [
+    "extended-body",
+    "touching-back"
+   ],
+   "kind": "prototype",
+   "description": "A new electrode layout on the back of the hand stimulates the small muscles of the palm, letting a computer flex single fingers at the knuckle to play piano notes, drum rolls or guitar chords.",
+   "description_zh": "一种位于手背的新电极布局，刺激手掌的小肌肉，让计算机能在指根关节处单独弯曲手指，弹出钢琴音符、打出鼓点或按出吉他和弦。",
+   "idea_en": "The more finely a computer can move your fingers, the more pressing the question of whose skill a played note belongs to.",
+   "idea_zh": "计算机能越精细地驱动你的手指，「弹出的音符属于谁的技艺」这个问题就越紧迫。",
+   "method": "EMS of the interossei and lumbrical muscles via electrodes on the dorsal hand instead of the forearm; compared dexterity at the metacarpophalangeal joints with standard layouts.",
+   "method_zh": "通过手背而非前臂上的电极刺激骨间肌与蚓状肌；在掌指关节处与常规布局比较灵巧度。",
+   "keywords": [
+    "EMS",
+    "dexterity",
+    "fingers",
+    "piano",
+    "Hiroyuki Kajimoto",
+    "CHI 2021"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=C6rj64TgsDI"
+   },
+   "images": [
+    "https://lab.plopes.org/project-thumbnails/CHI21-BackHandEMS.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3411764.3445761",
+    "doi": "10.1145/3411764.3445761",
+    "arxiv": "",
+    "venue": "CHI 2021",
+    "title": "Increasing Electrical Muscle Stimulation's Dexterity by means of Back of the Hand Actuation"
+   },
+   "source_url": "https://lab.plopes.org",
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": [
+    "CHI 2021 Best Paper Award",
+    "CHI 2021 Best Demo (People's Choice)"
+   ]
+  },
+  {
+   "id": "yujie-tao--altering-perceived-softness",
+   "creator_ids": [
+    "yujie-tao",
+    "shan-yuan-teng",
+    "pedro-lopes"
+   ],
+   "title": "Altering Perceived Softness of Real Rigid Objects",
+   "year": 2021,
+   "field": "augmented",
+   "sub": "body-integration",
+   "also": [
+    "machines-xr"
+   ],
+   "modalities": [
+    "touch"
+   ],
+   "lenses": [
+    "touching-back",
+    "estrangement"
+   ],
+   "kind": "prototype",
+   "description": "A ring-like wearable squeezes the sides of the fingertip to limit how the fingerpad spreads, so a hard 3D-printed button or VR prop feels soft, while the middle of the fingerpad still touches the real surface.",
+   "description_zh": "一个指环状的可穿戴设备挤压指尖两侧，限制指腹的形变，使坚硬的 3D 打印按钮或 VR 道具摸起来变软，而指腹中间仍直接接触真实表面。",
+   "idea_en": "Softness is not a property of the object alone: it is made in how the fingertip deforms, so changing the finger changes the world it touches.",
+   "idea_zh": "柔软并不只属于物体本身：它产生于指尖如何形变，所以改变手指就改变了它所触摸的世界。",
+   "method": "Wearable actuator that restricts lateral fingerpad deformation while leaving the pad free; psychophysics study of perceived softness plus VR and physical-prop applications.",
+   "method_zh": "限制指腹横向形变、同时让指腹保持裸露的可穿戴执行器；心理物理学研究感知柔软度，并展示 VR 与实体道具应用。",
+   "keywords": [
+    "softness illusion",
+    "fingerpad",
+    "haptics",
+    "mixed reality",
+    "UIST 2021"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=I2BBV0JZ0ww"
+   },
+   "images": [
+    "https://lab.plopes.org/project-thumbnails/UIST21-SoftWearableIllusion.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3472749.3474800",
+    "doi": "10.1145/3472749.3474800",
+    "arxiv": "",
+    "venue": "UIST 2021",
+    "title": "Altering Perceived Softness of Real Rigid Objects by Restricting Fingerpad Deformation"
+   },
+   "source_url": "https://lab.plopes.org",
+   "code_url": "https://github.com/humancomputerintegration/alter-softness",
+   "collections": [],
+   "exhibited": [
+    "UIST 2021 Best Paper Award",
+    "UIST 2021 Best Demo (Jury's Choice)"
+   ]
+  },
+  {
+   "id": "yudai-tanaka--electrical-head-actuation",
+   "creator_ids": [
+    "yudai-tanaka",
+    "jun-nishida",
+    "pedro-lopes"
+   ],
+   "title": "Electrical Head Actuation",
+   "year": 2022,
+   "field": "augmented",
+   "sub": "body-integration",
+   "modalities": [
+    "electrical",
+    "movement",
+    "posture-balance"
+   ],
+   "lenses": [
+    "extended-body",
+    "intercorporeality"
+   ],
+   "kind": "prototype",
+   "description": "Electrical muscle stimulation of the neck turns the wearer's head left, right, up or down, so a system can point your gaze at an object or make you nod in sync with another person.",
+   "description_zh": "对颈部肌肉的电刺激能让佩戴者的头向左、向右、向上或向下转动，于是系统可以把你的视线引向某个物体，或让你与另一个人同步点头。",
+   "idea_en": "Where you look is usually the most voluntary act there is; when a computer turns your head, attention itself becomes shared between you and the machine.",
+   "idea_zh": "看向哪里通常是最自主的行为；当计算机转动你的头时，注意力本身就在你与机器之间被共享了。",
+   "method": "EMS on the neck muscles; characterised which muscles move the head robustly in yaw and pitch, measured accuracy toward targets and trajectories, then built AR guidance and two-person head-synchrony applications.",
+   "method_zh": "对颈部肌肉施加电刺激；先找出哪些肌肉能稳定地驱动头部左右与上下转动，测量朝向目标与轨迹的精度，再做 AR 引导与双人头部同步的应用。",
+   "keywords": [
+    "EMS",
+    "head orientation",
+    "neck muscles",
+    "attention",
+    "synchrony",
+    "CHI 2022"
+   ],
+   "video": {
+    "url": "https://youtu.be/vqpH9gNGpts"
+   },
+   "images": [
+    "https://lab.plopes.org/project-thumbnails/CHI22-EHA.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3491102.3501910",
+    "doi": "10.1145/3491102.3501910",
+    "arxiv": "",
+    "venue": "CHI 2022",
+    "title": "Electrical Head Actuation: Enabling Interactive Systems to Directly Manipulate Head Orientation"
+   },
+   "source_url": "https://lab.plopes.org",
+   "code_url": "https://github.com/humancomputerintegration/electrical-head-actuation",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": [
+    "CHI 2022 Best Demo (People's Choice)",
+    "SIGGRAPH 2022 Emerging Technologies"
+   ]
+  },
+  {
+   "id": "jun-nishida--digitusync",
+   "creator_ids": [
+    "jun-nishida",
+    "yudai-tanaka",
+    "romain-nith",
+    "pedro-lopes"
+   ],
+   "title": "DigituSync",
+   "year": 2022,
+   "field": "social",
+   "sub": "synchrony",
+   "also": [
+    "augmented"
+   ],
+   "modalities": [
+    "movement",
+    "touch"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "extended-body"
+   ],
+   "kind": "prototype",
+   "description": "A passive exoskeleton glove mechanically links two people's hands, so the teacher's finger movements and forces pass directly into the learner's fingers, and the learner's hand pushes back.",
+   "description_zh": "一只被动外骨骼手套把两个人的手机械地连在一起，教师手指的动作与力量直接传到学习者的手指上，学习者的手也会回推。",
+   "idea_en": "Two hands become one coupled body: because the link is mechanical and two-way, each person feels the other's intention and resistance with no delay.",
+   "idea_zh": "两只手成为一个耦合的身体：因为连接是机械的、双向的，每个人都能毫无延迟地感到对方的意图与抵抗。",
+   "method": "Four-bar linkages per finger transmit motion and force between two gloves; a variable-length linkage adjusts how much of the teacher's force reaches the learner; study on piano-like finger sequences.",
+   "method_zh": "每根手指用四连杆在两只手套之间传递运动与力；可变长度连杆调节教师的力有多少传给学习者；以类似钢琴的手指序列进行研究。",
+   "keywords": [
+    "passive exoskeleton",
+    "shared hands",
+    "motor learning",
+    "haptics",
+    "UIST 2022"
+   ],
+   "video": {
+    "url": "https://youtu.be/ljytGz4nnho"
+   },
+   "images": [
+    "https://lab.plopes.org/project-thumbnails/UIST22-DigituSync.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3526113.3545630",
+    "doi": "10.1145/3526113.3545630",
+    "arxiv": "",
+    "venue": "UIST 2022",
+    "title": "DigituSync: A Dual-User Passive Exoskeleton Glove That Adaptively Shares Hand Gestures"
+   },
+   "source_url": "https://lab.plopes.org",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "yudai-tanaka--full-hand-electro-tactile",
+   "creator_ids": [
+    "yudai-tanaka",
+    "pedro-lopes"
+   ],
+   "title": "Full-hand Electro-Tactile Feedback without Obstructing the Palm",
+   "year": 2023,
+   "field": "augmented",
+   "sub": "body-integration",
+   "also": [
+    "machines-xr"
+   ],
+   "modalities": [
+    "electrical",
+    "touch"
+   ],
+   "lenses": [
+    "touching-back",
+    "extended-body"
+   ],
+   "kind": "prototype",
+   "description": "Electrodes placed only on the back of the hand and sides of the fingers stimulate nerves so that touches are felt at 11 spots on the palm and fingertips, while the palm stays bare to hold real tools and props.",
+   "description_zh": "只放在手背与手指侧面的电极刺激神经，使触感出现在手掌与指尖的 11 个位置，而手掌保持裸露，可以握住真实的工具和道具。",
+   "idea_en": "A touch can be felt where nothing touches: the body places sensation along the nerve's map, which lets virtual touch coexist with real touch on the same skin.",
+   "idea_zh": "触感可以出现在没有被触碰的地方：身体按照神经的地图来定位感觉，这让虚拟触觉能与真实触觉在同一片皮肤上共存。",
+   "method": "Electro-tactile stimulation of the nerves that serve the palm, delivered from the dorsal side; mapped perceived locations and tested dexterity with VR props and AR tools.",
+   "method_zh": "从手背一侧对支配手掌的神经施加电触觉刺激；绘制感觉位置，并用 VR 道具与 AR 工具测试灵巧度。",
+   "keywords": [
+    "electro-tactile",
+    "nerve stimulation",
+    "palm",
+    "mixed reality",
+    "Alan Shen",
+    "Andy Kong",
+    "CHI 2023"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=q6G8Htzq_gQ"
+   },
+   "images": [
+    "https://lab.plopes.org/project-thumbnails/CHI23-BackOfHandElectroTactile.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3544548.3581382",
+    "doi": "10.1145/3544548.3581382",
+    "arxiv": "",
+    "venue": "CHI 2023",
+    "title": "Full-hand Electro-Tactile Feedback without Obstructing Palmar Side of Hand"
+   },
+   "source_url": "https://lab.plopes.org",
+   "code_url": "https://github.com/humancomputerintegration/BOH-Electro-Tactile",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": [
+    "CHI 2023 Best Paper Award"
+   ]
+  },
+  {
+   "id": "yiran-zhao--affective-touch-intervention",
+   "creator_ids": [
+    "yiran-zhao",
+    "yujie-tao",
+    "pedro-lopes"
+   ],
+   "title": "Affective Touch as Immediate and Passive Wearable Intervention",
+   "year": 2022,
+   "field": "care",
+   "sub": "stress-mental-health",
+   "also": [
+    "social"
+   ],
+   "modalities": [
+    "touch",
+    "skin-arousal"
+   ],
+   "lenses": [
+    "care-healing",
+    "touching-back"
+   ],
+   "kind": "prototype",
+   "description": "A wearable on the forearm renders a slow, soft stroking sensation during a stressful task; people who received it reported lower anxiety in the moment than a control group.",
+   "description_zh": "一个戴在前臂上的设备在紧张任务中给出缓慢、柔和的抚触感；与对照组相比，接受抚触的人当下报告的焦虑更低。",
+   "idea_en": "Calming need not pass through thinking or instruction: a stroke on the skin reaches the anxious body-mind directly.",
+   "idea_zh": "平静不一定要经过思考或指令：皮肤上的一次抚触就能直接抵达焦虑的身心。",
+   "method": "Wearable forearm device rendering slow stroking on hairy skin (the touch neuroscience links to innate pleasantness); between-group study with 24 participants under high-stress tasks, measuring state anxiety and physiological stress, plus interviews; led by Tanzeem Choudhury's group at Cornell.",
+   "method_zh": "在前臂有毛发的皮肤上呈现缓慢抚触（神经科学认为这种触摸天然令人愉悦）的可穿戴设备；24 名参与者在高压任务中做组间实验，测量状态焦虑与生理压力并进行访谈；由康奈尔大学 Tanzeem Choudhury 团队主导。",
+   "keywords": [
+    "affective touch",
+    "anxiety",
+    "stroking",
+    "wearable intervention",
+    "Tanzeem Choudhury",
+    "IMWUT",
+    "UbiComp 2023"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=bfhqXAXfaHc"
+   },
+   "images": [
+    "https://lab.plopes.org/project-thumbnails/Ubicomp23-HapticIntervention.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3569484",
+    "doi": "10.1145/3569484",
+    "arxiv": "",
+    "venue": "IMWUT 2022 (UbiComp 2023)",
+    "title": "Affective Touch as Immediate and Passive Wearable Intervention"
+   },
+   "source_url": "https://lab.plopes.org",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "john-veillette--agency-eeg-ems",
+   "creator_ids": [
+    "john-veillette",
+    "pedro-lopes"
+   ],
+   "title": "Temporal Dynamics of Brain Activity Predicting Sense of Agency over Muscle Movements",
+   "year": 2023,
+   "field": "augmented",
+   "sub": "body-integration",
+   "modalities": [
+    "brain",
+    "electrical",
+    "movement"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "extended-body"
+   ],
+   "kind": "paper",
+   "description": "EEG recorded while muscle stimulation moved participants' muscles shows two neural processes behind feeling that a movement was one's own: an early sensorimotor response to the stimulation and a later, sustained signature of agency.",
+   "description_zh": "在肌肉电刺激驱动参与者的肌肉时记录脑电，发现「觉得动作是自己的」背后有两个神经过程：对刺激的早期反应，以及稍后持续存在的能动感特征。",
+   "idea_en": "Agency is not fixed by who sent the motor command; the brain keeps deciding it over time, which is why a computer-moved hand can still feel like mine.",
+   "idea_zh": "能动感并不取决于谁发出了运动指令；大脑会在一段时间里持续判定它，所以被计算机移动的手仍可能感觉是「我的」。",
+   "method": "Human-in-the-loop Bayesian optimisation tuned EMS timing so that actuated movements were reliably felt as self-caused; trial-by-trial agency reports were predicted from time-resolved EEG decoding.",
+   "method_zh": "用人在回路的贝叶斯优化调整肌肉电刺激的时机，使被驱动的动作稳定地被感到是自己发起的；再用时间分辨的脑电解码预测逐次报告的能动感。",
+   "keywords": [
+    "sense of agency",
+    "EEG",
+    "EMS",
+    "neuroscience",
+    "Howard Nusbaum",
+    "Journal of Neuroscience"
+   ],
+   "images": [
+    "https://lab.plopes.org/project-thumbnails/JNeuro23-agencyEEG.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1523/jneurosci.1116-23.2023",
+    "doi": "10.1523/jneurosci.1116-23.2023",
+    "arxiv": "",
+    "venue": "Journal of Neuroscience 2023",
+    "title": "Temporal Dynamics of Brain Activity Predicting Sense of Agency over Muscle Movements"
+   },
+   "source_url": "https://lab.plopes.org/projects/agency.html",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "jas-brooks--taste-retargeting",
+   "creator_ids": [
+    "jas-brooks",
+    "pedro-lopes"
+   ],
+   "title": "Taste Retargeting via Chemical Taste Modulators",
+   "year": 2023,
+   "field": "augmented",
+   "sub": "new-senses",
+   "modalities": [
+    "new-senses"
+   ],
+   "lenses": [
+    "estrangement",
+    "body-mind-unity"
+   ],
+   "kind": "prototype",
+   "description": "Just before eating, the user takes a small dose of a chemical taste modulator that temporarily changes the tongue's receptors, so a real food can be made less salty, umami, sweet or bitter, or taste sweet instead of sour.",
+   "description_zh": "在进食前，用户先摄入少量化学味觉调节剂，暂时改变舌头上的受体，使真实食物尝起来不那么咸、鲜、甜或苦，或者由酸变甜。",
+   "idea_en": "Taste lives in the tongue as much as in the food; by changing the body's receptors, an interface can change what the world tastes like.",
+   "idea_zh": "味道既在食物里，也在舌头上；改变身体的受体，界面就能改变世界的味道。",
+   "method": "First study identified six accessible taste modulators that suppress salty, umami, sweet or bitter, or turn sour into sweet; second study used them in VR to reduce the mismatch between one food prop and different virtual foods.",
+   "method_zh": "第一项研究找出六种易于获得的味觉调节剂，可抑制咸、鲜、甜或苦，或把酸变成甜；第二项研究在 VR 中用它们减少同一个食物道具与不同虚拟食物之间的味道错位。",
+   "keywords": [
+    "taste",
+    "gustation",
+    "taste modulators",
+    "virtual reality",
+    "Noor Amin",
+    "UIST 2023"
+   ],
+   "video": {
+    "url": "https://youtu.be/_9Wefip1K5s"
+   },
+   "images": [
+    "https://lab.plopes.org/project-thumbnails/UIST23-TasteRetargeting.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3586183.3606818",
+    "doi": "10.1145/3586183.3606818",
+    "arxiv": "",
+    "venue": "UIST 2023",
+    "title": "Taste Retargeting via Chemical Taste Modulators"
+   },
+   "source_url": "https://lab.plopes.org",
+   "code_url": "https://github.com/humancomputerintegration/taste-retargeting",
+   "collections": [],
+   "exhibited": [
+    "UIST 2023 Best Demo Honorable Mention (Jury's Choice)"
+   ]
+  },
+  {
+   "id": "jas-brooks--augmented-breathing",
+   "creator_ids": [
+    "jas-brooks",
+    "pedro-lopes"
+   ],
+   "title": "Augmented Breathing via Thermal Feedback in the Nose",
+   "year": 2024,
+   "field": "augmented",
+   "sub": "new-senses",
+   "also": [
+    "somaesthetic"
+   ],
+   "modalities": [
+    "breath",
+    "heat"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "touching-back"
+   ],
+   "kind": "prototype",
+   "description": "A small device cools or warms the inside of the nose in time with each inhale, making users feel they are breathing in more or less air than they really are.",
+   "description_zh": "一个小型设备随每次吸气冷却或加热鼻腔内部，让用户觉得自己吸入的空气比实际更多或更少。",
+   "idea_en": "We feel our breath mostly as coolness in the nose, so breath, usually only read by devices, can now be written back into felt experience, for example in meditation or under a mask.",
+   "idea_zh": "我们主要通过鼻腔里的凉意感到呼吸；因此呼吸不再只是被设备读取的信号，也能被「写回」到亲身感受中，例如在冥想或戴口罩时。",
+   "method": "Psychophysical study of in-nose temperature stimulation (about 90% of trials were described as a change in airflow, only about 8% as temperature), then a compact Peltier device worn across the septum, synced to inhalation; applications in VR, relaxation and mask wearing.",
+   "method_zh": "先做鼻内温度刺激的心理物理研究（约 90% 的试次被描述为气流变化，只有约 8% 被描述为温度变化），再做一个跨在鼻中隔上、与吸气同步的小型帕尔帖设备；展示 VR、放松练习与戴口罩时的应用。",
+   "keywords": [
+    "breathing",
+    "nasal airflow",
+    "thermal feedback",
+    "illusion",
+    "Alex Mazursky",
+    "UIST 2024"
+   ],
+   "video": {
+    "url": "https://youtu.be/pNdZel2SG10"
+   },
+   "images": [
+    "https://lab.plopes.org/project-thumbnails/UIST24-AugmentedBreathing.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3654777.3676438",
+    "doi": "10.1145/3654777.3676438",
+    "arxiv": "",
+    "venue": "UIST 2024",
+    "title": "Augmented Breathing via Thermal Feedback in the Nose"
+   },
+   "source_url": "https://lab.plopes.org",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "shan-yuan-teng--seeing-with-the-hands",
+   "creator_ids": [
+    "shan-yuan-teng",
+    "pedro-lopes"
+   ],
+   "title": "Seeing with the Hands",
+   "year": 2025,
+   "field": "augmented",
+   "sub": "new-senses",
+   "modalities": [
+    "new-senses",
+    "touch",
+    "electrical"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-mind-unity"
+   ],
+   "kind": "prototype",
+   "description": "A wrist camera looks from the hand's point of view and an electro-tactile display on the back of the hand turns what it sees into touch, so blind, low-vision and sighted users can feel objects while reaching toward them.",
+   "description_zh": "手腕上的摄像头从手的视角观看，手背上的电触觉显示把看到的内容转换为触感，让盲人、低视力与明眼用户在伸手时就能「摸到」物体。",
+   "idea_en": "Moving the 'eye' from the head to the hand turns sensory substitution into part of the reaching gesture: perception and action become one movement.",
+   "idea_zh": "把「眼睛」从头部移到手上，使感官替代成为伸手动作的一部分：感知与行动合为一个动作。",
+   "method": "Wrist-mounted camera feeding a back-of-hand electro-tactile array; study with sighted and blind or low-vision participants on locating and grasping objects.",
+   "method_zh": "腕戴摄像头驱动手背电触觉阵列；与明眼及盲人／低视力参与者一起研究物体定位与抓取。",
+   "keywords": [
+    "sensory substitution",
+    "electro-tactile",
+    "blind and low vision",
+    "Gene S-H Kim",
+    "Xuanyou Liu",
+    "CHI 2025"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=EP9Y2XWmlds"
+   },
+   "images": [
+    "https://lab.plopes.org/project-thumbnails/CHI25-SeeingWithHands.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3706598.3713419",
+    "doi": "10.1145/3706598.3713419",
+    "arxiv": "",
+    "venue": "CHI 2025",
+    "title": "Seeing with the Hands: A Sensory Substitution That Supports Manual Interactions"
+   },
+   "source_url": "https://lab.plopes.org",
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "yudai-tanaka--primed-action",
+   "creator_ids": [
+    "yudai-tanaka",
+    "pedro-lopes"
+   ],
+   "title": "Primed Action",
+   "year": 2025,
+   "field": "augmented",
+   "sub": "body-integration",
+   "modalities": [
+    "brain",
+    "movement"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "extended-body"
+   ],
+   "kind": "prototype",
+   "description": "Instead of forcing a faster reaction with muscle stimulation, subthreshold magnetic stimulation of the motor cortex 'primes' the neurons so the user moves faster by themselves, and feels the action as their own.",
+   "description_zh": "它不用肌肉电刺激强行加快反应，而是用低于运动阈值的磁刺激「预激」运动皮层神经元，让用户自己更快地动作，并感到这个动作属于自己。",
+   "idea_en": "Help can be given before the body moves rather than instead of it: speeding up the person's own intention preserves agency better than moving the muscle for them.",
+   "idea_zh": "帮助可以在身体动作之前给出，而不是替代身体动作：加速本人的意图，比替人移动肌肉更能保留能动感。",
+   "method": "Subthreshold transcranial magnetic stimulation of the motor cortex that raises neural excitability without triggering movement; study compared reaction time and sense of agency against EMS-based Preemptive Action, with VR sports-training demos.",
+   "method_zh": "对运动皮层施加低于运动阈值的经颅磁刺激，提高神经兴奋性但不触发动作；研究与基于 EMS 的 Preemptive Action 比较反应时间与能动感，并做了 VR 运动训练演示。",
+   "keywords": [
+    "TMS",
+    "sense of agency",
+    "reaction time",
+    "motor cortex",
+    "Hunter Mathews",
+    "UIST 2025"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=FpyPQ6JZDWM"
+   },
+   "images": [
+    "https://lab.plopes.org/project-thumbnails/UIST25-PrimedAction.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3746059.3747634",
+    "doi": "10.1145/3746059.3747634",
+    "arxiv": "",
+    "venue": "UIST 2025",
+    "title": "Primed Action: Preserving Agency while Accelerating Reaction Time via Subthreshold Brain Stimulation"
+   },
+   "source_url": "https://lab.plopes.org/projects/agency.html",
+   "code_url": "https://github.com/humancomputerintegration/PrimedAction",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "kensuke-katori--vestibular-hand-redirection",
+   "creator_ids": [
+    "kensuke-katori",
+    "yudai-tanaka",
+    "pedro-lopes"
+   ],
+   "title": "Vestibular Stimulation Enhances Hand Redirection",
+   "year": 2025,
+   "field": "augmented",
+   "sub": "body-integration",
+   "also": [
+    "machines-xr"
+   ],
+   "modalities": [
+    "electrical",
+    "posture-balance"
+   ],
+   "lenses": [
+    "extended-body",
+    "estrangement"
+   ],
+   "kind": "prototype",
+   "description": "While VR quietly shifts where the virtual hand appears, galvanic vestibular stimulation makes the body sway slightly in the same direction, so users accept larger hand offsets without noticing.",
+   "description_zh": "当 VR 悄悄移动虚拟手出现的位置时，前庭电刺激让身体朝同一方向轻微摇摆，于是用户在不察觉的情况下接受更大的手部偏移。",
+   "idea_en": "Where the hand feels to be depends on balance: the sense of the whole body's sway and the sense of one limb's position are one felt system.",
+   "idea_zh": "手「感觉在哪里」取决于平衡：对全身摇摆的感觉与对单个肢体位置的感觉是同一个被感受的系统。",
+   "method": "Galvanic vestibular stimulation behind the ears synchronised with VR hand redirection; psychophysical detection thresholds rose by about 45–55%.",
+   "method_zh": "耳后的前庭电刺激与 VR 手部重定向同步；心理物理检测阈值提高约 45–55%。",
+   "keywords": [
+    "GVS",
+    "galvanic vestibular stimulation",
+    "hand redirection",
+    "proprioception",
+    "Yoichi Ochiai",
+    "UIST 2025"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=tpcovBqYYAo"
+   },
+   "images": [
+    "https://lab.plopes.org/project-thumbnails/UIST25-GVSHandRedirection.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3746059.3747776",
+    "doi": "10.1145/3746059.3747776",
+    "arxiv": "",
+    "venue": "UIST 2025",
+    "title": "Vestibular Stimulation Enhances Hand Redirection"
+   },
+   "source_url": "https://lab.plopes.org",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "antonin-cheymol--vr-side-effects",
+   "creator_ids": [
+    "antonin-cheymol",
+    "pedro-lopes"
+   ],
+   "title": "VR Side-Effects",
+   "year": 2025,
+   "field": "machines-xr",
+   "sub": "xr-virtual-body",
+   "also": [
+    "augmented"
+   ],
+   "modalities": [
+    "posture-balance",
+    "light-vision"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-mind-unity"
+   ],
+   "kind": "paper",
+   "description": "After a VR session with hand redirection, participants' real hands stayed shifted by up to 7 cm, and they recalled where objects were in VR instead of where they really are.",
+   "description_zh": "在一次带手部重定向的 VR 体验之后，参与者真实的手仍偏移多达 7 厘米，而且他们记住的是物体在 VR 中的位置，而不是真实位置。",
+   "idea_en": "The body does not reset when the headset comes off: VR retrains proprioception and memory, and that adapted body walks back into the real world.",
+   "idea_zh": "摘下头显时身体并不会复位：VR 重新训练了本体感与记忆，这个被适应过的身体会走回真实世界。",
+   "method": "VR tasks with hand redirection and object placement, followed by real-world pointing and recall tests measuring residual proprioceptive drift and memory confusion.",
+   "method_zh": "先做包含手部重定向与物体摆放的 VR 任务，再在真实世界中做指向与回忆测试，测量残留的本体感漂移与记忆混淆。",
+   "keywords": [
+    "virtual reality",
+    "aftereffects",
+    "proprioception",
+    "hand redirection",
+    "memory",
+    "UIST 2025"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=uoJtpx78RmU"
+   },
+   "images": [
+    "https://lab.plopes.org/project-thumbnails/UIST25-VRSideEffect.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3746059.3747596",
+    "doi": "10.1145/3746059.3747596",
+    "arxiv": "",
+    "venue": "UIST 2025",
+    "title": "VR Side-Effects: Memory & Proprioceptive Discrepancies After Leaving Virtual Reality"
+   },
+   "source_url": "https://lab.plopes.org",
+   "code_url": "https://github.com/humancomputerintegration/VRSideEffects",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "yudai-tanaka--myo-action",
+   "creator_ids": [
+    "yudai-tanaka",
+    "pedro-lopes"
+   ],
+   "title": "My(o) Action",
+   "year": 2026,
+   "field": "augmented",
+   "sub": "body-integration",
+   "modalities": [
+    "muscle",
+    "electrical",
+    "movement"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-mind-unity"
+   ],
+   "kind": "prototype",
+   "description": "The user's own muscle signal, read by EMG at the first onset of a movement, triggers muscle stimulation within 290 microseconds, so the movement finishes faster than the person could alone yet starts from their intention.",
+   "description_zh": "用户自己的肌肉信号在动作刚开始时就被肌电读到，并在 290 微秒内触发肌肉电刺激，于是动作比本人单独完成得更快，却始终从本人的意图开始。",
+   "idea_en": "When the machine only follows the body's first impulse, speed-up and agency stop being a trade-off: the action is accelerated and still mine.",
+   "idea_zh": "当机器只跟随身体最初的冲动时，加速与能动感不再相互抵消：动作被加快了，却仍是我的。",
+   "method": "Low-latency loop from surface EMG onset detection to EMS on the same muscle, with no external sensors or timing calibration; reaction-time and agency study.",
+   "method_zh": "从表面肌电起始检测到同一肌肉电刺激的低延迟回路，无需外部传感器或时序校准；做反应时间与能动感研究。",
+   "keywords": [
+    "EMG",
+    "EMS",
+    "sense of agency",
+    "reaction time",
+    "Che-Wei Hsu",
+    "Bruno Felalaga",
+    "CHI 2026"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=M0EVjipRmPU"
+   },
+   "images": [
+    "https://lab.plopes.org/project-thumbnails/CHI26-MyoAction.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3772318.3791103",
+    "doi": "10.1145/3772318.3791103",
+    "arxiv": "",
+    "venue": "CHI 2026",
+    "title": "Myo Action: Accelerating Voluntary Actions via Electromyography and Muscle Stimulation"
+   },
+   "source_url": "https://lab.plopes.org/projects/agency.html",
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "yun-ho--generative-muscle-stimulation",
+   "creator_ids": [
+    "yun-ho",
+    "romain-nith",
+    "shan-yuan-teng",
+    "pedro-lopes"
+   ],
+   "title": "Generative Muscle Stimulation",
+   "year": 2026,
+   "field": "augmented",
+   "sub": "body-integration",
+   "also": [
+    "machines-xr"
+   ],
+   "modalities": [
+    "electrical",
+    "movement"
+   ],
+   "lenses": [
+    "extended-body",
+    "more-than-human"
+   ],
+   "kind": "prototype",
+   "description": "A multimodal AI reads the user's pose, point of view and location, works out how to use an unfamiliar object such as a bike rack or an analog camera, and then guides the user's hands through it with muscle stimulation.",
+   "description_zh": "一个多模态 AI 读取用户的姿态、视角与所在位置，推断如何使用陌生物体（比如自行车架或胶片相机），再用肌肉电刺激引导用户的手完成操作。",
+   "idea_en": "An AI that acts through your muscles has to know your body: it constrains what it generates to your joints and current pose, so the assistance becomes embodied knowledge you perform.",
+   "idea_zh": "通过你的肌肉行动的 AI 必须了解你的身体：它把生成的指令限制在你的关节与当前姿态之内，让协助成为你亲身执行的具身知识。",
+   "method": "IMU suit plus egocentric camera feeding a multimodal model that writes step instructions, filtered by a biomechanical model of joint limits and pose before being mapped to EMS channels.",
+   "method_zh": "IMU 动捕服与第一人称摄像头输入多模态模型，生成分步指令；指令先经过关节限制与姿态的生物力学模型过滤，再映射到肌肉电刺激通道。",
+   "keywords": [
+    "EMS",
+    "embodied AI",
+    "multimodal AI",
+    "physical assistance",
+    "Peili Jiang",
+    "Steven He",
+    "CHI 2026"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=pJM2Z8mmwAw"
+   },
+   "images": [
+    "https://lab.plopes.org/project-thumbnails/CHI26-EmbodiedAI.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3772318.3790817",
+    "doi": "10.1145/3772318.3790817",
+    "arxiv": "",
+    "venue": "CHI 2026",
+    "title": "Generative Muscle Stimulation: Providing Users with Physical Assistance by Constraining Multimodal-AI with Embodied Knowledge"
+   },
+   "source_url": "https://embodied-ai.plopes.org/",
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": [
+    "CHI 2026 Best Paper Award",
+    "CVPR 2026 Art Gallery (artistic rendition)"
+   ]
+  },
+  {
+   "id": "pedro-lopes--i-in-hci-integration",
+   "creator_ids": [
+    "pedro-lopes"
+   ],
+   "title": "What if the “I” in HCI Stands for Integration?",
+   "year": 2025,
+   "field": "augmented",
+   "sub": "body-integration",
+   "modalities": [
+    "whole-soma",
+    "electrical",
+    "brain"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-mind-unity"
+   ],
+   "kind": "paper",
+   "description": "A UIST vision talk and paper arguing that, as devices move from desks to wrists to skin, the next interfaces will integrate with muscles and brain to assist the body directly instead of replacing it with external robots.",
+   "description_zh": "一次 UIST 愿景演讲及论文：随着设备从桌面移到手腕、再移到皮肤上，下一代界面将与肌肉和大脑融合，直接协助身体，而不是用外部机器人取代它。",
+   "idea_en": "Assistance only feels empowering if the body stays the one acting, so integration must be designed around the user's sense of agency.",
+   "idea_zh": "只有当身体仍是行动者时，协助才会让人感到被赋能；因此融合必须围绕用户的能动感来设计。",
+   "method": "Keynote-style vision talk at UIST 2025 with an adjunct paper, drawing on the lab's EMS, brain-stimulation and agency studies.",
+   "method_zh": "UIST 2025 主题式愿景演讲及附属论文，以实验室在肌肉电刺激、脑刺激与能动感方面的研究为依据。",
+   "keywords": [
+    "human-computer integration",
+    "vision talk",
+    "sense of agency",
+    "EMS",
+    "UIST 2025"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=S1snYMDqpXY"
+   },
+   "images": [
+    "https://lab.plopes.org/project-thumbnails/UIST25-Vision.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3746058.3762829",
+    "doi": "10.1145/3746058.3762829",
+    "arxiv": "",
+    "venue": "UIST 2025 Adjunct (Vision Talk)",
+    "title": "What if the “I” in HCI stands for Integration?"
+   },
+   "source_url": "https://vision.plopes.org/uist",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  }
+ ],
+ "leads": [
+  {
+   "name": "Adding Force Feedback to Mixed Reality Experiences and Games using EMS (Lopes et al., CHI 2018)",
+   "why": "HoloLens + EMS follow-up to the VR walls paper; left out as largely the same felt idea (DOI 10.1145/3173574.3174020, video mgGX6p0rA54).",
+   "link": "https://doi.org/10.1145/3173574.3174020",
+   "found_via": "pedro-lopes",
+   "status": "duplicate"
+  },
+  {
+   "name": "Smell & Paste (Brooks & Lopes, CHI 2023)",
+   "why": "Low-fidelity scratch-and-sniff prototyping toolkit for olfactory experiences; a design method, could join the methods field (DOI 10.1145/3544548.3580680).",
+   "link": "https://doi.org/10.1145/3544548.3580680",
+   "found_via": "pedro-lopes",
+   "status": "open"
+  },
+  {
+   "name": "Integrating Living Organisms in Devices to Implement Care-based Interactions (Lu et al., UIST 2022)",
+   "why": "Jasmine Lu's slime-mould devices that the user must care for; more-than-human care rather than body actuation.",
+   "link": "https://lab.plopes.org/published/2022-UIST-IntegratingLivingOrganisms.pdf",
+   "found_via": "pedro-lopes",
+   "status": "open"
+  },
+  {
+   "name": "Action-dependent processing of touch in the human parietal operculum (Limanowski, Lopes, … Friston, Blankenburg, Cerebral Cortex 2020)",
+   "why": "fMRI study of self- vs externally-caused touch using EMS; theory for agency and touch attenuation.",
+   "link": "https://academic.oup.com/cercor",
+   "found_via": "pedro-lopes",
+   "status": "open"
+  },
+  {
+   "name": "Dream engineering: Simulating worlds through sensory stimulation (Carr, Haar, Amores, Lopes et al., Consciousness and Cognition 2020)",
+   "why": "Survey linking VR sensory devices to dream manipulation; led by Michelle Carr with MIT Fluid Interfaces (DOI 10.1016/j.concog.2020.102955).",
+   "link": "https://doi.org/10.1016/j.concog.2020.102955",
+   "found_via": "pedro-lopes",
+   "status": "open"
+  },
+  {
+   "name": "Adaptive EMS Improves Muscle Memory (Choudhary, Nith, Ho et al., CHI 2025) and DextrEMS (UIST 2021), wrist EMS smartwatch (UIST 2024)",
+   "why": "Further EMS engineering / motor-learning papers; lower felt-experience salience than the works added.",
+   "link": "https://lab.plopes.org",
+   "found_via": "pedro-lopes",
+   "status": "open"
+  },
+  {
+   "name": "Interactive Systems Based on Electrical Muscle Stimulation (Lopes & Baudisch, IEEE Computer 2017)",
+   "why": "Overview article of the HPI EMS line (DOI 10.1109/mc.2017.3641627); could serve as an entry point if a survey-type work is wanted.",
+   "link": "https://doi.org/10.1109/mc.2017.3641627",
+   "found_via": "pedro-lopes",
+   "status": "open"
+  }
+ ]
+}

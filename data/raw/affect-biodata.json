@@ -1713,7 +1713,10 @@
     "venue": "UIST 2014",
     "title": "Teegi: Tangible EEG Interface"
    },
-   "source_url": "https://phd.jfrey.info/projects/teegi/"
+   "source_url": "https://phd.jfrey.info/projects/teegi/",
+   "also": [
+    "augmented"
+   ]
   },
   {
    "id": "petr-slovak--understanding-heart-rate-sharing",

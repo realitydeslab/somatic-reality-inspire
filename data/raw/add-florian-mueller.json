@@ -1,0 +1,1330 @@
+{
+ "batch": "add-florian-mueller",
+ "creators": [
+  {
+   "id": "rohit-khot",
+   "name": "Rohit Ashok Khot",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Associate Professor, School of Design, RMIT University",
+   "based": "Melbourne, AU",
+   "bio": "Designer-researcher who turns heart-rate and physical-activity data into 3D-printed and edible artefacts, and leads human-food interaction work.",
+   "why": "His material and edible traces of exertion let people hold and taste what their body did.",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "role_zh": "皇家墨尔本理工大学设计学院副教授",
+   "bio_zh": "设计研究者，把心率与身体活动数据变成 3D 打印物和可食用的物件，并带领人-食物交互研究。",
+   "why_zh": "他把身体发力留下的痕迹做成可以拿在手里、吃进嘴里的东西。",
+   "based_zh": "墨尔本，澳大利亚",
+   "connected_to": [
+    "florian-mueller"
+   ],
+   "discovered_via": "florian-mueller"
+  },
+  {
+   "id": "maria-fernanda-montoya",
+   "name": "Maria F. Montoya",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, Exertion Games Lab, Monash University",
+   "based": "Melbourne, AU",
+   "bio": "HCI researcher who designs playful water experiences, from an extended-reality floatation tank to wearables and soft robots for surfing, using somaesthetic design.",
+   "why": "She takes soma design into water, where buoyancy, breath and immersion change how the body feels to itself.",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "role_zh": "莫纳什大学 Exertion Games Lab 研究者",
+   "bio_zh": "人机交互研究者，用身体美学设计方法设计水中的游戏体验：从扩展现实漂浮舱，到冲浪用的可穿戴设备与软体机器人。",
+   "why_zh": "她把身体设计带进水里：在水中，浮力、呼吸与浸没改变了身体对自己的感受。",
+   "based_zh": "墨尔本，澳大利亚",
+   "connected_to": [
+    "florian-mueller",
+    "sarah-jane-pell",
+    "aryan-saini",
+    "rakesh-patibanda"
+   ],
+   "discovered_via": "florian-mueller"
+  },
+  {
+   "id": "sarah-jane-pell",
+   "name": "Sarah Jane Pell",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist, commercial diver and researcher, Exertion Games Lab, Monash University",
+   "based": "Australia",
+   "bio": "Performance artist and occupational diver whose work takes place underwater and in space-exploration settings; co-author of the WaterHCI agenda.",
+   "why": "Her aquatic performances treat the diving, breathing body in water as the medium of the work.",
+   "disciplines": [
+    "art",
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "艺术家、职业潜水员，莫纳什大学 Exertion Games Lab 研究者",
+   "bio_zh": "表演艺术家与职业潜水员，作品发生在水下与太空探索情境中；WaterHCI 研究议程的合著者。",
+   "why_zh": "她的水下表演把在水中潜游、呼吸的身体本身当作作品的媒介。",
+   "based_zh": "澳大利亚",
+   "connected_to": [
+    "florian-mueller",
+    "maria-fernanda-montoya"
+   ],
+   "discovered_via": "florian-mueller"
+  },
+  {
+   "id": "damon-young",
+   "name": "Damon Young",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Philosopher and writer",
+   "based": "Melbourne, AU",
+   "bio": "Australian philosopher and author of books including How to Think About Exercise (2014), which reads sport and exercise through philosophy.",
+   "why": "He gave exertion design a philosophical footing: exercise as a way of cultivating the whole person, body and mind together.",
+   "disciplines": [
+    "philosophy"
+   ],
+   "links": {},
+   "role_zh": "哲学家、作家",
+   "bio_zh": "澳大利亚哲学家，著有《How to Think About Exercise》（2014）等书，用哲学解读运动与锻炼。",
+   "why_zh": "他为运动设计提供了哲学基础：锻炼是同时培养身体与心灵的整个人的方式。",
+   "based_zh": "墨尔本，澳大利亚",
+   "connected_to": [
+    "florian-mueller"
+   ],
+   "discovered_via": "florian-mueller"
+  },
+  {
+   "id": "eberhard-graether",
+   "name": "Eberhard Graether",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Designer-researcher, formerly Exertion Games Lab, RMIT University",
+   "based": "Melbourne, AU",
+   "bio": "Built Joggobot, an autonomous quadcopter that flies ahead of a jogger as a running companion.",
+   "why": "Joggobot asked how a robot should share the effort and rhythm of a running body.",
+   "disciplines": [
+    "hci",
+    "engineering"
+   ],
+   "links": {},
+   "role_zh": "设计研究者，曾任职于皇家墨尔本理工大学 Exertion Games Lab",
+   "bio_zh": "打造了 Joggobot：一架在慢跑者前方飞行、陪伴跑步的自主四旋翼无人机。",
+   "why_zh": "Joggobot 追问：机器人应当如何分担一个奔跑身体的用力与节奏。",
+   "based_zh": "墨尔本，澳大利亚",
+   "connected_to": [
+    "florian-mueller"
+   ],
+   "discovered_via": "florian-mueller"
+  },
+  {
+   "id": "wouter-walmink",
+   "name": "Wouter Walmink",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Interaction designer, formerly Exertion Games Lab, RMIT University",
+   "based": "Melbourne, AU",
+   "bio": "Designed bicycle helmets that display the wearer's heart rate and LumaHelm, a helmet covered in LEDs for communication and play.",
+   "why": "His helmets make a rider's inner exertion visible to others but hard to see for oneself.",
+   "disciplines": [
+    "design",
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "交互设计师，曾任职于皇家墨尔本理工大学 Exertion Games Lab",
+   "bio_zh": "设计了显示佩戴者心率的自行车头盔，以及布满 LED、用于交流与游戏的 LumaHelm 头盔。",
+   "why_zh": "他的头盔把骑车人内在的用力展示给别人看，却让自己难以看到。",
+   "based_zh": "墨尔本，澳大利亚",
+   "connected_to": [
+    "florian-mueller",
+    "danielle-wilde"
+   ],
+   "discovered_via": "florian-mueller"
+  },
+  {
+   "id": "yash-mehta",
+   "name": "Yash Dhanpal Mehta",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, formerly Exertion Games Lab, RMIT University",
+   "based": "Melbourne, AU",
+   "bio": "Designer of Arm-A-Dine, a playful robotic third arm worn on the body for social eating.",
+   "why": "Arm-A-Dine hands part of eating over to an extra limb that other diners steer, making the eating body shared.",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "role_zh": "研究者，曾任职于皇家墨尔本理工大学 Exertion Games Lab",
+   "bio_zh": "Arm-A-Dine 的设计者：一只佩戴在身上、用于社交进餐的趣味机械“第三只手”。",
+   "why_zh": "Arm-A-Dine 把一部分进食动作交给由同桌他人操控的额外肢体，让进食的身体成为共享的身体。",
+   "based_zh": "墨尔本，澳大利亚",
+   "connected_to": [
+    "florian-mueller",
+    "rohit-khot",
+    "rakesh-patibanda"
+   ],
+   "discovered_via": "florian-mueller"
+  },
+  {
+   "id": "oguz-buruk",
+   "name": "Oğuz 'Oz' Buruk",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Assistant Professor, Gamification Group, Tampere University",
+   "based": "Tampere, FI",
+   "bio": "Game and interaction design researcher working on wearables, playful bodily extensions and posthuman play.",
+   "why": "His work on playful bodily extensions asks how added body parts change the felt sense of one's own body.",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "role_zh": "坦佩雷大学游戏化研究组助理教授",
+   "bio_zh": "游戏与交互设计研究者，研究可穿戴设备、趣味身体延伸与后人类游戏。",
+   "why_zh": "他对趣味身体延伸的研究追问：多出来的身体部件如何改变人对自己身体的感受。",
+   "based_zh": "坦佩雷，芬兰",
+   "connected_to": [
+    "florian-mueller",
+    "aryan-saini"
+   ],
+   "discovered_via": "florian-mueller"
+  },
+  {
+   "id": "nandini-pasumarthy",
+   "name": "Nandini Pasumarthy",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, Exertion Games Lab, Monash University",
+   "based": "Melbourne, AU",
+   "bio": "HCI researcher studying how everyday gut sounds can support interoceptive awareness.",
+   "why": "She treats the gut, a stigmatised and ignored part of the body, as a site for felt awareness and care.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "莫纳什大学 Exertion Games Lab 研究者",
+   "bio_zh": "人机交互研究者，研究日常的肠鸣声如何支持内感受觉察。",
+   "why_zh": "她把肠道这个常被忽视、甚至被污名化的身体部位，当作觉察与照护的场所。",
+   "based_zh": "墨尔本，澳大利亚",
+   "connected_to": [
+    "florian-mueller",
+    "maria-fernanda-montoya"
+   ],
+   "discovered_via": "florian-mueller"
+  }
+ ],
+ "works": [
+  {
+   "id": "florian-mueller--designing-sports",
+   "creator_ids": [
+    "florian-mueller"
+   ],
+   "title": "Designing Sports: A Framework for Exertion Games",
+   "year": 2011,
+   "field": "movement",
+   "sub": "exertion-play",
+   "also": [
+    "methods"
+   ],
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "pleasure-play"
+   ],
+   "kind": "paper",
+   "description": "The Exertion Framework describes exertion games through four views of the body in play: the responding body, the moving body, the sensing body and the relating body.",
+   "description_zh": "“运动框架”（Exertion Framework）从四个身体视角描述运动游戏：回应的身体、移动的身体、感知的身体与关联他人的身体。",
+   "idea_en": "Designing for physical effort means designing for the whole felt body, how it responds, moves, senses and relates to others, rather than for a tracked controller.",
+   "idea_zh": "为身体用力而设计，就是为整个被感受的身体设计：它如何回应、移动、感知、与他人相连，而不是为一个被追踪的控制器设计。",
+   "method": "Framework derived from the authors' networked exertion games and body-centred theory, then used as a design tool in a case study.",
+   "method_zh": "从作者们的联网运动游戏与以身体为中心的理论中归纳出框架，并在案例研究中作为设计工具使用。",
+   "keywords": [
+    "Exertion Framework",
+    "exertion games",
+    "responding body",
+    "sensing body",
+    "relating body"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=EVWZtJNbAek"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/1978942.1979330",
+    "doi": "10.1145/1978942.1979330",
+    "venue": "CHI 2011",
+    "title": "Designing sports: a framework for exertion games"
+   },
+   "source_url": "https://exertiongameslab.org/",
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "florian-mueller--exertion-cards",
+   "creator_ids": [
+    "florian-mueller"
+   ],
+   "title": "Exertion Cards",
+   "year": 2014,
+   "field": "methods",
+   "sub": "embodied-ideation",
+   "also": [
+    "movement"
+   ],
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "pleasure-play",
+    "movement-expression"
+   ],
+   "kind": "method",
+   "description": "A free deck of design cards, 'things to think about' when designing games for the active body, built on the Exertion Framework and used by more than 130 designers.",
+   "description_zh": "一套免费的设计卡片，列出为运动中的身体设计游戏时“要想一想的事”，基于运动框架，已被 130 多位设计者使用。",
+   "idea_en": "A shared vocabulary for the exerting body helps designers talk about sweat, fatigue and touch as design material rather than side effects.",
+   "idea_zh": "为用力的身体建立共同词汇，能帮助设计者把汗水、疲劳和触碰当作设计材料来讨论，而不是副作用。",
+   "method": "Card deck derived from the Exertion Framework, evaluated in design workshops with game and interaction design students and industry practitioners.",
+   "method_zh": "卡片源自运动框架，并在与游戏设计、交互设计学生及业界从业者的设计工作坊中评估。",
+   "keywords": [
+    "design cards",
+    "Exertion Framework",
+    "ideation",
+    "exertion games"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=H4O8GXIJNns"
+   },
+   "images": [
+    "https://exertiongameslab.org/wp-content/uploads/2014/04/exertion_cards1.jpg",
+    "https://exertiongameslab.org/wp-content/uploads/2014/04/exertion_cards2.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2556288.2557272",
+    "doi": "10.1145/2556288.2557272",
+    "venue": "CHI 2014",
+    "title": "Supporting the creative game design process with exertion cards"
+   },
+   "source_url": "https://exertiongameslab.org/projects/design-tools-exertion-cards",
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "florian-mueller--five-lenses",
+   "creator_ids": [
+    "florian-mueller",
+    "damon-young"
+   ],
+   "title": "Five Lenses for Designing Exertion Experiences",
+   "year": 2017,
+   "field": "movement",
+   "sub": "exertion-play",
+   "also": [
+    "foundations"
+   ],
+   "modalities": [
+    "whole-soma",
+    "movement"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "pleasure-play"
+   ],
+   "kind": "paper",
+   "description": "With philosopher Damon Young, Mueller draws five design lenses from the philosophy of sport and exercise, so that exertion is designed as a path to personal growth and not only as a way to stay healthy.",
+   "description_zh": "Mueller 与哲学家 Damon Young 从体育与锻炼哲学中提炼出五个设计透镜，让运动体验被设计为个人成长之路，而不只是保持健康的手段。",
+   "idea_en": "Exercise is a practice of the whole person: designing it only for health metrics misses what effort does for how we feel and who we become.",
+   "idea_zh": "锻炼是整个人的修习：只为健康指标设计，就错过了用力对我们的感受与自我塑造的意义。",
+   "method": "Conceptual paper extending sports-philosophy writing into design lenses, illustrated with exertion games from the lab and elsewhere.",
+   "method_zh": "概念性论文，把体育哲学的论述延伸为设计透镜，并用实验室内外的运动游戏加以说明。",
+   "keywords": [
+    "philosophy of sport",
+    "design lenses",
+    "exertion",
+    "Damon Young",
+    "sports-HCI"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ZsN5yyqGuEA"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3025453.3025746",
+    "doi": "10.1145/3025453.3025746",
+    "venue": "CHI 2017",
+    "title": "Five Lenses for Designing Exertion Experiences"
+   },
+   "source_url": "https://exertiongameslab.org/",
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "florian-mueller--exertion-games-monograph",
+   "creator_ids": [
+    "florian-mueller",
+    "rohit-khot"
+   ],
+   "title": "Exertion Games",
+   "year": 2016,
+   "field": "movement",
+   "sub": "exertion-play",
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "pleasure-play",
+    "body-mind-unity"
+   ],
+   "kind": "publication",
+   "description": "A survey monograph on games that make physical exertion part of play: a spectrum of exertion games, their enabling technologies and the design frameworks for them.",
+   "description_zh": "一部综述专著，讨论把身体用力纳入游戏的“运动游戏”：运动游戏的谱系、支撑它们的技术，以及相关设计框架。",
+   "idea_en": "Exertion games take a body-centric view of computing: they must be designed for the experience of the active body, not only for sensing it.",
+   "idea_zh": "运动游戏以身体为中心看待计算：必须为活动中的身体的体验而设计，而不只是为了感测它。",
+   "method": "Literature review and analysis of exertion games, sensing technologies and design approaches, with directions for future work.",
+   "method_zh": "对运动游戏、感测技术与设计方法的文献综述与分析，并提出未来研究方向。",
+   "keywords": [
+    "exertion games",
+    "survey",
+    "Foundations and Trends in HCI",
+    "body-centric"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=-OJFtYBW9ac"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1561/1100000041",
+    "doi": "10.1561/1100000041",
+    "venue": "Foundations and Trends in HCI 2016",
+    "title": "Exertion Games"
+   },
+   "source_url": "https://exertiongameslab.org/"
+  },
+  {
+   "id": "eberhard-graether--joggobot",
+   "creator_ids": [
+    "eberhard-graether",
+    "florian-mueller"
+   ],
+   "title": "Joggobot",
+   "year": 2012,
+   "field": "movement",
+   "sub": "exertion-play",
+   "also": [
+    "machines-xr"
+   ],
+   "modalities": [
+    "movement"
+   ],
+   "lenses": [
+    "pleasure-play",
+    "more-than-human"
+   ],
+   "kind": "prototype",
+   "description": "An autonomous quadcopter flies ahead of a jogger and reacts to their pace, acting as a running companion rather than a coach on a screen.",
+   "description_zh": "一架自主飞行的四旋翼无人机在慢跑者前方飞行，并对其步速作出反应，像跑步伙伴而不是屏幕上的教练。",
+   "idea_en": "A robot that runs with you changes the felt rhythm of the run; companionship, not data, becomes the support for effort.",
+   "idea_zh": "一个陪你跑的机器人会改变跑步时身体感受到的节奏：支撑用力的是陪伴，而不是数据。",
+   "method": "Quadcopter with an on-board camera tracking a tag worn by the jogger; design themes of embodiment, control, personality and communication from test runs.",
+   "method_zh": "四旋翼无人机用机载摄像头追踪慢跑者身上佩戴的标签；从试跑中归纳出具身、控制、个性与沟通四个设计主题。",
+   "keywords": [
+    "quadcopter",
+    "drone",
+    "jogging companion",
+    "human-robot interaction"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=4x4d8IX_0kI"
+   },
+   "images": [
+    "https://exertiongameslab.org/wp-content/uploads/2011/09/joggobot.jpg",
+    "https://exertiongameslab.org/wp-content/uploads/2012/06/joggobot-1024x328.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2212776.2212386",
+    "doi": "10.1145/2212776.2212386",
+    "venue": "CHI 2012 Extended Abstracts",
+    "title": "Joggobot"
+   },
+   "source_url": "https://exertiongameslab.org/projects/joggobot",
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "wouter-walmink--heart-rate-helmet",
+   "creator_ids": [
+    "wouter-walmink",
+    "danielle-wilde",
+    "florian-mueller"
+   ],
+   "title": "Open Heart Helmet",
+   "year": 2014,
+   "field": "affect",
+   "sub": "body-data",
+   "also": [
+    "movement",
+    "social"
+   ],
+   "modalities": [
+    "heartbeat",
+    "movement"
+   ],
+   "lenses": [
+    "body-data",
+    "intercorporeality"
+   ],
+   "kind": "prototype",
+   "description": "A bicycle helmet shows the rider's live heart rate on its back, so the cyclist riding behind can see it while the wearer cannot easily see their own.",
+   "description_zh": "自行车头盔背面实时显示骑车人的心率，后面的同伴看得见，佩戴者自己却不容易看到。",
+   "idea_en": "Making one's heartbeat visible to others rather than to oneself turns exertion into a shared, social sensation instead of a private metric.",
+   "idea_zh": "让心跳被别人而非自己看见，会把用力变成一种共享的社交感受，而不是私人的指标。",
+   "method": "Displays strapped to helmets and driven by a chest-strap heart-rate sensor; studied with pairs of cyclists, yielding design strategies such as limiting direct access to one's own heart rate.",
+   "method_zh": "把显示屏绑在头盔上，由胸带心率传感器驱动；与成对骑行者进行研究，得出“限制直接看到自己心率”等设计策略。",
+   "keywords": [
+    "heart rate",
+    "bicycle helmet",
+    "social exertion",
+    "LumaHelm",
+    "wearables"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=LCP8d3fkFMY"
+   },
+   "images": [
+    "https://exertiongameslab.org/wp-content/uploads/2011/11/helmet_720_website.jpg",
+    "https://exertiongameslab.org/wp-content/uploads/2011/11/study_720_website.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2540930.2540970",
+    "doi": "10.1145/2540930.2540970",
+    "venue": "TEI 2014",
+    "title": "Displaying heart rate data on a bicycle helmet to support social exertion experiences"
+   },
+   "source_url": "https://exertiongameslab.org/projects/open-heart-cycling",
+   "collections": [
+    "tei"
+   ]
+  },
+  {
+   "id": "rohit-khot--sweatatoms",
+   "creator_ids": [
+    "rohit-khot",
+    "florian-mueller"
+   ],
+   "title": "SweatAtoms",
+   "year": 2014,
+   "field": "affect",
+   "sub": "body-data",
+   "also": [
+    "movement"
+   ],
+   "modalities": [
+    "heartbeat",
+    "movement"
+   ],
+   "lenses": [
+    "body-data",
+    "attunement"
+   ],
+   "kind": "prototype",
+   "description": "Heart-rate data from a day of physical activity is turned into small 3D-printed objects whose shapes encode the effort, which households kept and handled for weeks.",
+   "description_zh": "把一天身体活动的心率数据变成小型 3D 打印物件，其形状记录下当天的用力，参与家庭连续数周保存并把玩它们。",
+   "idea_en": "A physical object made from one's own heartbeat invites reflection on effort in a way that numbers on a screen do not.",
+   "idea_zh": "用自己心跳做成的实物，能引发对用力的回味与反思，这是屏幕上的数字做不到的。",
+   "method": "Heart-rate monitor data mapped to five parametric 3D-printed forms; two-week in-the-wild deployments in six households.",
+   "method_zh": "心率监测数据映射为五种参数化 3D 打印形态；在六个家庭中进行为期两周的实地部署。",
+   "keywords": [
+    "3D printing",
+    "material representation",
+    "heart rate",
+    "physical activity",
+    "digital fabrication"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Wh1v1QsL41E"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/2556288.2557144",
+    "doi": "10.1145/2556288.2557144",
+    "venue": "CHI 2014",
+    "title": "Understanding physical activity through 3D printed material artifacts"
+   },
+   "source_url": "https://exertiongameslab.org/projects/sweatatoms",
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "richard-byrne--digital-vertigo",
+   "creator_ids": [
+    "richard-byrne",
+    "joe-marshall",
+    "florian-mueller"
+   ],
+   "title": "Designing Digital Vertigo Experiences",
+   "year": 2020,
+   "field": "movement",
+   "sub": "exertion-play",
+   "also": [
+    "augmented"
+   ],
+   "modalities": [
+    "posture-balance",
+    "electrical",
+    "movement"
+   ],
+   "lenses": [
+    "estrangement",
+    "pleasure-play"
+   ],
+   "kind": "paper",
+   "description": "Building on Caillois's idea of 'vertigo play' (spinning, swinging, fairground rides), the paper offers a framework for digital games that deliberately confuse the senses of balance and motion for enjoyment.",
+   "description_zh": "基于 Caillois 的“眩晕游戏”（转圈、荡秋千、游乐设施）概念，论文提出一个框架，用于设计有意扰乱平衡与运动感、以此取乐的数字游戏。",
+   "idea_en": "Disturbing the vestibular sense on purpose makes a normally silent part of the body loudly felt, and people enjoy it.",
+   "idea_zh": "有意扰动前庭感觉，会让平时无声的身体部分被强烈地感受到，而人们乐在其中。",
+   "method": "Digital Vertigo Experience framework derived from four case studies and three built vertigo games, including galvanic vestibular stimulation play such as Balance Ninja.",
+   "method_zh": "从四个案例研究和三款自制眩晕游戏（包括 Balance Ninja 等前庭电刺激游戏）中归纳出“数字眩晕体验”框架。",
+   "keywords": [
+    "vertigo play",
+    "Caillois",
+    "galvanic vestibular stimulation",
+    "balance",
+    "bodily play"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=311LUH5ylDo"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3387167",
+    "doi": "10.1145/3387167",
+    "venue": "ACM TOCHI 2020",
+    "title": "Designing Digital Vertigo Experiences"
+   },
+   "source_url": "https://exertiongameslab.org/"
+  },
+  {
+   "id": "florian-mueller--erfahrung-erlebnis",
+   "creator_ids": [
+    "florian-mueller",
+    "josh-andres",
+    "zhuying-li",
+    "rakesh-patibanda",
+    "rohit-khot"
+   ],
+   "title": "Erfahrung & Erlebnis",
+   "year": 2020,
+   "field": "movement",
+   "sub": "exertion-play",
+   "also": [
+    "foundations"
+   ],
+   "modalities": [
+    "whole-soma",
+    "movement"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "first-person"
+   ],
+   "kind": "paper",
+   "description": "Uses two German words for experience, Erfahrung (experience one actively engages in and learns from) and Erlebnis (tacit, lived experience), to articulate what bodily play feels like and to guide its design.",
+   "description_zh": "借用德语中两个表示“体验”的词：Erfahrung（主动投入并从中获得认知的经验）与 Erlebnis（默会的、亲历的体验），来说明身体游戏的感受，并指导其设计。",
+   "idea_en": "Bodily play has two sides, the lived moment and what one learns from it; designers need words for both to design for the felt body.",
+   "idea_zh": "身体游戏有两面：亲历的当下，以及从中得来的领悟；要为被感受的身体设计，两者都需要语言。",
+   "method": "Reflection on the lab's bodily play systems through the German lexicon, deriving design considerations for each kind of experience.",
+   "method_zh": "借德语词汇反思实验室的身体游戏系统，为两类体验分别得出设计要点。",
+   "keywords": [
+    "Erfahrung",
+    "Erlebnis",
+    "lived experience",
+    "phenomenology",
+    "bodily play"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=aFD4JW8vO_4"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3374920.3374926",
+    "doi": "10.1145/3374920.3374926",
+    "venue": "TEI 2020",
+    "title": "\"Erfahrung & Erlebnis\": Understanding the Bodily Play Experience through German Lexicon"
+   },
+   "source_url": "https://exertiongameslab.org/",
+   "collections": [
+    "tei"
+   ]
+  },
+  {
+   "id": "florian-mueller--bodily-integrated-play",
+   "creator_ids": [
+    "florian-mueller",
+    "zhuying-li",
+    "yash-mehta",
+    "josh-andres",
+    "rakesh-patibanda"
+   ],
+   "title": "Towards Designing Bodily Integrated Play",
+   "year": 2020,
+   "field": "augmented",
+   "sub": "augmented-play",
+   "also": [
+    "movement"
+   ],
+   "modalities": [
+    "extra-body",
+    "whole-soma"
+   ],
+   "lenses": [
+    "extended-body",
+    "pleasure-play"
+   ],
+   "kind": "paper",
+   "description": "Proposes 'bodily integrated play', where the computer is worn on or inside the body, such as a robotic third arm or an ingestible sensor, and offers initial design strategies for it.",
+   "description_zh": "提出“身体融合游戏”：计算机穿戴在身上或进入体内，例如机械第三只手或可吞服传感器，并给出初步的设计策略。",
+   "idea_en": "When the machine becomes part of the body, play is no longer about controlling a device but about living with a changed body.",
+   "idea_zh": "当机器成为身体的一部分，游戏就不再是操控设备，而是与一个改变了的身体共处。",
+   "method": "Design strategies drawn from the lab's own integrated play systems, including Arm-A-Dine and ingestible-sensor games.",
+   "method_zh": "从实验室自己的融合游戏系统（包括 Arm-A-Dine 与可吞服传感器游戏）中归纳设计策略。",
+   "keywords": [
+    "bodily integrated play",
+    "human-computer integration",
+    "third arm",
+    "ingestible sensor"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=IKC_3sm0MCY"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3374920.3374931",
+    "doi": "10.1145/3374920.3374931",
+    "venue": "TEI 2020",
+    "title": "Towards Designing Bodily Integrated Play"
+   },
+   "source_url": "https://exertiongameslab.org/",
+   "collections": [
+    "tei"
+   ]
+  },
+  {
+   "id": "yash-mehta--arm-a-dine",
+   "creator_ids": [
+    "yash-mehta",
+    "rohit-khot",
+    "rakesh-patibanda",
+    "florian-mueller"
+   ],
+   "title": "Arm-A-Dine",
+   "year": 2018,
+   "field": "augmented",
+   "sub": "extra-limbs",
+   "also": [
+    "social"
+   ],
+   "modalities": [
+    "extra-body",
+    "movement"
+   ],
+   "lenses": [
+    "extended-body",
+    "intercorporeality",
+    "pleasure-play"
+   ],
+   "kind": "prototype",
+   "description": "Diners wear a robotic third arm on the chest; the arm picks up food and, depending on the other diner's facial expression, feeds either its wearer or the companion.",
+   "description_zh": "用餐者胸前佩戴一只机械“第三只手”；它夹起食物，并根据同桌者的面部表情决定喂给佩戴者还是喂给对方。",
+   "idea_en": "Giving up some control over one's own eating to an extra limb steered by another person makes eating slower, stranger and more shared.",
+   "idea_zh": "把自己进食的一部分控制权交给由他人操纵的额外肢体，会让进食变得更慢、更陌生，也更共享。",
+   "method": "Chest-mounted robotic arm driven by facial-expression recognition of the co-diner; study with pairs of diners yielded themes such as reducing bodily control and encouraging savouring.",
+   "method_zh": "胸前的机械臂由对同桌者面部表情的识别驱动；成对用餐者的研究得出“减少身体控制”“鼓励细细品味”等主题。",
+   "keywords": [
+    "third arm",
+    "robotic arm",
+    "social eating",
+    "human-food interaction",
+    "facial expression"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=iBW2D9ghaak"
+   },
+   "images": [
+    "https://exertiongameslab.org/wp-content/uploads/2018/06/Arm-a-dine-1-OK-to-use.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3242671.3242710",
+    "doi": "10.1145/3242671.3242710",
+    "venue": "CHI PLAY 2018",
+    "title": "Arm-A-Dine: Towards Understanding the Design of Playful Embodied Eating Experiences"
+   },
+   "source_url": "https://exertiongameslab.org/projects/arm-a-dine-augmented-social-eating"
+  },
+  {
+   "id": "zhuying-li--heatcraft",
+   "creator_ids": [
+    "zhuying-li",
+    "florian-mueller"
+   ],
+   "title": "HeatCraft",
+   "year": 2019,
+   "field": "affect",
+   "sub": "interoception",
+   "also": [
+    "augmented"
+   ],
+   "modalities": [
+    "heat",
+    "pain-interoception"
+   ],
+   "lenses": [
+    "touching-back",
+    "body-data"
+   ],
+   "kind": "prototype",
+   "description": "In this two-player system, a swallowed sensor pill measures core body temperature and heating pads on a waist belt warm the skin accordingly, so players feel their inner body on the skin as they go about their day.",
+   "description_zh": "在这个双人系统中，吞下的传感胶囊测量核心体温，腰带上的加热片据此温暖皮肤，让玩家在日常生活中通过皮肤感受到身体内部。",
+   "idea_en": "Translating core temperature into local warmth turns an invisible inner state into something felt, prompting curiosity about one's own body.",
+   "idea_zh": "把核心体温转译为局部的温热，让看不见的内在状态变得可以被感受，引发对自身身体的好奇。",
+   "method": "Ingestible temperature sensor linked to a waist belt with heating pads; in-the-wild study with 16 participants, yielding eight design strategies for ingestible play.",
+   "method_zh": "可吞服体温传感器连接带加热片的腰带；与 16 名参与者进行实地研究，得出八条可吞服游戏的设计策略。",
+   "keywords": [
+    "ingestible sensor",
+    "thermal feedback",
+    "core body temperature",
+    "open-ended play"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=wcc4CBmNbSo"
+   },
+   "images": [
+    "https://exertiongameslab.org/wp-content/uploads/2019/04/heatcraft.jpg",
+    "https://exertiongameslab.org/wp-content/uploads/2019/04/pill.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3290605.3300806",
+    "doi": "10.1145/3290605.3300806",
+    "venue": "CHI 2019",
+    "title": "HeatCraft: Designing Playful Experiences with Ingestible Sensors via Localized Thermal Stimuli"
+   },
+   "source_url": "https://exertiongameslab.org/projects/heatcraft-ingestible-games",
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "zhuying-li--insideout",
+   "creator_ids": [
+    "zhuying-li",
+    "florian-mueller"
+   ],
+   "title": "InsideOut",
+   "year": 2020,
+   "field": "affect",
+   "sub": "interoception",
+   "also": [
+    "augmented"
+   ],
+   "modalities": [
+    "pain-interoception",
+    "light-vision"
+   ],
+   "lenses": [
+    "estrangement",
+    "body-data"
+   ],
+   "kind": "prototype",
+   "description": "A player swallows a medical imaging capsule and plays with the live video of their own gastrointestinal tract, shown on a wearable display.",
+   "description_zh": "玩家吞下医用成像胶囊，借助可穿戴显示屏，与自己消化道的实时影像一起玩。",
+   "idea_en": "Seeing the inside of one's own body in real time makes the familiar body strange and invites a playful, less clinical relation to it.",
+   "idea_zh": "实时看到自己身体的内部，会让熟悉的身体变得陌生，并促成一种更好玩、较少医疗化的身体关系。",
+   "method": "Imaging capsule streaming gut video to a playful wearable system; in-the-wild study with players.",
+   "method_zh": "成像胶囊把肠道影像传到一个趣味可穿戴系统；与玩家进行实地研究。",
+   "keywords": [
+    "imaging capsule",
+    "ingestible",
+    "gastrointestinal tract",
+    "bodily play",
+    "medical imaging"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=1_dR1OVr5Ts"
+   },
+   "images": [
+    "https://exertiongameslab.org/wp-content/uploads/2020/06/insideout.jpg",
+    "https://exertiongameslab.org/wp-content/uploads/2020/07/holding.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3357236.3395484",
+    "doi": "10.1145/3357236.3395484",
+    "venue": "DIS 2020",
+    "title": "InsideOut: Towards an Understanding of Designing Playful Experiences with Imaging Capsules"
+   },
+   "source_url": "https://exertiongameslab.org/projects/insideout-ingestible-games",
+   "collections": [
+    "dis"
+   ],
+   "exhibited": [
+    "DIS 2020 Best Paper Honorable Mention"
+   ]
+  },
+  {
+   "id": "maria-fernanda-montoya--fluito",
+   "creator_ids": [
+    "maria-fernanda-montoya",
+    "rakesh-patibanda",
+    "aryan-saini",
+    "sarah-jane-pell",
+    "florian-mueller"
+   ],
+   "title": "Fluito",
+   "year": 2023,
+   "field": "somaesthetic",
+   "sub": "appreciation",
+   "also": [
+    "machines-xr",
+    "movement"
+   ],
+   "modalities": [
+    "breath",
+    "posture-balance",
+    "whole-soma"
+   ],
+   "lenses": [
+    "attunement",
+    "pleasure-play"
+   ],
+   "kind": "prototype",
+   "description": "A playful extended-reality floatation tank experience: floating in warm salt water, the participant is guided by visuals and sound to attend to the water, their breath and their body.",
+   "description_zh": "一个趣味扩展现实漂浮舱体验：参与者漂浮在温暖的盐水中，由影像与声音引导去留意水、呼吸与身体。",
+   "idea_en": "Floating removes the usual pull of gravity, so a design that calls attention to water and breath can turn the tank into a place for felt body awareness and play.",
+   "idea_zh": "漂浮去除了平常的重力牵引；一个把注意力引向水与呼吸的设计，能把漂浮舱变成身体觉察与游戏的场所。",
+   "method": "Somaesthetic design of an XR floatation tank; 13-participant study analysed through a postphenomenological lens, giving eight design strategies for playful water experiences.",
+   "method_zh": "用身体美学设计方法打造扩展现实漂浮舱；以后现象学视角分析 13 名参与者的研究，得出八条水中趣味体验的设计策略。",
+   "keywords": [
+    "floatation tank",
+    "WaterHCI",
+    "extended reality",
+    "somaesthetic design",
+    "postphenomenology",
+    "breathing"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=NNWuqEz29Ag"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3611056",
+    "doi": "10.1145/3611056",
+    "venue": "CHI PLAY 2023",
+    "title": "Fluito: Towards Understanding the Design of Playful Water Experiences through an Extended Reality Floatation Tank"
+   },
+   "source_url": "https://exertiongameslab.org/"
+  },
+  {
+   "id": "maria-fernanda-montoya--seamate-oceanecho",
+   "creator_ids": [
+    "maria-fernanda-montoya",
+    "aryan-saini",
+    "sarah-jane-pell",
+    "florian-mueller"
+   ],
+   "title": "SeaMate and OceanEcho",
+   "year": 2025,
+   "field": "movement",
+   "sub": "exertion-play",
+   "also": [
+    "somaesthetic",
+    "methods"
+   ],
+   "modalities": [
+    "movement",
+    "touch",
+    "whole-soma"
+   ],
+   "lenses": [
+    "first-person",
+    "pleasure-play",
+    "more-than-human"
+   ],
+   "kind": "prototype",
+   "description": "Two prototypes to enrich the experience of surfing rather than performance, an actuating wearable top and an octopus-inspired soft robot, designed from the researchers' own surfing through a soma design process.",
+   "description_zh": "两个用于丰富冲浪体验（而非提升成绩）的原型：一件会动作的可穿戴上衣和一个受章鱼启发的软体机器人，研究者以自己的冲浪经验为起点、通过身体设计过程完成设计。",
+   "idea_en": "Surfing is felt connection with water, nature and community; soma design starting from the surfer's own body can support that felt side instead of measuring it.",
+   "idea_zh": "冲浪是与水、自然和同伴的切身联结；从冲浪者自身身体出发的身体设计，能支持这种感受，而不是去测量它。",
+   "method": "Soma design process grounded in first-person surfing; exploratory pool study with eight surfers, analysed through a postphenomenological lens of human-technology-water relations, giving five design strategies.",
+   "method_zh": "以第一人称冲浪经验为基础的身体设计过程；在泳池中与八名冲浪者进行探索性研究，用“人-技术-水”关系的后现象学视角分析，得出五条设计策略。",
+   "keywords": [
+    "surfing",
+    "WaterHCI",
+    "soma design",
+    "soft robot",
+    "wearable",
+    "postphenomenology"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=VZ45HiU1Frw"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3715336.3735791",
+    "doi": "10.1145/3715336.3735791",
+    "venue": "DIS 2025",
+    "title": "Exploring the Role of Interactive Technology to Enrich Surfing"
+   },
+   "source_url": "https://exertiongameslab.org/projects/oceanecho-and-seamate-enriching-surfing",
+   "collections": [
+    "dis"
+   ]
+  },
+  {
+   "id": "florian-mueller--waterhci-grand-challenges",
+   "creator_ids": [
+    "florian-mueller",
+    "maria-fernanda-montoya",
+    "sarah-jane-pell",
+    "joe-marshall",
+    "nathan-semertzidis"
+   ],
+   "title": "Grand Challenges in WaterHCI",
+   "year": 2024,
+   "field": "movement",
+   "sub": "exertion-play",
+   "modalities": [
+    "whole-soma",
+    "breath",
+    "movement"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "pleasure-play",
+    "more-than-human"
+   ],
+   "kind": "paper",
+   "description": "Experts in interactive technology for water, from snorkelling AR and floatation-tank VR to underwater instruments and swimmers' wearables, set out the field's grand challenges.",
+   "description_zh": "水中交互技术领域的专家（涵盖浮潜增强现实、漂浮舱虚拟现实、水下乐器与游泳可穿戴设备等）共同梳理这一领域的重大挑战。",
+   "idea_en": "Water changes the whole soma, including breath, weight, temperature and sound, so designing for bodies in water asks for more than performance tracking.",
+   "idea_zh": "水改变了整个身体：呼吸、重量、温度与声音；为水中的身体设计，需要的远不只是成绩追踪。",
+   "method": "Expert workshop whose discussions were synthesised into grand challenges and a WaterHCI research agenda.",
+   "method_zh": "专家工作坊，其讨论被整理为重大挑战与 WaterHCI 研究议程。",
+   "keywords": [
+    "WaterHCI",
+    "grand challenges",
+    "swimming",
+    "floatation",
+    "diving",
+    "research agenda"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=pMh5TZiJVcw"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3613904.3642052",
+    "doi": "10.1145/3613904.3642052",
+    "venue": "CHI 2024",
+    "title": "Grand challenges in WaterHCI"
+   },
+   "source_url": "https://exertiongameslab.org/",
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "florian-mueller--computers-control-over-bodies",
+   "creator_ids": [
+    "florian-mueller",
+    "nadia-bianchi-berthouze",
+    "richard-byrne",
+    "zhuying-li",
+    "joe-marshall",
+    "rakesh-patibanda",
+    "aryan-saini"
+   ],
+   "title": "Grand Challenges around Designing Computers' Control Over Our Bodies",
+   "year": 2026,
+   "field": "augmented",
+   "sub": "body-integration",
+   "modalities": [
+    "electrical",
+    "extra-body",
+    "movement"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-mind-unity",
+    "body-politics"
+   ],
+   "kind": "paper",
+   "description": "Researchers gathered in a week-long seminar set out the technical, design, user and ethical challenges raised when actuators and electrical muscle stimulation let computers move our bodies.",
+   "description_zh": "研究者在为期一周的研讨会上梳理：当执行器与肌肉电刺激让计算机能够移动我们的身体时，所引出的技术、设计、使用者与伦理挑战。",
+   "idea_en": "When a machine can move your body, agency and the sense of 'I did this' become design material, and an ethical question.",
+   "idea_zh": "当机器能移动你的身体，能动感与“这是我做的”这种感受，就成了设计的材料，也成了伦理问题。",
+   "method": "Week-long expert seminar synthesised into grand challenges and a research agenda for bodily control.",
+   "method_zh": "为期一周的专家研讨，整理为关于身体控制的重大挑战与研究议程。",
+   "keywords": [
+    "bodily control",
+    "electrical muscle stimulation",
+    "agency",
+    "grand challenges",
+    "human-computer integration"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ysgZl9jEwtg"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3772318.3790606",
+    "doi": "10.1145/3772318.3790606",
+    "venue": "CHI 2026",
+    "title": "Grand Challenges around Designing Computers’ Control Over Our Bodies"
+   },
+   "source_url": "https://exertiongameslab.org/",
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "oguz-buruk--playful-bodily-extensions",
+   "creator_ids": [
+    "oguz-buruk",
+    "florian-mueller"
+   ],
+   "title": "Towards Designing Playful Bodily Extensions",
+   "year": 2023,
+   "field": "augmented",
+   "sub": "extra-limbs",
+   "modalities": [
+    "extra-body"
+   ],
+   "lenses": [
+    "extended-body",
+    "pleasure-play"
+   ],
+   "kind": "paper",
+   "description": "Interviews with experts who design and build bodily extensions on how extra limbs and body parts can be designed for play.",
+   "description_zh": "访谈设计与制作身体延伸物的专家，探讨如何为游戏设计额外的肢体与身体部件。",
+   "idea_en": "Extra body parts are not only tools; played with, they let people explore and remake their sense of their own body.",
+   "idea_zh": "多出来的身体部件不只是工具；在游戏中使用它们，人们可以探索并重塑对自身身体的感受。",
+   "method": "Semi-structured interviews with experts in bodily extensions, analysed into themes and design suggestions for playful extensions.",
+   "method_zh": "与身体延伸领域专家的半结构化访谈，分析为趣味身体延伸的主题与设计建议。",
+   "keywords": [
+    "bodily extensions",
+    "expert interviews",
+    "extra limbs",
+    "play"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=vCfClAzbo-k"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3544548.3581165",
+    "doi": "10.1145/3544548.3581165",
+    "venue": "CHI 2023",
+    "title": "Towards Designing Playful Bodily Extensions: Learning from Expert Interviews"
+   },
+   "source_url": "https://exertiongameslab.org/",
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "florian-mueller--body-schema-body-image",
+   "creator_ids": [
+    "florian-mueller",
+    "oguz-buruk",
+    "aryan-saini"
+   ],
+   "title": "Playful Bodily Extensions via Body Schema and Body Image",
+   "year": 2025,
+   "field": "augmented",
+   "sub": "extra-limbs",
+   "also": [
+    "foundations"
+   ],
+   "modalities": [
+    "extra-body",
+    "posture-balance"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-mind-unity"
+   ],
+   "kind": "paper",
+   "description": "Characterises playful bodily extensions by how much they alter the wearer's body schema (how the body works without thought) and body image (how one perceives and thinks of one's body), laid out as a two-dimensional design space.",
+   "description_zh": "用两个维度刻画趣味身体延伸：它在多大程度上改变佩戴者的身体图式（身体无需思考的运作方式）与身体意象（人如何感知与看待自己的身体），并展开为二维设计空间。",
+   "idea_en": "An extension can change how the body moves without changing how it feels as 'mine', or the other way round; designing both is designing the felt soma.",
+   "idea_zh": "一个延伸物可能改变身体如何动作，却不改变“这是我的身体”的感受，反之亦然；同时为两者设计，就是为被感受的身体设计。",
+   "method": "Conceptual analysis of playful bodily extensions using the phenomenological distinction between body schema and body image.",
+   "method_zh": "借用现象学中身体图式与身体意象的区分，对趣味身体延伸作品进行概念分析。",
+   "keywords": [
+    "body schema",
+    "body image",
+    "bodily extensions",
+    "design space",
+    "phenomenology"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1016/j.ijhcs.2025.103457",
+    "doi": "10.1016/j.ijhcs.2025.103457",
+    "venue": "International Journal of Human-Computer Studies 2025",
+    "title": "Towards understanding the design of playful bodily extensions via body schema and body image"
+   },
+   "source_url": "https://exertiongameslab.org/"
+  },
+  {
+   "id": "nandini-pasumarthy--tummy-dragon",
+   "creator_ids": [
+    "nandini-pasumarthy",
+    "maria-fernanda-montoya",
+    "rakesh-patibanda",
+    "rohit-khot",
+    "florian-mueller"
+   ],
+   "title": "My Tummy Has a Little Dragon",
+   "year": 2026,
+   "field": "affect",
+   "sub": "interoception",
+   "also": [
+    "care"
+   ],
+   "modalities": [
+    "pain-interoception",
+    "voice-sound"
+   ],
+   "lenses": [
+    "attunement",
+    "body-data",
+    "care-healing"
+   ],
+   "kind": "paper",
+   "description": "Participants wore a sensor that made their gut sounds audible for a week; hearing their digestion changed how they noticed, felt about and cared for their bodies.",
+   "description_zh": "参与者佩戴一个让肠鸣声可被听见的传感器，为期一周；听见自己的消化过程，改变了他们如何留意、感受与照顾自己的身体。",
+   "idea_en": "Making an ignored, even embarrassing, inner process audible opens a path to interoceptive awareness through reflection and care.",
+   "idea_zh": "让被忽视甚至令人尴尬的内在过程变得可听，就打开了一条通往内感受觉察的路：反思与照护。",
+   "method": "Week-long in-the-wild qualitative study with ten participants using wearable gut-sound sensing; findings articulated as four bodily perspectives, such as registering, reacting and reflecting.",
+   "method_zh": "十名参与者佩戴肠鸣声感测设备，进行为期一周的实地质性研究；研究发现归纳为四种身体视角，如察觉、反应与反思。",
+   "keywords": [
+    "gut sounds",
+    "interoception",
+    "biofeedback",
+    "wearable sensing",
+    "sonification"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=BeV_flg8VgM"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3772318.3790973",
+    "doi": "10.1145/3772318.3790973",
+    "venue": "CHI 2026",
+    "title": "“My Tummy Has a Little Dragon”: From Everyday Experiences of Gut Sounds to Interoceptive Interaction Design"
+   },
+   "source_url": "https://exertiongameslab.org/",
+   "collections": [
+    "chi"
+   ]
+  }
+ ],
+ "leads": [
+  {
+   "name": "Mueller, Gibbs, Vetere, Agamanolis — Table Tennis for Three (Computers in Entertainment 2008)",
+   "why": "Three-way networked physical table tennis; video leoWDvUcv6c on floydmueller. Left out: overlaps Breakout for Two / Jogging over a Distance.",
+   "link": "https://doi.org/10.1145/1394021.1394029",
+   "found_via": "florian-mueller",
+   "status": "open"
+  },
+  {
+   "name": "Mueller & Young — 10 Lenses to Design Sports-HCI (Foundations and Trends in HCI 2018)",
+   "why": "Extension of Five Lenses into a monograph (10.1561/1100000076).",
+   "link": "https://doi.org/10.1561/1100000076",
+   "found_via": "florian-mueller",
+   "status": "open"
+  },
+  {
+   "name": "van Rheden et al. — BreathCrunch and BellyBreath (CHI EA 2025)",
+   "why": "EMS-based breath guidance and enforcement for meditation and running; computer-driven breathing, strong soma fit; video 6A8qpm0T5uY.",
+   "link": "https://doi.org/10.1145/3706599.3721197",
+   "found_via": "florian-mueller",
+   "status": "open"
+  },
+  {
+   "name": "Saini, Van Den Hoven, Mueller — PneuExtensio (DIS 2024 companion)",
+   "why": "Pneumatic bodily extensions for embodiment; sibling of PneuMa (already in augment-hci).",
+   "link": "https://doi.org/10.1145/3656156.3665136",
+   "found_via": "florian-mueller",
+   "status": "open"
+  },
+  {
+   "name": "Saini et al. — Inflated Exertion (TEI 2025)",
+   "why": "Inflatable bodily extension that embodies physical activity.",
+   "link": "https://doi.org/10.1145/3689050.3706069",
+   "found_via": "florian-mueller",
+   "status": "open"
+  },
+  {
+   "name": "Li et al. — A Design Framework for Ingestible Play (TOCHI 2023)",
+   "why": "Framework behind The Guts Game, HeatCraft and InsideOut.",
+   "link": "https://doi.org/10.1145/3589954",
+   "found_via": "florian-mueller",
+   "status": "open"
+  },
+  {
+   "name": "Montoya et al. — XR floatation tank to reduce fear of water (CHI 2024)",
+   "why": "Follow-up to Fluito for water anxiety; care angle.",
+   "link": "https://doi.org/10.1145/3613904.3642285",
+   "found_via": "florian-mueller",
+   "status": "open"
+  },
+  {
+   "name": "Montoya et al. — SurfSync (DIS 2026)",
+   "why": "Refined surfing wearable after SeaMate/OceanEcho; video pzTl1Nb9wlg.",
+   "link": "https://doi.org/10.1145/3800645.3812942",
+   "found_via": "florian-mueller",
+   "status": "open"
+  },
+  {
+   "name": "Pell & Mueller — Gravity Well: underwater play (CHI 2013 Interactivity)",
+   "why": "Underwater play with robotic fish mimicking a swimmer; videos HiegQBU_bxE, dy8kzR0sH2I.",
+   "link": "https://doi.org/10.1145/2468356.2479624",
+   "found_via": "florian-mueller",
+   "status": "open"
+  },
+  {
+   "name": "Mueller et al. — Proxemics Play (DIS 2014)",
+   "why": "Interpersonal distance as a design resource for digital play (82 citations).",
+   "link": "https://doi.org/10.1145/2598510.2598532",
+   "found_via": "florian-mueller",
+   "status": "open"
+  },
+  {
+   "name": "Mueller & Walmink — Duel Reality (IE 2013)",
+   "why": "Sword-fighting game where body data is hidden from its owner but shown to the opponent; vimeo 37451177.",
+   "link": "https://doi.org/10.1145/2513002.2513021",
+   "found_via": "florian-mueller",
+   "status": "open"
+  },
+  {
+   "name": "Elvitigala et al. — Grand Challenges in SportsHCI (CHI 2024)",
+   "why": "Research agenda for sports and HCI (65 citations); Mueller co-author.",
+   "link": "https://doi.org/10.1145/3613904.3642050",
+   "found_via": "florian-mueller",
+   "status": "open"
+  },
+  {
+   "name": "Liu, Ens, Semertzidis, Lee, Mueller — Flytrap Hand: (Un)Fortunate Superpowers via a flytrap-inspired hand augmentation (TEI 2026)",
+   "why": "EMS 'superpower' hand augmentation and its dark patterns. The sibling EmoPals / 'My Happiness Makes You Smile' was added by augment-bci (siyi-liu--emopals).",
+   "link": "https://doi.org/10.1145/3731459.3773299",
+   "found_via": "florian-mueller",
+   "status": "open"
+  },
+  {
+   "name": "Semertzidis, Zambetta, Mueller — Brain-Computer Integration (TOCHI 2023); PsiNet (CHI 2024); Inter-Dream (CHI 2019); Andres et al. — Peripheral Awareness / Ena EEG eBike (CHI 2020)",
+   "why": "Exertion Games Lab BCI works; all added by the augment-bci batch (also Ena, LuciEntry, EmoPals).",
+   "link": "https://doi.org/10.1145/3603621",
+   "found_via": "florian-mueller",
+   "status": "duplicate"
+  }
+ ]
+}
