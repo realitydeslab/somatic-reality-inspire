@@ -38,6 +38,7 @@ and `data/RESEARCH_BRIEF.md` → project stance (Kristina Höök's lineage; body
 - Before adding, grep `data/orgs/*.json` for the name/url — parallel agents write too; do not duplicate.
 - Validate: `python3 tools/validate_orgs.py data/orgs/<file>.json` until ✓.
 - Search: WebSearch / WebFetch, curl, Wikipedia API; sparingly `curl -s -A "Mozilla/5.0" "https://html.duckduckgo.com/html/?q=<query>"`.
+- Never put the user's email (or any personal email) in an API request — no `mailto=` for Crossref / OpenAlex; accept rate limits instead.
 - No Chrome browser tools. Scratch: `temp/<your-batch>/`.
 
 ## Report back (short)

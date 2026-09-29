@@ -83,6 +83,7 @@ kinds / collections / disciplines) and `plan/AGENTS.md` (which batch owns what).
   (`curl -s "https://dblp.org/search/publ/api?q=<q>&format=json&h=50"`), Crossref (`https://api.crossref.org/works?query=…`),
   Semantic Scholar API, researchers' homepages, KTH DiVA (diva-portal.org), YouTube oEmbed. If WebSearch fails, use curl
   and sparingly `curl -s -A "Mozilla/5.0" "https://html.duckduckgo.com/html/?q=<query>"`.
+- Never put the user's email (or any personal email) in an API request — no `mailto=` for Crossref / OpenAlex; accept rate limits instead.
 - Do NOT use the Chrome browser tools (shared). Scratch files: `temp/<your-batch>/` only.
 - Do NOT touch files outside `data/raw/`, `data/title_zh/<your-batch>.json` and `temp/<your-batch>/`.
 
