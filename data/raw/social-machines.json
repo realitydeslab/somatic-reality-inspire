@@ -2765,14 +2765,15 @@
    ],
    "title": "Proprioceptive Interaction",
    "year": 2015,
-   "field": "machines-xr",
-   "sub": "robots-drones",
+   "field": "augmented",
+   "sub": "body-integration",
    "modalities": [
+    "electrical",
     "muscle",
-    "posture-balance",
-    "movement"
+    "posture-balance"
    ],
    "lenses": [
+    "extended-body",
     "touching-back",
     "estrangement"
    ],
@@ -2804,7 +2805,10 @@
    "collections": [
     "chi"
    ],
-   "exhibited": []
+   "exhibited": [],
+   "also": [
+    "machines-xr"
+   ]
   },
   {
    "id": "pedro-lopes--affordance-plus-plus",
@@ -2813,9 +2817,10 @@
    ],
    "title": "Affordance++",
    "year": 2015,
-   "field": "machines-xr",
-   "sub": "robots-drones",
+   "field": "augmented",
+   "sub": "body-integration",
    "modalities": [
+    "electrical",
     "muscle",
     "movement"
    ],
@@ -2853,6 +2858,9 @@
    ],
    "exhibited": [
     "CHI 2015 Best Paper Award"
+   ],
+   "also": [
+    "machines-xr"
    ]
   },
   {
@@ -2863,13 +2871,14 @@
    ],
    "title": "Next Steps for Human-Computer Integration",
    "year": 2020,
-   "field": "machines-xr",
-   "sub": "robots-drones",
+   "field": "augmented",
+   "sub": "body-integration",
    "modalities": [
     "whole-soma",
     "muscle"
    ],
    "lenses": [
+    "extended-body",
     "body-mind-unity",
     "more-than-human"
    ],
@@ -2900,7 +2909,10 @@
    "collections": [
     "chi"
    ],
-   "exhibited": []
+   "exhibited": [],
+   "also": [
+    "machines-xr"
+   ]
   },
   {
    "id": "laura-devendorf--being-the-machine",
@@ -4045,6 +4057,9 @@
    "collections": [],
    "exhibited": [
     "Ig Nobel Prize 2016 (Biology)"
+   ],
+   "also": [
+    "augmented"
    ]
   },
   {

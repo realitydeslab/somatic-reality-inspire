@@ -1931,7 +1931,10 @@
     "venue": "CHI PLAY 2016",
     "title": "Balance Ninja: Towards the Design of Digital Vertigo Games via Galvanic Vestibular Stimulation"
    },
-   "source_url": "https://exertiongameslab.org/projects/balance-ninja"
+   "source_url": "https://exertiongameslab.org/projects/balance-ninja",
+   "also": [
+    "augmented"
+   ]
   },
   {
    "id": "josh-andres--ari-ebike",

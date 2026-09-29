@@ -2301,12 +2301,14 @@
    ],
    "title": "Electric Stimulus to Face",
    "year": 2008,
-   "field": "movement",
-   "sub": "somatic-art",
+   "field": "augmented",
+   "sub": "cyborg-art",
    "also": [
+    "movement",
     "machines-xr"
    ],
    "modalities": [
+    "electrical",
     "muscle",
     "voice-sound"
    ],

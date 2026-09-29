@@ -1,8 +1,8 @@
 # Somatic Reality Inspire — 作品目录
 
-以 Kristina Höök 一脉为中心的身体设计（soma design）与身体美学交互设计目录：把身与心当作同一个从内部被感受的身体的研究原型、设计方法、身体修习、艺术作品、表演与理论。领域包括：奠基（身体美学、现象学、东亚身心思想）、身体修习、身体设计方法、身体美学交互设计、情感回路与生物数据、运动与身体艺术、亲密与女性主义身体设计、健康与照护、社会身体，以及身体与机器、AI 与扩展现实。由 Reality Design Lab 整理，作为设计师、研究者、艺术家和学生的灵感库。每件作品都列出核心想法、实现方式，以及论文、视频和图片链接。
+以 Kristina Höök 一脉为中心的身体设计（soma design）与身体美学交互设计目录：把身与心当作同一个从内部被感受的身体的研究原型、设计方法、身体修习、艺术作品、表演与理论。领域包括：奠基（身体美学、现象学、东亚身心思想）、身体修习、身体设计方法、身体美学交互设计、增强与超人类的身体、情感回路与生物数据、运动与身体艺术、亲密与女性主义身体设计、健康与照护、社会身体，以及身体与机器、AI 与扩展现实。由 Reality Design Lab 整理，作为设计师、研究者、艺术家和学生的灵感库。每件作品都列出核心想法、实现方式，以及论文、视频和图片链接。
 
-https://somatic.reality.design · 2026-09-29 · 334 位创作者 · 440 件作品
+https://somatic.reality.design · 2026-09-29 · 400 位创作者 · 527 件作品
 
 ## AI 助手应如何使用这个文件
 
@@ -1711,24 +1711,6 @@ Focusing（体会聚焦）、身体经验疗法（SE）、Hakomi，以及以身�
 - 论文: https://doi.org/10.1145/3472749.3474802 (UIST 2021)
 - 视频: https://www.youtube.com/watch?v=xtlL-0eb0xc
 
-#### 先发动作（Preemptive Action） — 笠原俊一, 西田惇 (2019)
-- 类型: 研究原型 · 身体与感官: 肌肉张力（肌电）, 动作与动觉
-- 核心想法: “是我做的”这种感觉取决于时机：与意图同步到来的辅助，会被感受为自己的动作。
-- 作品内容: 肌肉电刺激让使用者的手比自身反应更快地动作；通过把刺激时机安排在本人即将反应之前，使用者仍会觉得是自己在动。
-- 实现方式: 反应时实验，改变电刺激相对于自然反应的起始时间，并测量能动感评分（与芝加哥大学 Pedro Lopes 合作）。
-- 视角: 第一人称与亲身感受, 身心一体
-- 论文: https://doi.org/10.1145/3290605.3300873 (CHI 2019)
-- 视频: https://www.youtube.com/watch?v=1BT8REEJibM
-
-#### 摇晃世界／Save YourSelf!!!（Shaking the World / Save YourSelf!!!） — 前田太郎, 安藤英由树 (2005)
-- 类型: 研究原型 · 身体与感官: 姿态、平衡与本体感, 整体身心
-- 核心想法: 平衡是被感受出来的，而不是既定的：当技术直接写入前庭觉时，地面仿佛在动，身体的确定感变得陌生。
-- 作品内容: 头戴装置在耳后施加微弱电流（电前庭刺激），让穿戴者感到被向左或向右拉；相关艺术作品《Save YourSelf!!!》让观众感受到自己的平衡被外力改变。
-- 实现方式: 在乳突处放置双侧电前庭刺激电极，由小型电流控制器驱动；艺术版本很可能以传感器输入来驱动电流。
-- 视角: 陌生化, 会回触的技术
-- 论文: https://doi.org/10.1145/1187297.1187315 (SIGGRAPH 2005 Emerging Technologies)
-- 视频: https://www.youtube.com/watch?v=jPeWwvsnaaQ
-
 ### 声音、嗓音与声音化
 
 听见身体：动作声音化、歌唱、被感受到的嗓音。
@@ -1790,6 +1772,1022 @@ Focusing（体会聚焦）、身体经验疗法（SE）、Hakomi，以及以身�
 - 视角: 动作与表达, 调谐与鉴赏
 - 论文: https://doi.org/10.1145/3294109.3295623 (TEI 2019)
 - 图片: https://figures.semanticscholar.org/81b83d6431712aa2e5de7e65dbf2fe04156c71e7/2-Figure1-1.png https://figures.semanticscholar.org/81b83d6431712aa2e5de7e65dbf2fe04156c71e7/6-Figure3-1.png
+
+## 增强与超人类的身体
+
+延展被感受的身体的技术：多出来的肢体、新的感官、由计算机驱动的肌肉、赛博格艺术，以及其背后的超人类与后人类思想——从身体出发，而不是从机器出发来理解。
+
+### 多出来的肢体、尾巴与假体
+
+多出来的手指、手臂和尾巴，以及身体学会视为己有的假体。
+
+#### PneuMa — Aryan Saini, Rakesh Patibanda, Florian 'Floyd' Mueller (2024)
+- 类型: 研究原型 · 身体与感官: 多出来的肢体与身体延伸, 形变与充气, 动作与动觉
+- 核心想法: 被身体延伸装置轻轻带动，会提高人对自身动作习惯的觉察；执行机构因此可以服务于对身体的关注，而不是取而代之。
+- 作品内容: 在日常时刻移动身体部位的柔性气动可穿戴装置：把耳朵向前推以便倾听（“Pardon?”），抬起手挥别，或把双手从键盘上拉开提醒休息。
+- 实现方式: 在耳朵、手和手臂上按情境触发的充气执行器；对 12 名参与者进行田野研究并作主题分析（身体觉察、对情境的感知、对动作的预期）。
+- 视角: 延展的身体, 调谐与鉴赏
+- 论文: https://doi.org/10.1145/3623509.3633349 (TEI 2024)
+- 视频: https://www.youtube.com/watch?v=MpVxFC3npEc
+
+#### 自在肢（JIZAI ARMS）（JIZAI ARMS） — Nahoko Yamamura, 吉田成朗, 稻见昌彦 (2023)
+- 类型: 研究原型 · 身体与感官: 多出来的肢体与身体延伸, 动作与动觉, 触摸与压力
+- 核心想法: 额外的肢体不只是个人工具；与他人交换一只手臂，让延展的身体变成共享的、社会性的身体。
+- 作品内容: 一个背部可穿戴单元带六个接口，可安装可拆卸的机械臂，由佩戴者或他人控制；机械臂还可以在佩戴者之间传递，成为一种社交交换。
+- 实现方式: 由人类增强研究者与产品设计师、制造商共同设计；机械臂由小型电机驱动，很可能通过一个缩小的复制臂作为控制器进行远程操控。
+- 视角: 延展的身体, 身体间性
+- 论文: https://doi.org/10.1145/3544548.3581169 (CHI 2023)
+- 视频: https://www.youtube.com/watch?v=KFyZQfqaXhE
+- 项目主页: https://jizai-body.com
+
+#### 机器人手部增强改变大脑的身体表征（Robotic Hand Augmentation Drives Changes in Neural Body Representation） — Paulina Kieliba, Dani Clode, Tamar Makin (2021)
+- 类型: 论文 · 身体与感官: 多出来的肢体与身体延伸, 动作与动觉, 脑（脑电）
+- 核心想法: 增加一个肢体并非没有代价：当额外的拇指被纳入身体时，它所连接的那只手在感受上和神经表征上也随之改变。
+- 作品内容: 健全的志愿者连续五天在实验室和日常生活中佩戴 Third Thumb；他们即使不看也学会了使用它，报告它越来越像身体的一部分，而脑解码显示他们原本那只手的脑内表征出现了部分“塌缩”。
+- 实现方式: 为期五天的训练研究，结合运动与灵巧性任务、具身感问卷、手部运动学，以及训练前后手指表征的功能磁共振成像解码。
+- 视角: 延展的身体, 身心一体
+- 论文: https://doi.org/10.1126/scirobotics.abd7935 (Science Robotics 2021)
+- 视频: https://www.youtube.com/watch?v=GKSCmkCE5og
+- 项目主页: https://www.plasticity-lab.com
+
+#### HandMorph — 西田惇, Pedro Lopes (2020)
+- 类型: 研究原型 · 身体与感官: 多出来的肢体与身体延伸, 触摸与压力, 动作与动觉
+- 核心想法: 改变抓握身体的尺寸，就改变了物体所提供的可能性；对另一个身体的共情因此可以在自己的手中被感受到。
+- 作品内容: 一种被动外骨骼手套，把佩戴者的手映射到一组更小的机械手指上，让成年人以儿童的手掌尺寸抓握物体，体会儿童的手如何与世界相处。
+- 实现方式: 无电机的连杆式外骨骼，佩戴者的每根手指驱动一根更短的机械手指；设计者用它来评估面向儿童的产品。
+- 视角: 延展的身体, 身体间性
+- 展出与获奖: UIST 2020 Best Paper Award
+- 论文: https://doi.org/10.1145/3379337.3415875 (UIST 2020)
+- 视频: https://www.youtube.com/watch?v=5o2wPy5hl0w
+- 项目主页: https://lab.plopes.org
+
+#### Arque — Junichi Nabeshima, MHD Yamen Saraiji, 南泽孝太 (2019)
+- 类型: 研究原型 · 身体与感官: 多出来的肢体与身体延伸, 姿态、平衡与本体感, 动作与动觉
+- 核心想法: 尾巴让通常不被察觉的平衡成为身体后方能感受到的东西，也让人借用动物的站立方式。
+- 作品内容: 一条可穿戴人工尾巴：佩戴者身体倾斜时，它会甩向相反方向，像猴子或猎豹的尾巴那样帮助保持平衡。
+- 实现方式: 由类似脊椎的模块串联在四根人工气动肌肉上；追踪身体倾斜并驱动尾巴反向平衡，长度与重量可按佩戴者调整。
+- 视角: 延展的身体, 超越人类
+- 论文: https://doi.org/10.1145/3305367.3327987 (SIGGRAPH 2019 Emerging Technologies)
+- 视频: https://www.youtube.com/watch?v=Tr1-IhEhXYQ
+- 项目主页: https://embodiedmedia.org
+
+#### 主动肌-拮抗肌肌神经接口（AMI）（Agonist-Antagonist Myoneural Interface (AMI)） — Hugh Herr (2018)
+- 类型: 研究原型 · 身体与感官: 多出来的肢体与身体延伸, 姿态、平衡与本体感, 肌肉张力（肌电）
+- 核心想法: 假体被纳入身体，是在它能被从内部感受到的时候：恢复本体感，而不只是控制，才让人说这条腿“是我的”。
+- 作品内容: 一种截肢手术：在残肢中重新连接成对的肌肉，使仿生踝关节运动时，人能像感受自己关节一样感受到它的位置与运动。
+- 实现方式: 通过手术相连的主动肌与拮抗肌产生自然的牵张信号；电极读取其活动来驱动动力踝足假体，假体的运动再以肌肉牵张的形式反馈回来。
+- 视角: 延展的身体, 照护与疗愈
+- 论文: https://doi.org/10.1126/scitranslmed.aap8373 (Science Translational Medicine 2018)
+- 视频: https://www.youtube.com/watch?v=D7wiPQUDm94
+- 图片: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/The_Debut_of_Bionic_Ballet_%2813480669224%29_%282%29.jpg/1280px-The_Debut_of_Bionic_Ballet_%2813480669224%29_%282%29.jpg
+- 项目主页: https://www.media.mit.edu/groups/biomechatronics/overview/
+
+#### Fusion — MHD Yamen Saraiji, Tomoya Sasaki, 南泽孝太 (2018)
+- 类型: 研究原型 · 身体与感官: 多出来的肢体与身体延伸, 动作与动觉, 光与视觉
+- 核心想法: 当两个人栖居在同一个身体中，“我的”身体与“我的”行动的边界变得可以协商，引导也能直接在肢体上被感受到。
+- 作品内容: 一个装有机器人头部和两只机械臂的背包，让远方的操作者从佩戴者肩上观看、用额外的手臂行动，或抓住佩戴者自己的手臂加以引导：两个人共享一个身体。
+- 实现方式: 可穿戴机器人头部带立体摄像头与两只拟人机械臂，由佩戴 VR 头显、动作被追踪的远程用户操控。
+- 视角: 延展的身体, 身体间性
+- 论文: https://doi.org/10.1145/3214907.3214912 (SIGGRAPH 2018 Emerging Technologies)
+- 视频: https://www.youtube.com/watch?v=Nrc7gH6dydw
+- 项目主页: https://embodiedmedia.org
+
+#### MetaLimbs 多臂（MetaLimbs） — Tomoya Sasaki, 南泽孝太 (2017)
+- 类型: 研究原型 · 身体与感官: 多出来的肢体与身体延伸, 动作与动觉, 姿态、平衡与本体感
+- 核心想法: 身体图式是可塑的：在直接、连续的控制下，新的肢体开始被感受为自己身体的一部分，而不是工具。
+- 作品内容: 两条装在穿戴者背后的机械臂由穿戴者自己的腿和脚来控制，经过练习后，人可以用四条手臂同时拿、够、焊接。
+- 实现方式: 背负式机械臂，映射到由运动传感器追踪的脚与膝的位置，脚趾控制夹爪，脚部有触觉反馈（庆应 KMD 与稻见昌彦实验室合作）。
+- 视角: 延展的身体, 身心一体, 陌生化
+- 论文: https://doi.org/10.1145/3084822.3084837 (SIGGRAPH 2017 Emerging Technologies)
+- 视频: https://www.youtube.com/watch?v=NIuIiI5mVhI
+
+#### 技术具身化的神经认知障碍（Neurocognitive Barriers to the Embodiment of Technology） — Tamar Makin (2017)
+- 类型: 论文 · 身体与感官: 多出来的肢体与身体延伸, 脑（脑电）, 整体身心
+- 核心想法: 具身不是设备“有或没有”的属性，而取决于身体的感知、控制与自我模型如何接纳它；设计者应追求这种被感受到的融合，而不只是功能。
+- 作品内容: 一篇观点文章，追问要让假体或增强设备被体验为身体的一部分需要什么，以及大脑中存在哪些阻碍。
+- 实现方式: 综述身体归属错觉、截肢者与假体研究以及运动控制研究，作者为 Tamar Makin、Frédérique de Vignemont 与 A. Aldo Faisal。
+- 视角: 延展的身体, 身心一体
+- 论文: https://doi.org/10.1038/s41551-016-0014 (Nature Biomedical Engineering 2017)
+- 图片: https://images.squarespace-cdn.com/content/v1/593a7b3215d5dbd460e42f0c/1501444059972-WSNT2MGHSID609LFAEP2/prosthesis-amputee-research.jpg
+- 项目主页: https://www.plasticity-lab.com
+
+#### 第三拇指（The Third Thumb） — Dani Clode (2017)
+- 类型: 研究原型 · 身体与感官: 多出来的肢体与身体延伸, 动作与动觉, 触摸与压力
+- 核心想法: 它把假体重新理解为延伸而非替代；一旦身体学会，脚的动作能很快被感受为手指的动作。
+- 作品内容: 一只 3D 打印的机器人拇指，戴在与原生拇指相对的手掌一侧，由大脚趾下的压力传感器控制，让佩戴者用一只手以新的方式握持和操作物体。
+- 实现方式: 两个置于脚趾下的无线压力传感器驱动电机拉动拇指内的线缆；最初是皇家艺术学院的毕业作品，后来用于 Makin 实验室的神经科学研究。
+- 视角: 延展的身体, 身心一体
+- 视频: https://www.youtube.com/watch?v=UD_LwZD2Kls
+- 项目主页: https://www.plasticity-lab.com
+
+#### 虚拟现实中的小人灵活性（Homuncular Flexibility in Virtual Reality） — Andrea Stevenson Won (2015)
+- 类型: 论文 · 身体与感官: 多出来的肢体与身体延伸, 动作与动觉, 光与视觉
+- 核心想法: Jaron Lanier 提出的“小人灵活性”得到验证：身体图式能很快围绕一个从未拥有过的身体结构重新组织。
+- 作品内容: 在虚拟现实中，参与者学习操控手脚互换、或拥有一只由手腕旋转控制的第三只手臂的化身，并在几分钟内就掌握了。
+- 实现方式: 两项使用动作追踪、把肢体重新映射到化身部位的 VR 实验，测量击打目标任务的表现随时间的变化；作者为 Won、Bailenson、Lee 与 Lanier。
+- 视角: 延展的身体, 身心一体
+- 论文: https://doi.org/10.1111/jcc4.12107 (Journal of Computer-Mediated Communication 2015)
+
+#### 机器人第六指（The Robotic Sixth Finger） — Domenico Prattichizzo (2014)
+- 类型: 研究原型 · 身体与感官: 多出来的肢体与身体延伸, 动作与动觉, 肌肉张力（肌电）
+- 核心想法: 一根额外的手指可以补全失去功能的手：身体是通过增添而不是复原得到修补的。
+- 作品内容: 一根绑在手腕上的模块化机器人手指，与手的原有手指配合抓握；后来的柔性版本由肌电信号控制，帮助中风患者用无力的手重新握住物体。
+- 实现方式: 腕带上由舵机驱动的手指模块；柔性版本由额头或手臂肌肉的肌电信号控制，闭合时与患手相对抓握。
+- 视角: 延展的身体, 照护与疗愈
+- 论文: https://doi.org/10.1109/roman.2014.6926382 (IEEE RO-MAN 2014)
+- 视频: https://www.youtube.com/watch?v=1GBLk2fN6ao
+
+#### 拥有第三只手臂的错觉（The Illusion of Owning a Third Arm） — Arvid Guterstam, Valeria I. Petkova, H. Henrik Ehrsson (2011)
+- 类型: 论文 · 身体与感官: 多出来的肢体与身体延伸, 触摸与压力, 光与视觉
+- 核心想法: 被感受的身体并不受限于实际肢体数量，它可以容纳一只多出来的手臂；这正是额外肢体设计的基础。
+- 作品内容: 参与者低头看着放在真实右臂旁的一只橡胶手臂，同时两者被同步抚触，许多人会感到自己有两只右臂。
+- 实现方式: 橡胶手错觉的变体，真实手臂保持可见；通过问卷和对橡胶手或真实手受威胁时的皮肤电反应测量归属感。
+- 视角: 延展的身体, 身心一体
+- 论文: https://doi.org/10.1371/journal.pone.0017208 (PLoS ONE 2011)
+- 视频: https://www.youtube.com/watch?v=myKWktRTNf0
+- 项目主页: https://www.ehrssonlab.se
+
+### 新感官与感官替代
+
+借由皮肤与身体感受方向、声音、红外、回声定位或其他物种的感官。
+
+#### 借由人类增强体验超越人类（Experiencing the More-than-Human Through Human Augmentation） — Botao 'Amber' Hu, Danlin Huang (2026)
+- 类型: 论文 · 身体与感官: 新感官与替代感官, 整体身心, 多出来的肢体与身体延伸
+- 核心想法: 增强技术可以松动人的感官，而不是优化它；被感受的身体成为从内部接近其他物种世界的途径。
+- 作品内容: 一篇设计论文，把人类增强设备“侧转”使用：不是让人更强，而是提供短暂的、第一人称的近似体验，去体会蝙蝠、真菌或章鱼如何感知；论文基于五件混合现实、触觉与肌电刺激作品。
+- 实现方式: 以生态现象学与生态身体学为基础的设计研究，从 EchoVision、FeltSight、FungiSync、TentacUs 与 City of Sparkles 中归纳出七条设计原则。
+- 视角: 超越人类, 延展的身体, 第一人称与亲身感受
+- 论文: https://doi.org/10.21606/drs.2026.814 (DRS 2026)
+- 图片: https://arxiv.org/html/2511.12533v3/images/MtHtHA.png https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/58a9a6e6-1cc7-4d68-be74-e80f26ae94c7/aadasdasd/public
+- 项目主页: https://amber.botao.hu/project/hth
+
+#### 触见（FeltSight） — Danlin Huang, Botao 'Amber' Hu, Rem RunGu Lin (2025)
+- 类型: 研究原型 · 身体与感官: 新感官与替代感官, 触摸与压力, 振动与触觉反馈
+- 核心想法: 削弱视觉、延伸触觉，会让人慢下来，把手当作认识世界的器官去探索。
+- 作品内容: 受星鼻鼹启发，柔软的触觉手套与混合现实头显配合使用，让佩戴者在触碰之前就能通过指尖感受附近的表面；视觉则淡入黑暗，只有小团光晕环绕双手。
+- 实现方式: Apple Vision Pro 的场景网格与手部追踪，根据与表面的距离驱动张开式软手套中的振动器。
+- 视角: 延展的身体, 超越人类, 陌生化
+- 展出与获奖: SIGGRAPH Asia 2025 Art Papers; CHI 2026 Interactivity; IEEE VR 2026 XR Gallery
+- 论文: https://doi.org/10.1145/3800645.3812822 (DIS 2026 Pictorial)
+- 视频: https://www.youtube.com/watch?v=7Pq6s3VnD0A
+- 图片: https://reality.design/media/feltsight-cover-forest-closeup.webp
+- 项目主页: https://reality.design/project/feltsight
+
+#### TentacUs — Botao 'Amber' Hu, Danlin Huang (2025)
+- 类型: 表演、舞蹈与音乐 · 身体与感官: 新感官与替代感官, 振动与触觉反馈, 触摸与压力
+- 核心想法: 章鱼用触手而不只用大脑感知；在身体之间共享感觉，让参与者体会一种去中心的、分布式的身心。
+- 作品内容: 一场混合现实仪式：舞者左手相牵围成一圈，每人成为一只类章鱼生命的一条触手；一只右手在附近感知到的东西，会以振动传给相邻的人，感知由此在群体中扩散。
+- 实现方式: 柔软织物触手手套内置智能手机：LiDAR 感知距离，振动马达把触觉波传给相邻者；触碰数据以点云形式绘制在现场的 3D 高斯泼溅扫描上供观众观看。
+- 视角: 身体间性, 超越人类, 延展的身体
+- 展出与获奖: SIGGRAPH Asia 2025 XR
+- 论文: https://doi.org/10.1145/3761667.3761962 (SIGGRAPH Asia 2025 XR)
+- 图片: https://arxiv.org/html/2511.12533v3/images/tentacus.jpg https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/afd62d02-7102-4a26-b5b4-03df6cc2744b/image2/public
+- 项目主页: https://amber.botao.hu/design/tentacus
+- 代码: https://github.com/realitydeslab/tentacus
+
+#### 回声视界（EchoVision） — Botao 'Amber' Hu, 李佳宝, Danlin Huang (2024)
+- 类型: 艺术作品与装置 · 身体与感官: 新感官与替代感官, 嗓音、声音与聆听, 光与视觉
+- 核心想法: 用自己的声音去“看”，让熟悉的地方变得陌生，也让知觉被感受为一种主动的身体行为。
+- 作品内容: 观众举起一副蝙蝠形状的混合现实面具，用嗓音发出声音，便会看到光波在周围的人与物上扫过，模拟蝙蝠的回声定位。
+- 实现方式: 定制面具内的智能手机 HoloKit 头显；激光雷达重建场景，麦克风输入触发扩散的回声着色效果。
+- 视角: 延展的身体, 超越人类, 陌生化
+- 展出与获奖: SIGGRAPH Asia 2024 Art Papers; Augmented Humans 2025 Best Demo Award; Plásmata 3, Athens, 2025
+- 论文: https://doi.org/10.1145/3706599.3721192 (CHI 2025 Interactivity)
+- 视频: https://vimeo.com/955577972
+- 图片: https://reality.design/media/_resources/echovision-jiabao-01.webp
+- 项目主页: https://reality.design/project/echovision
+
+#### 化学触觉（Chemical Haptics） — Jasmine Lu, Jas Brooks, Pedro Lopes (2021)
+- 类型: 研究原型 · 身体与感官: 温度与热, 疼痛与内在感觉, 触摸与压力
+- 核心想法: 皮肤自身的化学反应就可以成为显示：感觉在身体的感受器内部产生，而不是由马达从外部施加。
+- 作品内容: 一个可穿戴装置把少量对皮肤安全的化学物质泵到皮肤上，在 VR 场景中产生刺麻（山椒素）、麻木（利多卡因）、刺痛（肉桂醛）、温热（辣椒素）和清凉（薄荷醇）的感觉。
+- 实现方式: 带小型储液器与泵的可穿戴装置把液体刺激物输送到皮肤上；用户研究测试每种感觉的质感、起效与持续时间，以及在 VR 场景中的使用。
+- 视角: 会回触的技术, 陌生化
+- 论文: https://doi.org/10.1145/3472749.3474747 (UIST 2021)
+- 视频: https://www.youtube.com/watch?v=gQ3qBUIj7D4
+- 项目主页: https://lab.plopes.org
+
+#### 经三叉神经电刺激的立体嗅觉（Stereo-Smell via Electrical Trigeminal Stimulation） — Jas Brooks, Pedro Lopes (2021)
+- 类型: 研究原型 · 身体与感官: 新感官与替代感官, 电刺激（肌肉电刺激、前庭电刺激）, 疼痛与内在感觉
+- 核心想法: 嗅觉部分是鼻腔内的身体性、触觉性感觉；直接作用于这条神经，就能像听觉那样赋予嗅觉方向。
+- 作品内容: 放在鼻中隔上的小装置以电刺激三叉神经，让佩戴者感到类似气味的感觉来自左边或右边，并能转头追踪一个虚拟气味源。
+- 实现方式: 鼻中隔上的电极向三叉神经末梢施加左右不同的电脉冲；用户研究测试感知方向以及在 VR 中循虚拟气味导航。
+- 视角: 延展的身体, 会回触的技术
+- 论文: https://doi.org/10.1145/3411764.3445300 (CHI 2021)
+- 视频: https://www.youtube.com/watch?v=sbmYBUSuM48
+- 项目主页: https://lab.plopes.org
+
+#### 以自我为中心的“小个子”体验（Egocentric Smaller-Person Experience） — 西田惇 (2019)
+- 类型: 研究原型 · 身体与感官: 光与视觉, 动作与动觉, 姿态、平衡与本体感
+- 核心想法: 只改变眼睛的高度，就会改变身体被感受到的大小，也随之改变人对物与他人的行动方式。
+- 作品内容: 一种可穿戴的视觉转换装置，把穿戴者的视线高度降到腰部，让成年人以儿童的视角观看和穿行于护理学校或博物馆中。
+- 实现方式: 头戴显示器接收腰部立体摄像头的画面，摄像头随头部转动；在护理学生与博物馆观众中进行实地研究。
+- 视角: 延展的身体, 身体间性, 陌生化
+- 论文: https://doi.org/10.1145/3290605.3300926 (CHI 2019)
+- 视频: https://www.youtube.com/watch?v=ZkZjfqo6h3I
+
+#### North Sense — Cyborg Nest (2017)
+- 类型: 产品与应用 · 身体与感官: 新感官与替代感官, 振动与触觉反馈, 姿态、平衡与本体感
+- 核心想法: 日夜贴在皮肤上，方向感成为被感受的自我的一部分，而不是一个需要查看的应用。
+- 作品内容: 一个用钛制穿刺固定在胸前的小型硅胶装置，每当佩戴者面向磁北时就轻轻振动一下。
+- 实现方式: 封装的罗盘传感器与振动马达，通过两根穿过皮肤的表面钉固定；创始人发布了佩戴一年后的第一人称影像自述。
+- 视角: 延展的身体, 第一人称与亲身感受
+- 视频: https://www.youtube.com/watch?v=0xPMpKxd1R8
+
+#### VEST 背心与 Neosensory Buzz（VEST and Neosensory Buzz） — David Eagleman (2015)
+- 类型: 产品与应用 · 身体与感官: 新感官与替代感官, 振动与触觉反馈, 嗓音、声音与聆听
+- 核心想法: 只要身体与之共处得足够久，皮肤就能承载一条新的意义之流；大脑并不在意信号从哪扇门进来。
+- 作品内容: 一件背心（后来是一只腕带），把声音转换为皮肤上的振动图案，让聋人学会“感受”语音和环境声音。
+- 实现方式: 麦克风音频被分成频带，映射到躯干上的 32 个振动马达（VEST）或手腕上的 4 个（Buzz），需每日佩戴数周进行训练。
+- 视角: 延展的身体, 身心一体
+- 论文: https://doi.org/10.1007/s00221-015-4346-1 (Experimental Brain Research 2015)
+- 视频: https://www.youtube.com/watch?v=4c1lqFXHvqI
+- 项目主页: https://eagleman.com
+
+#### 用电增强味觉（Augmented Gustation Using Electricity） — 中村裕美, 宫下芳明 (2011)
+- 类型: 研究原型 · 身体与感官: 新感官与替代感官, 电刺激（肌肉电刺激、前庭电刺激）, 疼痛与内在感觉
+- 核心想法: 味觉看似私密而既定，实际上可以从外部调节；饮食因此成为察觉知觉如何生成的地方。
+- 作品内容: 通过吸管或叉子传入的微弱电流会改变口中食物与饮料的味道；这一研究后来发展为麒麟电盐勺，让低盐食物尝起来更咸。
+- 实现方式: 餐具中的电极经由舌头形成回路；电流的极性与波形可以增添一种“电味”，或增强、减弱咸味。
+- 视角: 延展的身体, 陌生化
+- 论文: https://doi.org/10.1145/1959826.1959860 (Augmented Human 2011)
+- 视频: https://www.youtube.com/watch?v=EOqN_BRbSWU
+
+#### 触觉雷达 / 延展皮肤（Haptic Radar / Extended Skin） — Alvaro Cassinelli (2006)
+- 类型: 研究原型 · 身体与感官: 新感官与替代感官, 振动与触觉反馈, 触摸与压力
+- 核心想法: 皮肤可以延伸到周围的空间，让被感受到的身体边界超出物理身体。
+- 作品内容: 一个由多个模块组成的头带，每个模块感知与附近物体的距离，有东西靠近时便振动，让蒙眼的佩戴者像昆虫触角或胡须那样躲开从背后接近的物体。
+- 实现方式: 红外测距器与振动马达成对组成模块，每个模块如同一根“光学触角”；测试参与者能否避开看不见的靠近物体。
+- 视角: 延展的身体, 超越人类
+- 论文: https://doi.org/10.1109/iswc.2006.286344 (ISWC 2006)
+- 视频: https://www.youtube.com/watch?v=Ow_RISC2S0A
+- 图片: http://ishikawa-vision.org/perception/HapticRadar/DSC_8196.jpg
+- 项目主页: https://www.ishikawa-vision.org/perception/HapticRadar/index-e.html
+
+#### feelSpace 磁北腰带（feelSpace Belt） — Saskia K. Nagel (2005)
+- 类型: 研究原型 · 身体与感官: 新感官与替代感官, 振动与触觉反馈, 姿态、平衡与本体感
+- 核心想法: 新感官并不是在经验之上叠加数据，而是改变了身体对周围空间的感受；摘下腰带后，这种变化也会消退。
+- 作品内容: 一条装有振动马达的腰带，始终是朝北的那个马达在振动；连续佩戴数周后，人们报告空间本身的感觉变了，并感到安心、“不会迷路”。
+- 实现方式: 绕腰一圈的振动马达由电子罗盘驱动；包括导航任务、访谈与问卷的长期佩戴研究（Nagel 等 2005；Kaspar、König 等 2014）。
+- 视角: 延展的身体, 第一人称与亲身感受
+- 论文: https://doi.org/10.1088/1741-2560/2/4/r02 (Journal of Neural Engineering 2005)
+- 视频: https://www.youtube.com/watch?v=0po8YOA-17U
+- 图片: https://feelspace.de/wp-content/uploads/2022/02/Blinde_Dame-scaled.jpg
+- 项目主页: https://www.feelspace.de
+
+#### The vOICe — Peter B. L. Meijer (1992)
+- 类型: 产品与应用 · 身体与感官: 新感官与替代感官, 嗓音、声音与聆听, 光与视觉
+- 核心想法: 一种感官可以通过另一个通道的练习来习得，而它的感受会随着技能加深而改变。
+- 作品内容: 免费软件，把摄像头画面转换为声音景观：从左向右扫描，音高表示高度，响度表示亮度；一些长期使用的盲人描述了类似视觉的体验。
+- 实现方式: 每秒约一次扫描的图像到声音映射，可运行在笔记本电脑、手机与摄像眼镜上；在感官替代的行为与脑成像研究中被广泛使用。
+- 视角: 延展的身体, 第一人称与亲身感受
+- 论文: https://doi.org/10.1109/10.121642 (IEEE Transactions on Biomedical Engineering 1992)
+- 视频: https://www.youtube.com/watch?v=I0lmSYP7OcM
+- 图片: https://www.seeingwithsound.com/media/Lady_wearing_VISION_800_like.jpg
+- 项目主页: https://www.seeingwithsound.com
+
+#### 触觉视觉替代系统（TVSS）与 BrainPort（Tactile Vision Substitution System (TVSS) and BrainPort） — Paul Bach-y-Rita (1969)
+- 类型: 研究原型 · 身体与感官: 新感官与替代感官, 触摸与压力, 光与视觉
+- 核心想法: 知觉是整个行动着的身体习得的：一旦人们能自己移动摄像头，背上的触觉就变成了一种定位在世界中的“看”。
+- 作品内容: 盲人坐在背部装有 400 个振动针的牙科椅上，振动针由他们可以移动的摄像头驱动；经过练习，他们能定位并辨认“在外面”的物体，而不是觉得刺激在皮肤上。后来的 BrainPort 把图像转移到舌头上的电极阵列。
+- 实现方式: 电视摄像头图像被转换为背部 20 x 20 振动触觉刺激阵列（1969）；BrainPort 使用头戴摄像头和舌部电触觉刺激。
+- 视角: 延展的身体, 身心一体
+- 论文: https://doi.org/10.1038/221963a0 (Nature 1969)
+- 视频: https://www.youtube.com/watch?v=CNR2gLKnd0g
+- 项目主页: https://www.wicab.com
+
+### 人机融合
+
+驱动肌肉、平衡与反射的计算机（肌肉电刺激、前庭电刺激）：当身体与机器共享时，是谁在行动。
+
+#### 触觉源效应器：经无创脑刺激的全身触觉（Haptic Source-Effector） — Yudai Tanaka, Pedro Lopes (2024)
+- 类型: 研究原型 · 身体与感官: 脑（脑电）, 触摸与压力, 动作与动觉
+- 核心想法: 触觉可以从大脑开始，却仍在四肢中被感受到；这显示了被感受的身体是在中枢组装、再投射出去的。
+- 作品内容: 不再在每个身体部位绑执行器，而是用一个在头皮上移动的磁线圈刺激感觉运动皮层，让用户在手、手臂、腿、脚和下颌感到触碰与力。
+- 实现方式: 经颅磁刺激，线圈由机械装置定位；第一项研究在全身映射出约 15 种感觉，第二项研究在 VR 中测试它们。
+- 视角: 延展的身体, 身心一体
+- 论文: https://doi.org/10.1145/3613904.3642483 (CHI 2024)
+- 视频: https://www.youtube.com/watch?v=JQUndFOJ-s8
+- 项目主页: https://lab.plopes.org
+
+#### SplitBody — Romain Nith, Pedro Lopes (2024)
+- 类型: 研究原型 · 身体与感官: 电刺激（肌肉电刺激、前庭电刺激）, 肌肉张力（肌电）, 动作与动觉
+- 核心想法: 这个设计把注意与动作分开；它确实有效，这也提出一个身体设计的问题：当身体在心不在焉时继续动作，我们失去了什么。
+- 作品内容: 当一个人专注于写作等脑力任务时，肌肉电刺激在后台自动完成重复动作，比如搅拌锅里的汤，他们的心理负荷随之下降。
+- 实现方式: 在高认知负荷的多任务中，肌肉电刺激电极驱动重复的手臂动作；比较有无电刺激时的负荷、表现与体验。
+- 视角: 延展的身体, 身心一体
+- 论文: https://doi.org/10.1145/3613904.3642629 (CHI 2024)
+- 视频: https://www.youtube.com/watch?v=J4tJ1FZ-QoA
+- 项目主页: https://lab.plopes.org
+
+#### 理解交织式人机融合的设计（Toward Understanding the Design of Intertwined Human–Computer Integrations） — Florian 'Floyd' Mueller, Nathan Semertzidis, Josh Andres (2023)
+- 类型: 论文 · 身体与感官: 整体身心, 电刺激（肌肉电刺激、前庭电刺激）, 动作与动觉
+- 核心想法: 当对身体的能动性被共享时，“是谁在动？”本身就成为体验的一部分；设计者可以调节人对机器的觉察程度，以及机器与人的一致程度。
+- 作品内容: 论文研究用户与机器在同一时刻控制用户身体的系统：到底是谁做了什么已不再清楚；论文为这种“交织式”融合提供了设计策略。
+- 实现方式: 用三个案例（一款肌肉电刺激游戏、一辆电动自行车和一个脑机系统），沿“对机器能动性的觉察”与“机器能动性的一致性”两个维度进行分析。
+- 视角: 延展的身体, 身心一体
+- 论文: https://doi.org/10.1145/3590766 (ACM TOCHI 2023)
+
+#### 自在身体（JIZAI Body）（JIZAI Body） — 稻见昌彦 (2022)
+- 类型: 论文 · 身体与感官: 多出来的肢体与身体延伸, 整体身心, 动作与动觉
+- 核心想法: 增强的目标被理解为“自在”：整个人的从容与自由，而不是性能最大化；即使控制有时被委托出去，身体仍可被感受为自己的。
+- 作品内容: 一篇概念论文，提出“自在身体”：一个人可以自由地控制（或交出控制）自己的自然身体及其物理与虚拟延伸，从而在社会中按自己的意愿生活。
+- 实现方式: 综述人类增强、控制论、机器人学、虚拟现实、神经科学与人文学科的文献，用已有作品阐述五个关键面向，并描绘“自在社会”的设想情景。
+- 视角: 延展的身体, 身心一体
+- 论文: https://doi.org/10.1145/3519391.3519401 (Augmented Humans 2022)
+- 图片: https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/inami-erato/2ea56722-b49c-46e6-82e1-836af40f4d7b/9ea864a6c8efa2fa81a9ea43ef46d6ef.jpg
+- 项目主页: https://jizai-body.com
+
+#### 平行适应：在两个虚拟身体间切换（Parallel Adaptation） — Adrien Verhulst, 笠原俊一 (2022)
+- 类型: 论文 · 身体与感官: 动作与动觉, 光与视觉, 多出来的肢体与身体延伸
+- 核心想法: 只要两者之间的切换被清晰标示，一个身心就可以容纳两个运动自我；这是走向同时栖居多个身体的第一步。
+- 作品内容: 参与者在两个虚拟身体之间来回切换，每个身体的伸手动作带有相反的视觉偏移；在合适的视角提示下，他们能同时学会两者，而不是一个抹去另一个。
+- 实现方式: VR 伸手任务（21 人），身体 A 与身体 B 施加相反的渐进视觉运动旋转，交叉操纵第一/第三人称视角与头部转动提示。
+- 视角: 延展的身体, 身心一体
+- 论文: https://doi.org/10.1109/ismar55827.2022.00031 (IEEE ISMAR 2022)
+- 视频: https://www.youtube.com/watch?v=nXcPkRxc4SM
+
+#### 这是谁的触碰？（Whose Touch is This?） — Daisuke Tajima, 西田惇, Pedro Lopes, 笠原俊一 (2022)
+- 类型: 论文 · 身体与感官: 电刺激（肌肉电刺激、前庭电刺激）, 触摸与压力, 肌肉张力（肌电）
+- 核心想法: 能动感是一种权衡而不是开关：只要辅助贴近人本来要做的动作，计算机就能在帮助身体的同时保留“由我发起”的感受。
+- 作品内容: 肌肉电刺激移动参与者的手指去触碰目标，有时违背其意图，有时帮助他们完成做不到的事；研究描绘了这种触碰何时仍被感受为自己的。
+- 实现方式: 受控实验把用户意图与电刺激驱动的结果（一致、强制、辅助）交叉组合，测量能动感评分，并据此提出数字触觉的设计框架。
+- 视角: 延展的身体, 第一人称与亲身感受
+- 论文: https://doi.org/10.1145/3489608 (ACM TOCHI 2022)
+- 视频: https://www.youtube.com/watch?v=XWaPYYrG3Rw
+
+#### 在肌肉电刺激训练中保留能动感（Preserving Agency During Electrical Muscle Stimulation Training） — 笠原俊一, 西田惇, Pedro Lopes (2021)
+- 类型: 论文 · 身体与感官: 电刺激（肌肉电刺激、前庭电刺激）, 肌肉张力（肌电）, 动作与动觉
+- 核心想法: 保留“是我做的”这种感受并不是奢侈：当动作仍被体验为自己的，借由被辅助的身体进行学习效果更好。
+- 作品内容: 肌肉电刺激让参与者对目标的反应比自己更快；当刺激的时机让他们仍觉得是自己在动时，即使撤掉电刺激，他们的反应仍然更快。
+- 实现方式: 反应时任务，前臂肌肉电刺激相对于每个人自然反应的起始时间设置不同；每次试验后评定能动感，并在撤除电刺激后测量表现。
+- 视角: 延展的身体, 第一人称与亲身感受
+- 论文: https://doi.org/10.1145/3411764.3445147 (CHI 2021)
+- 视频: https://www.youtube.com/watch?v=QaHZ1ZDO-04
+
+#### 理解身体融合的设计（Towards Understanding the Design of Bodily Integration） — Florian 'Floyd' Mueller, Pedro Lopes, Josh Andres, Nathan Semertzidis, Zhuying Li (2021)
+- 类型: 论文 · 身体与感官: 整体身心, 电刺激（肌肉电刺激、前庭电刺激）, 多出来的肢体与身体延伸
+- 核心想法: 设备是否像“我”，与我是否感到自己在行动，是两个不同的问题；设计者可以有意在两者之间移动，而不是默认控制越多越好。
+- 作品内容: 一个针对身体与计算机相互作用之系统的设计框架，沿“身体能动感”与“身体归属感”两条轴展开，得到四种体验：超级身体、远程身体、被驾驶的身体与被附身的身体。
+- 实现方式: 分析作者自己的肌肉电刺激、电动自行车、可吞咽传感器与前庭电刺激系统以及他人作品，归纳出四象限设计空间。
+- 视角: 延展的身体, 身心一体
+- 论文: https://doi.org/10.1016/j.ijhcs.2021.102643 (International Journal of Human-Computer Studies 2021)
+- 视频: https://www.youtube.com/watch?v=A49aAYMUd9M
+
+#### Neo-Noumena — Nathan Semertzidis, Florian 'Floyd' Mueller, Josh Andres (2020)
+- 类型: 研究原型 · 身体与感官: 脑（脑电）, 光与视觉, 整体身心
+- 核心想法: 从大脑读出的情绪变成伴侣共同看见并回应的东西；参与者调节彼此情绪的能力提高了，说明神经数据可以支持被感受的、共享的调谐，而不只是测量。
+- 作品内容: 两人连续三天佩戴脑电头带与混合现实头显；系统读取每个人的情绪状态，并在其周围以混合现实中的动态图像显示给对方看。
+- 实现方式: 消费级脑电设备配合机器学习情绪分类器，驱动两台头戴显示器中程序生成的图像；对五对参与者进行田野研究，结合情绪能力量表与访谈。
+- 视角: 情感回路, 身体间性
+- 论文: https://doi.org/10.1145/3313831.3376599 (CHI 2020)
+- 视频: https://www.youtube.com/watch?v=GbSzwxNmYz0
+
+#### 人机融合的下一步（Next Steps for Human-Computer Integration） — Florian 'Floyd' Mueller, Pedro Lopes (2020)
+- 类型: 论文 · 身体与感官: 整体身心, 肌肉张力（肌电）
+- 核心想法: 当计算机在身体内部行动时，设计必须追问：能动性、拥有感与被感受的自我如何在人与机器之间分配。
+- 作品内容: 29 位研究者在为期五天的工作坊后写成的议程，讨论从肌肉电刺激到植入物等与身体融合的系统及其伦理问题。
+- 实现方式: 由身体融合系统领域专家参加的结构化工作坊，归纳出一组研究挑战。
+- 视角: 延展的身体, 身心一体, 超越人类
+- 论文: https://doi.org/10.1145/3313831.3376242 (CHI 2020)
+- 视频: https://www.youtube.com/watch?v=qpwl2QiGhAI
+
+#### 先发动作（Preemptive Action） — 笠原俊一, 西田惇 (2019)
+- 类型: 研究原型 · 身体与感官: 电刺激（肌肉电刺激、前庭电刺激）, 肌肉张力（肌电）, 动作与动觉
+- 核心想法: “是我做的”这种感觉取决于时机：与意图同步到来的辅助，会被感受为自己的动作。
+- 作品内容: 肌肉电刺激让使用者的手比自身反应更快地动作；通过把刺激时机安排在本人即将反应之前，使用者仍会觉得是自己在动。
+- 实现方式: 反应时实验，改变电刺激相对于自然反应的起始时间，并测量能动感评分（与芝加哥大学 Pedro Lopes 合作）。
+- 视角: 第一人称与亲身感受, 身心一体
+- 论文: https://doi.org/10.1145/3290605.3300873 (CHI 2019)
+- 视频: https://www.youtube.com/watch?v=1BT8REEJibM
+
+#### 混合身体工艺（Hybrid Body Craft） — Cindy Hsin-Liu Kao (2017)
+- 类型: 方法与工具包 · 身体与感官: 触摸与压力, 多出来的肢体与身体延伸, 光与视觉
+- 核心想法: 皮肤不是放置传感器的中性表面，它承载着身份与文化；与身体融合的技术应被设计为人们愿意佩戴的装饰。
+- 作品内容: 一种设计方法：以身体装饰传统来制作贴肤电子，例如金箔金属纹身（DuoSkin）、变色化妆品以及贴在皮肤上的机绣蕾丝。
+- 实现方式: 使用对皮肤安全的材料（金箔、临时纹身纸、热致变色颜料、刺绣）进行制作，并与佩戴者和身体装饰从业者共同设计。
+- 视角: 身体政治, 延展的身体
+- 论文: https://doi.org/10.1109/mprv.2021.3079321 (IEEE Pervasive Computing 2021)
+- 视频: https://www.youtube.com/watch?v=13xJIJd4R54
+- 项目主页: https://www.hybridbody.human.cornell.edu
+
+#### 可塑的具身（Malleable Embodiment） — 笠原俊一 (2017)
+- 类型: 研究原型 · 身体与感官: 动作与动觉, 光与视觉, 姿态、平衡与本体感
+- 核心想法: “这是我的身体”的感受可以容纳一个略微超前于自己的身体：在具身中，时间和空间一样可以被塑形。
+- 作品内容: 参与者看到一个虚拟身体，显示的是自己稍早的动作，或由系统预测的稍后的动作；他们对身体的感受和实际动作都随之改变。
+- 实现方式: 全身动作捕捉结合估计过去与未来姿态的模型，渲染为变形的化身；使用具身感问卷与动作分析。
+- 视角: 延展的身体, 陌生化
+- 论文: https://doi.org/10.1145/3025453.3025962 (CHI 2017)
+- 视频: https://www.youtube.com/watch?v=f18llWuvQe0
+
+#### bioSync 肌动同步（bioSync） — 西田惇 (2017)
+- 类型: 研究原型 · 身体与感官: 电刺激（肌肉电刺激、前庭电刺激）, 肌肉张力（肌电）, 动作与动觉
+- 核心想法: 共情可以是动觉的：在自己的肌肉中感受他人的动作，能获得旁观无法带来的理解。
+- 作品内容: 一对可穿戴设备：读取一个人的肌肉活动，并通过电刺激传到另一个人的肌肉中；例如治疗师可以在自己的手臂上感受到患者的震颤或僵硬。
+- 实现方式: 可在肌电感测与肌肉电刺激之间切换的可穿戴电极，实时双向连接两个人。
+- 视角: 身体间性, 照护与疗愈
+- 论文: https://doi.org/10.1145/3025453.3025829 (CHI 2017)
+- 视频: https://www.youtube.com/watch?v=vOyt4pA6wow
+
+#### Muscle-plotter — Pedro Lopes (2016)
+- 类型: 研究原型 · 身体与感官: 电刺激（肌肉电刺激、前庭电刺激）, 肌肉张力（肌电）, 动作与动觉
+- 核心想法: 用户自己的手臂成为计算机的输出设备，结果被感受为自己做出的动作，而不是从屏幕上读到的信息。
+- 作品内容: 用户用笔画出一个形状时，肌肉电刺激拉动他们的手腕，在同一张纸上画出模拟结果，例如刚画好的汽车周围的气流。
+- 实现方式: 追踪纸上的笔迹，在笔记本电脑上计算模拟，前臂上的肌肉电刺激电极驱动手腕屈伸来绘制线条。
+- 视角: 延展的身体, 陌生化
+- 论文: https://doi.org/10.1145/2984511.2984530 (UIST 2016)
+- 视频: https://www.youtube.com/watch?v=On738nXm5AM
+- 项目主页: https://lab.plopes.org
+
+#### Affordance++ — Pedro Lopes (2015)
+- 类型: 研究原型 · 身体与感官: 电刺激（肌肉电刺激、前庭电刺激）, 肌肉张力（肌电）, 动作与动觉
+- 核心想法: 物品的用法可以通过使用者自己的动作来传达；这也提出一个问题：当身体动起来时，是谁在行动。
+- 作品内容: 当使用者伸手去拿物品时，肌肉电刺激会移动其手部，示范该如何使用：摇一摇喷漆罐，或松开一只滚烫的茶壶。
+- 实现方式: 光学追踪识别使用者伸手拿的物品，手臂上的肌肉电刺激电极触发相应的手部与手腕动作。
+- 视角: 会回触的技术, 陌生化
+- 展出与获奖: CHI 2015 Best Paper Award
+- 论文: https://doi.org/10.1145/2702123.2702128 (CHI 2015)
+- 视频: https://www.youtube.com/watch?v=Gz4dphzBb6I
+
+#### Impacto — Pedro Lopes (2015)
+- 类型: 研究原型 · 身体与感官: 电刺激（肌肉电刺激、前庭电刺激）, 肌肉张力（肌电）, 触摸与压力
+- 核心想法: 被感受到的冲击是身体组合起来的两种感觉；分别通过身体自身的通道提供它们，就足以令人信服，无需笨重的机器。
+- 作品内容: 一个小臂带让虚拟的拳击或球击感觉真实：电磁铁敲击皮肤，同时肌肉电刺激让手臂向后一震，把冲击拆分为触感与力感。
+- 实现方式: 电磁敲击器提供触觉部分，二头肌或三头肌上的肌肉电刺激提供动觉部分，在 VR 拳击与棒球中测试。
+- 视角: 会回触的技术, 愉悦与游戏
+- 展出与获奖: UIST 2015 Best Talk nomination
+- 论文: https://doi.org/10.1145/2807442.2807443 (UIST 2015)
+- 视频: https://www.youtube.com/watch?v=k5e4mXQLq54
+- 项目主页: https://lab.plopes.org
+
+#### JackIn Head — 笠原俊一, 暦本纯一 (2015)
+- 类型: 研究原型 · 身体与感官: 光与视觉, 动作与动觉, 整体身心
+- 核心想法: 共享一个身体的视点却不共享其目光，会产生一种奇特的中间状态：一半在他人之中，一半自由。
+- 作品内容: 一个人头戴全景摄像头，远方的观看者在 VR 中“接入”其周围环境，随着佩戴者的身体移动，同时自由环顾。
+- 实现方式: 头戴全景摄像头配合图像稳定算法，使观看者的视角与佩戴者的头部运动解耦以减少晕动，并实时传输给远程头显用户。
+- 视角: 延展的身体, 身体间性
+- 论文: https://doi.org/10.1145/2821592.2821608 (VRST 2015)
+- 视频: https://www.youtube.com/watch?v=HMkcscpBgOA
+
+#### 本体感交互（Proprioceptive Interaction） — Pedro Lopes (2015)
+- 类型: 研究原型 · 身体与感官: 电刺激（肌肉电刺激、前庭电刺激）, 肌肉张力（肌电）, 姿态、平衡与本体感
+- 核心想法: 本体感可以成为输出通道：计算机可以通过轻轻移动你自己的身体来“说话”。
+- 作品内容: 肌肉电刺激按设备的状态让使用者的手腕倾斜，信息通过自身的姿态与肌肉被感受，而不是在屏幕上被看到。
+- 实现方式: 前臂上的肌肉电刺激电极驱动手腕肌肉与使用者自身的动作相抗，使用者通过感受由此产生的力与位置读出数值。
+- 视角: 延展的身体, 会回触的技术, 陌生化
+- 论文: https://doi.org/10.1145/2702123.2702461 (CHI 2015)
+- 视频: https://www.youtube.com/watch?v=KMxIfj7zhlw
+
+#### TELESAR V — 舘暲, 南泽孝太 (2012)
+- 类型: 研究原型 · 身体与感官: 触摸与压力, 光与视觉, 动作与动觉
+- 核心想法: 远程存在表明，临场感取决于看、动、触之间的闭环；闭合之后，自我可以在远方的身体中被感受到。
+- 作品内容: 操作者戴着头显与触觉手套控制一台人形机器人，并通过它去看、去听、去触摸，甚至能感到机器人指尖下布料的纹理，从而把机器人身体体验为自己的身体。
+- 实现方式: 主从式人形机器人，配有立体视觉、双耳音频与指尖触觉传感器，其信号在操作者手指上重现。
+- 视角: 延展的身体, 第一人称与亲身感受
+- 论文: https://doi.org/10.1145/2343456.2343479 (SIGGRAPH 2012 Emerging Technologies)
+- 视频: https://www.youtube.com/watch?v=KoC1iTOmYTg
+
+#### PossessedHand — 玉城绘美, 暦本纯一 (2011)
+- 类型: 研究原型 · 身体与感官: 电刺激（肌肉电刺激、前庭电刺激）, 肌肉张力（肌电）, 动作与动觉
+- 核心想法: 手指被外力驱动起初很陌生，而这种陌生恰恰显示了技能有多少存在于手中，而不在指令里。
+- 作品内容: 一个带电极片的前臂带用肌肉电刺激驱动单个手指关节，例如引导初学者在日本弦乐器“筝”上的指法。
+- 实现方式: 前臂上的 28 个电极片刺激控制 16 个手指关节的肌肉；测试了姿势准确度以及在乐器学习中的应用。
+- 视角: 延展的身体, 陌生化
+- 论文: https://doi.org/10.1145/1978942.1979018 (CHI 2011)
+- 视频: https://www.youtube.com/watch?v=9XBoZyfB8hY
+
+#### 摇晃世界／Save YourSelf!!!（Shaking the World / Save YourSelf!!!） — 前田太郎, 安藤英由树 (2005)
+- 类型: 研究原型 · 身体与感官: 电刺激（肌肉电刺激、前庭电刺激）, 姿态、平衡与本体感, 整体身心
+- 核心想法: 平衡是被感受出来的，而不是既定的：当技术直接写入前庭觉时，地面仿佛在动，身体的确定感变得陌生。
+- 作品内容: 头戴装置在耳后施加微弱电流（电前庭刺激），让穿戴者感到被向左或向右拉；相关艺术作品《Save YourSelf!!!》让观众感受到自己的平衡被外力改变。
+- 实现方式: 在乳突处放置双侧电前庭刺激电极，由小型电流控制器驱动；艺术版本很可能以传感器输入来驱动电流。
+- 视角: 陌生化, 会回触的技术
+- 论文: https://doi.org/10.1145/1187297.1187315 (SIGGRAPH 2005 Emerging Technologies)
+- 视频: https://www.youtube.com/watch?v=jPeWwvsnaaQ
+
+### 超人体育、增强游戏与表演
+
+以增强的、被 AI 读取的或共享的身体进行游戏、体育、表演与仪式。
+
+#### 以外骨骼游戏共享身体控制（Shared Bodily Control via Exoskeleton-based Play） — Zhuying Li, Rakesh Patibanda, Florian 'Floyd' Mueller (2026)
+- 类型: 研究原型 · 身体与感官: 动作与动觉, 多出来的肢体与身体延伸, 姿态、平衡与本体感
+- 核心想法: 一台驱动你部分身体的机器被如何定位（帮手、伙伴、对手），会改变那只手臂的感受，以及它看起来属于谁。
+- 作品内容: 三款游戏中，一台外骨骼按自己的逻辑控制玩家的一只手臂，玩家控制另一只；外骨骼被设定为代理、合作者或对手。
+- 实现方式: 手臂外骨骼配合游戏情境；对 16 名参与者进行关于身体体验与人机关系的质性研究。
+- 视角: 延展的身体, 愉悦与游戏
+- 论文: https://doi.org/10.1145/3772318.3793418 (CHI 2026)
+- 视频: https://www.youtube.com/watch?v=TsMne21CglM
+
+#### 身体甲骨（Body Oracle） — Ke Huang, Danlin Huang, Botao 'Amber' Hu (2024)
+- 类型: 艺术作品与装置 · 身体与感官: 姿态、平衡与本体感, 动作与动觉, 光与视觉
+- 核心想法: 如果一种语言拥有描述姿势以及身体如何共处的字词，人们就可能对自己和彼此的身体更有觉察。
+- 作品内容: 摄像头识别一位或多位观众的姿势，AI 模型把它们转化为模仿甲骨文风格的新象形字，形成一套描述身体及身体间位置的书写词汇。
+- 实现方式: MoveNet 关键点检测，输入到图像转换模型中；模型以志愿者重演甲骨文字形所得的配对样本训练。
+- 视角: 身体间性, 调谐与鉴赏, 动作与表达
+- 展出与获奖: Ars Electronica Expanded 2025; SIGGRAPH Asia 2025 XR; IEEE VR 2026 XR Gallery
+- 论文: https://doi.org/10.1145/3689050.3707688 (TEI 2025 Art and Performance)
+- 视频: https://vimeo.com/1020163664
+- 图片: https://reality.design/media/_resources/Body%20Oracle/project-body-oracle-figure-01.jpg
+- 项目主页: https://reality.design/project/body-oracle
+
+#### 共享身体融合（Shared Bodily Fusion） — Rakesh Patibanda, Aryan Saini, Florian 'Floyd' Mueller (2024)
+- 类型: 研究原型 · 身体与感官: 电刺激（肌肉电刺激、前庭电刺激）, 触摸与压力, 肌肉张力（肌电）
+- 核心想法: 能让对方身体动起来的触碰，找回了游乐场游戏中推拉的身体互动，也让对方的身体被感受为部分可由自己驱动。
+- 作品内容: 在游戏“Hidden Touch”中，一名玩家对另一人身体的触碰，被共享的肌肉电刺激系统转化为对方的肌肉动作，借由中介的计算机把两个身体融合起来。
+- 实现方式: 皮肤上的触碰感测映射到对方前臂的肌肉电刺激；27 人研究沿阈值、耐受与精度三个体验空间描绘玩家经验。
+- 视角: 身体间性, 愉悦与游戏
+- 论文: https://doi.org/10.1145/3643834.3660723 (DIS 2024)
+- 视频: https://www.youtube.com/watch?v=7dI4fbLqO-Q
+
+#### Auto-Paizo 游戏（Auto-Paizo Games） — Rakesh Patibanda, Aryan Saini, Florian 'Floyd' Mueller (2023)
+- 类型: 研究原型 · 身体与感官: 电刺激（肌肉电刺激、前庭电刺激）, 肌肉张力（肌电）, 动作与动觉
+- 核心想法: 大多数体感游戏把注意力拉向屏幕；把身体作为游戏材料，能让注意力留在身体上，而与自己对战则让熟悉的身体变得陌生。
+- 作品内容: 三款游戏中，玩家用一只手与另一只手对战，而后者的动作由肌肉电刺激接管；身体既是游戏的输入，也是输出。
+- 实现方式: 在“计算机”那只手的前臂施加肌肉电刺激，另一只手被追踪作为输入；对 12 名参与者进行田野研究并作主题分析。
+- 视角: 身心一体, 愉悦与游戏, 陌生化
+- 论文: https://doi.org/10.1145/3611054 (CHI PLAY 2023 (PACM HCI))
+- 视频: https://www.youtube.com/watch?v=ewS73Hw1q70
+
+#### 融合式观赛（Fused Spectatorship） — Rakesh Patibanda, Aryan Saini, Josh Andres, Florian 'Floyd' Mueller (2023)
+- 类型: 研究原型 · 身体与感官: 电刺激（肌肉电刺激、前庭电刺激）, 肌肉张力（肌电）, 动作与动觉
+- 核心想法: 当自己的手在没有意图的情况下行动，观看与游玩便融合了；观察自己的身体与成为这个身体之间的感受界线变得模糊。
+- 作品内容: 观众把双手的控制交给肌肉电刺激系统，看着自己的手玩游戏；许多人分不清自己是在观看还是在玩。
+- 实现方式: 由游戏逻辑驱动双前臂的肌肉电刺激，设计了三款竞争与协作游戏；12 人研究得出四个观众体验主题与四种观众类型。
+- 视角: 延展的身体, 愉悦与游戏
+- 论文: https://doi.org/10.1145/3611049 (CHI PLAY 2023 (PACM HCI))
+- 视频: https://www.youtube.com/watch?v=IDmlYpVi5GM
+
+#### JumpMod — Romain Nith, Pedro Lopes (2023)
+- 类型: 研究原型 · 身体与感官: 动作与动觉, 姿态、平衡与本体感, 振动与触觉反馈
+- 核心想法: 跳跃的“高度感”来自身体感受到的动量；在恰当时刻移动重量，就能改写人对自身动作的体验。
+- 作品内容: 一个背包在跳跃的恰当时刻沿佩戴者背部上下移动一块重物，让他们觉得自己跳得更高、落地更轻，或被往下拉。
+- 实现方式: 无线背包内有沿竖直导轨移动、由电机驱动的配重，其时序与惯性测量单元检测到的跳跃阶段同步；研究测试了五种跳跃效果及其在 VR 与游戏中的使用。
+- 视角: 会回触的技术, 愉悦与游戏
+- 论文: https://doi.org/10.1145/3544548.3580764 (CHI 2023)
+- 视频: https://www.youtube.com/watch?v=57izT0UZ77M
+- 项目主页: https://lab.plopes.org
+
+#### 融合式运动（Integrated Exertion） — Josh Andres, Nathan Semertzidis, Zhuying Li, Florian 'Floyd' Mueller (2022)
+- 类型: 论文 · 身体与感官: 动作与动觉, 脑（脑电）, 整体身心
+- 核心想法: 当机器分担用力时，骑行者会说自己像“有了超能力”或与车融为一体；这个框架要求设计者去塑造这种共享的用力，而不只是显示数据。
+- 作品内容: 三辆会作用于骑行者的电动自行车（例如为赶上绿灯而增减助力，或响应骑行者的大脑状态）被用来建立一个框架：在运动体验中，机器是作用于身体的伙伴。
+- 实现方式: 对三套电动自行车系统进行田野研究，其中包括 Ari（根据红绿灯时序助力），很可能还有一套读取骑行者脑电“周边觉察”状态的系统；归纳出带有设计策略的框架。
+- 视角: 延展的身体, 愉悦与游戏
+- 论文: https://doi.org/10.1145/3528352 (ACM TOCHI 2022)
+
+#### 以对身体的有限控制作为游戏设计资源（Limited Control Over the Body as Intriguing Play Design Resource） — Florian 'Floyd' Mueller, Rakesh Patibanda, Zhuying Li, Josh Andres (2021)
+- 类型: 论文 · 身体与感官: 整体身心, 电刺激（肌肉电刺激、前庭电刺激）, 姿态、平衡与本体感
+- 核心想法: 不完全掌控自己的身体，可以成为好奇与反思的来源；设计者可以通过探索、反思、学习与接纳四种策略来提供这种体验。
+- 作品内容: 作者用自己的三个身体游戏系统论证：通过外部触发或其他身体活动而失去对身体的部分控制，可以让游戏更有趣，而不是更糟。
+- 实现方式: 对三个身体游戏系统进行设计分析，改变玩家间接控制的程度，并归纳出四种策略。
+- 视角: 愉悦与游戏, 陌生化
+- 论文: https://doi.org/10.1145/3411764.3445744 (CHI 2021)
+- 视频: https://www.youtube.com/watch?v=KCnPPuS4kjA
+
+#### 超人体育（Superhuman Sports） — 稻见昌彦, Kai Kunze, 南泽孝太 (2015)
+- 类型: 身体修习 · 身体与感官: 动作与动觉, 多出来的肢体与身体延伸, 整体身心
+- 核心想法: 如果增强能拉平身体之间的差异，体育就可以成为在游戏中探索延展身体感受的方式，而不是给身体排名。
+- 作品内容: 一场运动，以及 2015 年在日本成立的协会：围绕人类增强设计新的体育项目，例如穿着气泡服踩弹簧高跷弹跳，让不同年龄与能力的人能一起玩。
+- 实现方式: 通过黑客松与比赛，结合可穿戴设备、增强现实与机器人设计体育项目；2017 年发表于 IEEE Pervasive Computing 的文章阐述了研究议程。
+- 视角: 延展的身体, 愉悦与游戏, 身体政治
+- 论文: https://doi.org/10.1109/mprv.2017.35 (IEEE Pervasive Computing 2017)
+- 视频: https://www.youtube.com/watch?v=Oor3mQaUiHg
+- 图片: https://superhuman-sports.org/assets/images/common/bnr_1.jpg
+- 项目主页: https://superhuman-sports.org
+
+### 赛博格与后人类艺术
+
+用技术重建自己身体的艺术家：Stelarc、Harbisson、Ribas、Orlan、Donnarumma。
+
+#### 压缩摇篮（Compression Cradle） — Lucy McRae (2019)
+- 类型: 艺术作品与装置 · 身体与感官: 触摸与压力, 形变与充气, 整体身心
+- 核心想法: 深而均匀的压力让身体平静；McRae 追问在一个缺乏触摸的未来，机器的触摸能否替代人的触摸，若能，又会失去什么。
+- 作品内容: 一个人躺进一台机器，机器以一系列充气体积缓缓挤压全身，就像被拥抱。
+- 实现方式: 软垫摇篮中的充气腔围绕躺着的身体按时序依次充气；曾在米兰三年展展出。
+- 视角: 会回触的技术, 照护与疗愈, 延展的身体
+- 展出与获奖: Triennale Milano, Broken Nature 2019
+- 图片: https://images.squarespace-cdn.com/content/v1/59070617ebbd1a679b87f1de/1662867406215-3TXN194A2TKMALYHQLIB/%C2%A9Scottie+Cameron%E2%80%93Compression%E2%80%93Cradle%E2%80%93Lucy_McRae.jpg https://images.squarespace-cdn.com/content/v1/59070617ebbd1a679b87f1de/1554551927965-BB1WSKPGBWN5JBHYI05T/%C2%A9Daria+Scagliola-Compression-Cradle-McRae-2.jpg
+- 项目主页: https://www.lucymcrae.net/compression-cradle
+
+#### 内脏（Eingeweide） — Marco Donnarumma, Margherita Pevere (2018)
+- 类型: 表演、舞蹈与音乐 · 身体与感官: 多出来的肢体与身体延伸, 肌肉张力（肌电）, 动作与动觉
+- 核心想法: 义体在脸上实时学习如何运动，身体只能与它协商而非命令它；与机器的亲密被感受为紧张与照料。
+- 作品内容: 两位表演者在舞台上与一个由 AI 驱动的面部义体、由微生物培养出的搏动的体外器官以及动物遗骸纠缠在一起。
+- 实现方式: 自适应神经网络驱动面部义体，生物传感器采集表演者的肌肉声音，再由 AI 转化为配乐；Pevere 的生物材料在舞台上渗漏、爬行。
+- 视角: 延展的身体, 超越人类, 身体政治
+- 视频: https://www.youtube.com/watch?v=6P0Vsg81Om0
+- 图片: https://marcodonnarumma.com/live/wp-content/uploads/2018/03/Donnarumma-Pevere_Eingeweide_by-De-Angelis_2_web.jpg
+- 项目主页: https://marcodonnarumma.com/works/eingeweide/
+
+#### Corpus Nil — Marco Donnarumma (2016)
+- 类型: 表演、舞蹈与音乐 · 身体与感官: 肌肉张力（肌电）, 动作与动觉, 光与视觉
+- 核心想法: 人与机器构成一个混合的身体；当机器共同塑造身体如何移动和发声时，身体规范被动摇。
+- 作品内容: 表演者在近乎黑暗中缓慢移动，一个自主系统聆听他肌肉的电信号与声学信号，并以声音和光回应。
+- 实现方式: 四肢上的生物物理传感器（Xth Sense 生物声学与生物电）输入机器学习算法，由其自主驱动声音与灯光（2016 年于 ZKM 首演）。
+- 视角: 延展的身体, 超越人类, 身体政治
+- 展出与获奖: Prix Ars Electronica 2017, Award of Distinction (Sound Art); Bains Numériques 2018, 1st Prize Performing Arts
+- 视频: https://www.youtube.com/watch?v=CAIh8FxLMtk
+- 图片: https://marcodonnarumma.com/live/wp-content/uploads/2017/03/Marco-Donnarumma_Corpus-Nil_1_web_by-onuk.jpg
+- 项目主页: https://marcodonnarumma.com/works/corpus-nil/
+
+#### Prototype — Viktoria Modesta (2014)
+- 类型: 影片与影像 · 身体与感官: 多出来的肢体与身体延伸, 动作与动觉, 整体身心
+- 核心想法: 义肢可以被感受、被展示为自我表达身体的一部分，而不是对缺失部位的隐藏替代。
+- 作品内容: 一部音乐影片，Viktoria Modesta 穿戴一系列设计过的义肢（包括一根尖锥形义肢）表演，把截肢的身体呈现为有力而时尚的。
+- 实现方式: 由 Saam Farahmand 为英国第四频道执导的音乐影片，义肢与 Sophie de Oliveira Barata（The Alternative Limb Project）合作设计。
+- 视角: 延展的身体, 身体政治, 动作与表达
+- 视频: https://www.youtube.com/watch?v=BhO-fuViomM
+- 图片: https://upload.wikimedia.org/wikipedia/commons/e/e9/Viktoria_Modesta_2016.png
+- 项目主页: https://www.viktoriamodesta.com/
+
+#### 地震感官／等待地震（Seismic Sense / Waiting for Earthquakes） — Moon Ribas (2013)
+- 类型: 表演、舞蹈与音乐 · 身体与感官: 新感官与替代感官, 振动与触觉反馈, 动作与动觉
+- 核心想法: 这种感官把她的身体与地球的运动相连：一种持续而低沉的背景感受，她学会去留意它，如同留意呼吸。
+- 作品内容: 植入 Moon Ribas 双脚的传感器会在地球任何地方发生地震时振动；在《Waiting for Earthquakes》中她静静站立，随每次震动到来而起舞。
+- 实现方式: 在线地震仪数据驱动振动植入物（先在手肘，后在双脚），强度随震级变化；表演时长取决于地震本身。
+- 视角: 延展的身体, 超越人类, 动作与表达
+- 视频: https://www.youtube.com/watch?v=1Un4MFR-vNI
+- 图片: https://upload.wikimedia.org/wikipedia/commons/6/6a/Moon_Ribas.jpg
+- 项目主页: https://www.moonribas.com/
+
+#### 可吞服香水（Swallowable Parfum） — Lucy McRae (2011)
+- 类型: 艺术作品与装置 · 身体与感官: 疼痛与内在感觉, 整体身心
+- 核心想法: 由内而外的增强：身体本身成为喷香器，香气随用力、体温与情绪而生，而不是被涂抹上去。
+- 作品内容: 一种思辨性的美容药丸，设想让皮肤随汗液散发香味，以图像、影片和画廊中的“现场实验室”呈现。
+- 实现方式: 与合成生物学家 Sharef Mansy 合作的设计虚构；药丸是一个提案，通过摄影、影片和画廊导览体验呈现。
+- 视角: 陌生化, 延展的身体
+- 视频: https://www.youtube.com/watch?v=kSUrKWTYF6g
+- 图片: https://images.squarespace-cdn.com/content/v1/59070617ebbd1a679b87f1de/1497503053218-QSZ7WC4WL9132SE0YG4J/LucyMcRae_Swallowable+Parfum_1900x1200px_07.jpg
+- 项目主页: https://www.lucymcrae.net/swallowable-parfum
+
+#### 3rdi（第三只眼）（3rdi） — Wafaa Bilal (2010)
+- 类型: 表演、舞蹈与音乐 · 身体与感官: 多出来的肢体与身体延伸, 光与视觉, 疼痛与内在感觉
+- 核心想法: 一只看见身体无法感受之物的眼睛成了负担：他的身体排斥了植入物，疼痛最终主导了这个构想。
+- 作品内容: 大约一年里，Wafaa Bilal 的后脑装着一台小相机，每分钟拍一张照片并上传网络，记录他身后留下的景象。
+- 实现方式: 相机固定在手术植入头皮下的钛板上；因感染和排斥被取出，改用绑带佩戴。
+- 视角: 身体政治, 延展的身体
+- 视频: https://www.youtube.com/watch?v=h2nNKbO9-Eg
+- 项目主页: https://wafaabilal.com/3rdi/
+
+#### 我的 12 双腿（My 12 Pairs of Legs） — Aimee Mullins (2009)
+- 类型: 影片与影像 · 身体与感官: 多出来的肢体与身体延伸, 姿态、平衡与本体感, 动作与动觉
+- 核心想法: 有了可更换的腿，身体每天都从内部被选择：义体不只是修复，还能拓宽一个人的感受与呈现方式。
+- 作品内容: 在一场简短的 TED 演讲中，Aimee Mullins 展示她的义肢——从碳纤维短跑腿到雕花木腿——并讲述每一双如何改变她的身高、步态和自我。
+- 实现方式: 演讲与展示，所示义肢包括猎豹跑步刀片和她在 1999 年 Alexander McQueen 秀场上穿的手工雕刻木腿。
+- 视角: 延展的身体, 第一人称与亲身感受, 身体政治
+- 视频: https://www.youtube.com/watch?v=JQ0iMulicgg
+- 图片: https://upload.wikimedia.org/wikipedia/commons/f/fc/Aimee_Mullins_wearing_McQueen_prosthetics.jpg
+- 项目主页: https://www.aimeemullins.com/
+
+#### 面部电刺激（Electric Stimulus to Face） — 真锅大度 (2008)
+- 类型: 艺术作品与装置 · 身体与感官: 电刺激（肌肉电刺激、前庭电刺激）, 肌肉张力（肌电）, 嗓音、声音与聆听
+- 核心想法: 当外部信号驱动你的脸时，表情与感受之间的联系变得陌生而可见。
+- 作品内容: 贴在真锅大度及其朋友脸上的电极，按照音乐施加肌肉电刺激，他们静坐不动，脸却随节奏抽动、做出怪相。
+- 实现方式: 由音乐软件控制的定制肌肉电刺激装置，后续测试中加入肌电传感器，在人与人之间传递面部动作。
+- 视角: 陌生化, 身心一体
+- 视频: https://www.youtube.com/watch?v=pLAma-lrJRM
+- 项目主页: https://www.daito.ws/en/
+
+#### 手臂上的耳朵（Ear on Arm） — Stelarc (2006)
+- 类型: 艺术作品与装置 · 身体与感官: 多出来的肢体与身体延伸, 嗓音、声音与聆听, 触摸与压力
+- 核心想法: 一个额外的器官可以长进身体，但与它共存缓慢而脆弱：感染、愈合与皮肤和想法本身一样决定着这件作品。
+- 作品内容: 经过多年筹划，外科医生在 Stelarc 左前臂的皮下培育出一个耳朵形状的支架；最终设想是在其中放入麦克风，把它“听到”的声音在线传播。
+- 实现方式: 分阶段手术把多孔生物聚合物支架植入皮下，让组织和血管长入其中；曾测试植入麦克风，因感染而取出。
+- 视角: 延展的身体, 身体政治, 陌生化
+- 视频: https://www.youtube.com/watch?v=MhpV4sLgVEE
+- 图片: https://stelarc.org/media/img/projects-overview/earonarm2.jpg https://upload.wikimedia.org/wikipedia/commons/2/23/Stelarc_3rd_ear_2011f.jpg
+- 项目主页: https://stelarc.org/_activity-20242.php
+
+#### Eyeborg（赛博格天线）（Eyeborg (Cyborg Antenna)） — Neil Harbisson (2004)
+- 类型: 艺术作品与装置 · 身体与感官: 新感官与替代感官, 嗓音、声音与聆听, 光与视觉
+- 核心想法: 戴了多年之后，颜色音调不再是翻译，而成了知觉本身，甚至出现在梦里；新感官成为自我的一部分，而不是附加物。
+- 作品内容: 天生无法看见颜色的 Neil Harbisson 戴着一根植入颅骨的天线，把眼前的颜色转成他通过骨传导听到的音调。
+- 实现方式: 骨整合天线上的摄像传感器把光的频率映射为声音频率，通过骨传导传给他；天线也能经互联网接收颜色。
+- 视角: 延展的身体, 第一人称与亲身感受, 身体政治
+- 视频: https://www.youtube.com/watch?v=ygRNoieAnzI
+- 图片: https://upload.wikimedia.org/wikipedia/commons/1/17/Re_publica_2013_Tag_2_%E2%80%93_Neil_Harbisson%2C_Moon_Ribas_%288718456460%29.jpg https://upload.wikimedia.org/wikipedia/commons/1/19/Harbisson%27s_Sonochromatic_Scales.png
+- 项目主页: https://www.cyborgarts.com/
+
+#### Wave UFO — 森万里子 (2003)
+- 类型: 艺术作品与装置 · 身体与感官: 脑（脑电）, 光与视觉, 整体身心
+- 核心想法: 生物数据被用于共享的注意，接近冥想，而不是用于控制：三个静卧的身体化为同一个视觉节律。
+- 作品内容: 三位观众躺进一个巨大的泪滴形舱体，佩戴脑电传感器；他们的脑活动在头顶穹幕上化作动画，并在彼此平静下来时交融在一起。
+- 实现方式: 脑电传感器记录 α、β、θ 波活动，Eyebeam 制作的定制游戏引擎把它实时渲染为穹顶上的抽象动画。
+- 视角: 身体间性, 身体数据与模糊性, 调谐与鉴赏
+- 视频: https://www.youtube.com/watch?v=pjsHGQ0LB-0
+- 图片: https://web.archive.org/web/20140202152823im_/http://www.eyebeam.org/sites/default/files/imagecache/node_top/projects/images/mori_10.jpg
+- 项目主页: https://web.archive.org/web/20140202152823/http://www.eyebeam.org/projects/wave-ufo
+
+#### I.K.U. — 郑淑丽 (2000)
+- 类型: 影片与影像 · 身体与感官: 私密与激素的身体, 整体身心
+- 核心想法: 快感被想象为可提取的数据：一个酷儿的、性积极的赛博格故事，同时警示私密感受被捕获的危险。
+- 作品内容: 一部日本科幻色情电影：复制人“编码者”为一家公司采集人们的高潮数据，公司再把它做成芯片出售。
+- 实现方式: 在东京拍摄、由 Uplink 制作的长片，片中可变形的复制人以手臂作为采集数据的探针。
+- 视角: 身体政治, 愉悦与游戏, 身体数据与模糊性
+- 视频: https://www.youtube.com/watch?v=JVr9q2BW6rI
+- 图片: https://upload.wikimedia.org/wikipedia/en/1/1d/IKU_poster.jpg
+- 项目主页: https://en.wikipedia.org/wiki/I.K.U.
+
+#### 赛博格系列（Cyborg series） — 李昢 (1998)
+- 类型: 艺术作品与装置 · 身体与感官: 整体身心, 多出来的肢体与身体延伸
+- 核心想法: 关于完美技术身体的赛博格梦想被呈现为破碎且被性别化的；增强幻想承载着对女性身体的旧有理想。
+- 作品内容: 白色硅胶雕塑，塑造女性赛博格身体，无头且常常缺失肢体，从天花板悬垂，像盔甲，也像动漫人物。
+- 实现方式: 以硅胶与聚氨酯铸成的雕塑，借鉴日本动漫、古典雕像与机械盔甲；《Cyborg W1–W4》作于 1998 年。
+- 视角: 身体政治, 延展的身体
+- 视频: https://www.youtube.com/watch?v=aS5di0wCD1I
+- 图片: https://upload.wikimedia.org/wikipedia/commons/5/5a/Untitled_%28Cyborg%27s_pelvis%29_by_Lee_Bul%2C_British_Museum_01.jpg https://upload.wikimedia.org/wikipedia/commons/e/ea/Untitled_%28Cyborg%27s_pelvis%29_by_Lee_Bul%2C_British_Museum_02.jpg
+- 项目主页: https://www.guggenheim.org/artwork/artist/lee-bul
+
+#### 外骨骼（Exoskeleton） — Stelarc (1998)
+- 类型: 表演、舞蹈与音乐 · 身体与感官: 多出来的肢体与身体延伸, 动作与动觉, 肌肉张力（肌电）
+- 核心想法: 操控一个大得多的身体，让人看到新的身体图式如何形成：细小的手势逐渐被感受为六条腿的步伐。
+- 作品内容: Stelarc 站在一台六足气动行走机器上，用手臂动作操控它；机器的腿、声音和他被放大的身体构成一段嘈杂的编舞。
+- 实现方式: 上身外骨骼上的传感器读取手臂动作，驱动一台以波浪或三足步态行走的气动六足机器；左臂延伸为具有 11 个自由度的气动机械手，机器的声音被放大。
+- 视角: 延展的身体, 动作与表达
+- 视频: https://www.youtube.com/watch?v=R2MntBUwUxY
+- 图片: https://stelarc.org/media/img/projects-overview/exo2.jpg
+- 项目主页: https://stelarc.org/_activity-20227.php
+
+#### 赛博格计划（Project Cyborg） — Kevin Warwick (1998)
+- 类型: 研究原型 · 身体与感官: 新感官与替代感官, 电刺激（肌肉电刺激、前庭电刺激）, 肌肉张力（肌电）
+- 核心想法: 最动人的结果是被感受到的，而非技术性的：两人之间神经对神经的信号，一种早期而粗糙的共享身体感觉。
+- 作品内容: Kevin Warwick 于 1998 年植入 RFID 芯片，2002 年又把 100 电极阵列接入手臂的正中神经，借此操控机械手，并感受来自妻子植入物的脉冲。
+- 实现方式: 植入正中神经的犹他微电极阵列记录并刺激神经信号，经互联网连接到机械手和 Irena Warwick 手臂中的电极。
+- 视角: 延展的身体, 身体间性
+- 论文: https://doi.org/10.1001/archneur.60.10.1369 (Archives of Neurology 60(10), 2003)
+- 视频: https://www.youtube.com/watch?v=GLq7edATaFo
+- 图片: https://upload.wikimedia.org/wikipedia/commons/4/45/Kevin_Warwick_2011.jpg
+- 项目主页: https://en.wikipedia.org/wiki/Kevin_Warwick
+
+#### 时间胶囊（Time Capsule） — Eduardo Kac (1997)
+- 类型: 表演、舞蹈与音乐 · 身体与感官: 多出来的肢体与身体延伸, 触摸与压力, 疼痛与内在感觉
+- 核心想法: 身体成了数据库里的一条记录；这场表演追问：当活生生的血肉同时成为他人可读取的条目时，会发生什么。
+- 作品内容: 在圣保罗的一家画廊，Eduardo Kac 把一枚微芯片注射进自己的脚踝，随后在网上把自己登记进动物识别数据库，并在电视和网络上直播。
+- 实现方式: 用针头植入一枚用于动物的被动 RFID 识别芯片，经网络远程扫描，并以动物和主人的双重身份登记。
+- 视角: 身体政治, 身体数据与模糊性
+- 图片: https://www.ekac.org/needle.gif
+- 项目主页: https://www.ekac.org/timec.html
+
+#### Ping 身体（Ping Body） — Stelarc (1996)
+- 类型: 表演、舞蹈与音乐 · 身体与感官: 电刺激（肌肉电刺激、前庭电刺激）, 肌肉张力（肌电）, 动作与动觉
+- 核心想法: 被外部驱动，让主动与被动动作之间被感受到的界线变得鲜明。
+- 作品内容: 互联网流量驱动 Stelarc 的身体：网络 ping 值被转为肌肉电刺激，让他的手臂和腿不由自主地抽动。
+- 实现方式: 对全球互联网域名的 ping 值被映射到他四肢上的肌肉刺激系统；他自己的动作也驱动机械“第三只手”。
+- 视角: 延展的身体, 陌生化, 超越人类
+- 展出与获奖: DEAF96, Rotterdam
+- 视频: https://www.youtube.com/watch?v=45MOlsFGSHI
+- 项目主页: https://stelarc.org/
+
+#### Epizoo — Marcel·lí Antúnez Roca (1994)
+- 类型: 表演、舞蹈与音乐 · 身体与感官: 多出来的肢体与身体延伸, 动作与动觉, 触摸与压力
+- 核心想法: 被陌生人牵动，让身体的边界从两侧都被感受到：观众享受控制，表演者感受侵入。
+- 作品内容: 观众点击屏幕，通过表演者身上的气动外骨骼，牵动他的鼻子、嘴、耳朵、臀部和胸肌。
+- 实现方式: 身上穿戴的气动外骨骼在面部和躯干装有执行器，由带有其身体动画图像的电脑界面驱动。
+- 视角: 身体政治, 陌生化, 身体间性
+- 视频: https://www.youtube.com/watch?v=5utDR8VWxms
+- 图片: https://www.marceliantunez.com/media/cache/3b/1f/3b1f492a17b1654525596a9cc5d9af01.jpg https://www.marceliantunez.com/media/cache/64/a3/64a3357afcd871bda2b64a7e09484080.jpg
+- 项目主页: https://www.marceliantunez.com/work/epizoo/
+
+#### 胃雕塑（Stomach Sculpture） — Stelarc (1993)
+- 类型: 艺术作品与装置 · 身体与感官: 疼痛与内在感觉, 光与视觉, 多出来的肢体与身体延伸
+- 核心想法: 它把身体隐藏的内部变成艺术的场地，但这内部只被感受为紧绷与风险；内在感觉在镜头前依然沉默。
+- 作品内容: 一个金、银和钢制的小胶囊经食道被送入 Stelarc 的胃里，在那里展开、伸缩、闪光并发出声响，由内窥镜拍摄。
+- 实现方式: 由生物相容金属制成、伺服电机驱动的蜗杆机构被送入充气后的胃中约 40 厘米，用医用内窥镜在两天内拍摄。
+- 视角: 陌生化, 延展的身体
+- 展出与获奖: Fifth Australian Sculpture Triennale, Melbourne 1993
+- 图片: https://stelarc.org/media/img/stomach-sculpture/Stomach-Sculpture.jpg https://stelarc.org/media/img/stomach-sculpture/Inside-of-my-Stomach.jpg
+- 项目主页: https://stelarc.org/_activity-20349.php
+
+#### 圣奥尔兰的转世（The Reincarnation of Saint-ORLAN） — ORLAN (1990)
+- 类型: 表演、舞蹈与音乐 · 身体与感官: 整体身心, 疼痛与内在感觉, 触摸与压力
+- 核心想法: 在手术中保持清醒并说话，拒绝“被动的身体”与“旁观的心灵”的分裂：她同时是作者与材料。
+- 作品内容: 在九场手术表演（1990–1993）中，ORLAN 在局部麻醉下接受面部改造，同时朗读文本、指挥现场并进行直播。
+- 实现方式: 整形外科医生在局部麻醉下为她手术，身穿她设计的服装；手术被拍摄，《Omnipresence》（1993）通过卫星直播到多家画廊。
+- 视角: 身体政治, 第一人称与亲身感受, 陌生化
+- 视频: https://www.youtube.com/watch?v=0UBf6l3mO9g
+- 项目主页: https://www.orlan.eu/works/performance-2/?lang=en
+
+#### 第三只手（Third Hand） — Stelarc (1980)
+- 类型: 表演、舞蹈与音乐 · 身体与感官: 多出来的肢体与身体延伸, 肌肉张力（肌电）, 动作与动觉
+- 核心想法: 新增的肢体必须从内部学会：身体重新分配哪些肌肉“代表”一只手，这是对身体图式缓慢的第一人称训练。
+- 作品内容: 一只机械右手装在 Stelarc 的手臂上，由他腹部和腿部的肌肉信号驱动；他花了数年学会用三只手写字。
+- 实现方式: 腹部与腿部肌肉上的肌电电极控制一只在日本制造的机械手的抓握、旋转与松开。
+- 视角: 延展的身体, 第一人称与亲身感受, 陌生化
+- 视频: https://www.youtube.com/watch?v=Or1CVc6A9YA
+- 图片: https://stelarc.org/media/img/projects-overview/3rdhand2.jpg
+- 项目主页: https://stelarc.org/_activity-20265.php
+
+#### 身体悬吊（Suspensions） — Stelarc (1976)
+- 类型: 表演、舞蹈与音乐 · 身体与感官: 触摸与压力, 姿态、平衡与本体感, 疼痛与内在感觉
+- 核心想法: 在任何机器人出现之前，他的赛博格创作始于皮肤、重量与重力被感受到的极限；他一边称身体“过时”，一边从内部检验它。
+- 作品内容: 1976 至 1988 年间，Stelarc 用穿过皮肤的钩子悬吊自己的身体 25 次，地点有礁石、海边、纽约街道和哥本哈根广场。
+- 实现方式: 钢钩穿过皮肤，连接绳索和滑轮；部分场次放大了心跳和肌电声音，让被拉伸的身体变得可听。
+- 视角: 第一人称与亲身感受, 延展的身体, 陌生化
+- 图片: https://stelarc.org/media/img/projects-overview/suspensions2.jpg https://stelarc.org/media/img/thumbs/273_1000.jpg
+- 项目主页: https://stelarc.org/_activity-20316.php
+
+### 超人类与后人类思想
+
+从“天生的赛博格”与赛博格宣言，到超人类主义及其批评：增强对身心一体意味着什么。
+
+#### 哲学后人类主义（Philosophical Posthumanism） — Francesca Ferrando (2019)
+- 类型: 书与文章 · 身体与感官: 整体身心
+- 核心想法: 适合需要区分“增强议程”与“以身体和其他物种为中心的后人类主义”的设计者。
+- 作品内容: Ferrando 梳理后人类主义、超人类主义、反人文主义、新唯物主义等思潮，并发展出一种关于关系与具身的哲学后人类主义。
+- 实现方式: 收入 Theory in the New Humanities 丛书的哲学专著兼教材，附后人类术语表。
+- 视角: 超越人类, 身心一体
+- 论文: https://doi.org/10.5040/9781350059511 (Bloomsbury Academic, 2019)
+- 视频: https://www.youtube.com/watch?v=RGjMUw03Bv0
+- 图片: https://upload.wikimedia.org/wikipedia/commons/3/30/Francesca_Ferrando.jpg
+
+#### 私密基础设施中的数据仪式：残障时间与作为女性主义科学认知场所的残障赛博格身体（Data Rituals in Intimate Infrastructures: Crip Time and the Disabled Cyborg Body as an Epistemic Site of Feminist Science） — Laura Forlano (2017)
+- 类型: 论文 · 身体与感官: 疼痛与内在感觉, 私密与激素的身体, 整体身心
+- 核心想法: 真实的赛博格身体是残障的、疲惫的、需要照料它的机器的；与设备共同生活的切身感受本身就是知识的来源。
+- 作品内容: Forlano 以第一人称书写与胰岛素泵和连续血糖监测仪共同生活：一个与自动化系统相连的身体所经历的警报、仪式与不眠之夜。
+- 实现方式: 借鉴女性主义技术科学与残障（crip）理论的自我民族志文章，基于她自己多年的设备数据与日常。
+- 视角: 第一人称与亲身感受, 照护与疗愈, 身体数据与模糊性
+- 论文: https://doi.org/10.28968/cftt.v3i2.28843 (Catalyst: Feminism, Theory, Technoscience 3(2), 2017)
+- 视频: https://www.youtube.com/watch?v=xrHpvKjJuCI
+
+#### 后人类（The Posthuman） — Rosi Braidotti (2013)
+- 类型: 书与文章 · 身体与感官: 整体身心
+- 核心想法: 她拒绝超人类主义对身体的逃离，把后人类扎根于有生命力的、关系性的物质；身体是主体发生之处，而非载具。
+- 作品内容: Braidotti 提出一种批判的后人类主义，超越“人”的理想，走向具身的、嵌入的、与动物、机器和地球相互缠绕的主体。
+- 实现方式: 借鉴斯宾诺莎、德勒兹与女性主义理论的哲学著作，分章讨论超越自我、超越物种与超越死亡的生命。
+- 视角: 超越人类, 身心一体, 身体政治
+- 论文: https://www.politybooks.com/bookdetail?book_slug=the-posthuman--9780745641584 (Polity Press, 2013)
+- 视频: https://www.youtube.com/watch?v=0CewnVzOg5w
+- 图片: https://covers.openlibrary.org/b/isbn/9780745641584-L.jpg https://upload.wikimedia.org/wikipedia/commons/b/b4/Trouw%2C_R._Braidotti_5.jpg
+
+#### 超人类主义读本（The Transhumanist Reader: Classical and Contemporary Essays on the Science, Technology, and Philosophy of the Human Future） — Max More, Natasha Vita-More (2013)
+- 类型: 书与文章 · 身体与感官: 整体身心, 脑（脑电）, 多出来的肢体与身体延伸
+- 核心想法: 可当作立场地图来读：一些文章把身体当作可更换“基质”的心灵平台（二元论）；另一些，如形态自由，则仍以身体为中心。
+- 作品内容: 一部超人类主义文集，从 Max More 的“外熵原则”到关于形态自由、寿命延长与心灵上传的文章。
+- 实现方式: 约 40 篇文章的编著，包括经典文本重刊与新稿。
+- 视角: 延展的身体, 身体政治
+- 论文: https://doi.org/10.1002/9781118555927 (Wiley-Blackwell, 2013)
+- 图片: https://covers.openlibrary.org/b/isbn/9781118334317-L.jpg https://upload.wikimedia.org/wikipedia/commons/c/ca/Max_More%2C_Stanford_2006_%28square_crop%29.jpg
+
+#### 反对完美：科技与人性的正义之战（The Case against Perfection: Ethics in the Age of Genetic Engineering） — Michael Sandel (2007)
+- 类型: 书与文章 · 身体与感官: 整体身心, 动作与动觉
+- 核心想法: 他所说生命的“被赐予性”契合身体设计的态度：先欣赏自己拥有的身体，再考虑修正它。
+- 作品内容: Sandel 反对体育、育儿与遗传学中的增强，认为驾驭自身本性的冲动会侵蚀谦逊、责任与团结。
+- 实现方式: 一部简短的哲学著作，源于他在美国总统生命伦理委员会的工作和 2004 年发表于《大西洋月刊》的文章。
+- 视角: 身体政治, 身心一体
+- 论文: https://doi.org/10.4159/9780674043060 (Harvard University Press, 2007)
+- 图片: https://www.hup.harvard.edu/img/feeds/jackets/9780674036383.png?fm=jpg&q=80&fit=max&w=630 https://upload.wikimedia.org/wikipedia/commons/2/2b/Michael_Sandel_Frontiers_of_Thought_2023_%283x4cropped%29.jpg
+
+#### 一条立足之腿：义肢、隐喻与物质性（A Leg to Stand On: Prosthetics, Metaphor, and Materiality） — Vivian Sobchack (2006)
+- 类型: 书与文章 · 身体与感官: 多出来的肢体与身体延伸, 姿态、平衡与本体感, 动作与动觉
+- 核心想法: 义体身体是通过平衡、疲劳、声音与皮肤被活出来的；任何关于增强的理论都应从这种第一人称的物质经验出发。
+- 作品内容: 膝上截肢、使用义肢生活的 Sobchack 写下这条腿实际的感受与表现，并批评把“义体”当作随意隐喻的理论家。
+- 实现方式: 基于她自身截肢与康复经验的现象学文章，收录于论文集《The Prosthetic Impulse》。
+- 视角: 第一人称与亲身感受, 延展的身体, 身心一体
+- 论文: https://openlibrary.org/isbn/9780262195300 (In M. Smith & J. Morra (eds.), The Prosthetic Impulse, MIT Press, 2006)
+- 图片: https://covers.openlibrary.org/b/isbn/9780262195300-L.jpg
+
+#### 为后人类尊严辩护（In Defense of Posthuman Dignity） — Nick Bostrom (2005)
+- 类型: 论文 · 身体与感官: 整体身心, 脑（脑电）
+- 核心想法: 增强立场最清晰的表述；它主要把身体看作一组待提升的能力，却很少谈被增强的身体从内部会有怎样的感受。
+- 作品内容: Bostrom 回应生物保守主义批评者：被增强的“后人类”同样可以拥有尊严，人们应当有自由用技术扩展自己的能力。
+- 实现方式: 回应 Fukuyama、Kass 与美国总统生命伦理委员会的哲学论文。
+- 视角: 延展的身体, 身体政治
+- 论文: https://doi.org/10.1111/j.1467-8519.2005.00437.x (Bioethics 19(3), 2005)
+- 视频: https://www.youtube.com/watch?v=VmtrvkGXBn0
+- 图片: https://upload.wikimedia.org/wikipedia/commons/3/3a/Prof_Nick_Bostrom_324-1.jpg
+- 项目主页: https://nickbostrom.com/ethics/dignity
+
+#### 天生的赛博格：心灵、技术和人类智能的未来（Natural-Born Cyborgs: Minds, Technologies, and the Future of Human Intelligence） — Andy Clark (2003)
+- 类型: 书与文章 · 身体与感官: 整体身心, 多出来的肢体与身体延伸
+- 核心想法: 增强与日常的具身性一脉相承：新工具被纳入身体的方式，与学会用网球拍的可塑身体图式相同。
+- 作品内容: Clark 主张人天生就是赛博格：我们的大脑天生会把笔、语言、工具与设备纳入思考和行动之中，无需植入物。
+- 实现方式: 一部通俗著作，借鉴认知科学、身体图式神经科学，以及从 Stelarc 到可穿戴计算的案例。
+- 视角: 延展的身体, 身心一体
+- 论文: https://global.oup.com/academic/product/natural-born-cyborgs-9780195177510 (Oxford University Press, 2003)
+- 图片: https://covers.openlibrary.org/b/isbn/9780195148664-L.jpg
+
+#### 技术中的身体（Bodies in Technology） — Don Ihde (2002)
+- 类型: 书与文章 · 身体与感官: 整体身心, 动作与动觉, 触摸与压力
+- 核心想法: 虚拟的与增强的身体从来不是完整的替代：完整的、多感官的生活身体始终是参照，任何技术身体在它面前都显得单薄。
+- 作品内容: Ihde 区分“身体一”（被感受、会运动的身体）与“身体二”（被文化塑造的身体），追问从虚拟现实到义肢的技术如何重塑两者。
+- 实现方式: 关于虚拟现实、成像、义肢与“技术身体”的后现象学文集，收入 Electronic Mediations 丛书。
+- 视角: 延展的身体, 第一人称与亲身感受
+- 论文: https://openlibrary.org/isbn/9780816638451 (University of Minnesota Press, 2002)
+- 视频: https://www.youtube.com/watch?v=hmBgJjfjG7Q
+- 图片: https://covers.openlibrary.org/b/isbn/9780816638451-L.jpg
+
+#### 我们的后人类未来：生物技术革命的后果（Our Posthuman Future: Consequences of the Biotechnology Revolution） — Francis Fukuyama (2002)
+- 类型: 书与文章 · 身体与感官: 整体身心, 脑（脑电）
+- 核心想法: 一位捍卫共同人性的增强批评者；身体设计认同他的审慎，但把重要之处放在活生生的、被感受的身体上，而非抽象的本质。
+- 作品内容: Fukuyama 警告基因工程、神经药理学与寿命延长可能改变人性、动摇平等权利，并呼吁加以监管。
+- 实现方式: 一部面向政策的著作，借鉴政治哲学、生物学与优生学史。
+- 视角: 身体政治, 身心一体
+- 论文: https://us.macmillan.com/books/9780312421717/ourposthumanfuture (Farrar, Straus and Giroux, 2002)
+- 图片: https://covers.openlibrary.org/b/isbn/9780374236434-L.jpg https://upload.wikimedia.org/wikipedia/commons/5/59/Francis_Fukuyama_2026_Sept.jpg
+
+#### 我们何以成为后人类：文学、信息科学和控制论中的虚拟身体（How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics） — N. Katherine Hayles (1999)
+- 类型: 书与文章 · 身体与感官: 整体身心, 脑（脑电）
+- 核心想法: 这本书点出了后人类梦想中的二元论，并主张一种保持具身的后人类：信息总是由某个身体承载、被某个身体感受。
+- 作品内容: Hayles 追溯战后控制论如何把信息视为可与其物质载体分离的东西，以及这一观念如何塑造小说和心灵上传的幻想。
+- 实现方式: 对梅西会议与控制论的思想史研究，并与 Philip K. Dick、Bernard Wolfe 等人的科幻小说对照阅读。
+- 视角: 身心一体, 延展的身体, 身体数据与模糊性
+- 论文: https://doi.org/10.7208/chicago/9780226321394.001.0001 (University of Chicago Press, 1999)
+- 视频: https://www.youtube.com/watch?v=rryjPdKMxO4
+- 图片: https://tmm.chicagodistributioncenter.com/IsbnImages/9780226321462.jpg
+
+#### 延展心灵（The Extended Mind） — Andy Clark, David Chalmers (1998)
+- 类型: 论文 · 身体与感官: 整体身心, 脑（脑电）
+- 核心想法: 心灵并不封闭在颅骨之内；但这篇论文谈的仍是认知而非感受，因此身体设计补上一个问题：延伸被如何感受。
+- 作品内容: Clark 与 Chalmers 主张，当笔记本或工具承担了记忆本应承担的角色时，它就是心灵的一部分，并以 Otto 和他的笔记本为例。
+- 实现方式: 以“对等原则”和思想实验（俄罗斯方块旋转、Otto 的笔记本）展开的哲学论证。
+- 视角: 延展的身体, 身心一体
+- 论文: https://doi.org/10.1093/analys/58.1.7 (Analysis 58(1), 1998)
+- 视频: https://www.youtube.com/watch?v=kc-TdMjuJRU
+- 图片: https://upload.wikimedia.org/wikipedia/commons/f/fb/David_chalmers.jpg
+
+#### Primo Posthuman（原初后人类）（Primo Posthuman） — Natasha Vita-More (1997)
+- 类型: 艺术作品与装置 · 身体与感官: 整体身心, 新感官与替代感官, 多出来的肢体与身体延伸
+- 核心想法: 它呈现了超人类主义把身体当作可重新设计的产品的形象；身体设计追加的问题是：谁来感受这次升级，它将如何被活出来。
+- 作品内容: 一个未来人体的设计概念：可升级的感官、“元脑”、智能皮肤和可替换的部件，以图像与文字呈现。
+- 实现方式: 思辨设计图与规格说明，借鉴纳米技术、人工智能与美容医学，在其后十年中不断修订。
+- 视角: 延展的身体, 身体政治
+- 视频: https://www.youtube.com/watch?v=kwb0DqrDm4g
+- 图片: https://upload.wikimedia.org/wikipedia/commons/0/04/Natasha_Vita-More.jpg
+- 项目主页: https://www.natashavita-more.com/
+
+#### 技术与时间1：爱比米修斯的过失（Technics and Time, 1: The Fault of Epimetheus） — Bernard Stiegler (1994)
+- 类型: 书与文章 · 身体与感官: 整体身心, 动作与动觉
+- 核心想法: 不存在一个后来才被技术增强的纯粹自然身体：身体与技术共同演化，问题在于哪些技术照料身心，哪些消耗身心。
+- 作品内容: Stiegler 主张人生来没有固定的属性，一直是通过工具、书写和其他外在的技术记忆而成为人的。
+- 实现方式: 对 Leroi-Gourhan 古人类学、海德格尔与希腊神话中 Epimetheus 的哲学解读；法文原著 1994 年出版。
+- 视角: 延展的身体, 身心一体
+- 论文: https://doi.org/10.1515/9781503616738 (Galilée, 1994; English trans. Stanford University Press, 1998)
+- 图片: https://covers.openlibrary.org/b/isbn/9780804730419-L.jpg https://upload.wikimedia.org/wikipedia/commons/a/a8/2016_HTNM_Bernard_Stiegler_%2830301265471%29_%28cropped%29.jpg
+
+#### 义体、机器人与远程存在：后进化策略（Prosthetics, Robotics and Remote Existence: Postevolutionary Strategies） — Stelarc (1991)
+- 类型: 论文 · 身体与感官: 多出来的肢体与身体延伸, 肌肉张力（肌电）, 电刺激（肌肉电刺激、前庭电刺激）
+- 核心想法: 文章把身体当作待升级的硬件，但他的表演恰恰相反：每一次延伸都必须从内部学会、感受。请把文章与作品对照着读。
+- 作品内容: Stelarc 的宣言式文章主张人体已经“过时”，应该用义体、机器人和网络重新设计。
+- 实现方式: 发表于《Leonardo》的文章，基于他的“第三只手”、身体悬吊与远程驱动表演。
+- 视角: 延展的身体, 陌生化
+- 论文: https://doi.org/10.2307/1575667 (Leonardo 24(5), 1991)
+- 图片: https://upload.wikimedia.org/wikipedia/commons/1/19/Stelarc_2011b.jpg
+
+#### 真正的身体请站出来？关于虚拟文化的边界故事（Will the Real Body Please Stand Up? Boundary Stories about Virtual Cultures） — Allucquére Rosanne Stone (1991)
+- 类型: 书与文章 · 身体与感官: 整体身心, 嗓音、声音与聆听, 私密与激素的身体
+- 核心想法: 针对在赛博空间中离开身体的梦想，她写道“忘记身体是一个古老的笛卡尔把戏”：虚拟生活仍然建立在真实而会死亡的身体之上。
+- 作品内容: Stone 研究电话性工作者和 CommuniTree 等早期在线社区，展示身体与身份如何通过技术被建构。
+- 实现方式: 结合早期虚拟社区民族志与表演研究分析的文章，收录于 Benedikt 编《Cyberspace: First Steps》。
+- 视角: 身体政治, 身心一体
+- 论文: https://openlibrary.org/isbn/9780262521772 (In M. Benedikt (ed.), Cyberspace: First Steps, MIT Press, 1991)
+- 图片: https://upload.wikimedia.org/wikipedia/commons/a/a2/SandyStone.JPG https://covers.openlibrary.org/b/isbn/9780262521772-L.jpg
+
+#### 技术与生活世界：从伊甸园到尘世（Technology and the Lifeworld: From Garden to Earth） — Don Ihde (1990)
+- 类型: 书与文章 · 身体与感官: 整体身心, 光与视觉, 触摸与压力
+- 核心想法: 一个合手的工具会隐退进被感受的身体并延伸它，同时放大一些感觉、削弱另一些；增强总会重塑体验。
+- 作品内容: Ihde 的书描述人与技术的几种关系，首先是“具身关系”：眼镜或牙科探针成为我们感知方式的一部分。
+- 实现方式: 对具身关系、诠释关系、他异关系与背景关系的后现象学分析，辅以历史与跨文化案例。
+- 视角: 延展的身体, 第一人称与亲身感受
+- 论文: https://doi.org/10.2979/3108.0 (Indiana University Press, 1990)
+- 视频: https://www.youtube.com/watch?v=UiRkzZEMDxU
+- 图片: https://ingram-indiana.imgix.net/covers/9780253205605.jpg?w=400
+
+#### 心智之子：机器人与人类智能的未来（Mind Children: The Future of Robot and Human Intelligence） — Hans Moravec (1988)
+- 类型: 书与文章 · 身体与感官: 脑（脑电）, 整体身心
+- 核心想法: 这是该领域最直白的二元论立场：心灵是一种可以离开血肉的模式。身体设计的回应是：思考与感受由活着的身体完成，而不是储存在身体里。
+- 作品内容: 一位机器人学家预言机器将达到人类智能，人的心灵可以被逐个神经元扫描，并转移到机器人身体里。
+- 实现方式: 一部基于机器人学与计算趋势的专著，包括心灵经机器人逐步“转世”的思想实验。
+- 视角: 延展的身体, 身心一体
+- 论文: https://www.hup.harvard.edu/books/9780674576186 (Harvard University Press, 1988)
+- 图片: https://covers.openlibrary.org/b/isbn/0674576187-L.jpg
+
+#### 赛博格宣言（A Cyborg Manifesto） — Donna Haraway (1985)
+- 类型: 书与文章 · 身体与感官: 整体身心, 私密与激素的身体
+- 核心想法: 她的赛博格是具身的、处境化的：技术早已进入我们的血肉，因此任务是为身体如何被建构负责，而不是逃离身体。
+- 作品内容: Haraway 的文章把赛博格——有机体与机器的混合——当作女性主义形象，打破人与动物、有机体与机器、物质与非物质之间的界限。
+- 实现方式: 最初发表于《Socialist Review》（1985），修订版以《赛博格宣言》收入《Simians, Cyborgs, and Women》（1991）。
+- 视角: 身体政治, 延展的身体, 超越人类
+- 论文: https://doi.org/10.4324/9780203873106 (Socialist Review 80, 1985; Simians, Cyborgs, and Women (Routledge, 1991))
+- 视频: https://www.youtube.com/watch?v=Q9gis7-Jads
+- 图片: https://covers.openlibrary.org/b/id/902702-L.jpg https://upload.wikimedia.org/wikipedia/commons/c/ce/Donna_Haraway_2006_%28cropped%29.jpg
+
+#### 赛博格与太空（Cyborgs and Space） — Manfred Clynes, Nathan S. Kline (1960)
+- 类型: 论文 · 身体与感官: 整体身心, 疼痛与内在感觉
+- 核心想法: 最初的赛博格关乎在意识之下完成的体内平衡，“让人得以自由地探索、创造、思考与感受”；身体被改变，而不是被抛下。
+- 作品内容: 创造“赛博格”一词的论文：两位罗克兰州立医院的科学家提出，用植入的泵和药物改造宇航员的身体，使其能在太空中自我调节。
+- 实现方式: 一篇基于反馈控制的思辨文章：以植入大鼠体内的渗透泵为实例，延伸到为宇航员调节清醒、辐射与情绪的药物。
+- 视角: 延展的身体, 身心一体
+- 论文: https://web.mit.edu/digitalapollo/Documents/Chapter1/cyborgs.pdf (Astronautics, September 1960)
+- 项目主页: https://en.wikipedia.org/wiki/Cyborg
+
+#### 超人类主义（Transhumanism） — Julian Huxley (1957)
+- 类型: 书与文章 · 身体与感官: 整体身心
+- 核心想法: Huxley 的超人类主义关乎展开人性的潜能（包括更丰富的体验），而非离开身体；后来的超人类主义把它收窄为技术问题。
+- 作品内容: 一篇短文，生物学家 Julian Huxley 提出人类可以通过实现自身本性的新可能，主动地超越自己。
+- 实现方式: 收录于文集《New Bottles for New Wine》（1957），1968 年重刊于《人本主义心理学杂志》。
+- 视角: 身心一体
+- 论文: https://doi.org/10.1177/002216786800800107 (New Bottles for New Wine (Chatto & Windus, 1957); Journal of Humanistic Psychology 8(1), 1968)
+- 图片: https://upload.wikimedia.org/wikipedia/commons/6/69/Hux-Oxon-72.jpg
 
 ## 情感回路与生物数据
 
@@ -2666,17 +3664,6 @@ Focusing（体会聚焦）、身体经验疗法（SE）、Hakomi，以及以身�
 - 论文: https://doi.org/10.1145/3173574.3173635 (CHI 2018)
 - 视频: https://www.youtube.com/watch?v=_32Tl6zLGTU
 
-#### Corpus Nil — Marco Donnarumma (2016)
-- 类型: 表演、舞蹈与音乐 · 身体与感官: 肌肉张力（肌电）, 动作与动觉, 光与视觉
-- 核心想法: 人与机器构成一个混合的身体；当机器共同塑造身体如何移动和发声时，身体规范被动摇。
-- 作品内容: 表演者在近乎黑暗中缓慢移动，一个自主系统聆听他肌肉的电信号与声学信号，并以声音和光回应。
-- 实现方式: 四肢上的生物物理传感器（Xth Sense 生物声学与生物电）输入机器学习算法，由其自主驱动声音与灯光（2016 年于 ZKM 首演）。
-- 视角: 超越人类, 身体政治, 第一人称与亲身感受
-- 展出与获奖: Prix Ars Electronica 2017, Award of Distinction (Sound Art); Bains Numériques 2018, 1st Prize Performing Arts
-- 视频: https://www.youtube.com/watch?v=CAIh8FxLMtk
-- 图片: https://marcodonnarumma.com/live/wp-content/uploads/2017/03/Marco-Donnarumma_Corpus-Nil_1_web_by-onuk.jpg
-- 项目主页: https://marcodonnarumma.com/works/corpus-nil/
-
 #### 嗓音弦琴（The Vocal Chorder）（The Vocal Chorder） — Carl Unander-Scharin, Åsa Unander-Scharin (2013)
 - 类型: 研究原型 · 身体与感官: 嗓音、声音与聆听, 触摸与压力, 姿态、平衡与本体感
 - 核心想法: 它从歌手自己在舞台上的身体经验出发设计，让整个歌唱的身体，而不只是嗓音，塑造音乐。
@@ -2762,15 +3749,6 @@ Focusing（体会聚焦）、身体经验疗法（SE）、Hakomi，以及以身�
 - 视角: 第一人称与亲身感受, 调谐与鉴赏, 身心一体
 - 论文: https://doi.org/10.1145/1935701.1935747 (TEI 2011)
 
-#### 面部电刺激（Electric Stimulus to Face） — 真锅大度 (2008)
-- 类型: 艺术作品与装置 · 身体与感官: 肌肉张力（肌电）, 嗓音、声音与聆听
-- 核心想法: 当外部信号驱动你的脸时，表情与感受之间的联系变得陌生而可见。
-- 作品内容: 贴在真锅大度及其朋友脸上的电极，按照音乐施加肌肉电刺激，他们静坐不动，脸却随节奏抽动、做出怪相。
-- 实现方式: 由音乐软件控制的定制肌肉电刺激装置，后续测试中加入肌电传感器，在人与人之间传递面部动作。
-- 视角: 陌生化, 身心一体
-- 视频: https://www.youtube.com/watch?v=pLAma-lrJRM
-- 项目主页: https://www.daito.ws/en/
-
 #### soft(n) — Thecla Schiphorst (2007)
 - 类型: 艺术作品与装置 · 身体与感官: 触摸与压力, 振动与触觉反馈, 整体身心
 - 核心想法: 这是把 Shusterman 的身体美学引入人机交互的论文：为触摸的感受而设计，而不只是为它触发什么而设计。
@@ -2811,16 +3789,6 @@ Focusing（体会聚焦）、身体经验疗法（SE）、Hakomi，以及以身�
 - 论文: https://doi.org/10.1145/259081.259172 (SIGGRAPH 97 Visual Proceedings)
 - 视频: https://www.youtube.com/watch?v=3DrCM8pJVYI
 
-#### Ping 身体（Ping Body） — Stelarc (1996)
-- 类型: 表演、舞蹈与音乐 · 身体与感官: 肌肉张力（肌电）, 动作与动觉
-- 核心想法: 被外部驱动，让主动与被动动作之间被感受到的界线变得鲜明。
-- 作品内容: 互联网流量驱动 Stelarc 的身体：网络 ping 值被转为肌肉电刺激，让他的手臂和腿不由自主地抽动。
-- 实现方式: 对全球互联网域名的 ping 值被映射到他四肢上的肌肉刺激系统；他自己的动作也驱动机械“第三只手”。
-- 视角: 陌生化, 超越人类, 身体政治
-- 展出与获奖: DEAF96, Rotterdam
-- 视频: https://www.youtube.com/watch?v=45MOlsFGSHI
-- 项目主页: https://stelarc.org/
-
 #### Osmose（渗透）（Osmose） — Char Davies (1995)
 - 类型: 艺术作品与装置 · 身体与感官: 呼吸, 姿态、平衡与本体感, 光与视觉
 - 核心想法: 把导航与呼吸、平衡绑定，让 VR 成为冥想式的具身体验，而不是手眼控制。
@@ -2842,16 +3810,6 @@ Focusing（体会聚焦）、身体经验疗法（SE）、Hakomi，以及以身�
 - 视频: https://www.youtube.com/watch?v=FsR7EQgG7N0
 - 图片: http://www.davidrokeby.com/VNS_Potsdam_web.jpg
 - 项目主页: http://www.davidrokeby.com/vns.html
-
-#### 第三只手（Third Hand） — Stelarc (1980)
-- 类型: 表演、舞蹈与音乐 · 身体与感官: 肌肉张力（肌电）, 动作与动觉
-- 核心想法: 新增的肢体必须从内部学会：身体重新分配哪些肌肉“代表”一只手，这是对身体图式缓慢的第一人称训练。
-- 作品内容: 一只机械右手装在 Stelarc 的手臂上，由他腹部和腿部的肌肉信号驱动；他花了数年学会用三只手写字。
-- 实现方式: 腹部与腿部肌肉上的肌电电极控制一只在日本制造的机械手的抓握、旋转与松开。
-- 视角: 第一人称与亲身感受, 陌生化, 超越人类
-- 视频: https://www.youtube.com/watch?v=Or1CVc6A9YA
-- 图片: https://stelarc.org/media/img/projects-overview/3rdhand2.jpg
-- 项目主页: https://stelarc.org/_activity-20265.php
 
 #### 自我的建构（Estruturação do Self (Structuring of the Self)） — Lygia Clark (1976)
 - 类型: 身体修习 · 身体与感官: 触摸与压力, 温度与热, 整体身心
@@ -3738,15 +4696,6 @@ Focusing（体会聚焦）、身体经验疗法（SE）、Hakomi，以及以身�
 - 论文: https://doi.org/10.1038/s41598-018-21765-4 (Scientific Reports 2018)
 - 视频: https://www.youtube.com/watch?v=9GQTLwUaA1I
 
-#### bioSync 肌动同步（bioSync） — 西田惇 (2017)
-- 类型: 研究原型 · 身体与感官: 肌肉张力（肌电）, 动作与动觉, 触摸与压力
-- 核心想法: 共情可以是动觉的：在自己的肌肉中感受他人的动作，能获得旁观无法带来的理解。
-- 作品内容: 一对可穿戴设备：读取一个人的肌肉活动，并通过电刺激传到另一个人的肌肉中；例如治疗师可以在自己的手臂上感受到患者的震颤或僵硬。
-- 实现方式: 可在肌电感测与肌肉电刺激之间切换的可穿戴电极，实时双向连接两个人。
-- 视角: 身体间性, 照护与疗愈
-- 论文: https://doi.org/10.1145/3025453.3025829 (CHI 2017)
-- 视频: https://www.youtube.com/watch?v=vOyt4pA6wow
-
 #### Bounden — Game Oven (2014)
 - 类型: 产品与应用 · 身体与感官: 动作与动觉, 触摸与压力
 - 核心想法: 两只手共同握着的物件可以把身体编排成亲近的姿态；这款游戏设计的是舞蹈，而不是屏幕。
@@ -3787,18 +4736,6 @@ Focusing（体会聚焦）、身体经验疗法（SE）、Hakomi，以及以身�
 ### 集体与参与式的身体经验
 
 一群人一起运动、呼吸与感受。
-
-#### 身体甲骨（Body Oracle） — Ke Huang, Danlin Huang, Botao 'Amber' Hu (2024)
-- 类型: 艺术作品与装置 · 身体与感官: 姿态、平衡与本体感, 动作与动觉, 光与视觉
-- 核心想法: 如果一种语言拥有描述姿势以及身体如何共处的字词，人们就可能对自己和彼此的身体更有觉察。
-- 作品内容: 摄像头识别一位或多位观众的姿势，AI 模型把它们转化为模仿甲骨文风格的新象形字，形成一套描述身体及身体间位置的书写词汇。
-- 实现方式: MoveNet 关键点检测，输入到图像转换模型中；模型以志愿者重演甲骨文字形所得的配对样本训练。
-- 视角: 身体间性, 调谐与鉴赏, 动作与表达
-- 展出与获奖: Ars Electronica Expanded 2025; SIGGRAPH Asia 2025 XR; IEEE VR 2026 XR Gallery
-- 论文: https://doi.org/10.1145/3689050.3707688 (TEI 2025 Art and Performance)
-- 视频: https://vimeo.com/1020163664
-- 图片: https://reality.design/media/_resources/Body%20Oracle/project-body-oracle-figure-01.jpg
-- 项目主页: https://reality.design/project/body-oracle
 
 #### 引力场（GravField） — Botao 'Amber' Hu (2024)
 - 类型: 表演、舞蹈与音乐 · 身体与感官: 动作与动觉, 嗓音、声音与聆听, 光与视觉
@@ -3940,15 +4877,6 @@ Drone Chi、软体与充气机器人、用身体去感受的机器人。
 - 论文: https://doi.org/10.1145/3313831.3376678 (CHI 2020)
 - 图片: https://figures.semanticscholar.org/c3ecbe7da0bc4d9175884fd5a540c973cd809a75/2-Figure1-1.png
 
-#### 人机融合的下一步（Next Steps for Human-Computer Integration） — Florian 'Floyd' Mueller, Pedro Lopes (2020)
-- 类型: 论文 · 身体与感官: 整体身心, 肌肉张力（肌电）
-- 核心想法: 当计算机在身体内部行动时，设计必须追问：能动性、拥有感与被感受的自我如何在人与机器之间分配。
-- 作品内容: 29 位研究者在为期五天的工作坊后写成的议程，讨论从肌肉电刺激到植入物等与身体融合的系统及其伦理问题。
-- 实现方式: 由身体融合系统领域专家参加的结构化工作坊，归纳出一组研究挑战。
-- 视角: 身心一体, 超越人类
-- 论文: https://doi.org/10.1145/3313831.3376242 (CHI 2020)
-- 视频: https://www.youtube.com/watch?v=qpwl2QiGhAI
-
 #### 与无人机共舞（Dancing With Drones） — Sara Eriksson, Kristina Höök (2019)
 - 类型: 表演、舞蹈与音乐 · 身体与感官: 动作与动觉, 整体身心
 - 核心想法: 富有表现力的机器动作，是通过设计者自己运动着的身体塑造出来的：一种人与无人机之间的身体间理解。
@@ -3975,34 +4903,6 @@ Drone Chi、软体与充气机器人、用身体去感受的机器人。
 - 视角: 会回触的技术, 情感回路, 第一人称与亲身感受
 - 论文: https://doi.org/10.1145/3025453.3025774 (CHI 2017)
 - 视频: https://www.youtube.com/watch?v=EywcxQTkfDo
-
-#### MetaLimbs 多臂（MetaLimbs） — Tomoya Sasaki, 南泽孝太 (2017)
-- 类型: 研究原型 · 身体与感官: 动作与动觉, 姿态、平衡与本体感
-- 核心想法: 身体图式是可塑的：在直接、连续的控制下，新的肢体开始被感受为自己身体的一部分，而不是工具。
-- 作品内容: 两条装在穿戴者背后的机械臂由穿戴者自己的腿和脚来控制，经过练习后，人可以用四条手臂同时拿、够、焊接。
-- 实现方式: 背负式机械臂，映射到由运动传感器追踪的脚与膝的位置，脚趾控制夹爪，脚部有触觉反馈（庆应 KMD 与稻见昌彦实验室合作）。
-- 视角: 身心一体, 陌生化
-- 论文: https://doi.org/10.1145/3084822.3084837 (SIGGRAPH 2017 Emerging Technologies)
-- 视频: https://www.youtube.com/watch?v=NIuIiI5mVhI
-
-#### Affordance++ — Pedro Lopes (2015)
-- 类型: 研究原型 · 身体与感官: 肌肉张力（肌电）, 动作与动觉
-- 核心想法: 物品的用法可以通过使用者自己的动作来传达；这也提出一个问题：当身体动起来时，是谁在行动。
-- 作品内容: 当使用者伸手去拿物品时，肌肉电刺激会移动其手部，示范该如何使用：摇一摇喷漆罐，或松开一只滚烫的茶壶。
-- 实现方式: 光学追踪识别使用者伸手拿的物品，手臂上的肌肉电刺激电极触发相应的手部与手腕动作。
-- 视角: 会回触的技术, 陌生化
-- 展出与获奖: CHI 2015 Best Paper Award
-- 论文: https://doi.org/10.1145/2702123.2702128 (CHI 2015)
-- 视频: https://www.youtube.com/watch?v=Gz4dphzBb6I
-
-#### 本体感交互（Proprioceptive Interaction） — Pedro Lopes (2015)
-- 类型: 研究原型 · 身体与感官: 肌肉张力（肌电）, 姿态、平衡与本体感, 动作与动觉
-- 核心想法: 本体感可以成为输出通道：计算机可以通过轻轻移动你自己的身体来“说话”。
-- 作品内容: 肌肉电刺激按设备的状态让使用者的手腕倾斜，信息通过自身的姿态与肌肉被感受，而不是在屏幕上被看到。
-- 实现方式: 前臂上的肌肉电刺激电极驱动手腕肌肉与使用者自身的动作相抗，使用者通过感受由此产生的力与位置读出数值。
-- 视角: 会回触的技术, 陌生化
-- 论文: https://doi.org/10.1145/2702123.2702461 (CHI 2015)
-- 视频: https://www.youtube.com/watch?v=KMxIfj7zhlw
 
 #### 成为机器（Being the Machine） — Laura Devendorf (2014)
 - 类型: 研究原型 · 身体与感官: 动作与动觉, 触摸与压力
@@ -4109,15 +5009,6 @@ Drone Chi、软体与充气机器人、用身体去感受的机器人。
 - 实现方式: 诺丁汉混合现实实验室与 KTH 身体设计研究者共同举办的工作坊，动手体验错位原型，并归纳为设计主题。
 - 视角: 陌生化, 第一人称与亲身感受
 - 论文: https://doi.org/10.1145/3313831.3376812 (CHI 2020)
-
-#### 以自我为中心的“小个子”体验（Egocentric Smaller-Person Experience） — 西田惇 (2019)
-- 类型: 研究原型 · 身体与感官: 光与视觉, 动作与动觉, 姿态、平衡与本体感
-- 核心想法: 只改变眼睛的高度，就会改变身体被感受到的大小，也随之改变人对物与他人的行动方式。
-- 作品内容: 一种可穿戴的视觉转换装置，把穿戴者的视线高度降到腰部，让成年人以儿童的视角观看和穿行于护理学校或博物馆中。
-- 实现方式: 头戴显示器接收腰部立体摄像头的画面，摄像头随头部转动；在护理学生与博物馆观众中进行实地研究。
-- 视角: 身体间性, 陌生化
-- 论文: https://doi.org/10.1145/3290605.3300926 (CHI 2019)
-- 视频: https://www.youtube.com/watch?v=ZkZjfqo6h3I
 
 #### 关注呼吸（Attending to Breath） — Mirjana Prpa, Thecla Schiphorst (2018)
 - 类型: 研究原型 · 身体与感官: 呼吸, 嗓音、声音与聆听, 光与视觉
@@ -4251,30 +5142,6 @@ Drone Chi、软体与充气机器人、用身体去感受的机器人。
 ### 超越人类的身体
 
 与植物、动物、天气和生态系统一同感受。
-
-#### 触见（FeltSight） — Danlin Huang, Botao 'Amber' Hu, Rem RunGu Lin (2025)
-- 类型: 研究原型 · 身体与感官: 触摸与压力, 振动与触觉反馈, 光与视觉
-- 核心想法: 削弱视觉、延伸触觉，会让人慢下来，把手当作认识世界的器官去探索。
-- 作品内容: 受星鼻鼹启发，柔软的触觉手套与混合现实头显配合使用，让佩戴者在触碰之前就能通过指尖感受附近的表面；视觉则淡入黑暗，只有小团光晕环绕双手。
-- 实现方式: Apple Vision Pro 的场景网格与手部追踪，根据与表面的距离驱动张开式软手套中的振动器。
-- 视角: 超越人类, 陌生化, 调谐与鉴赏
-- 展出与获奖: SIGGRAPH Asia 2025 Art Papers; CHI 2026 Interactivity; IEEE VR 2026 XR Gallery
-- 论文: https://doi.org/10.1145/3800645.3812822 (DIS 2026 Pictorial)
-- 视频: https://www.youtube.com/watch?v=7Pq6s3VnD0A
-- 图片: https://reality.design/media/feltsight-cover-forest-closeup.webp
-- 项目主页: https://reality.design/project/feltsight
-
-#### 回声视界（EchoVision） — Botao 'Amber' Hu, 李佳宝, Danlin Huang (2024)
-- 类型: 艺术作品与装置 · 身体与感官: 嗓音、声音与聆听, 光与视觉
-- 核心想法: 用自己的声音去“看”，让熟悉的地方变得陌生，也让知觉被感受为一种主动的身体行为。
-- 作品内容: 观众举起一副蝙蝠形状的混合现实面具，用嗓音发出声音，便会看到光波在周围的人与物上扫过，模拟蝙蝠的回声定位。
-- 实现方式: 定制面具内的智能手机 HoloKit 头显；激光雷达重建场景，麦克风输入触发扩散的回声着色效果。
-- 视角: 超越人类, 陌生化, 愉悦与游戏
-- 展出与获奖: SIGGRAPH Asia 2024 Art Papers; Augmented Humans 2025 Best Demo Award; Plásmata 3, Athens, 2025
-- 论文: https://doi.org/10.1145/3706599.3721192 (CHI 2025 Interactivity)
-- 视频: https://vimeo.com/955577972
-- 图片: https://reality.design/media/_resources/echovision-jiabao-01.webp
-- 项目主页: https://reality.design/project/echovision
 
 #### 让能源变得可感（Making Energy Matter） — Thórhildur Ásgeirsdóttir, Rob Comber (2023)
 - 类型: 论文 · 身体与感官: 温度与热, 触摸与压力, 整体身心
@@ -4704,28 +5571,36 @@ Drone Chi、软体与充气机器人、用身体去感受的机器人。
 ## 创作者
 
 - **Kristina Höök** (44) — 瑞典皇家理工学院（KTH）交互设计教授. Kristina Höök 早年在瑞典计算机科学研究所（SICS）做情感计算（eMoto、Affective Diary、Affective Health），后来在 KTH 创立了身体设计（soma design）。《Designing with the Body》（MIT Press，2018）系统阐述了这一研究纲领。 https://www.kth.se/profile/khook
+- **Florian 'Floyd' Mueller** (26) — 莫纳什大学教授，Exertion Games Lab 主任. 研究运动型游戏、身体游戏与人机融合的人机交互学者。 https://exertiongameslab.org
 - **Madeline Balaam** (19) — KTH 皇家理工学院交互设计教授（曾任职纽卡斯尔大学 Open Lab）. 人机交互研究者，研究女性健康、私密照护、康复，以及以女性主义方式为身体设计。
 - **Anna Ståhl** (17) — 瑞典研究院（RISE）高级研究员. Anna Ståhl 是交互设计师，从 eMoto 和 Affective Diary 起就与 Höök 合作，参与设计了 Soma Mat、Breathing Light 和 Pelvic Chair。
-- **Florian 'Floyd' Mueller** (16) — 莫纳什大学教授，Exertion Games Lab 主任. 研究运动型游戏、身体游戏与人机融合的人机交互学者。 https://exertiongameslab.org
 - **Thecla Schiphorst** (16) — 西蒙菲莎大学交互艺术与技术学院教授. 媒体艺术家、舞者与认证 Laban 动作分析师，把身心学（somatics）带入人机交互。 https://www.sfu.ca/siat/people/research-faculty/thecla-schiphorst.html
+- **Pedro Lopes** (14) — 芝加哥大学计算机科学副教授，人机融合实验室负责人. Pedro Lopes 研究与身体融为一体的设备，例如能驱动佩戴者肢体的肌肉电刺激。 https://plopes.org
 - **Lian Loke** (12) — 悉尼大学设计实验室副教授. 交互设计师与表演创作者，在设计中与运动、感受着的身体一起工作。 https://www.lianloke.com/
 - **Vasiliki Tsaknaki** (12) — 哥本哈根信息技术大学副教授. Vasiliki Tsaknaki 在 KTH 完成关于交互设计中手工艺与材料的博士研究，随后在身体设计团队研究形变、呼吸与生物数据。
 - **Claudia Núñez-Pacheco** (9) — 马尔默大学设计研究者（曾任职 KTH）. Claudia Núñez-Pacheco 发展基于“聚焦（Focusing）”的方法，用来在设计中表述体会（felt sense），曾在 KTH 身体设计团队做博士后。
 - **Pedro Sanches** (9) — 于默奥大学交互设计研究者（曾任职 KTH）. Pedro Sanches 在 SICS 设计了 Affective Health，之后在 KTH 从事身体设计、生物数据与“活的数据”研究。
+- **Josh Andres** (8) — 人机融合研究者；澳大利亚国立大学（曾在 Exertion Games Lab）. 研究融合式运动系统的设计研究者，例如与骑行者一起行动的电动自行车。
 - **Katherine Isbister** (8) — 加州大学圣克鲁兹分校计算媒体系教授. 研究情感、运动与社交游戏的游戏与人机交互学者，著有《How Games Move Us》（2016）。 https://www.isbister.org
 - **Marianela Ciolfi Felice** (8) — 瑞典皇家理工学院（KTH）研究员. Marianela Ciolfi Felice 研究以身体为中心、参与式的女性健康设计，涉及更年期、月经和避孕。
 - **Pavel Karpashevich** (8) — 奥尔登堡大学研究员（KTH 博士）. Pavel Karpashevich 在魏玛包豪斯大学设计互动服装，在 KTH 读博期间设计了 Soma Corset 等形变服装。
 - **Sarah Fdili Alaoui** (8) — 巴黎萨克雷大学艺术、科学与技术教授；编舞家. 舞者、Laban 动作分析师与人机交互研究者，研究动作质感与舞蹈中的技术。 https://saralaoui.com/
+- **Botao 'Amber' Hu** (7) — 牛津大学研究者；Reality Design Lab 创始人；HoloKit 发明者. 设计师与研究者（清华大学本科、斯坦福大学人工智能硕士），主持 Reality Design Lab 关于具身、社交混合现实与 XR 身体设计的研究；团队作品在 SIGGRAPH、CHI、TEI 与 Ars Electronica 展出。 https://reality.design
 - **Elena Márquez Segura** (7) — 马德里卡洛斯三世大学副教授. 交互设计师，研究具身与社交游戏、动作与身体训练。
 - **Noura Howell** (7) — 佐治亚理工学院文学、媒体与传播学院助理教授. 人机交互研究者与设计师，制作情绪生物传感服装与装置；博士毕业于加州大学伯克利分校信息学院，现主持佐治亚理工的 Future Feelings Lab。 https://nourahowell.com
 - **Rachael Garrett** (7) — 交互设计研究者（KTH 博士），研究“感受的伦理”与身体设计. Rachael Garrett 研究设计工作中伦理敏感性如何在身体里被感受到，并在 KTH 参与了形变服装和无人机交互的设计。
+- **Rakesh Patibanda** (7) — 莫纳什大学 Exertion Games Lab 人机交互研究者. 研究呼吸游戏、身体游戏与驱动式身体延伸的学者。
+- **Stelarc** (7) — 行为艺术家；科廷大学杰出研究员. 生于塞浦路斯的澳大利亚艺术家，自 1970 年代起用机器人、义体与网络延伸、悬吊和连接自己的身体。 https://stelarc.org/
 - **Joseph La Delfa** (6) — 瑞典皇家理工学院（KTH）交互设计研究者（曾在 RMIT 运动游戏实验室）. Joseph La Delfa 设计身体美学取向的人机无人机交互，从 RMIT 的 Drone Chi 到 KTH 的 How to Train Your Drone。
+- **Jun Nishida** (6) — 马里兰大学助理教授，Embodied Dynamics Lab 主任. 日本研究者，设计让人“借用”彼此身体的可穿戴设备：共享肌肉活动的电刺激装置、给你儿童视高的头戴装置；曾在筑波大学与芝加哥大学工作。 https://junnishida.net
+- **Kouta Minamizawa** (6) — 庆应义塾大学媒体设计研究科（KMD）教授. 触觉研究者，主持庆应 KMD 的 Embodied Media 项目，研究远程临场、触觉传输与共享身体。 https://embodiedmedia.org
 - **Marie Louise Juul Søndergaard** (6) — 奥斯陆建筑与设计学院副教授. Marie Louise Juul Søndergaard 设计女性主义的私密技术；在 KTH 做博士后期间做出了 Menarche Bits，并研究月经与更年期设计。
 - **Mel Slater** (6) — 巴塞罗那大学杰出研究员（Event Lab）；曾任职于伦敦大学学院. Mel Slater 开创了关于临场感与虚拟身体拥有感的研究，从身体转移到延展化身。
 - **Nadia Campo Woytuk** (6) — 瑞典皇家理工学院（KTH）交互设计研究者. Nadia Campo Woytuk 从事面向私密健康的女性主义人机交互研究：经血、宫颈黏液与阴道微生物组。
 - **Shaowen Bardzell** (6) — 佐治亚理工学院交互计算学院教授. 人机交互学者，以女性主义人机交互和人文取向的交互设计研究著称。
+- **Shunichi Kasahara** (6) — 索尼计算机科学研究所研究员，Cybernetic Humanity Studio. 日本研究者，研究人类增强中的能动感与自我感。
 - **Steve Benford** (6) — 诺丁汉大学混合现实实验室协作计算教授. 混合现实实验室联合创始人，以与艺术家合作的表演导向研究和“轨迹”框架著称。 https://www.nottingham.ac.uk/research/groups/mixedrealitylab/people/steve.benford
-- **Botao 'Amber' Hu** (5) — 牛津大学研究者；Reality Design Lab 创始人；HoloKit 发明者. 设计师与研究者（清华大学本科、斯坦福大学人工智能硕士），主持 Reality Design Lab 关于具身、社交混合现实与 XR 身体设计的研究；团队作品在 SIGGRAPH、CHI、TEI 与 Ars Electronica 展出。 https://reality.design
+- **Danlin Huang** (5) — 艺术家、设计研究者与 AR 开发者；Reality Design Lab. 毕业于中国美术学院工业设计与媒体艺术专业，用 XR、生物传感与 AI 丰富身体经验；FeltSight 的主设计师。
 - **Frédéric Bevilacqua** (5) — IRCAM 声音音乐动作交互团队（ISMM）负责人. 自 2000 年代起领导 IRCAM 在手势跟随、动作与声音交互及具身音乐工具方面的研究。 https://ismm.ircam.fr/
 - **George Poonkhin Khut** (5) — 艺术家；新南威尔士大学艺术与设计学院高级讲师. 澳大利亚艺术家、交互设计师，自 2000 年代初起创作心率、呼吸与脑电生物反馈艺术，作品既进美术馆也进儿童医院。 https://www.georgekhut.com
 - **Jiabao Li** (5) — 艺术家、设计师与技术专家；美国东北大学副教授. 生于中国的艺术家与发明者（哈佛设计研究生院毕业，曾任苹果设计师），以装置、可穿戴设备、XR、生物艺术与表演处理感知、女性主义生物技术与多于人类的世界；与 Reality Design Lab 合作创作。 https://www.jiabaoli.org
@@ -4737,12 +5612,15 @@ Drone Chi、软体与充气机器人、用身体去感受的机器人。
 - **Paul Tennent** (5) — 诺丁汉大学混合现实实验室副教授. 人机交互研究者，研究游乐设施、身体经验以及极端体验中的生物传感。 https://paultennent.wordpress.com
 - **Richard Shusterman** (5) — 美国佛罗里达大西洋大学人文学科杰出学者. 美国实用主义哲学家，身体美学（somaesthetics）的创立者，研究身体作为感官鉴赏与自我塑造的所在；也是受过训练的费登奎斯从业者。 https://en.wikipedia.org/wiki/Richard_Shusterman
 - **Toni Robertson** (5) — 悉尼科技大学交互设计荣休教授. 交互设计研究者，把 Merleau-Ponty 的现象学引入协同工作与基于动作的交互研究。
+- **Zhuying Li** (5) — 人机交互研究者；Exertion Games Lab（RMIT、莫纳什大学）博士. 中国人机交互研究者，其博士研究开创了“可吞咽游戏”：用吞入体内的传感器进行的游戏。
+- **Aryan Saini** (4) — 莫纳什大学 Exertion Games Lab 人机交互研究者. 研究者，设计能在日常情境中轻轻移动佩戴者耳朵、手或手臂的气动身体延伸装置。
 - **Caroline Hummels** (4) — 埃因霍温理工大学变革品质设计与理论教授. 设计研究者，从事具身的、基于动作的与第一人称的设计，以及面向社会变革的设计。
 - **Jeffrey Bardzell** (4) — 宾夕法尼亚州立大学信息学教授. 人机交互理论学者，研究设计批评、美学以及交互设计中的女性主义与人文视角。
 - **Joo Young Park** (4) — 瑞典皇家理工学院（KTH）交互设计研究者. Joo Young Park 为经期不适设计触觉技术，并从女性主义残障研究的视角批判女性健康科技（FemTech）。
 - **Kristina Popova** (4) — 瑞典皇家理工学院研究者. 人机交互研究者，研究身体设计中的脆弱性、伦理与亲密数据。
 - **Mark Johnson** (4) — 俄勒冈大学文理学院讲席教授. 实用主义哲学家，提出“意象图式”，主张意义扎根于身体的、被感受的、审美的经验。 https://en.wikipedia.org/wiki/Mark_Johnson_(philosopher)
 - **Nadia Bianchi-Berthouze** (4) — 伦敦大学学院交互中心（UCLIC）情感计算与交互教授. 研究身体动作、触觉与情感的学者，主持了面向慢性疼痛康复的 EmoPain 项目。
+- **Nathan Semertzidis** (4) — 人机交互研究者；莫纳什大学 Exertion Games Lab 博士. 研究者，设计把神经活动转化为共享体验的脑机融合系统，例如 Neo-Noumena。
 - **Ozgun Kilic Afsar** (4) — 麻省理工学院媒体实验室与 KTH 研究者. Ozgun Kilic Afsar 开发流体纤维执行器和软体机器人服装，其 KTH 身体设计博士研究与 MIT 可触媒体组的工作相结合。
 - **Phoebe Sengers** (4) — 康奈尔大学信息科学与科学技术研究教授. 文化理论家与技术研究者，其关于反思性设计、情感与模糊性的工作塑造了批判性与体验导向的人机交互。
 - **Rob Comber** (4) — KTH 皇家理工学院传播学副教授. 人机交互研究者，关注公民、女性主义与食物相关的技术，曾任职纽卡斯尔大学 Open Lab。
@@ -4752,21 +5630,22 @@ Drone Chi、软体与充气机器人、用身体去感受的机器人。
 - **Aneesha Singh** (3) — 伦敦大学学院交互中心（UCLIC）人机交互教授. 研究慢性疼痛、身体觉察以及健康与安适技术的人机交互学者。
 - **Anupriya Tuli** (3) — 德里英德拉普拉斯塔信息技术学院（IIIT-Delhi）人机交互研究者. 研究印度月经健康、教育与出行的人机交互研究者，采用女性主义与“经期正向”的方法。
 - **Brendan Walker** (3) — 艺术家与“刺激工程师”；Thrill Laboratory 创始人；诺丁汉大学混合现实实验室合作者. Brendan Walker 把游乐设施和 VR 秋千当作艺术作品，探讨刺激感与被感受的身体。
-- **Danlin Huang** (3) — 艺术家、设计研究者与 AR 开发者；Reality Design Lab. 毕业于中国美术学院工业设计与媒体艺术专业，用 XR、生物传感与 AI 丰富身体经验；FeltSight 的主设计师。
 - **Ekaterina R. Stepanova** (3) — 西蒙菲莎大学 iSpace 实验室研究者. Ekaterina Stepanova 研究 VR 中的转化性与自我超越体验。
 - **Eugene Gendlin** (3) — 芝加哥大学哲学家与心理治疗师（1926–2017）. 美国哲学家，提出“体会”（felt sense）：一种身体的、先于语言的对整个情境的感受，并由此发展出 Focusing（体会聚焦）与 Thinking at the Edge。 https://focusing.org
+- **H. Henrik Ehrsson** (3) — 卡罗林斯卡学院认知神经科学教授；Brain, Body and Self 实验室. Henrik Ehrsson 借助身体互换与离体体验等错觉，研究大脑如何建立“拥有身体”的感觉。
 - **John Desnoyers-Stewart** (3) — 西蒙菲莎大学 iSpace 实验室艺术家与研究者. John Desnoyers-Stewart 创作关于联结、呼吸与触碰的社交 VR 装置。
 - **Jon Kabat-Zinn** (3) — 分子生物学家，正念减压（MBSR）创始人. 乔恩·卡巴金（1944 年生）拥有分子生物学博士学位，1979 年在马萨诸塞大学医学院创立减压诊所和正念减压课程。 https://en.wikipedia.org/wiki/Jon_Kabat-Zinn
-- **Jun Nishida** (3) — 马里兰大学助理教授，Embodied Dynamics Lab 主任. 日本研究者，设计让人“借用”彼此身体的可穿戴设备：共享肌肉活动的电刺激装置、给你儿童视高的头戴装置；曾在筑波大学与芝加哥大学工作。 https://junnishida.net
+- **Marco Donnarumma** (3) — 行为艺术家、作曲家与研究者. 意大利艺术家，创作生物物理音乐与表演，用肌肉声音和生物电信号驱动声音、灯光与机器。 https://marcodonnarumma.com/
 - **Marshmallow Laser Feast** (3) — 体验艺术团体. Marshmallow Laser Feast 是伦敦的艺术团体（Barney Steel、Robin McNicholas 等），创作关于感知与自然世界的多感官 VR 与装置。 https://marshmallowlaserfeast.com
 - **Martin Jonsson** (3) — 瑟德脱恩大学交互设计研究者. Martin Jonsson（论文中也署名 Jönsson）与 Höök 团队共同开发了加热的 Soma Mat 和发声的 Sarka 垫子。
+- **Masahiko Inami** (3) — 东京大学先端科学技术研究中心（RCAST）教授；JST ERATO 稻见自在身体项目负责人. 增强人类研究者，以光学迷彩闻名，超人体育协会的共同发起人，提出了“自在身体”（JIZAI Body）的概念。 https://jizai-body.com
 - **Miquel Alfaras** (3) — 生物医学工程师与人机交互研究者（PLUX 无线生物信号公司；海梅一世大学）. Miquel Alfaras 在 PLUX 从事生物信号硬件工作，并在 AffecTech 网络中与 KTH 合作进行身体设计。
 - **Neha Kumar** (3) — 佐治亚理工学院交互计算学院副教授. 研究技术与全球发展的人机交互学者，关注全球南方的女性健康。
-- **Pedro Lopes** (3) — 芝加哥大学计算机科学副教授，人机融合实验室负责人. Pedro Lopes 研究与身体融为一体的设备，例如能驱动佩戴者肢体的肌肉电刺激。 https://plopes.org
 - **Sara Eriksson** (3) — 交互设计研究者（KTH 博士），研究无人机与编舞. Sara Eriksson 研究编舞者与工程师如何为一部歌剧塑造无人机的动作，以及动作中的伦理。
 - **Sarah Homewood** (3) — 设计研究者，女性主义与身体取向的人机交互. 设计研究者，从女性主义、身体与超越人类的视角研究身体与自我追踪。
 - **Teresa Almeida** (3) — 交互设计研究者；博士毕业于纽卡斯尔大学 Open Lab，后任职于于默奥大学. 葡萄牙设计研究者，通过可穿戴设备与交互系统研究女性的私密健康、盆底锻炼与对自身身体的认识。
 - **Thomas Hanna** (3) — 哲学家，Hanna 身心教育创始人（1928–1990）. 美国哲学家，提出“身心学”（somatics）一词，把 soma 定义为以第一人称从内部感知的身体；曾随 Moshe Feldenkrais 学习。 https://en.wikipedia.org/wiki/Thomas_Louis_Hanna
+- **Andy Clark** (2) — 萨塞克斯大学认知哲学教授. 英国哲学家，研究具身认知与延展认知，著有《天生的赛博格》（2003）和《The Experience Machine》（2023）。 https://en.wikipedia.org/wiki/Andy_Clark
 - **Antonio Camurri** (2) — 热那亚大学 DIBRIS 教授；Casa Paganini–InfoMus 创始人. 意大利计算机科学家，开发了 EyesWeb，三十年来研究舞蹈中富有表现力的动作质感。 http://www.casapaganini.org/
 - **Antonio Damasio** (2) — 南加州大学神经科学讲席教授. 神经科学家，他的“躯体标记假说”表明身体感受是推理的一部分，并把意识追溯到身体稳态的感受。 https://en.wikipedia.org/wiki/Antonio_Damasio
 - **Audrey Desjardins** (2) — 华盛顿大学艺术、艺术史与设计学院副教授. 设计研究者，通过自传式设计和在家中与原型共同生活来做研究。 https://desjardins.design
@@ -4776,8 +5655,10 @@ Drone Chi、软体与充气机器人、用身体去感受的机器人。
 - **Caroline Yan Zheng** (2) — 瑞典皇家理工学院（KTH）软体机器人与情感触觉研究者. Caroline Yan Zheng 设计软体机器人触觉，研究技术怎样才能“触摸得好”。
 - **Char Davies** (2) — 画家与虚拟现实艺术家；Immersence 创始人. 加拿大艺术家，创作了以呼吸和平衡导航的 VR 作品《Osmose》（1995）与《Ephémère》（1998）。 https://www.immersence.com
 - **Dag Svanæs** (2) — 挪威科技大学交互设计教授. 交互设计研究者，自 1990 年代起研究 Merleau-Ponty 的现象学对交互设计意味着什么。
+- **Dani Clode** (2) — 增强设计师，与剑桥大学 MRC 认知与脑科学研究所 Plasticity Lab 合作. 设计师，在皇家艺术学院的毕业项目中做出 Third Thumb，之后与神经科学家合作把它发展为研究设备。
 - **Danielle Wilde** (2) — 具身设计教授，于默奥设计学院 / 南丹麦大学. 设计师与研究者，与身体、表演、可穿戴物和参与式未来一起工作。
 - **Diane Gromala** (2) — 西蒙弗雷泽大学交互艺术与技术学院教授，曾任加拿大“转化疼痛的计算技术”研究讲席. 艺术家与研究者，自 1990 年代初起研究虚拟现实与身体，并为慢性疼痛者开发沉浸式技术。
+- **Don Ihde** (2) — 技术哲学家，纽约州立大学石溪分校荣休杰出教授. 美国哲学家，后现象学的创立者，研究技术如何塑造人的感知与行动。 https://en.wikipedia.org/wiki/Don_Ihde
 - **Dōgen Zenji** (2) — 禅师（1200–1253），日本曹洞宗开祖. 日本佛教僧人，从宋代中国带回曹洞禅，创建永平寺，著有《正法眼藏》与《普劝坐禅仪》。 https://en.wikipedia.org/wiki/D%C5%8Dgen
 - **Evan Thompson** (2) — 不列颠哥伦比亚大学哲学教授. 心灵哲学家，《具身心智》合著者，提出生命与心智的深度连续性，跨越现象学、生物学与佛教思想。 https://evanthompson.me
 - **Fannie Liu** (2) — 人机交互研究者；Significant Otter 期间任 Snap Research 研究科学家. 人机交互研究者，在卡内基梅隆大学人机交互研究所的博士研究聚焦“可表达的生物信号”，为亲密关系设计了心率分享应用。 https://research.snap.com/publications/significant-otter-understanding-the-role-of-biosignals-in-communication.html
@@ -4785,27 +5666,28 @@ Drone Chi、软体与充气机器人、用身体去感受的机器人。
 - **George Lakoff** (2) — 加州大学伯克利分校认知科学与语言学荣休教授. 认知语言学家，与 Mark Johnson 一起指出，抽象思维由扎根于身体经验的隐喻所结构。 https://en.wikipedia.org/wiki/George_Lakoff
 - **Gijs Huisman** (2) — 社会触碰技术研究者；曾在特温特大学，后在代尔夫特理工大学. Gijs Huisman 制作并研究远程触碰装置，例如 TaSST 触觉袖套。
 - **Guðrún Margrét Ívansdóttir** (2) — 瑞典皇家理工学院（KTH）交互设计研究者. Guðrún Margrét Ívansdóttir 在身体设计团队中设计触觉数据实体化和形变界面。
-- **H. Henrik Ehrsson** (2) — 卡罗林斯卡学院认知神经科学教授；Brain, Body and Self 实验室. Henrik Ehrsson 借助身体互换与离体体验等错觉，研究大脑如何建立“拥有身体”的感觉。
 - **Hélio Oiticica** (2) — 艺术家（1937–1980）. 巴西新具体主义艺术家，他的《帕兰戈莱》、可穿透物与环境装置把观众变成穿戴者、舞者和居住者。
 - **Ichikawa Hiroshi** (2) — 哲学家（1931–2002），明治大学教授. 日本身体现象学家，提出“作为精神的身体”以及“身”的概念：活的身体-自我会延伸到工具、他人与世界之中。 https://ja.wikipedia.org/wiki/市川浩_(哲学者)
 - **Irmgard Bartenieff** (2) — 舞蹈理论家、物理治疗师、舞蹈治疗先驱. 伊姆加德·巴特尼夫（1900–1981）是拉班的学生，1940 年代把拉班的空间概念用于小儿麻痹症康复，发展出后来称为“巴特尼夫基础动作”的练习。 https://labaninstitute.org
+- **Jas Brooks** (2) — 人机交互研究者，芝加哥大学人机融合实验室. 研究者，通过刺激鼻腔内的三叉神经来制作嗅觉与温度界面。
 - **Jin Moen** (2) — 交互设计师；Movinto Fun（Oriboo）创始人；KTH 博士. 瑞典设计师，从现代舞出发发展了动觉动作交互，并制作了可穿戴设备 BodyBug。
 - **Joe Marshall** (2) — 诺丁汉大学混合现实实验室副教授. Joe Marshall 设计由呼吸和身体控制的体验，从 Broncomatic 游乐设施到 VR。
 - **Jonas Löwgren** (2) — 林雪平大学交互与信息设计教授. 交互设计研究者，以设计知识与交互美学研究著称。
 - **Joris H. Janssen** (2) — 情感计算研究者（曾任职飞利浦研究院 / 埃因霍温理工大学）. 在飞利浦研究院与埃因霍温理工大学研究作为社交信号的心跳与生理共情。
-- **Josh Andres** (2) — 人机融合研究者；澳大利亚国立大学（曾在 Exertion Games Lab）. 研究融合式运动系统的设计研究者，例如与骑行者一起行动的电动自行车。
+- **Jun Rekimoto** (2) — 东京大学情报学环教授；索尼计算机科学研究所副所长. 人机交互先驱，其实验室产出了 PossessedHand、JackIn 等增强人类研究。 https://lab.rekimoto.org
 - **Jérémy Frey** (2) — Ullo 联合创始人；人机交互与生理计算研究者. 生理计算与实体界面研究者（曾在 Inria、赫兹利亚跨学科中心），联合创办 Ullo，制作生物反馈物件。 https://phd.jfrey.info
-- **Kouta Minamizawa** (2) — 庆应义塾大学媒体设计研究科（KMD）教授. 触觉研究者，主持庆应 KMD 的 Embodied Media 项目，研究远程临场、触觉传输与共享身体。 https://embodiedmedia.org
 - **Kristina Mah** (2) — 悉尼大学设计研究者. 设计研究者，研究如何以冥想与慈悲修习训练设计师的自我观察。
 - **Kyung Yun Choi** (2) — 研究者，MIT 媒体实验室博士. 韩国设计研究者，开发触觉与气动可穿戴设备，通过皮肤上的柔和节律引导心率与呼吸。
+- **Lucy McRae** (2) — 艺术家、身体建筑师. 澳大利亚艺术家，自称“身体建筑师”，为未来的身体制作思辨性的装置、影片与仪式。 https://www.lucymcrae.net/
+- **MHD Yamen Saraiji** (2) — 远程临场与身体增强研究者；曾任职于庆应义塾大学媒体设计研究科 Embodied Media 项目. 出生于叙利亚的研究者，在庆应 KMD 制作了远程临场机器人与额外肢体，包括 Fusion、MetaArms 和 Arque。
 - **Manos Tsakiris** (2) — 伦敦大学皇家霍洛威学院心理学教授. 研究身体自我、内感受与身体拥有感的心理学家与神经科学家，主持 Lab of Action & Body。 https://www.royalholloway.ac.uk/
-- **Marco Donnarumma** (2) — 行为艺术家、作曲家与研究者. 意大利艺术家，创作生物物理音乐与表演，用肌肉声音和生物电信号驱动声音、灯光与机器。 https://marcodonnarumma.com/
 - **Maurice Merleau-Ponty** (2) — 法兰西学院哲学家（1908–1961）. 法国现象学家，主张知觉是身体对世界的亲身投入，晚期又把身体与世界描述为同一块“肉身”（la chair）。 https://en.wikipedia.org/wiki/Maurice_Merleau-Ponty
 - **Mehmet Aydın Baytaş** (2) — 人机交互研究者与设计师；曾在科奇大学与查尔默斯理工大学研究人与无人机交互. Mehmet Aydın Baytaş 研究社交无人机的设计，是 Drone Chi 的合著者。
 - **Mirjana Prpa** (2) — 西蒙菲莎大学研究者. 交互设计师，研究呼吸、注意力与沉浸式体验。
 - **Moshé Feldenkrais** (2) — 物理学家、柔道教师，费登奎斯方法创始人. 摩谢·费登奎斯（1904–1984）是物理学家和柔道黑带，他发展出一种通过缓慢、专注的动作来学习的方法，以“动中觉察”团体课和手把手的“功能整合”来教授。 https://feldenkrais-method.org
 - **Muhammad Umair** (2) — 兰卡斯特大学人机交互研究者（AffecTech 网络）. Muhammad Umair 在欧盟 AffecTech 网络中设计基于材料的情感界面以支持情绪调节，并与 Höök 团队合作研究生物数据与执行。
 - **Nancy Stark Smith** (2) — 舞者，接触即兴与《Contact Quarterly》的共同创始人. 南希·斯塔克·史密斯（1952–2020）是接触即兴最早的参与者之一，《Contact Quarterly》的共同编辑，也是 Underscore 的创造者。 https://en.wikipedia.org/wiki/Nancy_Stark_Smith
+- **Natasha Vita-More** (2) — 设计师与超人类主义理论家；Humanity+ 前主席. 美国设计师与作者，自 1980 年代起提出被设计的未来身体，合编《The Transhumanist Reader》。 https://www.natashavita-more.com/
 - **Os Keyes** (2) — 人机交互与科学技术研究学者（华盛顿大学博士）. 研究性别、残障与技术的作者和学者，以批判自动性别识别的研究著称。
 - **Palindrome (Robert Wechsler)** (2) — 由编舞家 Robert Wechsler 领导的互动舞蹈团；EyeCon 与 MotionComposer 的共同开发者. 1982 年成立于纽约，1991 年起常驻德国。Palindrome 主要与工程师 Frieder Weiss 合作，较早创作了由摄像追踪、皮肤接触与身体信号演奏音乐和灯光的舞蹈作品。 https://www.palindrome.de
 - **Peter A. Levine** (2) — 心理学家，身体经验疗法（SE）创立者. 彼得·莱文（1942 年生）拥有医学生物物理学与心理学博士学位，发展出以身体为基础处理创伤的“身体经验疗法”。 https://traumahealing.org
@@ -4813,11 +5695,15 @@ Drone Chi、软体与充气机器人、用身体去感受的机器人。
 - **Rebecca Horn** (2) — 艺术家（1944–2024）. 德国艺术家，早期创作可穿戴的身体延伸（角、羽毛、长手套），后转向动态雕塑。
 - **Rem RunGu Lin** (2) — 媒体艺术家与研究者；Reality Design Lab 合作者. 媒体艺术家与研究者，把接触即兴、神经反馈与混合现实结合；与胡博涛合作教授 XR 身体设计。
 - **Richard Byrne** (2) — Exertion Games Lab 研究者（皇家墨尔本理工大学 / 莫纳什大学）. 游戏设计者与研究者，研究利用前庭电刺激的数字眩晕游戏。
+- **Romain Nith** (2) — 人机交互研究者，芝加哥大学人机融合实验室. 研究者，研究作用于身体的肌肉电刺激与触觉可穿戴设备，如 SplitBody 与 JumpMod。
 - **Scott Brave** (2) — 曾任 MIT 媒体实验室 Tangible Media Group 研究者. Scott Brave 在 Tangible Media Group 与 Andrew Dahley、石井裕共同制作了 inTouch。
 - **Shaan Chopra** (2) — 人机交互研究者（IIIT-Delhi，后赴华盛顿大学）. 研究月经健康与慢性病自我管理的人机交互研究者。
-- **Stelarc** (2) — 行为艺术家；科廷大学杰出研究员. 生于塞浦路斯的澳大利亚艺术家，自 1970 年代起用机器人、义体与网络延伸、悬吊和连接自己的身体。 https://stelarc.org/
+- **Shigeo Yoshida** (2) — OMRON SINIC X 研究员；曾任职东京大学. 日本研究者，研究被改变的身体反馈（如自己的表情）如何改变情绪与行为。 http://www.shigeodayo.com
+- **Tamar Makin** (2) — 剑桥大学 MRC 认知与脑科学研究所认知神经科学教授，Plasticity Lab 负责人. 神经科学家，研究截肢者、假体使用者与增强设备佩戴者的身体表征。 https://www.plasticity-lab.com
 - **Tatsumi Hijikata** (2) — 舞者、编舞家（1928–1986），舞踏创始人. 日本编舞家，1959 年的《禁色》开启了暗黑舞踏：以意象、记忆和崩塌的身体构成的舞蹈。 https://en.wikipedia.org/wiki/Tatsumi_Hijikata
 - **Thomas Fuchs** (2) — 海德堡大学精神医学哲学基础 Karl Jaspers 讲席教授. 精神科医生与现象学家，把大脑描述为一个与他人相处的活的身体中的器官，并发展了“身体间性”的概念。 https://en.wikipedia.org/wiki/Thomas_Fuchs_(psychiatrist)
+- **Tomoya Sasaki** (2) — 研究者，庆应 KMD Embodied Media 项目、东京大学. 日本研究者，设计可穿戴机械肢体，研究额外的肢体如何进入身体图式。
+- **Valeria I. Petkova** (2) — 认知神经科学家；曾在卡罗林斯卡学院 Ehrsson 实验室. Valeria Petkova 与 Henrik Ehrsson 一起主导了 2008 年的身体互换错觉研究。
 - **Wayne McGregor** (2) — 编舞家；Studio Wayne McGregor 艺术总监. 英国编舞家，长期与认知科学家和技术人员合作，研究动作想法如何生成。 https://waynemcgregor.com/
 - **William Forsythe** (2) — 编舞家. 美国编舞家，曾领导法兰克福芭蕾舞团与 The Forsythe Company，开发数字工具来教授和分析即兴。 https://www.williamforsythe.com/
 - **Yuasa Yasuo** (2) — 哲学家（1925–2005），曾任大阪大学、筑波大学、樱美林大学教授. 日本哲学家，师从和辻哲郎，研究身体、气、修行与荣格心理学；他 1977 年的《身体》一书成为英语世界了解东方身心论的主要来源。 https://en.wikipedia.org/wiki/Yasuo_Yuasa
@@ -4827,15 +5713,20 @@ Drone Chi、软体与充气机器人、用身体去感受的机器人。
 - **A. D. (Bud) Craig** (1) — 神经解剖学家；曾任职巴罗神经研究所. 神经解剖学家，描绘了从身体通往脑岛皮层的内感受通路，著有 How Do You Feel?（2015）。
 - **Aaron Pengyu Zhu** (1) — 人机交互研究者. 研究反思、沉思传统与非西方认识论的人机交互研究者。
 - **Ad Verheul** (1) — 荷兰埃德市 De Hartenberg 机构治疗师. 荷兰治疗师，与 Jan Hulsegge 共同创立 Snoezelen。
+- **Adrien Verhulst** (1) — 索尼计算机科学研究所研究员（Cybernetic Humanity Studio）. 虚拟现实研究者，与笠原俊一一起研究对一个或多个虚拟身体的具身感。
+- **Aimee Mullins** (1) — 运动员、演员与模特. 美国残奥会短跑运动员、演员与模特，天生没有腓骨，拥有多副义肢腿。 https://www.aimeemullins.com/
 - **Alex A. Ahmed** (1) — 人机交互研究者，Project Spectra 发起人（东北大学博士）. 与跨性别社群一起、为他们开发免费开源嗓音训练工具的研究者与开发者。
 - **Alexander Toet** (1) — 荷兰应用科学研究组织（TNO）资深科学家. Alexander Toet 研究知觉、情绪与中介的社会触碰。
 - **Alexis E. Block** (1) — 机器人研究者；在马普智能系统研究所与苏黎世联邦理工学院完成博士研究（HuggieBot）. Alexis Block 与 Katherine J. Kuchenbecker 一起制作了柔软、温暖的拥抱机器人系列 HuggieBot。
 - **Alice Haynes** (1) — 软体机器人与触觉研究者；在布里斯托大学完成博士学位. Alice Haynes 设计用于情绪支持的柔软形变物件，例如会呼吸的靠垫。
+- **Allucquére Rosanne Stone** (1) — 媒介理论家与艺术家；得克萨斯大学奥斯汀分校荣休教授. 美国媒介理论家、行为艺术家，跨性别研究的奠基者之一（又名 Sandy Stone）。 https://en.wikipedia.org/wiki/Sandy_Stone_(artist)
 - **Alva Noë** (1) — 加州大学伯克利分校哲学教授. 哲学家，主张知觉是我们用运动的身体去做的事，依赖我们对“运动时感觉如何变化”的实践把握。 https://en.wikipedia.org/wiki/Alva_No%C3%AB
+- **Alvaro Cassinelli** (1) — 香港城市大学创意媒体学院副教授；曾任职于东京大学石川实验室. 出生于乌拉圭的研究者与艺术家，制作了 Haptic Radar：一个让佩戴者在头皮上感受到附近物体的头带。
 - **Amanda Lazar** (1) — 马里兰大学信息学院副教授. 人机交互研究者，关注衰老、失智、更年期以及身体变化的亲历经验。
 - **Amey Holden** (1) — 人机交互研究者（纽卡斯尔大学 Open Lab 博士）. 研究中风后上肢康复可穿戴技术的学者。
 - **Amy Huggard** (1) — 设计师；Exertion Games Lab 校友（皇家墨尔本理工大学）. 游戏设计师，主导了《Musical Embrace》，一款由陌生人拥抱枕头状控制器来玩的游戏。
 - **Ana Paiva** (1) — 里斯本大学高等理工学院教授（GAIPS，INESC-ID）. Ana Paiva 在里斯本领导情感智能体与社交机器人研究。在欧盟 SAFIRA 项目中，Paiva 的团队与 Höök 的 SICS 团队一起做出了 SenToy。
+- **Andrea Stevenson Won** (1) — 康奈尔大学传播学副教授，Virtual Embodiment Lab 负责人. 虚拟现实研究者，与 Jeremy Bailenson、Jaron Lanier 一起测试人如何学会操控多出肢体或肢体被重新排列的化身。
 - **Andrés Lucero** (1) — 阿尔托大学交互设计教授. 交互设计研究者，研究参与式、游戏化与第一人称的设计方法。
 - **Angela Chang** (1) — 设计师与研究者；曾在 MIT 媒体实验室 Tangible Media Group. Angela Chang 设计了 ComTouch，一种在通话中加入触碰的振动触觉装置。
 - **Anna Eaglin** (1) — 人机交互设计研究者（研究时就读于印第安纳大学）. 与 Shaowen Bardzell 一起研究情趣用品及其使用者的设计研究者。
@@ -4844,11 +5735,13 @@ Drone Chi、软体与充气机器人、用身体去感受的机器人。
 - **Annkatrin Jung** (1) — 瑞典皇家理工学院（KTH）交互设计师. Annkatrin Jung 设计了 Breathing Garment，它随呼吸对身体施加深压触觉。
 - **Antti Oulasvirta** (1) — 阿尔托大学计算机科学教授. 人机交互研究者，早期研究移动与情境设计，后来研究交互的计算模型。
 - **Art Orienté Objet** (1) — Marion Laval-Jeantet 与 Benoît Mangin 组成的艺术家二人组. Art Orienté Objet 是法国艺术二人组，自 1991 年起在艺术、动物行为学与生物学的边缘工作。
+- **Arvid Guterstam** (1) — 神经科学家与医生；曾任职于卡罗林斯卡学院“脑、身体与自我实验室”. Henrik Ehrsson 实验室的研究者，创造了“拥有第三只手臂”等身体归属错觉。
 - **Astrid Twenebowa Larssen** (1) — 交互设计研究者，曾任职于悉尼科技大学. 交互设计研究者，研究基于动作的交互在动作者自身视角中的感受。
 - **Atsuko Tanaka** (1) — 具体派艺术家（1932–2005）. 日本具体派艺术家，以《电气服》《铃》以及圆与电线的绘画闻名。 https://en.wikipedia.org/wiki/Atsuko_Tanaka_(artist)
 - **B. K. S. Iyengar** (1) — 瑜伽教师，艾扬格瑜伽创始人. B. K. S. 艾扬格（1918–2014）师从克里希那玛查雅，在浦那教学；1952 年结识小提琴家梅纽因后赴欧美教学，《瑜伽之光》（1966）使他的方法闻名世界。 https://bksiyengar.com
 - **Baptiste Caramiaux** (1) — 索邦大学 ISIR 法国国家科学研究中心（CNRS）研究员；曾任职于 IRCAM 与金史密斯学院. Baptiste Caramiaux 研究面向表达性手势、音乐与动作的机器学习。
 - **BeAnotherLab** (1) — 关于具身与共情研究的跨学科团体. BeAnotherLab 是 2012 年在巴塞罗那成立的团体，制作低成本具身系统，让人交换视角与身体。 https://beanotherlab.org
+- **Bernard Stiegler** (1) — 哲学家（1952–2020）；蓬皮杜中心研究与创新研究所创始人. 法国技术、记忆与注意力哲学家，著有《技术与时间》系列。 https://en.wikipedia.org/wiki/Bernard_Stiegler
 - **Bernhard E. Riecke** (1) — 西蒙弗雷泽大学交互艺术与技术学院教授，iSpace 实验室负责人. 研究自我运动知觉、虚拟现实以及促成转变与联结体验技术的学者。
 - **Bessel van der Kolk** (1) — 精神科医生与创伤研究者. 贝塞尔·范德考克（1943 年生）是荷兰出生的精神科医生与创伤研究者，著有《身体从未忘记》（2014）。 https://en.wikipedia.org/wiki/Bessel_van_der_Kolk
 - **Bigna Lenggenhager** (1) — 康斯坦茨大学认知心理学与神经心理学教授；曾在洛桑联邦理工学院 Blanke 实验室. Bigna Lenggenhager 与 Olaf Blanke、Thomas Metzinger 共同完成了 2007 年的全身错觉研究。
@@ -4866,29 +5759,40 @@ Drone Chi、软体与充气机器人、用身体去感受的机器人。
 - **Christian Boltanski** (1) — 艺术家（1944–2021）. 法国艺术家，以照片、衣物、灯泡和声音制作关于记忆、缺席与死亡的装置。
 - **Christian Nold** (1) — 艺术家、设计师与研究者. 艺术家与研究者，发明了 Bio Mapping 装置，在二十五个以上城市主持参与式情绪地图项目。 http://biomapping.net/
 - **Chunky Move (Gideon Obarzanek with Frieder Weiss)** (1) — 当代舞团. 澳大利亚舞团；作品《Glow》（2006）由编舞 Gideon Obarzanek 与软件艺术家 Frieder Weiss 创作。 https://chunkymove.com/
+- **Cindy Hsin-Liu Kao** (1) — 康奈尔大学以人为中心设计系教师，Hybrid Body Lab 负责人. 台裔美国设计研究者，在 MIT 媒体实验室做出 DuoSkin（用金箔制作的皮肤界面），现领导 Hybrid Body Lab。 https://www.hybridbody.human.cornell.edu
 - **Claire Petitmengin** (1) — 巴黎电信矿业学院荣休教授；巴黎胡塞尔档案馆成员. 哲学家与研究者，在 Varela 的神经现象学与 Vermersch 的“明述访谈”基础上发展出微观现象学访谈。 https://www.microphenomenology.com
 - **Clara Moge** (1) — 人机交互研究者；曾在伦敦大学学院交互中心（UCLIC）. Clara Moge 研究如何在人与人之间分享生理数据，以支持社会与情感联结。
 - **CuteCircuit** (1) — 由 Francesca Rosella 与 Ryan Genz 创立的可穿戴科技时装品牌. CuteCircuit 创立于 2004 年，设计内置电子元件、会发光、会感知、会触碰穿着者的服装。 https://cutecircuit.com
+- **Cyborg Nest** (1) — 制作 North Sense 可穿戴设备的公司（2016 年由 Liviu Babitz 与 Scott Cohen 创立）. 一家初创公司，销售 North Sense：一个穿刺固定在胸前、当佩戴者面向北方时振动的小装置。
+- **Daisuke Tajima** (1) — 研究能动感与人类增强的研究者（东京大学、索尼计算机科学研究所）. 研究者，与西田惇、Pedro Lopes、笠原俊一一起研究人们如何感受被电刺激“代为完成”的触碰。
 - **Daito Manabe** (1) — 艺术家与程序员，Rhizomatiks. 日本艺术家、程序员、DJ，Rhizomatiks 联合创始人，以数据、身体与电刺激创作。 https://www.daito.ws/en/
 - **Daria Halprin** (1) — 表达性艺术治疗师，塔玛帕学院共同创始人. 达莉亚·哈普林是以动作为基础的表达性艺术治疗师，1978 年与安娜·哈普林共同创立塔玛帕学院并担任院长。 https://www.tamalpa.org
+- **David Chalmers** (1) — 纽约大学哲学与神经科学教授. 澳大利亚哲学家，提出意识的“困难问题”，也研究虚拟世界与机器意识。 https://consc.net/
+- **David Eagleman** (1) — 斯坦福大学神经科学家，Neosensory 联合创始人. 神经科学家与作家，制作了把声音转换为躯干振动的 VEST 背心，以及腕带产品 Neosensory Buzz。 https://eagleman.com
 - **David Kirsh** (1) — 加州大学圣迭戈分校认知科学教授. 认知科学家，研究人如何借助身体与物来思考，包括舞者如何通过“标记”动作来思考。 https://adrenaline.ucsd.edu/kirsh/
 - **David Rokeby** (1) — 媒体艺术家. 加拿大艺术家，他的《Very Nervous System》（1982–1991）是最早的基于摄像头的交互声音环境之一。 http://www.davidrokeby.com/
 - **Deborah Hay** (1) — 编舞家，贾德森舞蹈剧场成员. 黛博拉·海（1941 年生）曾在坎宁汉舞团跳舞，参与贾德森舞蹈剧场，发展出以注意力提问为核心的编舞实践，例如“假如我身体里的每一个细胞同时都有感知的潜能……”。 https://www.deborahhay.com
 - **Dennis Schleicher** (1) — 设计研究者与顾问；OCAD 大学战略预见与创新项目校友. 设计研究者，撰文把身体风暴阐述为一种具身的设计方式。
 - **Dianya Mia Hua** (1) — 人机交互与设计研究者. 研究身体美学、女性主义与残障视角下性健康设计的人机交互研究者。
 - **Die Gute Fabrik** (1) — 独立游戏工作室（Douglas Wilson、Nils Deneken、Hannes Hvidberg）. 哥本哈根的游戏工作室，以《Johann Sebastian Joust》等无屏幕的身体派对游戏闻名。 https://www.gutefabrik.com/
+- **Domenico Prattichizzo** (1) — 锡耶纳大学机器人学教授，SIRSLab 负责人. 机器人学家，开发了“机器人第六指”，一种用于中风后恢复抓握的可穿戴额外手指。
 - **Domna Banakou** (1) — 虚拟具身研究者；曾在巴塞罗那大学 Event Lab. Domna Banakou 研究虚拟身体如何改变知觉与偏见。
 - **Don Hanlon Johnson** (1) — 加州整合研究学院教授，身心学研究生项目创始人. 哲学家、罗尔夫治疗师，创立了第一个获认证的身心学研究生项目，并编选文集汇集身心学运动的创始者。 https://www.donhanlonjohnson.com
+- **Donna Haraway** (1) — 加州大学圣克鲁兹分校意识史系杰出荣休教授. 女性主义科学技术学者，著有《赛博格宣言》《当物种相遇》和《与麻烦共存》。 https://en.wikipedia.org/wiki/Donna_Haraway
 - **Drew Leder** (1) — 马里兰洛约拉大学东西方哲学教授. 哲学家、医生，分析了身体为何平时从意识中隐退，又为何在疼痛与疾病中“异常显现”（dys-appear）。 https://en.wikipedia.org/wiki/Drew_Leder
 - **Edmund Husserl** (1) — 哲学家，现象学创始人（1859–1938）. 德国哲学家，现象学的创始人，区分了从内部被感受的“活的身体”（Leib）与被当作物体看待的“物理身体”（Körper）。 https://en.wikipedia.org/wiki/Edmund_Husserl
+- **Eduardo Kac** (1) — 艺术家；远程在场艺术与生物艺术先驱. 巴西裔美国艺术家，1980 年代末起创作远程机器人作品，后来转向转基因艺术。 https://www.ekac.org
 - **Eleanor Rosch** (1) — 加州大学伯克利分校心理学荣休教授. 认知心理学家，以范畴的原型理论著称，并把沉思修习带入心智研究。 https://en.wikipedia.org/wiki/Eleanor_Rosch
 - **Elsa Gindler** (1) — 体操教师，身体教育先驱. 埃尔莎·金德勒（1885–1961）是柏林的体操教师，她与海因里希·雅各比合作的“对人的工作”通过自我观察探索坐、站、走。 https://en.wikipedia.org/wiki/Elsa_Gindler
+- **Emi Tamaki** (1) — H2L 公司创始人兼 CEO；曾就读于东京大学暦本实验室. 研究者与创业者，制作了用肌肉电刺激驱动手指的 PossessedHand，并创立了身体共享公司 H2L。
 - **Emilie Conrad** (1) — 舞者，Continuum 创始人. 艾米莉·康拉德（1934–2014）是舞者，在海地生活多年后于 1967 年创立 Continuum，一种以呼吸、声音和流体微动作为主的修习。 https://continuummovement.com
 - **Erin Gee** (1) — 艺术家与作曲家. 加拿大艺术家与作曲家，自制生物传感器与机器人乐器，让情绪与身体状态可被听见。 https://eringee.net
 - **Ernesto Neto** (1) — 艺术家；可进入的柔软雕塑. 巴西艺术家，用钩织与弹力织物搭建常带香气的大型空间，观众可以穿行、躺卧和触摸。
 - **Eva Hornecker** (1) — 魏玛包豪斯大学人机交互教授. 人机交互研究者，建立了有形与具身交互的框架，关注物理空间、身体动作与社会性使用。
 - **F. Matthias Alexander** (1) — 演员，亚历山大技巧创始人. 弗雷德里克·马提亚斯·亚历山大（1869–1955）是澳大利亚朗诵者，因舞台上失声，他花了多年对镜观察自己，发现头颈的习惯如何干扰整个身体的协调。 https://en.wikipedia.org/wiki/Frederick_Matthias_Alexander
 - **Franca Garzotto** (1) — 米兰理工大学教授，I3Lab 负责人. 研究智能多感官空间以及面向神经发育障碍儿童技术的人机交互学者。
+- **Francesca Ferrando** (1) — 哲学家；纽约大学临床副教授. 意大利哲学家，区分哲学后人类主义与超人类主义，讲授“后人类”课程。 https://en.wikipedia.org/wiki/Francesca_Ferrando
+- **Francis Fukuyama** (1) — 政治学家；斯坦福大学高级研究员. 美国政治学家，以《历史的终结》及对生物技术增强的批评闻名。 https://en.wikipedia.org/wiki/Francis_Fukuyama
 - **Game Oven** (1) — 独立游戏工作室（Adriaan de Jongh、Bojan Endrovski、Jonathan Barbosa）. Game Oven 制作关于玩家之间身体亲近的游戏，包括 Fingle 与 Bounden。
 - **Genevieve Bell** (1) — 人类学家；前英特尔院士，澳大利亚国立大学控制论学院前院长. 文化人类学家，研究不同文化日常生活中的技术。
 - **Gerda Alexander** (1) — 律动教师，优张力法（Eutony）创始人. 格尔达·亚历山大（1908–1994）是德国出生的达尔克罗兹律动教师，1933 年移居丹麦，1940 年在哥本哈根创办培训学校，1956 年将其方法命名为 Eutony（优张力）。 https://en.wikipedia.org/wiki/Gerda_Alexander
@@ -4896,12 +5800,16 @@ Drone Chi、软体与充气机器人、用身体去感受的机器人。
 - **Gopinaath Kannabiran** (1) — 哥本哈根信息技术大学交互设计研究者. 把酷儿、生态女性主义与性的视角带入人机交互与计算艺术。
 - **Haiyan Zhang** (1) — 设计师与工程师；微软研究院创新总监. 生于中国的澳大利亚设计师与工程师，在微软研究院开发辅助性与游戏性的技术，曾参与 BBC 节目《Big Life Fix》。
 - **Hanne De Jaegher** (1) — 巴斯克大学 Ikerbasque 研究员. 生成论哲学家，与 Ezequiel Di Paolo 一起提出“参与式意义生成”：意义在互动身体的协调运动中被共同创造。 https://hannedejaegher.net
+- **Hans Moravec** (1) — 机器人学家；卡内基梅隆大学机器人研究所前研究教授. 生于奥地利的机器人学家，以“莫拉维克悖论”及预言人类心灵可转移到机器人中闻名。 https://en.wikipedia.org/wiki/Hans_Moravec
 - **Hester Anderiesen-Le Riche** (1) — 设计师，Tover 创始人（代尔夫特理工大学博士）. 工业设计师，Anderiesen-Le Riche关于为晚期失智者做游戏化设计的博士研究催生了 Tovertafel。
 - **Hideyuki Ando** (1) — 大阪大学教授. 日本研究者与媒体艺术家，研究感知、电前庭刺激与感官接口。
+- **Hiromi Nakamura** (1) — 电味觉研究者，东京大学；曾就读于明治大学宫下实验室. 研究者，十余年来用微弱电流改变味觉，从 2011 年的“增强味觉”到麒麟的电盐勺。
 - **Holger Schnädelbach** (1) — 建筑师与人机交互研究者；自适应建筑研究组创始人，曾在诺丁汉大学混合现实实验室. Holger Schnädelbach 设计会随内部人员而改变形状与氛围的自适应建筑。
 - **Holland Haptics** (1) — 制作 Frebble 远程牵手装置的荷兰初创公司. Holland Haptics 由 Frederic Petrignani 创立，开发了远程牵手的手持装置 Frebble。
+- **Homei Miyashita** (1) — 明治大学理工学部教授. 人机交互研究者，以关于味觉、嗅觉与饮食的趣味研究闻名，包括电味觉与可舔的屏幕 Taste the TV。
 - **Huang Yi** (1) — 编舞家、舞者、发明者，黄翊工作室＋创办人. 台湾编舞家，亲自为工业机械臂编程并与之共舞。 https://www.huangyistudio.com
 - **Huangdi Neijing authors (anonymous)** (1) — 战国至汉代的佚名医家. 《黄帝内经》由佚名医家在约公元前 3 世纪至前 1 世纪间编成，以黄帝与岐伯等臣子问答的形式写成。 https://en.wikipedia.org/wiki/Huangdi_Neijing
+- **Hugh Herr** (1) — 麻省理工学院媒体实验室媒体艺术与科学教授，Biomechatronics 组负责人. 攀岩者与双腿截肢者，研发仿生腿；他的团队发展了“主动肌-拮抗肌肌神经接口”（AMI），一种让假体使用者能感受到人工关节的手术方法。 https://www.media.mit.edu/groups/biomechatronics/overview/
 - **Humberto Maturana** (1) — 智利大学生物学家（1928–2021）. 智利生物学家，与 Francisco Varela 一起把生命系统定义为自创生的、自我生产的系统，并把认知看作生命过程本身。 https://en.wikipedia.org/wiki/Humberto_Maturana
 - **Hunter G. Hoffman** (1) — 华盛顿大学 Human Photonics Lab 研究科学家. 认知心理学家，与 David Patterson 一起开创了在烧伤换药中用沉浸式虚拟现实缓解疼痛的研究。
 - **Ida Rolf** (1) — 生物化学家，结构整合（Rolfing）创始人. 艾达·罗尔夫（1896–1979）拥有生物化学博士学位，自 1940 年代起发展出“结构整合”：针对结缔组织、为期十次的深层手法工作。 https://rolf.org
@@ -4916,6 +5824,7 @@ Drone Chi、软体与充气机器人、用身体去感受的机器人。
 - **Janet Adler** (1) — 舞蹈治疗师，“真实动作修习”的发展者. 珍妮特·阿德勒师从怀特豪斯，把真实动作发展为“动者与见证者”的修习。 https://disciplineofauthenticmovement.com
 - **Janghee Cho** (1) — 新加坡国立大学助理教授. 韩国人机交互研究者，研究反思、安适与日常技术使用。
 - **Jarmo Laaksolahti** (1) — 瑞典皇家理工学院（KTH）研究员. Jarmo Laaksolahti 长期在 SICS 与 KTH 同 Höök 合作，参与过 Sensual Evaluation Instrument、Affective Diary 和 Soma Bits 工具包。
+- **Jasmine Lu** (1) — 人机交互研究者，芝加哥大学人机融合实验室. 研究者，研究以皮肤上的化学物质产生的触觉，以及与身体共存的设备。
 - **Jay Vidyarthi** (1) — 冥想技术设计师（西蒙弗雷泽大学交互艺术与技术学院硕士）. 为冥想与正念使用技术创作交互工具的设计师与研究者。
 - **Jean Costa** (1) — 人机交互研究者（康奈尔大学博士）. 人机交互研究者，在康奈尔大学与 Tanzeem Choudhury、Malte Jung 合作，设计通过虚假或环境化的身体反馈来调节情绪的可穿戴设备。
 - **Joan Mora-Guiard** (1) — 庞培法布拉大学全身交互实验室研究者. 研究面向自闭症儿童社交的全身混合现实的学者。
@@ -4927,26 +5836,36 @@ Drone Chi、软体与充气机器人、用身体去感受的机器人。
 - **Joseph Pilates** (1) — 体能训练师，控制术（普拉提）创始人. 约瑟夫·普拉提（1883–1967）是德国出生的训练师，在纽约开设工作室，并在 1934 与 1945 年的著作中阐述其方法“控制术”（Contrology）。 https://en.wikipedia.org/wiki/Joseph_Pilates
 - **Joseph W. Newbold** (1) — 人机交互研究者（伦敦大学学院交互中心博士，后任职诺森比亚大学）. 研究以音乐化声音呈现动作、用于身体康复的学者。
 - **Julia Werner** (1) — 交互设计师；曾就读于波茨坦应用科技大学. Julia Werner 与 Reto Wettach、Eva Hornecker 共同设计了 United-pulse。
+- **Julian Huxley** (1) — 进化生物学家；联合国教科文组织首任总干事（1887–1975）. 英国生物学家与人文主义者，1957 年推广了“超人类主义”一词。 https://en.wikipedia.org/wiki/Julian_Huxley
+- **Junichi Nabeshima** (1) — 庆应义塾大学媒体设计研究科（KMD）Embodied Media 项目研究者. 设计研究者，与 Yamen Saraiji、南泽孝太一起制作了可穿戴机器人尾巴 Arque。
 - **Jérôme Bel** (1) — 编舞家. 法国观念舞蹈编舞家，作品把舞者自己的身体与经历搬上舞台。 https://www.jeromebel.fr
+- **Kai Kunze** (1) — 庆应义塾大学媒体设计研究科（KMD）教授. 出生于德国的可穿戴计算研究者，任教于庆应 KMD，是“超人体育”纲领的合著者。
 - **Karen Anne Cochrane** (1) — 卡尔顿大学设计研究者. 设计研究者，研究身体地图、可穿戴与情绪。
 - **Kathryn E. Ringland** (1) — 加州大学圣克鲁兹分校计算媒体系助理教授. 研究自闭症、感官经验、残障与游戏的人机交互学者。
 - **Kazuo Ohno** (1) — 舞踏家（1906–2010）. 与土方巽共同开创舞踏，百岁后仍在舞蹈，主张舞蹈始于灵魂与身体的生命。 https://en.wikipedia.org/wiki/Kazuo_Ohno
 - **Kazuo Shiraga** (1) — 具体派画家、行为艺术家（1924–2008）. 具体派艺术家，吊在绳子上用脚作画，后来出家成为天台宗僧人。 https://en.wikipedia.org/wiki/Kazuo_Shiraga
 - **Ke Huang** (1) — 艺术家、设计师；Reality Design Lab 合作者. 设计师，主导 Reality Design Lab 的动态与机器视觉装置《Cybroc》和《Body Oracle》。
 - **Kenichi Okada** (1) — 设计师；皇家艺术学院交互设计系毕业. Kenichi Okada 是日本设计师，与 Chris Woebken 共同创作了 Animal Superpowers。
+- **Kevin Warwick** (1) — 控制论研究者；考文垂大学与雷丁大学荣休教授. 英国工程师，先后植入 RFID 芯片（1998）和神经电极阵列（2002），把自己的神经系统接入计算机。 https://en.wikipedia.org/wiki/Kevin_Warwick
 - **Kirsten Boehner** (1) — 人机交互研究者（康奈尔大学博士）. 信息科学与批判性人机交互研究者，与 Dourish、Sengers 一起提出了设计中理解情绪的“互动观”。
 - **Konstantina Kilteni** (1) — 神经科学家，唐德斯研究所；曾在卡罗林斯卡学院与巴塞罗那 Event Lab. Konstantina Kilteni 研究身体拥有感、自我触碰与具身感。
 - **Laura Devendorf** (1) — 科罗拉多大学博尔德分校 ATLAS 研究所与信息科学系副教授，Unstable Design Lab 负责人. Laura Devendorf 是设计师与艺术家，研究编织、智能织物与人机混合制造。 https://unstable.design
+- **Laura Forlano** (1) — 美国东北大学艺术与设计、传播学教授. 美国设计研究者与作者，研究残障、女性主义技术科学，以及与自动胰岛素系统共同生活。 https://www.lauraforlano.org/
+- **Lee Bul** (1) — 艺术家. 韩国艺术家，横跨表演、雕塑与装置，关注技术、性别、乌托邦与身体。 https://en.wikipedia.org/wiki/Lee_Bul
 - **Lin Hwai-min** (1) — 编舞家，云门舞集创办人. 台湾作家、编舞家，1973 年创办云门舞集，以太极导引、静坐、武术与书法作为舞者训练的基础。 https://www.cloudgate.org.tw/en
 - **Lisa Feldman Barrett** (1) — 美国东北大学心理学校级杰出教授. 心理学家与神经科学家，提出情绪建构理论：大脑依据对身体内部状态的预测来建构情绪。 https://lisafeldmanbarrett.com
 - **Lone Koefoed Hansen** (1) — 奥胡斯大学数字设计副教授. 数字设计研究者，关注美学、批判与技术中的具身经验。
 - **Lulu Sweigard** (1) — 动作教育者，意念动觉法的发展者. 露露·斯威加德（1895–1974）是托德的学生，研究意象与骨骼排列，在茱莉亚学院任教，并把这一修习命名为 ideokinesis（意念动觉法）。 https://en.wikipedia.org/wiki/Ideokinesis
 - **Mabel Elsworth Todd** (1) — 动作教育者，《思考的身体》作者. 梅布尔·埃尔斯沃思·托德（约 1880–1956）在哥伦比亚大学师范学院用意象教授姿态，1937 年出版《思考的身体》。 https://en.wikipedia.org/wiki/Mabel_Elsworth_Todd
 - **Maiken Hillerup Fogtmann** (1) — 奥胡斯建筑学院 / 奥胡斯大学交互设计研究者. 交互设计研究者，研究调动身体的游戏与鼓励运动的交互环境。
+- **Manfred Clynes** (1) — 科学家、发明家、音乐家（1925–2020）. 生于奥地利的科学家，任职于罗克兰州立医院，研究情绪的动力学（sentics），1960 年与人合创“赛博格”一词。 https://en.wikipedia.org/wiki/Manfred_Clynes
+- **Marcel·lí Antúnez Roca** (1) — 艺术家；La Fura dels Baus 联合创始人. 加泰罗尼亚艺术家，离开 La Fura dels Baus 后创作“机电表演”，让外骨骼、机器人与观众共同操控身体。 https://www.marceliantunez.com/
 - **Marco Gillies** (1) — 伦敦大学金史密斯学院计算系 Reader. Marco Gillies 研究动作交互、虚拟角色与交互式机器学习。
+- **Margherita Pevere** (1) — 生物艺术艺术家与研究者. 意大利艺术家，以活体物质、细菌以及会渗漏、会衰老的身体进行创作。
 - **Mariam Hassib** (1) — 人机交互研究者（HeartChat 期间在慕尼黑大学）. 人机交互研究者，研究用于沟通的生理传感，以及情感与脑机界面。
 - **Marian Chace** (1) — 舞者，舞动治疗的奠基人. 玛丽安·蔡斯（1896–1970）出身丹尼肖恩舞蹈学校，1942 年起在圣伊丽莎白医院与精神科病人一起跳舞，1966 年成为美国舞蹈治疗协会首任主席。 https://en.wikipedia.org/wiki/Marian_Chace
 - **Marianna Obrist** (1) — 伦敦大学学院多感官界面教授. 人机交互研究者，领导 SCHI Lab，研究触觉、味觉与嗅觉如何承载体验与情绪。
+- **Mariko Mori** (1) — 艺术家. 日本艺术家，她的摄影、影像与装置把技术与佛教、神道的“合一”观念结合。 https://en.wikipedia.org/wiki/Mariko_Mori
 - **Marion Buchenau** (1) — 设计师，曾任职 IDEO. 交互设计师，与 Jane Fulton Suri 一起在 IDEO 阐述了体验原型方法。
 - **Marion Rosen** (1) — 物理治疗师，罗森疗法创立者. 玛丽安·罗森（1914–2012）在柏林师从金德勒的学生露西·海尔，在伯克利发展出罗森身体疗法；罗森学院成立于 1980 年。 https://rosenmethod.org
 - **Mark Coniglio / Troika Ranch (with Dawn Stoppiello)** (1) — 交互舞蹈剧场团体；Mark Coniglio 开发了媒体软件 Isadora 和传感舞衣 MidiDancer. 作曲家兼程序员 Mark Coniglio 与编舞 Dawn Stoppiello 于 1994 年创立 Troika Ranch，传感舞衣与摄像追踪让舞者塑造影像、声音与灯光。 https://troikaranch.org
@@ -4955,60 +5874,73 @@ Drone Chi、软体与充气机器人、用身体去感受的机器人。
 - **Mary Overlie** (1) — 编舞家，“六观点”的开创者. 玛丽·奥弗利（1946–2020）是编舞家与教师，开创“六观点”（空间、形状、时间、情感、动作、故事），1978 年起在纽约大学实验剧场系教授。 https://en.wikipedia.org/wiki/Mary_Overlie
 - **Mary Starks Whitehouse** (1) — 舞者与舞蹈治疗师，真实动作的开创者. 玛丽·斯塔克斯·怀特豪斯（1911–1979）师从玛丽·魏格曼与玛莎·葛兰姆，借鉴荣格的积极想象，于 1950 年代发展出“深度动作”。 https://en.wikipedia.org/wiki/Authentic_Movement
 - **Matthew Botvinick** (1) — 认知神经科学家；曾任职于普林斯顿大学与 DeepMind. Matthew Botvinick 与 Jonathan Cohen 于 1998 年描述了橡胶手错觉。
+- **Max More** (1) — 哲学家；Extropy Institute 联合创始人. 生于英国的哲学家，通过 1990 年代的“外熵原则”塑造了当代超人类主义，曾领导 Alcor 生命延续基金会。
 - **Max Rheiner** (1) — 媒体艺术家；Birdly 创作者与 Somniacs 创始人；曾任教于苏黎世艺术大学. Max Rheiner 是瑞士媒体艺术家，在苏黎世艺术大学开发了 Birdly。
 - **Maxine Sheets-Johnstone** (1) — 俄勒冈大学哲学家，前舞者与编舞家. 由舞者转为现象学家，她主张运动而非静止的身体，才是思考、感受与自我的根基。 https://en.wikipedia.org/wiki/Maxine_Sheets-Johnstone
 - **Mencius** (1) — 儒家哲学家（约前 372–前 289）. 儒家亚圣，主张性善，认为道德生命如身体一般需要以气与日常修养来滋养。 https://en.wikipedia.org/wiki/Mencius
 - **Merce Cunningham** (1) — 编舞家（1919–2009）. 美国编舞家，使用偶然程序、影像以及自 1989 年起的 Life Forms 软件来创作舞蹈。 https://www.mercecunningham.org/
 - **Michael Karlesky** (1) — 人机交互研究者（纽约大学博士）. 研究数字工作边缘的摆弄小动作与具身自我调节的学者。
+- **Michael Sandel** (1) — 哈佛大学政府学教授. 美国政治哲学家，讲授“公正”课程，曾任美国总统生命伦理委员会成员。 https://en.wikipedia.org/wiki/Michael_Sandel
 - **Michi Kanda** (1) — 庆应义塾大学媒体设计研究科（KMD）研究者. 日本研究者，与视障人士一起、为视障人士设计身体美学工具包。
 - **Mikko Salminen** (1) — 坦佩雷大学（Gamification Group）研究者；曾任职于阿尔托大学. Mikko Salminen 研究 VR 中的情绪、共情与生理同步。
 - **Milica Zec** (1) — 电影导演与 VR 叙事者. Milica Zec 是出生于塞尔维亚的导演，创作关于自然与共情的 VR 影片。 https://www.treeofficial.com
 - **Min Tanaka** (1) — 舞者、演员（1945 年生）. 日本舞者，1970 年代脱离传统舞蹈，发展出“身体气象”训练，并于 1985 年创立身体气象农场。 https://en.wikipedia.org/wiki/Min_Tanaka
+- **Moon Ribas** (1) — 赛博格艺术家、编舞家；Cyborg Foundation 联合创始人. 加泰罗尼亚舞者，多年来通过植入体内的传感器，以振动感受全球地震。 https://www.moonribas.com/
 - **Morihei Ueshiba** (1) — 武道家（1883–1969），合气道创始人. 日本武道家，把大东流柔术发展为合气道：一种与对手动作融合的修习。 https://en.wikipedia.org/wiki/Morihei_Ueshiba
 - **Mousa Sondoqah** (1) — 米兰理工大学研究者（与 RISE、KTH、斯德哥尔摩大学合作的 Drone Arena 项目）. Mousa Sondoqah 在 KTH 反应堆大厅举办的 Drone Arena 挑战赛中，研究团队如何通过亲身摸索无人机的行为来为它编程。
 - **Myron Krueger** (1) — 计算机艺术家；“人工现实”先驱. 美国艺术家兼工程师，自 1970 年代起建造响应式环境，让人的视频剪影与图形互动。
+- **N. Katherine Hayles** (1) — 加州大学洛杉矶分校杰出研究教授，杜克大学荣休教授. 美国文学与媒介理论家，研究控制论、后人类主义与非意识认知。 https://en.wikipedia.org/wiki/N._Katherine_Hayles
+- **Nahoko Yamamura** (1) — 东京大学设计研究者；自在身体项目 JIZAI ARMS 团队成员. 研究者，主导了 JIZAI ARMS 的协作设计：一个可穿戴底座，配有可拆卸、可在佩戴者之间交换的机械臂。
 - **Narcís Parés** (1) — 庞培法布拉大学副教授，全身交互实验室负责人. 研究交互环境中的全身交互与具身认知的学者。
+- **Nathan S. Kline** (1) — 精神科医生（1916–1983）. 美国精神科医生、精神药理学先驱，曾主持罗克兰州立医院的研究。 https://en.wikipedia.org/wiki/Nathan_S._Kline
+- **Neil Harbisson** (1) — 赛博格艺术家；Cyborg Foundation 与 Cyborg Arts 联合创始人. 天生全色盲的艺术家，通过植入颅骨的天线“听见”颜色。 https://www.cyborgarts.com/
+- **Nick Bostrom** (1) — 哲学家；牛津大学人类未来研究所创所所长（2005–2024）. 瑞典哲学家，研究生存风险与人类增强，世界超人类主义协会联合创始人。 https://nickbostrom.com/
 - **Nicolas Rasamimanana** (1) — 研究者，Phonotonic 联合创始人；曾任职 IRCAM. 小提琴手与手势音乐研究者，主导设计了 IRCAM 的模块化音乐物件（MO）。
 - **Nikki Theofanopoulou** (1) — 研究者，Purrble 联合创始人（伦敦国王学院 / Sensing Self）. 研究儿童情绪调节的在地、具身干预的学者。
 - **Nishida Kitarō** (1) — 哲学家（1870–1945），京都学派创始人. 日本现代哲学的奠基人，以“纯粹经验”、场所逻辑和“行为的直观”闻名。 https://plato.stanford.edu/entries/nishida-kitaro/
 - **Noguchi Haruchika** (1) — 整体创始人（1911–1976）. 日本整体创始人，体系包括体癖论、愉气法与活元运动。 https://en.wikipedia.org/wiki/Haruchika_Noguchi
 - **Noguchi Michizō** (1) — 体育教育家（1914–1998），东京艺术大学教授. 曾是战时体操教师，战后创立野口体操：放下用力，让重量与惯性带动身体。 https://ja.wikipedia.org/wiki/野口三千三
+- **ORLAN** (1) — 以表演、外科手术、生物技术和机器人创作的艺术家. 法国艺术家，以 1990 年代的外科手术表演闻名，后来转向细胞培养、虚拟化身与机器人创作。 https://www.orlan.eu
 - **Odile Fillod** (1) — 科学社会学独立研究者. 法国研究者，批判关于性与性别的生物学论断，并于 2016 年制作了开源的等大 3D 阴蒂模型。
 - **Ohad Naharin** (1) — 编舞家，Gaga 的创造者. 欧哈德·纳哈林（1952 年生）1990–2018 年任巴希瓦舞团艺术总监，发展了动作语言 Gaga。 https://www.gagapeople.com
 - **Oliver L. Haimson** (1) — 密歇根大学信息学院助理教授. 研究跨性别者技术经验的社会计算学者，著有《Trans Technologies》（MIT 出版社，2025）。
 - **Oscar Tomico** (1) — 埃因霍温理工大学副教授；巴塞罗那 Elisava 设计学院. 设计研究者，研究柔性可穿戴、第一人称与具身设计研究。
 - **Owen Harris** (1) — VR 设计师与艺术家；DEEP 的共同创作者. Owen Harris 创作冥想型 VR；他在用呼吸应对自身焦虑之后，与 Niki Smit 一起做了 DEEP。 https://www.exploredeep.com
+- **Paul Bach-y-Rita** (1) — 神经科学家与康复医生（1934–2006）；威斯康星大学麦迪逊分校. 感官替代的先驱，自 1969 年起让盲人通过背部、后来通过舌头上的触觉感知图像。
 - **Paul Bucci** (1) — 研究者；曾在不列颠哥伦比亚大学 SPIN 实验室. Paul Bucci 主导了 CuddleBits：外形与行为一同原型化的小型呼吸机器人。
 - **Paul Dourish** (1) — 加州大学欧文分校信息学讲席教授. 计算机科学家与社会科学家，把现象学引入人机交互，并定义了“具身交互”。 https://www.dourish.com
+- **Paulina Kieliba** (1) — 认知神经科学家；曾任职于伦敦大学学院认知神经科学研究所. 神经科学家，主导了第一项关于连续数天佩戴机器人额外拇指如何改变大脑手部表征的研究。
 - **Pauline Oliveros** (1) — 作曲家，深度聆听的创立者. 宝琳·奥利维罗斯（1932–2016）是作曲家与手风琴演奏家，旧金山磁带音乐中心的创始人之一，她的《声音冥想》（1971）后来发展成“深度聆听”修习。 https://www.deeplistening.rpi.edu
 - **Perttu Hämäläinen** (1) — 阿尔托大学副教授. 芬兰研究者，研究动作游戏、武术与杂技界面以及动作模拟。
+- **Peter B. L. Meijer** (1) — 荷兰工程师，感官替代系统 The vOICe 的创造者. 飞利浦研究院工程师，1992 年发表 The vOICe，把摄像头画面转换成声音景观供盲人使用。 https://www.seeingwithsound.com
 - **Peter Wright** (1) — 纽卡斯尔大学 Open Lab 社会计算教授. 人机交互研究者，与 John McCarthy 一起借鉴 Dewey 与 Bakhtin，把技术使用理解为被感受的、亲历的经验。
 - **Petra Sundström** (1) — 交互设计研究者（SICS 与斯德哥尔摩大学），eMoto 的设计者. Petra Sundström（早期论文署名 Petra Fagerberg）在 Höök 指导下以博士研究设计了情感短信系统 eMoto。
 - **Pichet Klunchun** (1) — 舞者、编舞家. 受过泰国古典孔剧训练的舞者，以其身体知识创作当代作品。 https://en.wikipedia.org/wiki/Pichet_Klunchun
 - **Ping-Hsuan Han** (1) — 人机交互研究者，台湾大学（洪一平实验室）. 台湾研究者，开发用于学习太极拳等身体技能的混合现实工具。
 - **R. Michael Winters** (1) — 声音化与听觉显示研究者（佐治亚理工学院博士）. 声音化与音乐科技研究者，在佐治亚理工学院声音化实验室研究作为可表达生物信号的心跳声。
 - **Rafael Lozano-Hemmer** (1) — 艺术家. 墨西哥裔加拿大媒体艺术家，其大型参与式装置使用心跳、呼吸、指纹等生物特征信号。 https://www.lozano-hemmer.com
-- **Rakesh Patibanda** (1) — 莫纳什大学 Exertion Games Lab 人机交互研究者. 研究呼吸游戏、身体游戏与驱动式身体延伸的学者。
 - **Rebecca Fiebrink** (1) — 伦敦艺术大学创意计算学院教授. Rebecca Fiebrink 是计算机科学家与音乐人，为艺术家开发交互式机器学习工具。 http://www.wekinator.org/
 - **Ron Kurtz** (1) — 心理治疗师，哈科米疗法创立者. 罗恩·库尔茨（1934–2011）于 1970 年代发展出哈科米疗法，一种在正念状态下进行的身体取向心理治疗，并于 1981 年共同创立哈科米学院。 https://hakomiinstitute.com
 - **Rosalind Picard** (1) — 麻省理工学院媒体实验室教授，情感计算研究组创始人. 电气工程师，开创了情感计算领域，并参与创办 Affectiva 与 Empatica。 https://www.media.mit.edu/people/picard/overview/
 - **Rosemary Candelario** (1) — 舞蹈学者、舞踏编舞家；德州女子大学. 舞蹈学者与舞踏实践者，著有关于 Eiko & Koma 的《Flowers Cracking Concrete》，创作场域舞踏。
+- **Rosi Braidotti** (1) — 乌得勒支大学荣休杰出教授. 意大利裔澳大利亚女性主义哲学家，提出游牧主体与批判的后人类主义。 https://en.wikipedia.org/wiki/Rosi_Braidotti
 - **Rudolf Laban** (1) — 舞蹈理论家、编舞家，拉班舞谱与“力效”理论创始人. 鲁道夫·冯·拉班（1879–1958）是匈牙利出生的舞蹈艺术家与理论家，1928 年创立动作记谱法，并提出“力效”（Effort）与空间和谐理论。 https://en.wikipedia.org/wiki/Rudolf_von_Laban
 - **S. N. Goenka** (1) — 内观禅修导师. 萨提亚·纳拉扬·葛印卡（1924–2013）生于缅甸的印度家庭，随乌巴庆学习内观，1969 年起在全球开设免费的十日住宿课程。 https://www.dhamma.org
 - **Sarah Fox** (1) — 卡内基梅隆大学人机交互研究所助理教授. 研究女性主义黑客文化、月经技术与劳动的人机交互与设计研究者。
 - **Sarah Garfinkel** (1) — 伦敦大学学院认知神经科学研究所认知神经科学教授. 神经科学家，研究来自心脏的信号如何塑造情绪、认知与心理健康。
+- **Saskia K. Nagel** (1) — 亚琛工业大学应用伦理学教授；曾任职于奥斯纳布吕克大学认知科学研究所. 认知科学家与伦理学者，与奥斯纳布吕克 Peter König 团队一起首次测试了让佩戴者感受磁北的 feelSpace 腰带。 https://www.feelspace.de
 - **Scott Klemmer** (1) — 加州大学圣迭戈分校认知科学与计算机科学教授. 人机交互研究者，研究设计工具、有形交互以及人们如何学习设计。 https://d.ucsd.edu/srk/
 - **Shaun Gallagher** (1) — 孟菲斯大学哲学教授. 现象学家与认知科学家，区分了“身体图式”与“身体意象”，并参与奠定 4E 认知（具身、嵌入、生成、延展）。 https://en.wikipedia.org/wiki/Shaun_Gallagher
 - **Shigehisa Kuriyama** (1) — 医学史学者，哈佛大学文化史讲席教授. 日本出生的医学史学者，比较古希腊与中国医生如何学会触摸、观看和命名身体。 https://en.wikipedia.org/wiki/Shigehisa_Kuriyama
 - **Shigenori Nagatomo** (1) — 天普大学哲学与宗教学教授. 日本哲学家，汤浅泰雄著作的英译者，研究日本佛教、活的身体与气。 https://sunypress.edu/Contributors/N/Nagatomo-Shigenori
-- **Shigeo Yoshida** (1) — OMRON SINIC X 研究员；曾任职东京大学. 日本研究者，研究被改变的身体反馈（如自己的表情）如何改变情绪与行为。 http://www.shigeodayo.com
 - **Shizuto Masunaga** (1) — 指压师、心理学家（1925–1981）. 日本心理学家与指压教师，创立禅式指压，把经络理论与放松、倾听式的双手触摸结合起来。 https://en.wikipedia.org/wiki/Shizuto_Masunaga
-- **Shunichi Kasahara** (1) — 索尼计算机科学研究所研究员，Cybernetic Humanity Studio. 日本研究者，研究人类增强中的能动感与自我感。
+- **Shu Lea Cheang** (1) — 艺术家、电影导演. 台裔美国网络艺术先驱，其电影与装置关注监控、性与数据。 https://en.wikipedia.org/wiki/Shu_Lea_Cheang
 - **Simo Järvelä** (1) — 阿尔托大学与赫尔辛基大学的心理生理学与 VR 研究者. Simo Järvelä 研究虚拟现实中的共享生物反馈、冥想与社会临场感。
 - **Somniacs** (1) — 推出 Birdly 的瑞士 VR 模拟器公司. Somniacs 由 Max Rheiner 创立，开发全身飞行模拟器 Birdly。 https://www.birdlyvr.com
 - **Sputniko! (Hiromi Ozaki)** (1) — 艺术家、设计师. 日本艺术家与设计师（1985 年生），以关于技术与性别的思辨影片和装置闻名，毕业于英国皇家艺术学院设计互动专业。 https://sputniko.com
 - **Steve Paxton** (1) — 舞者、编舞家，接触即兴的发起人. 史蒂夫·帕克斯顿（1939–2024）曾在默斯·坎宁汉舞团跳舞，参与创立贾德森舞蹈剧场和 Grand Union，1972 年发起接触即兴。 https://en.wikipedia.org/wiki/Steve_Paxton
 - **Steve Yohanan** (1) — 研究者；曾在不列颠哥伦比亚大学 SPIN 实验室. Steve Yohanan 制作了 Haptic Creature：一只在手下呼吸、发出咕噜声、会绷紧身体的毛茸茸机器人。
+- **Susumu Tachi** (1) — 东京大学名誉教授，远程存在（telexistence）的提出者. 工程师，1980 年提出远程存在，并制作了 TELESAR 系列机器人，让操作者通过远方的机器人身体去看、去听、去触摸。
 - **TERMINALBEACH** (1) — 艺术家二人组（Peter Votava 与 Erich Berger）. 由 Peter Votava 与 Erich Berger 组成的奥地利艺术二人组，创作视听表演、生物反馈与生成系统作品。
 - **Tabitha C. Peck** (1) — 戴维森学院数学与计算机科学副教授. Tabitha Peck 研究 VR 中的化身具身、偏见与知觉。
 - **Takanori Shibata** (1) — 日本产业技术综合研究所首席研究员. 日本机器人学家，自 1993 年起开发治疗型海豹机器人 PARO。 https://en.wikipedia.org/wiki/Paro_(robot)
@@ -5018,11 +5950,12 @@ Drone Chi、软体与充气机器人、用身体去感受的机器人。
 - **Thomas Thwaites** (1) — 设计师. Thomas Thwaites 是以 The Toaster Project 与 GoatMan 闻名的设计师。 https://www.thomasthwaites.com
 - **Thórhildur Ásgeirsdóttir** (1) — 瑞典皇家理工学院（KTH）交互设计研究者. Thórhildur Ásgeirsdóttir 用身体设计重新思考日常生活与能源的关系。
 - **Tom Calvert** (1) — 西蒙弗雷泽大学交互艺术与技术学院荣休教授. 计算机科学家，领导西蒙弗雷泽大学团队开发了面向编舞家的人体动画工具 Life Forms（后称 DanceForms）。
-- **Tomoya Sasaki** (1) — 研究者，庆应 KMD Embodied Media 项目、东京大学. 日本研究者，设计可穿戴机械肢体，研究额外的肢体如何进入身体图式。
 - **Tu Weiming** (1) — 儒家哲学家；哈佛大学与北京大学荣休教授. 当代新儒家代表人物，为现代世界重新诠释“修身”与“体知”。 https://en.wikipedia.org/wiki/Tu_Weiming
 - **V. S. Ramachandran** (1) — 加州大学圣地亚哥分校心理学系杰出教授. 神经科学家，以幻肢、身体意象与联觉研究著称，著有《脑中魅影》（1998）。
-- **Valeria I. Petkova** (1) — 认知神经科学家；曾在卡罗林斯卡学院 Ehrsson 实验室. Valeria Petkova 与 Henrik Ehrsson 一起主导了 2008 年的身体互换错觉研究。
+- **Viktoria Modesta** (1) — 仿生流行艺术家与表演者. 生于拉脱维亚的英国歌手与表演者，2007 年主动选择膝下截肢，以设计过的义肢登台表演。 https://www.viktoriamodesta.com/
+- **Vivian Sobchack** (1) — 加州大学洛杉矶分校电影、电视与数字媒体荣休教授. 美国电影与媒介理论家，把存在主义现象学引入电影研究，并写下自己与义肢共同生活的经验。 https://en.wikipedia.org/wiki/Vivian_Sobchack
 - **Vygandas Šimbelis** (1) — 艺术家、瑞典皇家理工学院（KTH）交互设计研究者. Vygandas Šimbelis 是一位艺术家，在 KTH 随 Höök 读博期间制作了生物反馈绘画机器 Metaphone。
+- **Wafaa Bilal** (1) — 艺术家；纽约大学 Tisch 艺术学院教授. 伊拉克裔美国艺术家，他的表演让身体暴露于远程、网络化的暴力与监视之下。 https://wafaabilal.com/
 - **Wang Xiangzhai** (1) — 武术家（1885–1963），意拳创始人. 形意拳名家，把武术训练简化为站桩与意念的体认，创立意拳（又称大成拳）。 https://en.wikipedia.org/wiki/Wang_Xiangzhai
 - **WhiteFeather Hunter** (1) — 生物艺术家、研究者. 从事组织培养、生物艺术与女性主义技术科学的艺术家与研究者。
 - **William Steptoe** (1) — VR 研究者；曾在伦敦大学学院虚拟环境与计算机图形组. William Steptoe 主导了 Human Tails 研究：在 VR 中拥有并控制一个额外的身体部位。
@@ -5033,7 +5966,7 @@ Drone Chi、软体与充气机器人、用身体去感受的机器人。
 - **Yi Je-ma** (1) — 朝鲜王朝医学家与思想家（1837–1900）. 朝鲜王朝时期医学家，在《东医寿世保元》（1894）中创立四象医学。 https://en.wikipedia.org/wiki/Yi_Je-ma
 - **Yoko Ono** (1) — 艺术家、音乐人、和平活动者. 日裔美国艺术家（1933 年生），与激浪派关系密切，她的指令作品与表演邀请观众用自己的身体完成作品。 https://imaginepeace.com
 - **Yolande Strengers** (1) — 莫纳什大学数字技术与社会教授. 技术社会学者，研究智能家居、性别与亲密技术，《The Smart Wife》（2020）合著者。
+- **Yudai Tanaka** (1) — 人机交互研究者，芝加哥大学人机融合实验室. 研究者，通过刺激神经与大脑而不是皮肤来产生触感与力感。
 - **Zeami Motokiyo** (1) — 能乐演员、剧作家与理论家（约 1363–1443）. 能乐大师，其秘传论著如《风姿花传》《花镜》阐述了演员如何修炼身体、声音与觉知。 https://en.wikipedia.org/wiki/Zeami_Motokiyo
-- **Zhuying Li** (1) — 人机交互研究者；Exertion Games Lab（RMIT、莫纳什大学）博士. 中国人机交互研究者，其博士研究开创了“可吞咽游戏”：用吞入体内的传感器进行的游戏。
 - **Ziyue Piao** (1) — 麦吉尔大学研究者（输入设备与音乐交互实验室）. 音乐科技研究者，研究演奏者的呼吸与身体经验。
 - **doppel** (1) — 可穿戴技术公司. 伦敦初创公司，由四位皇家艺术学院 / 帝国理工学院毕业生于 2015 年创立，产品是一只发出类似心跳脉动的腕带。 https://feeldoppel.co.uk

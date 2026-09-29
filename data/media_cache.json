@@ -1626,8 +1626,7 @@
   "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Gene_Gendlin_1088_PCE_conference_Germany.jpg",
   "ok": true,
   "type": "image",
-  "error": "HTTPError: HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)",
-  "unverified": true
+  "content_type": "image/jpeg"
  },
  "video:youtube:baUVUUmHnf8": {
   "url": "https://www.youtube.com/watch?v=baUVUUmHnf8",
@@ -1678,8 +1677,7 @@
   "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/ShaunGallagher.jpg",
   "ok": true,
   "type": "image",
-  "error": "HTTPError: HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)",
-  "unverified": true
+  "content_type": "image/jpeg"
  },
  "doi:10.1093/0199271941.001.0001": {
   "doi": "10.1093/0199271941.001.0001",
@@ -1754,8 +1752,7 @@
   "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Humberto_Maturana-FILSA2015.jpg",
   "ok": true,
   "type": "image",
-  "error": "HTTPError: HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)",
-  "unverified": true
+  "content_type": "image/jpeg"
  },
  "video:youtube:XWYaoAoijdQ": {
   "url": "https://www.youtube.com/watch?v=XWYaoAoijdQ",
@@ -1776,8 +1773,7 @@
   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Metaphors_We_Live_By_book_cover.jpg",
   "ok": true,
   "type": "image",
-  "error": "HTTPError: HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)",
-  "unverified": true
+  "content_type": "image/jpeg"
  },
  "doi:10.7208/chicago/9780226470993.001.0001": {
   "doi": "10.7208/chicago/9780226470993.001.0001",
@@ -1807,8 +1803,7 @@
   "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/George_Lakoff.jpg",
   "ok": true,
   "type": "image",
-  "error": "HTTPError: HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)",
-  "unverified": true
+  "content_type": "image/jpeg"
  },
  "video:youtube:nda7xAIG3d0": {
   "url": "https://www.youtube.com/watch?v=nda7xAIG3d0",
@@ -1877,8 +1872,7 @@
   "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Alva_No%C3%AB_%283419836383%29.jpg",
   "ok": true,
   "type": "image",
-  "error": "HTTPError: HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)",
-  "unverified": true
+  "content_type": "image/jpeg"
  },
  "video:youtube:1wup_K2WN0I": {
   "url": "https://www.youtube.com/watch?v=1wup_K2WN0I",
@@ -5387,15 +5381,13 @@
   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Contact_Improvisation_Trio_Dojo_Florence.jpg",
   "ok": true,
   "type": "image",
-  "error": "HTTPError: HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)",
-  "unverified": true
+  "content_type": "image/jpeg"
  },
  "img:https://upload.wikimedia.org/wikipedia/commons/e/e9/Steve_Paxton_2012.jpg": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Steve_Paxton_2012.jpg",
   "ok": true,
   "type": "image",
-  "error": "HTTPError: HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)",
-  "unverified": true
+  "content_type": "image/jpeg"
  },
  "video:youtube:BFWRF0WXkAs": {
   "url": "https://www.youtube.com/watch?v=BFWRF0WXkAs",
@@ -5419,8 +5411,7 @@
   "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Anna_Halprin_Breath_Made_Visible.jpg",
   "ok": true,
   "type": "image",
-  "error": "HTTPError: HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)",
-  "unverified": true
+  "content_type": "image/jpeg"
  },
  "img:https://tamalpa.org/wp-content/uploads/about_03-1200x550.jpg": {
   "url": "https://tamalpa.org/wp-content/uploads/about_03-1200x550.jpg",
@@ -5441,8 +5432,7 @@
   "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Ohad_Naharin._Herzliya_Conference_2016_2034_%28cropped%29.jpg",
   "ok": true,
   "type": "image",
-  "error": "HTTPError: HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)",
-  "unverified": true
+  "content_type": "image/jpeg"
  },
  "video:youtube:w_kvkPfI07c": {
   "url": "https://www.youtube.com/watch?v=w_kvkPfI07c",
@@ -5466,8 +5456,7 @@
   "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Mary_Overlie.jpg",
   "ok": true,
   "type": "image",
-  "error": "HTTPError: HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)",
-  "unverified": true
+  "content_type": "image/jpeg"
  },
  "video:youtube:Qgfgve0quYE": {
   "url": "https://www.youtube.com/watch?v=Qgfgve0quYE",
@@ -5620,8 +5609,7 @@
   "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/BKS_Iyengar.jpg",
   "ok": true,
   "type": "image",
-  "error": "HTTPError: HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)",
-  "unverified": true
+  "content_type": "image/jpeg"
  },
  "img:https://i.harperapps.com/covers/9780062503220.jpg": {
   "url": "https://i.harperapps.com/covers/9780062503220.jpg",
@@ -9098,8 +9086,7 @@
   "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Stelarc_3rd_ear_2011f.jpg",
   "ok": true,
   "type": "image",
-  "error": "HTTPError: HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)",
-  "unverified": true
+  "content_type": "image/jpeg"
  },
  "img:https://upload.wikimedia.org/wikipedia/commons/e/eb/William_Forsythe_2012_%28cropped%29.jpg": {
   "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/William_Forsythe_2012_%28cropped%29.jpg",
@@ -9626,6 +9613,1865 @@
  },
  "img:https://zhuyingli.info/pic/zhuying.jpg": {
   "url": "https://zhuyingli.info/pic/zhuying.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://stelarc.org/media/img/projects-overview/suspensions2.jpg": {
+  "url": "https://stelarc.org/media/img/projects-overview/suspensions2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://stelarc.org/media/img/thumbs/273_1000.jpg": {
+  "url": "https://stelarc.org/media/img/thumbs/273_1000.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://stelarc.org/media/img/stomach-sculpture/Stomach-Sculpture.jpg": {
+  "url": "https://stelarc.org/media/img/stomach-sculpture/Stomach-Sculpture.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://stelarc.org/media/img/stomach-sculpture/Inside-of-my-Stomach.jpg": {
+  "url": "https://stelarc.org/media/img/stomach-sculpture/Inside-of-my-Stomach.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:R2MntBUwUxY": {
+  "url": "https://www.youtube.com/watch?v=R2MntBUwUxY",
+  "ok": true,
+  "platform": "youtube",
+  "id": "R2MntBUwUxY",
+  "title": "Exoskeleton Performance by Stelarc",
+  "author": "Stefan Doepner",
+  "thumbnail": "https://i.ytimg.com/vi/R2MntBUwUxY/hqdefault.jpg"
+ },
+ "img:https://stelarc.org/media/img/projects-overview/exo2.jpg": {
+  "url": "https://stelarc.org/media/img/projects-overview/exo2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:MhpV4sLgVEE": {
+  "url": "https://www.youtube.com/watch?v=MhpV4sLgVEE",
+  "ok": true,
+  "platform": "youtube",
+  "id": "MhpV4sLgVEE",
+  "title": "Stelarc, Ear on Arm - Melbourne Now 2014",
+  "author": "Science, Technology & the Future",
+  "thumbnail": "https://i.ytimg.com/vi/MhpV4sLgVEE/hqdefault.jpg"
+ },
+ "img:https://stelarc.org/media/img/projects-overview/earonarm2.jpg": {
+  "url": "https://stelarc.org/media/img/projects-overview/earonarm2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:ygRNoieAnzI": {
+  "url": "https://www.youtube.com/watch?v=ygRNoieAnzI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "ygRNoieAnzI",
+  "title": "Neil Harbisson: I listen to color",
+  "author": "TED",
+  "thumbnail": "https://i.ytimg.com/vi/ygRNoieAnzI/hqdefault.jpg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/1/17/Re_publica_2013_Tag_2_%E2%80%93_Neil_Harbisson%2C_Moon_Ribas_%288718456460%29.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Re_publica_2013_Tag_2_%E2%80%93_Neil_Harbisson%2C_Moon_Ribas_%288718456460%29.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/1/19/Harbisson%27s_Sonochromatic_Scales.png": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Harbisson%27s_Sonochromatic_Scales.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:youtube:1Un4MFR-vNI": {
+  "url": "https://www.youtube.com/watch?v=1Un4MFR-vNI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "1Un4MFR-vNI",
+  "title": "Waiting for Earthquakes",
+  "author": "Moon Ribas",
+  "thumbnail": "https://i.ytimg.com/vi/1Un4MFR-vNI/hqdefault.jpg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/6/6a/Moon_Ribas.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Moon_Ribas.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:0UBf6l3mO9g": {
+  "url": "https://www.youtube.com/watch?v=0UBf6l3mO9g",
+  "ok": true,
+  "platform": "youtube",
+  "id": "0UBf6l3mO9g",
+  "title": "ORLAN, \"Omnipresence\", 1993",
+  "author": "ORLAN",
+  "thumbnail": "https://i.ytimg.com/vi/0UBf6l3mO9g/hqdefault.jpg"
+ },
+ "video:youtube:GLq7edATaFo": {
+  "url": "https://www.youtube.com/watch?v=GLq7edATaFo",
+  "ok": true,
+  "platform": "youtube",
+  "id": "GLq7edATaFo",
+  "title": "Kevin Warwick becomes the world's first Cyborg",
+  "author": "wocomoDOCS",
+  "thumbnail": "https://i.ytimg.com/vi/GLq7edATaFo/hqdefault.jpg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/4/45/Kevin_Warwick_2011.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Kevin_Warwick_2011.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1001/archneur.60.10.1369": {
+  "doi": "10.1001/archneur.60.10.1369",
+  "ok": true,
+  "type": "doi",
+  "title": "The Application of Implant Technology for Cybernetic Systems",
+  "year": 2003,
+  "venue": "Archives of Neurology",
+  "url": "https://doi.org/10.1001/archneur.60.10.1369"
+ },
+ "video:youtube:BhO-fuViomM": {
+  "url": "https://www.youtube.com/watch?v=BhO-fuViomM",
+  "ok": true,
+  "platform": "youtube",
+  "id": "BhO-fuViomM",
+  "title": "PROTOTYPE - Viktoria Modesta ( Official Music Video )",
+  "author": "VIKTORIA MODESTA ",
+  "thumbnail": "https://i.ytimg.com/vi/BhO-fuViomM/hqdefault.jpg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/e/e9/Viktoria_Modesta_2016.png": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Viktoria_Modesta_2016.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:youtube:JQ0iMulicgg": {
+  "url": "https://www.youtube.com/watch?v=JQ0iMulicgg",
+  "ok": true,
+  "platform": "youtube",
+  "id": "JQ0iMulicgg",
+  "title": "It's not fair having 12 pairs of legs | Aimee Mullins",
+  "author": "TED",
+  "thumbnail": "https://i.ytimg.com/vi/JQ0iMulicgg/hqdefault.jpg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/f/fc/Aimee_Mullins_wearing_McQueen_prosthetics.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Aimee_Mullins_wearing_McQueen_prosthetics.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:kSUrKWTYF6g": {
+  "url": "https://www.youtube.com/watch?v=kSUrKWTYF6g",
+  "ok": true,
+  "platform": "youtube",
+  "id": "kSUrKWTYF6g",
+  "title": "\"Swallowable Parfum\" by Lucy McRae",
+  "author": "NOWNESS",
+  "thumbnail": "https://i.ytimg.com/vi/kSUrKWTYF6g/hqdefault.jpg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/59070617ebbd1a679b87f1de/1497503053218-QSZ7WC4WL9132SE0YG4J/LucyMcRae_Swallowable+Parfum_1900x1200px_07.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/59070617ebbd1a679b87f1de/1497503053218-QSZ7WC4WL9132SE0YG4J/LucyMcRae_Swallowable+Parfum_1900x1200px_07.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/59070617ebbd1a679b87f1de/1662867406215-3TXN194A2TKMALYHQLIB/%C2%A9Scottie+Cameron%E2%80%93Compression%E2%80%93Cradle%E2%80%93Lucy_McRae.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/59070617ebbd1a679b87f1de/1662867406215-3TXN194A2TKMALYHQLIB/%C2%A9Scottie+Cameron%E2%80%93Compression%E2%80%93Cradle%E2%80%93Lucy_McRae.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/59070617ebbd1a679b87f1de/1554551927965-BB1WSKPGBWN5JBHYI05T/%C2%A9Daria+Scagliola-Compression-Cradle-McRae-2.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/59070617ebbd1a679b87f1de/1554551927965-BB1WSKPGBWN5JBHYI05T/%C2%A9Daria+Scagliola-Compression-Cradle-McRae-2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:h2nNKbO9-Eg": {
+  "url": "https://www.youtube.com/watch?v=h2nNKbO9-Eg",
+  "ok": true,
+  "platform": "youtube",
+  "id": "h2nNKbO9-Eg",
+  "title": "3rd Eye: Artist Gets Camera Implanted in Head",
+  "author": "Associated Press",
+  "thumbnail": "https://i.ytimg.com/vi/h2nNKbO9-Eg/hqdefault.jpg"
+ },
+ "img:https://www.ekac.org/needle.gif": {
+  "url": "https://www.ekac.org/needle.gif",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/gif"
+ },
+ "video:youtube:aS5di0wCD1I": {
+  "url": "https://www.youtube.com/watch?v=aS5di0wCD1I",
+  "ok": true,
+  "platform": "youtube",
+  "id": "aS5di0wCD1I",
+  "title": "Lee Bul: Beauty And Horror | curator tour with Stephanie Rosenthal | Hayward Gallery",
+  "author": "Southbank Centre",
+  "thumbnail": "https://i.ytimg.com/vi/aS5di0wCD1I/hqdefault.jpg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/5/5a/Untitled_%28Cyborg%27s_pelvis%29_by_Lee_Bul%2C_British_Museum_01.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Untitled_%28Cyborg%27s_pelvis%29_by_Lee_Bul%2C_British_Museum_01.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/e/ea/Untitled_%28Cyborg%27s_pelvis%29_by_Lee_Bul%2C_British_Museum_02.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Untitled_%28Cyborg%27s_pelvis%29_by_Lee_Bul%2C_British_Museum_02.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:pjsHGQ0LB-0": {
+  "url": "https://www.youtube.com/watch?v=pjsHGQ0LB-0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "pjsHGQ0LB-0",
+  "title": "mariko mori - wave ufo",
+  "author": "blobbleo",
+  "thumbnail": "https://i.ytimg.com/vi/pjsHGQ0LB-0/hqdefault.jpg"
+ },
+ "img:https://web.archive.org/web/20140202152823im_/http://www.eyebeam.org/sites/default/files/imagecache/node_top/projects/images/mori_10.jpg": {
+  "url": "https://web.archive.org/web/20140202152823im_/http://www.eyebeam.org/sites/default/files/imagecache/node_top/projects/images/mori_10.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:JVr9q2BW6rI": {
+  "url": "https://www.youtube.com/watch?v=JVr9q2BW6rI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "JVr9q2BW6rI",
+  "title": "I.K.U. | Trailer | Transit Filmfest",
+  "author": "Transit Filmfest",
+  "thumbnail": "https://i.ytimg.com/vi/JVr9q2BW6rI/hqdefault.jpg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/en/1/1d/IKU_poster.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/en/1/1d/IKU_poster.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:5utDR8VWxms": {
+  "url": "https://www.youtube.com/watch?v=5utDR8VWxms",
+  "ok": true,
+  "platform": "youtube",
+  "id": "5utDR8VWxms",
+  "title": "Marcel·li Antunez Roca - Epizoo 1994",
+  "author": "Marcel.lí Antúnez Roca",
+  "thumbnail": "https://i.ytimg.com/vi/5utDR8VWxms/hqdefault.jpg"
+ },
+ "img:https://www.marceliantunez.com/media/cache/3b/1f/3b1f492a17b1654525596a9cc5d9af01.jpg": {
+  "url": "https://www.marceliantunez.com/media/cache/3b/1f/3b1f492a17b1654525596a9cc5d9af01.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.marceliantunez.com/media/cache/64/a3/64a3357afcd871bda2b64a7e09484080.jpg": {
+  "url": "https://www.marceliantunez.com/media/cache/64/a3/64a3357afcd871bda2b64a7e09484080.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:6P0Vsg81Om0": {
+  "url": "https://www.youtube.com/watch?v=6P0Vsg81Om0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "6P0Vsg81Om0",
+  "title": "TRAILER REf18 - DONNARUMMA • PEVERE - Eingeweide",
+  "author": "Romaeuropa",
+  "thumbnail": "https://i.ytimg.com/vi/6P0Vsg81Om0/hqdefault.jpg"
+ },
+ "img:https://marcodonnarumma.com/live/wp-content/uploads/2018/03/Donnarumma-Pevere_Eingeweide_by-De-Angelis_2_web.jpg": {
+  "url": "https://marcodonnarumma.com/live/wp-content/uploads/2018/03/Donnarumma-Pevere_Eingeweide_by-De-Angelis_2_web.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/6/69/Hux-Oxon-72.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Hux-Oxon-72.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1177/002216786800800107": {
+  "doi": "10.1177/002216786800800107",
+  "ok": true,
+  "type": "doi",
+  "title": "Transhumanism",
+  "year": 1968,
+  "venue": "Journal of Humanistic Psychology",
+  "url": "https://doi.org/10.1177/002216786800800107"
+ },
+ "img:https://covers.openlibrary.org/b/isbn/0674576187-L.jpg": {
+  "url": "https://covers.openlibrary.org/b/isbn/0674576187-L.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:Q9gis7-Jads": {
+  "url": "https://www.youtube.com/watch?v=Q9gis7-Jads",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Q9gis7-Jads",
+  "title": "Donna Haraway: \"From Cyborgs to Companion Species\"",
+  "author": "UC Berkeley Events",
+  "thumbnail": "https://i.ytimg.com/vi/Q9gis7-Jads/hqdefault.jpg"
+ },
+ "img:https://covers.openlibrary.org/b/id/902702-L.jpg": {
+  "url": "https://covers.openlibrary.org/b/id/902702-L.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.4324/9780203873106": {
+  "doi": "10.4324/9780203873106",
+  "ok": true,
+  "type": "doi",
+  "title": "Simians, Cyborgs, and Women",
+  "year": 2013,
+  "venue": "",
+  "url": "https://doi.org/10.4324/9780203873106"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/1/19/Stelarc_2011b.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Stelarc_2011b.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.2307/1575667": {
+  "doi": "10.2307/1575667",
+  "ok": true,
+  "type": "doi",
+  "title": "Prosthetics, Robotics and Remote Existence: Postevolutionary Strategies",
+  "year": 1991,
+  "venue": "Leonardo",
+  "url": "https://doi.org/10.2307/1575667"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/a/a2/SandyStone.JPG": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/SandyStone.JPG",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://covers.openlibrary.org/b/isbn/9780262521772-L.jpg": {
+  "url": "https://covers.openlibrary.org/b/isbn/9780262521772-L.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:UiRkzZEMDxU": {
+  "url": "https://www.youtube.com/watch?v=UiRkzZEMDxU",
+  "ok": true,
+  "platform": "youtube",
+  "id": "UiRkzZEMDxU",
+  "title": "The SPHS George Psathas Lecture 2019, Presenter Don Ihde",
+  "author": "SPHS - Society for Phenomenology and the Human Sciences",
+  "thumbnail": "https://i.ytimg.com/vi/UiRkzZEMDxU/hqdefault.jpg"
+ },
+ "img:https://ingram-indiana.imgix.net/covers/9780253205605.jpg?w=400": {
+  "url": "https://ingram-indiana.imgix.net/covers/9780253205605.jpg?w=400",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.2979/3108.0": {
+  "doi": "10.2979/3108.0",
+  "ok": true,
+  "type": "doi",
+  "title": "Technology and the Lifeworld",
+  "year": 1990,
+  "venue": "",
+  "url": "https://doi.org/10.2979/3108.0"
+ },
+ "img:https://covers.openlibrary.org/b/isbn/9780804730419-L.jpg": {
+  "url": "https://covers.openlibrary.org/b/isbn/9780804730419-L.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/a/a8/2016_HTNM_Bernard_Stiegler_%2830301265471%29_%28cropped%29.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/2016_HTNM_Bernard_Stiegler_%2830301265471%29_%28cropped%29.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1515/9781503616738": {
+  "doi": "10.1515/9781503616738",
+  "ok": true,
+  "type": "doi",
+  "title": "Technics and Time, 1",
+  "year": 1998,
+  "venue": "",
+  "url": "https://doi.org/10.1515/9781503616738"
+ },
+ "video:youtube:rryjPdKMxO4": {
+  "url": "https://www.youtube.com/watch?v=rryjPdKMxO4",
+  "ok": true,
+  "platform": "youtube",
+  "id": "rryjPdKMxO4",
+  "title": "It’s Too Late. You’re Posthuman. | Literary Tech Scholar N. Katherine Hayles",
+  "author": "Futurology",
+  "thumbnail": "https://i.ytimg.com/vi/rryjPdKMxO4/hqdefault.jpg"
+ },
+ "img:https://tmm.chicagodistributioncenter.com/IsbnImages/9780226321462.jpg": {
+  "url": "https://tmm.chicagodistributioncenter.com/IsbnImages/9780226321462.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.7208/chicago/9780226321394.001.0001": {
+  "doi": "10.7208/chicago/9780226321394.001.0001",
+  "ok": true,
+  "type": "doi",
+  "title": "How We Became Posthuman",
+  "year": 1999,
+  "venue": "",
+  "url": "https://doi.org/10.7208/chicago/9780226321394.001.0001"
+ },
+ "video:youtube:kc-TdMjuJRU": {
+  "url": "https://www.youtube.com/watch?v=kc-TdMjuJRU",
+  "ok": true,
+  "platform": "youtube",
+  "id": "kc-TdMjuJRU",
+  "title": "Andy Clark - What is Extended Mind?",
+  "author": "Closer To Truth",
+  "thumbnail": "https://i.ytimg.com/vi/kc-TdMjuJRU/hqdefault.jpg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/f/fb/David_chalmers.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/David_chalmers.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1093/analys/58.1.7": {
+  "doi": "10.1093/analys/58.1.7",
+  "ok": true,
+  "type": "doi",
+  "title": "The Extended Mind",
+  "year": 1998,
+  "venue": "Analysis",
+  "url": "https://doi.org/10.1093/analys/58.1.7"
+ },
+ "img:https://covers.openlibrary.org/b/isbn/9780374236434-L.jpg": {
+  "url": "https://covers.openlibrary.org/b/isbn/9780374236434-L.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/5/59/Francis_Fukuyama_2026_Sept.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Francis_Fukuyama_2026_Sept.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:hmBgJjfjG7Q": {
+  "url": "https://www.youtube.com/watch?v=hmBgJjfjG7Q",
+  "ok": true,
+  "platform": "youtube",
+  "id": "hmBgJjfjG7Q",
+  "title": "How Technology Changes Us | Lecture  with Don Ihde and Peter-Paul Verbeek",
+  "author": "Radboud Reflects",
+  "thumbnail": "https://i.ytimg.com/vi/hmBgJjfjG7Q/hqdefault.jpg"
+ },
+ "img:https://covers.openlibrary.org/b/isbn/9780816638451-L.jpg": {
+  "url": "https://covers.openlibrary.org/b/isbn/9780816638451-L.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://covers.openlibrary.org/b/isbn/9780195148664-L.jpg": {
+  "url": "https://covers.openlibrary.org/b/isbn/9780195148664-L.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:VmtrvkGXBn0": {
+  "url": "https://www.youtube.com/watch?v=VmtrvkGXBn0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "VmtrvkGXBn0",
+  "title": "Nick Bostrom - Transhumanism: Risks and Opportunities",
+  "author": "Science, Technology & the Future",
+  "thumbnail": "https://i.ytimg.com/vi/VmtrvkGXBn0/hqdefault.jpg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/3/3a/Prof_Nick_Bostrom_324-1.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Prof_Nick_Bostrom_324-1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1111/j.1467-8519.2005.00437.x": {
+  "doi": "10.1111/j.1467-8519.2005.00437.x",
+  "ok": true,
+  "type": "doi",
+  "title": "IN DEFENSE OF POSTHUMAN DIGNITY",
+  "year": 2005,
+  "venue": "Bioethics",
+  "url": "https://doi.org/10.1111/j.1467-8519.2005.00437.x"
+ },
+ "img:https://covers.openlibrary.org/b/isbn/9780262195300-L.jpg": {
+  "url": "https://covers.openlibrary.org/b/isbn/9780262195300-L.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.hup.harvard.edu/img/feeds/jackets/9780674036383.png?fm=jpg&q=80&fit=max&w=630": {
+  "url": "https://www.hup.harvard.edu/img/feeds/jackets/9780674036383.png?fm=jpg&q=80&fit=max&w=630",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/2/2b/Michael_Sandel_Frontiers_of_Thought_2023_%283x4cropped%29.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Michael_Sandel_Frontiers_of_Thought_2023_%283x4cropped%29.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.4159/9780674043060": {
+  "doi": "10.4159/9780674043060",
+  "ok": true,
+  "type": "doi",
+  "title": "The Case against Perfection",
+  "year": 2007,
+  "venue": "",
+  "url": "https://doi.org/10.4159/9780674043060"
+ },
+ "img:https://covers.openlibrary.org/b/isbn/9781118334317-L.jpg": {
+  "url": "https://covers.openlibrary.org/b/isbn/9781118334317-L.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/c/ca/Max_More%2C_Stanford_2006_%28square_crop%29.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Max_More%2C_Stanford_2006_%28square_crop%29.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1002/9781118555927": {
+  "doi": "10.1002/9781118555927",
+  "ok": true,
+  "type": "doi",
+  "title": "The Transhumanist Reader",
+  "year": 2013,
+  "venue": "",
+  "url": "https://doi.org/10.1002/9781118555927"
+ },
+ "video:youtube:kwb0DqrDm4g": {
+  "url": "https://www.youtube.com/watch?v=kwb0DqrDm4g",
+  "ok": true,
+  "platform": "youtube",
+  "id": "kwb0DqrDm4g",
+  "title": "Body by design - An iteration for life: Natasha Vita-More at TEDxMünchenSalon",
+  "author": "TEDx Talks",
+  "thumbnail": "https://i.ytimg.com/vi/kwb0DqrDm4g/hqdefault.jpg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/0/04/Natasha_Vita-More.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Natasha_Vita-More.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:0CewnVzOg5w": {
+  "url": "https://www.youtube.com/watch?v=0CewnVzOg5w",
+  "ok": true,
+  "platform": "youtube",
+  "id": "0CewnVzOg5w",
+  "title": "Rosi Braidotti, “Posthuman Knowledge”",
+  "author": "Harvard GSD",
+  "thumbnail": "https://i.ytimg.com/vi/0CewnVzOg5w/hqdefault.jpg"
+ },
+ "img:https://covers.openlibrary.org/b/isbn/9780745641584-L.jpg": {
+  "url": "https://covers.openlibrary.org/b/isbn/9780745641584-L.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/b/b4/Trouw%2C_R._Braidotti_5.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Trouw%2C_R._Braidotti_5.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:xrHpvKjJuCI": {
+  "url": "https://www.youtube.com/watch?v=xrHpvKjJuCI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "xrHpvKjJuCI",
+  "title": "Laura Forlano - A Manifesto for Critical, Crip & Cyborg Futures",
+  "author": "Digital Futures: Research Hub for Digitalization",
+  "thumbnail": "https://i.ytimg.com/vi/xrHpvKjJuCI/hqdefault.jpg"
+ },
+ "doi:10.28968/cftt.v3i2.28843": {
+  "doi": "10.28968/cftt.v3i2.28843",
+  "ok": true,
+  "type": "doi",
+  "title": "Data Rituals in Intimate Infrastructures: Crip Time and the Disabled Cyborg Body as an Epistemic Site of Feminist Science",
+  "year": 2017,
+  "venue": "Catalyst: Feminism, Theory, Technoscience",
+  "url": "https://doi.org/10.28968/cftt.v3i2.28843"
+ },
+ "video:youtube:RGjMUw03Bv0": {
+  "url": "https://www.youtube.com/watch?v=RGjMUw03Bv0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "RGjMUw03Bv0",
+  "title": "Humans, Cyborgs, Posthumans: Francesca Ferrando at TEDxSiliconAlley",
+  "author": "TEDx Talks",
+  "thumbnail": "https://i.ytimg.com/vi/RGjMUw03Bv0/hqdefault.jpg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/3/30/Francesca_Ferrando.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Francesca_Ferrando.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.5040/9781350059511": {
+  "doi": "10.5040/9781350059511",
+  "ok": true,
+  "type": "doi",
+  "title": "Philosophical Posthumanism",
+  "year": 2019,
+  "venue": "",
+  "url": "https://doi.org/10.5040/9781350059511"
+ },
+ "video:youtube:UD_LwZD2Kls": {
+  "url": "https://www.youtube.com/watch?v=UD_LwZD2Kls",
+  "ok": true,
+  "platform": "youtube",
+  "id": "UD_LwZD2Kls",
+  "title": "Why I Created a Third Thumb | Dani Clode | TEDxVienna",
+  "author": "TEDx Talks",
+  "thumbnail": "https://i.ytimg.com/vi/UD_LwZD2Kls/hqdefault.jpg"
+ },
+ "video:youtube:GKSCmkCE5og": {
+  "url": "https://www.youtube.com/watch?v=GKSCmkCE5og",
+  "ok": true,
+  "platform": "youtube",
+  "id": "GKSCmkCE5og",
+  "title": "Adapting to a Robotic “Third Thumb”",
+  "author": "AAAS_org",
+  "thumbnail": "https://i.ytimg.com/vi/GKSCmkCE5og/hqdefault.jpg"
+ },
+ "doi:10.1126/scirobotics.abd7935": {
+  "doi": "10.1126/scirobotics.abd7935",
+  "ok": true,
+  "type": "doi",
+  "title": "Robotic hand augmentation drives changes in neural body representation",
+  "year": 2021,
+  "venue": "Science Robotics",
+  "url": "https://doi.org/10.1126/scirobotics.abd7935"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/593a7b3215d5dbd460e42f0c/1501444059972-WSNT2MGHSID609LFAEP2/prosthesis-amputee-research.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/593a7b3215d5dbd460e42f0c/1501444059972-WSNT2MGHSID609LFAEP2/prosthesis-amputee-research.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "doi:10.1038/s41551-016-0014": {
+  "doi": "10.1038/s41551-016-0014",
+  "ok": true,
+  "type": "doi",
+  "title": "Neurocognitive barriers to the embodiment of technology",
+  "year": 2017,
+  "venue": "Nature Biomedical Engineering",
+  "url": "https://doi.org/10.1038/s41551-016-0014"
+ },
+ "video:youtube:Tr1-IhEhXYQ": {
+  "url": "https://www.youtube.com/watch?v=Tr1-IhEhXYQ",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Tr1-IhEhXYQ",
+  "title": "Arque: Artificial Biomimicry-Inspired Tail for Extending Innate Body Functions",
+  "author": "yamen saraiji",
+  "thumbnail": "https://i.ytimg.com/vi/Tr1-IhEhXYQ/hqdefault.jpg"
+ },
+ "doi:10.1145/3305367.3327987": {
+  "doi": "10.1145/3305367.3327987",
+  "ok": true,
+  "type": "doi",
+  "title": "Arque",
+  "year": 2019,
+  "venue": "ACM SIGGRAPH 2019 Emerging Technologies",
+  "url": "https://doi.org/10.1145/3305367.3327987"
+ },
+ "video:youtube:Nrc7gH6dydw": {
+  "url": "https://www.youtube.com/watch?v=Nrc7gH6dydw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Nrc7gH6dydw",
+  "title": "Fusion: Full Body Surrogacy for Collaborative Communication",
+  "author": "yamen saraiji",
+  "thumbnail": "https://i.ytimg.com/vi/Nrc7gH6dydw/hqdefault.jpg"
+ },
+ "doi:10.1145/3214907.3214912": {
+  "doi": "10.1145/3214907.3214912",
+  "ok": true,
+  "type": "doi",
+  "title": "Fusion",
+  "year": 2018,
+  "venue": "ACM SIGGRAPH 2018 Emerging Technologies",
+  "url": "https://doi.org/10.1145/3214907.3214912"
+ },
+ "video:youtube:KFyZQfqaXhE": {
+  "url": "https://www.youtube.com/watch?v=KFyZQfqaXhE",
+  "ok": true,
+  "platform": "youtube",
+  "id": "KFyZQfqaXhE",
+  "title": "自在肢 | JIZAI ARMS: SOCIAL DIGITAL CYBORGS (short ver.)",
+  "author": "INAMI JIZAI BODY PROJECT",
+  "thumbnail": "https://i.ytimg.com/vi/KFyZQfqaXhE/hqdefault.jpg"
+ },
+ "doi:10.1145/3544548.3581169": {
+  "doi": "10.1145/3544548.3581169",
+  "ok": true,
+  "type": "doi",
+  "title": "Social Digital Cyborgs: The Collaborative Design Process of JIZAI ARMS",
+  "year": 2023,
+  "venue": "Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3544548.3581169"
+ },
+ "video:youtube:1GBLk2fN6ao": {
+  "url": "https://www.youtube.com/watch?v=1GBLk2fN6ao",
+  "ok": true,
+  "platform": "youtube",
+  "id": "1GBLk2fN6ao",
+  "title": "The Robotic Sixth Finger",
+  "author": "SIRSLab Siena-Robotics-Systems-Lab. Prattichizzo",
+  "thumbnail": "https://i.ytimg.com/vi/1GBLk2fN6ao/hqdefault.jpg"
+ },
+ "doi:10.1109/roman.2014.6926382": {
+  "doi": "10.1109/roman.2014.6926382",
+  "ok": true,
+  "type": "doi",
+  "title": "The Sixth-Finger: A modular extra-finger to enhance human hand capabilities",
+  "year": 2014,
+  "venue": "The 23rd IEEE International Symposium on Robot and Human Interactive Communication",
+  "url": "https://doi.org/10.1109/roman.2014.6926382"
+ },
+ "video:youtube:myKWktRTNf0": {
+  "url": "https://www.youtube.com/watch?v=myKWktRTNf0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "myKWktRTNf0",
+  "title": "The Third arm illusion featured in Reuters (March 29, 2011)",
+  "author": "Brain, Body and Self Laboratory, Karolinska Institutet",
+  "thumbnail": "https://i.ytimg.com/vi/myKWktRTNf0/hqdefault.jpg"
+ },
+ "doi:10.1371/journal.pone.0017208": {
+  "doi": "10.1371/journal.pone.0017208",
+  "ok": true,
+  "type": "doi",
+  "title": "The Illusion of Owning a Third Arm",
+  "year": 2011,
+  "venue": "PLoS ONE",
+  "url": "https://doi.org/10.1371/journal.pone.0017208"
+ },
+ "doi:10.1111/jcc4.12107": {
+  "doi": "10.1111/jcc4.12107",
+  "ok": true,
+  "type": "doi",
+  "title": "Homuncular Flexibility in Virtual Reality",
+  "year": 2015,
+  "venue": "Journal of Computer-Mediated Communication",
+  "url": "https://doi.org/10.1111/jcc4.12107"
+ },
+ "video:youtube:D7wiPQUDm94": {
+  "url": "https://www.youtube.com/watch?v=D7wiPQUDm94",
+  "ok": true,
+  "platform": "youtube",
+  "id": "D7wiPQUDm94",
+  "title": "Building our bodies for the future: bionics, ethics and beyond | Hugh Herr & Patrick Kane | TEDxMIT",
+  "author": "TEDx Talks",
+  "thumbnail": "https://i.ytimg.com/vi/D7wiPQUDm94/hqdefault.jpg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/The_Debut_of_Bionic_Ballet_%2813480669224%29_%282%29.jpg/1280px-The_Debut_of_Bionic_Ballet_%2813480669224%29_%282%29.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/The_Debut_of_Bionic_Ballet_%2813480669224%29_%282%29.jpg/1280px-The_Debut_of_Bionic_Ballet_%2813480669224%29_%282%29.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1126/scitranslmed.aap8373": {
+  "doi": "10.1126/scitranslmed.aap8373",
+  "ok": true,
+  "type": "doi",
+  "title": "Proprioception from a neurally controlled lower-extremity prosthesis",
+  "year": 2018,
+  "venue": "Science Translational Medicine",
+  "url": "https://doi.org/10.1126/scitranslmed.aap8373"
+ },
+ "video:youtube:MpVxFC3npEc": {
+  "url": "https://www.youtube.com/watch?v=MpVxFC3npEc",
+  "ok": true,
+  "platform": "youtube",
+  "id": "MpVxFC3npEc",
+  "title": "PneuMa: Designing Pneumatic Bodily Extensions for Supporting Movement in Everyday Life",
+  "author": "floydmueller",
+  "thumbnail": "https://i.ytimg.com/vi/MpVxFC3npEc/hqdefault.jpg"
+ },
+ "doi:10.1145/3623509.3633349": {
+  "doi": "10.1145/3623509.3633349",
+  "ok": true,
+  "type": "doi",
+  "title": "PneuMa: Designing Pneumatic Bodily Extensions for Supporting Movement in Everyday Life",
+  "year": 2024,
+  "venue": "Proceedings of the Eighteenth International Conference on Tangible, Embedded, and Embodied Interaction",
+  "url": "https://doi.org/10.1145/3623509.3633349"
+ },
+ "video:youtube:5o2wPy5hl0w": {
+  "url": "https://www.youtube.com/watch?v=5o2wPy5hl0w",
+  "ok": true,
+  "platform": "youtube",
+  "id": "5o2wPy5hl0w",
+  "title": "HandMorph: a Passive Exoskeleton that Miniaturizes Grasp (UIST 2020 Best Paper Award)",
+  "author": "HCintegration",
+  "thumbnail": "https://i.ytimg.com/vi/5o2wPy5hl0w/hqdefault.jpg"
+ },
+ "doi:10.1145/3379337.3415875": {
+  "doi": "10.1145/3379337.3415875",
+  "ok": true,
+  "type": "doi",
+  "title": "HandMorph: a Passive Exoskeleton that Miniaturizes Grasp",
+  "year": 2020,
+  "venue": "Proceedings of the 33rd Annual ACM Symposium on User Interface Software and Technology",
+  "url": "https://doi.org/10.1145/3379337.3415875"
+ },
+ "video:youtube:CNR2gLKnd0g": {
+  "url": "https://www.youtube.com/watch?v=CNR2gLKnd0g",
+  "ok": true,
+  "platform": "youtube",
+  "id": "CNR2gLKnd0g",
+  "title": "BrainPort Vision Device",
+  "author": "UPMC",
+  "thumbnail": "https://i.ytimg.com/vi/CNR2gLKnd0g/hqdefault.jpg"
+ },
+ "doi:10.1038/221963a0": {
+  "doi": "10.1038/221963a0",
+  "ok": true,
+  "type": "doi",
+  "title": "Vision Substitution by Tactile Image Projection",
+  "year": 1969,
+  "venue": "Nature",
+  "url": "https://doi.org/10.1038/221963a0"
+ },
+ "video:youtube:I0lmSYP7OcM": {
+  "url": "https://www.youtube.com/watch?v=I0lmSYP7OcM",
+  "ok": true,
+  "platform": "youtube",
+  "id": "I0lmSYP7OcM",
+  "title": "Seeing with Sound (sensory substitution for the blind)",
+  "author": "seeingwithsound",
+  "thumbnail": "https://i.ytimg.com/vi/I0lmSYP7OcM/hqdefault.jpg"
+ },
+ "img:https://www.seeingwithsound.com/media/Lady_wearing_VISION_800_like.jpg": {
+  "url": "https://www.seeingwithsound.com/media/Lady_wearing_VISION_800_like.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1109/10.121642": {
+  "doi": "10.1109/10.121642",
+  "ok": true,
+  "type": "doi",
+  "title": "An experimental system for auditory image representations",
+  "year": 1992,
+  "venue": "IEEE Transactions on Biomedical Engineering",
+  "url": "https://doi.org/10.1109/10.121642"
+ },
+ "video:youtube:0po8YOA-17U": {
+  "url": "https://www.youtube.com/watch?v=0po8YOA-17U",
+  "ok": true,
+  "platform": "youtube",
+  "id": "0po8YOA-17U",
+  "title": "feelSpace navigation belt crowdfunding (english)",
+  "author": "feelSpace",
+  "thumbnail": "https://i.ytimg.com/vi/0po8YOA-17U/hqdefault.jpg"
+ },
+ "img:https://feelspace.de/wp-content/uploads/2022/02/Blinde_Dame-scaled.jpg": {
+  "url": "https://feelspace.de/wp-content/uploads/2022/02/Blinde_Dame-scaled.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1088/1741-2560/2/4/r02": {
+  "doi": "10.1088/1741-2560/2/4/r02",
+  "ok": true,
+  "type": "doi",
+  "title": "Beyond sensory substitution—learning the sixth sense",
+  "year": 2005,
+  "venue": "Journal of Neural Engineering",
+  "url": "https://doi.org/10.1088/1741-2560/2/4/r02"
+ },
+ "video:youtube:4c1lqFXHvqI": {
+  "url": "https://www.youtube.com/watch?v=4c1lqFXHvqI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "4c1lqFXHvqI",
+  "title": "Can we create new senses for humans? | David Eagleman",
+  "author": "TED",
+  "thumbnail": "https://i.ytimg.com/vi/4c1lqFXHvqI/hqdefault.jpg"
+ },
+ "doi:10.1007/s00221-015-4346-1": {
+  "doi": "10.1007/s00221-015-4346-1",
+  "ok": true,
+  "type": "doi",
+  "title": "Using space and time to encode vibrotactile information: toward an estimate of the skin’s achievable throughput",
+  "year": 2015,
+  "venue": "Experimental Brain Research",
+  "url": "https://doi.org/10.1007/s00221-015-4346-1"
+ },
+ "video:youtube:0xPMpKxd1R8": {
+  "url": "https://www.youtube.com/watch?v=0xPMpKxd1R8",
+  "ok": true,
+  "platform": "youtube",
+  "id": "0xPMpKxd1R8",
+  "title": "Meet the North Sense",
+  "author": "Cyborg Nest",
+  "thumbnail": "https://i.ytimg.com/vi/0xPMpKxd1R8/hqdefault.jpg"
+ },
+ "video:youtube:Ow_RISC2S0A": {
+  "url": "https://www.youtube.com/watch?v=Ow_RISC2S0A",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Ow_RISC2S0A",
+  "title": "Haptic Radar",
+  "author": "Ishikawa Group Laboratory",
+  "thumbnail": "https://i.ytimg.com/vi/Ow_RISC2S0A/hqdefault.jpg"
+ },
+ "img:http://ishikawa-vision.org/perception/HapticRadar/DSC_8196.jpg": {
+  "url": "http://ishikawa-vision.org/perception/HapticRadar/DSC_8196.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1109/iswc.2006.286344": {
+  "doi": "10.1109/iswc.2006.286344",
+  "ok": true,
+  "type": "doi",
+  "title": "Augmenting spatial awareness with Haptic Radar",
+  "year": 2006,
+  "venue": "2006 10th IEEE International Symposium on Wearable Computers",
+  "url": "https://doi.org/10.1109/iswc.2006.286344"
+ },
+ "video:youtube:EOqN_BRbSWU": {
+  "url": "https://www.youtube.com/watch?v=EOqN_BRbSWU",
+  "ok": true,
+  "platform": "youtube",
+  "id": "EOqN_BRbSWU",
+  "title": "Can this spoon help Japanese people eat less salt? | REUTERS",
+  "author": "Reuters",
+  "thumbnail": "https://i.ytimg.com/vi/EOqN_BRbSWU/hqdefault.jpg"
+ },
+ "doi:10.1145/1959826.1959860": {
+  "doi": "10.1145/1959826.1959860",
+  "ok": true,
+  "type": "doi",
+  "title": "Augmented gustation using electricity",
+  "year": 2011,
+  "venue": "Proceedings of the 2nd Augmented Human International Conference",
+  "url": "https://doi.org/10.1145/1959826.1959860"
+ },
+ "video:youtube:sbmYBUSuM48": {
+  "url": "https://www.youtube.com/watch?v=sbmYBUSuM48",
+  "ok": true,
+  "platform": "youtube",
+  "id": "sbmYBUSuM48",
+  "title": "Stereo-Smell via Electrical Trigeminal Stimulation (Video)",
+  "author": "HCintegration",
+  "thumbnail": "https://i.ytimg.com/vi/sbmYBUSuM48/hqdefault.jpg"
+ },
+ "doi:10.1145/3411764.3445300": {
+  "doi": "10.1145/3411764.3445300",
+  "ok": true,
+  "type": "doi",
+  "title": "Stereo-Smell via Electrical Trigeminal Stimulation",
+  "year": 2021,
+  "venue": "Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3411764.3445300"
+ },
+ "video:youtube:gQ3qBUIj7D4": {
+  "url": "https://www.youtube.com/watch?v=gQ3qBUIj7D4",
+  "ok": true,
+  "platform": "youtube",
+  "id": "gQ3qBUIj7D4",
+  "title": "Chemical Haptics: Rendering Haptic Sensations via Topical Stimulants",
+  "author": "HCintegration",
+  "thumbnail": "https://i.ytimg.com/vi/gQ3qBUIj7D4/hqdefault.jpg"
+ },
+ "doi:10.1145/3472749.3474747": {
+  "doi": "10.1145/3472749.3474747",
+  "ok": true,
+  "type": "doi",
+  "title": "Chemical Haptics: Rendering Haptic Sensations via Topical Stimulants",
+  "year": 2021,
+  "venue": "The 34th Annual ACM Symposium on User Interface Software and Technology",
+  "url": "https://doi.org/10.1145/3472749.3474747"
+ },
+ "img:https://arxiv.org/html/2511.12533v3/images/MtHtHA.png": {
+  "url": "https://arxiv.org/html/2511.12533v3/images/MtHtHA.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/58a9a6e6-1cc7-4d68-be74-e80f26ae94c7/aadasdasd/public": {
+  "url": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/58a9a6e6-1cc7-4d68-be74-e80f26ae94c7/aadasdasd/public",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/avif"
+ },
+ "doi:10.21606/drs.2026.814": {
+  "doi": "10.21606/drs.2026.814",
+  "ok": true,
+  "type": "doi",
+  "title": "Experiencing the More-than-Human Through Human Augmentation",
+  "year": 2026,
+  "venue": "Proceedings of DRS",
+  "url": "https://doi.org/10.21606/drs.2026.814"
+ },
+ "arxiv:2511.12533": {
+  "arxiv": "2511.12533",
+  "ok": true,
+  "type": "arxiv",
+  "title": "Experiencing the More-than-Human Through Human Augmentation",
+  "year": 2025,
+  "url": "https://arxiv.org/abs/2511.12533"
+ },
+ "img:https://arxiv.org/html/2511.12533v3/images/tentacus.jpg": {
+  "url": "https://arxiv.org/html/2511.12533v3/images/tentacus.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/afd62d02-7102-4a26-b5b4-03df6cc2744b/image2/public": {
+  "url": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/afd62d02-7102-4a26-b5b4-03df6cc2744b/image2/public",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/avif"
+ },
+ "doi:10.1145/3761667.3761962": {
+  "doi": "10.1145/3761667.3761962",
+  "ok": true,
+  "type": "doi",
+  "title": "I Become Tentacle, We Become \"Tentacus\": A Mixed Reality Ritual for Distributed Bodies and Collective Minds",
+  "year": 2025,
+  "venue": "SIGGRAPH Asia 2025 XR",
+  "url": "https://doi.org/10.1145/3761667.3761962"
+ },
+ "img:https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/inami-erato/2ea56722-b49c-46e6-82e1-836af40f4d7b/9ea864a6c8efa2fa81a9ea43ef46d6ef.jpg": {
+  "url": "https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/inami-erato/2ea56722-b49c-46e6-82e1-836af40f4d7b/9ea864a6c8efa2fa81a9ea43ef46d6ef.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1145/3519391.3519401": {
+  "doi": "10.1145/3519391.3519401",
+  "ok": true,
+  "type": "doi",
+  "title": "Cyborgs, Human Augmentation, Cybernetics, and JIZAI Body",
+  "year": 2022,
+  "venue": "Augmented Humans 2022",
+  "url": "https://doi.org/10.1145/3519391.3519401"
+ },
+ "video:youtube:A49aAYMUd9M": {
+  "url": "https://www.youtube.com/watch?v=A49aAYMUd9M",
+  "ok": true,
+  "platform": "youtube",
+  "id": "A49aAYMUd9M",
+  "title": "Bodily Integration - Florian 'Floyd' Mueller",
+  "author": "Augmented Human Lab",
+  "thumbnail": "https://i.ytimg.com/vi/A49aAYMUd9M/hqdefault.jpg"
+ },
+ "doi:10.1016/j.ijhcs.2021.102643": {
+  "doi": "10.1016/j.ijhcs.2021.102643",
+  "ok": true,
+  "type": "doi",
+  "title": "Towards understanding the design of bodily integration",
+  "year": 2021,
+  "venue": "International Journal of Human-Computer Studies",
+  "url": "https://doi.org/10.1016/j.ijhcs.2021.102643"
+ },
+ "doi:10.1145/3590766": {
+  "doi": "10.1145/3590766",
+  "ok": true,
+  "type": "doi",
+  "title": "Toward Understanding the Design of Intertwined Human–Computer Integrations",
+  "year": 2023,
+  "venue": "ACM Transactions on Computer-Human Interaction",
+  "url": "https://doi.org/10.1145/3590766"
+ },
+ "video:youtube:GbSzwxNmYz0": {
+  "url": "https://www.youtube.com/watch?v=GbSzwxNmYz0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "GbSzwxNmYz0",
+  "title": "Neo-Noumena: Augmenting Emotion Communication",
+  "author": "floydmueller",
+  "thumbnail": "https://i.ytimg.com/vi/GbSzwxNmYz0/hqdefault.jpg"
+ },
+ "doi:10.1145/3313831.3376599": {
+  "doi": "10.1145/3313831.3376599",
+  "ok": true,
+  "type": "doi",
+  "title": "Neo-Noumena",
+  "year": 2020,
+  "venue": "Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3313831.3376599"
+ },
+ "video:youtube:On738nXm5AM": {
+  "url": "https://www.youtube.com/watch?v=On738nXm5AM",
+  "ok": true,
+  "platform": "youtube",
+  "id": "On738nXm5AM",
+  "title": "Muscle-plotter: an Interactive System based on EMS that Produces Spatial Output",
+  "author": "HassoPlattnerInstitute HCI",
+  "thumbnail": "https://i.ytimg.com/vi/On738nXm5AM/hqdefault.jpg"
+ },
+ "doi:10.1145/2984511.2984530": {
+  "doi": "10.1145/2984511.2984530",
+  "ok": true,
+  "type": "doi",
+  "title": "Muscle-plotter",
+  "year": 2016,
+  "venue": "Proceedings of the 29th Annual Symposium on User Interface Software and Technology",
+  "url": "https://doi.org/10.1145/2984511.2984530"
+ },
+ "video:youtube:k5e4mXQLq54": {
+  "url": "https://www.youtube.com/watch?v=k5e4mXQLq54",
+  "ok": true,
+  "platform": "youtube",
+  "id": "k5e4mXQLq54",
+  "title": "impacto: a wearable that simulates physical impact in VR",
+  "author": "HassoPlattnerInstitute HCI",
+  "thumbnail": "https://i.ytimg.com/vi/k5e4mXQLq54/hqdefault.jpg"
+ },
+ "doi:10.1145/2807442.2807443": {
+  "doi": "10.1145/2807442.2807443",
+  "ok": true,
+  "type": "doi",
+  "title": "Impacto",
+  "year": 2015,
+  "venue": "Proceedings of the 28th Annual ACM Symposium on User Interface Software &amp; Technology",
+  "url": "https://doi.org/10.1145/2807442.2807443"
+ },
+ "video:youtube:JQUndFOJ-s8": {
+  "url": "https://www.youtube.com/watch?v=JQUndFOJ-s8",
+  "ok": true,
+  "platform": "youtube",
+  "id": "JQUndFOJ-s8",
+  "title": "Haptic Source-Effector: Full-Body Haptics via Non-Invasive Brain Stimulation",
+  "author": "HCintegration",
+  "thumbnail": "https://i.ytimg.com/vi/JQUndFOJ-s8/hqdefault.jpg"
+ },
+ "doi:10.1145/3613904.3642483": {
+  "doi": "10.1145/3613904.3642483",
+  "ok": true,
+  "type": "doi",
+  "title": "Haptic Source-Effector: Full-Body Haptics via Non-Invasive Brain Stimulation",
+  "year": 2024,
+  "venue": "Proceedings of the CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3613904.3642483"
+ },
+ "video:youtube:QaHZ1ZDO-04": {
+  "url": "https://www.youtube.com/watch?v=QaHZ1ZDO-04",
+  "ok": true,
+  "platform": "youtube",
+  "id": "QaHZ1ZDO-04",
+  "title": "Preserving agency during EMS training speeds up reactions even after removing EMS (CHI2021 Talk)",
+  "author": "HCintegration",
+  "thumbnail": "https://i.ytimg.com/vi/QaHZ1ZDO-04/hqdefault.jpg"
+ },
+ "doi:10.1145/3411764.3445147": {
+  "doi": "10.1145/3411764.3445147",
+  "ok": true,
+  "type": "doi",
+  "title": "Preserving Agency During Electrical Muscle Stimulation Training Speeds up Reaction Time Directly After Removing EMS",
+  "year": 2021,
+  "venue": "Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3411764.3445147"
+ },
+ "video:youtube:XWaPYYrG3Rw": {
+  "url": "https://www.youtube.com/watch?v=XWaPYYrG3Rw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "XWaPYYrG3Rw",
+  "title": "[Preview] Whose touch is this?: Understanding the Agency Trade-off Between User-driven Touch vs. ...",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/XWaPYYrG3Rw/hqdefault.jpg"
+ },
+ "doi:10.1145/3489608": {
+  "doi": "10.1145/3489608",
+  "ok": true,
+  "type": "doi",
+  "title": "Whose Touch is This?\n            : Understanding the Agency Trade-Off Between User-Driven Touch vs. Computer-Driven Touch",
+  "year": 2022,
+  "venue": "ACM Transactions on Computer-Human Interaction",
+  "url": "https://doi.org/10.1145/3489608"
+ },
+ "video:youtube:9XBoZyfB8hY": {
+  "url": "https://www.youtube.com/watch?v=9XBoZyfB8hY",
+  "ok": true,
+  "platform": "youtube",
+  "id": "9XBoZyfB8hY",
+  "title": "PossessedHand: Techniques for controlling human hands using electrical muscles stimuli",
+  "author": "RekimotoLab",
+  "thumbnail": "https://i.ytimg.com/vi/9XBoZyfB8hY/hqdefault.jpg"
+ },
+ "doi:10.1145/1978942.1979018": {
+  "doi": "10.1145/1978942.1979018",
+  "ok": true,
+  "type": "doi",
+  "title": "PossessedHand",
+  "year": 2011,
+  "venue": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/1978942.1979018"
+ },
+ "video:youtube:HMkcscpBgOA": {
+  "url": "https://www.youtube.com/watch?v=HMkcscpBgOA",
+  "ok": true,
+  "platform": "youtube",
+  "id": "HMkcscpBgOA",
+  "title": "JackIn SIGGRAPH 2016 intro",
+  "author": "RekimotoLab",
+  "thumbnail": "https://i.ytimg.com/vi/HMkcscpBgOA/hqdefault.jpg"
+ },
+ "doi:10.1145/2821592.2821608": {
+  "doi": "10.1145/2821592.2821608",
+  "ok": true,
+  "type": "doi",
+  "title": "JackIn head",
+  "year": 2015,
+  "venue": "Proceedings of the 21st ACM Symposium on Virtual Reality Software and Technology",
+  "url": "https://doi.org/10.1145/2821592.2821608"
+ },
+ "video:youtube:f18llWuvQe0": {
+  "url": "https://www.youtube.com/watch?v=f18llWuvQe0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "f18llWuvQe0",
+  "title": "Malleable Embodiment: Changing Sense of Embodiment by Spatial-Temporal Deformation of Virtual ...",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/f18llWuvQe0/hqdefault.jpg"
+ },
+ "doi:10.1145/3025453.3025962": {
+  "doi": "10.1145/3025453.3025962",
+  "ok": true,
+  "type": "doi",
+  "title": "Malleable Embodiment",
+  "year": 2017,
+  "venue": "Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3025453.3025962"
+ },
+ "video:youtube:nXcPkRxc4SM": {
+  "url": "https://www.youtube.com/watch?v=nXcPkRxc4SM",
+  "ok": true,
+  "platform": "youtube",
+  "id": "nXcPkRxc4SM",
+  "title": "Parallel Adaptation [IEEE ISMAR 2022]",
+  "author": "Cybernetic Humanity Studio",
+  "thumbnail": "https://i.ytimg.com/vi/nXcPkRxc4SM/hqdefault.jpg"
+ },
+ "doi:10.1109/ismar55827.2022.00031": {
+  "doi": "10.1109/ismar55827.2022.00031",
+  "ok": true,
+  "type": "doi",
+  "title": "Parallel Adaptation: Switching between Two Virtual Bodies with Different Perspectives Enables Dual Motor Adaptation",
+  "year": 2022,
+  "venue": "2022 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)",
+  "url": "https://doi.org/10.1109/ismar55827.2022.00031"
+ },
+ "video:youtube:J4tJ1FZ-QoA": {
+  "url": "https://www.youtube.com/watch?v=J4tJ1FZ-QoA",
+  "ok": true,
+  "platform": "youtube",
+  "id": "J4tJ1FZ-QoA",
+  "title": "SplitBody: Reducing Mental Workload while Multitasking via Muscle Stimulation",
+  "author": "HCintegration",
+  "thumbnail": "https://i.ytimg.com/vi/J4tJ1FZ-QoA/hqdefault.jpg"
+ },
+ "doi:10.1145/3613904.3642629": {
+  "doi": "10.1145/3613904.3642629",
+  "ok": true,
+  "type": "doi",
+  "title": "SplitBody: Reducing Mental Workload while Multitasking via Muscle Stimulation",
+  "year": 2024,
+  "venue": "Proceedings of the CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3613904.3642629"
+ },
+ "video:youtube:KoC1iTOmYTg": {
+  "url": "https://www.youtube.com/watch?v=KoC1iTOmYTg",
+  "ok": true,
+  "platform": "youtube",
+  "id": "KoC1iTOmYTg",
+  "title": "TELESAR V - SIGGRAPH 2012 Emerging Technologies",
+  "author": "tachilab",
+  "thumbnail": "https://i.ytimg.com/vi/KoC1iTOmYTg/hqdefault.jpg"
+ },
+ "doi:10.1145/2343456.2343479": {
+  "doi": "10.1145/2343456.2343479",
+  "ok": true,
+  "type": "doi",
+  "title": "TELESAR V",
+  "year": 2012,
+  "venue": "ACM SIGGRAPH 2012 Emerging Technologies",
+  "url": "https://doi.org/10.1145/2343456.2343479"
+ },
+ "video:youtube:13xJIJd4R54": {
+  "url": "https://www.youtube.com/watch?v=13xJIJd4R54",
+  "ok": true,
+  "platform": "youtube",
+  "id": "13xJIJd4R54",
+  "title": "Cindy Hsin-Liu Kao: Hybrid Body Craft",
+  "author": "fitc",
+  "thumbnail": "https://i.ytimg.com/vi/13xJIJd4R54/hqdefault.jpg"
+ },
+ "doi:10.1109/mprv.2021.3079321": {
+  "doi": "10.1109/mprv.2021.3079321",
+  "ok": true,
+  "type": "doi",
+  "title": "Hybrid Body Craft: Toward Culturally and Socially Inclusive Design for On-Skin Interfaces",
+  "year": 2021,
+  "venue": "IEEE Pervasive Computing",
+  "url": "https://doi.org/10.1109/mprv.2021.3079321"
+ },
+ "video:youtube:KCnPPuS4kjA": {
+  "url": "https://www.youtube.com/watch?v=KCnPPuS4kjA",
+  "ok": true,
+  "platform": "youtube",
+  "id": "KCnPPuS4kjA",
+  "title": "Limited control over the body as intriguing play design resource",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/KCnPPuS4kjA/hqdefault.jpg"
+ },
+ "doi:10.1145/3411764.3445744": {
+  "doi": "10.1145/3411764.3445744",
+  "ok": true,
+  "type": "doi",
+  "title": "Limited Control Over the Body as Intriguing Play Design Resource",
+  "year": 2021,
+  "venue": "Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3411764.3445744"
+ },
+ "doi:10.1145/3528352": {
+  "doi": "10.1145/3528352",
+  "ok": true,
+  "type": "doi",
+  "title": "Integrated Exertion—Understanding the Design of Human–Computer Integration in an Exertion Context",
+  "year": 2022,
+  "venue": "ACM Transactions on Computer-Human Interaction",
+  "url": "https://doi.org/10.1145/3528352"
+ },
+ "video:youtube:ewS73Hw1q70": {
+  "url": "https://www.youtube.com/watch?v=ewS73Hw1q70",
+  "ok": true,
+  "platform": "youtube",
+  "id": "ewS73Hw1q70",
+  "title": "Auto-Paizo Games: Towards Understanding the Design of Games That Aim to Unify a Player’s Physical...",
+  "author": "Rakesh Patibanda",
+  "thumbnail": "https://i.ytimg.com/vi/ewS73Hw1q70/hqdefault.jpg"
+ },
+ "doi:10.1145/3611054": {
+  "doi": "10.1145/3611054",
+  "ok": true,
+  "type": "doi",
+  "title": "Auto-Paizo Games: Towards Understanding the Design of Games That Aim to Unify a Player’s Physical Body and the Virtual World",
+  "year": 2023,
+  "venue": "Proceedings of the ACM on Human-Computer Interaction",
+  "url": "https://doi.org/10.1145/3611054"
+ },
+ "video:youtube:IDmlYpVi5GM": {
+  "url": "https://www.youtube.com/watch?v=IDmlYpVi5GM",
+  "ok": true,
+  "platform": "youtube",
+  "id": "IDmlYpVi5GM",
+  "title": "Fused Spectatorship: Designing Bodily Experiences Where Spectators Become Players",
+  "author": "Rakesh Patibanda",
+  "thumbnail": "https://i.ytimg.com/vi/IDmlYpVi5GM/hqdefault.jpg"
+ },
+ "doi:10.1145/3611049": {
+  "doi": "10.1145/3611049",
+  "ok": true,
+  "type": "doi",
+  "title": "Fused Spectatorship: Designing Bodily Experiences Where Spectators Become Players",
+  "year": 2023,
+  "venue": "Proceedings of the ACM on Human-Computer Interaction",
+  "url": "https://doi.org/10.1145/3611049"
+ },
+ "video:youtube:7dI4fbLqO-Q": {
+  "url": "https://www.youtube.com/watch?v=7dI4fbLqO-Q",
+  "ok": true,
+  "platform": "youtube",
+  "id": "7dI4fbLqO-Q",
+  "title": "Shared Bodily Fusion: Leveraging Inter-Body Electrical Muscle Stimulation for Social Play | DIS 2024",
+  "author": "Rakesh Patibanda",
+  "thumbnail": "https://i.ytimg.com/vi/7dI4fbLqO-Q/hqdefault.jpg"
+ },
+ "doi:10.1145/3643834.3660723": {
+  "doi": "10.1145/3643834.3660723",
+  "ok": true,
+  "type": "doi",
+  "title": "Shared Bodily Fusion: Leveraging Inter-Body Electrical Muscle Stimulation for Social Play",
+  "year": 2024,
+  "venue": "Designing Interactive Systems Conference",
+  "url": "https://doi.org/10.1145/3643834.3660723"
+ },
+ "video:youtube:TsMne21CglM": {
+  "url": "https://www.youtube.com/watch?v=TsMne21CglM",
+  "ok": true,
+  "platform": "youtube",
+  "id": "TsMne21CglM",
+  "title": "CHI 2026: Towards Understanding the Design of Shared Bodily Control via Exoskeleton-based Play",
+  "author": "floydmueller",
+  "thumbnail": "https://i.ytimg.com/vi/TsMne21CglM/hqdefault.jpg"
+ },
+ "doi:10.1145/3772318.3793418": {
+  "doi": "10.1145/3772318.3793418",
+  "ok": true,
+  "type": "doi",
+  "title": "Towards Understanding the Design of Shared Bodily Control via Exoskeleton-based Play",
+  "year": 2026,
+  "venue": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3772318.3793418"
+ },
+ "video:youtube:57izT0UZ77M": {
+  "url": "https://www.youtube.com/watch?v=57izT0UZ77M",
+  "ok": true,
+  "platform": "youtube",
+  "id": "57izT0UZ77M",
+  "title": "JumpMod: Haptic Backpack that Modifies Users’ Perceived Jump",
+  "author": "HCintegration",
+  "thumbnail": "https://i.ytimg.com/vi/57izT0UZ77M/hqdefault.jpg"
+ },
+ "doi:10.1145/3544548.3580764": {
+  "doi": "10.1145/3544548.3580764",
+  "ok": true,
+  "type": "doi",
+  "title": "JumpMod: Haptic Backpack that Modifies Users’ Perceived Jump",
+  "year": 2023,
+  "venue": "Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3544548.3580764"
+ },
+ "video:youtube:Oor3mQaUiHg": {
+  "url": "https://www.youtube.com/watch?v=Oor3mQaUiHg",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Oor3mQaUiHg",
+  "title": "超人スポーツ協会 / Superhuman Sports Society -official movie-",
+  "author": "超人スポーツプロジェクトSuperhumanSportsProject",
+  "thumbnail": "https://i.ytimg.com/vi/Oor3mQaUiHg/hqdefault.jpg"
+ },
+ "img:https://superhuman-sports.org/assets/images/common/bnr_1.jpg": {
+  "url": "https://superhuman-sports.org/assets/images/common/bnr_1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1109/mprv.2017.35": {
+  "doi": "10.1109/mprv.2017.35",
+  "ok": true,
+  "type": "doi",
+  "title": "Superhuman Sports: Applying Human Augmentation to Physical Exercise",
+  "year": 2017,
+  "venue": "IEEE Pervasive Computing",
+  "url": "https://doi.org/10.1109/mprv.2017.35"
+ },
+ "ytmax:R2MntBUwUxY": {
+  "url": "https://i.ytimg.com/vi/R2MntBUwUxY/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:MhpV4sLgVEE": {
+  "url": "https://i.ytimg.com/vi/MhpV4sLgVEE/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:ygRNoieAnzI": {
+  "url": "https://i.ytimg.com/vi/ygRNoieAnzI/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:1Un4MFR-vNI": {
+  "url": "https://i.ytimg.com/vi/1Un4MFR-vNI/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:0UBf6l3mO9g": {
+  "url": "https://i.ytimg.com/vi/0UBf6l3mO9g/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:GLq7edATaFo": {
+  "url": "https://i.ytimg.com/vi/GLq7edATaFo/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:BhO-fuViomM": {
+  "url": "https://i.ytimg.com/vi/BhO-fuViomM/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:JQ0iMulicgg": {
+  "url": "https://i.ytimg.com/vi/JQ0iMulicgg/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:kSUrKWTYF6g": {
+  "url": "https://i.ytimg.com/vi/kSUrKWTYF6g/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:h2nNKbO9-Eg": {
+  "url": "https://i.ytimg.com/vi/h2nNKbO9-Eg/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:aS5di0wCD1I": {
+  "url": "https://i.ytimg.com/vi/aS5di0wCD1I/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:pjsHGQ0LB-0": {
+  "url": "https://i.ytimg.com/vi/pjsHGQ0LB-0/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:JVr9q2BW6rI": {
+  "url": "https://i.ytimg.com/vi/JVr9q2BW6rI/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:5utDR8VWxms": {
+  "url": "https://i.ytimg.com/vi/5utDR8VWxms/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:6P0Vsg81Om0": {
+  "url": "https://i.ytimg.com/vi/6P0Vsg81Om0/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:Q9gis7-Jads": {
+  "url": "https://i.ytimg.com/vi/Q9gis7-Jads/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:UiRkzZEMDxU": {
+  "url": "https://i.ytimg.com/vi/UiRkzZEMDxU/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:rryjPdKMxO4": {
+  "url": "https://i.ytimg.com/vi/rryjPdKMxO4/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:kc-TdMjuJRU": {
+  "url": "https://i.ytimg.com/vi/kc-TdMjuJRU/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:hmBgJjfjG7Q": {
+  "url": "https://i.ytimg.com/vi/hmBgJjfjG7Q/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:VmtrvkGXBn0": {
+  "url": "https://i.ytimg.com/vi/VmtrvkGXBn0/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:kwb0DqrDm4g": {
+  "url": "https://i.ytimg.com/vi/kwb0DqrDm4g/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:0CewnVzOg5w": {
+  "url": "https://i.ytimg.com/vi/0CewnVzOg5w/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:xrHpvKjJuCI": {
+  "url": "https://i.ytimg.com/vi/xrHpvKjJuCI/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:RGjMUw03Bv0": {
+  "url": "https://i.ytimg.com/vi/RGjMUw03Bv0/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:UD_LwZD2Kls": {
+  "url": "https://i.ytimg.com/vi/UD_LwZD2Kls/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:GKSCmkCE5og": {
+  "url": "https://i.ytimg.com/vi/GKSCmkCE5og/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:Tr1-IhEhXYQ": {
+  "url": "https://i.ytimg.com/vi/Tr1-IhEhXYQ/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:Nrc7gH6dydw": {
+  "url": "https://i.ytimg.com/vi/Nrc7gH6dydw/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:KFyZQfqaXhE": {
+  "url": "https://i.ytimg.com/vi/KFyZQfqaXhE/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:1GBLk2fN6ao": {
+  "url": "https://i.ytimg.com/vi/1GBLk2fN6ao/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:myKWktRTNf0": {
+  "url": "https://i.ytimg.com/vi/myKWktRTNf0/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:D7wiPQUDm94": {
+  "url": "https://i.ytimg.com/vi/D7wiPQUDm94/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:MpVxFC3npEc": {
+  "url": "https://i.ytimg.com/vi/MpVxFC3npEc/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:5o2wPy5hl0w": {
+  "url": "https://i.ytimg.com/vi/5o2wPy5hl0w/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:CNR2gLKnd0g": {
+  "url": "https://i.ytimg.com/vi/CNR2gLKnd0g/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:I0lmSYP7OcM": {
+  "url": "https://i.ytimg.com/vi/I0lmSYP7OcM/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:0po8YOA-17U": {
+  "url": "https://i.ytimg.com/vi/0po8YOA-17U/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:4c1lqFXHvqI": {
+  "url": "https://i.ytimg.com/vi/4c1lqFXHvqI/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:0xPMpKxd1R8": {
+  "url": "https://i.ytimg.com/vi/0xPMpKxd1R8/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:Ow_RISC2S0A": {
+  "url": "https://i.ytimg.com/vi/Ow_RISC2S0A/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:EOqN_BRbSWU": {
+  "url": "https://i.ytimg.com/vi/EOqN_BRbSWU/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:sbmYBUSuM48": {
+  "url": "https://i.ytimg.com/vi/sbmYBUSuM48/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:gQ3qBUIj7D4": {
+  "url": "https://i.ytimg.com/vi/gQ3qBUIj7D4/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:A49aAYMUd9M": {
+  "url": "https://i.ytimg.com/vi/A49aAYMUd9M/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:GbSzwxNmYz0": {
+  "url": "https://i.ytimg.com/vi/GbSzwxNmYz0/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:On738nXm5AM": {
+  "url": "https://i.ytimg.com/vi/On738nXm5AM/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:k5e4mXQLq54": {
+  "url": "https://i.ytimg.com/vi/k5e4mXQLq54/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:JQUndFOJ-s8": {
+  "url": "https://i.ytimg.com/vi/JQUndFOJ-s8/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:QaHZ1ZDO-04": {
+  "url": "https://i.ytimg.com/vi/QaHZ1ZDO-04/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:XWaPYYrG3Rw": {
+  "url": "https://i.ytimg.com/vi/XWaPYYrG3Rw/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:9XBoZyfB8hY": {
+  "url": "https://i.ytimg.com/vi/9XBoZyfB8hY/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:HMkcscpBgOA": {
+  "url": "https://i.ytimg.com/vi/HMkcscpBgOA/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:f18llWuvQe0": {
+  "url": "https://i.ytimg.com/vi/f18llWuvQe0/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:nXcPkRxc4SM": {
+  "url": "https://i.ytimg.com/vi/nXcPkRxc4SM/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:J4tJ1FZ-QoA": {
+  "url": "https://i.ytimg.com/vi/J4tJ1FZ-QoA/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:KoC1iTOmYTg": {
+  "url": "https://i.ytimg.com/vi/KoC1iTOmYTg/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:13xJIJd4R54": {
+  "url": "https://i.ytimg.com/vi/13xJIJd4R54/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:KCnPPuS4kjA": {
+  "url": "https://i.ytimg.com/vi/KCnPPuS4kjA/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:ewS73Hw1q70": {
+  "url": "https://i.ytimg.com/vi/ewS73Hw1q70/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:IDmlYpVi5GM": {
+  "url": "https://i.ytimg.com/vi/IDmlYpVi5GM/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:7dI4fbLqO-Q": {
+  "url": "https://i.ytimg.com/vi/7dI4fbLqO-Q/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:TsMne21CglM": {
+  "url": "https://i.ytimg.com/vi/TsMne21CglM/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:57izT0UZ77M": {
+  "url": "https://i.ytimg.com/vi/57izT0UZ77M/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:Oor3mQaUiHg": {
+  "url": "https://i.ytimg.com/vi/Oor3mQaUiHg/maxresdefault.jpg",
   "ok": true,
   "type": "image",
   "content_type": "image/jpeg"

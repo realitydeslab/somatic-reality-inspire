@@ -413,7 +413,8 @@
    "field": "movement",
    "sub": "performance",
    "also": [
-    "affect"
+    "affect",
+    "augmented"
    ],
    "modalities": [
     "muscle",
@@ -457,9 +458,10 @@
    ],
    "title": "Corpus Nil",
    "year": 2016,
-   "field": "movement",
-   "sub": "performance",
+   "field": "augmented",
+   "sub": "cyborg-art",
    "also": [
+    "movement",
     "machines-xr"
    ],
    "modalities": [
@@ -468,9 +470,9 @@
     "light-vision"
    ],
    "lenses": [
+    "extended-body",
     "more-than-human",
-    "body-politics",
-    "first-person"
+    "body-politics"
    ],
    "kind": "performance",
    "description": "A performer moves slowly in near darkness while an autonomous system listens to his muscles' electrical and acoustic signals and answers with sound and light.",
@@ -600,19 +602,21 @@
    ],
    "title": "Third Hand",
    "year": 1980,
-   "field": "movement",
-   "sub": "somatic-art",
+   "field": "augmented",
+   "sub": "cyborg-art",
    "also": [
+    "movement",
     "machines-xr"
    ],
    "modalities": [
+    "extra-body",
     "muscle",
     "movement"
    ],
    "lenses": [
+    "extended-body",
     "first-person",
-    "estrangement",
-    "more-than-human"
+    "estrangement"
    ],
    "kind": "performance",
    "description": "A robotic right hand attached to Stelarc's arm is driven by muscle signals from his abdomen and legs; he spent years learning to write with three hands.",
@@ -643,19 +647,21 @@
    ],
    "title": "Ping Body",
    "year": 1996,
-   "field": "movement",
-   "sub": "somatic-art",
+   "field": "augmented",
+   "sub": "cyborg-art",
    "also": [
+    "movement",
     "machines-xr"
    ],
    "modalities": [
+    "electrical",
     "muscle",
     "movement"
    ],
    "lenses": [
+    "extended-body",
     "estrangement",
-    "more-than-human",
-    "body-politics"
+    "more-than-human"
    ],
    "kind": "performance",
    "description": "Internet traffic moves Stelarc's body: network ping times are turned into electrical muscle stimulation, so his arms and legs jerk without his intention.",
@@ -987,7 +993,10 @@
    ],
    "video": {
     "url": "https://www.youtube.com/watch?v=8-uShAVpDLM"
-   }
+   },
+   "also": [
+    "augmented"
+   ]
   },
   {
    "id": "rebecca-horn--pencil-mask",
@@ -1022,7 +1031,10 @@
    "images": [
     "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-600_lfxgvMS.jpg"
    ],
-   "source_url": "https://www.tate.org.uk/art/artworks/horn-pencil-mask-t07847"
+   "source_url": "https://www.tate.org.uk/art/artworks/horn-pencil-mask-t07847",
+   "also": [
+    "augmented"
+   ]
   },
   {
    "id": "char-davies--osmose",

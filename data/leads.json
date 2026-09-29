@@ -128,6 +128,294 @@
   "batch": "affect-biodata"
  },
  {
+  "name": "Paul B. Preciado — Testo Junkie (2008)",
+  "why": "First-person account of self-administered testosterone as a chemical prosthesis; fits transhuman-thought or intimate.",
+  "link": "https://en.wikipedia.org/wiki/Testo_Junkie",
+  "found_via": "donna-haraway",
+  "status": "open",
+  "batch": "augment-art-theory"
+ },
+ {
+  "name": "Ai Hasegawa — I Wanna Deliver a Dolphin… (2013)",
+  "why": "Speculative design of a human body gestating another species; East Asian transhuman body design.",
+  "link": "https://www.youtube.com/results?search_query=Ai+Hasegawa+I+Wanna+Deliver+a+Dolphin",
+  "found_via": "sputniko",
+  "status": "open",
+  "batch": "augment-art-theory"
+ },
+ {
+  "name": "Mona Hatoum — Corps étranger (1994)",
+  "why": "Endoscopic video journey through the artist's own body; the inner body made visible by technology.",
+  "link": "https://en.wikipedia.org/wiki/Mona_Hatoum",
+  "found_via": "stelarc",
+  "status": "open",
+  "batch": "augment-art-theory"
+ },
+ {
+  "name": "Cyborg Foundation (Harbisson & Ribas, 2010)",
+  "why": "Organisation defending cyborg rights; better as a Resources entry (data/orgs) than as a work.",
+  "link": "https://en.wikipedia.org/wiki/Cyborg_Foundation",
+  "found_via": "neil-harbisson",
+  "status": "open",
+  "batch": "augment-art-theory"
+ },
+ {
+  "name": "Cyborg Nest — North Sense (2016)",
+  "why": "Implanted north-sensing vibration device; belongs to augment-hci (new-senses).",
+  "link": "https://www.youtube.com/watch?v=0xPMpKxd1R8",
+  "found_via": "moon-ribas",
+  "status": "open",
+  "batch": "augment-art-theory"
+ },
+ {
+  "name": "Jillian Weise — The Dawn of the Tryborg (NYT, 2016)",
+  "why": "Disabled poet's critique of able-bodied 'cyborg' talk; strong crip counterpoint.",
+  "link": "https://www.poetryfoundation.org/poets/jillian-weise",
+  "found_via": "laura-forlano",
+  "status": "open",
+  "batch": "augment-art-theory"
+ },
+ {
+  "name": "Alison Kafer — Feminist, Queer, Crip (2013)",
+  "why": "Chapter on the cyborg and disability politics (DOI 10.2979/6841.0).",
+  "link": "https://doi.org/10.2979/6841.0",
+  "found_via": "laura-forlano",
+  "status": "open",
+  "batch": "augment-art-theory"
+ },
+ {
+  "name": "Laura Forlano & Danya Glabau — Cyborg (MIT Press Essential Knowledge, 2024)",
+  "why": "Recent short book on cyborgs from disability and feminist perspectives.",
+  "link": "https://www.youtube.com/watch?v=kU5SjSdcMuk",
+  "found_via": "laura-forlano",
+  "status": "open",
+  "batch": "augment-art-theory"
+ },
+ {
+  "name": "Yuk Hui — The Question Concerning Technology in China (2016)",
+  "why": "Cosmotechnics: a Chinese-philosophy answer to Stiegler; could anchor an East Asian view of technics and body.",
+  "link": "https://en.wikipedia.org/wiki/Yuk_Hui",
+  "found_via": "bernard-stiegler",
+  "status": "open",
+  "batch": "augment-art-theory"
+ },
+ {
+  "name": "David Le Breton — L'adieu au corps (1999)",
+  "why": "French anthropologist's critique of techno-cultural contempt for the body.",
+  "link": "https://fr.wikipedia.org/wiki/David_Le_Breton",
+  "found_via": "hans-moravec",
+  "status": "open",
+  "batch": "augment-art-theory"
+ },
+ {
+  "name": "Ray Kurzweil — The Singularity Is Near (2005)",
+  "why": "Second mind-uploading foil; Moravec already covers the dualist position.",
+  "link": "https://en.wikipedia.org/wiki/The_Singularity_Is_Near",
+  "found_via": "hans-moravec",
+  "status": "open",
+  "batch": "augment-art-theory"
+ },
+ {
+  "name": "Marco Donnarumma — Amygdala (2017)",
+  "why": "AI robotic limb performing a skin-cutting ritual; more machine than felt body, skipped.",
+  "link": "https://marcodonnarumma.com/works/amygdala/",
+  "found_via": "marco-donnarumma",
+  "status": "open",
+  "batch": "augment-art-theory"
+ },
+ {
+  "name": "Stelarc — Propel / Muscle Machine / Prosthetic Head",
+  "why": "Further Stelarc works with video on stelarc.org; skipped for salience.",
+  "link": "https://stelarc.org/projects.php",
+  "found_via": "stelarc",
+  "status": "open",
+  "batch": "augment-art-theory"
+ },
+ {
+  "name": "Frank Parietti & H. Harry Asada — Supernumerary Robotic Limbs (IEEE T-RO 2016)",
+  "why": "Canonical SRL engineering work (MIT d'Arbeloff Lab); little on felt experience, so left out.",
+  "link": "https://doi.org/10.1109/tro.2016.2520486",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "augment-hci"
+ },
+ {
+  "name": "Kaspar, König et al. — The experience of new sensorimotor contingencies by sensory augmentation (2014)",
+  "why": "First-person reports from long-term feelSpace wearers; folded into the feelSpace Belt entry, could be its own paper.",
+  "link": "https://doi.org/10.1016/j.concog.2014.06.006",
+  "found_via": "saskia-nagel",
+  "status": "open",
+  "batch": "augment-hci"
+ },
+ {
+  "name": "König et al. — Learning New Sensorimotor Contingencies (PLOS ONE 2016)",
+  "why": "Long-term feelSpace study with brain imaging and conscious perception.",
+  "link": "https://doi.org/10.1371/journal.pone.0166647",
+  "found_via": "saskia-nagel",
+  "status": "open",
+  "batch": "augment-hci"
+ },
+ {
+  "name": "Cindy Hsin-Liu Kao et al. — DuoSkin (ISWC 2016)",
+  "why": "Gold-leaf on-skin interfaces; folded into Hybrid Body Craft, no creator-owned video found.",
+  "link": "https://doi.org/10.1145/2971763.2971777",
+  "found_via": "cindy-hsin-liu-kao",
+  "status": "open",
+  "batch": "augment-hci"
+ },
+ {
+  "name": "Jun Nishida et al. — DigituSync (UIST 2022)",
+  "why": "Dual-user passive exoskeleton glove that shares hand gestures between two people.",
+  "link": "https://doi.org/10.1145/3526113.3545630",
+  "found_via": "jun-nishida",
+  "status": "open",
+  "batch": "augment-hci"
+ },
+ {
+  "name": "Jun Nishida, Shunichi Kasahara, Kenji Suzuki — Wired Muscle (SIGGRAPH 2017 E-Tech)",
+  "why": "Early EMS-shared reaction work preceding Preemptive Action.",
+  "link": "https://doi.org/10.1145/3084822.3084844",
+  "found_via": "jun-nishida",
+  "status": "open",
+  "batch": "augment-hci"
+ },
+ {
+  "name": "Florian Mueller et al. — Towards Designing Bodily Integrated Play (TEI 2020)",
+  "why": "Design strategies for play with extra limbs and ingestibles; video IKC_3sm0MCY.",
+  "link": "https://doi.org/10.1145/3374920.3374931",
+  "found_via": "florian-mueller",
+  "status": "open",
+  "batch": "augment-hci"
+ },
+ {
+  "name": "Josh Andres et al. — Introducing Peripheral Awareness as a Neurological State for Human-computer Integration (CHI 2020)",
+  "why": "EEG-driven eBike integration; SIGCHI video not embeddable.",
+  "link": "https://doi.org/10.1145/3313831.3376128",
+  "found_via": "josh-andres",
+  "status": "open",
+  "batch": "augment-hci"
+ },
+ {
+  "name": "Florian Mueller et al. — Brain-Computer Integration (TOCHI 2023)",
+  "why": "Framework for BCIs from an integration perspective.",
+  "link": "https://doi.org/10.1145/3603621",
+  "found_via": "florian-mueller",
+  "status": "open",
+  "batch": "augment-hci"
+ },
+ {
+  "name": "Rakesh Patibanda et al. — Towards Understanding the Design of Body-Actuated Play (CHI PLAY EA 2022) and AI in the Shell (CHI EA 2023)",
+  "why": "Further Exertion Games Lab EMS-play and integrated-embodiment papers.",
+  "link": "https://doi.org/10.1145/3505270.3558367",
+  "found_via": "rakesh-patibanda",
+  "status": "open",
+  "batch": "augment-hci"
+ },
+ {
+  "name": "Aryan Saini et al. — PneuExtensio (DIS 2024)",
+  "why": "Pneumatic bodily extensions to facilitate embodiment; sibling of PneuMa.",
+  "link": "https://doi.org/10.1145/3656156.3665136",
+  "found_via": "aryan-saini",
+  "status": "open",
+  "batch": "augment-hci"
+ },
+ {
+  "name": "Pedro Lopes — What if the 'I' in HCI stands for Integration? (UIST 2025 adjunct)",
+  "why": "Recent position statement on integration; check whether it engages felt experience.",
+  "link": "https://doi.org/10.1145/3746058.3762829",
+  "found_via": "pedro-lopes",
+  "status": "open",
+  "batch": "augment-hci"
+ },
+ {
+  "name": "Jas Brooks et al. — Trigeminal-based Temperature Illusions (CHI 2020)",
+  "why": "Warmth and coolness felt via the trigeminal nerve; sibling of Stereo-Smell.",
+  "link": "",
+  "found_via": "jas-brooks",
+  "status": "open",
+  "batch": "augment-hci"
+ },
+ {
+  "name": "Hagiwara, Kitazaki et al. — Concurrent sharing of an avatar body by two individuals in VR",
+  "why": "Two people co-controlling one avatar body ('joint avatar'); video YX-jTVRo5lk.",
+  "link": "https://www.youtube.com/watch?v=YX-jTVRo5lk",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "augment-hci"
+ },
+ {
+  "name": "Abboud, Amedi et al. — EyeMusic (2014)",
+  "why": "Colour-to-music sensory substitution from Amedi's lab.",
+  "link": "https://doi.org/10.3233/rnn-130338",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "augment-hci"
+ },
+ {
+  "name": "meleap — HADO AR sport",
+  "why": "Commercial augmented-reality dodgeball linked to Superhuman Sports; weak felt-body angle.",
+  "link": "https://hado-official.com",
+  "found_via": "masahiko-inami",
+  "status": "open",
+  "batch": "augment-hci"
+ },
+ {
+  "name": "Ando et al. — Bubble Jumper (Superhuman Sports Design Challenge 2018)",
+  "why": "Signature superhuman sport; folded into Superhuman Sports.",
+  "link": "https://doi.org/10.1145/3210299.3210301",
+  "found_via": "masahiko-inami",
+  "status": "open",
+  "batch": "augment-hci"
+ },
+ {
+  "name": "MHD Yamen Saraiji — MetaArms / SlideFusion",
+  "why": "Further Keio body-sharing and extra-arm systems.",
+  "link": "https://www.youtube.com/watch?v=20YL8gFW1QU",
+  "found_via": "mhd-yamen-saraiji",
+  "status": "open",
+  "batch": "augment-hci"
+ },
+ {
+  "name": "Ory Lab — OriHime avatar robots / Avatar Robot Cafe DAWN",
+  "why": "People with ALS and other disabilities work through avatar robots; care and telexistence angle.",
+  "link": "",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "augment-hci"
+ },
+ {
+  "name": "Max Ortiz Catalan — osseointegrated neuromusculoskeletal arm prosthesis with sensory feedback",
+  "why": "Prosthesis felt as own through touch feedback (Science Translational Medicine 2020).",
+  "link": "",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "augment-hci"
+ },
+ {
+  "name": "Shunichi Kasahara — Superception / Cybernetic Humanity (talks)",
+  "why": "Research programme on engineering the sense of self; talk videos 3PiIs8eQhAk, GJktqwYBgeM.",
+  "link": "https://www.youtube.com/watch?v=3PiIs8eQhAk",
+  "found_via": "shunichi-kasahara",
+  "status": "open",
+  "batch": "augment-hci"
+ },
+ {
+  "name": "Clode et al. — Third Thumb usability across a large and diverse sample (Nature Communications 2024)",
+  "why": "Science-Museum-scale study of Third Thumb learning; DOI not yet verified.",
+  "link": "https://www.youtube.com/watch?v=UI-t21QcXM4",
+  "found_via": "dani-clode",
+  "status": "open",
+  "batch": "augment-hci"
+ },
+ {
+  "name": "Somaesthetic framing of augmentation (gap)",
+  "why": "No Höök-group paper found that uses somaesthetics directly to reason about extra limbs or EMS; closest are Mueller et al.'s bodily-integration papers and Reality Design Lab's eco-somatic augmentation paper.",
+  "link": "",
+  "found_via": "florian-mueller",
+  "status": "open",
+  "batch": "augment-hci"
+ },
+ {
   "name": "Yang Rur-bin (杨儒宾), 儒家身体观 (1996)",
   "why": "Key Taiwanese study of the Confucian body (践形, 气, 修身); no verifiable publisher page or DOI found this round.",
   "link": "https://en.wikipedia.org/wiki/Yang_Rur-bin",

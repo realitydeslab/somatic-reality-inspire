@@ -1,0 +1,3263 @@
+{
+ "batch": "augment-hci",
+ "creators": [
+  {
+   "id": "dani-clode",
+   "name": "Dani Clode",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Augmentation designer working with the Plasticity Lab, MRC Cognition and Brain Sciences Unit, University of Cambridge",
+   "role_zh": "增强设计师，与剑桥大学 MRC 认知与脑科学研究所 Plasticity Lab 合作",
+   "based": "Cambridge, UK",
+   "based_zh": "剑桥，英国",
+   "bio": "Designer who made the Third Thumb as a Royal College of Art graduate project and then developed it with neuroscientists into a research device.",
+   "bio_zh": "设计师，在皇家艺术学院的毕业项目中做出 Third Thumb，之后与神经科学家合作把它发展为研究设备。",
+   "why": "She treats prosthetics as extensions rather than replacements, and her device became the standard probe for how the brain takes in an extra body part.",
+   "why_zh": "她把假体看作延伸而不是替代；她的设备成了研究大脑如何接纳一个额外身体部位的常用工具。",
+   "disciplines": [
+    "design",
+    "health"
+   ],
+   "links": {},
+   "connected_to": [
+    "tamar-makin",
+    "paulina-kieliba"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "paulina-kieliba",
+   "name": "Paulina Kieliba",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Cognitive neuroscientist; formerly Institute of Cognitive Neuroscience, University College London",
+   "role_zh": "认知神经科学家；曾任职于伦敦大学学院认知神经科学研究所",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "bio": "Neuroscientist who led the first study of how days of wearing a robotic extra thumb change the brain's map of the hand.",
+   "bio_zh": "神经科学家，主导了第一项关于连续数天佩戴机器人额外拇指如何改变大脑手部表征的研究。",
+   "why": "Her study shows that augmentation is felt in the biological body too, not only in the device.",
+   "why_zh": "她的研究表明，增强不仅发生在设备上，也会被原本的身体感受到。",
+   "disciplines": [
+    "health"
+   ],
+   "links": {},
+   "connected_to": [
+    "tamar-makin",
+    "dani-clode"
+   ],
+   "discovered_via": "dani-clode"
+  },
+  {
+   "id": "tamar-makin",
+   "name": "Tamar Makin",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Cognitive Neuroscience, MRC Cognition and Brain Sciences Unit, University of Cambridge; leads the Plasticity Lab",
+   "role_zh": "剑桥大学 MRC 认知与脑科学研究所认知神经科学教授，Plasticity Lab 负责人",
+   "based": "Cambridge, UK",
+   "based_zh": "剑桥，英国",
+   "bio": "Neuroscientist who studies body representation in amputees, prosthesis users and people wearing augmentation devices.",
+   "bio_zh": "神经科学家，研究截肢者、假体使用者与增强设备佩戴者的身体表征。",
+   "why": "She asks whether technology can ever be felt as part of the body, and what the brain gives up to make room for it.",
+   "why_zh": "她追问技术能否真正被感受为身体的一部分，以及大脑为容纳它要付出什么。",
+   "disciplines": [
+    "health"
+   ],
+   "links": {
+    "site": "https://www.plasticity-lab.com"
+   },
+   "connected_to": [
+    "dani-clode",
+    "paulina-kieliba"
+   ],
+   "discovered_via": "dani-clode"
+  },
+  {
+   "id": "junichi-nabeshima",
+   "name": "Junichi Nabeshima",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, Embodied Media Project, Keio University Graduate School of Media Design (KMD)",
+   "role_zh": "庆应义塾大学媒体设计研究科（KMD）Embodied Media 项目研究者",
+   "based": "Yokohama, JP",
+   "based_zh": "横滨，日本",
+   "bio": "Designer-researcher who built Arque, a wearable robotic tail, with Yamen Saraiji and Kouta Minamizawa.",
+   "bio_zh": "设计研究者，与 Yamen Saraiji、南泽孝太一起制作了可穿戴机器人尾巴 Arque。",
+   "why": "Arque gives a human a body part that humans lost in evolution and asks how balance feels with it.",
+   "why_zh": "Arque 让人重新拥有进化中失去的身体部位，并追问有了它之后平衡是什么感觉。",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "connected_to": [
+    "mhd-yamen-saraiji",
+    "kouta-minamizawa"
+   ],
+   "discovered_via": "kouta-minamizawa"
+  },
+  {
+   "id": "mhd-yamen-saraiji",
+   "name": "MHD Yamen Saraiji",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher in telepresence and body augmentation; formerly Keio University Graduate School of Media Design (Embodied Media Project)",
+   "role_zh": "远程临场与身体增强研究者；曾任职于庆应义塾大学媒体设计研究科 Embodied Media 项目",
+   "based": "Tokyo, JP",
+   "based_zh": "东京，日本",
+   "bio": "Syrian-born researcher who built telepresence robots and extra limbs at Keio KMD, including Fusion, MetaArms and Arque.",
+   "bio_zh": "出生于叙利亚的研究者，在庆应 KMD 制作了远程临场机器人与额外肢体，包括 Fusion、MetaArms 和 Arque。",
+   "why": "His systems let two people share one body, or one person carry more limbs, and so make body ownership a design material.",
+   "why_zh": "他的系统让两个人共享一个身体，或让一个人拥有更多肢体，从而把身体归属感变成设计材料。",
+   "disciplines": [
+    "hci",
+    "engineering"
+   ],
+   "links": {},
+   "connected_to": [
+    "kouta-minamizawa",
+    "tomoya-sasaki",
+    "junichi-nabeshima"
+   ],
+   "discovered_via": "kouta-minamizawa"
+  },
+  {
+   "id": "masahiko-inami",
+   "name": "Masahiko Inami",
+   "name_zh": "稻见昌彦",
+   "kind": "person",
+   "role": "Professor, Research Center for Advanced Science and Technology (RCAST), University of Tokyo; director of the JST ERATO Inami JIZAI Body Project",
+   "role_zh": "东京大学先端科学技术研究中心（RCAST）教授；JST ERATO 稻见自在身体项目负责人",
+   "based": "Tokyo, JP",
+   "based_zh": "东京，日本",
+   "bio": "Augmented-human researcher known for optical camouflage, co-founder of the Superhuman Sports Society, and author of the JIZAI Body concept.",
+   "bio_zh": "增强人类研究者，以光学迷彩闻名，超人体育协会的共同发起人，提出了“自在身体”（JIZAI Body）的概念。",
+   "why": "He frames augmentation around jizai (freedom and ease), a body that can move and extend as one wishes, which brings an East Asian ideal of freedom into cyborg design.",
+   "why_zh": "他以“自在”来理解增强：一个能随心移动与延伸的身体，把东亚的自由理想带入赛博格设计。",
+   "disciplines": [
+    "hci",
+    "engineering"
+   ],
+   "links": {
+    "site": "https://jizai-body.com"
+   },
+   "connected_to": [
+    "kouta-minamizawa",
+    "tomoya-sasaki",
+    "nahoko-yamamura",
+    "kai-kunze"
+   ],
+   "discovered_via": "tomoya-sasaki"
+  },
+  {
+   "id": "nahoko-yamamura",
+   "name": "Nahoko Yamamura",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Designer-researcher, University of Tokyo; JIZAI ARMS team of the JIZAI Body Project",
+   "role_zh": "东京大学设计研究者；自在身体项目 JIZAI ARMS 团队成员",
+   "based": "Tokyo, JP",
+   "based_zh": "东京，日本",
+   "bio": "Researcher who led the collaborative design of JIZAI ARMS, a wearable base with detachable robot arms that wearers can exchange.",
+   "bio_zh": "研究者，主导了 JIZAI ARMS 的协作设计：一个可穿戴底座，配有可拆卸、可在佩戴者之间交换的机械臂。",
+   "why": "Her work treats extra limbs as social objects that can be shared, not just personal tools.",
+   "why_zh": "她的研究把额外肢体看作可以分享的社会性物件，而不只是个人工具。",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "connected_to": [
+    "masahiko-inami"
+   ],
+   "discovered_via": "masahiko-inami"
+  },
+  {
+   "id": "domenico-prattichizzo",
+   "name": "Domenico Prattichizzo",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Robotics, University of Siena; head of SIRSLab",
+   "role_zh": "锡耶纳大学机器人学教授，SIRSLab 负责人",
+   "based": "Siena, IT",
+   "based_zh": "锡耶纳，意大利",
+   "bio": "Roboticist who developed the Robotic Sixth Finger, a wearable extra finger used to restore grasp after stroke.",
+   "bio_zh": "机器人学家，开发了“机器人第六指”，一种用于中风后恢复抓握的可穿戴额外手指。",
+   "why": "His extra finger works with a body that has lost function, so augmentation and rehabilitation meet.",
+   "why_zh": "他的额外手指服务于失去功能的身体，让增强与康复相遇。",
+   "disciplines": [
+    "engineering",
+    "health"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "arvid-guterstam",
+   "name": "Arvid Guterstam",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Neuroscientist and physician; formerly Brain, Body and Self Laboratory, Karolinska Institutet",
+   "role_zh": "神经科学家与医生；曾任职于卡罗林斯卡学院“脑、身体与自我实验室”",
+   "based": "Stockholm, SE",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "bio": "Researcher in Henrik Ehrsson's lab who produced the illusion of owning a third arm and other body-ownership illusions.",
+   "bio_zh": "Henrik Ehrsson 实验室的研究者，创造了“拥有第三只手臂”等身体归属错觉。",
+   "why": "His experiments show that the felt body can hold more limbs than it has.",
+   "why_zh": "他的实验表明，被感受的身体可以容纳比实际更多的肢体。",
+   "disciplines": [
+    "health"
+   ],
+   "links": {},
+   "connected_to": [
+    "henrik-ehrsson",
+    "valeria-petkova"
+   ],
+   "discovered_via": "henrik-ehrsson"
+  },
+  {
+   "id": "andrea-stevenson-won",
+   "name": "Andrea Stevenson Won",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Associate Professor of Communication, Cornell University; director of the Virtual Embodiment Lab",
+   "role_zh": "康奈尔大学传播学副教授，Virtual Embodiment Lab 负责人",
+   "based": "Ithaca, US",
+   "based_zh": "伊萨卡，美国",
+   "bio": "VR researcher who, with Jeremy Bailenson and Jaron Lanier, tested how people learn to move avatars with extra or rearranged limbs.",
+   "bio_zh": "虚拟现实研究者，与 Jeremy Bailenson、Jaron Lanier 一起测试人如何学会操控多出肢体或肢体被重新排列的化身。",
+   "why": "Her 'homuncular flexibility' studies show how fast the body schema reorganises around a new body plan.",
+   "why_zh": "她的“小人灵活性”研究表明，身体图式会很快围绕一个新的身体结构重新组织。",
+   "disciplines": [
+    "hci",
+    "health"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "hugh-herr",
+   "name": "Hugh Herr",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Media Arts and Sciences, MIT Media Lab; head of the Biomechatronics group",
+   "role_zh": "麻省理工学院媒体实验室媒体艺术与科学教授，Biomechatronics 组负责人",
+   "based": "Cambridge, US",
+   "based_zh": "剑桥（马萨诸塞州），美国",
+   "bio": "Climber and bilateral amputee who builds bionic legs; his group developed the agonist-antagonist myoneural interface (AMI), a surgery that lets prosthesis users feel their artificial joint.",
+   "bio_zh": "攀岩者与双腿截肢者，研发仿生腿；他的团队发展了“主动肌-拮抗肌肌神经接口”（AMI），一种让假体使用者能感受到人工关节的手术方法。",
+   "why": "He argues that a prosthesis becomes part of the self only when it can be felt from within, through proprioception.",
+   "why_zh": "他认为，只有当假体能通过本体感被从内部感受到时，它才会成为自我的一部分。",
+   "disciplines": [
+    "engineering",
+    "health"
+   ],
+   "links": {
+    "site": "https://www.media.mit.edu/groups/biomechatronics/overview/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "aryan-saini",
+   "name": "Aryan Saini",
+   "name_zh": "",
+   "kind": "person",
+   "role": "HCI researcher, Exertion Games Lab, Monash University",
+   "role_zh": "莫纳什大学 Exertion Games Lab 人机交互研究者",
+   "based": "Melbourne, AU",
+   "based_zh": "墨尔本，澳大利亚",
+   "bio": "Researcher who designs pneumatic bodily extensions that gently move the wearer's ear, hand or arm in everyday situations.",
+   "bio_zh": "研究者，设计能在日常情境中轻轻移动佩戴者耳朵、手或手臂的气动身体延伸装置。",
+   "why": "His soft extensions ask how being moved a little changes bodily awareness.",
+   "why_zh": "他的柔性延伸装置追问：被轻轻带动一下，会怎样改变人对身体的觉察。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "florian-mueller",
+    "rakesh-patibanda"
+   ],
+   "discovered_via": "florian-mueller"
+  },
+  {
+   "id": "paul-bach-y-rita",
+   "name": "Paul Bach-y-Rita",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Neuroscientist and rehabilitation physician (1934–2006); University of Wisconsin–Madison",
+   "role_zh": "神经科学家与康复医生（1934–2006）；威斯康星大学麦迪逊分校",
+   "based": "Madison, US",
+   "based_zh": "麦迪逊，美国",
+   "bio": "Pioneer of sensory substitution who, from 1969, let blind people perceive images through touch on the back and later the tongue.",
+   "bio_zh": "感官替代的先驱，自 1969 年起让盲人通过背部、后来通过舌头上的触觉感知图像。",
+   "why": "He showed that 'we see with the brain, not the eyes': perception is learned through the body's active exploration.",
+   "why_zh": "他提出“我们用大脑而不是眼睛看”：知觉是通过身体的主动探索习得的。",
+   "disciplines": [
+    "health"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "peter-meijer",
+   "name": "Peter B. L. Meijer",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Dutch engineer; creator of The vOICe sensory substitution system",
+   "role_zh": "荷兰工程师，感官替代系统 The vOICe 的创造者",
+   "based": "Eindhoven, NL",
+   "based_zh": "埃因霍温，荷兰",
+   "bio": "Engineer at Philips Research who in 1992 published The vOICe, which turns camera images into soundscapes for blind users.",
+   "bio_zh": "飞利浦研究院工程师，1992 年发表 The vOICe，把摄像头画面转换成声音景观供盲人使用。",
+   "why": "Long-term users report visual-like experiences from sound, which makes The vOICe a test case for how senses are learned.",
+   "why_zh": "长期使用者报告从声音中获得类似视觉的体验，这让 The vOICe 成为研究感官如何习得的案例。",
+   "disciplines": [
+    "engineering"
+   ],
+   "links": {
+    "site": "https://www.seeingwithsound.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "saskia-nagel",
+   "name": "Saskia K. Nagel",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Applied Ethics, RWTH Aachen University; formerly Institute of Cognitive Science, University of Osnabrück",
+   "role_zh": "亚琛工业大学应用伦理学教授；曾任职于奥斯纳布吕克大学认知科学研究所",
+   "based": "Aachen, DE",
+   "based_zh": "亚琛，德国",
+   "bio": "Cognitive scientist and ethicist who, with Peter König's group in Osnabrück, first tested the feelSpace belt that lets wearers feel magnetic north.",
+   "bio_zh": "认知科学家与伦理学者，与奥斯纳布吕克 Peter König 团队一起首次测试了让佩戴者感受磁北的 feelSpace 腰带。",
+   "why": "The feelSpace studies show that a new sense changes how space itself feels, not only what one knows.",
+   "why_zh": "feelSpace 研究表明，一种新感官改变的是空间本身的感受，而不只是人所知道的信息。",
+   "disciplines": [
+    "health",
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://www.feelspace.de"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "david-eagleman",
+   "name": "David Eagleman",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Neuroscientist, Stanford University; co-founder of Neosensory",
+   "role_zh": "斯坦福大学神经科学家，Neosensory 联合创始人",
+   "based": "Palo Alto, US",
+   "based_zh": "帕洛阿尔托，美国",
+   "bio": "Neuroscientist and author who built the VEST, a vest that turns sound into vibration on the torso, and the wristband product Neosensory Buzz.",
+   "bio_zh": "神经科学家与作家，制作了把声音转换为躯干振动的 VEST 背心，以及腕带产品 Neosensory Buzz。",
+   "why": "He popularised the idea that the brain will learn to make sense of any data fed through the skin.",
+   "why_zh": "他普及了这样一个想法：通过皮肤输入的任何数据，大脑都能学会理解。",
+   "disciplines": [
+    "health"
+   ],
+   "links": {
+    "site": "https://eagleman.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "cyborg-nest",
+   "name": "Cyborg Nest",
+   "name_zh": "",
+   "kind": "company",
+   "role": "Company that made the North Sense wearable (founded 2016 by Liviu Babitz and Scott Cohen)",
+   "role_zh": "制作 North Sense 可穿戴设备的公司（2016 年由 Liviu Babitz 与 Scott Cohen 创立）",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "bio": "Start-up that sold the North Sense, a small device pierced onto the chest that vibrates when the wearer faces north.",
+   "bio_zh": "一家初创公司，销售 North Sense：一个穿刺固定在胸前、当佩戴者面向北方时振动的小装置。",
+   "why": "It offered a new sense as a consumer product and collected its users' first-person accounts of living with it.",
+   "why_zh": "它把新感官做成消费产品，并记录了使用者关于长期佩戴的第一人称叙述。",
+   "disciplines": [
+    "design"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "alvaro-cassinelli",
+   "name": "Alvaro Cassinelli",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Associate Professor, School of Creative Media, City University of Hong Kong; formerly Ishikawa Lab, University of Tokyo",
+   "role_zh": "香港城市大学创意媒体学院副教授；曾任职于东京大学石川实验室",
+   "based": "Hong Kong, CN",
+   "based_zh": "香港，中国",
+   "bio": "Uruguayan-born researcher and artist who made the Haptic Radar, a headband that lets wearers feel nearby objects on the skin of the head.",
+   "bio_zh": "出生于乌拉圭的研究者与艺术家，制作了 Haptic Radar：一个让佩戴者在头皮上感受到附近物体的头带。",
+   "why": "His 'extended skin' makes the space around the body a felt part of it.",
+   "why_zh": "他的“延展皮肤”让身体周围的空间成为身体被感受的一部分。",
+   "disciplines": [
+    "art",
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "hiromi-nakamura",
+   "name": "Hiromi Nakamura",
+   "name_zh": "中村裕美",
+   "kind": "person",
+   "role": "Researcher in electric taste, University of Tokyo; formerly Miyashita Lab, Meiji University",
+   "role_zh": "电味觉研究者，东京大学；曾就读于明治大学宫下实验室",
+   "based": "Tokyo, JP",
+   "based_zh": "东京，日本",
+   "bio": "Researcher who has spent more than a decade making taste changeable with weak electric currents, from Augmented Gustation (2011) to the Kirin Electric Salt Spoon.",
+   "bio_zh": "研究者，十余年来用微弱电流改变味觉，从 2011 年的“增强味觉”到麒麟的电盐勺。",
+   "why": "Her work treats taste, an intimate inner sense, as something technology can tune.",
+   "why_zh": "她的研究把味觉这种私密的内在感觉视为可以被技术调节的东西。",
+   "disciplines": [
+    "hci",
+    "health"
+   ],
+   "links": {},
+   "connected_to": [
+    "homei-miyashita"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "homei-miyashita",
+   "name": "Homei Miyashita",
+   "name_zh": "宫下芳明",
+   "kind": "person",
+   "role": "Professor, School of Science and Technology, Meiji University",
+   "role_zh": "明治大学理工学部教授",
+   "based": "Tokyo, JP",
+   "based_zh": "东京，日本",
+   "bio": "HCI researcher known for playful work on taste, smell and eating, including electric taste and the licking screen Taste the TV.",
+   "bio_zh": "人机交互研究者，以关于味觉、嗅觉与饮食的趣味研究闻名，包括电味觉与可舔的屏幕 Taste the TV。",
+   "why": "He turns the chemical senses, usually ignored by interfaces, into a place for design.",
+   "why_zh": "他把通常被界面忽视的化学感官变成设计的场所。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "hiromi-nakamura"
+   ],
+   "discovered_via": "hiromi-nakamura"
+  },
+  {
+   "id": "jas-brooks",
+   "name": "Jas Brooks",
+   "name_zh": "",
+   "kind": "person",
+   "role": "HCI researcher, Human Computer Integration Lab, University of Chicago",
+   "role_zh": "人机交互研究者，芝加哥大学人机融合实验室",
+   "based": "Chicago, US",
+   "based_zh": "芝加哥，美国",
+   "bio": "Researcher who builds interfaces for smell and temperature by stimulating the trigeminal nerve in the nose.",
+   "bio_zh": "研究者，通过刺激鼻腔内的三叉神经来制作嗅觉与温度界面。",
+   "why": "Their work treats smell as an embodied, directional sense that devices can address through the body's own nerves.",
+   "why_zh": "其研究把嗅觉看作具身的、有方向的感官，设备可以借由身体自己的神经去作用于它。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "pedro-lopes"
+   ],
+   "discovered_via": "pedro-lopes"
+  },
+  {
+   "id": "jasmine-lu",
+   "name": "Jasmine Lu",
+   "name_zh": "",
+   "kind": "person",
+   "role": "HCI researcher, Human Computer Integration Lab, University of Chicago",
+   "role_zh": "人机交互研究者，芝加哥大学人机融合实验室",
+   "based": "Chicago, US",
+   "based_zh": "芝加哥，美国",
+   "bio": "Researcher who works on haptics made from chemicals on the skin and on devices that live with the body.",
+   "bio_zh": "研究者，研究以皮肤上的化学物质产生的触觉，以及与身体共存的设备。",
+   "why": "Chemical haptics shows how the skin's own chemistry can be a display.",
+   "why_zh": "化学触觉展示了皮肤自身的化学反应如何成为一种显示。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "pedro-lopes"
+   ],
+   "discovered_via": "pedro-lopes"
+  },
+  {
+   "id": "yudai-tanaka",
+   "name": "Yudai Tanaka",
+   "name_zh": "",
+   "kind": "person",
+   "role": "HCI researcher, Human Computer Integration Lab, University of Chicago",
+   "role_zh": "人机交互研究者，芝加哥大学人机融合实验室",
+   "based": "Chicago, US",
+   "based_zh": "芝加哥，美国",
+   "bio": "Researcher who produces touch and force sensations by stimulating nerves and the brain rather than the skin.",
+   "bio_zh": "研究者，通过刺激神经与大脑而不是皮肤来产生触感与力感。",
+   "why": "His work asks where a touch is felt when it starts in the brain.",
+   "why_zh": "他的研究追问：当触感从大脑开始时，它在身体何处被感受到。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "pedro-lopes"
+   ],
+   "discovered_via": "pedro-lopes"
+  },
+  {
+   "id": "daisuke-tajima",
+   "name": "Daisuke Tajima",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher in the sense of agency and human augmentation (University of Tokyo and Sony Computer Science Laboratories)",
+   "role_zh": "研究能动感与人类增强的研究者（东京大学、索尼计算机科学研究所）",
+   "based": "Tokyo, JP",
+   "based_zh": "东京，日本",
+   "bio": "Researcher who, with Jun Nishida, Pedro Lopes and Shunichi Kasahara, studied how people feel about touches their muscles are made to perform.",
+   "bio_zh": "研究者，与西田惇、Pedro Lopes、笠原俊一一起研究人们如何感受被电刺激“代为完成”的触碰。",
+   "why": "His study maps when an assisted movement still feels like one's own.",
+   "why_zh": "他的研究描绘了一个被辅助的动作在何时仍然让人觉得是自己的。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "shunichi-kasahara",
+    "jun-nishida",
+    "pedro-lopes"
+   ],
+   "discovered_via": "shunichi-kasahara"
+  },
+  {
+   "id": "emi-tamaki",
+   "name": "Emi Tamaki",
+   "name_zh": "玉城绘美",
+   "kind": "person",
+   "role": "Founder and CEO of H2L, Inc.; formerly Rekimoto Lab, University of Tokyo",
+   "role_zh": "H2L 公司创始人兼 CEO；曾就读于东京大学暦本实验室",
+   "based": "Tokyo, JP",
+   "based_zh": "东京，日本",
+   "bio": "Researcher and entrepreneur who made PossessedHand, which moves the fingers with electrical muscle stimulation, and founded the body-sharing company H2L.",
+   "bio_zh": "研究者与创业者，制作了用肌肉电刺激驱动手指的 PossessedHand，并创立了身体共享公司 H2L。",
+   "why": "She has pursued 'body sharing', passing bodily experience between people through the muscles.",
+   "why_zh": "她一直在推进“身体共享”：借由肌肉在人与人之间传递身体经验。",
+   "disciplines": [
+    "hci",
+    "engineering"
+   ],
+   "links": {},
+   "connected_to": [
+    "jun-rekimoto"
+   ],
+   "discovered_via": "jun-rekimoto"
+  },
+  {
+   "id": "jun-rekimoto",
+   "name": "Jun Rekimoto",
+   "name_zh": "暦本纯一",
+   "kind": "person",
+   "role": "Professor, Interfaculty Initiative in Information Studies, University of Tokyo; Deputy Director, Sony Computer Science Laboratories",
+   "role_zh": "东京大学情报学环教授；索尼计算机科学研究所副所长",
+   "based": "Tokyo, JP",
+   "based_zh": "东京，日本",
+   "bio": "HCI pioneer whose lab has produced augmented-human work such as PossessedHand and JackIn.",
+   "bio_zh": "人机交互先驱，其实验室产出了 PossessedHand、JackIn 等增强人类研究。",
+   "why": "His notion of 'human augmentation' as one person entering another's body and view shaped Japanese body-sharing research.",
+   "why_zh": "他把“人类增强”理解为一个人进入另一个人的身体与视野，这塑造了日本的身体共享研究。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": "https://lab.rekimoto.org"
+   },
+   "connected_to": [
+    "shunichi-kasahara",
+    "emi-tamaki"
+   ],
+   "discovered_via": "shunichi-kasahara"
+  },
+  {
+   "id": "romain-nith",
+   "name": "Romain Nith",
+   "name_zh": "",
+   "kind": "person",
+   "role": "HCI researcher, Human Computer Integration Lab, University of Chicago",
+   "role_zh": "人机交互研究者，芝加哥大学人机融合实验室",
+   "based": "Chicago, US",
+   "based_zh": "芝加哥，美国",
+   "bio": "Researcher who works on EMS and haptic wearables that act on the body, such as SplitBody and JumpMod.",
+   "bio_zh": "研究者，研究作用于身体的肌肉电刺激与触觉可穿戴设备，如 SplitBody 与 JumpMod。",
+   "why": "His devices change how a movement or a jump feels by acting directly on muscles and momentum.",
+   "why_zh": "他的设备通过直接作用于肌肉与动量，改变一个动作或一次跳跃的感受。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "pedro-lopes"
+   ],
+   "discovered_via": "pedro-lopes"
+  },
+  {
+   "id": "susumu-tachi",
+   "name": "Susumu Tachi",
+   "name_zh": "舘暲",
+   "kind": "person",
+   "role": "Professor Emeritus, University of Tokyo; originator of telexistence",
+   "role_zh": "东京大学名誉教授，远程存在（telexistence）的提出者",
+   "based": "Tokyo, JP",
+   "based_zh": "东京，日本",
+   "bio": "Engineer who proposed telexistence in 1980 and built the TELESAR robot series, which let an operator see, hear and feel through a remote robot body.",
+   "bio_zh": "工程师，1980 年提出远程存在，并制作了 TELESAR 系列机器人，让操作者通过远方的机器人身体去看、去听、去触摸。",
+   "why": "Telexistence is the long-running experiment in feeling present in another body.",
+   "why_zh": "远程存在是一项持续多年的实验：在另一个身体中感到自己在场。",
+   "disciplines": [
+    "engineering"
+   ],
+   "links": {},
+   "connected_to": [
+    "kouta-minamizawa"
+   ],
+   "discovered_via": "kouta-minamizawa"
+  },
+  {
+   "id": "cindy-hsin-liu-kao",
+   "name": "Cindy Hsin-Liu Kao",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Faculty member in Human Centered Design, Cornell University; director of the Hybrid Body Lab",
+   "role_zh": "康奈尔大学以人为中心设计系教师，Hybrid Body Lab 负责人",
+   "based": "Ithaca, US",
+   "based_zh": "伊萨卡，美国",
+   "bio": "Taiwanese-American designer-researcher who made DuoSkin (on-skin interfaces from gold leaf) at the MIT Media Lab and leads the Hybrid Body Lab.",
+   "bio_zh": "台裔美国设计研究者，在 MIT 媒体实验室做出 DuoSkin（用金箔制作的皮肤界面），现领导 Hybrid Body Lab。",
+   "why": "Her 'Hybrid Body Craft' treats the skin as a cultural surface, so on-body technology is designed with body-decoration traditions and identity in mind.",
+   "why_zh": "她的“混合身体工艺”把皮肤看作文化表面，让贴身技术的设计顾及身体装饰传统与身份。",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {
+    "site": "https://www.hybridbody.human.cornell.edu"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "nathan-semertzidis",
+   "name": "Nathan Semertzidis",
+   "name_zh": "",
+   "kind": "person",
+   "role": "HCI researcher; PhD, Exertion Games Lab, Monash University",
+   "role_zh": "人机交互研究者；莫纳什大学 Exertion Games Lab 博士",
+   "based": "Melbourne, AU",
+   "based_zh": "墨尔本，澳大利亚",
+   "bio": "Researcher who designs brain-computer integrations that turn neural activity into shared experiences, such as Neo-Noumena.",
+   "bio_zh": "研究者，设计把神经活动转化为共享体验的脑机融合系统，例如 Neo-Noumena。",
+   "why": "His work treats emotion read from the brain as something to be felt and shared, not only measured.",
+   "why_zh": "他的研究把从大脑读出的情绪看作可以被感受与分享的东西，而不仅是测量结果。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "florian-mueller",
+    "josh-andres"
+   ],
+   "discovered_via": "florian-mueller"
+  },
+  {
+   "id": "kai-kunze",
+   "name": "Kai Kunze",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor, Keio University Graduate School of Media Design (KMD)",
+   "role_zh": "庆应义塾大学媒体设计研究科（KMD）教授",
+   "based": "Yokohama, JP",
+   "based_zh": "横滨，日本",
+   "bio": "German-born wearable computing researcher at Keio KMD who co-authored the Superhuman Sports agenda.",
+   "bio_zh": "出生于德国的可穿戴计算研究者，任教于庆应 KMD，是“超人体育”纲领的合著者。",
+   "why": "He studies how wearables can sense and extend attention, emotion and physical skill.",
+   "why_zh": "他研究可穿戴设备如何感知并延展注意力、情绪与身体技能。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "masahiko-inami",
+    "kouta-minamizawa"
+   ],
+   "discovered_via": "kouta-minamizawa"
+  },
+  {
+   "id": "adrien-verhulst",
+   "name": "Adrien Verhulst",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, Sony Computer Science Laboratories (Cybernetic Humanity Studio)",
+   "role_zh": "索尼计算机科学研究所研究员（Cybernetic Humanity Studio）",
+   "based": "Tokyo, JP",
+   "based_zh": "东京，日本",
+   "bio": "VR researcher who studies embodiment of one or several virtual bodies with Shunichi Kasahara.",
+   "bio_zh": "虚拟现实研究者，与笠原俊一一起研究对一个或多个虚拟身体的具身感。",
+   "why": "His dual-body experiments ask whether one person can learn to live in two bodies at once.",
+   "why_zh": "他的双身体实验追问：一个人能否学会同时生活在两个身体里。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "shunichi-kasahara"
+   ],
+   "discovered_via": "shunichi-kasahara"
+  }
+ ],
+ "works": [
+  {
+   "id": "dani-clode--third-thumb",
+   "creator_ids": [
+    "dani-clode"
+   ],
+   "title": "The Third Thumb",
+   "year": 2017,
+   "field": "augmented",
+   "sub": "extra-limbs",
+   "modalities": [
+    "extra-body",
+    "movement",
+    "touch"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-mind-unity"
+   ],
+   "kind": "prototype",
+   "description": "A 3D-printed robotic thumb worn on the side of the hand opposite the natural thumb, moved by pressure sensors under the big toes, so the wearer can hold and manipulate objects with one hand in new ways.",
+   "description_zh": "一只 3D 打印的机器人拇指，戴在与原生拇指相对的手掌一侧，由大脚趾下的压力传感器控制，让佩戴者用一只手以新的方式握持和操作物体。",
+   "idea_en": "Made as a reframing of prosthetics as extension rather than replacement, the thumb shows how quickly a foot movement can come to feel like a finger movement once the body learns it.",
+   "idea_zh": "它把假体重新理解为延伸而非替代；一旦身体学会，脚的动作能很快被感受为手指的动作。",
+   "method": "Two wireless force sensors under the toes drive motors that pull cables in the thumb; created as a Royal College of Art graduate project and later used in the Makin lab's neuroscience studies.",
+   "method_zh": "两个置于脚趾下的无线压力传感器驱动电机拉动拇指内的线缆；最初是皇家艺术学院的毕业作品，后来用于 Makin 实验室的神经科学研究。",
+   "keywords": [
+    "Third Thumb",
+    "supernumerary finger",
+    "prosthetic extension",
+    "Royal College of Art",
+    "body schema"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=UD_LwZD2Kls"
+   },
+   "source_url": "https://www.plasticity-lab.com",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "paulina-kieliba--robotic-hand-augmentation",
+   "creator_ids": [
+    "paulina-kieliba",
+    "dani-clode",
+    "tamar-makin"
+   ],
+   "title": "Robotic Hand Augmentation Drives Changes in Neural Body Representation",
+   "year": 2021,
+   "field": "augmented",
+   "sub": "extra-limbs",
+   "modalities": [
+    "extra-body",
+    "movement",
+    "brain"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-mind-unity"
+   ],
+   "kind": "paper",
+   "description": "Able-bodied volunteers wore the Third Thumb for five days, in the lab and in daily life; they learned to use it even without looking, reported it feeling more like part of their body, and brain decoding showed the representation of their own biological hand had partly collapsed.",
+   "description_zh": "健全的志愿者连续五天在实验室和日常生活中佩戴 Third Thumb；他们即使不看也学会了使用它，报告它越来越像身体的一部分，而脑解码显示他们原本那只手的脑内表征出现了部分“塌缩”。",
+   "idea_en": "Adding a limb is not free: as the extra thumb is taken into the body, the felt and neural hand it attaches to changes as well.",
+   "idea_zh": "增加一个肢体并非没有代价：当额外的拇指被纳入身体时，它所连接的那只手在感受上和神经表征上也随之改变。",
+   "method": "Five-day training study with motor and dexterity tasks, embodiment questionnaires, hand kinematics and fMRI decoding of finger representations before and after training.",
+   "method_zh": "为期五天的训练研究，结合运动与灵巧性任务、具身感问卷、手部运动学，以及训练前后手指表征的功能磁共振成像解码。",
+   "keywords": [
+    "Third Thumb",
+    "body representation",
+    "fMRI",
+    "embodiment",
+    "motor augmentation",
+    "UCL"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=GKSCmkCE5og"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1126/scirobotics.abd7935",
+    "doi": "10.1126/scirobotics.abd7935",
+    "arxiv": "",
+    "venue": "Science Robotics 2021",
+    "title": "Robotic hand augmentation drives changes in neural body representation"
+   },
+   "source_url": "https://www.plasticity-lab.com",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "tamar-makin--neurocognitive-barriers-embodiment",
+   "creator_ids": [
+    "tamar-makin"
+   ],
+   "title": "Neurocognitive Barriers to the Embodiment of Technology",
+   "year": 2017,
+   "field": "augmented",
+   "sub": "extra-limbs",
+   "modalities": [
+    "extra-body",
+    "brain",
+    "whole-soma"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-mind-unity"
+   ],
+   "kind": "paper",
+   "description": "A perspective article asking what it would take for a prosthesis or augmentation device to be experienced as part of the body, and what stands in the way in the brain.",
+   "description_zh": "一篇观点文章，追问要让假体或增强设备被体验为身体的一部分需要什么，以及大脑中存在哪些阻碍。",
+   "idea_en": "Embodiment is not a yes-or-no property of a device; it depends on how the body's sensing, control and self-model take it in, and designers should aim for that felt integration rather than raw function.",
+   "idea_zh": "具身不是设备“有或没有”的属性，而取决于身体的感知、控制与自我模型如何接纳它；设计者应追求这种被感受到的融合，而不只是功能。",
+   "method": "Review of body-ownership illusions, amputee and prosthesis studies and motor-control research, by Tamar Makin, Frédérique de Vignemont and A. Aldo Faisal.",
+   "method_zh": "综述身体归属错觉、截肢者与假体研究以及运动控制研究，作者为 Tamar Makin、Frédérique de Vignemont 与 A. Aldo Faisal。",
+   "keywords": [
+    "embodiment",
+    "prosthesis",
+    "body ownership",
+    "Frédérique de Vignemont",
+    "human augmentation"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/593a7b3215d5dbd460e42f0c/1501444059972-WSNT2MGHSID609LFAEP2/prosthesis-amputee-research.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/s41551-016-0014",
+    "doi": "10.1038/s41551-016-0014",
+    "arxiv": "",
+    "venue": "Nature Biomedical Engineering 2017",
+    "title": "Neurocognitive barriers to the embodiment of technology"
+   },
+   "source_url": "https://www.plasticity-lab.com",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "junichi-nabeshima--arque",
+   "creator_ids": [
+    "junichi-nabeshima",
+    "mhd-yamen-saraiji",
+    "kouta-minamizawa"
+   ],
+   "title": "Arque",
+   "year": 2019,
+   "field": "augmented",
+   "sub": "extra-limbs",
+   "modalities": [
+    "extra-body",
+    "posture-balance",
+    "movement"
+   ],
+   "lenses": [
+    "extended-body",
+    "more-than-human"
+   ],
+   "kind": "prototype",
+   "description": "A wearable artificial tail that swings to the opposite side when the wearer leans, helping them keep balance as a monkey's or cheetah's tail does.",
+   "description_zh": "一条可穿戴人工尾巴：佩戴者身体倾斜时，它会甩向相反方向，像猴子或猎豹的尾巴那样帮助保持平衡。",
+   "idea_en": "A tail makes balance, usually unnoticed, into something felt at the back of the body, and lets a human borrow an animal's way of being upright.",
+   "idea_zh": "尾巴让通常不被察觉的平衡成为身体后方能感受到的东西，也让人借用动物的站立方式。",
+   "method": "Vertebra-like modules strung on four artificial pneumatic muscles; body tilt is tracked and the tail is driven to counter-balance, with the tail's length and weight adjustable to the wearer.",
+   "method_zh": "由类似脊椎的模块串联在四根人工气动肌肉上；追踪身体倾斜并驱动尾巴反向平衡，长度与重量可按佩戴者调整。",
+   "keywords": [
+    "tail",
+    "biomimicry",
+    "balance",
+    "supernumerary limb",
+    "Keio KMD",
+    "Embodied Media"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Tr1-IhEhXYQ"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3305367.3327987",
+    "doi": "10.1145/3305367.3327987",
+    "arxiv": "",
+    "venue": "SIGGRAPH 2019 Emerging Technologies",
+    "title": "Arque: Artificial Biomimicry-Inspired Tail for Extending Innate Body Functions"
+   },
+   "source_url": "https://embodiedmedia.org",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "mhd-yamen-saraiji--fusion",
+   "creator_ids": [
+    "mhd-yamen-saraiji",
+    "tomoya-sasaki",
+    "kouta-minamizawa"
+   ],
+   "title": "Fusion",
+   "year": 2018,
+   "field": "augmented",
+   "sub": "extra-limbs",
+   "also": [
+    "social"
+   ],
+   "modalities": [
+    "extra-body",
+    "movement",
+    "light-vision"
+   ],
+   "lenses": [
+    "extended-body",
+    "intercorporeality"
+   ],
+   "kind": "prototype",
+   "description": "A backpack with a robot head and two robot arms lets a remote operator see from the wearer's shoulders and act with extra arms, or take hold of the wearer's own arms to guide them; two people share one body.",
+   "description_zh": "一个装有机器人头部和两只机械臂的背包，让远方的操作者从佩戴者肩上观看、用额外的手臂行动，或抓住佩戴者自己的手臂加以引导：两个人共享一个身体。",
+   "idea_en": "When two people inhabit one body, the boundary of 'my' body and 'my' action becomes negotiable, and guidance can be felt directly in the limbs.",
+   "idea_zh": "当两个人栖居在同一个身体中，“我的”身体与“我的”行动的边界变得可以协商，引导也能直接在肢体上被感受到。",
+   "method": "Wearable robotic head with stereo cameras and two anthropomorphic arms, teleoperated by a remote user in a VR headset with motion tracking.",
+   "method_zh": "可穿戴机器人头部带立体摄像头与两只拟人机械臂，由佩戴 VR 头显、动作被追踪的远程用户操控。",
+   "keywords": [
+    "Fusion",
+    "body sharing",
+    "telepresence",
+    "supernumerary arms",
+    "Keio KMD",
+    "SIGGRAPH"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Nrc7gH6dydw"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3214907.3214912",
+    "doi": "10.1145/3214907.3214912",
+    "arxiv": "",
+    "venue": "SIGGRAPH 2018 Emerging Technologies",
+    "title": "Fusion: Full Body Surrogacy for Collaborative Communication"
+   },
+   "source_url": "https://embodiedmedia.org",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "nahoko-yamamura--jizai-arms",
+   "creator_ids": [
+    "nahoko-yamamura",
+    "shigeo-yoshida",
+    "masahiko-inami"
+   ],
+   "title": "JIZAI ARMS",
+   "year": 2023,
+   "field": "augmented",
+   "sub": "extra-limbs",
+   "modalities": [
+    "extra-body",
+    "movement",
+    "touch"
+   ],
+   "lenses": [
+    "extended-body",
+    "intercorporeality"
+   ],
+   "kind": "prototype",
+   "description": "A wearable back unit with six sockets holds detachable robot arms that the wearer or another person can control, and arms can be passed between wearers as a social exchange.",
+   "description_zh": "一个背部可穿戴单元带六个接口，可安装可拆卸的机械臂，由佩戴者或他人控制；机械臂还可以在佩戴者之间传递，成为一种社交交换。",
+   "idea_en": "Extra limbs are not only personal tools; exchanging an arm with someone makes the extended body a shared, social body.",
+   "idea_zh": "额外的肢体不只是个人工具；与他人交换一只手臂，让延展的身体变成共享的、社会性的身体。",
+   "method": "Designed by human-augmentation researchers with product designers and manufacturers; arms are driven by small motors and teleoperated, likely through a miniature replica arm used as a controller.",
+   "method_zh": "由人类增强研究者与产品设计师、制造商共同设计；机械臂由小型电机驱动，很可能通过一个缩小的复制臂作为控制器进行远程操控。",
+   "keywords": [
+    "JIZAI ARMS",
+    "JIZAI Body",
+    "supernumerary robotic limbs",
+    "digital cyborg",
+    "University of Tokyo",
+    "CHI 2023"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=KFyZQfqaXhE"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3544548.3581169",
+    "doi": "10.1145/3544548.3581169",
+    "arxiv": "",
+    "venue": "CHI 2023",
+    "title": "Social Digital Cyborgs: The Collaborative Design Process of JIZAI ARMS"
+   },
+   "source_url": "https://jizai-body.com",
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "domenico-prattichizzo--robotic-sixth-finger",
+   "creator_ids": [
+    "domenico-prattichizzo"
+   ],
+   "title": "The Robotic Sixth Finger",
+   "year": 2014,
+   "field": "augmented",
+   "sub": "extra-limbs",
+   "also": [
+    "care"
+   ],
+   "modalities": [
+    "extra-body",
+    "movement",
+    "muscle"
+   ],
+   "lenses": [
+    "extended-body",
+    "care-healing"
+   ],
+   "kind": "prototype",
+   "description": "A modular robotic finger strapped to the wrist that works with the hand's own fingers to grasp; later soft versions, driven by a muscle signal, help people with stroke hold objects again with their weakened hand.",
+   "description_zh": "一根绑在手腕上的模块化机器人手指，与手的原有手指配合抓握；后来的柔性版本由肌电信号控制，帮助中风患者用无力的手重新握住物体。",
+   "idea_en": "An extra finger can complete a hand that has lost function, so the body is repaired by adding to it rather than restoring it.",
+   "idea_zh": "一根额外的手指可以补全失去功能的手：身体是通过增添而不是复原得到修补的。",
+   "method": "Servo-driven finger modules on a wrist band; the soft version is controlled by EMG from a forehead or arm muscle and closes to oppose the paretic hand.",
+   "method_zh": "腕带上由舵机驱动的手指模块；柔性版本由额头或手臂肌肉的肌电信号控制，闭合时与患手相对抓握。",
+   "keywords": [
+    "Sixth-Finger",
+    "supernumerary finger",
+    "stroke",
+    "grasp compensation",
+    "SIRSLab",
+    "University of Siena"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=1GBLk2fN6ao"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1109/roman.2014.6926382",
+    "doi": "10.1109/roman.2014.6926382",
+    "arxiv": "",
+    "venue": "IEEE RO-MAN 2014",
+    "title": "The Sixth-Finger: A modular extra-finger to enhance human hand capabilities"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "arvid-guterstam--third-arm-illusion",
+   "creator_ids": [
+    "arvid-guterstam",
+    "valeria-petkova",
+    "henrik-ehrsson"
+   ],
+   "title": "The Illusion of Owning a Third Arm",
+   "year": 2011,
+   "field": "augmented",
+   "sub": "extra-limbs",
+   "modalities": [
+    "extra-body",
+    "touch",
+    "light-vision"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-mind-unity"
+   ],
+   "kind": "paper",
+   "description": "Participants look down at a rubber arm placed beside their real right arm while both are stroked at the same time, and many come to feel they have two right arms.",
+   "description_zh": "参与者低头看着放在真实右臂旁的一只橡胶手臂，同时两者被同步抚触，许多人会感到自己有两只右臂。",
+   "idea_en": "The felt body is not fixed to the number of limbs one has: it can hold a supernumerary arm, which is the ground on which extra-limb design stands.",
+   "idea_zh": "被感受的身体并不受限于实际肢体数量，它可以容纳一只多出来的手臂；这正是额外肢体设计的基础。",
+   "method": "Variant of the rubber hand illusion with the real arm left visible; ownership measured by questionnaires and skin conductance responses to a threatened rubber arm or real arm.",
+   "method_zh": "橡胶手错觉的变体，真实手臂保持可见；通过问卷和对橡胶手或真实手受威胁时的皮肤电反应测量归属感。",
+   "keywords": [
+    "third arm illusion",
+    "rubber hand illusion",
+    "body ownership",
+    "Karolinska Institutet",
+    "supernumerary limb"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=myKWktRTNf0"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1371/journal.pone.0017208",
+    "doi": "10.1371/journal.pone.0017208",
+    "arxiv": "",
+    "venue": "PLoS ONE 2011",
+    "title": "The Illusion of Owning a Third Arm"
+   },
+   "source_url": "https://www.ehrssonlab.se",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "andrea-stevenson-won--homuncular-flexibility",
+   "creator_ids": [
+    "andrea-stevenson-won"
+   ],
+   "title": "Homuncular Flexibility in Virtual Reality",
+   "year": 2015,
+   "field": "augmented",
+   "sub": "extra-limbs",
+   "also": [
+    "machines-xr"
+   ],
+   "modalities": [
+    "extra-body",
+    "movement",
+    "light-vision"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-mind-unity"
+   ],
+   "kind": "paper",
+   "description": "In virtual reality people learned to control avatars whose arms and legs were swapped, or who had a third arm moved by wrist rotation, and did so within minutes.",
+   "description_zh": "在虚拟现实中，参与者学习操控手脚互换、或拥有一只由手腕旋转控制的第三只手臂的化身，并在几分钟内就掌握了。",
+   "idea_en": "Jaron Lanier's idea of 'homuncular flexibility' holds up: the body schema can quickly reorganise around a body plan it never had.",
+   "idea_zh": "Jaron Lanier 提出的“小人灵活性”得到验证：身体图式能很快围绕一个从未拥有过的身体结构重新组织。",
+   "method": "Two VR experiments with motion tracking remapping limbs to avatar parts; performance on a target-hitting task measured over time, by Won, Bailenson, Lee and Lanier.",
+   "method_zh": "两项使用动作追踪、把肢体重新映射到化身部位的 VR 实验，测量击打目标任务的表现随时间的变化；作者为 Won、Bailenson、Lee 与 Lanier。",
+   "keywords": [
+    "homuncular flexibility",
+    "Jaron Lanier",
+    "Jeremy Bailenson",
+    "avatar",
+    "body schema",
+    "third arm"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1111/jcc4.12107",
+    "doi": "10.1111/jcc4.12107",
+    "arxiv": "",
+    "venue": "Journal of Computer-Mediated Communication 2015",
+    "title": "Homuncular Flexibility in Virtual Reality"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "hugh-herr--agonist-antagonist-myoneural-interface",
+   "creator_ids": [
+    "hugh-herr"
+   ],
+   "title": "Agonist-Antagonist Myoneural Interface (AMI)",
+   "year": 2018,
+   "field": "augmented",
+   "sub": "extra-limbs",
+   "also": [
+    "care"
+   ],
+   "modalities": [
+    "extra-body",
+    "posture-balance",
+    "muscle"
+   ],
+   "lenses": [
+    "extended-body",
+    "care-healing"
+   ],
+   "kind": "prototype",
+   "description": "An amputation surgery that reconnects muscle pairs in the residual limb, so that when a bionic ankle moves, the person feels its position and movement as if it were their own joint.",
+   "description_zh": "一种截肢手术：在残肢中重新连接成对的肌肉，使仿生踝关节运动时，人能像感受自己关节一样感受到它的位置与运动。",
+   "idea_en": "A prosthesis is taken into the body when it can be felt from within: restoring proprioception, not only control, is what lets people say the limb is 'mine'.",
+   "idea_zh": "假体被纳入身体，是在它能被从内部感受到的时候：恢复本体感，而不只是控制，才让人说这条腿“是我的”。",
+   "method": "Surgically linked agonist-antagonist muscles send natural stretch signals; electrodes read their activity to drive a powered ankle-foot prosthesis, whose motion is fed back as muscle stretch.",
+   "method_zh": "通过手术相连的主动肌与拮抗肌产生自然的牵张信号；电极读取其活动来驱动动力踝足假体，假体的运动再以肌肉牵张的形式反馈回来。",
+   "keywords": [
+    "AMI",
+    "bionic limb",
+    "proprioception",
+    "prosthesis",
+    "MIT Media Lab",
+    "Biomechatronics"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=D7wiPQUDm94"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/The_Debut_of_Bionic_Ballet_%2813480669224%29_%282%29.jpg/1280px-The_Debut_of_Bionic_Ballet_%2813480669224%29_%282%29.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1126/scitranslmed.aap8373",
+    "doi": "10.1126/scitranslmed.aap8373",
+    "arxiv": "",
+    "venue": "Science Translational Medicine 2018",
+    "title": "Proprioception from a neurally controlled lower-extremity prosthesis"
+   },
+   "source_url": "https://www.media.mit.edu/groups/biomechatronics/overview/",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "aryan-saini--pneuma",
+   "creator_ids": [
+    "aryan-saini",
+    "rakesh-patibanda",
+    "florian-mueller"
+   ],
+   "title": "PneuMa",
+   "year": 2024,
+   "field": "augmented",
+   "sub": "extra-limbs",
+   "modalities": [
+    "extra-body",
+    "shape-change",
+    "movement"
+   ],
+   "lenses": [
+    "extended-body",
+    "attunement"
+   ],
+   "kind": "prototype",
+   "description": "Soft pneumatic wearables that move parts of the body in everyday moments: pushing an ear forward to listen ('Pardon?'), lifting a hand to wave, or drawing the hands away from the keyboard to take a break.",
+   "description_zh": "在日常时刻移动身体部位的柔性气动可穿戴装置：把耳朵向前推以便倾听（“Pardon?”），抬起手挥别，或把双手从键盘上拉开提醒休息。",
+   "idea_en": "Being gently moved by a bodily extension raises awareness of one's own movement habits, so actuation can serve attention to the body rather than replace it.",
+   "idea_zh": "被身体延伸装置轻轻带动，会提高人对自身动作习惯的觉察；执行机构因此可以服务于对身体的关注，而不是取而代之。",
+   "method": "Inflatable actuators on the ear, hand and arm triggered by context; a field study with 12 participants analysed thematically (bodily awareness, perception of scenarios, anticipating movement).",
+   "method_zh": "在耳朵、手和手臂上按情境触发的充气执行器；对 12 名参与者进行田野研究并作主题分析（身体觉察、对情境的感知、对动作的预期）。",
+   "keywords": [
+    "pneumatic",
+    "bodily extension",
+    "Exertion Games Lab",
+    "TEI 2024",
+    "embodiment"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=MpVxFC3npEc"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3623509.3633349",
+    "doi": "10.1145/3623509.3633349",
+    "arxiv": "",
+    "venue": "TEI 2024",
+    "title": "PneuMa: Designing Pneumatic Bodily Extensions for Supporting Movement in Everyday Life"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [
+    "tei"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "jun-nishida--handmorph",
+   "creator_ids": [
+    "jun-nishida",
+    "pedro-lopes"
+   ],
+   "title": "HandMorph",
+   "year": 2020,
+   "field": "augmented",
+   "sub": "extra-limbs",
+   "modalities": [
+    "extra-body",
+    "touch",
+    "movement"
+   ],
+   "lenses": [
+    "extended-body",
+    "intercorporeality"
+   ],
+   "kind": "prototype",
+   "description": "A passive exoskeleton glove that maps the wearer's hand onto a smaller set of mechanical fingers, so an adult grasps objects with a child's hand size and feels how a child's hand fits the world.",
+   "description_zh": "一种被动外骨骼手套，把佩戴者的手映射到一组更小的机械手指上，让成年人以儿童的手掌尺寸抓握物体，体会儿童的手如何与世界相处。",
+   "idea_en": "Changing the size of the grasping body changes what things afford, so empathy with another body can be felt in one's own hand.",
+   "idea_zh": "改变抓握身体的尺寸，就改变了物体所提供的可能性；对另一个身体的共情因此可以在自己的手中被感受到。",
+   "method": "Linkage-based exoskeleton without motors; each finger of the wearer drives a shorter mechanical finger; used by designers to evaluate products for children.",
+   "method_zh": "无电机的连杆式外骨骼，佩戴者的每根手指驱动一根更短的机械手指；设计者用它来评估面向儿童的产品。",
+   "keywords": [
+    "HandMorph",
+    "passive exoskeleton",
+    "child's perspective",
+    "empathy",
+    "UIST 2020 Best Paper"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=5o2wPy5hl0w"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3379337.3415875",
+    "doi": "10.1145/3379337.3415875",
+    "arxiv": "",
+    "venue": "UIST 2020",
+    "title": "HandMorph: a Passive Exoskeleton that Miniaturizes Grasp"
+   },
+   "source_url": "https://lab.plopes.org",
+   "code_url": "",
+   "collections": [],
+   "exhibited": [
+    "UIST 2020 Best Paper Award"
+   ]
+  },
+  {
+   "id": "paul-bach-y-rita--tactile-vision-substitution",
+   "creator_ids": [
+    "paul-bach-y-rita"
+   ],
+   "title": "Tactile Vision Substitution System (TVSS) and BrainPort",
+   "year": 1969,
+   "field": "augmented",
+   "sub": "new-senses",
+   "also": [
+    "care"
+   ],
+   "modalities": [
+    "new-senses",
+    "touch",
+    "light-vision"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-mind-unity"
+   ],
+   "kind": "prototype",
+   "description": "Blind people sat in a dental chair fitted with 400 vibrating pins on the back, fed by a camera they could move; with practice they located and recognised objects 'out there', not on the skin. The later BrainPort moves the image to an electrode grid on the tongue.",
+   "description_zh": "盲人坐在背部装有 400 个振动针的牙科椅上，振动针由他们可以移动的摄像头驱动；经过练习，他们能定位并辨认“在外面”的物体，而不是觉得刺激在皮肤上。后来的 BrainPort 把图像转移到舌头上的电极阵列。",
+   "idea_en": "Perception is something the whole acting body learns: once people could move the camera themselves, touch on the back became a kind of seeing located in the world.",
+   "idea_zh": "知觉是整个行动着的身体习得的：一旦人们能自己移动摄像头，背上的触觉就变成了一种定位在世界中的“看”。",
+   "method": "A TV camera image converted to a 20 x 20 array of vibrotactile stimulators on the back (1969); BrainPort uses a head-worn camera and electrotactile stimulation of the tongue.",
+   "method_zh": "电视摄像头图像被转换为背部 20 x 20 振动触觉刺激阵列（1969）；BrainPort 使用头戴摄像头和舌部电触觉刺激。",
+   "keywords": [
+    "sensory substitution",
+    "TVSS",
+    "BrainPort",
+    "neuroplasticity",
+    "tongue display",
+    "Wicab"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=CNR2gLKnd0g"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1038/221963a0",
+    "doi": "10.1038/221963a0",
+    "arxiv": "",
+    "venue": "Nature 1969",
+    "title": "Vision Substitution by Tactile Image Projection"
+   },
+   "source_url": "https://www.wicab.com",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "peter-meijer--the-voice",
+   "creator_ids": [
+    "peter-meijer"
+   ],
+   "title": "The vOICe",
+   "year": 1992,
+   "field": "augmented",
+   "sub": "new-senses",
+   "modalities": [
+    "new-senses",
+    "voice-sound",
+    "light-vision"
+   ],
+   "lenses": [
+    "extended-body",
+    "first-person"
+   ],
+   "kind": "product",
+   "description": "Free software that turns camera images into soundscapes, scanning left to right with pitch for height and loudness for brightness; some long-term blind users describe visual-like experiences from it.",
+   "description_zh": "免费软件，把摄像头画面转换为声音景观：从左向右扫描，音高表示高度，响度表示亮度；一些长期使用的盲人描述了类似视觉的体验。",
+   "idea_en": "A sense can be learned through practice in another channel, and what it feels like may change as the skill deepens.",
+   "idea_zh": "一种感官可以通过另一个通道的练习来习得，而它的感受会随着技能加深而改变。",
+   "method": "Image-to-sound mapping at about one scan per second, running on laptops, phones and camera glasses; studied in behavioural and brain-imaging work on sensory substitution.",
+   "method_zh": "每秒约一次扫描的图像到声音映射，可运行在笔记本电脑、手机与摄像眼镜上；在感官替代的行为与脑成像研究中被广泛使用。",
+   "keywords": [
+    "The vOICe",
+    "seeing with sound",
+    "sensory substitution",
+    "blindness",
+    "soundscape"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=I0lmSYP7OcM"
+   },
+   "images": [
+    "https://www.seeingwithsound.com/media/Lady_wearing_VISION_800_like.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1109/10.121642",
+    "doi": "10.1109/10.121642",
+    "arxiv": "",
+    "venue": "IEEE Transactions on Biomedical Engineering 1992",
+    "title": "An experimental system for auditory image representations"
+   },
+   "source_url": "https://www.seeingwithsound.com",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "saskia-nagel--feelspace-belt",
+   "creator_ids": [
+    "saskia-nagel"
+   ],
+   "title": "feelSpace Belt",
+   "year": 2005,
+   "field": "augmented",
+   "sub": "new-senses",
+   "modalities": [
+    "new-senses",
+    "vibration",
+    "posture-balance"
+   ],
+   "lenses": [
+    "extended-body",
+    "first-person"
+   ],
+   "kind": "prototype",
+   "description": "A belt of vibration motors in which the motor pointing north always buzzes; after weeks of wearing it, people reported that space itself felt different, and that they felt secure and 'never lost'.",
+   "description_zh": "一条装有振动马达的腰带，始终是朝北的那个马达在振动；连续佩戴数周后，人们报告空间本身的感觉变了，并感到安心、“不会迷路”。",
+   "idea_en": "A new sense does not add data on top of experience; it changes how the surrounding space is felt through the body, and the change fades when the belt is removed.",
+   "idea_zh": "新感官并不是在经验之上叠加数据，而是改变了身体对周围空间的感受；摘下腰带后，这种变化也会消退。",
+   "method": "A ring of vibrotactile motors around the waist driven by an electronic compass; long-term wearing studies with navigation tasks, interviews and questionnaires (Nagel et al. 2005; Kaspar, König et al. 2014).",
+   "method_zh": "绕腰一圈的振动马达由电子罗盘驱动；包括导航任务、访谈与问卷的长期佩戴研究（Nagel 等 2005；Kaspar、König 等 2014）。",
+   "keywords": [
+    "feelSpace",
+    "magnetic north",
+    "sensorimotor contingencies",
+    "Peter König",
+    "University of Osnabrück",
+    "sensory augmentation"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=0po8YOA-17U"
+   },
+   "images": [
+    "https://feelspace.de/wp-content/uploads/2022/02/Blinde_Dame-scaled.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1088/1741-2560/2/4/r02",
+    "doi": "10.1088/1741-2560/2/4/r02",
+    "arxiv": "",
+    "venue": "Journal of Neural Engineering 2005",
+    "title": "Beyond sensory substitution—learning the sixth sense"
+   },
+   "source_url": "https://www.feelspace.de",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "david-eagleman--vest",
+   "creator_ids": [
+    "david-eagleman"
+   ],
+   "title": "VEST and Neosensory Buzz",
+   "year": 2015,
+   "field": "augmented",
+   "sub": "new-senses",
+   "modalities": [
+    "new-senses",
+    "vibration",
+    "voice-sound"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-mind-unity"
+   ],
+   "kind": "product",
+   "description": "A vest, and later a wristband, that turns sound into patterns of vibration on the skin, so deaf people can learn to feel speech and environmental sounds.",
+   "description_zh": "一件背心（后来是一只腕带），把声音转换为皮肤上的振动图案，让聋人学会“感受”语音和环境声音。",
+   "idea_en": "The skin can carry a new stream of meaning if the body lives with it long enough; the brain does not care which door the signal comes through.",
+   "idea_zh": "只要身体与之共处得足够久，皮肤就能承载一条新的意义之流；大脑并不在意信号从哪扇门进来。",
+   "method": "Microphone audio split into frequency bands mapped to 32 vibration motors on the torso (VEST) or four on the wrist (Buzz), worn daily for weeks of training.",
+   "method_zh": "麦克风音频被分成频带，映射到躯干上的 32 个振动马达（VEST）或手腕上的 4 个（Buzz），需每日佩戴数周进行训练。",
+   "keywords": [
+    "VEST",
+    "Neosensory",
+    "sensory substitution",
+    "deafness",
+    "vibrotactile",
+    "TED"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=4c1lqFXHvqI"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1007/s00221-015-4346-1",
+    "doi": "10.1007/s00221-015-4346-1",
+    "arxiv": "",
+    "venue": "Experimental Brain Research 2015",
+    "title": "Using space and time to encode vibrotactile information: toward an estimate of the skin's achievable throughput"
+   },
+   "source_url": "https://eagleman.com",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "cyborg-nest--north-sense",
+   "creator_ids": [
+    "cyborg-nest"
+   ],
+   "title": "North Sense",
+   "year": 2017,
+   "field": "augmented",
+   "sub": "new-senses",
+   "modalities": [
+    "new-senses",
+    "vibration",
+    "posture-balance"
+   ],
+   "lenses": [
+    "extended-body",
+    "first-person"
+   ],
+   "kind": "product",
+   "description": "A small silicone device attached to the chest with titanium piercings that gives a short vibration whenever the wearer faces magnetic north.",
+   "description_zh": "一个用钛制穿刺固定在胸前的小型硅胶装置，每当佩戴者面向磁北时就轻轻振动一下。",
+   "idea_en": "Worn on the skin day and night, a sense of direction becomes part of the felt self rather than an app one checks.",
+   "idea_zh": "日夜贴在皮肤上，方向感成为被感受的自我的一部分，而不是一个需要查看的应用。",
+   "method": "Compass sensor and vibration motor in a sealed unit, mounted with two surface bars through the skin; the founders published year-long first-person video accounts of living with it.",
+   "method_zh": "封装的罗盘传感器与振动马达，通过两根穿过皮肤的表面钉固定；创始人发布了佩戴一年后的第一人称影像自述。",
+   "keywords": [
+    "North Sense",
+    "Cyborg Nest",
+    "magnetic north",
+    "body modification",
+    "Liviu Babitz",
+    "Scott Cohen"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=0xPMpKxd1R8"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "alvaro-cassinelli--haptic-radar",
+   "creator_ids": [
+    "alvaro-cassinelli"
+   ],
+   "title": "Haptic Radar / Extended Skin",
+   "year": 2006,
+   "field": "augmented",
+   "sub": "new-senses",
+   "modalities": [
+    "new-senses",
+    "vibration",
+    "touch"
+   ],
+   "lenses": [
+    "extended-body",
+    "more-than-human"
+   ],
+   "kind": "prototype",
+   "description": "A headband of modules that each sense the distance to nearby objects and vibrate when something approaches, letting blindfolded wearers dodge objects approaching from behind, like insect antennae or whiskers.",
+   "description_zh": "一个由多个模块组成的头带，每个模块感知与附近物体的距离，有东西靠近时便振动，让蒙眼的佩戴者像昆虫触角或胡须那样躲开从背后接近的物体。",
+   "idea_en": "Skin can be extended into the surrounding space, so that the edge of the felt body moves out beyond the physical one.",
+   "idea_zh": "皮肤可以延伸到周围的空间，让被感受到的身体边界超出物理身体。",
+   "method": "Infrared rangefinders paired with vibration motors, each module acting as an 'optical antenna'; tested with participants avoiding unseen approaching objects.",
+   "method_zh": "红外测距器与振动马达成对组成模块，每个模块如同一根“光学触角”；测试参与者能否避开看不见的靠近物体。",
+   "keywords": [
+    "Haptic Radar",
+    "extended skin",
+    "Ishikawa Lab",
+    "University of Tokyo",
+    "whiskers",
+    "spatial awareness"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Ow_RISC2S0A"
+   },
+   "images": [
+    "http://ishikawa-vision.org/perception/HapticRadar/DSC_8196.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1109/iswc.2006.286344",
+    "doi": "10.1109/iswc.2006.286344",
+    "arxiv": "",
+    "venue": "ISWC 2006",
+    "title": "Augmenting spatial awareness with Haptic Radar"
+   },
+   "source_url": "https://www.ishikawa-vision.org/perception/HapticRadar/index-e.html",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "hiromi-nakamura--augmented-gustation",
+   "creator_ids": [
+    "hiromi-nakamura",
+    "homei-miyashita"
+   ],
+   "title": "Augmented Gustation Using Electricity",
+   "year": 2011,
+   "field": "augmented",
+   "sub": "new-senses",
+   "modalities": [
+    "new-senses",
+    "electrical",
+    "pain-interoception"
+   ],
+   "lenses": [
+    "extended-body",
+    "estrangement"
+   ],
+   "kind": "prototype",
+   "description": "Weak electric current passed through a straw or fork changes the taste of food and drink in the mouth; the line of work later became the Kirin Electric Salt Spoon, which makes low-salt food taste saltier.",
+   "description_zh": "通过吸管或叉子传入的微弱电流会改变口中食物与饮料的味道；这一研究后来发展为麒麟电盐勺，让低盐食物尝起来更咸。",
+   "idea_en": "Taste, felt as a private and given sense, turns out to be adjustable from outside, which makes eating a place to notice how perception is made.",
+   "idea_zh": "味觉看似私密而既定，实际上可以从外部调节；饮食因此成为察觉知觉如何生成的地方。",
+   "method": "Electrodes in eating utensils close a circuit through the tongue; the polarity and waveform of the current can add an 'electric' taste or strengthen or weaken salty taste.",
+   "method_zh": "餐具中的电极经由舌头形成回路；电流的极性与波形可以增添一种“电味”，或增强、减弱咸味。",
+   "keywords": [
+    "electric taste",
+    "gustation",
+    "Augmented Human",
+    "Meiji University",
+    "Kirin Electric Salt Spoon"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=EOqN_BRbSWU"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/1959826.1959860",
+    "doi": "10.1145/1959826.1959860",
+    "arxiv": "",
+    "venue": "Augmented Human 2011",
+    "title": "Augmented gustation using electricity"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "jas-brooks--stereo-smell",
+   "creator_ids": [
+    "jas-brooks",
+    "pedro-lopes"
+   ],
+   "title": "Stereo-Smell via Electrical Trigeminal Stimulation",
+   "year": 2021,
+   "field": "augmented",
+   "sub": "new-senses",
+   "modalities": [
+    "new-senses",
+    "electrical",
+    "pain-interoception"
+   ],
+   "lenses": [
+    "extended-body",
+    "touching-back"
+   ],
+   "kind": "prototype",
+   "description": "A small device on the nasal septum electrically stimulates the trigeminal nerve so wearers feel a smell-like sensation coming from the left or right, and can follow a virtual odour source by turning their head.",
+   "description_zh": "放在鼻中隔上的小装置以电刺激三叉神经，让佩戴者感到类似气味的感觉来自左边或右边，并能转头追踪一个虚拟气味源。",
+   "idea_en": "Smell is partly a bodily, tactile sense inside the nose; addressing that nerve directly gives smell a direction, as hearing has.",
+   "idea_zh": "嗅觉部分是鼻腔内的身体性、触觉性感觉；直接作用于这条神经，就能像听觉那样赋予嗅觉方向。",
+   "method": "Electrodes on the septum deliver lateralised electrical pulses to trigeminal nerve endings; user studies on perceived direction and navigation to a virtual smell in VR.",
+   "method_zh": "鼻中隔上的电极向三叉神经末梢施加左右不同的电脉冲；用户研究测试感知方向以及在 VR 中循虚拟气味导航。",
+   "keywords": [
+    "stereo smell",
+    "trigeminal nerve",
+    "olfaction",
+    "Human Computer Integration Lab",
+    "University of Chicago",
+    "CHI 2021"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=sbmYBUSuM48"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3411764.3445300",
+    "doi": "10.1145/3411764.3445300",
+    "arxiv": "",
+    "venue": "CHI 2021",
+    "title": "Stereo-Smell via Electrical Trigeminal Stimulation"
+   },
+   "source_url": "https://lab.plopes.org",
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "jasmine-lu--chemical-haptics",
+   "creator_ids": [
+    "jasmine-lu",
+    "jas-brooks",
+    "pedro-lopes"
+   ],
+   "title": "Chemical Haptics",
+   "year": 2021,
+   "field": "augmented",
+   "sub": "new-senses",
+   "modalities": [
+    "heat",
+    "pain-interoception",
+    "touch"
+   ],
+   "lenses": [
+    "touching-back",
+    "estrangement"
+   ],
+   "kind": "prototype",
+   "description": "A wearable pumps small amounts of skin-safe chemicals onto the skin to produce tingling (sanshool), numbness (lidocaine), stinging (cinnamaldehyde), warmth (capsaicin) and cooling (menthol) in VR scenes.",
+   "description_zh": "一个可穿戴装置把少量对皮肤安全的化学物质泵到皮肤上，在 VR 场景中产生刺麻（山椒素）、麻木（利多卡因）、刺痛（肉桂醛）、温热（辣椒素）和清凉（薄荷醇）的感觉。",
+   "idea_en": "The skin's own chemistry can be the display: sensations arise inside the body's receptors rather than being pushed onto it by a motor.",
+   "idea_zh": "皮肤自身的化学反应就可以成为显示：感觉在身体的感受器内部产生，而不是由马达从外部施加。",
+   "method": "A wearable with small reservoirs and pumps delivers liquid stimulants onto the skin; user studies on how each sensation feels, its onset and duration, and its use in VR scenes.",
+   "method_zh": "带小型储液器与泵的可穿戴装置把液体刺激物输送到皮肤上；用户研究测试每种感觉的质感、起效与持续时间，以及在 VR 场景中的使用。",
+   "keywords": [
+    "chemical haptics",
+    "sanshool",
+    "menthol",
+    "capsaicin",
+    "UIST 2021",
+    "University of Chicago"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=gQ3qBUIj7D4"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3472749.3474747",
+    "doi": "10.1145/3472749.3474747",
+    "arxiv": "",
+    "venue": "UIST 2021",
+    "title": "Chemical Haptics: Rendering Haptic Sensations via Topical Stimulants"
+   },
+   "source_url": "https://lab.plopes.org",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "botao-amber-hu--more-than-human-augmentation",
+   "creator_ids": [
+    "botao-amber-hu",
+    "danlin-huang"
+   ],
+   "title": "Experiencing the More-than-Human Through Human Augmentation",
+   "year": 2026,
+   "field": "augmented",
+   "sub": "new-senses",
+   "modalities": [
+    "new-senses",
+    "whole-soma",
+    "extra-body"
+   ],
+   "lenses": [
+    "more-than-human",
+    "extended-body",
+    "first-person"
+   ],
+   "kind": "paper",
+   "description": "A design paper that turns human-augmentation devices sideways: instead of making people more capable, they give temporary, first-person approximations of how a bat, fungus or octopus might sense, drawing on five mixed-reality, haptic and EMS works.",
+   "description_zh": "一篇设计论文，把人类增强设备“侧转”使用：不是让人更强，而是提供短暂的、第一人称的近似体验，去体会蝙蝠、真菌或章鱼如何感知；论文基于五件混合现实、触觉与肌电刺激作品。",
+   "idea_en": "Augmentation can loosen the human sensorium rather than optimise it; the felt body becomes a way to approach other species' worlds from within.",
+   "idea_zh": "增强技术可以松动人的感官，而不是优化它；被感受的身体成为从内部接近其他物种世界的途径。",
+   "method": "Research through design grounded in eco-phenomenology and eco-somatics, synthesising seven design principles from EchoVision, FeltSight, FungiSync, TentacUs and City of Sparkles.",
+   "method_zh": "以生态现象学与生态身体学为基础的设计研究，从 EchoVision、FeltSight、FungiSync、TentacUs 与 City of Sparkles 中归纳出七条设计原则。",
+   "keywords": [
+    "human augmentation",
+    "Umwelt",
+    "eco-somatics",
+    "Thomas Nagel",
+    "Reality Design Lab",
+    "DRS 2026"
+   ],
+   "images": [
+    "https://arxiv.org/html/2511.12533v3/images/MtHtHA.png",
+    "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/58a9a6e6-1cc7-4d68-be74-e80f26ae94c7/aadasdasd/public"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.21606/drs.2026.814",
+    "doi": "10.21606/drs.2026.814",
+    "arxiv": "2511.12533",
+    "venue": "DRS 2026",
+    "title": "Experiencing the More-than-Human Through Human Augmentation"
+   },
+   "source_url": "https://amber.botao.hu/project/hth",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "botao-amber-hu--tentacus",
+   "creator_ids": [
+    "botao-amber-hu",
+    "danlin-huang"
+   ],
+   "title": "TentacUs",
+   "year": 2025,
+   "field": "augmented",
+   "sub": "new-senses",
+   "also": [
+    "social"
+   ],
+   "modalities": [
+    "new-senses",
+    "vibration",
+    "touch"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "more-than-human",
+    "extended-body"
+   ],
+   "kind": "performance",
+   "description": "A mixed-reality ritual in which dancers join left hands in a ring and each becomes one arm of an octopus-like being; what one right hand senses nearby is passed on as vibration to the neighbours, so sensing spreads through the group.",
+   "description_zh": "一场混合现实仪式：舞者左手相牵围成一圈，每人成为一只类章鱼生命的一条触手；一只右手在附近感知到的东西，会以振动传给相邻的人，感知由此在群体中扩散。",
+   "idea_en": "An octopus senses with its arms, not only its brain; sharing sensation across bodies lets participants feel a decentred, distributed body-mind.",
+   "idea_zh": "章鱼用触手而不只用大脑感知；在身体之间共享感觉，让参与者体会一种去中心的、分布式的身心。",
+   "method": "Soft textile tentacle gloves hold smartphones whose LiDAR senses proximity and whose vibration motors pass haptic waves to neighbours; touch data are drawn as point clouds over a 3D Gaussian-splat scan on a public display.",
+   "method_zh": "柔软织物触手手套内置智能手机：LiDAR 感知距离，振动马达把触觉波传给相邻者；触碰数据以点云形式绘制在现场的 3D 高斯泼溅扫描上供观众观看。",
+   "keywords": [
+    "TentacUs",
+    "octopus",
+    "distributed cognition",
+    "vibrotactile",
+    "LiDAR",
+    "SIGGRAPH Asia 2025",
+    "Reality Design Lab"
+   ],
+   "images": [
+    "https://arxiv.org/html/2511.12533v3/images/tentacus.jpg",
+    "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/afd62d02-7102-4a26-b5b4-03df6cc2744b/image2/public"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3761667.3761962",
+    "doi": "10.1145/3761667.3761962",
+    "arxiv": "",
+    "venue": "SIGGRAPH Asia 2025 XR",
+    "title": "I Become Tentacle, We Become \"Tentacus\": A Mixed Reality Ritual for Distributed Bodies and Collective Minds"
+   },
+   "source_url": "https://amber.botao.hu/design/tentacus",
+   "code_url": "https://github.com/realitydeslab/tentacus",
+   "collections": [],
+   "exhibited": [
+    "SIGGRAPH Asia 2025 XR"
+   ]
+  },
+  {
+   "id": "masahiko-inami--jizai-body",
+   "creator_ids": [
+    "masahiko-inami"
+   ],
+   "title": "JIZAI Body",
+   "year": 2022,
+   "field": "augmented",
+   "sub": "body-integration",
+   "also": [
+    "foundations"
+   ],
+   "modalities": [
+    "extra-body",
+    "whole-soma",
+    "movement"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-mind-unity"
+   ],
+   "kind": "paper",
+   "description": "A concept paper proposing the 'JIZAI Body': a person who can freely control, or hand over control of, their natural body and its physical and virtual extensions, so as to live as they wish in society.",
+   "description_zh": "一篇概念论文，提出“自在身体”：一个人可以自由地控制（或交出控制）自己的自然身体及其物理与虚拟延伸，从而在社会中按自己的意愿生活。",
+   "idea_en": "The goal of augmentation is framed as jizai, the ease and freedom of the whole person, not maximum performance; control that is sometimes delegated can still feel like one's own body.",
+   "idea_zh": "增强的目标被理解为“自在”：整个人的从容与自由，而不是性能最大化；即使控制有时被委托出去，身体仍可被感受为自己的。",
+   "method": "Literature review across augmentation, cybernetics, robotics, VR, neuroscience and the humanities, five key aspects illustrated with existing works, and speculative scenarios of a JIZAI society.",
+   "method_zh": "综述人类增强、控制论、机器人学、虚拟现实、神经科学与人文学科的文献，用已有作品阐述五个关键面向，并描绘“自在社会”的设想情景。",
+   "keywords": [
+    "JIZAI Body",
+    "自在",
+    "cybernetics",
+    "ERATO",
+    "University of Tokyo",
+    "Augmented Humans"
+   ],
+   "images": [
+    "https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/inami-erato/2ea56722-b49c-46e6-82e1-836af40f4d7b/9ea864a6c8efa2fa81a9ea43ef46d6ef.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3519391.3519401",
+    "doi": "10.1145/3519391.3519401",
+    "arxiv": "",
+    "venue": "Augmented Humans 2022",
+    "title": "Cyborgs, Human Augmentation, Cybernetics, and JIZAI Body"
+   },
+   "source_url": "https://jizai-body.com",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "florian-mueller--bodily-integration-design",
+   "creator_ids": [
+    "florian-mueller",
+    "pedro-lopes",
+    "josh-andres",
+    "nathan-semertzidis",
+    "zhuying-li"
+   ],
+   "title": "Towards Understanding the Design of Bodily Integration",
+   "year": 2021,
+   "field": "augmented",
+   "sub": "body-integration",
+   "modalities": [
+    "whole-soma",
+    "electrical",
+    "extra-body"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-mind-unity"
+   ],
+   "kind": "paper",
+   "description": "A design framework for systems where body and computer act on each other, laid out along two axes, bodily agency and bodily ownership, giving four experiences: Super-Body, Tele-Body, Chauffeured-Body and Possessed-Body.",
+   "description_zh": "一个针对身体与计算机相互作用之系统的设计框架，沿“身体能动感”与“身体归属感”两条轴展开，得到四种体验：超级身体、远程身体、被驾驶的身体与被附身的身体。",
+   "idea_en": "Whether a device feels like 'me' and whether I feel I am acting are separate questions; designers can move deliberately between them, instead of assuming more control is always better.",
+   "idea_zh": "设备是否像“我”，与我是否感到自己在行动，是两个不同的问题；设计者可以有意在两者之间移动，而不是默认控制越多越好。",
+   "method": "Analysis of the authors' own EMS, eBike, ingestible and GVS systems and others' work to derive a four-quadrant design space.",
+   "method_zh": "分析作者自己的肌肉电刺激、电动自行车、可吞咽传感器与前庭电刺激系统以及他人作品，归纳出四象限设计空间。",
+   "keywords": [
+    "bodily integration",
+    "agency",
+    "ownership",
+    "Possessed-Body",
+    "Exertion Games Lab",
+    "IJHCS"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=A49aAYMUd9M"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1016/j.ijhcs.2021.102643",
+    "doi": "10.1016/j.ijhcs.2021.102643",
+    "arxiv": "",
+    "venue": "International Journal of Human-Computer Studies 2021",
+    "title": "Towards understanding the design of bodily integration"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "florian-mueller--intertwined-integration",
+   "creator_ids": [
+    "florian-mueller",
+    "nathan-semertzidis",
+    "josh-andres"
+   ],
+   "title": "Toward Understanding the Design of Intertwined Human–Computer Integrations",
+   "year": 2023,
+   "field": "augmented",
+   "sub": "body-integration",
+   "modalities": [
+    "whole-soma",
+    "electrical",
+    "movement"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-mind-unity"
+   ],
+   "kind": "paper",
+   "description": "The paper studies systems in which user and machine control the user's body at the same moment, so that it is no longer clear who did what, and offers design tactics for this 'intertwined' integration.",
+   "description_zh": "论文研究用户与机器在同一时刻控制用户身体的系统：到底是谁做了什么已不再清楚；论文为这种“交织式”融合提供了设计策略。",
+   "idea_en": "When agency over one's body is shared, the question 'who moved?' becomes part of the experience, and designers can tune how aware the person is of the machine and how aligned it is with them.",
+   "idea_zh": "当对身体的能动性被共享时，“是谁在动？”本身就成为体验的一部分；设计者可以调节人对机器的觉察程度，以及机器与人的一致程度。",
+   "method": "Three case studies (an EMS game, an eBike and a brain-computer system) analysed along two dimensions, awareness of the machine's agency and alignment of the machine's agency.",
+   "method_zh": "用三个案例（一款肌肉电刺激游戏、一辆电动自行车和一个脑机系统），沿“对机器能动性的觉察”与“机器能动性的一致性”两个维度进行分析。",
+   "keywords": [
+    "intertwined integration",
+    "shared agency",
+    "human-computer integration",
+    "TOCHI",
+    "Steve Benford",
+    "Joe Marshall"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3590766",
+    "doi": "10.1145/3590766",
+    "arxiv": "",
+    "venue": "ACM TOCHI 2023",
+    "title": "Toward Understanding the Design of Intertwined Human–Computer Integrations"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "nathan-semertzidis--neo-noumena",
+   "creator_ids": [
+    "nathan-semertzidis",
+    "florian-mueller",
+    "josh-andres"
+   ],
+   "title": "Neo-Noumena",
+   "year": 2020,
+   "field": "augmented",
+   "sub": "body-integration",
+   "also": [
+    "affect"
+   ],
+   "modalities": [
+    "brain",
+    "light-vision",
+    "whole-soma"
+   ],
+   "lenses": [
+    "affective-loop",
+    "intercorporeality"
+   ],
+   "kind": "prototype",
+   "description": "Two people wear EEG headsets and mixed-reality headsets for three days; the system reads each person's emotional state and shows it to the other as animated graphics in mixed reality around them.",
+   "description_zh": "两人连续三天佩戴脑电头带与混合现实头显；系统读取每个人的情绪状态，并在其周围以混合现实中的动态图像显示给对方看。",
+   "idea_en": "Emotion read from the brain becomes something partners see and respond to together; participants got better at regulating each other's feelings, showing that neural data can support felt, shared attunement rather than only measurement.",
+   "idea_zh": "从大脑读出的情绪变成伴侣共同看见并回应的东西；参与者调节彼此情绪的能力提高了，说明神经数据可以支持被感受的、共享的调谐，而不只是测量。",
+   "method": "Consumer EEG with a machine-learning emotion classifier drives procedurally generated visuals in two head-mounted displays; field study with five pairs, emotional-competence measures and interviews.",
+   "method_zh": "消费级脑电设备配合机器学习情绪分类器，驱动两台头戴显示器中程序生成的图像；对五对参与者进行田野研究，结合情绪能力量表与访谈。",
+   "keywords": [
+    "Neo-Noumena",
+    "brain-computer interface",
+    "EEG",
+    "emotion",
+    "mixed reality",
+    "CHI 2020"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=GbSzwxNmYz0"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3313831.3376599",
+    "doi": "10.1145/3313831.3376599",
+    "arxiv": "",
+    "venue": "CHI 2020",
+    "title": "Neo-Noumena: Augmenting Emotion Communication"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "pedro-lopes--muscle-plotter",
+   "creator_ids": [
+    "pedro-lopes"
+   ],
+   "title": "Muscle-plotter",
+   "year": 2016,
+   "field": "augmented",
+   "sub": "body-integration",
+   "modalities": [
+    "electrical",
+    "muscle",
+    "movement"
+   ],
+   "lenses": [
+    "extended-body",
+    "estrangement"
+   ],
+   "kind": "prototype",
+   "description": "While the user sketches a shape with a pen, electrical muscle stimulation pulls their wrist to draw the output of a simulation, such as the airflow around a car they have just drawn, on the same sheet of paper.",
+   "description_zh": "用户用笔画出一个形状时，肌肉电刺激拉动他们的手腕，在同一张纸上画出模拟结果，例如刚画好的汽车周围的气流。",
+   "idea_en": "The user's own arm becomes the computer's output device, so results are felt as movements one makes rather than read off a screen.",
+   "idea_zh": "用户自己的手臂成为计算机的输出设备，结果被感受为自己做出的动作，而不是从屏幕上读到的信息。",
+   "method": "Pen tracked on paper, a simulation computed on a laptop, and EMS electrodes on the forearm driving wrist flexion and extension to plot lines.",
+   "method_zh": "追踪纸上的笔迹，在笔记本电脑上计算模拟，前臂上的肌肉电刺激电极驱动手腕屈伸来绘制线条。",
+   "keywords": [
+    "EMS",
+    "Muscle-plotter",
+    "Hasso Plattner Institute",
+    "Patrick Baudisch",
+    "UIST 2016"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=On738nXm5AM"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/2984511.2984530",
+    "doi": "10.1145/2984511.2984530",
+    "arxiv": "",
+    "venue": "UIST 2016",
+    "title": "Muscle-plotter: An Interactive System based on Electrical Muscle Stimulation that Produces Spatial Output"
+   },
+   "source_url": "https://lab.plopes.org",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "pedro-lopes--impacto",
+   "creator_ids": [
+    "pedro-lopes"
+   ],
+   "title": "Impacto",
+   "year": 2015,
+   "field": "augmented",
+   "sub": "body-integration",
+   "modalities": [
+    "electrical",
+    "muscle",
+    "touch"
+   ],
+   "lenses": [
+    "touching-back",
+    "pleasure-play"
+   ],
+   "kind": "prototype",
+   "description": "A small armband makes a virtual punch or ball hit feel real: a solenoid taps the skin while muscle stimulation jerks the arm backwards, splitting the impact into touch and force.",
+   "description_zh": "一个小臂带让虚拟的拳击或球击感觉真实：电磁铁敲击皮肤，同时肌肉电刺激让手臂向后一震，把冲击拆分为触感与力感。",
+   "idea_en": "Felt impact is two sensations the body puts together; supplying each through the body's own channels is enough to make it believable without heavy machines.",
+   "idea_zh": "被感受到的冲击是身体组合起来的两种感觉；分别通过身体自身的通道提供它们，就足以令人信服，无需笨重的机器。",
+   "method": "A solenoid tapper for the tactile part and EMS on the biceps or triceps for the kinesthetic part, tested in VR boxing and baseball.",
+   "method_zh": "电磁敲击器提供触觉部分，二头肌或三头肌上的肌肉电刺激提供动觉部分，在 VR 拳击与棒球中测试。",
+   "keywords": [
+    "EMS",
+    "Impacto",
+    "VR haptics",
+    "Hasso Plattner Institute",
+    "UIST 2015"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=k5e4mXQLq54"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/2807442.2807443",
+    "doi": "10.1145/2807442.2807443",
+    "arxiv": "",
+    "venue": "UIST 2015",
+    "title": "Impacto: Simulating Physical Impact by Combining Tactile Stimulation with Electrical Muscle Stimulation"
+   },
+   "source_url": "https://lab.plopes.org",
+   "code_url": "",
+   "collections": [],
+   "exhibited": [
+    "UIST 2015 Best Talk nomination"
+   ]
+  },
+  {
+   "id": "yudai-tanaka--haptic-source-effector",
+   "creator_ids": [
+    "yudai-tanaka",
+    "pedro-lopes"
+   ],
+   "title": "Haptic Source-Effector",
+   "year": 2024,
+   "field": "augmented",
+   "sub": "body-integration",
+   "modalities": [
+    "brain",
+    "touch",
+    "movement"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-mind-unity"
+   ],
+   "kind": "prototype",
+   "description": "Instead of strapping actuators to each body part, a single magnetic coil moved across the scalp stimulates the sensorimotor cortex, and the user feels touches and forces in the hands, arms, legs, feet and jaw.",
+   "description_zh": "不再在每个身体部位绑执行器，而是用一个在头皮上移动的磁线圈刺激感觉运动皮层，让用户在手、手臂、腿、脚和下颌感到触碰与力。",
+   "idea_en": "Touch can start at the brain and still be felt out in the limbs, which shows how the felt body is assembled centrally and projected outward.",
+   "idea_zh": "触觉可以从大脑开始，却仍在四肢中被感受到；这显示了被感受的身体是在中枢组装、再投射出去的。",
+   "method": "Transcranial magnetic stimulation with a robot-positioned coil; first study mapped about 15 sensations across the body, second tested them in VR.",
+   "method_zh": "经颅磁刺激，线圈由机械装置定位；第一项研究在全身映射出约 15 种感觉，第二项研究在 VR 中测试它们。",
+   "keywords": [
+    "TMS",
+    "transcranial magnetic stimulation",
+    "haptics",
+    "University of Chicago",
+    "CHI 2024"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=JQUndFOJ-s8"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3613904.3642483",
+    "doi": "10.1145/3613904.3642483",
+    "arxiv": "",
+    "venue": "CHI 2024",
+    "title": "Haptic Source-Effector: Full-Body Haptics via Non-Invasive Brain Stimulation"
+   },
+   "source_url": "https://lab.plopes.org",
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "shunichi-kasahara--preserving-agency-ems",
+   "creator_ids": [
+    "shunichi-kasahara",
+    "jun-nishida",
+    "pedro-lopes"
+   ],
+   "title": "Preserving Agency During Electrical Muscle Stimulation Training",
+   "year": 2021,
+   "field": "augmented",
+   "sub": "body-integration",
+   "modalities": [
+    "electrical",
+    "muscle",
+    "movement"
+   ],
+   "lenses": [
+    "extended-body",
+    "first-person"
+   ],
+   "kind": "paper",
+   "description": "EMS made participants react to a target faster than they could alone; when the stimulation was timed so they still felt they had moved themselves, they stayed faster even after the EMS was removed.",
+   "description_zh": "肌肉电刺激让参与者对目标的反应比自己更快；当刺激的时机让他们仍觉得是自己在动时，即使撤掉电刺激，他们的反应仍然更快。",
+   "idea_en": "Keeping the felt sense of 'I did it' is not a luxury: learning through an assisted body works better when the movement is still experienced as one's own.",
+   "idea_zh": "保留“是我做的”这种感受并不是奢侈：当动作仍被体验为自己的，借由被辅助的身体进行学习效果更好。",
+   "method": "Reaction-time task with EMS on the forearm at different onsets relative to each person's natural reaction; sense of agency rated after each trial, and performance measured after EMS was removed.",
+   "method_zh": "反应时任务，前臂肌肉电刺激相对于每个人自然反应的起始时间设置不同；每次试验后评定能动感，并在撤除电刺激后测量表现。",
+   "keywords": [
+    "sense of agency",
+    "EMS",
+    "motor learning",
+    "Sony CSL",
+    "CHI 2021"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=QaHZ1ZDO-04"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3411764.3445147",
+    "doi": "10.1145/3411764.3445147",
+    "arxiv": "",
+    "venue": "CHI 2021",
+    "title": "Preserving Agency During Electrical Muscle Stimulation Training Speeds up Reaction Time Directly After Removing EMS"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "daisuke-tajima--whose-touch-is-this",
+   "creator_ids": [
+    "daisuke-tajima",
+    "jun-nishida",
+    "pedro-lopes",
+    "shunichi-kasahara"
+   ],
+   "title": "Whose Touch is This?",
+   "year": 2022,
+   "field": "augmented",
+   "sub": "body-integration",
+   "modalities": [
+    "electrical",
+    "touch",
+    "muscle"
+   ],
+   "lenses": [
+    "extended-body",
+    "first-person"
+   ],
+   "kind": "paper",
+   "description": "EMS moves a participant's finger to touch a target, sometimes against what they intended and sometimes helping them do what they could not; the study charts when the touch still feels like theirs.",
+   "description_zh": "肌肉电刺激移动参与者的手指去触碰目标，有时违背其意图，有时帮助他们完成做不到的事；研究描绘了这种触碰何时仍被感受为自己的。",
+   "idea_en": "Agency is a trade-off, not a switch: a computer can help the body and keep the feeling of authorship if assistance stays close to what the person was about to do.",
+   "idea_zh": "能动感是一种权衡而不是开关：只要辅助贴近人本来要做的动作，计算机就能在帮助身体的同时保留“由我发起”的感受。",
+   "method": "Controlled experiments crossing user intention with EMS-driven outcomes (aligned, forced, assisted), with agency ratings, leading to a design framework for digital touch.",
+   "method_zh": "受控实验把用户意图与电刺激驱动的结果（一致、强制、辅助）交叉组合，测量能动感评分，并据此提出数字触觉的设计框架。",
+   "keywords": [
+    "sense of agency",
+    "EMS",
+    "computer-driven touch",
+    "force feedback",
+    "TOCHI"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=XWaPYYrG3Rw"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3489608",
+    "doi": "10.1145/3489608",
+    "arxiv": "",
+    "venue": "ACM TOCHI 2022",
+    "title": "Whose Touch is This?: Understanding the Agency Trade-Off Between User-Driven Touch vs. Computer-Driven Touch"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "emi-tamaki--possessedhand",
+   "creator_ids": [
+    "emi-tamaki",
+    "jun-rekimoto"
+   ],
+   "title": "PossessedHand",
+   "year": 2011,
+   "field": "augmented",
+   "sub": "body-integration",
+   "modalities": [
+    "electrical",
+    "muscle",
+    "movement"
+   ],
+   "lenses": [
+    "extended-body",
+    "estrangement"
+   ],
+   "kind": "prototype",
+   "description": "A forearm band with electrode pads moves individual finger joints by electrical muscle stimulation, used for example to guide a beginner's fingers on the koto, a Japanese string instrument.",
+   "description_zh": "一个带电极片的前臂带用肌肉电刺激驱动单个手指关节，例如引导初学者在日本弦乐器“筝”上的指法。",
+   "idea_en": "Having one's fingers moved from outside is strange at first, and that strangeness shows how much of skill lives in the hand rather than in instructions.",
+   "idea_zh": "手指被外力驱动起初很陌生，而这种陌生恰恰显示了技能有多少存在于手中，而不在指令里。",
+   "method": "Twenty-eight electrode pads on the forearm stimulate the muscles behind 16 finger joints; tested for posture accuracy and in instrument-learning scenarios.",
+   "method_zh": "前臂上的 28 个电极片刺激控制 16 个手指关节的肌肉；测试了姿势准确度以及在乐器学习中的应用。",
+   "keywords": [
+    "PossessedHand",
+    "EMS",
+    "koto",
+    "Rekimoto Lab",
+    "University of Tokyo",
+    "CHI 2011"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=9XBoZyfB8hY"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/1978942.1979018",
+    "doi": "10.1145/1978942.1979018",
+    "arxiv": "",
+    "venue": "CHI 2011",
+    "title": "PossessedHand: Techniques for Controlling Human Hands Using Electrical Muscles Stimuli"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "shunichi-kasahara--jackin-head",
+   "creator_ids": [
+    "shunichi-kasahara",
+    "jun-rekimoto"
+   ],
+   "title": "JackIn Head",
+   "year": 2015,
+   "field": "augmented",
+   "sub": "body-integration",
+   "modalities": [
+    "light-vision",
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "extended-body",
+    "intercorporeality"
+   ],
+   "kind": "prototype",
+   "description": "A person wears an omnidirectional camera on their head, and remote viewers 'jack in' to their surroundings in VR, looking around freely while riding along with the wearer's body.",
+   "description_zh": "一个人头戴全景摄像头，远方的观看者在 VR 中“接入”其周围环境，随着佩戴者的身体移动，同时自由环顾。",
+   "idea_en": "Sharing a body's viewpoint without sharing its gaze creates a strange in-between presence, half inside another person and half free.",
+   "idea_zh": "共享一个身体的视点却不共享其目光，会产生一种奇特的中间状态：一半在他人之中，一半自由。",
+   "method": "Head-worn omnidirectional cameras with image stabilisation that decouples the viewer's view from the wearer's head motion, reducing motion sickness; streamed to remote HMD users.",
+   "method_zh": "头戴全景摄像头配合图像稳定算法，使观看者的视角与佩戴者的头部运动解耦以减少晕动，并实时传输给远程头显用户。",
+   "keywords": [
+    "JackIn",
+    "telepresence",
+    "first-person view",
+    "omnidirectional video",
+    "Sony CSL",
+    "Rekimoto Lab"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=HMkcscpBgOA"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/2821592.2821608",
+    "doi": "10.1145/2821592.2821608",
+    "arxiv": "",
+    "venue": "VRST 2015",
+    "title": "JackIn Head: Immersive Visual Telepresence System with Omnidirectional Wearable Camera"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "shunichi-kasahara--malleable-embodiment",
+   "creator_ids": [
+    "shunichi-kasahara"
+   ],
+   "title": "Malleable Embodiment",
+   "year": 2017,
+   "field": "augmented",
+   "sub": "body-integration",
+   "also": [
+    "machines-xr"
+   ],
+   "modalities": [
+    "movement",
+    "light-vision",
+    "posture-balance"
+   ],
+   "lenses": [
+    "extended-body",
+    "estrangement"
+   ],
+   "kind": "prototype",
+   "description": "Participants see a virtual body that shows their movement slightly in the past or slightly in the future, predicted by the system, and their sense of the body and their actual movement both change.",
+   "description_zh": "参与者看到一个虚拟身体，显示的是自己稍早的动作，或由系统预测的稍后的动作；他们对身体的感受和实际动作都随之改变。",
+   "idea_en": "The sense of 'this is my body' can hold a body that is a little ahead of itself, so time as well as space is malleable in embodiment.",
+   "idea_zh": "“这是我的身体”的感受可以容纳一个略微超前于自己的身体：在具身中，时间和空间一样可以被塑形。",
+   "method": "Full-body motion capture with a model that estimates past and future poses, rendered as a deformed avatar; embodiment questionnaires and movement analysis.",
+   "method_zh": "全身动作捕捉结合估计过去与未来姿态的模型，渲染为变形的化身；使用具身感问卷与动作分析。",
+   "keywords": [
+    "Malleable Embodiment",
+    "sense of embodiment",
+    "temporal deformation",
+    "avatar",
+    "CHI 2017"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=f18llWuvQe0"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3025453.3025962",
+    "doi": "10.1145/3025453.3025962",
+    "arxiv": "",
+    "venue": "CHI 2017",
+    "title": "Malleable Embodiment: Changing Sense of Embodiment by Spatial-Temporal Deformation of Virtual Human Body"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "adrien-verhulst--parallel-adaptation",
+   "creator_ids": [
+    "adrien-verhulst",
+    "shunichi-kasahara"
+   ],
+   "title": "Parallel Adaptation",
+   "year": 2022,
+   "field": "augmented",
+   "sub": "body-integration",
+   "also": [
+    "machines-xr"
+   ],
+   "modalities": [
+    "movement",
+    "light-vision",
+    "extra-body"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-mind-unity"
+   ],
+   "kind": "paper",
+   "description": "People switch back and forth between two virtual bodies, each with the opposite visual distortion of their reach; with the right perspective cues they learn both at once instead of one erasing the other.",
+   "description_zh": "参与者在两个虚拟身体之间来回切换，每个身体的伸手动作带有相反的视觉偏移；在合适的视角提示下，他们能同时学会两者，而不是一个抹去另一个。",
+   "idea_en": "One body-mind can hold two motor selves if the switch between them is clearly marked, a first step toward living in several bodies.",
+   "idea_zh": "只要两者之间的切换被清晰标示，一个身心就可以容纳两个运动自我；这是走向同时栖居多个身体的第一步。",
+   "method": "VR reaching task (N=21) with opposite gradual visuomotor rotations for body A and body B, crossing first- versus third-person perspective and head rotation cues.",
+   "method_zh": "VR 伸手任务（21 人），身体 A 与身体 B 施加相反的渐进视觉运动旋转，交叉操纵第一/第三人称视角与头部转动提示。",
+   "keywords": [
+    "dual embodiment",
+    "motor adaptation",
+    "virtual body",
+    "Sony CSL",
+    "Cybernetic Humanity Studio",
+    "ISMAR 2022"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=nXcPkRxc4SM"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1109/ismar55827.2022.00031",
+    "doi": "10.1109/ismar55827.2022.00031",
+    "arxiv": "",
+    "venue": "IEEE ISMAR 2022",
+    "title": "Parallel Adaptation: Switching between Two Virtual Bodies with Different Perspectives Enables Dual Motor Adaptation"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "romain-nith--splitbody",
+   "creator_ids": [
+    "romain-nith",
+    "pedro-lopes"
+   ],
+   "title": "SplitBody",
+   "year": 2024,
+   "field": "augmented",
+   "sub": "body-integration",
+   "modalities": [
+    "electrical",
+    "muscle",
+    "movement"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-mind-unity"
+   ],
+   "kind": "prototype",
+   "description": "While a person concentrates on a mental task such as writing, EMS automates a repetitive movement in the background, like stirring a pot, and their mental workload drops.",
+   "description_zh": "当一个人专注于写作等脑力任务时，肌肉电刺激在后台自动完成重复动作，比如搅拌锅里的汤，他们的心理负荷随之下降。",
+   "idea_en": "The design splits attention from movement; it works, which raises the soma-design question of what is lost when the body keeps moving without the mind attending to it.",
+   "idea_zh": "这个设计把注意与动作分开；它确实有效，这也提出一个身体设计的问题：当身体在心不在焉时继续动作，我们失去了什么。",
+   "method": "EMS electrodes drive a repetitive arm movement during a cognitively demanding multitask; workload, performance and user experience compared with and without EMS.",
+   "method_zh": "在高认知负荷的多任务中，肌肉电刺激电极驱动重复的手臂动作；比较有无电刺激时的负荷、表现与体验。",
+   "keywords": [
+    "SplitBody",
+    "EMS",
+    "multitasking",
+    "mental workload",
+    "CHI 2024"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=J4tJ1FZ-QoA"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3613904.3642629",
+    "doi": "10.1145/3613904.3642629",
+    "arxiv": "",
+    "venue": "CHI 2024",
+    "title": "SplitBody: Reducing Mental Workload while Multitasking via Muscle Stimulation"
+   },
+   "source_url": "https://lab.plopes.org",
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "susumu-tachi--telesar-v",
+   "creator_ids": [
+    "susumu-tachi",
+    "kouta-minamizawa"
+   ],
+   "title": "TELESAR V",
+   "year": 2012,
+   "field": "augmented",
+   "sub": "body-integration",
+   "also": [
+    "machines-xr"
+   ],
+   "modalities": [
+    "touch",
+    "light-vision",
+    "movement"
+   ],
+   "lenses": [
+    "extended-body",
+    "first-person"
+   ],
+   "kind": "prototype",
+   "description": "An operator wearing a head-mounted display and haptic gloves moves a humanoid robot and sees, hears and feels through it, down to the texture of cloth under the robot's fingertips, so the robot body is experienced as one's own.",
+   "description_zh": "操作者戴着头显与触觉手套控制一台人形机器人，并通过它去看、去听、去触摸，甚至能感到机器人指尖下布料的纹理，从而把机器人身体体验为自己的身体。",
+   "idea_en": "Telexistence shows that presence depends on closing the loop of seeing, moving and touching; with it, the self can be felt in a distant body.",
+   "idea_zh": "远程存在表明，临场感取决于看、动、触之间的闭环；闭合之后，自我可以在远方的身体中被感受到。",
+   "method": "Master-slave humanoid robot with stereo vision, binaural audio and fingertip haptic sensors whose signals are reproduced on the operator's fingers.",
+   "method_zh": "主从式人形机器人，配有立体视觉、双耳音频与指尖触觉传感器，其信号在操作者手指上重现。",
+   "keywords": [
+    "telexistence",
+    "TELESAR",
+    "teleoperation",
+    "haptic transmission",
+    "Keio KMD",
+    "SIGGRAPH 2012"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=KoC1iTOmYTg"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/2343456.2343479",
+    "doi": "10.1145/2343456.2343479",
+    "arxiv": "",
+    "venue": "SIGGRAPH 2012 Emerging Technologies",
+    "title": "TELESAR V: TELExistence Surrogate Anthropomorphic Robot"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "cindy-hsin-liu-kao--hybrid-body-craft",
+   "creator_ids": [
+    "cindy-hsin-liu-kao"
+   ],
+   "title": "Hybrid Body Craft",
+   "year": 2017,
+   "field": "augmented",
+   "sub": "body-integration",
+   "also": [
+    "methods"
+   ],
+   "modalities": [
+    "touch",
+    "extra-body",
+    "light-vision"
+   ],
+   "lenses": [
+    "body-politics",
+    "extended-body"
+   ],
+   "kind": "method",
+   "description": "A design approach that builds on-skin electronics out of body-decoration traditions, such as gold-leaf metallic tattoos (DuoSkin), colour-changing makeup and machine-embroidered lace worn on the skin.",
+   "description_zh": "一种设计方法：以身体装饰传统来制作贴肤电子，例如金箔金属纹身（DuoSkin）、变色化妆品以及贴在皮肤上的机绣蕾丝。",
+   "idea_en": "Skin is not a neutral surface for sensors; it carries identity and culture, so technology that joins the body should be designed as adornment people choose to wear.",
+   "idea_zh": "皮肤不是放置传感器的中性表面，它承载着身份与文化；与身体融合的技术应被设计为人们愿意佩戴的装饰。",
+   "method": "Fabrication with skin-safe materials (gold leaf, temporary tattoo paper, thermochromic pigments, embroidery), co-design with wearers and body-craft practitioners.",
+   "method_zh": "使用对皮肤安全的材料（金箔、临时纹身纸、热致变色颜料、刺绣）进行制作，并与佩戴者和身体装饰从业者共同设计。",
+   "keywords": [
+    "Hybrid Body Craft",
+    "DuoSkin",
+    "on-skin interface",
+    "body craft",
+    "Hybrid Body Lab",
+    "MIT Media Lab"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=13xJIJd4R54"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1109/mprv.2021.3079321",
+    "doi": "10.1109/mprv.2021.3079321",
+    "arxiv": "",
+    "venue": "IEEE Pervasive Computing 2021",
+    "title": "Hybrid Body Craft: Toward Culturally and Socially Inclusive Design for On-Skin Interfaces"
+   },
+   "source_url": "https://www.hybridbody.human.cornell.edu",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "florian-mueller--limited-control-over-the-body",
+   "creator_ids": [
+    "florian-mueller",
+    "rakesh-patibanda",
+    "zhuying-li",
+    "josh-andres"
+   ],
+   "title": "Limited Control Over the Body as Intriguing Play Design Resource",
+   "year": 2021,
+   "field": "augmented",
+   "sub": "augmented-play",
+   "modalities": [
+    "whole-soma",
+    "electrical",
+    "posture-balance"
+   ],
+   "lenses": [
+    "pleasure-play",
+    "estrangement"
+   ],
+   "kind": "paper",
+   "description": "Using three of their own bodily play systems, the authors argue that losing some control over one's body, through external triggers or other bodily activity, can make play more interesting rather than less.",
+   "description_zh": "作者用自己的三个身体游戏系统论证：通过外部触发或其他身体活动而失去对身体的部分控制，可以让游戏更有趣，而不是更糟。",
+   "idea_en": "Not being fully in charge of one's body can be a source of curiosity and reflection; designers can offer it through four strategies: exploration, reflection, learning and embracement.",
+   "idea_zh": "不完全掌控自己的身体，可以成为好奇与反思的来源；设计者可以通过探索、反思、学习与接纳四种策略来提供这种体验。",
+   "method": "Design analysis of three bodily play systems varying the player's degree of indirect control, leading to four strategies.",
+   "method_zh": "对三个身体游戏系统进行设计分析，改变玩家间接控制的程度，并归纳出四种策略。",
+   "keywords": [
+    "limited control",
+    "bodily play",
+    "Exertion Games Lab",
+    "CHI 2021",
+    "vertigo"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=KCnPPuS4kjA"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3411764.3445744",
+    "doi": "10.1145/3411764.3445744",
+    "arxiv": "",
+    "venue": "CHI 2021",
+    "title": "Limited Control Over the Body as Intriguing Play Design Resource"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "josh-andres--integrated-exertion",
+   "creator_ids": [
+    "josh-andres",
+    "nathan-semertzidis",
+    "zhuying-li",
+    "florian-mueller"
+   ],
+   "title": "Integrated Exertion",
+   "year": 2022,
+   "field": "augmented",
+   "sub": "augmented-play",
+   "modalities": [
+    "movement",
+    "brain",
+    "whole-soma"
+   ],
+   "lenses": [
+    "extended-body",
+    "pleasure-play"
+   ],
+   "kind": "paper",
+   "description": "Three eBikes that act on the rider, for example adding motor power to catch green lights or responding to the rider's brain state, are used to build a framework for exertion experiences where the machine is a partner acting on the body.",
+   "description_zh": "三辆会作用于骑行者的电动自行车（例如为赶上绿灯而增减助力，或响应骑行者的大脑状态）被用来建立一个框架：在运动体验中，机器是作用于身体的伙伴。",
+   "idea_en": "When a machine shares the effort, riders describe feeling 'super-powered' or as one with the bike; the framework asks designers to shape that shared exertion rather than simply display data.",
+   "idea_zh": "当机器分担用力时，骑行者会说自己像“有了超能力”或与车融为一体；这个框架要求设计者去塑造这种共享的用力，而不只是显示数据。",
+   "method": "Three eBike systems, including Ari (traffic-light-aware assistance) and likely an EEG-driven system that reads the rider's peripheral awareness, studied in the field; findings synthesised into a framework with design tactics.",
+   "method_zh": "对三套电动自行车系统进行田野研究，其中包括 Ari（根据红绿灯时序助力），很可能还有一套读取骑行者脑电“周边觉察”状态的系统；归纳出带有设计策略的框架。",
+   "keywords": [
+    "integrated exertion",
+    "eBike",
+    "human-computer integration",
+    "Exertion Games Lab",
+    "TOCHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3528352",
+    "doi": "10.1145/3528352",
+    "arxiv": "",
+    "venue": "ACM TOCHI 2022",
+    "title": "Integrated Exertion—Understanding the Design of Human–Computer Integration in an Exertion Context"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "rakesh-patibanda--auto-paizo-games",
+   "creator_ids": [
+    "rakesh-patibanda",
+    "aryan-saini",
+    "florian-mueller"
+   ],
+   "title": "Auto-Paizo Games",
+   "year": 2023,
+   "field": "augmented",
+   "sub": "augmented-play",
+   "modalities": [
+    "electrical",
+    "muscle",
+    "movement"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "pleasure-play",
+    "estrangement"
+   ],
+   "kind": "prototype",
+   "description": "Three games in which a player uses one hand to play against their other hand, whose movements are taken over by electrical muscle stimulation, so the body is both the input and the output of the game.",
+   "description_zh": "三款游戏中，玩家用一只手与另一只手对战，而后者的动作由肌肉电刺激接管；身体既是游戏的输入，也是输出。",
+   "idea_en": "Most movement games pull attention to a screen; making the body the play material keeps attention on the body, and playing against oneself makes the familiar body strange.",
+   "idea_zh": "大多数体感游戏把注意力拉向屏幕；把身体作为游戏材料，能让注意力留在身体上，而与自己对战则让熟悉的身体变得陌生。",
+   "method": "EMS on the forearm of the 'computer' hand, the other hand tracked as input; field study with 12 participants and thematic analysis.",
+   "method_zh": "在“计算机”那只手的前臂施加肌肉电刺激，另一只手被追踪作为输入；对 12 名参与者进行田野研究并作主题分析。",
+   "keywords": [
+    "Auto-Paizo",
+    "Body as a Play Material",
+    "EMS",
+    "Exertion Games Lab",
+    "CHI PLAY 2023"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ewS73Hw1q70"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3611054",
+    "doi": "10.1145/3611054",
+    "arxiv": "",
+    "venue": "CHI PLAY 2023 (PACM HCI)",
+    "title": "Auto-Paizo Games: Towards Understanding the Design of Games That Aim to Unify a Player's Physical Body and the Virtual World"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "rakesh-patibanda--fused-spectatorship",
+   "creator_ids": [
+    "rakesh-patibanda",
+    "aryan-saini",
+    "josh-andres",
+    "florian-mueller"
+   ],
+   "title": "Fused Spectatorship",
+   "year": 2023,
+   "field": "augmented",
+   "sub": "augmented-play",
+   "modalities": [
+    "electrical",
+    "muscle",
+    "movement"
+   ],
+   "lenses": [
+    "extended-body",
+    "pleasure-play"
+   ],
+   "kind": "prototype",
+   "description": "Spectators hand control of both hands to an EMS system and watch their own hands play a game; many could not tell whether they were watching or playing.",
+   "description_zh": "观众把双手的控制交给肌肉电刺激系统，看着自己的手玩游戏；许多人分不清自己是在观看还是在玩。",
+   "idea_en": "When one's own hands act without one's intention, spectating and playing merge, and the felt line between observing one's body and being it blurs.",
+   "idea_zh": "当自己的手在没有意图的情况下行动，观看与游玩便融合了；观察自己的身体与成为这个身体之间的感受界线变得模糊。",
+   "method": "EMS on both forearms driven by game logic in three competitive and collaborative games; study with 12 participants yielding four spectator experience themes and four spectator types.",
+   "method_zh": "由游戏逻辑驱动双前臂的肌肉电刺激，设计了三款竞争与协作游戏；12 人研究得出四个观众体验主题与四种观众类型。",
+   "keywords": [
+    "Fused Spectatorship",
+    "EMS",
+    "spectating",
+    "Exertion Games Lab",
+    "CHI PLAY 2023"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=IDmlYpVi5GM"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3611049",
+    "doi": "10.1145/3611049",
+    "arxiv": "",
+    "venue": "CHI PLAY 2023 (PACM HCI)",
+    "title": "Fused Spectatorship: Designing Bodily Experiences Where Spectators Become Players"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "rakesh-patibanda--shared-bodily-fusion",
+   "creator_ids": [
+    "rakesh-patibanda",
+    "aryan-saini",
+    "florian-mueller"
+   ],
+   "title": "Shared Bodily Fusion",
+   "year": 2024,
+   "field": "augmented",
+   "sub": "augmented-play",
+   "also": [
+    "social"
+   ],
+   "modalities": [
+    "electrical",
+    "touch",
+    "muscle"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "pleasure-play"
+   ],
+   "kind": "prototype",
+   "description": "In the game 'Hidden Touch', one player's touch on the other's body is turned by a shared EMS system into a muscle movement in the partner, fusing two bodies through a mediating computer.",
+   "description_zh": "在游戏“Hidden Touch”中，一名玩家对另一人身体的触碰，被共享的肌肉电刺激系统转化为对方的肌肉动作，借由中介的计算机把两个身体融合起来。",
+   "idea_en": "Touch that makes another's body move brings back the pushing and pulling of playground games, and makes the partner's body felt as partly one's own to move.",
+   "idea_zh": "能让对方身体动起来的触碰，找回了游乐场游戏中推拉的身体互动，也让对方的身体被感受为部分可由自己驱动。",
+   "method": "Touch-sensing on the skin mapped to EMS on the partner's forearm; study with 27 participants mapping experiences across threshold, tolerance and precision.",
+   "method_zh": "皮肤上的触碰感测映射到对方前臂的肌肉电刺激；27 人研究沿阈值、耐受与精度三个体验空间描绘玩家经验。",
+   "keywords": [
+    "Shared Bodily Fusion",
+    "Hidden Touch",
+    "inter-body interaction",
+    "EMS",
+    "DIS 2024"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=7dI4fbLqO-Q"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3643834.3660723",
+    "doi": "10.1145/3643834.3660723",
+    "arxiv": "",
+    "venue": "DIS 2024",
+    "title": "Shared Bodily Fusion: Leveraging Inter-Body Electrical Muscle Stimulation for Social Play"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [
+    "dis"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "zhuying-li--exoskeleton-shared-bodily-control",
+   "creator_ids": [
+    "zhuying-li",
+    "rakesh-patibanda",
+    "florian-mueller"
+   ],
+   "title": "Shared Bodily Control via Exoskeleton-based Play",
+   "year": 2026,
+   "field": "augmented",
+   "sub": "augmented-play",
+   "modalities": [
+    "movement",
+    "extra-body",
+    "posture-balance"
+   ],
+   "lenses": [
+    "extended-body",
+    "pleasure-play"
+   ],
+   "kind": "prototype",
+   "description": "In three games an exoskeleton controls one of the player's arms with its own logic while the player controls the other, framed as proxy, collaborator or opponent.",
+   "description_zh": "三款游戏中，一台外骨骼按自己的逻辑控制玩家的一只手臂，玩家控制另一只；外骨骼被设定为代理、合作者或对手。",
+   "idea_en": "How a machine that moves part of your body is framed (helper, partner, rival) changes how that arm feels and whose arm it seems to be.",
+   "idea_zh": "一台驱动你部分身体的机器被如何定位（帮手、伙伴、对手），会改变那只手臂的感受，以及它看起来属于谁。",
+   "method": "Arm exoskeleton with game scenarios; qualitative study with 16 participants on bodily experience and the human-machine relationship.",
+   "method_zh": "手臂外骨骼配合游戏情境；对 16 名参与者进行关于身体体验与人机关系的质性研究。",
+   "keywords": [
+    "exoskeleton",
+    "shared bodily control",
+    "bodily play",
+    "Exertion Games Lab",
+    "CHI 2026"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=TsMne21CglM"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3772318.3793418",
+    "doi": "10.1145/3772318.3793418",
+    "arxiv": "",
+    "venue": "CHI 2026",
+    "title": "Towards Understanding the Design of Shared Bodily Control via Exoskeleton-based Play"
+   },
+   "source_url": "",
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "romain-nith--jumpmod",
+   "creator_ids": [
+    "romain-nith",
+    "pedro-lopes"
+   ],
+   "title": "JumpMod",
+   "year": 2023,
+   "field": "augmented",
+   "sub": "augmented-play",
+   "modalities": [
+    "movement",
+    "posture-balance",
+    "vibration"
+   ],
+   "lenses": [
+    "touching-back",
+    "pleasure-play"
+   ],
+   "kind": "prototype",
+   "description": "A backpack moves a weight up and down along the wearer's back at the right moment of a jump, making them feel they jumped higher, landed softer or were pulled down.",
+   "description_zh": "一个背包在跳跃的恰当时刻沿佩戴者背部上下移动一块重物，让他们觉得自己跳得更高、落地更轻，或被往下拉。",
+   "idea_en": "The felt height of a jump is built from momentum sensed in the body, so shifting weight at the right time rewrites the experience of one's own movement.",
+   "idea_zh": "跳跃的“高度感”来自身体感受到的动量；在恰当时刻移动重量，就能改写人对自身动作的体验。",
+   "method": "Untethered backpack with a motor-driven mass on a vertical rail, timed to jump phases detected by an IMU; studies on five jump effects and use in VR and games.",
+   "method_zh": "无线背包内有沿竖直导轨移动、由电机驱动的配重，其时序与惯性测量单元检测到的跳跃阶段同步；研究测试了五种跳跃效果及其在 VR 与游戏中的使用。",
+   "keywords": [
+    "JumpMod",
+    "haptic backpack",
+    "jumping",
+    "vertical force feedback",
+    "CHI 2023"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=57izT0UZ77M"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3544548.3580764",
+    "doi": "10.1145/3544548.3580764",
+    "arxiv": "",
+    "venue": "CHI 2023",
+    "title": "JumpMod: Haptic Backpack that Modifies Users' Perceived Jump"
+   },
+   "source_url": "https://lab.plopes.org",
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "masahiko-inami--superhuman-sports",
+   "creator_ids": [
+    "masahiko-inami",
+    "kai-kunze",
+    "kouta-minamizawa"
+   ],
+   "title": "Superhuman Sports",
+   "year": 2015,
+   "field": "augmented",
+   "sub": "augmented-play",
+   "also": [
+    "movement"
+   ],
+   "modalities": [
+    "movement",
+    "extra-body",
+    "whole-soma"
+   ],
+   "lenses": [
+    "extended-body",
+    "pleasure-play",
+    "body-politics"
+   ],
+   "kind": "practice",
+   "description": "A movement, and a Japanese society founded in 2015, that designs new sports around human augmentation, such as bouncing in bubble suits on spring stilts, so that people of different ages and abilities can play together.",
+   "description_zh": "一场运动，以及 2015 年在日本成立的协会：围绕人类增强设计新的体育项目，例如穿着气泡服踩弹簧高跷弹跳，让不同年龄与能力的人能一起玩。",
+   "idea_en": "If augmentation can level differences between bodies, sport becomes a way to explore what an extended body feels like in play rather than to rank bodies.",
+   "idea_zh": "如果增强能拉平身体之间的差异，体育就可以成为在游戏中探索延展身体感受的方式，而不是给身体排名。",
+   "method": "Sports designed in hackathons and competitions with wearable devices, AR and robotics; the 2017 IEEE Pervasive Computing article sets out the research agenda.",
+   "method_zh": "通过黑客松与比赛，结合可穿戴设备、增强现实与机器人设计体育项目；2017 年发表于 IEEE Pervasive Computing 的文章阐述了研究议程。",
+   "keywords": [
+    "Superhuman Sports",
+    "超人スポーツ",
+    "Bubble Jumper",
+    "HADO",
+    "human augmentation",
+    "inclusive sport"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Oor3mQaUiHg"
+   },
+   "images": [
+    "https://superhuman-sports.org/assets/images/common/bnr_1.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1109/mprv.2017.35",
+    "doi": "10.1109/mprv.2017.35",
+    "arxiv": "",
+    "venue": "IEEE Pervasive Computing 2017",
+    "title": "Superhuman Sports: Applying Human Augmentation to Physical Exercise"
+   },
+   "source_url": "https://superhuman-sports.org",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  }
+ ],
+ "leads": [
+  {
+   "name": "Frank Parietti & H. Harry Asada — Supernumerary Robotic Limbs (IEEE T-RO 2016)",
+   "why": "Canonical SRL engineering work (MIT d'Arbeloff Lab); little on felt experience, so left out.",
+   "link": "https://doi.org/10.1109/tro.2016.2520486",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Kaspar, König et al. — The experience of new sensorimotor contingencies by sensory augmentation (2014)",
+   "why": "First-person reports from long-term feelSpace wearers; folded into the feelSpace Belt entry, could be its own paper.",
+   "link": "https://doi.org/10.1016/j.concog.2014.06.006",
+   "found_via": "saskia-nagel",
+   "status": "open"
+  },
+  {
+   "name": "König et al. — Learning New Sensorimotor Contingencies (PLOS ONE 2016)",
+   "why": "Long-term feelSpace study with brain imaging and conscious perception.",
+   "link": "https://doi.org/10.1371/journal.pone.0166647",
+   "found_via": "saskia-nagel",
+   "status": "open"
+  },
+  {
+   "name": "Cindy Hsin-Liu Kao et al. — DuoSkin (ISWC 2016)",
+   "why": "Gold-leaf on-skin interfaces; folded into Hybrid Body Craft, no creator-owned video found.",
+   "link": "https://doi.org/10.1145/2971763.2971777",
+   "found_via": "cindy-hsin-liu-kao",
+   "status": "open"
+  },
+  {
+   "name": "Jun Nishida et al. — DigituSync (UIST 2022)",
+   "why": "Dual-user passive exoskeleton glove that shares hand gestures between two people.",
+   "link": "https://doi.org/10.1145/3526113.3545630",
+   "found_via": "jun-nishida",
+   "status": "open"
+  },
+  {
+   "name": "Jun Nishida, Shunichi Kasahara, Kenji Suzuki — Wired Muscle (SIGGRAPH 2017 E-Tech)",
+   "why": "Early EMS-shared reaction work preceding Preemptive Action.",
+   "link": "https://doi.org/10.1145/3084822.3084844",
+   "found_via": "jun-nishida",
+   "status": "open"
+  },
+  {
+   "name": "Florian Mueller et al. — Towards Designing Bodily Integrated Play (TEI 2020)",
+   "why": "Design strategies for play with extra limbs and ingestibles; video IKC_3sm0MCY.",
+   "link": "https://doi.org/10.1145/3374920.3374931",
+   "found_via": "florian-mueller",
+   "status": "open"
+  },
+  {
+   "name": "Josh Andres et al. — Introducing Peripheral Awareness as a Neurological State for Human-computer Integration (CHI 2020)",
+   "why": "EEG-driven eBike integration; SIGCHI video not embeddable.",
+   "link": "https://doi.org/10.1145/3313831.3376128",
+   "found_via": "josh-andres",
+   "status": "open"
+  },
+  {
+   "name": "Florian Mueller et al. — Brain-Computer Integration (TOCHI 2023)",
+   "why": "Framework for BCIs from an integration perspective.",
+   "link": "https://doi.org/10.1145/3603621",
+   "found_via": "florian-mueller",
+   "status": "open"
+  },
+  {
+   "name": "Rakesh Patibanda et al. — Towards Understanding the Design of Body-Actuated Play (CHI PLAY EA 2022) and AI in the Shell (CHI EA 2023)",
+   "why": "Further Exertion Games Lab EMS-play and integrated-embodiment papers.",
+   "link": "https://doi.org/10.1145/3505270.3558367",
+   "found_via": "rakesh-patibanda",
+   "status": "open"
+  },
+  {
+   "name": "Aryan Saini et al. — PneuExtensio (DIS 2024)",
+   "why": "Pneumatic bodily extensions to facilitate embodiment; sibling of PneuMa.",
+   "link": "https://doi.org/10.1145/3656156.3665136",
+   "found_via": "aryan-saini",
+   "status": "open"
+  },
+  {
+   "name": "Pedro Lopes — What if the 'I' in HCI stands for Integration? (UIST 2025 adjunct)",
+   "why": "Recent position statement on integration; check whether it engages felt experience.",
+   "link": "https://doi.org/10.1145/3746058.3762829",
+   "found_via": "pedro-lopes",
+   "status": "open"
+  },
+  {
+   "name": "Jas Brooks et al. — Trigeminal-based Temperature Illusions (CHI 2020)",
+   "why": "Warmth and coolness felt via the trigeminal nerve; sibling of Stereo-Smell.",
+   "link": "",
+   "found_via": "jas-brooks",
+   "status": "open"
+  },
+  {
+   "name": "Hagiwara, Kitazaki et al. — Concurrent sharing of an avatar body by two individuals in VR",
+   "why": "Two people co-controlling one avatar body ('joint avatar'); video YX-jTVRo5lk.",
+   "link": "https://www.youtube.com/watch?v=YX-jTVRo5lk",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Abboud, Amedi et al. — EyeMusic (2014)",
+   "why": "Colour-to-music sensory substitution from Amedi's lab.",
+   "link": "https://doi.org/10.3233/rnn-130338",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "meleap — HADO AR sport",
+   "why": "Commercial augmented-reality dodgeball linked to Superhuman Sports; weak felt-body angle.",
+   "link": "https://hado-official.com",
+   "found_via": "masahiko-inami",
+   "status": "open"
+  },
+  {
+   "name": "Ando et al. — Bubble Jumper (Superhuman Sports Design Challenge 2018)",
+   "why": "Signature superhuman sport; folded into Superhuman Sports.",
+   "link": "https://doi.org/10.1145/3210299.3210301",
+   "found_via": "masahiko-inami",
+   "status": "open"
+  },
+  {
+   "name": "MHD Yamen Saraiji — MetaArms / SlideFusion",
+   "why": "Further Keio body-sharing and extra-arm systems.",
+   "link": "https://www.youtube.com/watch?v=20YL8gFW1QU",
+   "found_via": "mhd-yamen-saraiji",
+   "status": "open"
+  },
+  {
+   "name": "Ory Lab — OriHime avatar robots / Avatar Robot Cafe DAWN",
+   "why": "People with ALS and other disabilities work through avatar robots; care and telexistence angle.",
+   "link": "",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Max Ortiz Catalan — osseointegrated neuromusculoskeletal arm prosthesis with sensory feedback",
+   "why": "Prosthesis felt as own through touch feedback (Science Translational Medicine 2020).",
+   "link": "",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Shunichi Kasahara — Superception / Cybernetic Humanity (talks)",
+   "why": "Research programme on engineering the sense of self; talk videos 3PiIs8eQhAk, GJktqwYBgeM.",
+   "link": "https://www.youtube.com/watch?v=3PiIs8eQhAk",
+   "found_via": "shunichi-kasahara",
+   "status": "open"
+  },
+  {
+   "name": "Clode et al. — Third Thumb usability across a large and diverse sample (Nature Communications 2024)",
+   "why": "Science-Museum-scale study of Third Thumb learning; DOI not yet verified.",
+   "link": "https://www.youtube.com/watch?v=UI-t21QcXM4",
+   "found_via": "dani-clode",
+   "status": "open"
+  },
+  {
+   "name": "Somaesthetic framing of augmentation (gap)",
+   "why": "No Höök-group paper found that uses somaesthetics directly to reason about extra limbs or EMS; closest are Mueller et al.'s bodily-integration papers and Reality Design Lab's eco-somatic augmentation paper.",
+   "link": "",
+   "found_via": "florian-mueller",
+   "status": "open"
+  }
+ ]
+}

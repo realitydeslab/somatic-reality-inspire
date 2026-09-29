@@ -40,6 +40,22 @@
   "batch": "affect-biodata"
  },
  {
+  "name": "Stelarc — Fractal Flesh (1995)",
+  "why": "Remote audiences actuate his muscles by touch screen and EMS; close to Ping Body (already in movement-art-2), so skipped.",
+  "link": "https://www.youtube.com/watch?v=N2VkOE_AgNI",
+  "found_via": "stelarc",
+  "status": "duplicate",
+  "batch": "augment-art-theory"
+ },
+ {
+  "name": "Lepht Anonym — grinder self-implants",
+  "why": "DIY biohacker writing about implanted magnets and felt new senses; no stable primary source found.",
+  "link": "https://en.wikipedia.org/wiki/Grinder_(biohacking)",
+  "found_via": "kevin-warwick",
+  "status": "no_media",
+  "batch": "augment-art-theory"
+ },
+ {
   "name": "Shusterman on Confucius and Zen",
   "why": "Somaesthetics' engagement with Asian thought; belongs to the foundations batch.",
   "link": "",

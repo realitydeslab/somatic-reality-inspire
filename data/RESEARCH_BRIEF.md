@@ -21,7 +21,8 @@ kinds / collections / disciplines) and `plan/AGENTS.md` (which batch owns what).
   interaction design prototypes; embodied / first-person / somatic design methods and toolkits; affective loops and
   biodata made felt; movement-based interaction, dance-tech, exertion and somatic play; intimate, feminist and queer soma
   design; somatic approaches to health and care; social touch and shared biosignals; soma design with robots, drones,
-  AI, XR; somatic and participatory art; the somatic practices (Feldenkrais, BMC, Alexander, tai chi, qigong, yoga,
+  AI, XR; technology-augmented and transhuman bodies (extra limbs, new senses, human–computer integration, cyborg art,
+  transhuman / posthuman thought) read from the felt body; somatic and participatory art; the somatic practices (Feldenkrais, BMC, Alexander, tai chi, qigong, yoga,
   zazen, contact improvisation…) and the philosophy (somaesthetics, phenomenology, enactivism, East Asian body-mind
   thought) that soma designers train in and cite.
 - OUT: generic fitness trackers and quantified-self products with no felt, first-person angle; generic VR/haptics

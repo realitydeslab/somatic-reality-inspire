@@ -6,19 +6,20 @@ You don't have a body, you are one. A bilingual (English / 中文) gallery of **
 
 ## What's inside
 
-- **Atlas**: the ten fields and their sub-categories, the thirteen lenses, and collections.
-- **Ten fields**, each grouped by sub-category:
+- **Atlas**: the eleven fields and their sub-categories, the fourteen lenses, and collections.
+- **Eleven fields**, each grouped by sub-category:
   - Foundations: somaesthetics, phenomenology of the lived body, embodied & enactive mind, body-mind oneness in East Asian thought, embodied interaction theory.
   - Somatic Practices: movement education (Feldenkrais, Alexander, BMC, Laban), qi / tai chi / yoga / zen, meditation & breath, somatic dance & improvisation, somatic therapy.
   - Soma Design Methods: first-person methods, estrangement, somatic training of the designer, bodystorming & embodied sketching, soma-based material exploration, articulating & evaluating felt experience, strong concepts & felt ethics.
   - Somaesthetic Interaction Design: appreciation & attunement, breath, heat / vibration / shape-change, sound & voice, garments.
+  - Augmented & Transhuman Soma: extra limbs & prostheses, new senses & sensory substitution, human–computer integration (EMS, GVS), superhuman sports & augmented performance, cyborg & posthuman art, transhuman & posthuman thought.
   - Affective Loops & Biodata: affective loops, biosignals as design material, interoception, body data & ambiguity.
   - Movement, Dance & Somatic Art: dance & technology, movement & computing, exertion & play, performance, somatic & participatory art.
   - Intimate, Feminist & Queer Soma: menstruation, pleasure, women's health, menopause & life transitions, queer & trans bodies.
   - Health, Care & Wellbeing: chronic pain & rehabilitation, stress & mental health, neurodiversity & motor conditions, ageing & care.
   - Social & Collective Soma: mediated touch, shared breath & heartbeat, collective somatics.
   - Soma with Machines, AI & XR: somaesthetic robots & drones, machine learning, virtual bodies, more-than-human soma.
-- **All works**: filter by field, body & senses (breath, touch, heat, movement, heartbeat, EDA…), lens (body-mind unity, first-person, attunement, estrangement, technology that touches back, intercorporeality…), type (prototype, method, practice, artwork, performance, paper, book…), collection and era; full-text search.
+- **All works**: filter by field, body & senses (breath, touch, heat, movement, heartbeat, EDA…), lens (body-mind unity, extended body, first-person, attunement, estrangement, technology that touches back, intercorporeality…), type (prototype, method, practice, artwork, performance, paper, book…), collection and era; full-text search.
 - **Collections**: the cases of *Designing with the Body* and of "Embracing First-Person Perspectives in Soma-Based Design" (2018); venues (CHI, DIS, TEI, MOCO, NIME).
 - **Resources & Links**: the researchers, philosophers, somatic teachers and artists of the field, and its labs, schools, conferences, journals and networks.
 - **Papers**, **Creators**, **Starred** (export as `SKILL.md`, `README.md` or a reading list with DOIs).
@@ -81,8 +82,8 @@ Images and videos are linked from the researchers, artists, labs and publishers 
 
 你不是拥有身体，你就是身体。这是一个中英双语的**身体设计（soma design）**作品库：收录把身与心当作同一个从内部被感受的身体的研究原型、设计方法、身体修习、艺术作品、表演与理论。以 **Kristina Höök 一脉**（瑞典皇家理工学院 KTH；《用身体设计：身体美学交互设计》，MIT 出版社 2018）为中心，并延伸到它所依托的哲学与修习：身体美学、现象学、生成认知、Feldenkrais 等身体修习，以及东亚的身心思想（身心一如、气、修身）。由 [Reality Design Lab](https://reality.design) 整理，是 [Machinic Reality Inspire](https://machinic.reality.design) 与 [More than Human Inspire](https://more-than-human.reality.design) 的姊妹站。
 
-- **总览**：十个领域及其子类、十三种视角与各个合集。
-- **十个领域**：奠基：身心与身体美学；身体修习；身体设计方法；身体美学交互设计；情感回路与生物数据；运动、舞蹈与身体艺术；亲密、女性主义与酷儿身体；健康、照护与安适；社会与集体身体；身体与机器、AI 与扩展现实。
+- **总览**：十一个领域及其子类、十四种视角与各个合集。
+- **十一个领域**：奠基：身心与身体美学；身体修习；身体设计方法；身体美学交互设计；增强与超人类的身体；情感回路与生物数据；运动、舞蹈与身体艺术；亲密、女性主义与酷儿身体；健康、照护与安适；社会与集体身体；身体与机器、AI 与扩展现实。
 - **全部作品**：按领域、身体与感官、视角、类型、合集和年代筛选，支持全文搜索。
 - **合集**：《用身体设计》及两篇关键论文里的案例，以及 CHI、DIS、TEI、MOCO、NIME 等发表平台。
 - **资源与链接**：这个领域的研究者、哲学家、身体修习教师与艺术家，以及实验室、学校、会议、期刊与网络。

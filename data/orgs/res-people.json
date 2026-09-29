@@ -2596,7 +2596,8 @@
    "image": "https://www.ais.rcast.u-tokyo.ac.jp/content/000012921.jpg",
    "based": "Tokyo, Japan",
    "based_zh": "东京，日本",
-   "found_via": "https://www.ais.rcast.u-tokyo.ac.jp/en/research/labs/inami.html"
+   "found_via": "https://www.ais.rcast.u-tokyo.ac.jp/en/research/labs/inami.html",
+   "creator_id": "masahiko-inami"
   },
   {
    "id": "person--sha-xin-wei",

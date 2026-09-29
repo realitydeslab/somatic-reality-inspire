@@ -1,0 +1,190 @@
+{
+ "dani-clode--third-thumb": {
+  "zh": "第三拇指",
+  "src": "translated"
+ },
+ "paulina-kieliba--robotic-hand-augmentation": {
+  "zh": "机器人手部增强改变大脑的身体表征",
+  "src": "translated"
+ },
+ "tamar-makin--neurocognitive-barriers-embodiment": {
+  "zh": "技术具身化的神经认知障碍",
+  "src": "translated"
+ },
+ "junichi-nabeshima--arque": {
+  "zh": "Arque",
+  "src": "keep"
+ },
+ "mhd-yamen-saraiji--fusion": {
+  "zh": "Fusion",
+  "src": "keep"
+ },
+ "nahoko-yamamura--jizai-arms": {
+  "zh": "自在肢（JIZAI ARMS）",
+  "src": "original"
+ },
+ "domenico-prattichizzo--robotic-sixth-finger": {
+  "zh": "机器人第六指",
+  "src": "translated"
+ },
+ "arvid-guterstam--third-arm-illusion": {
+  "zh": "拥有第三只手臂的错觉",
+  "src": "translated"
+ },
+ "andrea-stevenson-won--homuncular-flexibility": {
+  "zh": "虚拟现实中的小人灵活性",
+  "src": "translated"
+ },
+ "hugh-herr--agonist-antagonist-myoneural-interface": {
+  "zh": "主动肌-拮抗肌肌神经接口（AMI）",
+  "src": "translated"
+ },
+ "aryan-saini--pneuma": {
+  "zh": "PneuMa",
+  "src": "keep"
+ },
+ "jun-nishida--handmorph": {
+  "zh": "HandMorph",
+  "src": "keep"
+ },
+ "paul-bach-y-rita--tactile-vision-substitution": {
+  "zh": "触觉视觉替代系统（TVSS）与 BrainPort",
+  "src": "translated"
+ },
+ "peter-meijer--the-voice": {
+  "zh": "The vOICe",
+  "src": "keep"
+ },
+ "saskia-nagel--feelspace-belt": {
+  "zh": "feelSpace 磁北腰带",
+  "src": "translated"
+ },
+ "david-eagleman--vest": {
+  "zh": "VEST 背心与 Neosensory Buzz",
+  "src": "translated"
+ },
+ "cyborg-nest--north-sense": {
+  "zh": "North Sense",
+  "src": "keep"
+ },
+ "alvaro-cassinelli--haptic-radar": {
+  "zh": "触觉雷达 / 延展皮肤",
+  "src": "translated"
+ },
+ "hiromi-nakamura--augmented-gustation": {
+  "zh": "用电增强味觉",
+  "src": "translated"
+ },
+ "jas-brooks--stereo-smell": {
+  "zh": "经三叉神经电刺激的立体嗅觉",
+  "src": "translated"
+ },
+ "jasmine-lu--chemical-haptics": {
+  "zh": "化学触觉",
+  "src": "translated"
+ },
+ "botao-amber-hu--more-than-human-augmentation": {
+  "zh": "借由人类增强体验超越人类",
+  "src": "translated"
+ },
+ "botao-amber-hu--tentacus": {
+  "zh": "TentacUs",
+  "src": "keep"
+ },
+ "masahiko-inami--jizai-body": {
+  "zh": "自在身体（JIZAI Body）",
+  "src": "original"
+ },
+ "florian-mueller--bodily-integration-design": {
+  "zh": "理解身体融合的设计",
+  "src": "translated"
+ },
+ "florian-mueller--intertwined-integration": {
+  "zh": "理解交织式人机融合的设计",
+  "src": "translated"
+ },
+ "nathan-semertzidis--neo-noumena": {
+  "zh": "Neo-Noumena",
+  "src": "keep"
+ },
+ "pedro-lopes--muscle-plotter": {
+  "zh": "Muscle-plotter",
+  "src": "keep"
+ },
+ "pedro-lopes--impacto": {
+  "zh": "Impacto",
+  "src": "keep"
+ },
+ "yudai-tanaka--haptic-source-effector": {
+  "zh": "触觉源效应器：经无创脑刺激的全身触觉",
+  "src": "translated"
+ },
+ "shunichi-kasahara--preserving-agency-ems": {
+  "zh": "在肌肉电刺激训练中保留能动感",
+  "src": "translated"
+ },
+ "daisuke-tajima--whose-touch-is-this": {
+  "zh": "这是谁的触碰？",
+  "src": "translated"
+ },
+ "emi-tamaki--possessedhand": {
+  "zh": "PossessedHand",
+  "src": "keep"
+ },
+ "shunichi-kasahara--jackin-head": {
+  "zh": "JackIn Head",
+  "src": "keep"
+ },
+ "shunichi-kasahara--malleable-embodiment": {
+  "zh": "可塑的具身",
+  "src": "translated"
+ },
+ "adrien-verhulst--parallel-adaptation": {
+  "zh": "平行适应：在两个虚拟身体间切换",
+  "src": "translated"
+ },
+ "romain-nith--splitbody": {
+  "zh": "SplitBody",
+  "src": "keep"
+ },
+ "susumu-tachi--telesar-v": {
+  "zh": "TELESAR V",
+  "src": "keep"
+ },
+ "cindy-hsin-liu-kao--hybrid-body-craft": {
+  "zh": "混合身体工艺",
+  "src": "translated"
+ },
+ "florian-mueller--limited-control-over-the-body": {
+  "zh": "以对身体的有限控制作为游戏设计资源",
+  "src": "translated"
+ },
+ "josh-andres--integrated-exertion": {
+  "zh": "融合式运动",
+  "src": "translated"
+ },
+ "rakesh-patibanda--auto-paizo-games": {
+  "zh": "Auto-Paizo 游戏",
+  "src": "translated"
+ },
+ "rakesh-patibanda--fused-spectatorship": {
+  "zh": "融合式观赛",
+  "src": "translated"
+ },
+ "rakesh-patibanda--shared-bodily-fusion": {
+  "zh": "共享身体融合",
+  "src": "translated"
+ },
+ "zhuying-li--exoskeleton-shared-bodily-control": {
+  "zh": "以外骨骼游戏共享身体控制",
+  "src": "translated"
+ },
+ "romain-nith--jumpmod": {
+  "zh": "JumpMod",
+  "src": "keep"
+ },
+ "masahiko-inami--superhuman-sports": {
+  "zh": "超人体育",
+  "src": "established"
+ }
+}

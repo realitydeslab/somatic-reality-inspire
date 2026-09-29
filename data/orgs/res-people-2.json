@@ -1064,7 +1064,8 @@
    "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Donna_Haraway_2006_%28cropped%29.jpg",
    "based": "Santa Cruz, US",
    "based_zh": "圣克鲁兹，美国",
-   "born": 1944
+   "born": 1944,
+   "creator_id": "donna-haraway"
   },
   {
    "id": "person--william-james",

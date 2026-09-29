@@ -1,0 +1,2571 @@
+{
+ "batch": "augment-art-theory",
+ "creators": [
+  {
+   "id": "orlan",
+   "name": "ORLAN",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist working with performance, surgery, biotechnology and robotics",
+   "based": "Paris, FR",
+   "bio": "French artist known for her surgery-performances of the 1990s and later work with cell culture, avatars and robots.",
+   "why": "She made cosmetic surgery a public, conscious performance, asking who owns and authors the flesh.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.orlan.eu"
+   },
+   "role_zh": "以表演、外科手术、生物技术和机器人创作的艺术家",
+   "bio_zh": "法国艺术家，以 1990 年代的外科手术表演闻名，后来转向细胞培养、虚拟化身与机器人创作。",
+   "why_zh": "她把整形手术变成公开而清醒的表演，追问谁拥有、谁书写这具血肉。",
+   "based_zh": "巴黎，法国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "neil-harbisson",
+   "name": "Neil Harbisson",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Cyborg artist; co-founder of the Cyborg Foundation and Cyborg Arts",
+   "based": "Barcelona, ES",
+   "bio": "Artist born with achromatopsia who hears colour through an antenna implanted in his skull.",
+   "why": "His antenna is a long first-person case of a new sense becoming part of perception and identity.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.cyborgarts.com/"
+   },
+   "role_zh": "赛博格艺术家；Cyborg Foundation 与 Cyborg Arts 联合创始人",
+   "bio_zh": "天生全色盲的艺术家，通过植入颅骨的天线“听见”颜色。",
+   "why_zh": "他的天线是一个长期的第一人称案例：一种新感官如何成为知觉与身份的一部分。",
+   "based_zh": "巴塞罗那，西班牙",
+   "connected_to": [
+    "moon-ribas"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "moon-ribas",
+   "name": "Moon Ribas",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Cyborg artist and choreographer; co-founder of the Cyborg Foundation",
+   "based": "Barcelona, ES",
+   "bio": "Catalan dancer who for years felt earthquakes worldwide as vibrations from sensors implanted in her body.",
+   "why": "She treats a new sense as a practice of attention and dance, not as data display.",
+   "disciplines": [
+    "art",
+    "dance"
+   ],
+   "links": {
+    "site": "https://www.moonribas.com/"
+   },
+   "role_zh": "赛博格艺术家、编舞家；Cyborg Foundation 联合创始人",
+   "bio_zh": "加泰罗尼亚舞者，多年来通过植入体内的传感器，以振动感受全球地震。",
+   "why_zh": "她把新感官当作一种注意力与舞蹈的修习，而不是数据显示。",
+   "based_zh": "巴塞罗那，西班牙",
+   "connected_to": [
+    "neil-harbisson"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "kevin-warwick",
+   "name": "Kevin Warwick",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Cybernetics researcher; Emeritus Professor, Coventry and Reading Universities",
+   "based": "Coventry, UK",
+   "bio": "British engineer who had an RFID chip (1998) and then a neural electrode array (2002) implanted to connect his nervous system to computers.",
+   "why": "His self-experiments are the engineering baseline of the cyborg body, with little attention to how it feels.",
+   "disciplines": [
+    "engineering"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Kevin_Warwick"
+   },
+   "role_zh": "控制论研究者；考文垂大学与雷丁大学荣休教授",
+   "bio_zh": "英国工程师，先后植入 RFID 芯片（1998）和神经电极阵列（2002），把自己的神经系统接入计算机。",
+   "why_zh": "他的自体实验是赛博格身体的工程基线，但很少关注它被感受的方式。",
+   "based_zh": "考文垂，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "viktoria-modesta",
+   "name": "Viktoria Modesta",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Bionic pop artist and performer",
+   "based": "London, UK",
+   "bio": "Latvian-born British singer and performer who chose a below-knee amputation in 2007 and performs with designed prosthetic legs.",
+   "why": "She presents the prosthetic body as chosen, expressive and desirable rather than as a deficit.",
+   "disciplines": [
+    "art",
+    "dance"
+   ],
+   "links": {
+    "site": "https://www.viktoriamodesta.com/"
+   },
+   "role_zh": "仿生流行艺术家与表演者",
+   "bio_zh": "生于拉脱维亚的英国歌手与表演者，2007 年主动选择膝下截肢，以设计过的义肢登台表演。",
+   "why_zh": "她把义体身体呈现为主动选择的、有表现力的、可被欲望的身体，而非缺陷。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "aimee-mullins",
+   "name": "Aimee Mullins",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Athlete, actor and model",
+   "based": "Los Angeles, US",
+   "bio": "American Paralympic sprinter, actor and model, born without fibula bones, who owns many pairs of prosthetic legs.",
+   "why": "She speaks from inside the prosthetic body about choosing height, gait and identity with each pair of legs.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.aimeemullins.com/"
+   },
+   "role_zh": "运动员、演员与模特",
+   "bio_zh": "美国残奥会短跑运动员、演员与模特，天生没有腓骨，拥有多副义肢腿。",
+   "why_zh": "她从义体身体内部讲述：每换一双腿，就在选择身高、步态与身份。",
+   "based_zh": "洛杉矶，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "lucy-mcrae",
+   "name": "Lucy McRae",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and body architect",
+   "based": "Los Angeles, US",
+   "bio": "Australian artist who calls herself a body architect and builds speculative devices, films and rituals for future bodies.",
+   "why": "Her works turn speculative body technology into felt, often tender experiences of pressure, scent and skin.",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {
+    "site": "https://www.lucymcrae.net/"
+   },
+   "role_zh": "艺术家、身体建筑师",
+   "bio_zh": "澳大利亚艺术家，自称“身体建筑师”，为未来的身体制作思辨性的装置、影片与仪式。",
+   "why_zh": "她把思辨的身体技术变成可感受的、常常温柔的压力、气味与皮肤体验。",
+   "based_zh": "洛杉矶，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "wafaa-bilal",
+   "name": "Wafaa Bilal",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist; Professor, NYU Tisch School of the Arts",
+   "based": "New York, US",
+   "bio": "Iraqi-American artist whose performances expose the body to remote, networked violence and surveillance.",
+   "why": "He uses his own body, even surgically, to make networked distance felt as pain and exposure.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://wafaabilal.com/"
+   },
+   "role_zh": "艺术家；纽约大学 Tisch 艺术学院教授",
+   "bio_zh": "伊拉克裔美国艺术家，他的表演让身体暴露于远程、网络化的暴力与监视之下。",
+   "why_zh": "他用自己的身体（甚至通过手术）让网络化的距离被感受为疼痛与暴露。",
+   "based_zh": "纽约，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "eduardo-kac",
+   "name": "Eduardo Kac",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist; pioneer of telepresence and bio art",
+   "based": "Chicago, US",
+   "bio": "Brazilian-American artist who made telerobotic works from the late 1980s before turning to transgenic art.",
+   "why": "His 1997 implant performance is an early artwork about the body entering a database.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.ekac.org"
+   },
+   "role_zh": "艺术家；远程在场艺术与生物艺术先驱",
+   "bio_zh": "巴西裔美国艺术家，1980 年代末起创作远程机器人作品，后来转向转基因艺术。",
+   "why_zh": "他 1997 年的植入表演是关于身体进入数据库的早期艺术作品。",
+   "based_zh": "芝加哥，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "lee-bul",
+   "name": "Lee Bul",
+   "name_zh": "李昢",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Seoul, KR",
+   "bio": "Korean artist working across performance, sculpture and installation; her work addresses technology, gender, utopia and the body.",
+   "why": "Her Cyborg sculptures show the technological body as gendered, fragmented and vulnerable.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Lee_Bul"
+   },
+   "role_zh": "艺术家",
+   "bio_zh": "韩国艺术家，横跨表演、雕塑与装置，关注技术、性别、乌托邦与身体。",
+   "why_zh": "她的赛博格雕塑把技术化的身体呈现为被性别化的、破碎的、脆弱的。",
+   "based_zh": "首尔，韩国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "mariko-mori",
+   "name": "Mariko Mori",
+   "name_zh": "森万里子",
+   "kind": "person",
+   "role": "Artist",
+   "based": "New York, US / Tokyo, JP",
+   "bio": "Japanese artist whose photographs, videos and installations join technology with Buddhist and Shinto ideas of oneness.",
+   "why": "Wave UFO uses brainwaves to stage shared, meditative attention rather than control.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Mariko_Mori"
+   },
+   "role_zh": "艺术家",
+   "bio_zh": "日本艺术家，她的摄影、影像与装置把技术与佛教、神道的“合一”观念结合。",
+   "why_zh": "《Wave UFO》用脑电波营造共享的、冥想式的注意，而不是控制。",
+   "based_zh": "纽约，美国／东京，日本",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "shu-lea-cheang",
+   "name": "Shu Lea Cheang",
+   "name_zh": "郑淑丽",
+   "kind": "person",
+   "role": "Artist and filmmaker",
+   "based": "Paris, FR",
+   "bio": "Taiwanese-American net-art pioneer whose films and installations deal with surveillance, sexuality and data.",
+   "why": "I.K.U. imagines orgasm as data harvested from bodies, a queer, sex-positive take on the cyborg.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Shu_Lea_Cheang"
+   },
+   "role_zh": "艺术家、电影导演",
+   "bio_zh": "台裔美国网络艺术先驱，其电影与装置关注监控、性与数据。",
+   "why_zh": "《I.K.U.》把高潮想象成从身体采集的数据，是对赛博格的酷儿、性积极的诠释。",
+   "based_zh": "巴黎，法国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "marceli-antunez-roca",
+   "name": "Marcel·lí Antúnez Roca",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist; co-founder of La Fura dels Baus",
+   "based": "Barcelona, ES",
+   "bio": "Catalan artist who left La Fura dels Baus to build 'mechatronic performances' in which exoskeletons, robots and audiences control a body.",
+   "why": "Epizoo gives the audience his face and body to move, making involuntary movement a shared, uneasy experience.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.marceliantunez.com/"
+   },
+   "role_zh": "艺术家；La Fura dels Baus 联合创始人",
+   "bio_zh": "加泰罗尼亚艺术家，离开 La Fura dels Baus 后创作“机电表演”，让外骨骼、机器人与观众共同操控身体。",
+   "why_zh": "《Epizoo》把他的脸和身体交给观众去移动，让不由自主的动作成为共同的、令人不安的体验。",
+   "based_zh": "巴塞罗那，西班牙",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "margherita-pevere",
+   "name": "Margherita Pevere",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and researcher in biological art",
+   "based": "Berlin, DE",
+   "bio": "Italian artist who works with living matter, bacteria and the leaking, ageing body.",
+   "why": "Her biomaterial practice adds decay and bodily fluids to Donnarumma's machine bodies.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "生物艺术艺术家与研究者",
+   "bio_zh": "意大利艺术家，以活体物质、细菌以及会渗漏、会衰老的身体进行创作。",
+   "why_zh": "她的生物材料实践为 Donnarumma 的机器身体加入了腐坏与体液。",
+   "based_zh": "柏林，德国",
+   "connected_to": [
+    "marco-donnarumma"
+   ],
+   "discovered_via": "marco-donnarumma"
+  },
+  {
+   "id": "natasha-vita-more",
+   "name": "Natasha Vita-More",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Designer and transhumanist theorist; former chair of Humanity+",
+   "based": "Los Angeles, US",
+   "bio": "American designer and writer who has proposed designed future bodies since the 1980s and co-edited The Transhumanist Reader.",
+   "why": "Her body-design proposals show the transhumanist view of the body as an upgradable platform.",
+   "disciplines": [
+    "design",
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://www.natashavita-more.com/"
+   },
+   "role_zh": "设计师与超人类主义理论家；Humanity+ 前主席",
+   "bio_zh": "美国设计师与作者，自 1980 年代起提出被设计的未来身体，合编《The Transhumanist Reader》。",
+   "why_zh": "她的身体设计方案展示了超人类主义把身体视为可升级平台的观点。",
+   "based_zh": "洛杉矶，美国",
+   "connected_to": [
+    "max-more"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "max-more",
+   "name": "Max More",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Philosopher; co-founder of the Extropy Institute",
+   "based": "Scottsdale, US",
+   "bio": "British-born philosopher who shaped modern transhumanism through the Extropian principles (1990s) and led the Alcor Life Extension Foundation.",
+   "why": "He states the transhumanist case for technological self-transformation that soma design must answer.",
+   "disciplines": [
+    "philosophy"
+   ],
+   "links": {},
+   "role_zh": "哲学家；Extropy Institute 联合创始人",
+   "bio_zh": "生于英国的哲学家，通过 1990 年代的“外熵原则”塑造了当代超人类主义，曾领导 Alcor 生命延续基金会。",
+   "why_zh": "他阐明了以技术自我改造的超人类主义立场，身体设计需要回应这一立场。",
+   "based_zh": "斯科茨代尔，美国",
+   "connected_to": [
+    "natasha-vita-more"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "manfred-clynes",
+   "name": "Manfred Clynes",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Scientist, inventor and musician (1925–2020)",
+   "based": "Orangeburg, US",
+   "bio": "Austrian-born scientist at Rockland State Hospital who studied the dynamics of emotion (sentics) and co-coined 'cyborg' in 1960.",
+   "why": "He framed the cyborg as unconscious self-regulation that would free a person to feel and create.",
+   "disciplines": [
+    "health",
+    "engineering"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Manfred_Clynes"
+   },
+   "role_zh": "科学家、发明家、音乐家（1925–2020）",
+   "bio_zh": "生于奥地利的科学家，任职于罗克兰州立医院，研究情绪的动力学（sentics），1960 年与人合创“赛博格”一词。",
+   "why_zh": "他把赛博格设想为无意识的自我调节，从而让人得以自由地感受与创造。",
+   "based_zh": "奥兰治堡，美国",
+   "connected_to": [
+    "nathan-kline"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "nathan-kline",
+   "name": "Nathan S. Kline",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Psychiatrist (1916–1983)",
+   "based": "Orangeburg, US",
+   "bio": "American psychiatrist and psychopharmacology pioneer who directed research at Rockland State Hospital.",
+   "why": "Co-author of the 1960 paper that named the cyborg.",
+   "disciplines": [
+    "health"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Nathan_S._Kline"
+   },
+   "role_zh": "精神科医生（1916–1983）",
+   "bio_zh": "美国精神科医生、精神药理学先驱，曾主持罗克兰州立医院的研究。",
+   "why_zh": "1960 年命名“赛博格”那篇论文的合著者。",
+   "based_zh": "奥兰治堡，美国",
+   "connected_to": [
+    "manfred-clynes"
+   ],
+   "discovered_via": "manfred-clynes"
+  },
+  {
+   "id": "julian-huxley",
+   "name": "Julian Huxley",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Evolutionary biologist; first Director-General of UNESCO (1887–1975)",
+   "based": "London, UK",
+   "bio": "British biologist and humanist who popularised the word 'transhumanism' in 1957.",
+   "why": "His short essay is the origin point of the transhumanist idea of self-directed human evolution.",
+   "disciplines": [
+    "philosophy",
+    "health"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Julian_Huxley"
+   },
+   "role_zh": "进化生物学家；联合国教科文组织首任总干事（1887–1975）",
+   "bio_zh": "英国生物学家与人文主义者，1957 年推广了“超人类主义”一词。",
+   "why_zh": "他的短文是“人类自主引导进化”这一超人类主义观念的起点。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "donna-haraway",
+   "name": "Donna Haraway",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Distinguished Professor Emerita, History of Consciousness Department, UC Santa Cruz",
+   "based": "Santa Cruz, US",
+   "bio": "Feminist scholar of science and technology, author of A Cyborg Manifesto, When Species Meet and Staying with the Trouble.",
+   "why": "Her cyborg is a situated, fleshy and political body, not a mind freed from matter.",
+   "disciplines": [
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Donna_Haraway"
+   },
+   "role_zh": "加州大学圣克鲁兹分校意识史系杰出荣休教授",
+   "bio_zh": "女性主义科学技术学者，著有《赛博格宣言》《当物种相遇》和《与麻烦共存》。",
+   "why_zh": "她的赛博格是一个处境化的、有血肉的、政治性的身体，而不是摆脱了物质的心灵。",
+   "based_zh": "圣克鲁兹，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "andy-clark",
+   "name": "Andy Clark",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Cognitive Philosophy, University of Sussex",
+   "based": "Brighton, UK",
+   "bio": "British philosopher of embodied and extended cognition, author of Natural-Born Cyborgs (2003) and The Experience Machine (2023).",
+   "why": "He argues that tools and bodies form one cognitive system, the philosophical basis of the extended body.",
+   "disciplines": [
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Andy_Clark"
+   },
+   "role_zh": "萨塞克斯大学认知哲学教授",
+   "bio_zh": "英国哲学家，研究具身认知与延展认知，著有《天生的赛博格》（2003）和《The Experience Machine》（2023）。",
+   "why_zh": "他主张工具与身体构成一个认知系统，这是“延展的身体”的哲学基础。",
+   "based_zh": "布莱顿，英国",
+   "connected_to": [
+    "david-chalmers"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "david-chalmers",
+   "name": "David Chalmers",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Philosophy and Neural Science, New York University",
+   "based": "New York, US",
+   "bio": "Australian philosopher who named the 'hard problem' of consciousness and writes on virtual worlds and machine consciousness.",
+   "why": "Co-author of The Extended Mind.",
+   "disciplines": [
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://consc.net/"
+   },
+   "role_zh": "纽约大学哲学与神经科学教授",
+   "bio_zh": "澳大利亚哲学家，提出意识的“困难问题”，也研究虚拟世界与机器意识。",
+   "why_zh": "《延展心灵》的合著者。",
+   "based_zh": "纽约，美国",
+   "connected_to": [
+    "andy-clark"
+   ],
+   "discovered_via": "andy-clark"
+  },
+  {
+   "id": "n-katherine-hayles",
+   "name": "N. Katherine Hayles",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Distinguished Research Professor, UCLA; James B. Duke Professor Emerita, Duke University",
+   "based": "Los Angeles, US",
+   "bio": "American literary and media theorist of cybernetics, posthumanism and nonconscious cognition.",
+   "why": "She showed how cybernetics erased the body by treating information as disembodied, and argued for embodied posthumanism.",
+   "disciplines": [
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/N._Katherine_Hayles"
+   },
+   "role_zh": "加州大学洛杉矶分校杰出研究教授，杜克大学荣休教授",
+   "bio_zh": "美国文学与媒介理论家，研究控制论、后人类主义与非意识认知。",
+   "why_zh": "她揭示了控制论如何把信息当作无身体之物从而抹去身体，并主张一种具身的后人类主义。",
+   "based_zh": "洛杉矶，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "rosi-braidotti",
+   "name": "Rosi Braidotti",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Distinguished University Professor Emerita, Utrecht University",
+   "based": "Utrecht, NL",
+   "bio": "Italian-Australian feminist philosopher of nomadic subjectivity and critical posthumanism.",
+   "why": "She grounds posthumanism in embodied, embedded and relational subjects, against both humanist and transhumanist ideals.",
+   "disciplines": [
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Rosi_Braidotti"
+   },
+   "role_zh": "乌得勒支大学荣休杰出教授",
+   "bio_zh": "意大利裔澳大利亚女性主义哲学家，提出游牧主体与批判的后人类主义。",
+   "why_zh": "她把后人类主义扎根于具身的、嵌入的、关系性的主体，既反对人文主义理想，也反对超人类主义理想。",
+   "based_zh": "乌得勒支，荷兰",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "don-ihde",
+   "name": "Don Ihde",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Philosopher of technology; Distinguished Professor Emeritus, Stony Brook University",
+   "based": "Stony Brook, US",
+   "bio": "American philosopher who founded postphenomenology, the study of how technologies shape perception and action.",
+   "why": "His 'embodiment relations' describe how a tool withdraws into the felt body, the core of soma-design thinking on technology.",
+   "disciplines": [
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Don_Ihde"
+   },
+   "role_zh": "技术哲学家，纽约州立大学石溪分校荣休杰出教授",
+   "bio_zh": "美国哲学家，后现象学的创立者，研究技术如何塑造人的感知与行动。",
+   "why_zh": "他的“具身关系”描述工具如何隐退进被感受的身体，这是身体设计思考技术的核心。",
+   "based_zh": "石溪，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "nick-bostrom",
+   "name": "Nick Bostrom",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Philosopher; founding director of the Future of Humanity Institute, Oxford (2005–2024)",
+   "based": "Oxford, UK",
+   "bio": "Swedish philosopher of existential risk and human enhancement, co-founder of the World Transhumanist Association.",
+   "why": "He gives the most cited philosophical defence of human enhancement.",
+   "disciplines": [
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://nickbostrom.com/"
+   },
+   "role_zh": "哲学家；牛津大学人类未来研究所创所所长（2005–2024）",
+   "bio_zh": "瑞典哲学家，研究生存风险与人类增强，世界超人类主义协会联合创始人。",
+   "why_zh": "他为人类增强提供了被引用最多的哲学辩护。",
+   "based_zh": "牛津，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "francis-fukuyama",
+   "name": "Francis Fukuyama",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Political scientist; Senior Fellow, Stanford University",
+   "based": "Stanford, US",
+   "bio": "American political scientist known for The End of History and for his critique of biotechnological enhancement.",
+   "why": "He is the best-known critic of transhumanism, defending a shared human nature.",
+   "disciplines": [
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Francis_Fukuyama"
+   },
+   "role_zh": "政治学家；斯坦福大学高级研究员",
+   "bio_zh": "美国政治学家，以《历史的终结》及对生物技术增强的批评闻名。",
+   "why_zh": "他是最知名的超人类主义批评者，捍卫共同的人性。",
+   "based_zh": "斯坦福，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "michael-sandel",
+   "name": "Michael Sandel",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Government, Harvard University",
+   "based": "Cambridge, US",
+   "bio": "American political philosopher who teaches the course Justice and served on the US President's Council on Bioethics.",
+   "why": "His ethic of 'giftedness' asks designers to value what the body is given, not only what it can be made to do.",
+   "disciplines": [
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Michael_Sandel"
+   },
+   "role_zh": "哈佛大学政府学教授",
+   "bio_zh": "美国政治哲学家，讲授“公正”课程，曾任美国总统生命伦理委员会成员。",
+   "why_zh": "他的“天赋”伦理请设计者珍视身体被给予的东西，而不只是它能被改造成什么。",
+   "based_zh": "剑桥（马萨诸塞州），美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "bernard-stiegler",
+   "name": "Bernard Stiegler",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Philosopher (1952–2020); founder of the Institut de recherche et d'innovation, Centre Pompidou",
+   "based": "Paris, FR",
+   "bio": "French philosopher of technics, memory and attention, author of the Technics and Time series.",
+   "why": "He argues the human has always been technical: there is no pure, unaugmented body to return to.",
+   "disciplines": [
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Bernard_Stiegler"
+   },
+   "role_zh": "哲学家（1952–2020）；蓬皮杜中心研究与创新研究所创始人",
+   "bio_zh": "法国技术、记忆与注意力哲学家，著有《技术与时间》系列。",
+   "why_zh": "他主张人从来就是技术性的：不存在一个可以回归的、纯粹未经增强的身体。",
+   "based_zh": "巴黎，法国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "hans-moravec",
+   "name": "Hans Moravec",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Roboticist; former Research Professor, Robotics Institute, Carnegie Mellon University",
+   "based": "Pittsburgh, US",
+   "bio": "Austrian-born roboticist known for Moravec's paradox and for predicting that human minds could be transferred into robots.",
+   "why": "His mind-uploading scenario is the clearest dualist position that soma design argues against.",
+   "disciplines": [
+    "engineering"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Hans_Moravec"
+   },
+   "role_zh": "机器人学家；卡内基梅隆大学机器人研究所前研究教授",
+   "bio_zh": "生于奥地利的机器人学家，以“莫拉维克悖论”及预言人类心灵可转移到机器人中闻名。",
+   "why_zh": "他的“心灵上传”设想是身体设计所反对的最清晰的二元论立场。",
+   "based_zh": "匹兹堡，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "vivian-sobchack",
+   "name": "Vivian Sobchack",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor Emerita of Film, Television and Digital Media, UCLA",
+   "based": "Los Angeles, US",
+   "bio": "American film and media theorist who brought existential phenomenology to film and wrote about living with her own prosthetic leg.",
+   "why": "She writes about prosthesis from inside a body that uses one, correcting abstract cyborg talk.",
+   "disciplines": [
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Vivian_Sobchack"
+   },
+   "role_zh": "加州大学洛杉矶分校电影、电视与数字媒体荣休教授",
+   "bio_zh": "美国电影与媒介理论家，把存在主义现象学引入电影研究，并写下自己与义肢共同生活的经验。",
+   "why_zh": "她从一个使用义肢的身体内部来书写义体，纠正抽象的赛博格话语。",
+   "based_zh": "洛杉矶，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "laura-forlano",
+   "name": "Laura Forlano",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Art + Design and Communication Studies, Northeastern University",
+   "based": "Boston, US",
+   "bio": "American design researcher and writer on disability, feminist technoscience and living with an automated insulin system.",
+   "why": "She writes the disabled cyborg body in the first person, as care, labour and exhaustion.",
+   "disciplines": [
+    "design",
+    "hci"
+   ],
+   "links": {
+    "site": "https://www.lauraforlano.org/"
+   },
+   "role_zh": "美国东北大学艺术与设计、传播学教授",
+   "bio_zh": "美国设计研究者与作者，研究残障、女性主义技术科学，以及与自动胰岛素系统共同生活。",
+   "why_zh": "她以第一人称书写残障的赛博格身体：它是照护、劳动与疲惫。",
+   "based_zh": "波士顿，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "allucquere-rosanne-stone",
+   "name": "Allucquére Rosanne Stone",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Media theorist and artist; Professor Emerita, University of Texas at Austin",
+   "based": "Austin, US",
+   "bio": "American media theorist, performance artist and a founder of transgender studies (also known as Sandy Stone).",
+   "why": "She insisted that the body does not disappear in virtual space and that virtual worlds rest on physical bodies.",
+   "disciplines": [
+    "philosophy",
+    "art"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Sandy_Stone_(artist)"
+   },
+   "role_zh": "媒介理论家与艺术家；得克萨斯大学奥斯汀分校荣休教授",
+   "bio_zh": "美国媒介理论家、行为艺术家，跨性别研究的奠基者之一（又名 Sandy Stone）。",
+   "why_zh": "她坚持身体不会在虚拟空间中消失，虚拟世界始终建立在物理身体之上。",
+   "based_zh": "奥斯汀，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "francesca-ferrando",
+   "name": "Francesca Ferrando",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Philosopher; Clinical Associate Professor, New York University",
+   "based": "New York, US",
+   "bio": "Italian philosopher who distinguishes philosophical posthumanism from transhumanism and teaches the posthuman.",
+   "why": "She gives a clear map of posthuman positions, separating embodied posthumanism from enhancement programmes.",
+   "disciplines": [
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Francesca_Ferrando"
+   },
+   "role_zh": "哲学家；纽约大学临床副教授",
+   "bio_zh": "意大利哲学家，区分哲学后人类主义与超人类主义，讲授“后人类”课程。",
+   "why_zh": "她清晰地梳理了后人类的各种立场，把具身的后人类主义与增强计划区分开。",
+   "based_zh": "纽约，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "stelarc--suspensions",
+   "creator_ids": [
+    "stelarc"
+   ],
+   "title": "Suspensions",
+   "year": 1976,
+   "field": "augmented",
+   "sub": "cyborg-art",
+   "also": [
+    "movement"
+   ],
+   "modalities": [
+    "touch",
+    "posture-balance",
+    "pain-interoception"
+   ],
+   "lenses": [
+    "first-person",
+    "extended-body",
+    "estrangement"
+   ],
+   "kind": "performance",
+   "description": "Between 1976 and 1988 Stelarc hung his body 25 times from hooks through the skin, over rocks, the sea, a New York street and a Copenhagen square.",
+   "description_zh": "1976 至 1988 年间，Stelarc 用穿过皮肤的钩子悬吊自己的身体 25 次，地点有礁石、海边、纽约街道和哥本哈根广场。",
+   "idea_en": "Before any robot, his cyborg work started with the felt limits of skin, weight and gravity; he called the body 'obsolete' while testing it from inside.",
+   "idea_zh": "在任何机器人出现之前，他的赛博格创作始于皮肤、重量与重力被感受到的极限；他一边称身体“过时”，一边从内部检验它。",
+   "method": "Steel hooks pierced the skin and were tied to ropes and pulleys; in some events amplified heartbeat and muscle (EMG) sounds made the stretched body audible.",
+   "method_zh": "钢钩穿过皮肤，连接绳索和滑轮；部分场次放大了心跳和肌电声音，让被拉伸的身体变得可听。",
+   "keywords": [
+    "body suspension",
+    "skin",
+    "obsolete body",
+    "gravity",
+    "endurance"
+   ],
+   "images": [
+    "https://stelarc.org/media/img/projects-overview/suspensions2.jpg",
+    "https://stelarc.org/media/img/thumbs/273_1000.jpg"
+   ],
+   "source_url": "https://stelarc.org/_activity-20316.php"
+  },
+  {
+   "id": "stelarc--stomach-sculpture",
+   "creator_ids": [
+    "stelarc"
+   ],
+   "title": "Stomach Sculpture",
+   "year": 1993,
+   "field": "augmented",
+   "sub": "cyborg-art",
+   "modalities": [
+    "pain-interoception",
+    "light-vision",
+    "extra-body"
+   ],
+   "lenses": [
+    "estrangement",
+    "extended-body"
+   ],
+   "kind": "artwork",
+   "description": "A small gold, silver and steel capsule was pushed down Stelarc's oesophagus into his stomach, where it opened, extended, flashed and beeped while an endoscope filmed it.",
+   "description_zh": "一个金、银和钢制的小胶囊经食道被送入 Stelarc 的胃里，在那里展开、伸缩、闪光并发出声响，由内窥镜拍摄。",
+   "idea_en": "It turns the hidden inside of the body into a site for art, but the inside is felt only as strain and risk; inner sensation stays mute on camera.",
+   "idea_zh": "它把身体隐藏的内部变成艺术的场地，但这内部只被感受为紧绷与风险；内在感觉在镜头前依然沉默。",
+   "method": "A servo-driven worm-screw mechanism of biocompatible metals was inserted 40 cm into the inflated stomach and filmed with a medical endoscope over two days.",
+   "method_zh": "由生物相容金属制成、伺服电机驱动的蜗杆机构被送入充气后的胃中约 40 厘米，用医用内窥镜在两天内拍摄。",
+   "keywords": [
+    "endoscopy",
+    "hollow body",
+    "inner body",
+    "sculpture",
+    "Australian Sculpture Triennale"
+   ],
+   "images": [
+    "https://stelarc.org/media/img/stomach-sculpture/Stomach-Sculpture.jpg",
+    "https://stelarc.org/media/img/stomach-sculpture/Inside-of-my-Stomach.jpg"
+   ],
+   "source_url": "https://stelarc.org/_activity-20349.php",
+   "exhibited": [
+    "Fifth Australian Sculpture Triennale, Melbourne 1993"
+   ]
+  },
+  {
+   "id": "stelarc--exoskeleton",
+   "creator_ids": [
+    "stelarc"
+   ],
+   "title": "Exoskeleton",
+   "year": 1998,
+   "field": "augmented",
+   "sub": "cyborg-art",
+   "also": [
+    "movement"
+   ],
+   "modalities": [
+    "extra-body",
+    "movement",
+    "muscle"
+   ],
+   "lenses": [
+    "extended-body",
+    "movement-expression"
+   ],
+   "kind": "performance",
+   "description": "Stelarc stands on a six-legged pneumatic walking machine and steers it with arm gestures while its legs, sounds and his amplified body make a noisy choreography.",
+   "description_zh": "Stelarc 站在一台六足气动行走机器上，用手臂动作操控它；机器的腿、声音和他被放大的身体构成一段嘈杂的编舞。",
+   "idea_en": "Steering a much larger body shows how a new body schema forms: small gestures come to feel like steps of six legs.",
+   "idea_zh": "操控一个大得多的身体，让人看到新的身体图式如何形成：细小的手势逐渐被感受为六条腿的步伐。",
+   "method": "Arm gestures, read by sensors on an upper-body exoskeleton, drive a pneumatic hexapod with ripple or tripod gaits; the left arm ends in an 11-degree-of-freedom pneumatic manipulator, and the machine's sounds are amplified.",
+   "method_zh": "上身外骨骼上的传感器读取手臂动作，驱动一台以波浪或三足步态行走的气动六足机器；左臂延伸为具有 11 个自由度的气动机械手，机器的声音被放大。",
+   "keywords": [
+    "exoskeleton",
+    "hexapod",
+    "walking machine",
+    "body schema",
+    "Hamburg"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=R2MntBUwUxY"
+   },
+   "images": [
+    "https://stelarc.org/media/img/projects-overview/exo2.jpg"
+   ],
+   "source_url": "https://stelarc.org/_activity-20227.php"
+  },
+  {
+   "id": "stelarc--ear-on-arm",
+   "creator_ids": [
+    "stelarc"
+   ],
+   "title": "Ear on Arm",
+   "year": 2006,
+   "field": "augmented",
+   "sub": "cyborg-art",
+   "modalities": [
+    "extra-body",
+    "voice-sound",
+    "touch"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-politics",
+    "estrangement"
+   ],
+   "kind": "artwork",
+   "description": "After years of planning, surgeons grew an ear-shaped scaffold under the skin of Stelarc's left forearm; it is meant eventually to carry a microphone streaming what it hears online.",
+   "description_zh": "经过多年筹划，外科医生在 Stelarc 左前臂的皮下培育出一个耳朵形状的支架；最终设想是在其中放入麦克风，把它“听到”的声音在线传播。",
+   "idea_en": "An extra organ can be grown into the body, but living with it is slow and fragile: infection, healing and skin decide the work as much as the idea.",
+   "idea_zh": "一个额外的器官可以长进身体，但与它共存缓慢而脆弱：感染、愈合与皮肤和想法本身一样决定着这件作品。",
+   "method": "A porous biopolymer scaffold was implanted under the skin in staged surgeries so tissue and blood vessels could grow into it; a microphone was tested and removed after infection.",
+   "method_zh": "分阶段手术把多孔生物聚合物支架植入皮下，让组织和血管长入其中；曾测试植入麦克风，因感染而取出。",
+   "keywords": [
+    "extra ear",
+    "implant",
+    "surgery",
+    "tissue engineering",
+    "internet organ"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=MhpV4sLgVEE"
+   },
+   "images": [
+    "https://stelarc.org/media/img/projects-overview/earonarm2.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/2/23/Stelarc_3rd_ear_2011f.jpg"
+   ],
+   "source_url": "https://stelarc.org/_activity-20242.php"
+  },
+  {
+   "id": "neil-harbisson--eyeborg",
+   "creator_ids": [
+    "neil-harbisson"
+   ],
+   "title": "Eyeborg (Cyborg Antenna)",
+   "year": 2004,
+   "field": "augmented",
+   "sub": "cyborg-art",
+   "modalities": [
+    "new-senses",
+    "voice-sound",
+    "light-vision"
+   ],
+   "lenses": [
+    "extended-body",
+    "first-person",
+    "body-politics"
+   ],
+   "kind": "artwork",
+   "description": "Neil Harbisson, born unable to see colour, wears an antenna implanted in his skull that turns the colours in front of him into tones he hears through bone.",
+   "description_zh": "天生无法看见颜色的 Neil Harbisson 戴着一根植入颅骨的天线，把眼前的颜色转成他通过骨传导听到的音调。",
+   "idea_en": "After years of wearing it, colour-tones stopped being a translation and became perception, even in dreams; a new sense becomes part of the self, not an add-on.",
+   "idea_zh": "戴了多年之后，颜色音调不再是翻译，而成了知觉本身，甚至出现在梦里；新感官成为自我的一部分，而不是附加物。",
+   "method": "A head-mounted camera sensor on an osseointegrated antenna maps light frequency to sound frequency and transmits it by bone conduction; it also receives colours over the internet.",
+   "method_zh": "骨整合天线上的摄像传感器把光的频率映射为声音频率，通过骨传导传给他；天线也能经互联网接收颜色。",
+   "keywords": [
+    "sonochromatism",
+    "achromatopsia",
+    "bone conduction",
+    "antenna implant",
+    "Cyborg Foundation"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ygRNoieAnzI"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/17/Re_publica_2013_Tag_2_%E2%80%93_Neil_Harbisson%2C_Moon_Ribas_%288718456460%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/1/19/Harbisson%27s_Sonochromatic_Scales.png"
+   ],
+   "source_url": "https://www.cyborgarts.com/"
+  },
+  {
+   "id": "moon-ribas--seismic-sense",
+   "creator_ids": [
+    "moon-ribas"
+   ],
+   "title": "Seismic Sense / Waiting for Earthquakes",
+   "year": 2013,
+   "field": "augmented",
+   "sub": "cyborg-art",
+   "also": [
+    "movement"
+   ],
+   "modalities": [
+    "new-senses",
+    "vibration",
+    "movement"
+   ],
+   "lenses": [
+    "extended-body",
+    "more-than-human",
+    "movement-expression"
+   ],
+   "kind": "performance",
+   "description": "Sensors implanted in Moon Ribas's feet vibrated whenever an earthquake happened anywhere on Earth; in Waiting for Earthquakes she stands still and dances each tremor as it arrives.",
+   "description_zh": "植入 Moon Ribas 双脚的传感器会在地球任何地方发生地震时振动；在《Waiting for Earthquakes》中她静静站立，随每次震动到来而起舞。",
+   "idea_en": "The sense ties her body to the planet's movement: a steady, low background feeling that she learns to attend to, like breath.",
+   "idea_zh": "这种感官把她的身体与地球的运动相连：一种持续而低沉的背景感受，她学会去留意它，如同留意呼吸。",
+   "method": "Online seismograph data drove vibration implants (first in the elbow, later the feet), with intensity scaled to magnitude; the performance lasts as long as the quakes do.",
+   "method_zh": "在线地震仪数据驱动振动植入物（先在手肘，后在双脚），强度随震级变化；表演时长取决于地震本身。",
+   "keywords": [
+    "seismic sense",
+    "earthquakes",
+    "vibration implant",
+    "dance",
+    "Cyborg Foundation"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=1Un4MFR-vNI"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/6/6a/Moon_Ribas.jpg"
+   ],
+   "source_url": "https://www.moonribas.com/"
+  },
+  {
+   "id": "orlan--reincarnation-of-saint-orlan",
+   "creator_ids": [
+    "orlan"
+   ],
+   "title": "The Reincarnation of Saint-ORLAN",
+   "year": 1990,
+   "field": "augmented",
+   "sub": "cyborg-art",
+   "modalities": [
+    "whole-soma",
+    "pain-interoception",
+    "touch"
+   ],
+   "lenses": [
+    "body-politics",
+    "first-person",
+    "estrangement"
+   ],
+   "kind": "performance",
+   "description": "In nine surgery-performances (1990–1993) ORLAN had her face reshaped under local anaesthesia while reading texts, directing the scene and broadcasting it live.",
+   "description_zh": "在九场手术表演（1990–1993）中，ORLAN 在局部麻醉下接受面部改造，同时朗读文本、指挥现场并进行直播。",
+   "idea_en": "Staying awake and speaking during surgery refuses the split between a passive body and a watching mind: she is author and material at once.",
+   "idea_zh": "在手术中保持清醒并说话，拒绝“被动的身体”与“旁观的心灵”的分裂：她同时是作者与材料。",
+   "method": "Cosmetic surgeons operated under local anaesthesia in costumes she designed; the operations were filmed, and Omnipresence (1993) was broadcast by satellite to galleries.",
+   "method_zh": "整形外科医生在局部麻醉下为她手术，身穿她设计的服装；手术被拍摄，《Omnipresence》（1993）通过卫星直播到多家画廊。",
+   "keywords": [
+    "surgery performance",
+    "carnal art",
+    "Omnipresence",
+    "face",
+    "feminist body art"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=0UBf6l3mO9g"
+   },
+   "source_url": "https://www.orlan.eu/works/performance-2/?lang=en"
+  },
+  {
+   "id": "kevin-warwick--project-cyborg",
+   "creator_ids": [
+    "kevin-warwick"
+   ],
+   "title": "Project Cyborg",
+   "year": 1998,
+   "field": "augmented",
+   "sub": "cyborg-art",
+   "modalities": [
+    "new-senses",
+    "electrical",
+    "muscle"
+   ],
+   "lenses": [
+    "extended-body",
+    "intercorporeality"
+   ],
+   "kind": "prototype",
+   "description": "Kevin Warwick had an RFID chip implanted in 1998 and a 100-electrode array wired into his arm's median nerve in 2002, letting him move a robot hand and feel pulses from his wife's implant.",
+   "description_zh": "Kevin Warwick 于 1998 年植入 RFID 芯片，2002 年又把 100 电极阵列接入手臂的正中神经，借此操控机械手，并感受来自妻子植入物的脉冲。",
+   "idea_en": "The most striking result was felt, not technical: a nerve-to-nerve signal between two people, an early and crude form of shared bodily sensation.",
+   "idea_zh": "最动人的结果是被感受到的，而非技术性的：两人之间神经对神经的信号，一种早期而粗糙的共享身体感觉。",
+   "method": "A Utah microelectrode array in the median nerve recorded and stimulated neural signals, linked over the internet to a robot hand and to electrodes in Irena Warwick's arm.",
+   "method_zh": "植入正中神经的犹他微电极阵列记录并刺激神经信号，经互联网连接到机械手和 Irena Warwick 手臂中的电极。",
+   "keywords": [
+    "neural implant",
+    "RFID",
+    "Utah array",
+    "nervous system",
+    "University of Reading"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=GLq7edATaFo"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/4/45/Kevin_Warwick_2011.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1001/archneur.60.10.1369",
+    "doi": "10.1001/archneur.60.10.1369",
+    "venue": "Archives of Neurology 60(10), 2003",
+    "title": "The Application of Implant Technology for Cybernetic Systems"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Kevin_Warwick"
+  },
+  {
+   "id": "viktoria-modesta--prototype",
+   "creator_ids": [
+    "viktoria-modesta"
+   ],
+   "title": "Prototype",
+   "year": 2014,
+   "field": "augmented",
+   "sub": "cyborg-art",
+   "modalities": [
+    "extra-body",
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-politics",
+    "movement-expression"
+   ],
+   "kind": "film",
+   "description": "A music film in which Viktoria Modesta performs with a series of designed prosthetic legs, including a spike, presenting the amputee body as powerful and stylish.",
+   "description_zh": "一部音乐影片，Viktoria Modesta 穿戴一系列设计过的义肢（包括一根尖锥形义肢）表演，把截肢的身体呈现为有力而时尚的。",
+   "idea_en": "A prosthesis can be felt and shown as part of one's expressive body, not as a hidden replacement for a missing part.",
+   "idea_zh": "义肢可以被感受、被展示为自我表达身体的一部分，而不是对缺失部位的隐藏替代。",
+   "method": "Music video directed by Saam Farahmand for Channel 4, with prosthetic legs designed with Sophie de Oliveira Barata (The Alternative Limb Project).",
+   "method_zh": "由 Saam Farahmand 为英国第四频道执导的音乐影片，义肢与 Sophie de Oliveira Barata（The Alternative Limb Project）合作设计。",
+   "keywords": [
+    "bionic pop",
+    "prosthetic leg",
+    "amputee",
+    "Alternative Limb Project",
+    "Channel 4"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=BhO-fuViomM"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/e/e9/Viktoria_Modesta_2016.png"
+   ],
+   "source_url": "https://www.viktoriamodesta.com/"
+  },
+  {
+   "id": "aimee-mullins--twelve-pairs-of-legs",
+   "creator_ids": [
+    "aimee-mullins"
+   ],
+   "title": "My 12 Pairs of Legs",
+   "year": 2009,
+   "field": "augmented",
+   "sub": "cyborg-art",
+   "modalities": [
+    "extra-body",
+    "posture-balance",
+    "movement"
+   ],
+   "lenses": [
+    "extended-body",
+    "first-person",
+    "body-politics"
+   ],
+   "kind": "film",
+   "description": "In a short TED talk Aimee Mullins shows her prosthetic legs, from carbon-fibre sprinting legs to carved wooden legs, and explains how each changes her height, gait and self.",
+   "description_zh": "在一场简短的 TED 演讲中，Aimee Mullins 展示她的义肢——从碳纤维短跑腿到雕花木腿——并讲述每一双如何改变她的身高、步态和自我。",
+   "idea_en": "With exchangeable legs, the body is chosen daily from inside: prosthetics can widen, not only restore, how a person can feel and appear.",
+   "idea_zh": "有了可更换的腿，身体每天都从内部被选择：义体不只是修复，还能拓宽一个人的感受与呈现方式。",
+   "method": "Talk and demonstration with legs including Cheetah running blades and hand-carved wooden legs she wore on Alexander McQueen's 1999 runway.",
+   "method_zh": "演讲与展示，所示义肢包括猎豹跑步刀片和她在 1999 年 Alexander McQueen 秀场上穿的手工雕刻木腿。",
+   "keywords": [
+    "prosthetic legs",
+    "Paralympics",
+    "Alexander McQueen",
+    "disability",
+    "TED"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=JQ0iMulicgg"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/f/fc/Aimee_Mullins_wearing_McQueen_prosthetics.jpg"
+   ],
+   "source_url": "https://www.aimeemullins.com/"
+  },
+  {
+   "id": "lucy-mcrae--swallowable-parfum",
+   "creator_ids": [
+    "lucy-mcrae"
+   ],
+   "title": "Swallowable Parfum",
+   "year": 2011,
+   "field": "augmented",
+   "sub": "cyborg-art",
+   "modalities": [
+    "pain-interoception",
+    "whole-soma"
+   ],
+   "lenses": [
+    "estrangement",
+    "extended-body"
+   ],
+   "kind": "artwork",
+   "description": "A speculative cosmetic pill that would make the skin sweat fragrance, shown through images, a film and a gallery 'live lab'.",
+   "description_zh": "一种思辨性的美容药丸，设想让皮肤随汗液散发香味，以图像、影片和画廊中的“现场实验室”呈现。",
+   "idea_en": "Augmentation from the inside out: the body itself becomes the atomiser, so scent follows exertion, heat and emotion rather than being applied.",
+   "idea_zh": "由内而外的增强：身体本身成为喷香器，香气随用力、体温与情绪而生，而不是被涂抹上去。",
+   "method": "Developed with synthetic biologist Sharef Mansy as a design fiction; the pill is a proposal presented through photography, film and guided gallery sessions.",
+   "method_zh": "与合成生物学家 Sharef Mansy 合作的设计虚构；药丸是一个提案，通过摄影、影片和画廊导览体验呈现。",
+   "keywords": [
+    "design fiction",
+    "synthetic biology",
+    "sweat",
+    "scent",
+    "body architect"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=kSUrKWTYF6g"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/59070617ebbd1a679b87f1de/1497503053218-QSZ7WC4WL9132SE0YG4J/LucyMcRae_Swallowable+Parfum_1900x1200px_07.jpg"
+   ],
+   "source_url": "https://www.lucymcrae.net/swallowable-parfum"
+  },
+  {
+   "id": "lucy-mcrae--compression-cradle",
+   "creator_ids": [
+    "lucy-mcrae"
+   ],
+   "title": "Compression Cradle",
+   "year": 2019,
+   "field": "augmented",
+   "sub": "cyborg-art",
+   "also": [
+    "care"
+   ],
+   "modalities": [
+    "touch",
+    "shape-change",
+    "whole-soma"
+   ],
+   "lenses": [
+    "touching-back",
+    "care-healing",
+    "extended-body"
+   ],
+   "kind": "artwork",
+   "description": "A person lies in a machine that slowly squeezes the whole body with a sequence of inflating volumes, like being held.",
+   "description_zh": "一个人躺进一台机器，机器以一系列充气体积缓缓挤压全身，就像被拥抱。",
+   "idea_en": "Deep, even pressure calms the body; McRae asks whether machine touch could stand in for human touch in a touch-starved future, and what is lost if it does.",
+   "idea_zh": "深而均匀的压力让身体平静；McRae 追问在一个缺乏触摸的未来，机器的触摸能否替代人的触摸，若能，又会失去什么。",
+   "method": "Inflatable chambers in a padded cradle inflate in a timed choreography around the lying body; exhibited at Triennale Milano.",
+   "method_zh": "软垫摇篮中的充气腔围绕躺着的身体按时序依次充气；曾在米兰三年展展出。",
+   "keywords": [
+    "pressure",
+    "inflatable",
+    "touch deprivation",
+    "oxytocin",
+    "Triennale Milano"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/59070617ebbd1a679b87f1de/1662867406215-3TXN194A2TKMALYHQLIB/%C2%A9Scottie+Cameron%E2%80%93Compression%E2%80%93Cradle%E2%80%93Lucy_McRae.jpg",
+    "https://images.squarespace-cdn.com/content/v1/59070617ebbd1a679b87f1de/1554551927965-BB1WSKPGBWN5JBHYI05T/%C2%A9Daria+Scagliola-Compression-Cradle-McRae-2.jpg"
+   ],
+   "source_url": "https://www.lucymcrae.net/compression-cradle",
+   "exhibited": [
+    "Triennale Milano, Broken Nature 2019"
+   ]
+  },
+  {
+   "id": "wafaa-bilal--3rdi",
+   "creator_ids": [
+    "wafaa-bilal"
+   ],
+   "title": "3rdi",
+   "year": 2010,
+   "field": "augmented",
+   "sub": "cyborg-art",
+   "modalities": [
+    "extra-body",
+    "light-vision",
+    "pain-interoception"
+   ],
+   "lenses": [
+    "body-politics",
+    "extended-body"
+   ],
+   "kind": "performance",
+   "description": "For about a year Wafaa Bilal had a small camera attached to the back of his head that took a photo every minute and posted it online, recording what he left behind.",
+   "description_zh": "大约一年里，Wafaa Bilal 的后脑装着一台小相机，每分钟拍一张照片并上传网络，记录他身后留下的景象。",
+   "idea_en": "An eye that sees what the body cannot feel becomes a burden: his body rejected the implant, and pain ended up governing the concept.",
+   "idea_zh": "一只看见身体无法感受之物的眼睛成了负担：他的身体排斥了植入物，疼痛最终主导了这个构想。",
+   "method": "A camera was mounted on a titanium plate surgically placed under the scalp; after infection and rejection it was removed and worn on a strap.",
+   "method_zh": "相机固定在手术植入头皮下的钛板上；因感染和排斥被取出，改用绑带佩戴。",
+   "keywords": [
+    "camera implant",
+    "surveillance",
+    "rejection",
+    "Mathaf",
+    "memory"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=h2nNKbO9-Eg"
+   },
+   "source_url": "https://wafaabilal.com/3rdi/"
+  },
+  {
+   "id": "eduardo-kac--time-capsule",
+   "creator_ids": [
+    "eduardo-kac"
+   ],
+   "title": "Time Capsule",
+   "year": 1997,
+   "field": "augmented",
+   "sub": "cyborg-art",
+   "modalities": [
+    "extra-body",
+    "touch",
+    "pain-interoception"
+   ],
+   "lenses": [
+    "body-politics",
+    "body-data"
+   ],
+   "kind": "performance",
+   "description": "In a São Paulo gallery Eduardo Kac injected a microchip into his own ankle, then registered himself online in an animal-identification database, broadcast live on TV and the web.",
+   "description_zh": "在圣保罗的一家画廊，Eduardo Kac 把一枚微芯片注射进自己的脚踝，随后在网上把自己登记进动物识别数据库，并在电视和网络上直播。",
+   "idea_en": "The body becomes a record in a database; the performance asks what happens to lived flesh once it is also an entry that others can read.",
+   "idea_zh": "身体成了数据库里的一条记录；这场表演追问：当活生生的血肉同时成为他人可读取的条目时，会发生什么。",
+   "method": "A passive RFID identification chip for animals was implanted with a needle, scanned remotely over the web, and registered as both animal and owner.",
+   "method_zh": "用针头植入一枚用于动物的被动 RFID 识别芯片，经网络远程扫描，并以动物和主人的双重身份登记。",
+   "keywords": [
+    "microchip implant",
+    "RFID",
+    "database",
+    "Casa das Rosas",
+    "telepresence"
+   ],
+   "images": [
+    "https://www.ekac.org/needle.gif"
+   ],
+   "source_url": "https://www.ekac.org/timec.html"
+  },
+  {
+   "id": "lee-bul--cyborg",
+   "creator_ids": [
+    "lee-bul"
+   ],
+   "title": "Cyborg series",
+   "year": 1998,
+   "field": "augmented",
+   "sub": "cyborg-art",
+   "modalities": [
+    "whole-soma",
+    "extra-body"
+   ],
+   "lenses": [
+    "body-politics",
+    "extended-body"
+   ],
+   "kind": "artwork",
+   "description": "White silicone sculptures of female cyborg bodies, headless and often missing limbs, hung from the ceiling like armour or anime figures.",
+   "description_zh": "白色硅胶雕塑，塑造女性赛博格身体，无头且常常缺失肢体，从天花板悬垂，像盔甲，也像动漫人物。",
+   "idea_en": "The cyborg dream of a perfect technological body is shown as fragmented and gendered; enhancement fantasies carry old ideals of the female body.",
+   "idea_zh": "关于完美技术身体的赛博格梦想被呈现为破碎且被性别化的；增强幻想承载着对女性身体的旧有理想。",
+   "method": "Cast silicone and polyurethane sculptures drawing on Japanese anime, classical statuary and mechanical armour; Cyborg W1–W4 were made in 1998.",
+   "method_zh": "以硅胶与聚氨酯铸成的雕塑，借鉴日本动漫、古典雕像与机械盔甲；《Cyborg W1–W4》作于 1998 年。",
+   "keywords": [
+    "cyborg sculpture",
+    "gender",
+    "silicone",
+    "anime",
+    "Korean art"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=aS5di0wCD1I"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/5/5a/Untitled_%28Cyborg%27s_pelvis%29_by_Lee_Bul%2C_British_Museum_01.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/e/ea/Untitled_%28Cyborg%27s_pelvis%29_by_Lee_Bul%2C_British_Museum_02.jpg"
+   ],
+   "source_url": "https://www.guggenheim.org/artwork/artist/lee-bul"
+  },
+  {
+   "id": "mariko-mori--wave-ufo",
+   "creator_ids": [
+    "mariko-mori"
+   ],
+   "title": "Wave UFO",
+   "year": 2003,
+   "field": "augmented",
+   "sub": "cyborg-art",
+   "also": [
+    "affect"
+   ],
+   "modalities": [
+    "brain",
+    "light-vision",
+    "whole-soma"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "body-data",
+    "attunement"
+   ],
+   "kind": "artwork",
+   "description": "Three visitors lie inside a large teardrop-shaped pod wearing brainwave sensors; their brain activity becomes animations on the dome above, which merge as their minds settle together.",
+   "description_zh": "三位观众躺进一个巨大的泪滴形舱体，佩戴脑电传感器；他们的脑活动在头顶穹幕上化作动画，并在彼此平静下来时交融在一起。",
+   "idea_en": "Biodata is used for shared attention, close to meditation, rather than for control: three bodies lying still become one visual rhythm.",
+   "idea_zh": "生物数据被用于共享的注意，接近冥想，而不是用于控制：三个静卧的身体化为同一个视觉节律。",
+   "method": "EEG sensors record alpha, beta and theta activity, and a custom game engine made at Eyebeam renders it as real-time abstract animation on the domed ceiling.",
+   "method_zh": "脑电传感器记录 α、β、θ 波活动，Eyebeam 制作的定制游戏引擎把它实时渲染为穹顶上的抽象动画。",
+   "keywords": [
+    "EEG",
+    "brainwaves",
+    "meditation",
+    "oneness",
+    "Eyebeam"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=pjsHGQ0LB-0"
+   },
+   "images": [
+    "https://web.archive.org/web/20140202152823im_/http://www.eyebeam.org/sites/default/files/imagecache/node_top/projects/images/mori_10.jpg"
+   ],
+   "source_url": "https://web.archive.org/web/20140202152823/http://www.eyebeam.org/projects/wave-ufo"
+  },
+  {
+   "id": "shu-lea-cheang--iku",
+   "creator_ids": [
+    "shu-lea-cheang"
+   ],
+   "title": "I.K.U.",
+   "year": 2000,
+   "field": "augmented",
+   "sub": "cyborg-art",
+   "also": [
+    "intimate"
+   ],
+   "modalities": [
+    "intimate-body",
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-politics",
+    "pleasure-play",
+    "body-data"
+   ],
+   "kind": "film",
+   "description": "A Japanese sci-fi porn film in which replicant 'coders' collect orgasm data from people for a corporation that sells it as a chip.",
+   "description_zh": "一部日本科幻色情电影：复制人“编码者”为一家公司采集人们的高潮数据，公司再把它做成芯片出售。",
+   "idea_en": "Pleasure imagined as extractable data: a queer, sex-positive cyborg story that also warns about the capture of intimate feeling.",
+   "idea_zh": "快感被想象为可提取的数据：一个酷儿的、性积极的赛博格故事，同时警示私密感受被捕获的危险。",
+   "method": "Feature film shot in Tokyo, produced by Uplink, with a shape-shifting replicant whose arm acts as a data-collecting probe.",
+   "method_zh": "在东京拍摄、由 Uplink 制作的长片，片中可变形的复制人以手臂作为采集数据的探针。",
+   "keywords": [
+    "sci-fi",
+    "queer cinema",
+    "orgasm data",
+    "Uplink",
+    "Tokyo"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=JVr9q2BW6rI"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/en/1/1d/IKU_poster.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/I.K.U."
+  },
+  {
+   "id": "marceli-antunez-roca--epizoo",
+   "creator_ids": [
+    "marceli-antunez-roca"
+   ],
+   "title": "Epizoo",
+   "year": 1994,
+   "field": "augmented",
+   "sub": "cyborg-art",
+   "also": [
+    "movement"
+   ],
+   "modalities": [
+    "extra-body",
+    "movement",
+    "touch"
+   ],
+   "lenses": [
+    "body-politics",
+    "estrangement",
+    "intercorporeality"
+   ],
+   "kind": "performance",
+   "description": "Audience members click on a screen to move the performer's nose, mouth, ears, buttocks and pectorals through a pneumatic exoskeleton he wears.",
+   "description_zh": "观众点击屏幕，通过表演者身上的气动外骨骼，牵动他的鼻子、嘴、耳朵、臀部和胸肌。",
+   "idea_en": "Being moved by strangers makes the body's boundary felt from both sides: the audience enjoys control, the performer feels intrusion.",
+   "idea_zh": "被陌生人牵动，让身体的边界从两侧都被感受到：观众享受控制，表演者感受侵入。",
+   "method": "A body-worn pneumatic exoskeleton with actuators on the face and torso is driven from a computer interface with animated images of his body.",
+   "method_zh": "身上穿戴的气动外骨骼在面部和躯干装有执行器，由带有其身体动画图像的电脑界面驱动。",
+   "keywords": [
+    "exoskeleton",
+    "pneumatics",
+    "audience control",
+    "mechatronic performance",
+    "La Fura dels Baus"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=5utDR8VWxms"
+   },
+   "images": [
+    "https://www.marceliantunez.com/media/cache/3b/1f/3b1f492a17b1654525596a9cc5d9af01.jpg",
+    "https://www.marceliantunez.com/media/cache/64/a3/64a3357afcd871bda2b64a7e09484080.jpg"
+   ],
+   "source_url": "https://www.marceliantunez.com/work/epizoo/"
+  },
+  {
+   "id": "marco-donnarumma--eingeweide",
+   "creator_ids": [
+    "marco-donnarumma",
+    "margherita-pevere"
+   ],
+   "title": "Eingeweide",
+   "year": 2018,
+   "field": "augmented",
+   "sub": "cyborg-art",
+   "also": [
+    "movement"
+   ],
+   "modalities": [
+    "extra-body",
+    "muscle",
+    "movement"
+   ],
+   "lenses": [
+    "extended-body",
+    "more-than-human",
+    "body-politics"
+   ],
+   "kind": "performance",
+   "description": "Two performers become entangled on stage with an AI-driven facial prosthesis, pulsing out-of-body organs grown from microbial cultures, and animal remains.",
+   "description_zh": "两位表演者在舞台上与一个由 AI 驱动的面部义体、由微生物培养出的搏动的体外器官以及动物遗骸纠缠在一起。",
+   "idea_en": "The prosthesis learns in real time how to move on the face, so the body must negotiate with it rather than command it; intimacy with a machine is felt as strain and care.",
+   "idea_zh": "义体在脸上实时学习如何运动，身体只能与它协商而非命令它；与机器的亲密被感受为紧张与照料。",
+   "method": "Adaptive neural networks drive the facial prosthesis while biosensors pick up the performers' muscle sounds, which AI transforms into the score; Pevere's biomaterials leak and crawl on stage.",
+   "method_zh": "自适应神经网络驱动面部义体，生物传感器采集表演者的肌肉声音，再由 AI 转化为配乐；Pevere 的生物材料在舞台上渗漏、爬行。",
+   "keywords": [
+    "AI prosthesis",
+    "facial prosthesis",
+    "biomaterials",
+    "dance theatre",
+    "Romaeuropa Festival 2018"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=6P0Vsg81Om0"
+   },
+   "images": [
+    "https://marcodonnarumma.com/live/wp-content/uploads/2018/03/Donnarumma-Pevere_Eingeweide_by-De-Angelis_2_web.jpg"
+   ],
+   "source_url": "https://marcodonnarumma.com/works/eingeweide/"
+  },
+  {
+   "id": "manfred-clynes--cyborgs-and-space",
+   "creator_ids": [
+    "manfred-clynes",
+    "nathan-kline"
+   ],
+   "title": "Cyborgs and Space",
+   "year": 1960,
+   "field": "augmented",
+   "sub": "transhuman-thought",
+   "modalities": [
+    "whole-soma",
+    "pain-interoception"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-mind-unity"
+   ],
+   "kind": "paper",
+   "description": "The paper that coined 'cyborg': two Rockland State Hospital scientists propose altering the astronaut's body with implanted pumps and drugs so it can regulate itself in space.",
+   "description_zh": "创造“赛博格”一词的论文：两位罗克兰州立医院的科学家提出，用植入的泵和药物改造宇航员的身体，使其能在太空中自我调节。",
+   "idea_en": "The first cyborg was about homeostasis handled below awareness 'leaving man free to explore, to create, to think, and to feel'; the body is changed, not left behind.",
+   "idea_zh": "最初的赛博格关乎在意识之下完成的体内平衡，“让人得以自由地探索、创造、思考与感受”；身体被改变，而不是被抛下。",
+   "method": "A speculative essay built on feedback control: an osmotic pump in a rat is the working example, extended to drugs for wakefulness, radiation and emotion in astronauts.",
+   "method_zh": "一篇基于反馈控制的思辨文章：以植入大鼠体内的渗透泵为实例，延伸到为宇航员调节清醒、辐射与情绪的药物。",
+   "keywords": [
+    "cyborg",
+    "homeostasis",
+    "cybernetics",
+    "space travel",
+    "Astronautics"
+   ],
+   "paper": {
+    "url": "https://web.mit.edu/digitalapollo/Documents/Chapter1/cyborgs.pdf",
+    "venue": "Astronautics, September 1960",
+    "title": "Cyborgs and Space"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Cyborg"
+  },
+  {
+   "id": "julian-huxley--transhumanism",
+   "creator_ids": [
+    "julian-huxley"
+   ],
+   "title": "Transhumanism",
+   "year": 1957,
+   "field": "augmented",
+   "sub": "transhuman-thought",
+   "modalities": [
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-mind-unity"
+   ],
+   "kind": "publication",
+   "description": "A short essay in which the biologist Julian Huxley proposes that humanity can deliberately transcend itself by realising new possibilities of its nature.",
+   "description_zh": "一篇短文，生物学家 Julian Huxley 提出人类可以通过实现自身本性的新可能，主动地超越自己。",
+   "idea_en": "Huxley's transhumanism is about unfolding the potential of human nature, including richer experience, not about leaving the body; later transhumanism narrowed this to technology.",
+   "idea_zh": "Huxley 的超人类主义关乎展开人性的潜能（包括更丰富的体验），而非离开身体；后来的超人类主义把它收窄为技术问题。",
+   "method": "Essay in the collection New Bottles for New Wine (1957), reprinted in the Journal of Humanistic Psychology in 1968.",
+   "method_zh": "收录于文集《New Bottles for New Wine》（1957），1968 年重刊于《人本主义心理学杂志》。",
+   "keywords": [
+    "transhumanism",
+    "evolutionary humanism",
+    "human potential",
+    "Julian Huxley"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/6/69/Hux-Oxon-72.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1177/002216786800800107",
+    "venue": "New Bottles for New Wine (Chatto & Windus, 1957); Journal of Humanistic Psychology 8(1), 1968",
+    "title": "Transhumanism",
+    "doi": "10.1177/002216786800800107"
+   }
+  },
+  {
+   "id": "hans-moravec--mind-children",
+   "creator_ids": [
+    "hans-moravec"
+   ],
+   "title": "Mind Children: The Future of Robot and Human Intelligence",
+   "year": 1988,
+   "field": "augmented",
+   "sub": "transhuman-thought",
+   "modalities": [
+    "brain",
+    "whole-soma"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-mind-unity"
+   ],
+   "kind": "publication",
+   "description": "A roboticist predicts that machines will match human intelligence and that a person's mind could be scanned neuron by neuron and moved into a robot body.",
+   "description_zh": "一位机器人学家预言机器将达到人类智能，人的心灵可以被逐个神经元扫描，并转移到机器人身体里。",
+   "idea_en": "This is the plainest dualist position in the field: the mind is a pattern that can leave its flesh. Soma design answers that thinking and feeling are done by a living body, not stored in it.",
+   "idea_zh": "这是该领域最直白的二元论立场：心灵是一种可以离开血肉的模式。身体设计的回应是：思考与感受由活着的身体完成，而不是储存在身体里。",
+   "method": "Book-length argument from robotics and computing trends, including the thought experiment of gradual robotic 'transmigration' of the mind.",
+   "method_zh": "一部基于机器人学与计算趋势的专著，包括心灵经机器人逐步“转世”的思想实验。",
+   "keywords": [
+    "mind uploading",
+    "dualism",
+    "robotics",
+    "artificial intelligence",
+    "Moravec"
+   ],
+   "images": [
+    "https://covers.openlibrary.org/b/isbn/0674576187-L.jpg"
+   ],
+   "paper": {
+    "url": "https://www.hup.harvard.edu/books/9780674576186",
+    "venue": "Harvard University Press, 1988",
+    "title": "Mind Children: The Future of Robot and Human Intelligence"
+   }
+  },
+  {
+   "id": "donna-haraway--cyborg-manifesto",
+   "creator_ids": [
+    "donna-haraway"
+   ],
+   "title": "A Cyborg Manifesto",
+   "year": 1985,
+   "field": "augmented",
+   "sub": "transhuman-thought",
+   "modalities": [
+    "whole-soma",
+    "intimate-body"
+   ],
+   "lenses": [
+    "body-politics",
+    "extended-body",
+    "more-than-human"
+   ],
+   "kind": "publication",
+   "description": "Haraway's essay uses the cyborg, a hybrid of organism and machine, as a feminist figure that breaks the boundaries between human and animal, organism and machine, physical and non-physical.",
+   "description_zh": "Haraway 的文章把赛博格——有机体与机器的混合——当作女性主义形象，打破人与动物、有机体与机器、物质与非物质之间的界限。",
+   "idea_en": "Her cyborg is embodied and situated: technology is already in our flesh, so the task is to take responsibility for how bodies are built, not to escape them.",
+   "idea_zh": "她的赛博格是具身的、处境化的：技术早已进入我们的血肉，因此任务是为身体如何被建构负责，而不是逃离身体。",
+   "method": "Essay first published in Socialist Review (1985) and revised as 'A Cyborg Manifesto' in Simians, Cyborgs, and Women (1991).",
+   "method_zh": "最初发表于《Socialist Review》（1985），修订版以《赛博格宣言》收入《Simians, Cyborgs, and Women》（1991）。",
+   "keywords": [
+    "cyborg",
+    "feminism",
+    "situated knowledges",
+    "boundaries",
+    "technoscience"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Q9gis7-Jads"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/id/902702-L.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/c/ce/Donna_Haraway_2006_%28cropped%29.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.4324/9780203873106",
+    "venue": "Socialist Review 80, 1985; Simians, Cyborgs, and Women (Routledge, 1991)",
+    "title": "Simians, Cyborgs, and Women: The Reinvention of Nature",
+    "doi": "10.4324/9780203873106"
+   }
+  },
+  {
+   "id": "stelarc--prosthetics-robotics-remote-existence",
+   "creator_ids": [
+    "stelarc"
+   ],
+   "title": "Prosthetics, Robotics and Remote Existence: Postevolutionary Strategies",
+   "year": 1991,
+   "field": "augmented",
+   "sub": "transhuman-thought",
+   "modalities": [
+    "extra-body",
+    "muscle",
+    "electrical"
+   ],
+   "lenses": [
+    "extended-body",
+    "estrangement"
+   ],
+   "kind": "paper",
+   "description": "Stelarc's manifesto-essay argues that the human body is 'obsolete' and should be redesigned with prostheses, robotics and networks.",
+   "description_zh": "Stelarc 的宣言式文章主张人体已经“过时”，应该用义体、机器人和网络重新设计。",
+   "idea_en": "It treats the body as hardware to upgrade, yet his performances show the opposite: every extension had to be learned and felt from inside. Read the essay against the work.",
+   "idea_zh": "文章把身体当作待升级的硬件，但他的表演恰恰相反：每一次延伸都必须从内部学会、感受。请把文章与作品对照着读。",
+   "method": "Essay in Leonardo drawing on his Third Hand, suspensions and remote-actuation performances.",
+   "method_zh": "发表于《Leonardo》的文章，基于他的“第三只手”、身体悬吊与远程驱动表演。",
+   "keywords": [
+    "obsolete body",
+    "prosthetics",
+    "post-evolution",
+    "manifesto",
+    "Leonardo"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/19/Stelarc_2011b.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.2307/1575667",
+    "venue": "Leonardo 24(5), 1991",
+    "title": "Prosthetics, Robotics and Remote Existence: Postevolutionary Strategies",
+    "doi": "10.2307/1575667"
+   }
+  },
+  {
+   "id": "allucquere-rosanne-stone--will-the-real-body-please-stand-up",
+   "creator_ids": [
+    "allucquere-rosanne-stone"
+   ],
+   "title": "Will the Real Body Please Stand Up? Boundary Stories about Virtual Cultures",
+   "year": 1991,
+   "field": "augmented",
+   "sub": "transhuman-thought",
+   "modalities": [
+    "whole-soma",
+    "voice-sound",
+    "intimate-body"
+   ],
+   "lenses": [
+    "body-politics",
+    "body-mind-unity"
+   ],
+   "kind": "publication",
+   "description": "Stone studies phone-sex workers and early online communities such as CommuniTree to show how bodies and identities are built through technology.",
+   "description_zh": "Stone 研究电话性工作者和 CommuniTree 等早期在线社区，展示身体与身份如何通过技术被建构。",
+   "idea_en": "Against the dream of leaving the body in cyberspace, she writes that 'forgetting about the body is an old Cartesian trick': virtual life still rests on real, mortal bodies.",
+   "idea_zh": "针对在赛博空间中离开身体的梦想，她写道“忘记身体是一个古老的笛卡尔把戏”：虚拟生活仍然建立在真实而会死亡的身体之上。",
+   "method": "Essay combining ethnography of early virtual communities with performance-studies analysis, published in Benedikt's Cyberspace: First Steps.",
+   "method_zh": "结合早期虚拟社区民族志与表演研究分析的文章，收录于 Benedikt 编《Cyberspace: First Steps》。",
+   "keywords": [
+    "virtual body",
+    "cyberspace",
+    "Cartesian dualism",
+    "transgender studies",
+    "boundary stories"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/a/a2/SandyStone.JPG",
+    "https://covers.openlibrary.org/b/isbn/9780262521772-L.jpg"
+   ],
+   "paper": {
+    "url": "https://openlibrary.org/isbn/9780262521772",
+    "venue": "In M. Benedikt (ed.), Cyberspace: First Steps, MIT Press, 1991",
+    "title": "Will the Real Body Please Stand Up? Boundary Stories about Virtual Cultures"
+   }
+  },
+  {
+   "id": "don-ihde--technology-and-the-lifeworld",
+   "creator_ids": [
+    "don-ihde"
+   ],
+   "title": "Technology and the Lifeworld: From Garden to Earth",
+   "year": 1990,
+   "field": "augmented",
+   "sub": "transhuman-thought",
+   "modalities": [
+    "whole-soma",
+    "light-vision",
+    "touch"
+   ],
+   "lenses": [
+    "extended-body",
+    "first-person"
+   ],
+   "kind": "publication",
+   "description": "Ihde's book describes the kinds of relations people have with technologies, starting with 'embodiment relations' in which glasses or a dental probe become part of how we perceive.",
+   "description_zh": "Ihde 的书描述人与技术的几种关系，首先是“具身关系”：眼镜或牙科探针成为我们感知方式的一部分。",
+   "idea_en": "A well-fitted tool withdraws into the felt body and extends it, while also amplifying some sensations and reducing others; augmentation always reshapes experience.",
+   "idea_zh": "一个合手的工具会隐退进被感受的身体并延伸它，同时放大一些感觉、削弱另一些；增强总会重塑体验。",
+   "method": "Postphenomenological analysis of embodiment, hermeneutic, alterity and background relations, with historical and cross-cultural cases.",
+   "method_zh": "对具身关系、诠释关系、他异关系与背景关系的后现象学分析，辅以历史与跨文化案例。",
+   "keywords": [
+    "postphenomenology",
+    "embodiment relations",
+    "amplification-reduction",
+    "lifeworld"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=UiRkzZEMDxU"
+   },
+   "images": [
+    "https://ingram-indiana.imgix.net/covers/9780253205605.jpg?w=400"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.2979/3108.0",
+    "venue": "Indiana University Press, 1990",
+    "title": "Technology and the Lifeworld: From Garden to Earth",
+    "doi": "10.2979/3108.0"
+   }
+  },
+  {
+   "id": "bernard-stiegler--technics-and-time-1",
+   "creator_ids": [
+    "bernard-stiegler"
+   ],
+   "title": "Technics and Time, 1: The Fault of Epimetheus",
+   "year": 1994,
+   "field": "augmented",
+   "sub": "transhuman-thought",
+   "modalities": [
+    "whole-soma",
+    "movement"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-mind-unity"
+   ],
+   "kind": "publication",
+   "description": "Stiegler argues that the human is born without fixed qualities and has always become human through tools, writing and other external technical memory.",
+   "description_zh": "Stiegler 主张人生来没有固定的属性，一直是通过工具、书写和其他外在的技术记忆而成为人的。",
+   "idea_en": "There is no pure natural body that technology later augments: body and technics co-evolve, so the question is which technics care for the body-mind and which exhaust it.",
+   "idea_zh": "不存在一个后来才被技术增强的纯粹自然身体：身体与技术共同演化，问题在于哪些技术照料身心，哪些消耗身心。",
+   "method": "Philosophical reading of Leroi-Gourhan's paleoanthropology, Heidegger and the Greek myth of Epimetheus; French original La Technique et le temps 1 (1994).",
+   "method_zh": "对 Leroi-Gourhan 古人类学、海德格尔与希腊神话中 Epimetheus 的哲学解读；法文原著 1994 年出版。",
+   "keywords": [
+    "originary technicity",
+    "technics",
+    "epiphylogenesis",
+    "Leroi-Gourhan",
+    "memory"
+   ],
+   "images": [
+    "https://covers.openlibrary.org/b/isbn/9780804730419-L.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/a/a8/2016_HTNM_Bernard_Stiegler_%2830301265471%29_%28cropped%29.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1515/9781503616738",
+    "venue": "Galilée, 1994; English trans. Stanford University Press, 1998",
+    "title": "Technics and Time, 1: The Fault of Epimetheus",
+    "doi": "10.1515/9781503616738"
+   }
+  },
+  {
+   "id": "n-katherine-hayles--how-we-became-posthuman",
+   "creator_ids": [
+    "n-katherine-hayles"
+   ],
+   "title": "How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics",
+   "year": 1999,
+   "field": "augmented",
+   "sub": "transhuman-thought",
+   "modalities": [
+    "whole-soma",
+    "brain"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "extended-body",
+    "body-data"
+   ],
+   "kind": "publication",
+   "description": "Hayles traces how post-war cybernetics came to treat information as separable from its material body, and how that idea shaped fiction and fantasies of uploading.",
+   "description_zh": "Hayles 追溯战后控制论如何把信息视为可与其物质载体分离的东西，以及这一观念如何塑造小说和心灵上传的幻想。",
+   "idea_en": "The book names the dualism in posthuman dreams and argues for a posthuman that stays embodied: information is always carried and felt by some body.",
+   "idea_zh": "这本书点出了后人类梦想中的二元论，并主张一种保持具身的后人类：信息总是由某个身体承载、被某个身体感受。",
+   "method": "Intellectual history of the Macy conferences and cybernetics read alongside science fiction by Philip K. Dick, Bernard Wolfe and others.",
+   "method_zh": "对梅西会议与控制论的思想史研究，并与 Philip K. Dick、Bernard Wolfe 等人的科幻小说对照阅读。",
+   "keywords": [
+    "posthuman",
+    "cybernetics",
+    "disembodied information",
+    "embodiment",
+    "Macy conferences"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=rryjPdKMxO4"
+   },
+   "images": [
+    "https://tmm.chicagodistributioncenter.com/IsbnImages/9780226321462.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.7208/chicago/9780226321394.001.0001",
+    "venue": "University of Chicago Press, 1999",
+    "title": "How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics",
+    "doi": "10.7208/chicago/9780226321394.001.0001"
+   }
+  },
+  {
+   "id": "andy-clark--the-extended-mind",
+   "creator_ids": [
+    "andy-clark",
+    "david-chalmers"
+   ],
+   "title": "The Extended Mind",
+   "year": 1998,
+   "field": "augmented",
+   "sub": "transhuman-thought",
+   "modalities": [
+    "whole-soma",
+    "brain"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-mind-unity"
+   ],
+   "kind": "paper",
+   "description": "Clark and Chalmers argue that when a notebook or tool plays the role memory would play, it is part of the mind, using the example of Otto and his notebook.",
+   "description_zh": "Clark 与 Chalmers 主张，当笔记本或工具承担了记忆本应承担的角色时，它就是心灵的一部分，并以 Otto 和他的笔记本为例。",
+   "idea_en": "Mind is not sealed inside the skull; but the paper still speaks of cognition, not felt experience, so soma design adds the question of how an extension feels.",
+   "idea_zh": "心灵并不封闭在颅骨之内；但这篇论文谈的仍是认知而非感受，因此身体设计补上一个问题：延伸被如何感受。",
+   "method": "Philosophical argument using the parity principle and thought experiments (Tetris rotation, Otto's notebook).",
+   "method_zh": "以“对等原则”和思想实验（俄罗斯方块旋转、Otto 的笔记本）展开的哲学论证。",
+   "keywords": [
+    "extended mind",
+    "parity principle",
+    "active externalism",
+    "Otto's notebook"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=kc-TdMjuJRU"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/f/fb/David_chalmers.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1093/analys/58.1.7",
+    "venue": "Analysis 58(1), 1998",
+    "title": "The Extended Mind",
+    "doi": "10.1093/analys/58.1.7"
+   }
+  },
+  {
+   "id": "francis-fukuyama--our-posthuman-future",
+   "creator_ids": [
+    "francis-fukuyama"
+   ],
+   "title": "Our Posthuman Future: Consequences of the Biotechnology Revolution",
+   "year": 2002,
+   "field": "augmented",
+   "sub": "transhuman-thought",
+   "modalities": [
+    "whole-soma",
+    "brain"
+   ],
+   "lenses": [
+    "body-politics",
+    "body-mind-unity"
+   ],
+   "kind": "publication",
+   "description": "Fukuyama warns that genetic engineering, neuropharmacology and life extension could change human nature and undermine equal rights, and calls for regulation.",
+   "description_zh": "Fukuyama 警告基因工程、神经药理学与寿命延长可能改变人性、动摇平等权利，并呼吁加以监管。",
+   "idea_en": "A critic of enhancement who defends a shared human nature; soma design shares his caution but locates what matters in lived, felt bodies rather than in an abstract essence.",
+   "idea_zh": "一位捍卫共同人性的增强批评者；身体设计认同他的审慎，但把重要之处放在活生生的、被感受的身体上，而非抽象的本质。",
+   "method": "Policy-oriented book drawing on political philosophy, biology and the history of eugenics.",
+   "method_zh": "一部面向政策的著作，借鉴政治哲学、生物学与优生学史。",
+   "keywords": [
+    "bioconservatism",
+    "human nature",
+    "biotechnology",
+    "regulation",
+    "enhancement critique"
+   ],
+   "images": [
+    "https://covers.openlibrary.org/b/isbn/9780374236434-L.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/5/59/Francis_Fukuyama_2026_Sept.jpg"
+   ],
+   "paper": {
+    "url": "https://us.macmillan.com/books/9780312421717/ourposthumanfuture",
+    "venue": "Farrar, Straus and Giroux, 2002",
+    "title": "Our Posthuman Future: Consequences of the Biotechnology Revolution"
+   }
+  },
+  {
+   "id": "don-ihde--bodies-in-technology",
+   "creator_ids": [
+    "don-ihde"
+   ],
+   "title": "Bodies in Technology",
+   "year": 2002,
+   "field": "augmented",
+   "sub": "transhuman-thought",
+   "modalities": [
+    "whole-soma",
+    "movement",
+    "touch"
+   ],
+   "lenses": [
+    "extended-body",
+    "first-person"
+   ],
+   "kind": "publication",
+   "description": "Ihde distinguishes 'body one', the felt, moving body, from 'body two', the body shaped by culture, and asks how technologies from VR to prostheses reshape both.",
+   "description_zh": "Ihde 区分“身体一”（被感受、会运动的身体）与“身体二”（被文化塑造的身体），追问从虚拟现实到义肢的技术如何重塑两者。",
+   "idea_en": "Virtual and augmented bodies are never complete substitutes: the full, multisensory lived body stays the reference against which every technical body feels thin.",
+   "idea_zh": "虚拟的与增强的身体从来不是完整的替代：完整的、多感官的生活身体始终是参照，任何技术身体在它面前都显得单薄。",
+   "method": "Postphenomenological essays on VR, imaging, prosthetics and the 'technology body', written for the Electronic Mediations series.",
+   "method_zh": "关于虚拟现实、成像、义肢与“技术身体”的后现象学文集，收入 Electronic Mediations 丛书。",
+   "keywords": [
+    "body one",
+    "body two",
+    "virtual reality",
+    "postphenomenology",
+    "prosthetics"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=hmBgJjfjG7Q"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/isbn/9780816638451-L.jpg"
+   ],
+   "paper": {
+    "url": "https://openlibrary.org/isbn/9780816638451",
+    "venue": "University of Minnesota Press, 2002",
+    "title": "Bodies in Technology"
+   }
+  },
+  {
+   "id": "andy-clark--natural-born-cyborgs",
+   "creator_ids": [
+    "andy-clark"
+   ],
+   "title": "Natural-Born Cyborgs: Minds, Technologies, and the Future of Human Intelligence",
+   "year": 2003,
+   "field": "augmented",
+   "sub": "transhuman-thought",
+   "modalities": [
+    "whole-soma",
+    "extra-body"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-mind-unity"
+   ],
+   "kind": "publication",
+   "description": "Clark argues that humans are cyborgs by nature: our brains are built to fold pens, language, tools and devices into how we think and act, no implants needed.",
+   "description_zh": "Clark 主张人天生就是赛博格：我们的大脑天生会把笔、语言、工具与设备纳入思考和行动之中，无需植入物。",
+   "idea_en": "Augmentation is continuous with ordinary embodiment: a new tool is incorporated by the same plastic body schema that learns a tennis racket.",
+   "idea_zh": "增强与日常的具身性一脉相承：新工具被纳入身体的方式，与学会用网球拍的可塑身体图式相同。",
+   "method": "Accessible book drawing on cognitive science, neuroscience of body schema and examples from Stelarc to wearable computing.",
+   "method_zh": "一部通俗著作，借鉴认知科学、身体图式神经科学，以及从 Stelarc 到可穿戴计算的案例。",
+   "keywords": [
+    "natural-born cyborg",
+    "body schema",
+    "plasticity",
+    "extended cognition",
+    "wearables"
+   ],
+   "images": [
+    "https://covers.openlibrary.org/b/isbn/9780195148664-L.jpg"
+   ],
+   "paper": {
+    "url": "https://global.oup.com/academic/product/natural-born-cyborgs-9780195177510",
+    "venue": "Oxford University Press, 2003",
+    "title": "Natural-Born Cyborgs: Minds, Technologies, and the Future of Human Intelligence"
+   }
+  },
+  {
+   "id": "nick-bostrom--in-defense-of-posthuman-dignity",
+   "creator_ids": [
+    "nick-bostrom"
+   ],
+   "title": "In Defense of Posthuman Dignity",
+   "year": 2005,
+   "field": "augmented",
+   "sub": "transhuman-thought",
+   "modalities": [
+    "whole-soma",
+    "brain"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-politics"
+   ],
+   "kind": "paper",
+   "description": "Bostrom replies to bioconservative critics that enhanced 'posthumans' could have dignity too, and that people should be free to use technology to extend their capacities.",
+   "description_zh": "Bostrom 回应生物保守主义批评者：被增强的“后人类”同样可以拥有尊严，人们应当有自由用技术扩展自己的能力。",
+   "idea_en": "The enhancement view in its clearest form; it treats the body mainly as a set of capacities to raise, and says little about how an enhanced body would feel from inside.",
+   "idea_zh": "增强立场最清晰的表述；它主要把身体看作一组待提升的能力，却很少谈被增强的身体从内部会有怎样的感受。",
+   "method": "Philosophical essay responding to Fukuyama, Kass and the President's Council on Bioethics.",
+   "method_zh": "回应 Fukuyama、Kass 与美国总统生命伦理委员会的哲学论文。",
+   "keywords": [
+    "transhumanism",
+    "human enhancement",
+    "dignity",
+    "bioethics",
+    "morphological freedom"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=VmtrvkGXBn0"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/3/3a/Prof_Nick_Bostrom_324-1.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1111/j.1467-8519.2005.00437.x",
+    "venue": "Bioethics 19(3), 2005",
+    "title": "In Defense of Posthuman Dignity",
+    "doi": "10.1111/j.1467-8519.2005.00437.x"
+   },
+   "source_url": "https://nickbostrom.com/ethics/dignity"
+  },
+  {
+   "id": "vivian-sobchack--a-leg-to-stand-on",
+   "creator_ids": [
+    "vivian-sobchack"
+   ],
+   "title": "A Leg to Stand On: Prosthetics, Metaphor, and Materiality",
+   "year": 2006,
+   "field": "augmented",
+   "sub": "transhuman-thought",
+   "modalities": [
+    "extra-body",
+    "posture-balance",
+    "movement"
+   ],
+   "lenses": [
+    "first-person",
+    "extended-body",
+    "body-mind-unity"
+   ],
+   "kind": "publication",
+   "description": "Sobchack, who lives with an above-knee prosthesis, writes about how the leg actually feels and behaves, and criticises theorists who use 'prosthesis' as a loose metaphor.",
+   "description_zh": "膝上截肢、使用义肢生活的 Sobchack 写下这条腿实际的感受与表现，并批评把“义体”当作随意隐喻的理论家。",
+   "idea_en": "The prosthetic body is lived through balance, fatigue, sound and skin; any theory of augmentation should start from that first-person material experience.",
+   "idea_zh": "义体身体是通过平衡、疲劳、声音与皮肤被活出来的；任何关于增强的理论都应从这种第一人称的物质经验出发。",
+   "method": "Phenomenological essay grounded in her own experience of amputation and rehabilitation, published in the edited volume The Prosthetic Impulse.",
+   "method_zh": "基于她自身截肢与康复经验的现象学文章，收录于论文集《The Prosthetic Impulse》。",
+   "keywords": [
+    "prosthesis",
+    "phenomenology",
+    "disability",
+    "metaphor",
+    "first-person"
+   ],
+   "images": [
+    "https://covers.openlibrary.org/b/isbn/9780262195300-L.jpg"
+   ],
+   "paper": {
+    "url": "https://openlibrary.org/isbn/9780262195300",
+    "venue": "In M. Smith & J. Morra (eds.), The Prosthetic Impulse, MIT Press, 2006",
+    "title": "A Leg to Stand On: Prosthetics, Metaphor, and Materiality"
+   }
+  },
+  {
+   "id": "michael-sandel--the-case-against-perfection",
+   "creator_ids": [
+    "michael-sandel"
+   ],
+   "title": "The Case against Perfection: Ethics in the Age of Genetic Engineering",
+   "year": 2007,
+   "field": "augmented",
+   "sub": "transhuman-thought",
+   "modalities": [
+    "whole-soma",
+    "movement"
+   ],
+   "lenses": [
+    "body-politics",
+    "body-mind-unity"
+   ],
+   "kind": "publication",
+   "description": "Sandel argues against enhancement in sport, parenting and genetics, saying the drive to master our nature erodes humility, responsibility and solidarity.",
+   "description_zh": "Sandel 反对体育、育儿与遗传学中的增强，认为驾驭自身本性的冲动会侵蚀谦逊、责任与团结。",
+   "idea_en": "His idea of the 'giftedness' of life fits soma design's attitude of appreciating the body one has before trying to fix it.",
+   "idea_zh": "他所说生命的“被赐予性”契合身体设计的态度：先欣赏自己拥有的身体，再考虑修正它。",
+   "method": "Short philosophical book grown out of his work on the President's Council on Bioethics and a 2004 Atlantic essay.",
+   "method_zh": "一部简短的哲学著作，源于他在美国总统生命伦理委员会的工作和 2004 年发表于《大西洋月刊》的文章。",
+   "keywords": [
+    "giftedness",
+    "enhancement critique",
+    "genetic engineering",
+    "sport",
+    "bioethics"
+   ],
+   "images": [
+    "https://www.hup.harvard.edu/img/feeds/jackets/9780674036383.png?fm=jpg&q=80&fit=max&w=630",
+    "https://upload.wikimedia.org/wikipedia/commons/2/2b/Michael_Sandel_Frontiers_of_Thought_2023_%283x4cropped%29.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.4159/9780674043060",
+    "venue": "Harvard University Press, 2007",
+    "title": "The Case against Perfection: Ethics in the Age of Genetic Engineering",
+    "doi": "10.4159/9780674043060"
+   }
+  },
+  {
+   "id": "max-more--the-transhumanist-reader",
+   "creator_ids": [
+    "max-more",
+    "natasha-vita-more"
+   ],
+   "title": "The Transhumanist Reader: Classical and Contemporary Essays on the Science, Technology, and Philosophy of the Human Future",
+   "year": 2013,
+   "field": "augmented",
+   "sub": "transhuman-thought",
+   "modalities": [
+    "whole-soma",
+    "brain",
+    "extra-body"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-politics"
+   ],
+   "kind": "publication",
+   "description": "An anthology of transhumanist writing, from Max More's principles of extropy to essays on morphological freedom, life extension and mind uploading.",
+   "description_zh": "一部超人类主义文集，从 Max More 的“外熵原则”到关于形态自由、寿命延长与心灵上传的文章。",
+   "idea_en": "Read as a map of positions: some essays treat the body as a platform for a mind that could move substrates (dualist); others, like morphological freedom, keep the body central.",
+   "idea_zh": "可当作立场地图来读：一些文章把身体当作可更换“基质”的心灵平台（二元论）；另一些，如形态自由，则仍以身体为中心。",
+   "method": "Edited volume of about 40 essays, including reprints of classic texts and new contributions.",
+   "method_zh": "约 40 篇文章的编著，包括经典文本重刊与新稿。",
+   "keywords": [
+    "transhumanism",
+    "extropy",
+    "morphological freedom",
+    "mind uploading",
+    "Humanity+"
+   ],
+   "images": [
+    "https://covers.openlibrary.org/b/isbn/9781118334317-L.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/c/ca/Max_More%2C_Stanford_2006_%28square_crop%29.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1002/9781118555927",
+    "venue": "Wiley-Blackwell, 2013",
+    "title": "The Transhumanist Reader",
+    "doi": "10.1002/9781118555927"
+   }
+  },
+  {
+   "id": "natasha-vita-more--primo-posthuman",
+   "creator_ids": [
+    "natasha-vita-more"
+   ],
+   "title": "Primo Posthuman",
+   "year": 1997,
+   "field": "augmented",
+   "sub": "transhuman-thought",
+   "modalities": [
+    "whole-soma",
+    "new-senses",
+    "extra-body"
+   ],
+   "lenses": [
+    "extended-body",
+    "body-politics"
+   ],
+   "kind": "artwork",
+   "description": "A design concept for a future human body with upgradable senses, a 'metabrain', smart skin and replaceable parts, presented as images and texts.",
+   "description_zh": "一个未来人体的设计概念：可升级的感官、“元脑”、智能皮肤和可替换的部件，以图像与文字呈现。",
+   "idea_en": "It shows the transhumanist image of the body as a product to redesign; the question soma design adds is who feels the upgrade and how it would be lived.",
+   "idea_zh": "它呈现了超人类主义把身体当作可重新设计的产品的形象；身体设计追加的问题是：谁来感受这次升级，它将如何被活出来。",
+   "method": "Speculative design drawings and specifications drawing on nanotechnology, AI and cosmetic medicine, revised over the following decade.",
+   "method_zh": "思辨设计图与规格说明，借鉴纳米技术、人工智能与美容医学，在其后十年中不断修订。",
+   "keywords": [
+    "future body",
+    "body design",
+    "transhumanist art",
+    "upgrade",
+    "speculative design"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=kwb0DqrDm4g"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/0/04/Natasha_Vita-More.jpg"
+   ],
+   "source_url": "https://www.natashavita-more.com/"
+  },
+  {
+   "id": "rosi-braidotti--the-posthuman",
+   "creator_ids": [
+    "rosi-braidotti"
+   ],
+   "title": "The Posthuman",
+   "year": 2013,
+   "field": "augmented",
+   "sub": "transhuman-thought",
+   "modalities": [
+    "whole-soma"
+   ],
+   "lenses": [
+    "more-than-human",
+    "body-mind-unity",
+    "body-politics"
+   ],
+   "kind": "publication",
+   "description": "Braidotti sets out a critical posthumanism that moves beyond the ideal of 'Man' toward subjects that are embodied, embedded and bound up with animals, machines and the earth.",
+   "description_zh": "Braidotti 提出一种批判的后人类主义，超越“人”的理想，走向具身的、嵌入的、与动物、机器和地球相互缠绕的主体。",
+   "idea_en": "She rejects transhumanist escape from the body and grounds the posthuman in vital, relational matter; the body is where the subject happens, not a vehicle.",
+   "idea_zh": "她拒绝超人类主义对身体的逃离，把后人类扎根于有生命力的、关系性的物质；身体是主体发生之处，而非载具。",
+   "method": "Philosophical book drawing on Spinoza, Deleuze and feminist theory, with chapters on life beyond the self, beyond species and beyond death.",
+   "method_zh": "借鉴斯宾诺莎、德勒兹与女性主义理论的哲学著作，分章讨论超越自我、超越物种与超越死亡的生命。",
+   "keywords": [
+    "critical posthumanism",
+    "zoe",
+    "vital materialism",
+    "nomadic subject",
+    "Spinoza"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=0CewnVzOg5w"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/isbn/9780745641584-L.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/b/b4/Trouw%2C_R._Braidotti_5.jpg"
+   ],
+   "paper": {
+    "url": "https://www.politybooks.com/bookdetail?book_slug=the-posthuman--9780745641584",
+    "venue": "Polity Press, 2013",
+    "title": "The Posthuman"
+   }
+  },
+  {
+   "id": "laura-forlano--data-rituals-disabled-cyborg-body",
+   "creator_ids": [
+    "laura-forlano"
+   ],
+   "title": "Data Rituals in Intimate Infrastructures: Crip Time and the Disabled Cyborg Body as an Epistemic Site of Feminist Science",
+   "year": 2017,
+   "field": "augmented",
+   "sub": "transhuman-thought",
+   "also": [
+    "care"
+   ],
+   "modalities": [
+    "pain-interoception",
+    "intimate-body",
+    "whole-soma"
+   ],
+   "lenses": [
+    "first-person",
+    "care-healing",
+    "body-data"
+   ],
+   "kind": "paper",
+   "description": "Forlano writes in the first person about living with an insulin pump and continuous glucose monitor: the alarms, rituals and sleepless nights of a body joined to an automated system.",
+   "description_zh": "Forlano 以第一人称书写与胰岛素泵和连续血糖监测仪共同生活：一个与自动化系统相连的身体所经历的警报、仪式与不眠之夜。",
+   "idea_en": "The actual cyborg body is disabled, tired and caring for its machines; felt experience of living with devices is itself a source of knowledge.",
+   "idea_zh": "真实的赛博格身体是残障的、疲惫的、需要照料它的机器的；与设备共同生活的切身感受本身就是知识的来源。",
+   "method": "Autoethnographic essay drawing on feminist technoscience and crip theory, based on years of her own device data and routines.",
+   "method_zh": "借鉴女性主义技术科学与残障（crip）理论的自我民族志文章，基于她自己多年的设备数据与日常。",
+   "keywords": [
+    "disabled cyborg",
+    "crip time",
+    "insulin pump",
+    "autoethnography",
+    "feminist technoscience"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=xrHpvKjJuCI"
+   },
+   "paper": {
+    "url": "https://doi.org/10.28968/cftt.v3i2.28843",
+    "venue": "Catalyst: Feminism, Theory, Technoscience 3(2), 2017",
+    "title": "Data Rituals in Intimate Infrastructures: Crip Time and the Disabled Cyborg Body as an Epistemic Site of Feminist Science",
+    "doi": "10.28968/cftt.v3i2.28843"
+   }
+  },
+  {
+   "id": "francesca-ferrando--philosophical-posthumanism",
+   "creator_ids": [
+    "francesca-ferrando"
+   ],
+   "title": "Philosophical Posthumanism",
+   "year": 2019,
+   "field": "augmented",
+   "sub": "transhuman-thought",
+   "modalities": [
+    "whole-soma"
+   ],
+   "lenses": [
+    "more-than-human",
+    "body-mind-unity"
+   ],
+   "kind": "publication",
+   "description": "Ferrando maps posthumanism, transhumanism, antihumanism, new materialism and related movements, and develops a philosophical posthumanism of relation and embodiment.",
+   "description_zh": "Ferrando 梳理后人类主义、超人类主义、反人文主义、新唯物主义等思潮，并发展出一种关于关系与具身的哲学后人类主义。",
+   "idea_en": "Useful for designers who need to tell the enhancement agenda apart from posthumanisms that keep the body and other species at the centre.",
+   "idea_zh": "适合需要区分“增强议程”与“以身体和其他物种为中心的后人类主义”的设计者。",
+   "method": "Philosophy textbook-monograph in the Theory in the New Humanities series, with a glossary of posthuman terms.",
+   "method_zh": "收入 Theory in the New Humanities 丛书的哲学专著兼教材，附后人类术语表。",
+   "keywords": [
+    "philosophical posthumanism",
+    "transhumanism",
+    "new materialism",
+    "posthuman map"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=RGjMUw03Bv0"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/3/30/Francesca_Ferrando.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.5040/9781350059511",
+    "venue": "Bloomsbury Academic, 2019",
+    "title": "Philosophical Posthumanism",
+    "doi": "10.5040/9781350059511"
+   }
+  }
+ ],
+ "leads": [
+  {
+   "name": "Paul B. Preciado — Testo Junkie (2008)",
+   "why": "First-person account of self-administered testosterone as a chemical prosthesis; fits transhuman-thought or intimate.",
+   "link": "https://en.wikipedia.org/wiki/Testo_Junkie",
+   "found_via": "donna-haraway",
+   "status": "open"
+  },
+  {
+   "name": "Ai Hasegawa — I Wanna Deliver a Dolphin… (2013)",
+   "why": "Speculative design of a human body gestating another species; East Asian transhuman body design.",
+   "link": "https://www.youtube.com/results?search_query=Ai+Hasegawa+I+Wanna+Deliver+a+Dolphin",
+   "found_via": "sputniko",
+   "status": "open"
+  },
+  {
+   "name": "Mona Hatoum — Corps étranger (1994)",
+   "why": "Endoscopic video journey through the artist's own body; the inner body made visible by technology.",
+   "link": "https://en.wikipedia.org/wiki/Mona_Hatoum",
+   "found_via": "stelarc",
+   "status": "open"
+  },
+  {
+   "name": "Stelarc — Fractal Flesh (1995)",
+   "why": "Remote audiences actuate his muscles by touch screen and EMS; close to Ping Body (already in movement-art-2), so skipped.",
+   "link": "https://www.youtube.com/watch?v=N2VkOE_AgNI",
+   "found_via": "stelarc",
+   "status": "duplicate"
+  },
+  {
+   "name": "Cyborg Foundation (Harbisson & Ribas, 2010)",
+   "why": "Organisation defending cyborg rights; better as a Resources entry (data/orgs) than as a work.",
+   "link": "https://en.wikipedia.org/wiki/Cyborg_Foundation",
+   "found_via": "neil-harbisson",
+   "status": "open"
+  },
+  {
+   "name": "Cyborg Nest — North Sense (2016)",
+   "why": "Implanted north-sensing vibration device; belongs to augment-hci (new-senses).",
+   "link": "https://www.youtube.com/watch?v=0xPMpKxd1R8",
+   "found_via": "moon-ribas",
+   "status": "open"
+  },
+  {
+   "name": "Lepht Anonym — grinder self-implants",
+   "why": "DIY biohacker writing about implanted magnets and felt new senses; no stable primary source found.",
+   "link": "https://en.wikipedia.org/wiki/Grinder_(biohacking)",
+   "found_via": "kevin-warwick",
+   "status": "no_media"
+  },
+  {
+   "name": "Jillian Weise — The Dawn of the Tryborg (NYT, 2016)",
+   "why": "Disabled poet's critique of able-bodied 'cyborg' talk; strong crip counterpoint.",
+   "link": "https://www.poetryfoundation.org/poets/jillian-weise",
+   "found_via": "laura-forlano",
+   "status": "open"
+  },
+  {
+   "name": "Alison Kafer — Feminist, Queer, Crip (2013)",
+   "why": "Chapter on the cyborg and disability politics (DOI 10.2979/6841.0).",
+   "link": "https://doi.org/10.2979/6841.0",
+   "found_via": "laura-forlano",
+   "status": "open"
+  },
+  {
+   "name": "Laura Forlano & Danya Glabau — Cyborg (MIT Press Essential Knowledge, 2024)",
+   "why": "Recent short book on cyborgs from disability and feminist perspectives.",
+   "link": "https://www.youtube.com/watch?v=kU5SjSdcMuk",
+   "found_via": "laura-forlano",
+   "status": "open"
+  },
+  {
+   "name": "Yuk Hui — The Question Concerning Technology in China (2016)",
+   "why": "Cosmotechnics: a Chinese-philosophy answer to Stiegler; could anchor an East Asian view of technics and body.",
+   "link": "https://en.wikipedia.org/wiki/Yuk_Hui",
+   "found_via": "bernard-stiegler",
+   "status": "open"
+  },
+  {
+   "name": "David Le Breton — L'adieu au corps (1999)",
+   "why": "French anthropologist's critique of techno-cultural contempt for the body.",
+   "link": "https://fr.wikipedia.org/wiki/David_Le_Breton",
+   "found_via": "hans-moravec",
+   "status": "open"
+  },
+  {
+   "name": "Ray Kurzweil — The Singularity Is Near (2005)",
+   "why": "Second mind-uploading foil; Moravec already covers the dualist position.",
+   "link": "https://en.wikipedia.org/wiki/The_Singularity_Is_Near",
+   "found_via": "hans-moravec",
+   "status": "open"
+  },
+  {
+   "name": "Marco Donnarumma — Amygdala (2017)",
+   "why": "AI robotic limb performing a skin-cutting ritual; more machine than felt body, skipped.",
+   "link": "https://marcodonnarumma.com/works/amygdala/",
+   "found_via": "marco-donnarumma",
+   "status": "open"
+  },
+  {
+   "name": "Stelarc — Propel / Muscle Machine / Prosthetic Head",
+   "why": "Further Stelarc works with video on stelarc.org; skipped for salience.",
+   "link": "https://stelarc.org/projects.php",
+   "found_via": "stelarc",
+   "status": "open"
+  }
+ ]
+}

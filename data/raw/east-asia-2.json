@@ -651,7 +651,8 @@
    "field": "methods",
    "sub": "material-exploration",
    "also": [
-    "somaesthetic"
+    "somaesthetic",
+    "augmented"
    ],
    "modalities": [
     "touch",
@@ -697,13 +698,15 @@
    ],
    "title": "MetaLimbs",
    "year": 2017,
-   "field": "machines-xr",
-   "sub": "robots-drones",
+   "field": "augmented",
+   "sub": "extra-limbs",
    "modalities": [
+    "extra-body",
     "movement",
     "posture-balance"
    ],
    "lenses": [
+    "extended-body",
     "body-mind-unity",
     "estrangement"
    ],
@@ -730,7 +733,10 @@
     "doi": "10.1145/3084822.3084837",
     "venue": "SIGGRAPH 2017 Emerging Technologies",
     "title": "MetaLimbs: multiple arms interaction metamorphism"
-   }
+   },
+   "also": [
+    "machines-xr"
+   ]
   },
   {
    "id": "taro-maeda--shaking-the-world",
@@ -740,12 +746,14 @@
    ],
    "title": "Shaking the World / Save YourSelf!!!",
    "year": 2005,
-   "field": "somaesthetic",
-   "sub": "actuation",
+   "field": "augmented",
+   "sub": "body-integration",
    "also": [
+    "somaesthetic",
     "machines-xr"
    ],
    "modalities": [
+    "electrical",
     "posture-balance",
     "whole-soma"
    ],
@@ -785,15 +793,16 @@
    ],
    "title": "bioSync",
    "year": 2017,
-   "field": "social",
-   "sub": "synchrony",
+   "field": "augmented",
+   "sub": "body-integration",
    "also": [
+    "social",
     "care"
    ],
    "modalities": [
+    "electrical",
     "muscle",
-    "movement",
-    "touch"
+    "movement"
    ],
    "lenses": [
     "intercorporeality",
@@ -834,14 +843,15 @@
    ],
    "title": "Egocentric Smaller-Person Experience",
    "year": 2019,
-   "field": "machines-xr",
-   "sub": "xr-virtual-body",
+   "field": "augmented",
+   "sub": "new-senses",
    "modalities": [
     "light-vision",
     "movement",
     "posture-balance"
    ],
    "lenses": [
+    "extended-body",
     "intercorporeality",
     "estrangement"
    ],
@@ -871,6 +881,9 @@
    },
    "collections": [
     "chi"
+   ],
+   "also": [
+    "machines-xr"
    ]
   },
   {
@@ -881,12 +894,14 @@
    ],
    "title": "Preemptive Action",
    "year": 2019,
-   "field": "somaesthetic",
-   "sub": "actuation",
+   "field": "augmented",
+   "sub": "body-integration",
    "also": [
+    "somaesthetic",
     "machines-xr"
    ],
    "modalities": [
+    "electrical",
     "muscle",
     "movement"
    ],
@@ -1344,9 +1359,10 @@
    ],
    "title": "Body Oracle",
    "year": 2024,
-   "field": "social",
-   "sub": "collective",
+   "field": "augmented",
+   "sub": "augmented-play",
    "also": [
+    "social",
     "machines-xr"
    ],
    "modalities": [
@@ -1405,17 +1421,17 @@
    ],
    "title": "FeltSight",
    "year": 2025,
-   "field": "machines-xr",
-   "sub": "more-than-human",
+   "field": "augmented",
+   "sub": "new-senses",
    "modalities": [
+    "new-senses",
     "touch",
-    "vibration",
-    "light-vision"
+    "vibration"
    ],
    "lenses": [
+    "extended-body",
     "more-than-human",
-    "estrangement",
-    "attunement"
+    "estrangement"
    ],
    "kind": "prototype",
    "description": "Inspired by the star-nosed mole, soft haptic gloves worn with a mixed reality headset let wearers feel nearby surfaces through their fingertips before touching them, while vision fades to darkness and small clouds of light surround the hands.",
@@ -1452,6 +1468,9 @@
     "SIGGRAPH Asia 2025 Art Papers",
     "CHI 2026 Interactivity",
     "IEEE VR 2026 XR Gallery"
+   ],
+   "also": [
+    "machines-xr"
    ]
   },
   {
@@ -1463,16 +1482,17 @@
    ],
    "title": "EchoVision",
    "year": 2024,
-   "field": "machines-xr",
-   "sub": "more-than-human",
+   "field": "augmented",
+   "sub": "new-senses",
    "modalities": [
+    "new-senses",
     "voice-sound",
     "light-vision"
    ],
    "lenses": [
+    "extended-body",
     "more-than-human",
-    "estrangement",
-    "pleasure-play"
+    "estrangement"
    ],
    "kind": "artwork",
    "description": "Visitors lift a bat-shaped mixed reality mask, make a sound with their voice and see waves of light travel over the people and objects around them, a simulation of bat echolocation.",
@@ -1509,6 +1529,9 @@
     "SIGGRAPH Asia 2024 Art Papers",
     "Augmented Humans 2025 Best Demo Award",
     "Plásmata 3, Athens, 2025"
+   ],
+   "also": [
+    "machines-xr"
    ]
   },
   {

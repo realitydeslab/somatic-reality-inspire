@@ -191,6 +191,57 @@
    ]
   },
   {
+   "id": "augmented",
+   "en": "Augmented & Transhuman Soma",
+   "zh": "增强与超人类的身体",
+   "desc_en": "Technology that extends the felt body: extra limbs, new senses, muscles moved by computers, cyborg art, and the transhuman and posthuman ideas behind them, read from the soma rather than from the machine.",
+   "desc_zh": "延展被感受的身体的技术：多出来的肢体、新的感官、由计算机驱动的肌肉、赛博格艺术，以及其背后的超人类与后人类思想——从身体出发，而不是从机器出发来理解。",
+   "subs": [
+    {
+     "id": "extra-limbs",
+     "en": "Extra Limbs, Tails & Prostheses",
+     "zh": "多出来的肢体、尾巴与假体",
+     "desc_en": "Supernumerary fingers, arms and tails, and prostheses that the body learns to feel as its own.",
+     "desc_zh": "多出来的手指、手臂和尾巴，以及身体学会视为己有的假体。"
+    },
+    {
+     "id": "new-senses",
+     "en": "New Senses & Sensory Substitution",
+     "zh": "新感官与感官替代",
+     "desc_en": "Feeling north, sound, infrared, echolocation or other species' senses through the skin and body.",
+     "desc_zh": "借由皮肤与身体感受方向、声音、红外、回声定位或其他物种的感官。"
+    },
+    {
+     "id": "body-integration",
+     "en": "Human–Computer Integration",
+     "zh": "人机融合",
+     "desc_en": "Computers that move muscles, balance and reflexes (EMS, GVS): who is acting when the body is shared with a machine.",
+     "desc_zh": "驱动肌肉、平衡与反射的计算机（肌肉电刺激、前庭电刺激）：当身体与机器共享时，是谁在行动。"
+    },
+    {
+     "id": "augmented-play",
+     "en": "Superhuman Sports, Augmented Play & Performance",
+     "zh": "超人体育、增强游戏与表演",
+     "desc_en": "Play, sport, performance and rituals with augmented, AI-read or shared bodies.",
+     "desc_zh": "以增强的、被 AI 读取的或共享的身体进行游戏、体育、表演与仪式。"
+    },
+    {
+     "id": "cyborg-art",
+     "en": "Cyborg & Posthuman Art",
+     "zh": "赛博格与后人类艺术",
+     "desc_en": "Artists who rebuild their own bodies with technology: Stelarc, Harbisson, Ribas, Orlan, Donnarumma.",
+     "desc_zh": "用技术重建自己身体的艺术家：Stelarc、Harbisson、Ribas、Orlan、Donnarumma。"
+    },
+    {
+     "id": "transhuman-thought",
+     "en": "Transhuman & Posthuman Thought",
+     "zh": "超人类与后人类思想",
+     "desc_en": "From natural-born cyborgs and the cyborg manifesto to transhumanism and its critics: what augmentation means for body-mind unity.",
+     "desc_zh": "从“天生的赛博格”与赛博格宣言，到超人类主义及其批评：增强对身心一体意味着什么。"
+    }
+   ]
+  },
+  {
    "id": "affect",
    "en": "Affective Loops & Biodata",
    "zh": "情感回路与生物数据",
@@ -500,6 +551,21 @@
    "pain-interoception",
    "Pain & inner sensations",
    "疼痛与内在感觉"
+  ],
+  [
+   "electrical",
+   "Electrical stimulation (EMS, GVS)",
+   "电刺激（肌肉电刺激、前庭电刺激）"
+  ],
+  [
+   "new-senses",
+   "New & substituted senses",
+   "新感官与替代感官"
+  ],
+  [
+   "extra-body",
+   "Extra limbs & body extensions",
+   "多出来的肢体与身体延伸"
   ]
  ],
  "kinds": [
@@ -623,6 +689,13 @@
    "身心一体",
    "Soma as one living whole: non-dualist design, thinking through the felt body.",
    "身体是一个活的整体：非二元的设计，用被感受的身体思考。"
+  ],
+  [
+   "extended-body",
+   "Extended body",
+   "延展的身体",
+   "Tools, limbs and senses the body incorporates as its own, and what stays the same soma.",
+   "身体纳为己有的工具、肢体与感官，以及其中不变的那个身体。"
   ],
   [
    "first-person",
