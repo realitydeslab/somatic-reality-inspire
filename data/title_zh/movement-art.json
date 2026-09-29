@@ -1,0 +1,238 @@
+{
+ "thecla-schiphorst--bodymaps": {
+  "zh": "身体地图：触摸的造物",
+  "src": "translated"
+ },
+ "thecla-schiphorst--soft-n": {
+  "zh": "soft(n)",
+  "src": "keep"
+ },
+ "tom-calvert--life-forms": {
+  "zh": "Life Forms",
+  "src": "keep"
+ },
+ "lian-loke--understanding-movement": {
+  "zh": "为交互设计理解动作",
+  "src": "translated"
+ },
+ "lian-loke--surging-verticality": {
+  "zh": "涌动的垂直：一种平衡体验",
+  "src": "translated"
+ },
+ "lian-loke--choreographic-inscriptions": {
+  "zh": "编舞铭写",
+  "src": "translated"
+ },
+ "sarah-fdili-alaoui--a-light-touch": {
+  "zh": "轻触（以动作质感作为交互模态）",
+  "src": "translated"
+ },
+ "sarah-fdili-alaoui--laban-movement-qualities": {
+  "zh": "看见、感受与识别 Laban 动作质感",
+  "src": "translated"
+ },
+ "sarah-fdili-alaoui--skin": {
+  "zh": "SKIN",
+  "src": "keep"
+ },
+ "sarah-fdili-alaoui--rco": {
+  "zh": "激进编舞对象 [RCO]",
+  "src": "translated"
+ },
+ "jules-francoise--vocalizing-dance-movement": {
+  "zh": "为舞蹈动作发声",
+  "src": "translated"
+ },
+ "jules-francoise--mapping-through-interaction": {
+  "zh": "通过交互建立动作—声音映射",
+  "src": "translated"
+ },
+ "frederic-bevilacqua--gesture-follower": {
+  "zh": "手势跟随器",
+  "src": "translated"
+ },
+ "nicolas-rasamimanana--mo": {
+  "zh": "MO：模块化音乐物件",
+  "src": "translated"
+ },
+ "antonio-camurri--eyesweb": {
+  "zh": "EyesWeb",
+  "src": "keep"
+ },
+ "antonio-camurri--dance-sonification": {
+  "zh": "DANCE：让动作质感发声",
+  "src": "translated"
+ },
+ "william-forsythe--improvisation-technologies": {
+  "zh": "即兴技术",
+  "src": "translated"
+ },
+ "william-forsythe--synchronous-objects": {
+  "zh": "《One Flat Thing, reproduced》的同步对象",
+  "src": "translated"
+ },
+ "wayne-mcgregor--choreographic-language-agent": {
+  "zh": "编舞语言智能体",
+  "src": "translated"
+ },
+ "wayne-mcgregor--aisoma": {
+  "zh": "AISOMA / 活档案",
+  "src": "translated"
+ },
+ "palindrome--touching": {
+  "zh": "触碰",
+  "src": "translated"
+ },
+ "palindrome--motioncomposer": {
+  "zh": "MotionComposer",
+  "src": "keep"
+ },
+ "mark-coniglio--in-plane": {
+  "zh": "In Plane（MidiDancer）",
+  "src": "keep"
+ },
+ "florian-mueller--breakout-for-two": {
+  "zh": "双人打砖块（运动界面）",
+  "src": "translated"
+ },
+ "florian-mueller--jogging-over-a-distance": {
+  "zh": "异地同跑",
+  "src": "translated"
+ },
+ "florian-mueller--hanging-off-a-bar": {
+  "zh": "吊杠悬挂",
+  "src": "translated"
+ },
+ "florian-mueller--movement-based-game-guidelines": {
+  "zh": "动作游戏设计准则",
+  "src": "translated"
+ },
+ "florian-mueller--bodily-interplay": {
+  "zh": "为社交运动游戏中的身体互动而设计",
+  "src": "translated"
+ },
+ "florian-mueller--body-as-play": {
+  "zh": "把身体体验为游戏",
+  "src": "translated"
+ },
+ "richard-byrne--balance-ninja": {
+  "zh": "平衡忍者",
+  "src": "translated"
+ },
+ "josh-andres--ari-ebike": {
+  "zh": "Ari 电动自行车",
+  "src": "translated"
+ },
+ "amy-huggard--musical-embrace": {
+  "zh": "音乐拥抱",
+  "src": "translated"
+ },
+ "die-gute-fabrik--johann-sebastian-joust": {
+  "zh": "Johann Sebastian Joust",
+  "src": "keep"
+ },
+ "elena-marquez-segura--body-games": {
+  "zh": "身体游戏的设计空间",
+  "src": "translated"
+ },
+ "elena-marquez-segura--warm-up-games": {
+  "zh": "身体热身游戏",
+  "src": "translated"
+ },
+ "jin-moen--bodybug": {
+  "zh": "BodyBug",
+  "src": "keep"
+ },
+ "perttu-hamalainen--kick-ass-kung-fu": {
+  "zh": "Kick Ass Kung-Fu",
+  "src": "keep"
+ },
+ "danielle-wilde--hipdisk": {
+  "zh": "hipDisk",
+  "src": "keep"
+ },
+ "david-rokeby--very-nervous-system": {
+  "zh": "非常神经系统",
+  "src": "translated"
+ },
+ "myron-krueger--videoplace": {
+  "zh": "Videoplace",
+  "src": "keep"
+ },
+ "chunky-move--glow": {
+  "zh": "Glow",
+  "src": "keep"
+ },
+ "marco-donnarumma--xth-sense": {
+  "zh": "Xth Sense",
+  "src": "keep"
+ },
+ "marco-donnarumma--corpus-nil": {
+  "zh": "Corpus Nil",
+  "src": "keep"
+ },
+ "asa-unander-scharin--robocygne": {
+  "zh": "Robocygne",
+  "src": "keep"
+ },
+ "carl-unander-scharin--vocal-chorder": {
+  "zh": "嗓音弦琴（The Vocal Chorder）",
+  "src": "translated"
+ },
+ "stelarc--third-hand": {
+  "zh": "第三只手",
+  "src": "established"
+ },
+ "stelarc--ping-body": {
+  "zh": "Ping 身体",
+  "src": "translated"
+ },
+ "lygia-clark--caminhando": {
+  "zh": "行走",
+  "src": "translated"
+ },
+ "lygia-clark--breathe-with-me": {
+  "zh": "与我同呼吸",
+  "src": "translated"
+ },
+ "lygia-clark--sensorial-masks": {
+  "zh": "感官面具",
+  "src": "translated"
+ },
+ "lygia-clark--the-i-and-the-you": {
+  "zh": "我与你",
+  "src": "translated"
+ },
+ "lygia-clark--structuring-the-self": {
+  "zh": "自我的建构",
+  "src": "translated"
+ },
+ "helio-oiticica--parangole": {
+  "zh": "帕兰戈莱",
+  "src": "established"
+ },
+ "helio-oiticica--eden": {
+  "zh": "伊甸",
+  "src": "translated"
+ },
+ "rebecca-horn--unicorn": {
+  "zh": "独角兽",
+  "src": "translated"
+ },
+ "rebecca-horn--pencil-mask": {
+  "zh": "铅笔面具",
+  "src": "translated"
+ },
+ "char-davies--osmose": {
+  "zh": "Osmose（渗透）",
+  "src": "translated"
+ },
+ "char-davies--ephemere": {
+  "zh": "Ephémère（短暂）",
+  "src": "translated"
+ },
+ "ernesto-neto--celula-nave": {
+  "zh": "细胞之舟",
+  "src": "translated"
+ }
+}

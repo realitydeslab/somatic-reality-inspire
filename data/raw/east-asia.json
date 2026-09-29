@@ -1,0 +1,2620 @@
+{
+ "batch": "east-asia",
+ "creators": [
+  {
+   "id": "yuasa-yasuo",
+   "name": "Yuasa Yasuo",
+   "name_zh": "汤浅泰雄",
+   "kind": "person",
+   "role": "Philosopher (1925–2005); professor at Osaka, Tsukuba and Obirin universities",
+   "role_zh": "哲学家（1925–2005），曾任大阪大学、筑波大学、樱美林大学教授",
+   "based": "Tokyo, JP",
+   "based_zh": "东京，日本",
+   "bio": "Japanese philosopher, a student of Watsuji Tetsurō, who wrote on the body, ki, self-cultivation and Jungian psychology; his 1977 book on the body became the main English-language source on Eastern mind-body theory.",
+   "bio_zh": "日本哲学家，师从和辻哲郎，研究身体、气、修行与荣格心理学；他 1977 年的《身体》一书成为英语世界了解东方身心论的主要来源。",
+   "why": "He argued that body-mind unity is not a given fact but an achievement of long practice, which is exactly what soma design asks designers to cultivate.",
+   "why_zh": "他指出身心一如不是天生的事实，而是长期修行才能达到的状态，这正是身体设计要求设计者培养的能力。",
+   "disciplines": [
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Yasuo_Yuasa"
+   },
+   "connected_to": [
+    "shigenori-nagatomo",
+    "ichikawa-hiroshi"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ichikawa-hiroshi",
+   "name": "Ichikawa Hiroshi",
+   "name_zh": "市川浩",
+   "kind": "person",
+   "role": "Philosopher (1931–2002); professor at Meiji University",
+   "role_zh": "哲学家（1931–2002），明治大学教授",
+   "based": "Tokyo, JP",
+   "based_zh": "东京，日本",
+   "bio": "Japanese phenomenologist of the body who proposed the 'body as spirit' and the concept of mi, the lived body-self that extends into tools, others and the world.",
+   "bio_zh": "日本身体现象学家，提出“作为精神的身体”以及“身”的概念：活的身体-自我会延伸到工具、他人与世界之中。",
+   "why": "His mi gives designers a Japanese word for the soma: a body that is at once flesh, self and relation, never a mere object.",
+   "why_zh": "他的“身”为设计者提供了一个描述 soma 的日语概念：身体同时是肉身、自我与关系，而从来不只是对象。",
+   "disciplines": [
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://ja.wikipedia.org/wiki/市川浩_(哲学者)"
+   },
+   "connected_to": [
+    "yuasa-yasuo"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "nishida-kitaro",
+   "name": "Nishida Kitarō",
+   "name_zh": "西田几多郎",
+   "kind": "person",
+   "role": "Philosopher (1870–1945), founder of the Kyoto School",
+   "role_zh": "哲学家（1870–1945），京都学派创始人",
+   "based": "Kyoto, JP",
+   "based_zh": "京都，日本",
+   "bio": "Founder of modern Japanese philosophy, known for 'pure experience', the logic of basho (place) and 'action-intuition' (kōiteki chokkan).",
+   "bio_zh": "日本现代哲学的奠基人，以“纯粹经验”、场所逻辑和“行为的直观”闻名。",
+   "why": "Action-intuition describes knowing that happens through bodily making, the ground for Yuasa's and Ichikawa's body theories and for designing by doing.",
+   "why_zh": "“行为的直观”描述了在身体的制作中发生的认识，是汤浅泰雄、市川浩身体论的基础，也是“在做中设计”的哲学根据。",
+   "disciplines": [
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://plato.stanford.edu/entries/nishida-kitaro/"
+   },
+   "connected_to": [
+    "yuasa-yasuo"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "dogen",
+   "name": "Dōgen Zenji",
+   "name_zh": "道元",
+   "kind": "person",
+   "role": "Zen master (1200–1253), founder of Japanese Sōtō Zen",
+   "role_zh": "禅师（1200–1253），日本曹洞宗开祖",
+   "based": "Echizen (Fukui), JP",
+   "based_zh": "越前（福井），日本",
+   "bio": "Japanese Buddhist monk who brought Caodong Chan from Song China to Japan, founded Eiheiji and wrote the Shōbōgenzō and the Fukanzazengi.",
+   "bio_zh": "日本佛教僧人，从宋代中国带回曹洞禅，创建永平寺，著有《正法眼藏》与《普劝坐禅仪》。",
+   "why": "His phrase shinjin ichinyo, body and mind as one, and his just-sitting practice are the classical source of the body-mind unity that soma design builds on.",
+   "why_zh": "他提出的“身心一如”以及只管打坐的修行，是身体设计所依据的身心一体思想的经典来源。",
+   "disciplines": [
+    "philosophy",
+    "somatics"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/D%C5%8Dgen"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "zhuangzi",
+   "name": "Zhuangzi",
+   "name_zh": "庄子",
+   "kind": "person",
+   "role": "Daoist philosopher (c. 369–286 BCE)",
+   "role_zh": "道家哲学家（约前 369–前 286）",
+   "based": "State of Song, CN",
+   "based_zh": "宋国，中国",
+   "bio": "Warring States thinker whose book, the Zhuangzi, uses stories of craftsmen, butchers and swimmers to show skill as effortless, attuned action.",
+   "bio_zh": "战国时期思想家，《庄子》一书借庖丁、匠人、游水者的故事，展示技艺如何成为顺势而为、与物相应的行动。",
+   "why": "His craftsmen who work 'with spirit, not with the eyes' describe the tacit, felt skill that soma designers want to support rather than replace.",
+   "why_zh": "庄子笔下“以神遇而不以目视”的匠人，描述了一种默会的、被感受的技艺，这正是身体设计想要支持而不是取代的东西。",
+   "disciplines": [
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Zhuang_Zhou"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "mencius",
+   "name": "Mencius",
+   "name_zh": "孟子",
+   "kind": "person",
+   "role": "Confucian philosopher (c. 372–289 BCE)",
+   "role_zh": "儒家哲学家（约前 372–前 289）",
+   "based": "State of Zou, CN",
+   "based_zh": "邹国，中国",
+   "bio": "Second great Confucian thinker, who taught that human nature is good and that moral life is nourished like a body, through qi and daily cultivation.",
+   "bio_zh": "儒家亚圣，主张性善，认为道德生命如身体一般需要以气与日常修养来滋养。",
+   "why": "His 'flood-like qi' ties moral feeling, breath and bodily vigour into one process, an early non-dualist account of the ethical soma.",
+   "why_zh": "他所说的“浩然之气”把道德感、呼吸与身体的元气连成一个过程，是对伦理身体的早期非二元描述。",
+   "disciplines": [
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Mencius"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "huangdi-neijing-authors",
+   "name": "Huangdi Neijing authors (anonymous)",
+   "name_zh": "《黄帝内经》佚名作者",
+   "kind": "person",
+   "role": "Anonymous physicians of the Warring States and Han periods",
+   "role_zh": "战国至汉代的佚名医家",
+   "based": "China",
+   "based_zh": "中国",
+   "bio": "The Inner Classic of the Yellow Emperor was compiled by unnamed physicians between roughly the 3rd century BCE and the 1st century BCE and framed as dialogues between the Yellow Emperor and his ministers.",
+   "bio_zh": "《黄帝内经》由佚名医家在约公元前 3 世纪至前 1 世纪间编成，以黄帝与岐伯等臣子问答的形式写成。",
+   "why": "The classic that grounds Chinese medicine in qi, meridians and the correspondence of emotions and organs, a body-mind map still used in qigong and tai chi.",
+   "why_zh": "这部经典以气、经络以及情志与脏腑的对应奠定了中医，也是气功和太极拳至今沿用的身心图谱。",
+   "disciplines": [
+    "health",
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Huangdi_Neijing"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "shigehisa-kuriyama",
+   "name": "Shigehisa Kuriyama",
+   "name_zh": "栗山茂久",
+   "kind": "person",
+   "role": "Historian of medicine; Reischauer Institute Professor of Cultural History, Harvard University",
+   "role_zh": "医学史学者，哈佛大学文化史讲席教授",
+   "based": "Cambridge, MA, US",
+   "based_zh": "剑桥（马萨诸塞州），美国",
+   "bio": "Japanese-born historian of medicine who compares how Greek and Chinese physicians learned to touch, see and name the body.",
+   "bio_zh": "日本出生的医学史学者，比较古希腊与中国医生如何学会触摸、观看和命名身体。",
+   "why": "Kuriyama shows that the body itself is perceived differently through different trained senses, a historical case for somatic connoisseurship.",
+   "why_zh": "他说明：不同训练出来的感官，会感知到不同的身体，这为“身体鉴赏力”提供了历史证据。",
+   "disciplines": [
+    "philosophy",
+    "health"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Shigehisa_Kuriyama"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "shigenori-nagatomo",
+   "name": "Shigenori Nagatomo",
+   "name_zh": "长友繁法",
+   "kind": "person",
+   "role": "Professor of Philosophy and Religion, Temple University",
+   "role_zh": "天普大学哲学与宗教学教授",
+   "based": "Philadelphia, US",
+   "based_zh": "费城，美国",
+   "bio": "Japanese philosopher and translator of Yuasa Yasuo who writes on Japanese Buddhism, the lived body and ki.",
+   "bio_zh": "日本哲学家，汤浅泰雄著作的英译者，研究日本佛教、活的身体与气。",
+   "why": "Nagatomo's 'attunement through the body' names the somatic skill of resonating with things and others that soma design trains.",
+   "why_zh": "他所说的“经由身体的调谐”，命名了身体设计要训练的那种与物、与人共振的身体能力。",
+   "disciplines": [
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://sunypress.edu/Contributors/N/Nagatomo-Shigenori"
+   },
+   "connected_to": [
+    "yuasa-yasuo"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "tu-weiming",
+   "name": "Tu Weiming",
+   "name_zh": "杜维明",
+   "kind": "person",
+   "role": "Confucian philosopher; professor emeritus, Harvard University and Peking University",
+   "role_zh": "儒家哲学家；哈佛大学与北京大学荣休教授",
+   "based": "Cambridge, MA, US / Beijing, CN",
+   "based_zh": "剑桥（马萨诸塞州），美国／北京，中国",
+   "bio": "Leading New Confucian thinker who reinterprets self-cultivation (xiushen) and 'embodied knowing' (tizhi) for the modern world.",
+   "bio_zh": "当代新儒家代表人物，为现代世界重新诠释“修身”与“体知”。",
+   "why": "Tu's tizhi, knowing that is realised in the body and in conduct, is a Confucian counterpart to first-person soma knowledge.",
+   "why_zh": "他提出的“体知”，即在身体与行为中实现的认识，是第一人称身体知识在儒家传统中的对应。",
+   "disciplines": [
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Tu_Weiming"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "zeami-motokiyo",
+   "name": "Zeami Motokiyo",
+   "name_zh": "世阿弥",
+   "kind": "person",
+   "role": "Noh actor, playwright and theorist (c. 1363–1443)",
+   "role_zh": "能乐演员、剧作家与理论家（约 1363–1443）",
+   "based": "Kyoto, JP",
+   "based_zh": "京都，日本",
+   "bio": "Master of Noh theatre whose secret treatises, such as the Fūshikaden and Kakyō, set out how an actor trains body, voice and awareness.",
+   "bio_zh": "能乐大师，其秘传论著如《风姿花传》《花镜》阐述了演员如何修炼身体、声音与觉知。",
+   "why": "His riken no ken, 'the seeing of detached seeing', asks the performer to feel their movement from inside while seeing it from outside, a first-person method in all but name.",
+   "why_zh": "他提出的“离见之见”要求演员一边从内部感受动作，一边从外部看见自己，这实际上就是一种第一人称方法。",
+   "disciplines": [
+    "dance",
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Zeami_Motokiyo"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "yi-je-ma",
+   "name": "Yi Je-ma",
+   "name_zh": "李济马",
+   "kind": "person",
+   "role": "Korean physician and thinker (1837–1900)",
+   "role_zh": "朝鲜王朝医学家与思想家（1837–1900）",
+   "based": "Hamhung, KR",
+   "based_zh": "咸兴，朝鲜半岛",
+   "bio": "Joseon-era physician who founded Sasang constitutional medicine in his book Dongui Suse Bowon (1894).",
+   "bio_zh": "朝鲜王朝时期医学家，在《东医寿世保元》（1894）中创立四象医学。",
+   "why": "He tied four body types to four emotional dispositions, a Korean medical theory in which temperament and organs are one system.",
+   "why_zh": "他把四种体质与四种情志倾向联系起来，这是一种把性情与脏腑视为同一系统的韩国医学理论。",
+   "disciplines": [
+    "health",
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Yi_Je-ma"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "yang-chengfu",
+   "name": "Yang Chengfu",
+   "name_zh": "杨澄甫",
+   "kind": "person",
+   "role": "Tai chi master (1883–1936)",
+   "role_zh": "太极拳宗师（1883–1936）",
+   "based": "Beijing / Shanghai, CN",
+   "based_zh": "北京／上海，中国",
+   "bio": "Grandson of Yang Luchan who standardised the large-frame Yang-style tai chi form and taught it widely in Beijing, Shanghai and Nanjing.",
+   "bio_zh": "杨露禅之孙，定型了杨式大架太极拳，并在北京、上海、南京等地广泛传授。",
+   "why": "The Yang form he fixed is the tai chi most people learn today, a daily practice of slow, rooted, breath-led movement.",
+   "why_zh": "他定型的杨式拳架是今天大多数人学习的太极拳：一种缓慢、扎根、以呼吸带动的日常修习。",
+   "disciplines": [
+    "somatics"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Yang_Chengfu"
+   },
+   "connected_to": [
+    "cheng-man-ching"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "cheng-man-ching",
+   "name": "Cheng Man-ch'ing",
+   "name_zh": "郑曼青",
+   "kind": "person",
+   "role": "Tai chi teacher, painter, poet and physician (1902–1975)",
+   "role_zh": "太极拳家、画家、诗人与医师（1902–1975）",
+   "based": "Taipei, TW / New York, US",
+   "based_zh": "台北，台湾／纽约，美国",
+   "bio": "Student of Yang Chengfu who created the 37-posture short form and taught it in Taiwan and, from 1964, in New York.",
+   "bio_zh": "杨澄甫弟子，创编三十七式简化太极拳，先在台湾、1964 年起在纽约传授。",
+   "why": "Cheng brought tai chi's softness and 'investing in loss' to the West, where it entered dance, somatics and later HCI.",
+   "why_zh": "他把太极拳的柔与“吃亏”之道带到西方，进入舞蹈与身体修习领域，后来也影响了人机交互。",
+   "disciplines": [
+    "somatics"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Cheng_Man-ch%27ing"
+   },
+   "connected_to": [
+    "yang-chengfu"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "chinese-health-qigong-association",
+   "name": "Chinese Health Qigong Association",
+   "name_zh": "中国健身气功协会",
+   "kind": "lab",
+   "role": "National association for Health Qigong under the General Administration of Sport of China",
+   "role_zh": "国家体育总局主管的健身气功全国性组织",
+   "based": "Beijing, CN",
+   "based_zh": "北京，中国",
+   "bio": "Body that in the early 2000s standardised traditional qigong sequences such as Baduanjin, Yijinjing, Wuqinxi and Liuzijue as 'Health Qigong'.",
+   "bio_zh": "在 2000 年代初把八段锦、易筋经、五禽戏、六字诀等传统功法整理为“健身气功”标准套路的机构。",
+   "why": "Its standard Baduanjin is the qigong practised daily by millions in Chinese parks, a public somatic infrastructure.",
+   "why_zh": "它编定的八段锦每天在中国的公园里被数以百万计的人练习，是一种公共的身体修习基础设施。",
+   "disciplines": [
+    "somatics",
+    "health"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Baduanjin_qigong"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "wang-xiangzhai",
+   "name": "Wang Xiangzhai",
+   "name_zh": "王芗斋",
+   "kind": "person",
+   "role": "Martial artist (1885–1963), founder of Yiquan",
+   "role_zh": "武术家（1885–1963），意拳创始人",
+   "based": "Beijing, CN",
+   "based_zh": "北京，中国",
+   "bio": "Xingyiquan master who stripped martial training down to standing (zhan zhuang) and felt intention, founding Yiquan (also called Dachengquan).",
+   "bio_zh": "形意拳名家，把武术训练简化为站桩与意念的体认，创立意拳（又称大成拳）。",
+   "why": "Wang made stillness the main training, showing that attention to the standing body is already practice.",
+   "why_zh": "他把静止作为主要训练，说明对站立身体的觉察本身就是修习。",
+   "disciplines": [
+    "somatics"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Wang_Xiangzhai"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "morihei-ueshiba",
+   "name": "Morihei Ueshiba",
+   "name_zh": "植芝盛平",
+   "kind": "person",
+   "role": "Martial artist (1883–1969), founder of aikido",
+   "role_zh": "武道家（1883–1969），合气道创始人",
+   "based": "Iwama, JP",
+   "based_zh": "岩间，日本",
+   "bio": "Japanese martial artist who turned Daitō-ryū jujutsu into aikido, a practice of blending with an attacker's movement.",
+   "bio_zh": "日本武道家，把大东流柔术发展为合气道：一种与对手动作融合的修习。",
+   "why": "Aikido treats the other's force as something to feel and join, a model of intercorporeal attunement.",
+   "why_zh": "合气道把对方的力视为可以感受和顺应的东西，是身体间调谐的范例。",
+   "disciplines": [
+    "somatics"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Morihei_Ueshiba"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "noguchi-michizo",
+   "name": "Noguchi Michizō",
+   "name_zh": "野口三千三",
+   "kind": "person",
+   "role": "Physical educator (1914–1998); professor, Tokyo University of the Arts",
+   "role_zh": "体育教育家（1914–1998），东京艺术大学教授",
+   "based": "Tokyo, JP",
+   "based_zh": "东京，日本",
+   "bio": "Former military gymnastics teacher who, after the war, developed Noguchi Taisō, a practice of releasing effort and letting weight and momentum move the body.",
+   "bio_zh": "曾是战时体操教师，战后创立野口体操：放下用力，让重量与惯性带动身体。",
+   "why": "Noguchi replaced drilling the body with listening to it, the stance that soma design asks of both designers and users.",
+   "why_zh": "他以倾听身体代替训练身体，这正是身体设计对设计者和使用者的要求。",
+   "disciplines": [
+    "somatics"
+   ],
+   "links": {
+    "site": "https://ja.wikipedia.org/wiki/野口三千三"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "noguchi-haruchika",
+   "name": "Noguchi Haruchika",
+   "name_zh": "野口晴哉",
+   "kind": "person",
+   "role": "Founder of Seitai (1911–1976)",
+   "role_zh": "整体创始人（1911–1976）",
+   "based": "Tokyo, JP",
+   "based_zh": "东京，日本",
+   "bio": "Japanese healer who founded Seitai, a system of body types (taiheki), hand attention (yuki) and spontaneous movement (katsugen undō).",
+   "bio_zh": "日本整体创始人，体系包括体癖论、愉气法与活元运动。",
+   "why": "Seitai trusts the body's own movement to restore balance, a practice of letting the soma lead.",
+   "why_zh": "整体相信身体自发的运动能够恢复平衡，是一种让身体来引导的修习。",
+   "disciplines": [
+    "somatics",
+    "health"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Haruchika_Noguchi"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "min-tanaka",
+   "name": "Min Tanaka",
+   "name_zh": "田中泯",
+   "kind": "person",
+   "role": "Dancer and actor (born 1945)",
+   "role_zh": "舞者、演员（1945 年生）",
+   "based": "Yamanashi, JP",
+   "based_zh": "山梨，日本",
+   "bio": "Japanese dancer who left conventional dance in the 1970s, developed Body Weather training and founded Body Weather Farm in 1985.",
+   "bio_zh": "日本舞者，1970 年代脱离传统舞蹈，发展出“身体气象”训练，并于 1985 年创立身体气象农场。",
+   "why": "Body Weather treats the body as weather, sensitive and always changing, and trains dancers through farm work and partnered manipulations.",
+   "why_zh": "“身体气象”把身体看作天气：敏感而不断变化，通过农活与双人操控练习来训练舞者。",
+   "disciplines": [
+    "dance",
+    "somatics"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Min_Tanaka"
+   },
+   "connected_to": [
+    "tatsumi-hijikata"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "tatsumi-hijikata",
+   "name": "Tatsumi Hijikata",
+   "name_zh": "土方巽",
+   "kind": "person",
+   "role": "Dancer and choreographer (1928–1986), founder of butoh",
+   "role_zh": "舞者、编舞家（1928–1986），舞踏创始人",
+   "based": "Tokyo, JP",
+   "based_zh": "东京，日本",
+   "bio": "Japanese choreographer whose 1959 Kinjiki started Ankoku Butoh, the 'dance of darkness' built from images, memory and the collapsing body.",
+   "bio_zh": "日本编舞家，1959 年的《禁色》开启了暗黑舞踏：以意象、记忆和崩塌的身体构成的舞蹈。",
+   "why": "His image scores (butoh-fu) make the dancer become an insect, a corpse or wind from inside, a radical method of somatic estrangement.",
+   "why_zh": "他的舞踏谱让舞者从内部化为昆虫、尸体或风，是一种激进的身体陌生化方法。",
+   "disciplines": [
+    "dance"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Tatsumi_Hijikata"
+   },
+   "connected_to": [
+    "kazuo-ohno"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "kazuo-ohno",
+   "name": "Kazuo Ohno",
+   "name_zh": "大野一雄",
+   "kind": "person",
+   "role": "Butoh dancer (1906–2010)",
+   "role_zh": "舞踏家（1906–2010）",
+   "based": "Yokohama, JP",
+   "based_zh": "横滨，日本",
+   "bio": "Co-founder of butoh with Hijikata, who kept dancing past 100 and taught that dance begins in the soul and the life of the body.",
+   "bio_zh": "与土方巽共同开创舞踏，百岁后仍在舞蹈，主张舞蹈始于灵魂与身体的生命。",
+   "why": "Ohno's dancing shows an old body as fully expressive, a counter-image to technologies that measure bodies against norms.",
+   "why_zh": "他的舞蹈展示了衰老的身体也能充分表达，是那些以常模衡量身体的技术的反面。",
+   "disciplines": [
+    "dance"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Kazuo_Ohno"
+   },
+   "connected_to": [
+    "tatsumi-hijikata"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "thich-nhat-hanh",
+   "name": "Thich Nhat Hanh",
+   "name_zh": "释一行",
+   "kind": "person",
+   "role": "Vietnamese Zen monk and teacher (1926–2022), founder of Plum Village",
+   "role_zh": "越南禅僧、教师（1926–2022），梅村创始人",
+   "based": "Plum Village, FR / Huế, VN",
+   "based_zh": "梅村，法国／顺化，越南",
+   "bio": "Vietnamese Thiền monk, peace activist and author of The Miracle of Mindfulness, who taught mindful breathing, walking and eating to a worldwide lay public.",
+   "bio_zh": "越南禅宗僧人、和平活动者，《正念的奇迹》作者，向全球大众传授正念呼吸、行禅与正念饮食。",
+   "why": "His practice of 'arriving' in the body with each breath and step is behind much of the mindfulness that HCI now designs for.",
+   "why_zh": "他教人随每一次呼吸、每一步“回到”身体，这背后正是人机交互如今为之设计的正念。",
+   "disciplines": [
+    "somatics"
+   ],
+   "links": {
+    "site": "https://plumvillage.org"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "shizuto-masunaga",
+   "name": "Shizuto Masunaga",
+   "name_zh": "增永静人",
+   "kind": "person",
+   "role": "Shiatsu practitioner and psychologist (1925–1981)",
+   "role_zh": "指压师、心理学家（1925–1981）",
+   "based": "Tokyo, JP",
+   "based_zh": "东京，日本",
+   "bio": "Japanese psychologist and shiatsu teacher who created Zen Shiatsu, combining meridian theory with a two-handed, relaxed, listening touch.",
+   "bio_zh": "日本心理学家与指压教师，创立禅式指压，把经络理论与放松、倾听式的双手触摸结合起来。",
+   "why": "Zen Shiatsu frames touch as mutual attunement between two bodies, not as a technique done to someone.",
+   "why_zh": "禅式指压把触摸看作两个身体的相互调谐，而不是施加于人的技术。",
+   "disciplines": [
+    "somatics",
+    "health"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Shizuto_Masunaga"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "lin-hwai-min",
+   "name": "Lin Hwai-min",
+   "name_zh": "林怀民",
+   "kind": "person",
+   "role": "Choreographer; founder of Cloud Gate Dance Theatre",
+   "role_zh": "编舞家，云门舞集创办人",
+   "based": "Taipei, TW",
+   "based_zh": "台北，台湾",
+   "bio": "Taiwanese writer and choreographer who founded Cloud Gate in 1973 and built its training on tai chi daoyin, meditation, martial arts and calligraphy.",
+   "bio_zh": "台湾作家、编舞家，1973 年创办云门舞集，以太极导引、静坐、武术与书法作为舞者训练的基础。",
+   "why": "Cloud Gate shows how an Eastern somatic practice can become a contemporary dance language and a daily training of attention.",
+   "why_zh": "云门说明了东方身体修习如何成为当代舞蹈语言，以及一种日常的注意力训练。",
+   "disciplines": [
+    "dance"
+   ],
+   "links": {
+    "site": "https://www.cloudgate.org.tw/en"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "huang-yi",
+   "name": "Huang Yi",
+   "name_zh": "黄翊",
+   "kind": "person",
+   "role": "Choreographer, dancer and inventor; founder of Huang Yi Studio +",
+   "role_zh": "编舞家、舞者、发明者，黄翊工作室＋创办人",
+   "based": "Taipei, TW",
+   "based_zh": "台北，台湾",
+   "bio": "Taiwanese choreographer who programs industrial robot arms himself and dances with them.",
+   "bio_zh": "台湾编舞家，亲自为工业机械臂编程并与之共舞。",
+   "why": "The duet with a KUKA arm asks what a machine must do for a dancer to feel partnered rather than operated.",
+   "why_zh": "他与 KUKA 机械臂的双人舞追问：机器要做到什么，舞者才会感到是在与伙伴共舞，而不是在操作机器。",
+   "disciplines": [
+    "dance",
+    "engineering"
+   ],
+   "links": {
+    "site": "https://www.huangyistudio.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "tao-ye",
+   "name": "Tao Ye",
+   "name_zh": "陶冶",
+   "kind": "person",
+   "role": "Choreographer; co-founder of TAO Dance Theater",
+   "role_zh": "编舞家，陶身体剧场联合创始人",
+   "based": "Beijing, CN",
+   "based_zh": "北京，中国",
+   "bio": "Chinese choreographer who founded TAO Dance Theater in 2008 with Duan Ni and makes numbered works built on continuous circular movement.",
+   "bio_zh": "中国编舞家，2008 年与段妮创立陶身体剧场，以连续的圆形运动创作“数字系列”作品。",
+   "why": "The 'circular movement system' treats the whole body as one continuous flow, a contemporary Chinese somatic dance language.",
+   "why_zh": "他的“圆运动体系”把整个身体视为连续不断的流动，是一种当代中国的身体舞蹈语言。",
+   "disciplines": [
+    "dance"
+   ],
+   "links": {
+    "site": "https://www.taodancetheater.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "pichet-klunchun",
+   "name": "Pichet Klunchun",
+   "kind": "person",
+   "role": "Dancer and choreographer",
+   "role_zh": "舞者、编舞家",
+   "based": "Bangkok, TH",
+   "based_zh": "曼谷，泰国",
+   "bio": "Thai dancer trained in classical masked khon who makes contemporary work from its body knowledge.",
+   "bio_zh": "受过泰国古典孔剧训练的舞者，以其身体知识创作当代作品。",
+   "why": "The work shows a classical Asian dance body as a body of knowledge that can be explained, questioned and shared.",
+   "why_zh": "他的作品把亚洲古典舞蹈的身体呈现为一种可以解释、质询和分享的知识体系。",
+   "disciplines": [
+    "dance"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Pichet_Klunchun"
+   },
+   "connected_to": [
+    "jerome-bel"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jerome-bel",
+   "name": "Jérôme Bel",
+   "kind": "person",
+   "role": "Choreographer",
+   "role_zh": "编舞家",
+   "based": "Paris, FR",
+   "based_zh": "巴黎，法国",
+   "bio": "French conceptual choreographer whose pieces put dancers' own bodies and biographies on stage.",
+   "bio_zh": "法国观念舞蹈编舞家，作品把舞者自己的身体与经历搬上舞台。",
+   "why": "The dialogue piece with Pichet Klunchun sets two trained bodies side by side to compare how they know.",
+   "why_zh": "他与 Pichet Klunchun 的对话作品把两个受过训练的身体并置，比较它们各自如何认识。",
+   "disciplines": [
+    "dance"
+   ],
+   "links": {
+    "site": "https://www.jeromebel.fr"
+   },
+   "connected_to": [
+    "pichet-klunchun"
+   ],
+   "discovered_via": "pichet-klunchun"
+  },
+  {
+   "id": "yoko-ono",
+   "name": "Yoko Ono",
+   "name_zh": "小野洋子",
+   "kind": "person",
+   "role": "Artist, musician and peace activist",
+   "role_zh": "艺术家、音乐人、和平活动者",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "bio": "Japanese-American artist (born 1933) close to Fluxus, whose instruction pieces and performances ask the audience to complete the work with their own bodies.",
+   "bio_zh": "日裔美国艺术家（1933 年生），与激浪派关系密切，她的指令作品与表演邀请观众用自己的身体完成作品。",
+   "why": "Cut Piece makes the artist's still body the site where the audience's touch, and its ethics, become visible.",
+   "why_zh": "《切片》让艺术家静止的身体成为观众触碰及其伦理变得可见的场所。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://imaginepeace.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "atsuko-tanaka",
+   "name": "Atsuko Tanaka",
+   "name_zh": "田中敦子",
+   "kind": "person",
+   "role": "Gutai artist (1932–2005)",
+   "role_zh": "具体派艺术家（1932–2005）",
+   "based": "Osaka, JP",
+   "based_zh": "大阪，日本",
+   "bio": "Japanese artist of the Gutai group, known for Electric Dress, Bell and paintings of circles and wires.",
+   "bio_zh": "日本具体派艺术家，以《电气服》《铃》以及圆与电线的绘画闻名。",
+   "why": "Electric Dress is an early wearable in which the wearer lives inside heat, light and danger, a garment felt from within.",
+   "why_zh": "《电气服》是早期的可穿戴作品：穿着者生活在热、光与危险之中，是一件从内部被感受的衣服。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Atsuko_Tanaka_(artist)"
+   },
+   "connected_to": [
+    "kazuo-shiraga"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "kazuo-shiraga",
+   "name": "Kazuo Shiraga",
+   "name_zh": "白发一雄",
+   "kind": "person",
+   "role": "Gutai painter and performer (1924–2008)",
+   "role_zh": "具体派画家、行为艺术家（1924–2008）",
+   "based": "Amagasaki, JP",
+   "based_zh": "尼崎，日本",
+   "bio": "Gutai artist who painted with his feet while hanging from a rope and later became a Tendai monk.",
+   "bio_zh": "具体派艺术家，吊在绳子上用脚作画，后来出家成为天台宗僧人。",
+   "why": "Made the whole body, not the hand, the instrument of painting, and the struggle itself the work.",
+   "why_zh": "他让整个身体而不是手成为绘画的工具，让挣扎本身成为作品。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Kazuo_Shiraga"
+   },
+   "connected_to": [
+    "atsuko-tanaka"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "daito-manabe",
+   "name": "Daito Manabe",
+   "name_zh": "真锅大度",
+   "kind": "person",
+   "role": "Artist and programmer, Rhizomatiks",
+   "role_zh": "艺术家与程序员，Rhizomatiks",
+   "based": "Tokyo, JP",
+   "based_zh": "东京，日本",
+   "bio": "Japanese artist, programmer and DJ, co-founder of Rhizomatiks, working with data, bodies and electrical stimulation.",
+   "bio_zh": "日本艺术家、程序员、DJ，Rhizomatiks 联合创始人，以数据、身体与电刺激创作。",
+   "why": "The electric-stimulus experiments let music move the face from outside, making the familiar face strange to its owner.",
+   "why_zh": "他的电刺激实验让音乐从外部驱动面部，使主人对自己熟悉的脸感到陌生。",
+   "disciplines": [
+    "art",
+    "engineering"
+   ],
+   "links": {
+    "site": "https://www.daito.ws/en/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jiabao-li",
+   "name": "Jiabao Li",
+   "name_zh": "李佳宝",
+   "kind": "person",
+   "role": "Artist, designer and technologist; Associate Professor, Northeastern University",
+   "role_zh": "艺术家、设计师与技术专家；美国东北大学副教授",
+   "based": "Oakland, US",
+   "based_zh": "奥克兰，美国",
+   "bio": "Chinese-born artist and inventor (Harvard GSD alum, former Apple designer) whose installations, wearables, XR, bio-art and performances deal with perception, feminist biotech and the more-than-human; co-directs work with Reality Design Lab.",
+   "bio_zh": "生于中国的艺术家与发明者（哈佛设计研究生院毕业，曾任苹果设计师），以装置、可穿戴设备、XR、生物艺术与表演处理感知、女性主义生物技术与多于人类的世界；与 Reality Design Lab 合作创作。",
+   "why": "Works from the artist's own menstruating, pregnant and breastfeeding body, turning intimate first-person experience into shared sensory encounters.",
+   "why_zh": "她从自己经期、孕期和哺乳期的身体出发，把私密的第一人称经验转化为可共享的感官相遇。",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {
+    "site": "https://www.jiabaoli.org",
+    "instagram": "https://www.instagram.com/jia.bao.li/"
+   },
+   "connected_to": [
+    "botao-amber-hu"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "rosemary-candelario",
+   "name": "Rosemary Candelario",
+   "kind": "person",
+   "role": "Dance scholar and butoh choreographer; Texas Woman's University",
+   "role_zh": "舞蹈学者、舞踏编舞家；德州女子大学",
+   "based": "Denton, US",
+   "based_zh": "丹顿，美国",
+   "bio": "Dance scholar and butoh practitioner, author of Flowers Cracking Concrete on Eiko & Koma, who choreographs site-based butoh.",
+   "bio_zh": "舞蹈学者与舞踏实践者，著有关于 Eiko & Koma 的《Flowers Cracking Concrete》，创作场域舞踏。",
+   "why": "Carries Hijikata's image-based butoh scores into ecological performance.",
+   "why_zh": "她把土方巽基于意象的舞踏谱带入生态表演之中。",
+   "disciplines": [
+    "dance"
+   ],
+   "links": {},
+   "connected_to": [
+    "jiabao-li"
+   ],
+   "discovered_via": "jiabao-li"
+  }
+ ],
+ "works": [
+  {
+   "id": "yuasa-yasuo--the-body",
+   "creator_ids": [
+    "yuasa-yasuo"
+   ],
+   "title": "The Body: Toward an Eastern Mind-Body Theory",
+   "year": 1977,
+   "field": "foundations",
+   "sub": "east-asian-thought",
+   "modalities": [
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "attunement"
+   ],
+   "kind": "publication",
+   "description": "Yuasa reads Dōgen, Kūkai, Nishida, Watsuji and Noh theory to show how Japanese thought treats body and mind as something unified through practice. Published in Japanese in 1977 and in English (SUNY Press) in 1987.",
+   "description_zh": "汤浅泰雄通过解读道元、空海、西田几多郎、和辻哲郎与能乐理论，说明日本思想如何把身与心看作经由修行而统一的整体。日文原版 1977 年出版，英译本 1987 年由纽约州立大学出版社出版。",
+   "idea_en": "Body-mind unity is an achievement of cultivation, not a starting fact: the more the body is trained, the less mind and body are felt as two.",
+   "idea_zh": "身心一如是修行的成就，而不是起点：身体越是受到修炼，身与心就越不再被感受为两个东西。",
+   "method": "Comparative philosophy that pairs Japanese self-cultivation texts with Merleau-Ponty, Bergson and psychosomatic medicine, and describes a 'dark consciousness' of the body below awareness.",
+   "method_zh": "比较哲学：把日本修行文献与梅洛-庞蒂、柏格森和身心医学对读，并提出觉知之下的身体“暗的意识”。",
+   "keywords": [
+    "Yuasa Yasuo",
+    "身心一如",
+    "shugyō",
+    "self-cultivation",
+    "Dōgen",
+    "Zeami",
+    "Merleau-Ponty"
+   ],
+   "images": [
+    "https://sunypress.edu/var/site/storage/images/books/t/the-body/9780887064685_cover/1908113-1-eng-CA/9780887064685_cover1_rb_fullcover.jpg"
+   ],
+   "paper": {
+    "url": "https://sunypress.edu/Books/T/The-Body",
+    "venue": "SUNY Press, 1987 (Japanese: Sōbunsha, 1977)",
+    "title": "The Body: Toward an Eastern Mind-Body Theory"
+   },
+   "source_url": "https://sunypress.edu/Books/T/The-Body"
+  },
+  {
+   "id": "yuasa-yasuo--self-cultivation-ki-energy",
+   "creator_ids": [
+    "yuasa-yasuo"
+   ],
+   "title": "The Body, Self-Cultivation, and Ki-Energy",
+   "year": 1986,
+   "field": "foundations",
+   "sub": "east-asian-thought",
+   "modalities": [
+    "whole-soma",
+    "breath",
+    "pain-interoception"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "attunement",
+    "care-healing"
+   ],
+   "kind": "publication",
+   "description": "Yuasa's study of ki as it is used in acupuncture, meditation and the martial arts, with a four-layer model of the lived body that links sensory-motor circuits, emotion and the unconscious. Japanese edition 1986 (Ki, Shugyō, Shintai); English 1993.",
+   "description_zh": "汤浅泰雄研究针灸、冥想与武术中的“气”，提出一个四层的活的身体模型，把感觉运动回路、情绪与无意识联系起来。日文原版《气・修行・身体》1986 年出版，英译本 1993 年出版。",
+   "idea_en": "Ki names the felt link between body, emotion and environment: an energy that practice makes perceptible rather than a hidden substance.",
+   "idea_zh": "气指的是身体、情绪与环境之间被感受到的联系：它是修行使之可被觉察的能量，而不是一种隐藏的物质。",
+   "method": "Reads Chinese and Japanese research on ki, acupuncture meridian measurements and meditators' reports alongside Western psychology and physiology.",
+   "method_zh": "把中日两国关于气的研究、经络测量与冥想者的报告，与西方心理学和生理学放在一起阅读。",
+   "keywords": [
+    "ki",
+    "qi",
+    "气",
+    "acupuncture",
+    "meridians",
+    "martial arts",
+    "Yuasa Yasuo"
+   ],
+   "images": [
+    "https://sunypress.edu/var/site/storage/images/books/t/the-body-self-cultivation-and-ki-energy2/9780791416242_cover/1846454-1-eng-CA/9780791416242_cover1_rb_fullcover.jpg"
+   ],
+   "paper": {
+    "url": "https://sunypress.edu/Books/T/The-Body-Self-Cultivation-and-Ki-Energy",
+    "venue": "SUNY Press, 1993 (Japanese: Hirakawa, 1986)",
+    "title": "The Body, Self-Cultivation, and Ki-Energy"
+   },
+   "source_url": "https://sunypress.edu/Books/T/The-Body-Self-Cultivation-and-Ki-Energy"
+  },
+  {
+   "id": "ichikawa-hiroshi--body-as-spirit",
+   "creator_ids": [
+    "ichikawa-hiroshi"
+   ],
+   "title": "The Body as Spirit (Seishin to shite no shintai)",
+   "year": 1975,
+   "field": "foundations",
+   "sub": "east-asian-thought",
+   "modalities": [
+    "whole-soma",
+    "movement"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "first-person"
+   ],
+   "kind": "publication",
+   "description": "Ichikawa's phenomenology of the body argues that human reality cannot be separated from the concrete body, and describes the body as subject, as object and as an 'entangled' whole that reaches into tools and others. First published by Keisō Shobō in 1975; Kōdansha Gakujutsu Bunko edition 1992.",
+   "description_zh": "市川浩的身体现象学主张人的现实无法与具体的身体分离，并把身体描述为主体、对象以及延伸到工具与他人之中的“错综体”。1975 年由劲草书房出版，1992 年收入讲谈社学术文库。",
+   "idea_en": "The body is already spirit: thinking, feeling and acting are one body extending itself into the world, so design shapes the mind by shaping how the body reaches.",
+   "idea_zh": "身体本身就是精神：思考、感受与行动都是同一个身体向世界的延伸，因此设计通过塑造身体的延伸方式来塑造心灵。",
+   "method": "Phenomenological analysis in dialogue with Merleau-Ponty, Gestalt psychology and physiology, organised as the body as phenomenon, as structure and as action.",
+   "method_zh": "与梅洛-庞蒂、格式塔心理学和生理学对话的现象学分析，分为“现象的身体”“结构的身体”“行动的结构”三部分。",
+   "keywords": [
+    "Ichikawa Hiroshi",
+    "精神としての身体",
+    "phenomenology",
+    "錯綜体",
+    "lived body"
+   ],
+   "images": [
+    "https://dvs-cover.kodansha.co.jp/0000150620/cDG5dVkZONkUA9E7mjcJ7Fke6VVBKga9amEhM7FI.jpg"
+   ],
+   "paper": {
+    "url": "https://bookclub.kodansha.co.jp/product?item=0000150620",
+    "venue": "Keisō Shobō, 1975; Kōdansha Gakujutsu Bunko, 1992",
+    "title": "精神としての身体"
+   },
+   "source_url": "https://bookclub.kodansha.co.jp/product?item=0000150620"
+  },
+  {
+   "id": "ichikawa-hiroshi--structure-of-mi",
+   "creator_ids": [
+    "ichikawa-hiroshi"
+   ],
+   "title": "The Structure of Mi (〈Mi〉 no kōzō)",
+   "year": 1984,
+   "field": "foundations",
+   "sub": "east-asian-thought",
+   "modalities": [
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "intercorporeality"
+   ],
+   "kind": "publication",
+   "description": "Ichikawa builds a theory of the lived body on the everyday Japanese word mi, which can mean flesh, self, social position and heart at once. Kōdansha Gakujutsu Bunko edition 1993.",
+   "description_zh": "市川浩以日语日常词“身”为基础建立活的身体理论：“身”同时可以指肉体、自我、社会位置与心。1993 年收入讲谈社学术文库。",
+   "idea_en": "Ordinary language already knows the soma: mi is the body as self in relation, extending into clothes, tools, other people and place.",
+   "idea_zh": "日常语言早已懂得身体：“身”就是处在关系中的身体-自我，延伸到衣服、工具、他人与场所。",
+   "method": "Close reading of idioms built on mi (mi ni tsukeru, mi ni shimiru, mi o makaseru) as evidence of a relational, non-dualist body.",
+   "method_zh": "细读以“身”构成的惯用语（身につける、身にしみる、身をまかせる等），作为关系性、非二元身体的证据。",
+   "keywords": [
+    "mi",
+    "身",
+    "Ichikawa Hiroshi",
+    "relational body",
+    "Japanese language"
+   ],
+   "images": [
+    "https://dvs-cover.kodansha.co.jp/0000150672/573Em5KLyK0vdQ7Rd30RH6Hku6d3RncSBKSTgCcc.jpg"
+   ],
+   "paper": {
+    "url": "https://bookclub.kodansha.co.jp/product?item=0000150672",
+    "venue": "Seidosha, 1984; Kōdansha Gakujutsu Bunko, 1993",
+    "title": "〈身〉の構造：身体論を超えて"
+   },
+   "source_url": "https://bookclub.kodansha.co.jp/product?item=0000150672"
+  },
+  {
+   "id": "nishida-kitaro--action-intuition",
+   "creator_ids": [
+    "nishida-kitaro"
+   ],
+   "title": "Action-Intuition (Kōiteki chokkan)",
+   "year": 1937,
+   "field": "foundations",
+   "sub": "east-asian-thought",
+   "modalities": [
+    "whole-soma",
+    "movement"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "first-person"
+   ],
+   "kind": "publication",
+   "description": "In essays of the late 1930s Nishida describes 'action-intuition': we see things by acting on them and are formed by what we make, so knowing and bodily making are one movement.",
+   "description_zh": "西田几多郎在 1930 年代后期的论文中提出“行为的直观”：我们通过作用于事物而看见事物，也被自己所制作的东西所塑造，认识与身体的制作是同一个运动。",
+   "idea_en": "Perception is not a mind looking at the world but a body shaping and being shaped by it; designers know materials by working them.",
+   "idea_zh": "知觉不是心灵在看世界，而是身体在塑造世界、也被世界塑造；设计者通过加工材料来认识材料。",
+   "method": "Philosophical essays (1937 onward) developing the logic of basho, historical bodies and poiesis.",
+   "method_zh": "哲学论文（1937 年起），发展场所逻辑、历史的身体与制作（poiesis）的思想。",
+   "keywords": [
+    "Nishida Kitarō",
+    "行為的直観",
+    "Kyoto School",
+    "basho",
+    "poiesis",
+    "historical body"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/13/Portrait-of-Kitaro-Nishida.png"
+   ],
+   "paper": {
+    "url": "https://plato.stanford.edu/entries/nishida-kitaro/",
+    "venue": "Stanford Encyclopedia of Philosophy (entry)",
+    "title": "Nishida Kitarō"
+   },
+   "source_url": "https://plato.stanford.edu/entries/nishida-kitaro/"
+  },
+  {
+   "id": "dogen--shinjin-ichinyo",
+   "creator_ids": [
+    "dogen"
+   ],
+   "title": "Shinjin ichinyo: Body and Mind as One (Bendōwa, Shōbōgenzō)",
+   "year": 1231,
+   "field": "foundations",
+   "sub": "east-asian-thought",
+   "modalities": [
+    "whole-soma",
+    "breath",
+    "posture-balance"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "attunement"
+   ],
+   "kind": "publication",
+   "description": "In Bendōwa (1231), later placed at the head of the Shōbōgenzō, Dōgen rejects the idea of a mind that survives apart from the body and teaches that 'body and mind are one' (shinjin ichinyo), realised in seated practice.",
+   "description_zh": "道元在《办道话》（1231，后列于《正法眼藏》卷首）中驳斥心可以脱离身体而长存的观点，主张“身心一如”，并在坐禅中实现。",
+   "idea_en": "Practice and realisation are not two: the posture itself is the awakening, so attending to how you sit is already the work.",
+   "idea_zh": "修证一如：姿势本身就是觉悟，因此留意自己如何坐，本身就是修行。",
+   "method": "Classical Zen text written in Japanese vernacular as questions and answers, grounding its claims in the practice of zazen.",
+   "method_zh": "以日文问答体写成的禅宗经典，其论点以坐禅实践为根据。",
+   "keywords": [
+    "Dōgen",
+    "身心一如",
+    "Shōbōgenzō",
+    "Bendōwa",
+    "Sōtō Zen",
+    "shikantaza"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/0/09/Soto-Zen-Master-Dogen-Zenji-Portrait.png"
+   ],
+   "paper": {
+    "url": "https://plato.stanford.edu/entries/japanese-zen/",
+    "venue": "Stanford Encyclopedia of Philosophy (Japanese Zen Buddhist Philosophy)",
+    "title": "Bendōwa (Shōbōgenzō)"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/D%C5%8Dgen"
+  },
+  {
+   "id": "zhuangzi--cook-ding",
+   "creator_ids": [
+    "zhuangzi"
+   ],
+   "title": "Cook Ding Carves the Ox (Zhuangzi, 'Nourishing the Lord of Life')",
+   "year": -300,
+   "field": "foundations",
+   "sub": "east-asian-thought",
+   "modalities": [
+    "movement",
+    "touch"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "attunement",
+    "movement-expression"
+   ],
+   "kind": "publication",
+   "description": "Cook Ding has used the same knife for nineteen years because he no longer looks at the ox with his eyes but meets it with his spirit, letting the blade follow the natural gaps; Lord Wenhui learns from him how to nourish life.",
+   "description_zh": "庖丁用同一把刀解牛十九年而刀刃如新，因为他“以神遇而不以目视”，依乎天理，批大郤、导大窾；文惠君由此领悟养生之道。",
+   "idea_en": "Mastery is felt attunement to the grain of things: skill that has passed from deliberate control into the body moves with ease and without wear.",
+   "idea_zh": "技艺的最高境界是对事物纹理的感受与顺应：当技能从刻意控制沉入身体，动作便轻松而不损耗。",
+   "method": "Parable in the third chapter (Yangshengzhu) of the Zhuangzi, one of many skill stories alongside the wheelwright, the swimmer and the cicada catcher.",
+   "method_zh": "《庄子·养生主》中的寓言，与轮扁、吕梁丈夫、痀偻承蜩等技艺故事同属一类。",
+   "keywords": [
+    "Zhuangzi",
+    "庖丁解牛",
+    "wuwei",
+    "skill",
+    "Daoism",
+    "养生"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/9/95/Zhuangzi_Song_Edition.jpg"
+   ],
+   "paper": {
+    "url": "https://ctext.org/zhuangzi/nourishing-the-lord-of-life",
+    "venue": "Zhuangzi, ch. 3 (Chinese Text Project)",
+    "title": "養生主 (Nourishing the Lord of Life)"
+   },
+   "source_url": "https://ctext.org/zhuangzi/nourishing-the-lord-of-life"
+  },
+  {
+   "id": "zhuangzi--fasting-of-the-heart-mind",
+   "creator_ids": [
+    "zhuangzi"
+   ],
+   "title": "Fasting of the Heart-Mind and Sitting in Forgetfulness (Zhuangzi)",
+   "year": -300,
+   "field": "foundations",
+   "sub": "east-asian-thought",
+   "modalities": [
+    "breath",
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "attunement",
+    "estrangement"
+   ],
+   "kind": "publication",
+   "description": "Confucius teaches Yan Hui to 'listen not with the ears but with the heart-mind, not with the heart-mind but with qi' (xinzhai), and Yan Hui later reports 'sitting in forgetfulness' (zuowang), letting go of limbs, senses and knowledge.",
+   "description_zh": "孔子教颜回“无听之以耳而听之以心，无听之以心而听之以气”（心斋）；颜回后来说自己“堕肢体，黜聪明，离形去知”，是谓“坐忘”。",
+   "idea_en": "Listening with qi means attending with the whole body before concepts arrive; emptying habitual perception makes room to feel anew.",
+   "idea_zh": "“听之以气”意味着在概念到来之前用整个身体去倾听；清空习惯性的知觉，才能重新感受。",
+   "method": "Dialogues in the Renjianshi and Dazongshi chapters of the Zhuangzi that later shaped Daoist meditation and neidan practice.",
+   "method_zh": "出自《庄子·人间世》与《大宗师》的对话，后来深刻影响了道教的静坐与内丹修炼。",
+   "keywords": [
+    "心斋",
+    "坐忘",
+    "Zhuangzi",
+    "qi",
+    "Daoist meditation",
+    "emptiness"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/c/c1/Dschuang-Dsi-Schmetterlingstraum-Zhuangzi-Butterfly-Dream.jpg"
+   ],
+   "paper": {
+    "url": "https://ctext.org/zhuangzi/man-in-the-world",
+    "venue": "Zhuangzi, ch. 4 and 6 (Chinese Text Project)",
+    "title": "人間世 / 大宗師"
+   },
+   "source_url": "https://ctext.org/zhuangzi/great-and-most-honoured-master"
+  },
+  {
+   "id": "mencius--flood-like-qi",
+   "creator_ids": [
+    "mencius"
+   ],
+   "title": "Nourishing the Flood-Like Qi (Mencius 2A2)",
+   "year": -300,
+   "field": "foundations",
+   "sub": "east-asian-thought",
+   "modalities": [
+    "breath",
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "care-healing"
+   ],
+   "kind": "publication",
+   "description": "Asked about an unmoved heart, Mencius says he is good at nourishing his 'flood-like qi' (haoran zhi qi), which fills the body and grows from righteous action, and warns against the farmer who pulls his sprouts to help them grow.",
+   "description_zh": "当被问及“不动心”时，孟子说自己“善养吾浩然之气”：此气充塞于身体，由集义所生；并以“揠苗助长”告诫不可强求。",
+   "idea_en": "Moral strength is bodily and cultivated slowly: will leads qi, qi fills the body, and forcing growth harms it.",
+   "idea_zh": "道德的力量是身体性的，需要慢慢养成：志帅气，气充体，强求则伤之。",
+   "method": "Dialogue in the Gongsun Chou chapter of the Mencius, a founding text for Confucian theories of qi and self-cultivation (xiushen).",
+   "method_zh": "出自《孟子·公孙丑上》的对话，是儒家气论与修身论的奠基文本。",
+   "keywords": [
+    "Mencius",
+    "浩然之气",
+    "养气",
+    "修身",
+    "Confucianism",
+    "qi"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/2/2c/Great_Confucian_Figures_-_Painting_of_Mengzi_by_Kan%C5%8D_Sansetsu.jpg"
+   ],
+   "paper": {
+    "url": "https://ctext.org/mengzi/gong-sun-chou-i",
+    "venue": "Mencius 2A (Chinese Text Project)",
+    "title": "公孫丑上 (Gong Sun Chou I)"
+   },
+   "source_url": "https://ctext.org/mengzi/gong-sun-chou-i"
+  },
+  {
+   "id": "huangdi-neijing-authors--huangdi-neijing",
+   "creator_ids": [
+    "huangdi-neijing-authors"
+   ],
+   "title": "Huangdi Neijing (Inner Classic of the Yellow Emperor)",
+   "year": -100,
+   "field": "foundations",
+   "sub": "east-asian-thought",
+   "modalities": [
+    "whole-soma",
+    "breath",
+    "pain-interoception"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "care-healing"
+   ],
+   "kind": "publication",
+   "description": "The founding classic of Chinese medicine, in two parts (Suwen and Lingshu), describes the body as flows of qi through meridians and organs that correspond to seasons, emotions and the cosmos.",
+   "description_zh": "中医的奠基经典，分为《素问》与《灵枢》两部分，把身体描述为气在经络与脏腑中的流动，并与四时、情志和天地相应。",
+   "idea_en": "Emotions are organ events and organs are emotional: anger, joy, worry and fear move qi, so caring for feeling and caring for the body are the same practice.",
+   "idea_zh": "情志即脏腑之事，脏腑亦有情志：怒、喜、思、悲、恐都会使气发生变化，因此调养情绪与调养身体是同一种实践。",
+   "method": "Dialogues compiled between roughly the 3rd and 1st centuries BCE, organised around yin-yang, the five phases, meridians and pulse diagnosis.",
+   "method_zh": "约公元前 3 至前 1 世纪间编成的问答体文本，围绕阴阳、五行、经络与脉诊组织。",
+   "keywords": [
+    "黄帝内经",
+    "Suwen",
+    "Lingshu",
+    "qi",
+    "meridians",
+    "Traditional Chinese Medicine",
+    "情志"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/3/39/Koteidaikei_Myodo.jpg"
+   ],
+   "paper": {
+    "url": "https://ctext.org/huangdi-neijing",
+    "venue": "Chinese Text Project",
+    "title": "黃帝內經 (Huangdi Neijing)"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Huangdi_Neijing"
+  },
+  {
+   "id": "shigehisa-kuriyama--expressiveness-of-the-body",
+   "creator_ids": [
+    "shigehisa-kuriyama"
+   ],
+   "title": "The Expressiveness of the Body and the Divergence of Greek and Chinese Medicine",
+   "year": 1999,
+   "field": "foundations",
+   "sub": "east-asian-thought",
+   "modalities": [
+    "touch",
+    "heartbeat",
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "attunement",
+    "body-politics"
+   ],
+   "kind": "publication",
+   "description": "Kuriyama compares how Greek doctors learned to see muscles and anatomy while Chinese doctors learned to feel the pulse and read colours and qi, arguing that trained touch and sight produce different bodies.",
+   "description_zh": "栗山茂久比较古希腊医生如何学会看见肌肉与解剖结构，而中国医生如何学会诊脉、望色与感知气，论证不同训练的触觉与视觉会产生不同的身体。",
+   "idea_en": "How a body feels depends on how the perceiver's senses have been trained: somatic sensitivity is a cultural skill, not a neutral reading.",
+   "idea_zh": "身体被感知成什么样，取决于感知者的感官如何被训练：身体感受力是一种文化技艺，而不是中性的读数。",
+   "method": "Comparative history drawing on Greek medical treatises and Chinese pulse classics, with close attention to images and vocabulary of touch.",
+   "method_zh": "比较历史研究，材料来自古希腊医学论著与中国脉学经典，细致分析触觉的图像与词汇。",
+   "keywords": [
+    "Kuriyama",
+    "pulse diagnosis",
+    "脉诊",
+    "Greek medicine",
+    "Chinese medicine",
+    "history of the senses"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/f/fc/Chinese_meridians.JPG"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.2307/jj.20093332",
+    "doi": "10.2307/jj.20093332",
+    "venue": "Zone Books, 1999",
+    "title": "The Expressiveness of the Body and the Divergence of Greek and Chinese Medicine"
+   }
+  },
+  {
+   "id": "shigenori-nagatomo--attunement-through-the-body",
+   "creator_ids": [
+    "shigenori-nagatomo"
+   ],
+   "title": "Attunement Through the Body",
+   "year": 1992,
+   "field": "foundations",
+   "sub": "east-asian-thought",
+   "modalities": [
+    "whole-soma"
+   ],
+   "lenses": [
+    "attunement",
+    "body-mind-unity",
+    "intercorporeality"
+   ],
+   "kind": "publication",
+   "description": "Nagatomo develops Yuasa's theory into an account of 'attunement': how a cultivated body comes into resonance with things, others and nature, drawing on Zen, Noh and Japanese aesthetics.",
+   "description_zh": "长友繁法在汤浅泰雄理论的基础上发展出“调谐”的说明：修炼过的身体如何与物、他人和自然共振，材料来自禅、能乐与日本美学。",
+   "idea_en": "Attunement is a bodily skill of resonance that can be trained; designing for it means supporting the body's capacity to tune in, not delivering information.",
+   "idea_zh": "调谐是一种可以训练的身体共振能力；为调谐而设计，意味着支持身体去“调频”，而不是传递信息。",
+   "method": "Philosophical study (SUNY Series in Buddhist Studies) combining phenomenology and Japanese Buddhist texts.",
+   "method_zh": "哲学研究（纽约州立大学出版社佛教研究丛书），结合现象学与日本佛教文献。",
+   "keywords": [
+    "Nagatomo",
+    "attunement",
+    "Japanese aesthetics",
+    "Zen",
+    "Noh",
+    "resonance"
+   ],
+   "images": [
+    "https://sunypress.edu/var/site/storage/images/books/a/attunement-through-the-body/9780791412329_cover/1843173-1-eng-CA/9780791412329_cover1_rb_fullcover.jpg"
+   ],
+   "paper": {
+    "url": "https://sunypress.edu/Books/A/Attunement-Through-the-Body",
+    "venue": "SUNY Press, 1992",
+    "title": "Attunement Through the Body"
+   },
+   "source_url": "https://sunypress.edu/Books/A/Attunement-Through-the-Body"
+  },
+  {
+   "id": "tu-weiming--embodying-humanity",
+   "creator_ids": [
+    "tu-weiming"
+   ],
+   "title": "Self-Cultivation as Education Embodying Humanity",
+   "year": 1999,
+   "field": "foundations",
+   "sub": "east-asian-thought",
+   "modalities": [
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "first-person",
+    "intercorporeality"
+   ],
+   "kind": "paper",
+   "description": "Tu presents Confucian self-cultivation (xiushen) as learning to be human through the body: knowledge that is 'embodied' (tizhi) in comportment, ritual and relationships rather than held as propositions.",
+   "description_zh": "杜维明把儒家修身阐释为通过身体学做人：知识“体现”在举止、礼仪与人际关系中（体知），而不是作为命题被持有。",
+   "idea_en": "To know is to embody: Confucian learning is judged by how one stands, speaks and relates, a first-person knowledge that lives in conduct.",
+   "idea_zh": "知即是体现：儒家的学问看的是一个人如何站立、说话与待人，这是一种活在行为中的第一人称知识。",
+   "method": "Paper for the Twentieth World Congress of Philosophy (Boston, 1998), part of Tu's long work on tizhi and New Confucianism.",
+   "method_zh": "在第二十届世界哲学大会（1998 年，波士顿）上发表的论文，是杜维明长期研究“体知”与新儒学的一部分。",
+   "keywords": [
+    "Tu Weiming",
+    "体知",
+    "修身",
+    "Confucianism",
+    "embodied knowing",
+    "New Confucianism"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/a/a9/%E6%9D%9C%E7%B6%AD%E6%98%8E_Weiming_Tu.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.5840/wcp201999349",
+    "doi": "10.5840/wcp201999349",
+    "venue": "Proceedings of the Twentieth World Congress of Philosophy",
+    "title": "Self-Cultivation as Education Embodying Humanity"
+   }
+  },
+  {
+   "id": "zeami-motokiyo--riken-no-ken",
+   "creator_ids": [
+    "zeami-motokiyo"
+   ],
+   "title": "Riken no ken: The Seeing of Detached Seeing (Kakyō)",
+   "year": 1424,
+   "field": "foundations",
+   "sub": "east-asian-thought",
+   "modalities": [
+    "movement",
+    "voice-sound",
+    "whole-soma"
+   ],
+   "lenses": [
+    "first-person",
+    "movement-expression",
+    "estrangement"
+   ],
+   "kind": "publication",
+   "description": "In Kakyō (A Mirror Held to the Flower, 1424) Zeami tells the Noh actor to dance with 'eyes in front, mind behind' and to see himself as the audience sees him, uniting inner feeling and outer form.",
+   "description_zh": "世阿弥在《花镜》（1424）中要求能乐演员“目前心后”，像观众看自己那样看见自己，把内在感受与外在形体统一起来。",
+   "idea_en": "A trained performer feels movement from inside and sees it from outside at the same time; this double awareness is the core skill of first-person design.",
+   "idea_zh": "受过训练的表演者能同时从内部感受动作、从外部看见动作；这种双重觉知正是第一人称设计的核心能力。",
+   "method": "Secret treatise passed down within Zeami's lineage, alongside the Fūshikaden (c. 1400–1418), setting out training of body, voice and mind across an actor's life.",
+   "method_zh": "在世阿弥一门中秘传的论著，与《风姿花传》（约 1400–1418）并列，论述演员一生中身体、声音与心的修炼。",
+   "keywords": [
+    "Zeami",
+    "離見の見",
+    "Noh",
+    "Kakyō",
+    "Fūshikaden",
+    "hana"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/2/24/Sousetsubon_fushikaden_7_part.PNG",
+    "https://cup-us.imgix.net/covers/9780231144803.jpg?w=350"
+   ],
+   "paper": {
+    "url": "https://cup.columbia.edu/book/zeami-performance-notes/9780231144803",
+    "venue": "Zeami: Performance Notes, trans. Tom Hare, Columbia University Press, 2008",
+    "title": "Kakyō (A Mirror Held to the Flower)"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Zeami_Motokiyo"
+  },
+  {
+   "id": "yi-je-ma--sasang-medicine",
+   "creator_ids": [
+    "yi-je-ma"
+   ],
+   "title": "Dongui Suse Bowon: Sasang Constitutional Medicine",
+   "year": 1894,
+   "field": "foundations",
+   "sub": "east-asian-thought",
+   "modalities": [
+    "whole-soma",
+    "pain-interoception"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "care-healing"
+   ],
+   "kind": "publication",
+   "description": "Yi Je-ma's treatise divides people into four constitutions (Taeyang, Soyang, Taeeum, Soeum), each with its own organ strengths, emotional tendencies and suitable foods and treatments.",
+   "description_zh": "李济马的《东医寿世保元》把人分为太阳、少阳、太阴、少阴四种体质，每种体质各有其脏腑强弱、情志倾向与相宜的饮食和治疗。",
+   "idea_en": "Temperament and organ are one system: excess sorrow, anger, joy or pleasure shapes the body, so healing starts from knowing one's emotional constitution.",
+   "idea_zh": "性情与脏腑是同一个系统：过度的哀、怒、喜、乐会塑造身体，因此治疗要从了解自己的情志体质开始。",
+   "method": "Medical treatise written in classical Chinese by a Joseon physician, grounding Korean medicine in Confucian self-cultivation.",
+   "method_zh": "朝鲜王朝医学家以汉文写成的医学著作，把韩医学建立在儒家修身思想之上。",
+   "keywords": [
+    "Yi Je-ma",
+    "四象医学",
+    "東醫壽世保元",
+    "Korean medicine",
+    "constitution",
+    "emotion"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/15/%EC%9D%B4%EC%A0%9C%EB%A7%88_%EC%B4%88%EC%83%81.jpg"
+   ],
+   "paper": {
+    "url": "https://en.wikipedia.org/wiki/Sasang_constitutional_medicine",
+    "venue": "1894 (Wikipedia overview)",
+    "title": "東醫壽世保元 (Dongui Suse Bowon)"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Yi_Je-ma"
+  },
+  {
+   "id": "yang-chengfu--yang-style-tai-chi",
+   "creator_ids": [
+    "yang-chengfu"
+   ],
+   "title": "Yang-Style Tai Chi Chuan",
+   "year": 1934,
+   "field": "practices",
+   "sub": "east-asian-practices",
+   "modalities": [
+    "movement",
+    "posture-balance",
+    "breath"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "attunement",
+    "intercorporeality"
+   ],
+   "kind": "practice",
+   "description": "A slow, continuous solo form of about 85–108 movements, practised with a relaxed, rooted stance and paired with push hands (tuishou), in which two partners keep contact and learn to feel and yield to each other's force.",
+   "description_zh": "一套约 85 至 108 式、缓慢连贯的单人拳架，要求松沉扎根，并配合推手：两人保持接触，学习感知并化解对方的力。",
+   "idea_en": "Softness is a form of sensing: by moving slowly and staying relaxed, practitioners learn to feel weight, breath and another person's intention through the body.",
+   "idea_zh": "柔是一种感知方式：通过缓慢与放松，习练者学会用身体感受重量、呼吸以及他人的意图。",
+   "method": "Form practice of weight shifts and spiralling movement from the dantian, standardised by Yang Chengfu and set down in his 1934 manual Taijiquan Tiyong Quanshu.",
+   "method_zh": "以丹田带动重心转换与螺旋运动的拳架练习，由杨澄甫定型，并记录于 1934 年出版的《太极拳体用全书》。",
+   "keywords": [
+    "tai chi",
+    "太极拳",
+    "Yang style",
+    "push hands",
+    "推手",
+    "song 松",
+    "dantian"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=7Twc_Zaezcg"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/7/7f/Yang-single_%28restoration%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/4/4c/Pushing_hands_by_yatish.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Yang-style_tai_chi"
+  },
+  {
+   "id": "cheng-man-ching--37-posture-form",
+   "creator_ids": [
+    "cheng-man-ching"
+   ],
+   "title": "Cheng Man-ch'ing's 37-Posture Tai Chi Form",
+   "year": 1950,
+   "field": "practices",
+   "sub": "east-asian-practices",
+   "modalities": [
+    "movement",
+    "posture-balance"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "attunement"
+   ],
+   "kind": "practice",
+   "description": "A shortened Yang-style form of 37 postures that takes about ten minutes, emphasising total relaxation, a 'beautiful lady's hand' and rooting through the feet; Cheng taught it in Taipei and from 1964 at the Shr Jung school in New York.",
+   "description_zh": "由杨式太极拳简化而来的三十七式，约十分钟练完，强调全身放松、“美人手”与由脚下生根；郑曼青先在台北传授，1964 年起在纽约时中学社传授。",
+   "idea_en": "Relaxation is not collapse: the practice trains a body that is soft yet structured, a state many Western somatic and dance teachers later adopted.",
+   "idea_zh": "放松不是瘫软：这门修习训练的是柔软而有结构的身体，许多西方身体修习与舞蹈教师后来都采纳了这种状态。",
+   "method": "Short form codified in Cheng's Thirteen Chapters on Tai Chi Chuan (Zhengzi Taijiquan Shisan Pian), taught with push hands and Chinese medicine.",
+   "method_zh": "简化拳架记载于《郑子太极拳十三篇》，与推手及中医一同传授。",
+   "keywords": [
+    "Cheng Man-ch'ing",
+    "郑子太极拳",
+    "37 postures",
+    "short form",
+    "Shr Jung",
+    "relaxation"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=3_BKwlpOAkk"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/c/c0/Cheng_Man-ching.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Cheng_Man-ch%27ing"
+  },
+  {
+   "id": "chinese-health-qigong-association--baduanjin",
+   "creator_ids": [
+    "chinese-health-qigong-association"
+   ],
+   "title": "Baduanjin Qigong (Eight Pieces of Brocade)",
+   "year": 2003,
+   "field": "practices",
+   "sub": "east-asian-practices",
+   "modalities": [
+    "breath",
+    "movement",
+    "posture-balance"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "care-healing",
+    "attunement"
+   ],
+   "kind": "practice",
+   "description": "Eight standing movements, such as 'holding up the heavens with both hands' and 'drawing the bow to shoot the eagle', done slowly with coordinated breath; the sequence dates back to the Song dynasty and was standardised as Health Qigong in 2003.",
+   "description_zh": "八个站立动作，如“两手托天理三焦”“左右开弓似射雕”，配合呼吸缓慢完成；这套功法可追溯至宋代，2003 年被整理为健身气功标准套路。",
+   "idea_en": "A short daily sequence can join breath, stretch and attention so that the body is felt as one moving whole.",
+   "idea_zh": "一套简短的日常功法就能把呼吸、伸展与注意力连在一起，让身体被感受为一个整体在运动。",
+   "method": "Twelve-minute routine of eight movements with preparatory and closing postures, each paired with slow nasal breathing and mental focus.",
+   "method_zh": "约十二分钟的套路，包括八个动作及起势、收势，每个动作都配合缓慢的鼻呼吸与意念集中。",
+   "keywords": [
+    "Baduanjin",
+    "八段锦",
+    "qigong",
+    "气功",
+    "Health Qigong",
+    "健身气功"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=mc1jeKAb6tM"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/5/51/Baduanjin_qigong_edit1.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Baduanjin_qigong"
+  },
+  {
+   "id": "wang-xiangzhai--zhan-zhuang",
+   "creator_ids": [
+    "wang-xiangzhai"
+   ],
+   "title": "Zhan Zhuang (Standing Like a Post)",
+   "year": 1928,
+   "field": "practices",
+   "sub": "east-asian-practices",
+   "modalities": [
+    "posture-balance",
+    "breath",
+    "pain-interoception"
+   ],
+   "lenses": [
+    "attunement",
+    "body-mind-unity"
+   ],
+   "kind": "practice",
+   "description": "The practitioner stands still for many minutes, knees soft and arms held as if embracing a tree, attending to breath, tension and the subtle sensations of the standing body; Wang Xiangzhai made it the core training of Yiquan from the late 1920s.",
+   "description_zh": "习练者长时间静立，膝微屈，双臂如抱树，觉察呼吸、紧张与站立身体的细微感受；王芗斋自 1920 年代后期起把站桩作为意拳的核心训练。",
+   "idea_en": "Stillness is a rich movement practice: standing reveals tensions, shifts and inner motion that busy movement hides.",
+   "idea_zh": "静止也是丰富的运动修习：站立会显现出那些被忙碌动作掩盖的紧张、偏移与内在运动。",
+   "method": "Held postures (the 'hunyuan' or tree-hugging stance and others) practised with relaxed breathing and imagery, gradually lengthened from minutes to an hour.",
+   "method_zh": "保持姿势（浑元桩、抱树桩等），配合放松的呼吸与意念，时间从几分钟逐渐延长到一小时。",
+   "keywords": [
+    "zhan zhuang",
+    "站桩",
+    "Yiquan",
+    "意拳",
+    "standing meditation",
+    "Wang Xiangzhai"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=IeYzjnCt5vA"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/8/85/Wang_Xiangzhai.png",
+    "https://upload.wikimedia.org/wikipedia/commons/3/3a/Nitzan_Oren_practicing_Zhan_Zhuang.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Zhan_zhuang"
+  },
+  {
+   "id": "dogen--zazen",
+   "creator_ids": [
+    "dogen"
+   ],
+   "title": "Zazen (Seated Zen Meditation, Fukanzazengi)",
+   "year": 1227,
+   "field": "practices",
+   "sub": "east-asian-practices",
+   "modalities": [
+    "posture-balance",
+    "breath",
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "attunement"
+   ],
+   "kind": "practice",
+   "description": "Sitting upright on a cushion in full or half lotus, hands in the cosmic mudra, eyes half open and breath left natural, just sitting (shikantaza) without chasing thoughts; Dōgen's Fukanzazengi (1227) gives the instructions.",
+   "description_zh": "在蒲团上以全跏或半跏端坐，手结法界定印，眼半开，呼吸自然，不追逐念头，只管打坐；道元的《普劝坐禅仪》（1227）记载了这些要领。",
+   "idea_en": "Posture is practice: aligning spine, breath and attention is already the realisation, not a means to some later insight.",
+   "idea_zh": "姿势即修行：调整脊柱、呼吸与注意力本身就是证悟，而不是通往日后某种领悟的手段。",
+   "method": "Daily sitting periods in a zendō, alternating with walking meditation (kinhin), guided by Dōgen's instructions on posture, breath and non-thinking.",
+   "method_zh": "在禅堂中每日定时坐禅，与经行交替进行，依照道元关于姿势、呼吸与“非思量”的指导。",
+   "keywords": [
+    "zazen",
+    "坐禅",
+    "shikantaza",
+    "只管打坐",
+    "Fukanzazengi",
+    "Sōtō Zen"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=9eacYQsCvWU"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/c/c1/Kodo_Sawaki_Zazen.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/9/9e/Fukan-Zazengi-Instructions-for-Zazen-1233.png"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Zazen"
+  },
+  {
+   "id": "morihei-ueshiba--aikido",
+   "creator_ids": [
+    "morihei-ueshiba"
+   ],
+   "title": "Aikido",
+   "year": 1942,
+   "field": "practices",
+   "sub": "east-asian-practices",
+   "modalities": [
+    "movement",
+    "touch",
+    "posture-balance"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "body-mind-unity"
+   ],
+   "kind": "practice",
+   "description": "Partners practise throws and pins in which the defender blends with the attacker's movement, leads it in circles and redirects it, rather than blocking force with force; Ueshiba adopted the name aikido in 1942.",
+   "description_zh": "搭档练习投技与固技：防守者与进攻者的动作融合，把它引入圆周并加以转化，而不是以力抗力；植芝盛平于 1942 年正式采用“合气道”之名。",
+   "idea_en": "Harmony can be trained physically: sensing and joining another's momentum turns conflict into shared movement.",
+   "idea_zh": "和谐可以在身体上训练：感知并顺应他人的动势，能把冲突转化为共同的运动。",
+   "method": "Paired kata practice (nage and uke) of techniques such as shihōnage and iriminage, with breathing exercises and falls (ukemi).",
+   "method_zh": "双人形练习（取与受），技法如四方投、入身投，配合呼吸法与受身练习。",
+   "keywords": [
+    "aikido",
+    "合气道",
+    "Ueshiba",
+    "ki",
+    "blending",
+    "ukemi"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=30Sa0PLquFg"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/6/62/A%C3%AFkido-shihoo_nage.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Aikido"
+  },
+  {
+   "id": "noguchi-michizo--noguchi-taiso",
+   "creator_ids": [
+    "noguchi-michizo"
+   ],
+   "title": "Noguchi Taisō",
+   "year": 1964,
+   "field": "practices",
+   "sub": "east-asian-practices",
+   "modalities": [
+    "movement",
+    "posture-balance",
+    "whole-soma"
+   ],
+   "lenses": [
+    "attunement",
+    "body-mind-unity",
+    "first-person"
+   ],
+   "kind": "practice",
+   "description": "Practitioners hang, sway and ripple the body, imagining it as 'a leather bag filled with water' in which bones and organs float, and let weight and momentum do the moving; taught at Tokyo University of the Arts and in Noguchi's own classes from 1964.",
+   "description_zh": "习练者悬垂、摇荡、波动身体，把身体想象成“装满水的皮袋”，骨骼与内脏漂浮其中，让重量与惯性带动动作；在东京艺术大学以及野口自 1964 年起开设的课堂中传授。",
+   "idea_en": "Ask the body rather than command it: Noguchi's motto 'karada ni kiku' (listen to the body) makes sensing weight the basis of moving well.",
+   "idea_zh": "问身体而不是命令身体：野口的格言“からだに貞く”（问身体）把感知重量作为良好运动的基础。",
+   "method": "Relaxation and wave exercises (nyoro-nyoro, hanging forward bends), taught without fixed goals, alongside Noguchi's writings such as Genshi Seimeitai to shite no Ningen (1972).",
+   "method_zh": "放松与波动练习（如蠕动、前屈悬垂），不设固定目标，辅以野口的著作《作为原初生命体的人》（1972）。",
+   "keywords": [
+    "Noguchi Taisō",
+    "野口体操",
+    "からだに貞く",
+    "relaxation",
+    "weight",
+    "water bag"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=GBuJICU89jQ"
+   },
+   "source_url": "https://ja.wikipedia.org/wiki/野口体操"
+  },
+  {
+   "id": "noguchi-haruchika--katsugen-undo",
+   "creator_ids": [
+    "noguchi-haruchika"
+   ],
+   "title": "Seitai and Katsugen Undō (Spontaneous Regenerative Movement)",
+   "year": 1950,
+   "field": "practices",
+   "sub": "east-asian-practices",
+   "modalities": [
+    "movement",
+    "pain-interoception",
+    "whole-soma"
+   ],
+   "lenses": [
+    "care-healing",
+    "body-mind-unity",
+    "first-person"
+   ],
+   "kind": "practice",
+   "description": "After a few preparatory breaths and twists, practitioners let the body move by itself, shaking, stretching or swaying without conscious direction; Noguchi Haruchika proposed katsugen undō in the decade after 1945 as part of Seitai.",
+   "description_zh": "经过几次预备呼吸与扭转后，习练者让身体自己动起来，在无意识引导下抖动、伸展或摇摆；野口晴哉在昭和二十年代（1945–1954）提出活元运动，作为整体的一部分。",
+   "idea_en": "The body has its own intelligence of recovery: stepping back from control lets involuntary movement rebalance body and mood.",
+   "idea_zh": "身体有自己的恢复智慧：放下控制，让不随意运动来重新平衡身体与情绪。",
+   "method": "Group or solo sessions of spontaneous movement, combined with yuki (attentive hand contact) and taiheki (body-type) observation.",
+   "method_zh": "单人或集体的自发运动练习，结合愉气法（专注的手部接触）与体癖观察。",
+   "keywords": [
+    "Seitai",
+    "整体",
+    "katsugen undō",
+    "活元運動",
+    "Noguchi Haruchika",
+    "yuki"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=RAXrDW1deyU"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/en/5/5e/Haruchika-noguchi-portrait.jpg"
+   ],
+   "source_url": "https://ja.wikipedia.org/wiki/活元運動"
+  },
+  {
+   "id": "min-tanaka--body-weather",
+   "creator_ids": [
+    "min-tanaka"
+   ],
+   "title": "Body Weather",
+   "year": 1985,
+   "field": "practices",
+   "sub": "dance-improvisation",
+   "also": [
+    "movement"
+   ],
+   "modalities": [
+    "movement",
+    "touch",
+    "whole-soma"
+   ],
+   "lenses": [
+    "attunement",
+    "estrangement",
+    "intercorporeality"
+   ],
+   "kind": "practice",
+   "description": "Dancers train through farm labour, a demanding physical workout and 'manipulations', in which one partner, eyes closed, is moved and touched by another; Min Tanaka founded Body Weather Farm in 1985.",
+   "description_zh": "舞者通过农活、高强度的身体训练以及“操控”练习来训练：一人闭眼，由另一人移动和触碰其身体；田中泯于 1985 年创立身体气象农场。",
+   "idea_en": "The body is weather: always changing and shaped by its environment, so training means becoming sensitive to forces rather than fixing a technique.",
+   "idea_zh": "身体就是天气：它不断变化，并被环境所塑造，因此训练意味着对各种力变得敏感，而不是固定一种技术。",
+   "method": "Workshops and farm residencies combining 'MB' (muscles/bones) conditioning, partnered manipulations and image-based improvisation.",
+   "method_zh": "结合“MB”（肌肉/骨骼）体能训练、双人操控与意象即兴的工作坊和农场驻留。",
+   "keywords": [
+    "Body Weather",
+    "身体気象",
+    "Min Tanaka",
+    "butoh",
+    "manipulations",
+    "farm"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=eLKSUUQVIuo"
+   },
+   "images": [
+    "https://www.bodyweather.net/index_files/dequinceyco-body-weather2.jpg"
+   ],
+   "source_url": "https://www.bodyweather.net"
+  },
+  {
+   "id": "tatsumi-hijikata--ankoku-butoh",
+   "creator_ids": [
+    "tatsumi-hijikata"
+   ],
+   "title": "Ankoku Butoh (Dance of Darkness)",
+   "year": 1959,
+   "field": "practices",
+   "sub": "dance-improvisation",
+   "also": [
+    "movement"
+   ],
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "estrangement",
+    "movement-expression",
+    "body-politics"
+   ],
+   "kind": "practice",
+   "description": "A dance form begun by Hijikata's Kinjiki (1959) in which dancers move very slowly, crouched and distorted, guided by image scores (butoh-fu) that ask them to become insects, ash or a body being eaten.",
+   "description_zh": "由土方巽的《禁色》（1959）开启的舞蹈形式：舞者以极慢的速度、蜷曲扭曲的姿态移动，由舞踏谱引导，化身为昆虫、灰烬或被吞噬的身体。",
+   "idea_en": "Dancing from inner images rather than steps lets the body become other than itself, a method for making the habitual body strange.",
+   "idea_zh": "从内在意象而非舞步出发起舞，让身体成为自己以外的东西，这是一种使习惯的身体变得陌生的方法。",
+   "method": "Training through butoh-fu image notations, walking exercises and extreme slowness, developed by Hijikata with Kazuo Ohno in 1960s Tokyo.",
+   "method_zh": "通过舞踏谱意象记谱、行走练习与极度缓慢来训练，由土方巽与大野一雄于 1960 年代在东京发展而成。",
+   "keywords": [
+    "butoh",
+    "舞踏",
+    "Hijikata",
+    "Kinjiki",
+    "butoh-fu",
+    "舞踏譜"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=hNV0T5zI7VI"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/en/1/16/Tatsumi_Hijikata.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Butoh"
+  },
+  {
+   "id": "thich-nhat-hanh--mindful-breathing-walking",
+   "creator_ids": [
+    "thich-nhat-hanh"
+   ],
+   "title": "Mindful Breathing and Walking Meditation (Plum Village)",
+   "year": 1975,
+   "field": "practices",
+   "sub": "meditation-breath",
+   "modalities": [
+    "breath",
+    "movement"
+   ],
+   "lenses": [
+    "attunement",
+    "body-mind-unity"
+   ],
+   "kind": "practice",
+   "description": "Walking slowly and matching steps to in- and out-breaths ('I have arrived, I am home'), and returning to the breath when a bell sounds; taught in The Miracle of Mindfulness (1975) and at Plum Village.",
+   "description_zh": "缓慢行走，让脚步与吸气、呼气相合（“我已到了，我已到家”），听到钟声时回到呼吸；这些方法记载于《正念的奇迹》（1975），并在梅村传授。",
+   "idea_en": "Mindfulness is bodily: coming back to breath and feet reunites body and mind in the present moment.",
+   "idea_zh": "正念是身体性的：回到呼吸与双脚，就让身与心在当下重新合一。",
+   "method": "Everyday practices of mindful breathing, walking, eating and bells of mindfulness, spread through books, retreats and the Plum Village community founded in 1982.",
+   "method_zh": "日常的正念呼吸、行禅、正念饮食与正念钟声，经由书籍、禅修营以及 1982 年创立的梅村社区传播。",
+   "keywords": [
+    "Thich Nhat Hanh",
+    "释一行",
+    "walking meditation",
+    "行禅",
+    "Plum Village",
+    "mindfulness"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=90Pzn6NK4VQ"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/1b/Thich_Nhat_Hanh_12_%28cropped%29.jpg"
+   ],
+   "source_url": "https://plumvillage.org/practice/walking-meditation"
+  },
+  {
+   "id": "shizuto-masunaga--zen-shiatsu",
+   "creator_ids": [
+    "shizuto-masunaga"
+   ],
+   "title": "Zen Shiatsu",
+   "year": 1977,
+   "field": "practices",
+   "sub": "east-asian-practices",
+   "modalities": [
+    "touch",
+    "pain-interoception"
+   ],
+   "lenses": [
+    "care-healing",
+    "intercorporeality",
+    "attunement"
+   ],
+   "kind": "practice",
+   "description": "The giver uses relaxed body weight rather than muscle, keeping one 'mother hand' still while the other explores, and feels for kyo (empty) and jitsu (full) areas along extended meridians.",
+   "description_zh": "施术者以放松的体重而不是肌肉力量按压，一只“母手”保持静止，另一只手探寻，沿扩展的经络感知“虚”与“实”。",
+   "idea_en": "Therapeutic touch is a two-way listening: the practitioner's own relaxation and attention are part of what the receiver feels.",
+   "idea_zh": "疗愈性的触摸是双向的倾听：施术者自身的放松与专注，也是接受者感受到的一部分。",
+   "method": "Floor-based pressure and stretches on a futon, guided by Masunaga's meridian charts and hara (abdominal) diagnosis, set out in his book Zen Shiatsu (1977).",
+   "method_zh": "在地垫上进行的按压与伸展，依据增永静人的经络图与腹诊，整理于其著作《Zen Shiatsu》（1977）。",
+   "keywords": [
+    "Zen Shiatsu",
+    "指圧",
+    "Masunaga",
+    "meridians",
+    "hara",
+    "kyo jitsu"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Chul6S4OvsU"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/8/8d/Anma_Tebiki_%281835%2C_introduction_page%29.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Shizuto_Masunaga"
+  },
+  {
+   "id": "kazuo-ohno--admiring-la-argentina",
+   "creator_ids": [
+    "kazuo-ohno",
+    "tatsumi-hijikata"
+   ],
+   "title": "Admiring La Argentina",
+   "year": 1977,
+   "field": "movement",
+   "sub": "performance",
+   "also": [
+    "practices"
+   ],
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "movement-expression",
+    "body-mind-unity"
+   ],
+   "kind": "performance",
+   "description": "A solo in which Ohno, then in his seventies, in a woman's dress and hat, evokes the Spanish dancer Antonia Mercé, whom he had seen in 1926, moving between trembling fragility and joy; directed by Hijikata.",
+   "description_zh": "年逾七十的大野一雄身着女装与帽子，追忆他在 1926 年看过的西班牙舞者 Antonia Mercé，在颤抖的脆弱与喜悦之间舞动；由土方巽导演。",
+   "idea_en": "Memory lives in the body and can be danced: an old body becomes fully expressive when it moves from felt memory rather than technique.",
+   "idea_zh": "记忆活在身体里，并且可以被舞出来：当衰老的身体从被感受的记忆而非技术出发时，它可以充分地表达。",
+   "method": "Solo butoh performance premiered in Tokyo in 1977 and toured internationally after its showing at the Nancy International Festival.",
+   "method_zh": "舞踏独舞，1977 年在东京首演，在南锡国际艺术节演出后开始国际巡演。",
+   "keywords": [
+    "Kazuo Ohno",
+    "大野一雄",
+    "La Argentina",
+    "butoh",
+    "舞踏",
+    "memory"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=cG4H4yeNHs0"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/a/af/Kazuo_Ohno.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Kazuo_Ohno",
+   "exhibited": [
+    "Dance Critics' Circle Award (Japan)",
+    "Nancy International Festival"
+   ]
+  },
+  {
+   "id": "lin-hwai-min--moon-water",
+   "creator_ids": [
+    "lin-hwai-min"
+   ],
+   "title": "Moon Water",
+   "year": 1998,
+   "field": "movement",
+   "sub": "performance",
+   "also": [
+    "practices"
+   ],
+   "modalities": [
+    "movement",
+    "breath",
+    "posture-balance"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "movement-expression",
+    "attunement"
+   ],
+   "kind": "performance",
+   "description": "Cloud Gate dancers move in slow, continuous tai chi-based flows to Bach's cello suites while water gradually covers the stage and mirrors reflect their bodies; the company trains daily in tai chi daoyin, meditation and martial arts.",
+   "description_zh": "云门舞者伴随巴赫无伴奏大提琴组曲，以源自太极的缓慢而连绵的动作起舞，水渐渐漫上舞台，镜面映出舞者的身体；舞团每天以太极导引、静坐与武术训练。",
+   "idea_en": "An Eastern somatic practice can become a stage language: the audience sees qi and breath moving through bodies trained from the inside.",
+   "idea_zh": "东方的身体修习可以成为舞台语言：观众看见气与呼吸在从内部训练出来的身体中流动。",
+   "method": "Choreography built from tai chi daoyin (developed by Hsiung Wei) and meditation training, with water and mirror scenography.",
+   "method_zh": "以太极导引（熊卫创编）与静坐训练为基础编创，配合水与镜的舞台设计。",
+   "keywords": [
+    "Cloud Gate",
+    "云门舞集",
+    "Moon Water",
+    "水月",
+    "太极导引",
+    "tai chi daoyin",
+    "Bach"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=KmTplJXenAg"
+   },
+   "images": [
+    "https://www.cloudgate.org.tw/sites/default/files/u1005/MetaInfo_CG_1200x630.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/6/62/Cloud_Gate_Theater_Tamsui_02.jpg"
+   ],
+   "source_url": "https://www.cloudgate.org.tw/en",
+   "exhibited": [
+    "New York Times best dance of 2003 (Anna Kisselgoff)"
+   ]
+  },
+  {
+   "id": "huang-yi--huang-yi-and-kuka",
+   "creator_ids": [
+    "huang-yi"
+   ],
+   "title": "Huang Yi & KUKA",
+   "year": 2015,
+   "field": "movement",
+   "sub": "dance-tech",
+   "also": [
+    "machines-xr"
+   ],
+   "modalities": [
+    "movement"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "movement-expression",
+    "more-than-human"
+   ],
+   "kind": "performance",
+   "description": "Huang Yi dances a duet with an industrial KUKA robot arm that he programmed himself, mirroring and answering its movements; a light on the arm's tip draws lines across his body.",
+   "description_zh": "黄翊与一台由他亲自编程的 KUKA 工业机械臂共舞，模仿并回应它的动作；机械臂末端的灯光在他身上划出线条。",
+   "idea_en": "Partnering a machine depends on timing and attention more than on sensing: the dancer's own attunement makes the robot feel like a partner.",
+   "idea_zh": "与机器搭档更依赖时机与专注，而不是传感：舞者自身的调谐让机器人感觉像一位舞伴。",
+   "method": "Choreography keyframed by hand, pose by pose, into the robot's controller over many hours, then performed live with dancers.",
+   "method_zh": "编舞者花费大量时间逐个姿势手动为机器人控制器设定关键帧，再与舞者现场演出。",
+   "keywords": [
+    "Huang Yi",
+    "黄翊",
+    "KUKA",
+    "robot",
+    "human-robot dance",
+    "duet"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Xy6tPmFlN34"
+   },
+   "images": [
+    "https://huangyistudio.com/wp-content/uploads/2022/10/huangyiandkuka_TED2017_01.jpg"
+   ],
+   "source_url": "https://www.huangyistudio.com",
+   "exhibited": [
+    "TED 2017"
+   ]
+  },
+  {
+   "id": "tao-ye--tao-dance-2",
+   "creator_ids": [
+    "tao-ye"
+   ],
+   "title": "2",
+   "year": 2011,
+   "field": "movement",
+   "sub": "performance",
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "movement-expression",
+    "attunement",
+    "body-mind-unity"
+   ],
+   "kind": "performance",
+   "description": "Two dancers in grey, hair loose, keep moving continuously for the whole piece, their bodies circling, folding and releasing without a pause or a narrative.",
+   "description_zh": "两名身着灰衣、长发散开的舞者在整部作品中持续不停地运动，身体环绕、折叠、释放，没有停顿，也没有叙事。",
+   "idea_en": "Continuous circular movement makes the whole body a single flowing line; stamina turns into a meditative, felt state.",
+   "idea_zh": "连续的圆运动让整个身体成为一条流动的线；体力的消耗转化为一种冥想式的、被感受的状态。",
+   "method": "Part of TAO Dance Theater's numbered series, built on Tao Ye's 'circular movement system' of releasing weight through the spine; premiered at the M.A.D.E festival in Umeå in 2011.",
+   "method_zh": "陶身体剧场“数字系列”之一，基于陶冶以脊柱释放重量的“圆运动体系”；2011 年在瑞典于默奥 M.A.D.E 艺术节首演。",
+   "keywords": [
+    "TAO Dance Theater",
+    "陶身体剧场",
+    "Tao Ye",
+    "circular movement",
+    "圆运动",
+    "Duan Ni"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=A3_EzVGfxvs"
+   },
+   "images": [
+    "https://www.taodancetheater.com/Content/assets/images/home_performances_img.jpg"
+   ],
+   "source_url": "https://www.taodancetheater.com"
+  },
+  {
+   "id": "jerome-bel--pichet-klunchun-and-myself",
+   "creator_ids": [
+    "jerome-bel",
+    "pichet-klunchun"
+   ],
+   "title": "Pichet Klunchun and Myself",
+   "year": 2005,
+   "field": "movement",
+   "sub": "performance",
+   "modalities": [
+    "movement",
+    "voice-sound"
+   ],
+   "lenses": [
+    "movement-expression",
+    "body-politics",
+    "first-person"
+   ],
+   "kind": "performance",
+   "description": "Sitting face to face, French choreographer Jérôme Bel and Thai khon dancer Pichet Klunchun ask each other questions and demonstrate movements, explaining what their bodies know and why.",
+   "description_zh": "法国编舞家 Jérôme Bel 与泰国孔剧舞者 Pichet Klunchun 面对面坐着，互相提问并示范动作，解释各自的身体懂得什么、为什么。",
+   "idea_en": "A dance body is a body of knowledge: putting it into words, in dialogue with a foreign body, reveals assumptions that neither could see alone.",
+   "idea_zh": "舞蹈的身体是一种知识体系：在与异文化身体的对话中把它说出来，能揭示双方各自看不见的预设。",
+   "method": "Staged conversation and demonstration created in 2005 and toured internationally.",
+   "method_zh": "舞台上的对话与示范，创作于 2005 年，随后国际巡演。",
+   "keywords": [
+    "Pichet Klunchun",
+    "Jérôme Bel",
+    "khon",
+    "Thai dance",
+    "conversation",
+    "embodied knowledge"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=biR7pV-hzR4"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Pichet_Klunchun"
+  },
+  {
+   "id": "yoko-ono--cut-piece",
+   "creator_ids": [
+    "yoko-ono"
+   ],
+   "title": "Cut Piece",
+   "year": 1964,
+   "field": "movement",
+   "sub": "somatic-art",
+   "modalities": [
+    "touch",
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-politics",
+    "intercorporeality"
+   ],
+   "kind": "performance",
+   "description": "Ono kneels motionless on stage with a pair of scissors in front of her, and audience members come up one by one to cut away pieces of her clothing; first performed in Kyoto in 1964.",
+   "description_zh": "小野洋子一动不动地跪在舞台上，面前放着一把剪刀，观众一个接一个上前剪下她衣服的碎片；1964 年在京都首演。",
+   "idea_en": "Stillness and exposure make the audience feel their own agency: the work is felt as much by those who cut as by the one who is cut.",
+   "idea_zh": "静止与暴露让观众感到自己的能动性：剪的人与被剪的人都同样在身体上感受这件作品。",
+   "method": "Event score that Ono performed six times between 1964 and 2003; the 1965 New York performance was filmed by Albert and David Maysles.",
+   "method_zh": "事件乐谱式作品，小野洋子在 1964 至 2003 年间共表演六次；1965 年的纽约演出由 Albert 与 David Maysles 拍摄。",
+   "keywords": [
+    "Yoko Ono",
+    "小野洋子",
+    "Cut Piece",
+    "Fluxus",
+    "participation",
+    "vulnerability"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=aGMVqbEl-Y0"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Cut_Piece_1964"
+  },
+  {
+   "id": "atsuko-tanaka--electric-dress",
+   "creator_ids": [
+    "atsuko-tanaka"
+   ],
+   "title": "Electric Dress",
+   "year": 1956,
+   "field": "movement",
+   "sub": "somatic-art",
+   "also": [
+    "somaesthetic"
+   ],
+   "modalities": [
+    "light-vision",
+    "heat",
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-politics",
+    "estrangement"
+   ],
+   "kind": "artwork",
+   "description": "A garment of about 200 painted light bulbs and tubes, weighing over 50 kg, that flashed in sequence while Tanaka wore it at the 2nd Gutai Art Exhibition in Tokyo in 1956.",
+   "description_zh": "一件由约 200 个上色灯泡和灯管组成、重逾 50 公斤的服装，1956 年田中敦子在东京第二届具体美术展上穿着它，灯光依次闪烁。",
+   "idea_en": "Wearing technology is a bodily risk and a felt state: heat, weight, light and danger enclose the wearer inside the machine.",
+   "idea_zh": "穿戴技术是一种身体的冒险，也是一种被感受的状态：热、重量、光与危险把穿着者包裹在机器之中。",
+   "method": "Hand-painted incandescent and fluorescent lamps wired to a flashing controller, worn as a kimono-like costume.",
+   "method_zh": "手工上色的白炽灯与荧光灯管，接到闪烁控制器上，做成类似和服的服装穿着。",
+   "keywords": [
+    "Gutai",
+    "具体美術",
+    "Electric Dress",
+    "電気服",
+    "wearable",
+    "light bulbs"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=1DcNEpJMBbY"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Atsuko_Tanaka_(artist)"
+  },
+  {
+   "id": "kazuo-shiraga--challenging-mud",
+   "creator_ids": [
+    "kazuo-shiraga"
+   ],
+   "title": "Challenging Mud",
+   "year": 1955,
+   "field": "movement",
+   "sub": "somatic-art",
+   "modalities": [
+    "movement",
+    "touch",
+    "whole-soma"
+   ],
+   "lenses": [
+    "movement-expression",
+    "body-mind-unity"
+   ],
+   "kind": "performance",
+   "description": "Stripped to his underwear, Shiraga threw himself into a pit of mud, clay and cement and wrestled with it, leaving the churned surface as the work; performed at the First Gutai Art Exhibition in Tokyo in 1955.",
+   "description_zh": "白发一雄只穿内裤，扑进混有黏土与水泥的泥坑，与泥浆搏斗，把被搅动的泥面留作作品；1955 年在东京第一届具体美术展上表演。",
+   "idea_en": "The whole body can be the brush: making becomes a struggle of flesh with material, felt from inside and left as trace.",
+   "idea_zh": "整个身体可以成为画笔：创作变成肉身与材料的搏斗，从内部被感受，并留下痕迹。",
+   "method": "Action performed three times in the exhibition yard, documented by photographs and film.",
+   "method_zh": "在展览庭院中表演三次的行动，以照片和影像记录。",
+   "keywords": [
+    "Kazuo Shiraga",
+    "白髪一雄",
+    "Gutai",
+    "泥にいどむ",
+    "action painting",
+    "mud"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=1xCg79GrWaM"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Kazuo_Shiraga"
+  },
+  {
+   "id": "daito-manabe--electric-stimulus-to-face",
+   "creator_ids": [
+    "daito-manabe"
+   ],
+   "title": "Electric Stimulus to Face",
+   "year": 2008,
+   "field": "movement",
+   "sub": "somatic-art",
+   "also": [
+    "machines-xr"
+   ],
+   "modalities": [
+    "muscle",
+    "voice-sound"
+   ],
+   "lenses": [
+    "estrangement",
+    "body-mind-unity"
+   ],
+   "kind": "artwork",
+   "description": "Electrodes on the faces of Manabe and his friends deliver electrical muscle stimulation driven by music, so their faces twitch and grimace in rhythm while they sit still.",
+   "description_zh": "贴在真锅大度及其朋友脸上的电极，按照音乐施加肌肉电刺激，他们静坐不动，脸却随节奏抽动、做出怪相。",
+   "idea_en": "When an outside signal moves your face, the link between expression and feeling becomes strange and visible.",
+   "idea_zh": "当外部信号驱动你的脸时，表情与感受之间的联系变得陌生而可见。",
+   "method": "Custom EMS device controlled from music software, with myoelectric sensors in later tests to pass facial movement between people.",
+   "method_zh": "由音乐软件控制的定制肌肉电刺激装置，后续测试中加入肌电传感器，在人与人之间传递面部动作。",
+   "keywords": [
+    "Daito Manabe",
+    "真鍋大度",
+    "EMS",
+    "face",
+    "Rhizomatiks",
+    "electrical muscle stimulation"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=pLAma-lrJRM"
+   },
+   "source_url": "https://www.daito.ws/en/"
+  },
+  {
+   "id": "jiabao-li--wings-against-the-veil-of-light",
+   "creator_ids": [
+    "jiabao-li",
+    "rosemary-candelario"
+   ],
+   "title": "Wings Against the Veil of Light",
+   "year": 2024,
+   "field": "movement",
+   "sub": "performance",
+   "also": [
+    "machines-xr"
+   ],
+   "modalities": [
+    "movement",
+    "voice-sound"
+   ],
+   "lenses": [
+    "more-than-human",
+    "movement-expression",
+    "estrangement"
+   ],
+   "kind": "performance",
+   "description": "Butoh dancers wearing wings made of zippers and rulers chirp like crickets by rubbing them together, enacting how light pollution makes male crickets call at the wrong time.",
+   "description_zh": "舞踏舞者佩戴用拉链和尺子做成的翅膀，通过摩擦发出蟋蟀般的鸣声，演绎光污染如何让雄蟋蟀在错误的时间鸣叫。",
+   "idea_en": "Butoh's practice of 'emptying the human shell' becomes a way to feel another species' body from inside.",
+   "idea_zh": "舞踏“清空人的躯壳”的修习，成为从内部感受另一物种身体的方式。",
+   "method": "Site-specific performance at The Contemporary Austin, choreographed by Rosemary Candelario from a cricket butoh score adapted from Hijikata's bug notation.",
+   "method_zh": "在奥斯汀当代美术馆的场域表演，由 Rosemary Candelario 编舞，舞谱改编自土方巽的昆虫舞踏谱。",
+   "keywords": [
+    "Jiabao Li",
+    "butoh",
+    "舞踏",
+    "crickets",
+    "light pollution",
+    "more-than-human"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=V-doIkBdPkg"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/c3932ec7-6a6b-4671-96ce-bc5808b54847/Jiabao+Li_Cricket_Butoh+0.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1730851572775-050B68ZON2C30S1RQKM0/Jiabao+Li+cricket+2.jpg"
+   ],
+   "source_url": "https://www.jiabaoli.org/wings-against-the-veil-of-light",
+   "exhibited": [
+    "The Contemporary Austin, Laguna Gloria, 2024"
+   ]
+  }
+ ],
+ "leads": [
+  {
+   "name": "Yang Rur-bin (杨儒宾), 儒家身体观 (1996)",
+   "why": "Key Taiwanese study of the Confucian body (践形, 气, 修身); no verifiable publisher page or DOI found this round.",
+   "link": "https://en.wikipedia.org/wiki/Yang_Rur-bin",
+   "found_via": "tu-weiming",
+   "status": "open"
+  },
+  {
+   "name": "Zhang Zailin (张再林), 作为身体哲学的中国古代哲学",
+   "why": "Mainland Chinese 'body philosophy' reading of classical Chinese thought; could not verify publisher and year.",
+   "link": "",
+   "found_via": "yuasa-yasuo",
+   "status": "open"
+  },
+  {
+   "name": "Huang Chun-chieh (黄俊杰), East Asian Confucian body thought",
+   "why": "Taiwanese historian who wrote on the body in East Asian Confucianism; needs a canonical book link.",
+   "link": "",
+   "found_via": "tu-weiming",
+   "status": "open"
+  },
+  {
+   "name": "Watsuji Tetsurō, Fūdo / Ethics (ningen as betweenness)",
+   "why": "Yuasa's teacher; relational, embodied ethics of 'betweenness' (aidagara).",
+   "link": "https://plato.stanford.edu/entries/watsuji-tetsuro/",
+   "found_via": "yuasa-yasuo",
+   "status": "open"
+  },
+  {
+   "name": "Kimura Bin (木村敏), 'aida' (between)",
+   "why": "Psychiatrist-phenomenologist of the self as between (あいだ); relevant to intercorporeality.",
+   "link": "",
+   "found_via": "ichikawa-hiroshi",
+   "status": "open"
+  },
+  {
+   "name": "Takuan Sōhō, The Unfettered Mind (不動智神妙録)",
+   "why": "Zen letters to a swordsman on a mind that does not stop anywhere in the body.",
+   "link": "https://en.wikipedia.org/wiki/Takuan_S%C5%8Dh%C5%8D",
+   "found_via": "dogen",
+   "status": "open"
+  },
+  {
+   "name": "Hsiung Wei (熊卫), Taiji Daoyin (太极导引)",
+   "why": "Founder of the daoyin practice used as Cloud Gate's daily training; founding year not verified.",
+   "link": "https://www.youtube.com/watch?v=0CV_SRInZlI",
+   "found_via": "lin-hwai-min",
+   "status": "open"
+  },
+  {
+   "name": "Cloud Gate, Cursive trilogy (行草, 2001–2005)",
+   "why": "Calligraphy and qi as movement source; second Cloud Gate work if wanted.",
+   "link": "https://www.youtube.com/watch?v=nGQIrTs2FAw",
+   "found_via": "lin-hwai-min",
+   "status": "open"
+  },
+  {
+   "name": "GiCheon (기천), Korean ki training",
+   "why": "Korean internal practice of ki cultivation; see Victoria Ten, Body and Ki in GiCheon (2020, DOI 10.5771/9783956507342).",
+   "link": "https://doi.org/10.5771/9783956507342",
+   "found_via": "yuasa-yasuo",
+   "status": "open"
+  },
+  {
+   "name": "Sankai Juku (Amagatsu Ushio)",
+   "why": "Second-generation butoh company; slow, breath-driven stage work.",
+   "link": "https://en.wikipedia.org/wiki/Sankai_Juku",
+   "found_via": "tatsumi-hijikata",
+   "status": "open"
+  },
+  {
+   "name": "Eiko & Koma, Delicious Movement workshops",
+   "why": "Japanese-American duo whose slow movement workshops are a somatic practice.",
+   "link": "https://en.wikipedia.org/wiki/Eiko_%26_Koma",
+   "found_via": "rosemary-candelario",
+   "status": "open"
+  },
+  {
+   "name": "Saburo Teshigawara (KARAS), breath and air in choreography",
+   "why": "Japanese choreographer whose method starts from breathing and air.",
+   "link": "https://en.wikipedia.org/wiki/Saburo_Teshigawara",
+   "found_via": "kazuo-ohno",
+   "status": "open"
+  },
+  {
+   "name": "Akira Kasai, butoh and eurythmy",
+   "why": "Butoh dancer who combines Steiner eurythmy with butoh body training.",
+   "link": "https://en.wikipedia.org/wiki/Akira_Kasai",
+   "found_via": "tatsumi-hijikata",
+   "status": "open"
+  },
+  {
+   "name": "Tehching Hsieh, One Year Performances (1978–1986)",
+   "why": "Taiwanese durational performances that make lived bodily time the material.",
+   "link": "https://en.wikipedia.org/wiki/Tehching_Hsieh",
+   "found_via": "yoko-ono",
+   "status": "open"
+  },
+  {
+   "name": "Lee Mingwei, The Sleeping Project / Sonic Blossom",
+   "why": "Taiwanese-American participatory works of intimacy and care between strangers.",
+   "link": "https://en.wikipedia.org/wiki/Lee_Mingwei",
+   "found_via": "yoko-ono",
+   "status": "open"
+  },
+  {
+   "name": "Wen Hui (文慧), Living Dance Studio, Memory / body archive",
+   "why": "Chinese choreographer working with women's bodily memory and documentary dance.",
+   "link": "",
+   "found_via": "tao-ye",
+   "status": "open"
+  },
+  {
+   "name": "Shen Wei, Connect Transfer (2004)",
+   "why": "Chinese choreographer painting with the moving body on the floor.",
+   "link": "https://en.wikipedia.org/wiki/Shen_Wei",
+   "found_via": "kazuo-shiraga",
+   "status": "open"
+  },
+  {
+   "name": "Nam June Paik & Charlotte Moorman, TV Bra for Living Sculpture (1969)",
+   "why": "Early body-media wearable; dropped for salience in soma terms, could return as garments history.",
+   "link": "https://www.youtube.com/watch?v=3G3XomkkTPY",
+   "found_via": "atsuko-tanaka",
+   "status": "open"
+  },
+  {
+   "name": "Rhizomatiks x ELEVENPLAY, Discrete Figures (2018)",
+   "why": "Dance-tech work on bodies, drones and machine learning.",
+   "link": "https://research.rhizomatiks.com",
+   "found_via": "daito-manabe",
+   "status": "open"
+  },
+  {
+   "name": "Hsin-Liu (Cindy) Kao, Hybrid Body Craft / DuoSkin",
+   "why": "Taiwanese-American on-skin interfaces grounded in body craft cultures.",
+   "link": "https://www.hybridbody.human.cornell.edu",
+   "found_via": "jun-nishida",
+   "status": "open"
+  },
+  {
+   "name": "Sang-won Leigh, body-integrated robotic extensions",
+   "why": "Korean researcher on robotic body augmentation and body schema.",
+   "link": "",
+   "found_via": "tomoya-sasaki",
+   "status": "open"
+  },
+  {
+   "name": "Jun Nishida, HandMorph (UIST 2020)",
+   "why": "Passive exoskeleton that miniaturises the grasp to feel a child's hand.",
+   "link": "",
+   "found_via": "jun-nishida",
+   "status": "open"
+  },
+  {
+   "name": "Yiyang Sun et al., I Become Tentacle, We Become 'Tentacus' (SIGGRAPH Asia 2025 XR)",
+   "why": "Reality Design Lab mixed reality ritual for distributed bodies (DOI 10.1145/3761667.3761962).",
+   "link": "https://doi.org/10.1145/3761667.3761962",
+   "found_via": "botao-amber-hu",
+   "status": "open"
+  },
+  {
+   "name": "Jiabao Li, Super Mom Training Gym (2026)",
+   "why": "Game built from a 3D scan of the artist's nine-month pregnant body; skipped for salience.",
+   "link": "https://www.jiabaoli.org/super-mom-training-gym",
+   "found_via": "jiabao-li",
+   "status": "open"
+  },
+  {
+   "name": "Philo Tan Chua et al., Training for physical tasks in virtual environments: Tai Chi (IEEE VR 2003)",
+   "why": "Early tai chi VR training; first author's background not verified.",
+   "link": "https://doi.org/10.1109/vr.2003.1191125",
+   "found_via": "ping-hsuan-han",
+   "status": "open"
+  },
+  {
+   "name": "James Keng Soon Teh / Adrian Cheok, Huggy Pajama (2008)",
+   "why": "Singapore mediated-touch hug jacket for parent and child.",
+   "link": "",
+   "found_via": "jun-nishida",
+   "status": "open"
+  },
+  {
+   "name": "Okada Torajirō, Okada-shiki seiza (岡田式静坐法)",
+   "why": "Early 20th-century Japanese breath-sitting method centred on the tanden.",
+   "link": "",
+   "found_via": "dogen",
+   "status": "open"
+  },
+  {
+   "name": "Xueting Luo, Body Rhythm and Martial Roots: A Somaesthetic Return in Chinese Classical Dance (J. of Somaesthetics 2026)",
+   "why": "Chinese classical dance read through somaesthetics (DOI 10.54337/ojs.jos.v11i2.10830).",
+   "link": "https://doi.org/10.54337/ojs.jos.v11i2.10830",
+   "found_via": "tu-weiming",
+   "status": "open"
+  },
+  {
+   "name": "Shusterman on Confucius and Zen",
+   "why": "Somaesthetics' engagement with Asian thought; belongs to the foundations batch.",
+   "link": "",
+   "found_via": "yuasa-yasuo",
+   "status": "duplicate"
+  },
+  {
+   "name": "Sayagyi U Ba Khin, vipassana body sweeping (Yangon, 1952)",
+   "why": "Burmese root of the Goenka body scan; the practices batch already has s-n-goenka--vipassana, so not added again.",
+   "link": "https://en.wikipedia.org/wiki/Sayagyi_U_Ba_Khin",
+   "found_via": "thich-nhat-hanh",
+   "status": "duplicate"
+  },
+  {
+   "name": "Joo Young Park, Designing with Discomfort (DIS 2024 Doctoral Consortium)",
+   "why": "Feminist intimate care technologies using menstrual discomfort and shape-changing touch; wait for main papers.",
+   "link": "https://doi.org/10.1145/3656156.3665134",
+   "found_via": "dianya-mia-hua",
+   "status": "open"
+  },
+  {
+   "name": "Gamboa & Hendriks, In Praise of Shadows (DIS 2024)",
+   "why": "Links somaesthetic appreciation to Tanizaki; first authors not East Asian, belongs to methods if added.",
+   "link": "https://doi.org/10.1145/3643834.3660679",
+   "found_via": "michi-kanda",
+   "status": "open"
+  },
+  {
+   "name": "Drone Chi (La Delfa et al.)",
+   "why": "Tai chi-inspired human-drone interaction; owned by social-machines batch (first author not East Asian).",
+   "link": "",
+   "found_via": "yang-chengfu",
+   "status": "duplicate"
+  }
+ ]
+}

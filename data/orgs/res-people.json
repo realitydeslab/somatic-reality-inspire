@@ -1,0 +1,2786 @@
+{
+ "batch": "res-people",
+ "orgs": [
+  {
+   "id": "person--kristina-hook",
+   "name": "Kristina Höök",
+   "type": "researcher",
+   "themes": [
+    "soma-design",
+    "somaesthetics",
+    "first-person",
+    "affective"
+   ],
+   "fields": [
+    "methods",
+    "somaesthetic",
+    "foundations"
+   ],
+   "description": "Professor of Interaction Design at KTH who formulated soma design: designing from the designer's own trained, felt body-mind, drawing on Shusterman's somaesthetics and Feldenkrais practice. Her lab's work, from the affective loops of eMoto to the Soma Mat and Drone Chi, is the core lineage of this gallery.",
+   "description_zh": "KTH 皇家理工学院交互设计教授，提出身体设计（soma design）：以设计师自身经过训练、可被感受的身心为出发点做设计，汲取 Shusterman 的身体美学与费登奎斯修习。她的实验室从 eMoto 的情感回路到 Soma Mat、Drone Chi，构成本图库的核心谱系。",
+   "known_for": [
+    "Designing with the Body: Somaesthetic Interaction Design (MIT Press, 2018)",
+    "Somaesthetic Appreciation Design (CHI 2016)",
+    "The Soma Mat and Breathing Light (CHI EA 2016)",
+    "Unpacking Non-Dualistic Design: The Soma Design Case (TOCHI 2021)"
+   ],
+   "url": "https://www.digitalfutures.kth.se/profile/kristina-hook/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Kristina_H%C3%B6%C3%B6k"
+    },
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=LZJ0YvAAAAAJ"
+    }
+   ],
+   "image": "https://www.digitalfutures.kth.se/wp-content/uploads/2020/09/kristina-hook.jpg",
+   "based": "Stockholm, Sweden",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "born": 1964,
+   "found_via": "https://en.wikipedia.org/wiki/Kristina_H%C3%B6%C3%B6k",
+   "creator_id": "kristina-hook"
+  },
+  {
+   "id": "person--anna-stahl",
+   "name": "Anna Ståhl",
+   "type": "researcher",
+   "themes": [
+    "soma-design",
+    "affective",
+    "somaesthetics"
+   ],
+   "fields": [
+    "somaesthetic",
+    "affect"
+   ],
+   "description": "Interaction designer at RISE and Höök's longest-standing collaborator, from the affective interaction of eMoto and Affective Diary to somaesthetic appreciation design, the Soma Mat and Breathing Light. Her PhD (KTH 2014) framed design for interactional empowerment.",
+   "description_zh": "RISE 瑞典研究院的交互设计师，Höök 合作最久的伙伴：从 eMoto、Affective Diary 的情感交互，到身体美学鉴赏设计、Soma Mat 与 Breathing Light。她在 KTH 的博士论文（2014）提出“交互赋权”的设计。",
+   "known_for": [
+    "eMoto (2004–2005)",
+    "Affective Diary (CHI EA 2006; PUC 2009)",
+    "Somaesthetic Appreciation Design (CHI 2016)",
+    "The Soma Mat and Breathing Light (CHI EA 2016)"
+   ],
+   "url": "https://www.digitalfutures.kth.se/profile/anna-stahl/",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=7Zwg0AQAAAAJ"
+    }
+   ],
+   "image": "https://www.digitalfutures.kth.se/wp-content/uploads/2024/11/anna-stahl.jpg",
+   "based": "Gothenburg, Sweden",
+   "based_zh": "哥德堡，瑞典",
+   "found_via": "https://www.digitalfutures.kth.se/profile/anna-stahl/",
+   "creator_id": "anna-stahl"
+  },
+  {
+   "id": "person--pedro-sanches",
+   "name": "Pedro Sanches",
+   "type": "researcher",
+   "themes": [
+    "soma-design",
+    "biosignals",
+    "feminist",
+    "health"
+   ],
+   "fields": [
+    "affect",
+    "methods"
+   ],
+   "description": "Umeå University researcher who worked for over a decade in Höök's group on biodata and affective health. He co-authored 'From Biodata to Somadata' and 'Teaching Soma Design', and brings feminist epistemologies to designing biodata and AI for bodies.",
+   "description_zh": "于默奥大学研究者，在 Höök 团队从事生物数据与情感健康研究十余年。他是《From Biodata to Somadata》《Teaching Soma Design》的作者之一，把女性主义认识论带入面向身体的生物数据与 AI 设计。",
+   "known_for": [
+    "From Biodata to Somadata (CHI 2020)",
+    "Teaching Soma Design (DIS 2019)",
+    "Touching Our Breathing through Shape-Change: Monster, Organic Other, or Twisted Mirror (TOCHI 2022)",
+    "Making New Worlds – Transformative Becomings with Soma Design (CHI 2022)"
+   ],
+   "url": "https://www.umu.se/en/staff/pedro-sanches/",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=xnWDNtYAAAAJ"
+    }
+   ],
+   "image": "https://www.umu.se/contentassets/a54577dd1a8d41a6a7d63c03add7daa1/Profilbild.jpg?v=-638239847&width=185&quality=90",
+   "based": "Umeå, Sweden",
+   "based_zh": "于默奥，瑞典",
+   "found_via": "https://www.umu.se/en/staff/pedro-sanches/",
+   "creator_id": "pedro-sanches"
+  },
+  {
+   "id": "person--rachael-garrett",
+   "name": "Rachael Garrett",
+   "type": "researcher",
+   "themes": [
+    "soma-design",
+    "robots-ai",
+    "first-person"
+   ],
+   "fields": [
+    "methods",
+    "machines-xr"
+   ],
+   "description": "Höök's PhD student (KTH 2026, 'Somatic Freedoms') who treats ethics as something felt in the body during design, through 'felt ethics' and vulnerability in soma design. At Nottingham's Somabotics she works on dancing with robots and the Drone Gymnasium.",
+   "description_zh": "Höök 的博士生（KTH 2026，论文《Somatic Freedoms》），通过“被感受的伦理”与身体设计中的脆弱性，把伦理视为设计过程中身体里的感受。她在诺丁汉 Somabotics 项目中研究与机器人共舞和 Drone Gymnasium。",
+   "known_for": [
+    "Vulnerability as an ethical stance in soma design processes (CHI 2022)",
+    "Felt Ethics: Cultivating Ethical Sensibility in Design Practice (CHI 2023)",
+    "Somatic Freedoms: Reconfiguring Human-Machine Ethical Relations (PhD thesis, KTH, 2026)",
+    "The Digital Futures Drone Gymnasium (2024–)"
+   ],
+   "url": "https://rachaelgarrett.com/",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=3BIKUfwAAAAJ"
+    }
+   ],
+   "image": "https://www.digitalfutures.kth.se/wp-content/uploads/2025/10/Rachael-Garrett.jpeg",
+   "based": "Nottingham, UK",
+   "based_zh": "诺丁汉，英国",
+   "found_via": "https://wasp-hs.org/somatic-freedoms-reconfiguring-human-machine-ethical-relations-phd-defense/",
+   "creator_id": "rachael-garrett"
+  },
+  {
+   "id": "person--vasiliki-tsaknaki",
+   "name": "Vasiliki Tsaknaki",
+   "type": "researcher",
+   "themes": [
+    "soma-design",
+    "feminist",
+    "more-than-human"
+   ],
+   "fields": [
+    "methods",
+    "intimate",
+    "machines-xr"
+   ],
+   "description": "Associate professor at IT University of Copenhagen who came through KTH with craft-based interaction design. She co-developed soma design pedagogy and the politics of the body with Höök's group and proposed 'breathing-with' as a more-than-human design tactic.",
+   "description_zh": "哥本哈根 IT 大学副教授，在 KTH 以手工艺取向的交互设计完成博士。她与 Höök 团队共同发展了身体设计教学与“身体政治”视角，并提出“一起呼吸”（breathing-with）这一超越人类的设计策略。",
+   "known_for": [
+    "Making Preciousness: Interaction Design Through Studio Crafts (PhD thesis, KTH, 2017)",
+    "Soma Design and Politics of the Body (HttF 2019)",
+    "Teaching Soma Design (DIS 2019)",
+    "'Breathing-with': a design tactic for the more-than-human (HCI journal, 2023)"
+   ],
+   "url": "http://vasilikitsaknaki.com/about",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=W0WziQcAAAAJ"
+    }
+   ],
+   "image": "https://images.squarespace-cdn.com/content/v1/550f22fde4b0f7f604ae416b/1573998806904-QHG76X9DG7RXAFTWYAON/image-asset.jpeg",
+   "based": "Copenhagen, Denmark",
+   "based_zh": "哥本哈根，丹麦",
+   "found_via": "http://vasilikitsaknaki.com/about",
+   "creator_id": "vasiliki-tsaknaki"
+  },
+  {
+   "id": "person--charles-windlin",
+   "name": "Charles Windlin",
+   "type": "researcher",
+   "themes": [
+    "soma-design",
+    "haptics-touch",
+    "first-person"
+   ],
+   "fields": [
+    "methods",
+    "somaesthetic"
+   ],
+   "description": "Höök's PhD student (KTH 2023) who built the Soma Bits, a kit of shapes with heat, vibration and shape-change actuators placed on the body so designers can sketch soma experiences hands-on.",
+   "description_zh": "Höök 的博士生（KTH 2023），打造了 Soma Bits：一套可放在身体上的形体组件，内置加热、振动与形变执行器，让设计师能亲手为身体体验画“草图”。",
+   "known_for": [
+    "Soma Bits (2019)",
+    "SKETCHING SOMA BITS (DIS 2022)",
+    "Shape and Being Shaped: Sketching with Haptics in Soma Design (PhD thesis, KTH, 2023)"
+   ],
+   "url": "https://orcid.org/0000-0002-4481-4298",
+   "based": "Stockholm, Sweden",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "found_via": "https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-326780",
+   "creator_id": "charles-windlin"
+  },
+  {
+   "id": "person--elsa-kosmack-vaara",
+   "name": "Elsa Kosmack Vaara",
+   "type": "researcher",
+   "themes": [
+    "soma-design",
+    "first-person",
+    "somaesthetics"
+   ],
+   "fields": [
+    "methods",
+    "affect"
+   ],
+   "description": "Designer and former musician at RISE whose KTH PhD (2017) explored the aesthetics of felt time, for instance through sourdough baking. She co-authored early somaesthetic and affective-health work with Höök at SICS and Mobile Life.",
+   "description_zh": "RISE 设计师、前音乐人，KTH 博士论文（2017）探讨“被感受的时间”的美学，例如借由酸面团烘焙。她在 SICS 与 Mobile Life 期间与 Höök 合写了早期的身体美学与情感健康研究。",
+   "known_for": [
+    "Mirroring bodily experiences over time (CHI EA 2009)",
+    "Experiential artifacts as a design method for somaesthetic service development (2011)",
+    "Exploring the Aesthetics of Felt Time (PhD thesis, KTH, 2017)"
+   ],
+   "url": "https://www.researchcatalogue.net/profile/?person=556703",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=BTUKHOgAAAAJ"
+    }
+   ],
+   "image": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BTUKHOgAAAAJ&citpid=1",
+   "based": "Gothenburg, Sweden",
+   "based_zh": "哥德堡，瑞典",
+   "found_via": "https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-198547"
+  },
+  {
+   "id": "person--pavel-karpashevich",
+   "name": "Pavel Karpashevich",
+   "type": "researcher",
+   "themes": [
+    "soma-design",
+    "haptics-touch",
+    "meditation"
+   ],
+   "fields": [
+    "somaesthetic",
+    "methods"
+   ],
+   "description": "Höök's PhD student (KTH 2023, 'Designing Monstrous Experiences Through Soma Design') who built shape-changing, on-body interfaces around breathing and deep touch pressure, reading their unsettling effects through monster theory.",
+   "description_zh": "Höök 的博士生（KTH 2023，论文《Designing Monstrous Experiences Through Soma Design》），围绕呼吸与深压触觉设计贴身的形变界面，并借“怪物理论”解读其令人不安的体验。",
+   "known_for": [
+    "Exploring Awareness of Breathing through Deep Touch Pressure (CHI 2021)",
+    "Touching Our Breathing through Shape-Change: Monster, Organic Other, or Twisted Mirror (TOCHI 2022)",
+    "Designing Monstrous Experiences Through Soma Design (PhD thesis, KTH, 2023)"
+   ],
+   "url": "https://uol.de/en/media-informatics/team/pavel-karpashevich",
+   "image": "https://uol.de/f/2/_processed_/a/f/csm_Karpashevich_profile_pic_720833a973.jpg",
+   "based": "Oldenburg, Germany",
+   "based_zh": "奥尔登堡，德国",
+   "found_via": "https://uol.de/en/media-informatics/team/pavel-karpashevich",
+   "creator_id": "pavel-karpashevich"
+  },
+  {
+   "id": "person--pedro-ferreira",
+   "name": "Pedro Ferreira",
+   "type": "researcher",
+   "themes": [
+    "play-exertion",
+    "soma-design"
+   ],
+   "fields": [
+    "movement"
+   ],
+   "description": "Höök's PhD student (KTH 2015) who studied play and leisure in ICT for development and co-authored studies of the bodily and playful use of mobile phones; now at IT University of Copenhagen.",
+   "description_zh": "Höök 的博士生（KTH 2015），研究面向发展的信息技术中的游戏与闲暇，并参与撰写手机使用中身体性与玩乐的研究；现任职于哥本哈根 IT 大学。",
+   "known_for": [
+    "Bodily orientations around mobiles (CHI 2011)",
+    "Appreciating plei-plei around mobiles (CHI 2012)",
+    "Play as Freedom: Implications for ICT4D (PhD thesis, KTH, 2015)"
+   ],
+   "url": "https://bacilo.github.io/",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=eHBdMTYAAAAJ"
+    }
+   ],
+   "image": "https://tip.itu.dk/wp-content/uploads/sites/69/2019/02/Pedro-scaled-e1586781948286.jpg",
+   "based": "Copenhagen, Denmark",
+   "based_zh": "哥本哈根，丹麦",
+   "found_via": "https://tip.itu.dk/team-member/pedro-ferreira/"
+  },
+  {
+   "id": "person--jarmo-laaksolahti",
+   "name": "Jarmo Laaksolahti",
+   "type": "researcher",
+   "themes": [
+    "soma-design",
+    "affective",
+    "haptics-touch"
+   ],
+   "fields": [
+    "methods"
+   ],
+   "description": "Höök's PhD student (2008) and long-time collaborator at SICS and KTH. He co-developed the Sensual Evaluation Instrument for non-verbal, bodily evaluation and, with Windlin and Höök, the Soma Bits prototyping kit.",
+   "description_zh": "Höök 的博士生（2008），也是她在 SICS 与 KTH 的长期合作者。他参与开发了以非语言、身体方式做评估的感官评估工具（Sensual Evaluation Instrument），并与 Windlin、Höök 一起开发了 Soma Bits 原型工具包。",
+   "known_for": [
+    "The sensual evaluation instrument (CHI 2006)",
+    "Plot, Spectacle, and Experience (PhD thesis, Stockholm University, 2008)",
+    "SKETCHING SOMA BITS (DIS 2022)"
+   ],
+   "url": "https://www.kth.se/profile/jarmola",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=vZwXwC0AAAAJ"
+    }
+   ],
+   "based": "Stockholm, Sweden",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "found_via": "https://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-7325",
+   "creator_id": "jarmo-laaksolahti"
+  },
+  {
+   "id": "person--claudia-nunez-pacheco",
+   "name": "Claudia Núñez-Pacheco",
+   "type": "researcher",
+   "themes": [
+    "first-person",
+    "soma-design",
+    "phenomenology"
+   ],
+   "fields": [
+    "methods"
+   ],
+   "description": "Malmö University design researcher trained in Focusing and micro-phenomenology who uses body maps and felt-sense articulation as design tools. She co-authored the soma design ethics papers on vulnerability and felt ethics with Höök's group.",
+   "description_zh": "马尔默大学设计研究者，受过 Focusing（体会聚焦）与微观现象学训练，把身体地图与“体会”的言说用作设计工具。她与 Höök 团队合写了关于脆弱性与“被感受的伦理”的身体设计伦理论文。",
+   "known_for": [
+    "Body Maps: A Generative Tool for Soma-based Design (TEI 2022)",
+    "Vulnerability as an ethical stance in soma design processes (CHI 2022)",
+    "Felt Ethics: Cultivating Ethical Sensibility in Design Practice (CHI 2023)"
+   ],
+   "url": "https://claudianunezpacheco.com/",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=wBxctQMAAAAJ"
+    }
+   ],
+   "image": "https://idservice.mau.se/Photos/aq7976.jpg",
+   "based": "Malmö, Sweden",
+   "based_zh": "马尔默，瑞典",
+   "found_via": "https://claudianunezpacheco.com/cv/",
+   "creator_id": "claudia-nunez-pacheco"
+  },
+  {
+   "id": "person--martin-jonsson",
+   "name": "Martin Jonsson",
+   "type": "researcher",
+   "themes": [
+    "soma-design",
+    "somaesthetics",
+    "haptics-touch"
+   ],
+   "fields": [
+    "somaesthetic"
+   ],
+   "description": "Södertörn University researcher in tangible and ubiquitous interaction who co-designed the Soma Mat, Breathing Light and the heat-based somaesthetic prototypes with Höök and Ståhl.",
+   "description_zh": "瑟德托恩大学的实体与普适交互研究者，与 Höök、Ståhl 共同设计了 Soma Mat、Breathing Light 以及以热为媒介的身体美学原型。",
+   "known_for": [
+    "Somaesthetic Appreciation Design (CHI 2016)",
+    "The Aesthetics of Heat (TEI 2016)",
+    "The Soma Mat and Breathing Light (CHI EA 2016)"
+   ],
+   "url": "https://www.sh.se/english/sodertorn-university/contact/researchers/martin-jonsson",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=m9HjNo8AAAAJ"
+    }
+   ],
+   "image": "https://www.sh.se/download/18.8fce1ec191dfa5a6f43fc49/1727184232469/mj.jpg",
+   "based": "Stockholm, Sweden",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "found_via": "https://www.sh.se/english/sodertorn-university/contact/researchers/martin-jonsson",
+   "creator_id": "martin-jonsson"
+  },
+  {
+   "id": "person--kristina-popova",
+   "name": "Kristina Popova",
+   "type": "researcher",
+   "themes": [
+    "soma-design",
+    "feminist"
+   ],
+   "fields": [
+    "methods"
+   ],
+   "description": "KTH researcher (PhD 2026, co-supervised by Höök) who studies the affective and felt dimensions of ethics in technology work, drawing on STS, feminist epistemology and soma design; co-author of the felt ethics papers.",
+   "description_zh": "KTH 研究者（博士 2026，Höök 为合作导师），结合科技与社会研究、女性主义认识论和身体设计，研究科技工作中伦理的情感与身体维度；“被感受的伦理”系列论文的作者之一。",
+   "known_for": [
+    "Vulnerability as an ethical stance in soma design processes (CHI 2022)",
+    "Felt Ethics: Cultivating Ethical Sensibility in Design Practice (CHI 2023)",
+    "Ethical Reasoning in Tech Work: From Individual Responsibility to Collective Action (PhD thesis, KTH, 2026)"
+   ],
+   "url": "https://www.kth.se/profile/kpopova",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=JPRsXH0AAAAJ"
+    }
+   ],
+   "based": "Stockholm, Sweden",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "found_via": "https://wasp-hs.org/ethical-reasoning-in-tech-work-from-individual-responsibility-to-collective-action-phd-defense/",
+   "creator_id": "kristina-popova"
+  },
+  {
+   "id": "person--muhammad-umair",
+   "name": "Muhammad Umair",
+   "type": "researcher",
+   "themes": [
+    "biosignals",
+    "affective",
+    "haptics-touch"
+   ],
+   "fields": [
+    "affect"
+   ],
+   "description": "Lancaster University researcher whose PhD built wearable biofeedback that turns arousal into visual, vibrotactile and thermal patterns for emotion regulation; co-author of 'From Biodata to Somadata' and the non-dualistic design paper.",
+   "description_zh": "兰卡斯特大学研究者，博士研究把唤醒度转化为视觉、振动与温度模式的可穿戴生物反馈，用于情绪调节；《From Biodata to Somadata》与非二元设计论文的作者之一。",
+   "known_for": [
+    "From Biodata to Somadata (CHI 2020)",
+    "Exploring Personalized Vibrotactile and Thermal Patterns for Affect Regulation (DIS 2021)",
+    "Unpacking Non-Dualistic Design: The Soma Design Case (TOCHI 2021)"
+   ],
+   "url": "https://orcid.org/0000-0002-0017-9827",
+   "based": "Lancaster, UK",
+   "based_zh": "兰卡斯特，英国",
+   "found_via": "https://eprints.lancs.ac.uk/id/eprint/154253/1/Exploring_personalized_vibrotactile_and_thermal_feedback.pdf",
+   "creator_id": "muhammad-umair"
+  },
+  {
+   "id": "person--madeline-balaam",
+   "name": "Madeline Balaam",
+   "type": "researcher",
+   "themes": [
+    "feminist",
+    "health",
+    "soma-design"
+   ],
+   "fields": [
+    "intimate",
+    "care"
+   ],
+   "description": "KTH professor of interaction design who designs for intimate bodies and health: pelvic fitness (Labella), breastfeeding (FeedFinder) and menstruation (Menarche Bits). She co-authored soma design papers with Höök and supervises several soma-oriented PhD students.",
+   "description_zh": "KTH 交互设计教授，为亲密身体与健康而设计：盆底训练（Labella）、哺乳（FeedFinder）与月经（Menarche Bits）。她与 Höök 合写身体设计论文，并指导多位身体设计方向的博士生。",
+   "known_for": [
+    "FeedFinder (CHI 2015)",
+    "On Looking at the Vagina through Labella (CHI 2016)",
+    "Touching and Being in Touch with the Menstruating Body (CHI 2020)",
+    "Exploring the Somatic Possibilities of Shape Changing Car Seats (DIS 2024)"
+   ],
+   "url": "https://www.digitalfutures.kth.se/profile/madeline-balaam/",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=kzZWAf0AAAAJ"
+    }
+   ],
+   "image": "https://www.digitalfutures.kth.se/wp-content/uploads/2024/11/madeline-balaam.png",
+   "based": "Stockholm, Sweden",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "found_via": "https://www.digitalfutures.kth.se/profile/madeline-balaam/",
+   "creator_id": "madeline-balaam"
+  },
+  {
+   "id": "person--carl-unander-scharin",
+   "name": "Carl Unander-Scharin",
+   "type": "researcher",
+   "themes": [
+    "art",
+    "movement-dance",
+    "robots-ai"
+   ],
+   "fields": [
+    "movement"
+   ],
+   "description": "Opera tenor and composer whose KTH PhD with Höök ('Extending Opera', 2015) built interactive instruments such as the Vocal Chorder and led to the drone opera experiments with her group.",
+   "description_zh": "歌剧男高音与作曲家，在 KTH 随 Höök 完成博士（《Extending Opera》，2015），打造了 Vocal Chorder 等互动乐器，并与她的团队开展无人机歌剧实验。",
+   "known_for": [
+    "The Vocal Chorder (CHI 2014)",
+    "Extending Opera – Artist-led Explorations in Operatic Practice through Interactivity and Electronics (PhD thesis, KTH, 2015)",
+    "Dancing With Drones (CHI 2019)"
+   ],
+   "url": "https://www.kau.se/en/carl-unander-scharin-professor-musical-performance-specialising-classical-vocal-studies",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Carl_Unander-Scharin"
+    }
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Carl_Unander-Scharin.JPG",
+   "based": "Karlstad, Sweden",
+   "based_zh": "卡尔斯塔德，瑞典",
+   "born": 1964,
+   "found_via": "https://en.wikipedia.org/wiki/Carl_Unander-Scharin",
+   "creator_id": "carl-unander-scharin"
+  },
+  {
+   "id": "person--asa-unander-scharin",
+   "name": "Åsa Unander-Scharin",
+   "type": "researcher",
+   "themes": [
+    "art",
+    "movement-dance",
+    "robots-ai"
+   ],
+   "fields": [
+    "movement",
+    "machines-xr"
+   ],
+   "description": "Choreographer and professor at Luleå University of Technology who choreographs robots and drones, from the industrial robot of The Lamentations of Orpheus to Robocygne. She co-authored the drone opera studies 'Dancing With Drones' and 'Ethics in Movement' with Höök.",
+   "description_zh": "编舞家、吕勒奥理工大学教授，为机器人与无人机编舞，从《The Lamentations of Orpheus》中的工业机器人到《Robocygne》。她与 Höök 合写了无人机歌剧研究《Dancing With Drones》与《Ethics in Movement》。",
+   "known_for": [
+    "The Lamentations of Orpheus (1998, choreography for an industrial robot)",
+    "Robocygne (2010)",
+    "Dancing With Drones (CHI 2019)",
+    "Ethics in Movement (CHI 2020)"
+   ],
+   "url": "https://www.ltu.se/en/staff/a/asa-unander-scharin",
+   "image": "https://www.ltu.se/images/200.7936fb6a193299a082a21b60/1731939127632/Asa_Unander_Scharin.png",
+   "based": "Piteå, Sweden",
+   "based_zh": "皮特奥，瑞典",
+   "found_via": "https://www.ltu.se/en/staff/a/asa-unander-scharin",
+   "creator_id": "asa-unander-scharin"
+  },
+  {
+   "id": "person--miquel-alfaras",
+   "name": "Miquel Alfaras",
+   "type": "researcher",
+   "themes": [
+    "biosignals",
+    "soma-design"
+   ],
+   "fields": [
+    "affect"
+   ],
+   "description": "Physicist and biosignals researcher who, as a Marie Skłodowska-Curie fellow at PLUX, worked with Höök's group on making biosensing accessible to designers; first author of 'From Biodata to Somadata' (CHI 2020).",
+   "description_zh": "物理学出身的生物信号研究者，作为居里夫人学者在 PLUX 公司与 Höök 团队合作，让设计师也能上手生物传感；CHI 2020 论文《From Biodata to Somadata》第一作者。",
+   "known_for": [
+    "From Biodata to Somadata (CHI 2020)",
+    "Biosensing and Actuation—Platforms Coupling Body Input-Output Modalities for Affective Technologies (Sensors, 2020)",
+    "Exploring Awareness of Breathing through Deep Touch Pressure (CHI 2021)"
+   ],
+   "url": "https://orcid.org/0000-0002-8942-5843",
+   "based": "Spain",
+   "based_zh": "西班牙",
+   "found_via": "https://orcid.org/0000-0002-8942-5843",
+   "creator_id": "miquel-alfaras"
+  },
+  {
+   "id": "person--feng-zhou",
+   "name": "Feng Zhou",
+   "type": "researcher",
+   "themes": [
+    "soma-design",
+    "haptics-touch"
+   ],
+   "fields": [
+    "methods"
+   ],
+   "description": "Research fellow at the University of Nottingham who leads Somabotics' Soma Skins, a plug-and-play kit of wearable sensor and actuator tiles for embodied interaction; co-author of 'Unpacking Non-Dualistic Design'.",
+   "description_zh": "诺丁汉大学研究员，负责 Somabotics 项目的 Soma Skins：一套即插即用、可穿戴的传感与执行模块，用于具身交互；《Unpacking Non-Dualistic Design》作者之一。",
+   "known_for": [
+    "Unpacking Non-Dualistic Design: The Soma Design Case (TOCHI 2021)",
+    "Soma Skins toolkit (Somabotics, 2025)"
+   ],
+   "url": "https://www.somabotics.ac.uk/soma-skins-toolkit/",
+   "image": "https://www.somabotics.ac.uk/wp-content/uploads/2024/12/Feng-1024x966.jpg",
+   "based": "Nottingham, UK",
+   "based_zh": "诺丁汉，英国",
+   "found_via": "https://www.somabotics.ac.uk/people/"
+  },
+  {
+   "id": "person--joseph-la-delfa",
+   "name": "Joseph La Delfa",
+   "type": "researcher",
+   "themes": [
+    "robots-ai",
+    "soma-design",
+    "somatic-practice"
+   ],
+   "fields": [
+    "machines-xr"
+   ],
+   "description": "Designer and Höök's PhD student (KTH 2023, 'Cultivating Mechanical Sympathy') who made Drone Chi, where a drone follows the hand in tai chi-like movement, and developed 'mechanical sympathy' for somaesthetic relations with machines.",
+   "description_zh": "设计师，Höök 的博士生（KTH 2023，论文《Cultivating Mechanical Sympathy》）。他创作了 Drone Chi，让无人机随手做出类似太极的动作，并提出“机械同感”来描述人与机器的身体美学关系。",
+   "known_for": [
+    "Drone Chi: Somaesthetic Human-Drone Interaction (CHI 2020)",
+    "How to Train Your Drone (DIS 2024)",
+    "Articulating Mechanical Sympathy for Somaesthetic Human-Machine Relations (DIS 2024)",
+    "Cultivating Mechanical Sympathy (PhD thesis, KTH, 2023)"
+   ],
+   "url": "https://www.bitcraze.io/author/joseph/",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=Luqfcw4AAAAJ"
+    }
+   ],
+   "image": "https://www.somabotics.ac.uk/wp-content/uploads/2026/06/Joe.png",
+   "based": "Stockholm, Sweden",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "found_via": "https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-337183",
+   "creator_id": "joseph-la-delfa"
+  },
+  {
+   "id": "person--joe-marshall",
+   "name": "Joe Marshall",
+   "type": "researcher",
+   "themes": [
+    "play-exertion",
+    "soma-design",
+    "xr-embodiment"
+   ],
+   "fields": [
+    "movement",
+    "methods"
+   ],
+   "description": "Mixed Reality Lab researcher who builds full-body experiences such as computerised fairground rides and physical games; co-author of 'Soma Design and Sensory Misalignment' and the non-dualistic design paper.",
+   "description_zh": "混合现实实验室（MRL）研究者，打造计算机化的游乐设施、身体游戏等全身体验；《Soma Design and Sensory Misalignment》与非二元设计论文的作者之一。",
+   "known_for": [
+    "Soma Design and Sensory Misalignment (CHI 2020)",
+    "Unpacking Non-Dualistic Design: The Soma Design Case (TOCHI 2021)"
+   ],
+   "url": "https://people.cs.nott.ac.uk/pszjm2/",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=2tMhmgIAAAAJ"
+    }
+   ],
+   "based": "Nottingham, UK",
+   "based_zh": "诺丁汉，英国",
+   "found_via": "https://people.cs.nott.ac.uk/pszjm2/about/",
+   "creator_id": "joe-marshall"
+  },
+  {
+   "id": "person--juan-pablo-martinez-avila",
+   "name": "Juan Pablo Martinez Avila",
+   "type": "researcher",
+   "themes": [
+    "soma-design",
+    "movement-dance"
+   ],
+   "fields": [
+    "movement"
+   ],
+   "description": "Nottingham HCI researcher in embodied and music interaction who brought soma design to musical instruments ('Soma Design for NIME', 2020) and took part in the workshop analysed in 'Unpacking Non-Dualistic Design'.",
+   "description_zh": "诺丁汉大学的具身与音乐交互研究者，把身体设计带入乐器设计（《Soma Design for NIME》，2020），并参与了《Unpacking Non-Dualistic Design》所分析的工作坊。",
+   "known_for": [
+    "Soma Design for NIME (NIME 2020)",
+    "Unpacking Non-Dualistic Design: The Soma Design Case (TOCHI 2021)",
+    "Encumbered Interaction: a Study of Musicians Preparing to Perform (CHI 2019)"
+   ],
+   "url": "https://sites.google.com/view/pszjm3/about",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=k6fIBFEAAAAJ"
+    }
+   ],
+   "image": "https://www.somabotics.ac.uk/wp-content/uploads/2024/12/juan-1024x849.jpg",
+   "based": "Nottingham, UK",
+   "based_zh": "诺丁汉，英国",
+   "found_via": "https://sites.google.com/view/pszjm3/about"
+  },
+  {
+   "id": "person--christine-li",
+   "name": "Christine Li",
+   "type": "researcher",
+   "themes": [
+    "soma-design",
+    "xr-embodiment",
+    "movement-dance"
+   ],
+   "fields": [
+    "movement",
+    "methods"
+   ],
+   "description": "Mixed Reality Lab PhD researcher designing VR for bodily training in performance arts and sport; she co-authored the collision design and 'Tangles' soma trajectories work and the non-dualistic design paper.",
+   "description_zh": "混合现实实验室博士研究者，为表演艺术与运动中的身体训练设计 VR；她参与了碰撞设计、以身体轨迹分析的《Tangles》以及非二元设计论文。",
+   "known_for": [
+    "Unpacking Non-Dualistic Design: The Soma Design Case (TOCHI 2021)",
+    "Collision Design (CHI EA 2023)",
+    "Tangles: Unpacking Extended Collision Experiences with Soma Trajectories (TOCHI 2025)"
+   ],
+   "url": "https://www.nottingham.ac.uk/research/beacons-of-excellence/smart-products/training/christine-li/index.aspx",
+   "based": "Nottingham, UK",
+   "based_zh": "诺丁汉，英国",
+   "found_via": "https://www.nottingham.ac.uk/research/beacons-of-excellence/smart-products/training/christine-li/index.aspx"
+  },
+  {
+   "id": "person--claudia-dauden-roquet",
+   "name": "Claudia Daudén Roquet",
+   "type": "researcher",
+   "themes": [
+    "meditation",
+    "health",
+    "affective"
+   ],
+   "fields": [
+    "care"
+   ],
+   "description": "King's College London researcher on mindfulness and emotion-regulation technologies; co-author of 'HCI and Affective Health' and of the soma design workshop study in 'Unpacking Non-Dualistic Design'.",
+   "description_zh": "伦敦国王学院研究者，研究正念与情绪调节技术；《HCI and Affective Health》以及《Unpacking Non-Dualistic Design》中身体设计工作坊研究的作者之一。",
+   "known_for": [
+    "HCI and Affective Health (CHI 2019)",
+    "Unpacking Non-Dualistic Design: The Soma Design Case (TOCHI 2021)",
+    "Designing for Emotion Regulation Interventions: An Agenda for HCI Theory and Research (TOCHI 2022)"
+   ],
+   "url": "https://kclpure.kcl.ac.uk/portal/en/persons/claudia-dauden-roquet",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "found_via": "https://orcid.org/0000-0001-7490-6049"
+  },
+  {
+   "id": "person--ozgun-kilic-afsar",
+   "name": "Ozgun Kilic Afsar",
+   "type": "researcher",
+   "themes": [
+    "haptics-touch",
+    "movement-dance",
+    "soma-design"
+   ],
+   "fields": [
+    "somaesthetic",
+    "movement"
+   ],
+   "description": "Designer-engineer of soft artificial muscles and fluidic fibre actuators (OmniFiber) who worked with Höök's group; Corsetto, a kinesthetic corset that lets a singer's voice be felt on the listener's body, came out of this collaboration.",
+   "description_zh": "软体人工肌肉与流体纤维执行器（OmniFiber）的设计工程师，曾与 Höök 团队合作；Corsetto 就出自这一合作：一件动觉胸衣，让听众在身体上感受到歌者的声音。",
+   "known_for": [
+    "OmniFiber: Integrated Fluidic Fiber Actuators for Weaving Movement based Interactions into the 'Fabric of Everyday Life' (UIST 2021)",
+    "Wearable Choreographer: Designing Soft-Robotics for Dance Practice (DIS 2022)",
+    "Corsetto: A Kinesthetic Garment for Designing, Composing for, and Experiencing an Intersubjective Haptic Voice (CHI 2023)"
+   ],
+   "url": "https://ozgun.io/",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=oTq-jC4AAAAJ"
+    }
+   ],
+   "image": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=oTq-jC4AAAAJ&citpid=2",
+   "based": "Cambridge, US",
+   "based_zh": "坎布里奇，美国",
+   "found_via": "https://ozgun.io/",
+   "creator_id": "ozgun-kilic-afsar"
+  },
+  {
+   "id": "person--ekaterina-stepanova",
+   "name": "Ekaterina R. Stepanova",
+   "type": "researcher",
+   "themes": [
+    "xr-embodiment",
+    "phenomenology",
+    "somaesthetics"
+   ],
+   "fields": [
+    "social",
+    "machines-xr"
+   ],
+   "description": "Cognitive scientist and KTH postdoc who uses embodied cognition and somaesthetics to design immersive VR and bio-responsive installations for felt connection, such as JeL, where two people breathe together to grow a virtual ecosystem.",
+   "description_zh": "认知科学家、KTH 博士后，借具身认知与身体美学设计沉浸式 VR 与生物响应装置，追求“被感受到的连接”，如 JeL：两人同步呼吸，使虚拟生态生长。",
+   "known_for": [
+    "Creating AWE (2018)",
+    "JeL: Breathing Together to Connect with Others and Nature (DIS 2020)",
+    "Strategies for Fostering a Genuine Feeling of Connection in Technologically Mediated Systems (CHI 2022)",
+    "Corsetto (CHI 2023)"
+   ],
+   "url": "https://www.kth.se/profile/katstep",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=5PVlhugAAAAJ"
+    }
+   ],
+   "image": "https://ispace.iat.sfu.ca/wp-content/uploads/2021/02/Katerina200x200-200x200.png",
+   "based": "Stockholm, Sweden",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "found_via": "https://www.kth.se/profile/katstep?l=en",
+   "creator_id": "ekaterina-stepanova"
+  },
+  {
+   "id": "person--yoav-luft",
+   "name": "Yoav Luft",
+   "type": "researcher",
+   "themes": [
+    "soma-design",
+    "haptics-touch",
+    "somatic-practice"
+   ],
+   "fields": [
+    "somaesthetic"
+   ],
+   "description": "KTH PhD candidate studying how designers can programme touch on the body with shape-changing garments; co-author of 'Boards Hit Back', which reflects on martial arts practice through soma design.",
+   "description_zh": "KTH 博士生，研究设计师如何借形变服装为身体“编程”触觉；论文《Boards Hit Back》的作者之一，通过身体设计反思武术修习。",
+   "known_for": [
+    "Touching Our Breathing through Shape-Change (TOCHI 2022)",
+    "Boards Hit Back: Reflecting on Martial Arts Practices Through Soma Design (CHI 2023)",
+    "Corsetto (CHI 2023)"
+   ],
+   "url": "https://www.kth.se/profile/luft",
+   "based": "Stockholm, Sweden",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "found_via": "https://www.kth.se/profile/luft?l=en",
+   "creator_id": "yoav-luft"
+  },
+  {
+   "id": "person--laia-turmo-vidal",
+   "name": "Laia Turmo Vidal",
+   "type": "researcher",
+   "themes": [
+    "movement-dance",
+    "soma-design",
+    "health"
+   ],
+   "fields": [
+    "movement",
+    "care"
+   ],
+   "description": "Assistant professor at KTH whose PhD (Uppsala 2021, 'Designing for Intercorporeality') studied technology for learning movement together, e.g. BodyLights; she now designs soft-robotic and haptic wearables for lived health with feminist and disability perspectives.",
+   "description_zh": "KTH 助理教授，博士研究（乌普萨拉 2021，《Designing for Intercorporeality》）关注用技术支持共同学习动作，如 BodyLights；现以女性主义与残障视角设计面向健康经验的软体机器人与触觉可穿戴。",
+   "known_for": [
+    "Embodied Sketching (CHI 2016)",
+    "BodyLights (CHI 2020)",
+    "Designing for Intercorporeality (PhD thesis, Uppsala University, 2021)",
+    "Aesthetics of Felt Asymmetry (CHI 2026)"
+   ],
+   "url": "https://laiatv.github.io/",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=TFogrXkAAAAJ"
+    }
+   ],
+   "image": "https://laiatv.github.io/assets/img/lai.jpg",
+   "based": "Stockholm, Sweden",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "found_via": "https://laiatv.github.io/",
+   "creator_id": "laia-turmo-vidal"
+  },
+  {
+   "id": "person--kelsey-cotton",
+   "name": "Kelsey Cotton",
+   "type": "researcher",
+   "themes": [
+    "soma-design",
+    "movement-dance",
+    "art"
+   ],
+   "fields": [
+    "somaesthetic",
+    "movement"
+   ],
+   "description": "Vocalist and researcher at Chalmers whose soma design work centres on the singing body and breath, including the Body Electric NIME and Corsetto, made with Höök's group.",
+   "description_zh": "查尔默斯理工大学的歌者与研究者，其身体设计研究以歌唱的身体与呼吸为中心，包括 Body Electric 乐器界面，以及与 Höök 团队合作的 Corsetto。",
+   "known_for": [
+    "The Body Electric: A NIME designed through and with the somatic experience of singing (NIME 2021)",
+    "'Feeling the Sensor Feeling you': A Soma Design Exploration on Sensing Non-habitual Breathing (CHI 2021)",
+    "Corsetto (CHI 2023)"
+   ],
+   "url": "https://kelseycotton.com",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=X3uqIzkAAAAJ"
+    }
+   ],
+   "image": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=X3uqIzkAAAAJ&citpid=1",
+   "based": "Gothenburg, Sweden",
+   "based_zh": "哥德堡，瑞典",
+   "found_via": "https://research.chalmers.se/en/person/kelsey",
+   "creator_id": "kelsey-cotton"
+  },
+  {
+   "id": "person--jordi-solsona-belenguer",
+   "name": "Jordi Solsona Belenguer",
+   "type": "researcher",
+   "themes": [
+    "soma-design",
+    "biosignals"
+   ],
+   "fields": [
+    "methods"
+   ],
+   "description": "Höök's PhD student (KTH 2015) on designerly conversations with digital materials; co-author of the somaesthetic service design and Metaphone biodata work, and later co-supervisor of Karpashevich's soma design PhD.",
+   "description_zh": "Höök 的博士生（KTH 2015），研究与数字材料的“设计对话”；参与身体美学服务设计与 Metaphone 生物数据研究，后来担任 Karpashevich 身体设计博士研究的合作导师。",
+   "known_for": [
+    "Experiential artifacts as a design method for somaesthetic service development (2011)",
+    "Metaphone (CHI 2014)",
+    "Engineering through Designerly Conversations with the Digital Material (PhD thesis, KTH, 2015)"
+   ],
+   "url": "https://www.su.se/english/profiles/jsols",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=oixfVyMAAAAJ"
+    }
+   ],
+   "image": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=oixfVyMAAAAJ&citpid=1",
+   "based": "Stockholm, Sweden",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "found_via": "https://www.su.se/english/profiles/jsols"
+  },
+  {
+   "id": "person--nadia-campo-woytuk",
+   "name": "Nadia Campo Woytuk",
+   "type": "researcher",
+   "themes": [
+    "feminist",
+    "soma-design",
+    "health"
+   ],
+   "fields": [
+    "intimate"
+   ],
+   "description": "Designer and artist at KTH (PhD 2026, 'Feminist Sensing') who designs with the menstruating body through textiles, biomaterials and touch, from Menarche Bits to tactful sensing of vaginal fluids.",
+   "description_zh": "KTH 设计师与艺术家（博士 2026，《Feminist Sensing》），以织物、生物材料与触碰，与来月经的身体一起设计，从 Menarche Bits 到对阴道分泌物的“得体感知”。",
+   "known_for": [
+    "Touching and Being in Touch with the Menstruating Body (CHI 2020)",
+    "Designing with Intimate Materials and Movements: Making 'Menarche Bits' (DIS 2020)",
+    "Tactful Feminist Sensing: Designing for Touching Vaginal Fluids (DIS 2023)",
+    "Feminist Sensing (PhD thesis, KTH, 2026)"
+   ],
+   "url": "https://nadiacw.com/About",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=FMEkJLsAAAAJ"
+    }
+   ],
+   "image": "https://freight.cargo.site/t/original/i/d84332c86e2c06521bf73217b53322aba1adb7461389224322d5e489847a0aea/Photo-on-2023-04-14-at-09.57--3.jpg",
+   "based": "Stockholm, Sweden",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "found_via": "https://nadiacw.com/About",
+   "creator_id": "nadia-campo-woytuk"
+  },
+  {
+   "id": "person--marie-louise-juul-sondergaard",
+   "name": "Marie Louise Juul Søndergaard",
+   "type": "researcher",
+   "themes": [
+    "feminist",
+    "soma-design"
+   ],
+   "fields": [
+    "intimate"
+   ],
+   "description": "Danish designer who uses speculative and feminist design for intimate technologies around menstruation and desire (PeriodShare, Intimate Futures); as a KTH postdoc she co-made the Menarche Bits and 'Soma Design and Politics of the Body'.",
+   "description_zh": "丹麦设计师，以思辨设计与女性主义设计探讨月经与欲望相关的亲密技术（PeriodShare、Intimate Futures）；在 KTH 做博士后期间参与制作 Menarche Bits 与《Soma Design and Politics of the Body》。",
+   "known_for": [
+    "PeriodShare: A Bloody Design Fiction (NordiCHI 2016)",
+    "Intimate Futures (DIS 2018)",
+    "Designing with Intimate Materials and Movements: Making 'Menarche Bits' (DIS 2020)",
+    "Soma Design and Politics of the Body (HttF 2019)"
+   ],
+   "url": "https://www.fabulationforfuture.net/dr-marie-louise-juul-sondergaard/",
+   "image": "https://amusing-firefly.cloudvent.net//assets/uploads/marie-louise-cropped.jpg",
+   "based": "Oslo, Norway",
+   "based_zh": "奥斯陆，挪威",
+   "found_via": "https://www.fabulationforfuture.net/dr-marie-louise-juul-sondergaard/",
+   "creator_id": "marie-louise-juul-sondergaard"
+  },
+  {
+   "id": "person--karey-helms",
+   "name": "Karey Helms",
+   "type": "researcher",
+   "themes": [
+    "feminist",
+    "first-person",
+    "health"
+   ],
+   "fields": [
+    "intimate",
+    "methods"
+   ],
+   "description": "Designer and associate professor at Umeå Institute of Design whose KTH PhD ('Designing with care', 2023) worked self-centred and first-person with intimate, somatic data: urine, leaky objects and breastfeeding bodies.",
+   "description_zh": "于默奥设计学院设计师、副教授，KTH 博士论文（《Designing with care》，2023）以自我为中心、第一人称地处理亲密的身体数据：尿液、“会漏的物件”与哺乳的身体。",
+   "known_for": [
+    "Leaky Objects (DIS 2017)",
+    "Do You Have to Pee?: A Design Space for Intimate and Somatic Data (DIS 2019)",
+    "Entangled Reflections on Designing with Leaky Breastfeeding Bodies (DIS 2021)",
+    "Designing with care (PhD thesis, KTH, 2023)"
+   ],
+   "url": "https://www.kareyhelms.com/",
+   "image": "https://www.kareyhelms.com/wp-content/uploads/2021/03/karey-helms-624x624.jpg",
+   "based": "Umeå, Sweden",
+   "based_zh": "于默奥，瑞典",
+   "found_via": "https://www.kareyhelms.com/"
+  },
+  {
+   "id": "person--mehmet-aydin-baytas",
+   "name": "Mehmet Aydın Baytaş",
+   "type": "researcher",
+   "themes": [
+    "robots-ai",
+    "somatic-practice"
+   ],
+   "fields": [
+    "machines-xr"
+   ],
+   "description": "Designer-engineer, formerly at Chalmers, who co-created Drone Chi with Joseph La Delfa, a somaesthetic human-drone interaction inspired by tai chi, and Azalea for somaesthetic remote co-experience.",
+   "description_zh": "设计工程师，曾任职查尔默斯理工大学，与 Joseph La Delfa 共同创作受太极启发的身体美学人机（无人机）交互 Drone Chi，以及用于远程共同体验的 Azalea。",
+   "known_for": [
+    "The Design of Social Drones (CHI 2019)",
+    "Drone Chi: Somaesthetic Human-Drone Interaction (CHI 2020)",
+    "Designing Drone Chi (DIS 2020)",
+    "Azalea: Co-experience in Remote Dialog through Diminished Reality and Somaesthetic Interaction Design (CHI 2021)"
+   ],
+   "url": "https://www.designdisciplin.com/about",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=2ZPGfGYAAAAJ"
+    }
+   ],
+   "image": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=2ZPGfGYAAAAJ&citpid=9",
+   "found_via": "https://www.hatchconference.com/speakers/mehmet-baytas",
+   "creator_id": "mehmet-aydin-baytas"
+  },
+  {
+   "id": "person--deepika-yadav",
+   "name": "Deepika Yadav",
+   "type": "researcher",
+   "themes": [
+    "feminist",
+    "health"
+   ],
+   "fields": [
+    "intimate",
+    "care"
+   ],
+   "description": "Aalto University assistant professor who, as a Digital Futures postdoc in the KTH intimate-health group, studied the mixed feelings of digital contraception and fertility tracking.",
+   "description_zh": "阿尔托大学助理教授，曾在 KTH 亲密健康团队任 Digital Futures 博士后，研究数字避孕与生育追踪中的矛盾感受。",
+   "known_for": [
+    "Ambivalences in Digital Contraception: Designing for Mixed Feelings and Oscillating Relations (DIS 2023)",
+    "Relational Aspects of Care in Intimate Digital Health Technologies (Digital Futures postdoc project)"
+   ],
+   "url": "https://www.aalto.fi/en/people/deepika-yadav",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=B0sB5H4AAAAJ"
+    }
+   ],
+   "image": "https://acris.aalto.fi/ws/portalfiles/portal/232778829/Deepika_Yadav.jpeg",
+   "based": "Espoo, Finland",
+   "based_zh": "埃斯波，芬兰",
+   "found_via": "https://www.aalto.fi/en/people/deepika-yadav"
+  },
+  {
+   "id": "person--ylva-fernaeus",
+   "name": "Ylva Fernaeus",
+   "type": "researcher",
+   "themes": [
+    "soma-design",
+    "movement-dance",
+    "robots-ai"
+   ],
+   "fields": [
+    "foundations",
+    "movement"
+   ],
+   "description": "Professor at Umeå Institute of Design and KTH (PhD co-supervised by Höök) working on tangible and embodied interaction and design philosophy, from robotic pets to wabi-sabi and joyful movement; she supervised Tsaknaki and Helms.",
+   "description_zh": "于默奥设计学院与 KTH 教授（博士由 Höök 合作指导），研究实体与具身交互及设计哲学，从机器宠物到侘寂与“愉悦的运动”；她指导过 Tsaknaki 与 Helms。",
+   "known_for": [
+    "How do you play with a robotic toy animal? A long-term study of Pleo (IDC 2010)",
+    "The material move: how materials matter in interaction design research (DIS 2012)",
+    "Expanding on Wabi-Sabi as a Design Resource in HCI (CHI 2016)",
+    "Designing for Joyful Movement (2018)"
+   ],
+   "url": "https://www.umu.se/en/staff/ylva-fernaeus/",
+   "image": "https://www.digitalfutures.kth.se/wp-content/uploads/2024/11/Ylva-Fernaeus.jpeg",
+   "based": "Umeå, Sweden",
+   "based_zh": "于默奥，瑞典",
+   "found_via": "https://www.umu.se/en/staff/ylva-fernaeus/"
+  },
+  {
+   "id": "person--jakob-tholander",
+   "name": "Jakob Tholander",
+   "type": "researcher",
+   "themes": [
+    "movement-dance",
+    "play-exertion"
+   ],
+   "fields": [
+    "movement"
+   ],
+   "description": "Stockholm University professor of HCI who studied whole-body interaction in golf, skateboarding and sports watches ('Snot, Sweat, Pain, Mud, and Snow') and co-authored the 2018 first-person soma design paper.",
+   "description_zh": "斯德哥尔摩大学人机交互教授，研究高尔夫、滑板与运动手表中的全身交互（《Snot, Sweat, Pain, Mud, and Snow》），是 2018 年第一人称身体设计论文的作者之一。",
+   "known_for": [
+    "Mirroring bodily experiences over time (CHI EA 2009)",
+    "Design qualities for whole body interaction: learning from golf, skateboarding and BodyBugging (NordiCHI 2010)",
+    "Snot, Sweat, Pain, Mud, and Snow: Performance and Experience in the Use of Sports Watches (CHI 2015)"
+   ],
+   "url": "https://people.dsv.su.se/~jakobth/",
+   "based": "Stockholm, Sweden",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "found_via": "https://www.su.se/english/profiles/jakobth",
+   "creator_id": "jakob-tholander"
+  },
+  {
+   "id": "person--corina-sas",
+   "name": "Corina Sas",
+   "type": "researcher",
+   "themes": [
+    "affective",
+    "biosignals",
+    "health"
+   ],
+   "fields": [
+    "affect",
+    "care"
+   ],
+   "description": "Lancaster University professor of HCI and digital health who led the AffecTech network on personal technologies for affective health, the setting for 'From Biodata to Somadata' and much of the biodata work with Höök.",
+   "description_zh": "兰卡斯特大学人机交互与数字健康教授，主持面向情感健康的个人技术研究网络 AffecTech；《From Biodata to Somadata》及与 Höök 的许多生物数据研究都出自这一网络。",
+   "known_for": [
+    "AffectCam (CHI EA 2013)",
+    "HCI and Affective Health: Taking stock of a decade of studies (CHI 2019)",
+    "From Biodata to Somadata (CHI 2020)",
+    "AffecTech: Personal Technologies for Affective Health (Marie Skłodowska-Curie ITN, 2017–2021)"
+   ],
+   "url": "https://www.lancaster.ac.uk/scc/about-us/people/corina-sas",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=7N5gDEoAAAAJ"
+    }
+   ],
+   "image": "https://www.lancaster.ac.uk/images/people/722.jpg",
+   "based": "Lancaster, UK",
+   "based_zh": "兰卡斯特，英国",
+   "found_via": "https://www.lancaster.ac.uk/scc/about-us/people/corina-sas"
+  },
+  {
+   "id": "person--sarah-homewood",
+   "name": "Sarah Homewood",
+   "type": "researcher",
+   "themes": [
+    "feminist",
+    "phenomenology",
+    "health"
+   ],
+   "fields": [
+    "intimate"
+   ],
+   "description": "Former contemporary dancer and University of Copenhagen researcher who studies how self-tracking shapes views of bodies (fertility, menstrual cycles, long COVID), proposing removal as a design method and tracing conceptions of the body in HCI.",
+   "description_zh": "前当代舞者、哥本哈根大学研究者，研究自我追踪如何塑造人们对身体（生育、经期、长新冠）的看法，提出“移除”作为设计方法，并梳理人机交互中的身体观。",
+   "known_for": [
+    "Ovum: Designing for Fertility Tracking as a Shared and Domestic Experience (DIS 2019)",
+    "Removal as a Method (DIS 2020)",
+    "Tracing Conceptions of the Body in HCI: From User to More-Than-Human (CHI 2021)"
+   ],
+   "url": "https://sarahhomewood.com/bio",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=jph_2x4AAAAJ"
+    }
+   ],
+   "image": "https://researchprofiles.ku.dk/files-asset/285310473/Sarah_h.png/",
+   "based": "Copenhagen, Denmark",
+   "based_zh": "哥本哈根，丹麦",
+   "found_via": "https://sarahhomewood.com/bio",
+   "creator_id": "sarah-homewood"
+  },
+  {
+   "id": "person--vygandas-simbelis",
+   "name": "Vygandas Šimbelis",
+   "type": "researcher",
+   "themes": [
+    "art",
+    "biosignals"
+   ],
+   "fields": [
+    "affect"
+   ],
+   "description": "Lithuanian-Swedish artist ('Das Vegas') and Höök's PhD student (KTH 2018) whose post-digital art repurposes devices; Metaphone turned biodata into sound and image.",
+   "description_zh": "立陶宛裔瑞典艺术家（艺名 Das Vegas），Höök 的博士生（KTH 2018），其后数字艺术改造既有设备；作品 Metaphone 把生物数据转化为声音与图像。",
+   "known_for": [
+    "Metaphone (CHI 2014)",
+    "Repurposing Bits and Pieces of the Digital (CHI 2016)",
+    "Humanizing Technology Through Post-Digital Art (PhD thesis, KTH, 2018)"
+   ],
+   "url": "http://simbelis.com/biography/",
+   "based": "Stockholm, Sweden",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "found_via": "http://simbelis.com/biography/",
+   "creator_id": "vygandas-simbelis"
+  },
+  {
+   "id": "person--bin-zhu",
+   "name": "Bin Zhu",
+   "type": "researcher",
+   "themes": [
+    "meditation",
+    "soma-design"
+   ],
+   "fields": [
+    "practices"
+   ],
+   "description": "KTH PhD (2021, 'Designing for Mindfulness', co-supervised by Höök) on how digital technology can support mindfulness, distinguishing presence-in, presence-with and presence-through; now at Hangzhou City University.",
+   "description_zh": "KTH 博士（2021，《Designing for Mindfulness》，Höök 为合作导师），研究数字技术如何支持正念，区分“在其中”“与之同在”“透过它”三种临在；现任职于杭州城市学院。",
+   "known_for": [
+    "Designing Digital Mindfulness: Presence-In and Presence-With versus Presence-Through (CHI 2017)",
+    "Designing for Mindfulness (PhD thesis, KTH, 2021)"
+   ],
+   "url": "https://orcid.org/0000-0001-9960-1639",
+   "based": "Hangzhou, China",
+   "based_zh": "杭州，中国",
+   "found_via": "https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-296832"
+  },
+  {
+   "id": "person--kristina-andersen",
+   "name": "Kristina Andersen",
+   "type": "researcher",
+   "themes": [
+    "first-person",
+    "art"
+   ],
+   "fields": [
+    "methods"
+   ],
+   "description": "TU Eindhoven associate professor and Höök's PhD student (KTH 2017, 'Making Magic Machines') whose Magic Machine workshops use embodied making with found materials to surface people's desires about technology.",
+   "description_zh": "埃因霍温理工大学副教授，Höök 的博士生（KTH 2017，《Making Magic Machines》）。她的“魔法机器”工作坊用现成材料进行具身制作，引出人们对技术的欲望与想象。",
+   "known_for": [
+    "Making Magic Machines (PhD thesis, KTH, 2017)",
+    "The Magic Machine Workshops: Making Personal Design Knowledge (CHI 2019)",
+    "Ten Permissions for Facilitating (Live) Design Activities (DIS 2024)"
+   ],
+   "url": "https://www.tue.nl/en/research/researchers/kristina-andersen",
+   "image": "https://assets.w3.tue.nl/w/fileadmin/_processed_/b/d/csm_9568ae9a53c2527b2bf52d0c2c9f1a95_604ac44881.jpg",
+   "based": "Eindhoven, Netherlands",
+   "based_zh": "埃因霍温，荷兰",
+   "found_via": "https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-214017"
+  },
+  {
+   "id": "person--anders-lundstrom",
+   "name": "Anders Lundström",
+   "type": "researcher",
+   "themes": [
+    "soma-design",
+    "biosignals"
+   ],
+   "fields": [
+    "methods"
+   ],
+   "description": "Umeå University associate professor and Höök's PhD student (KTH 2016) on energy-sensitive interaction, now on human-powered interaction; co-author of Metaphone and co-supervisor of Windlin's Soma Bits PhD.",
+   "description_zh": "于默奥大学副教授，Höök 的博士生（KTH 2016），研究对能量敏感的交互，现研究人力驱动的交互；Metaphone 作者之一，也是 Windlin 的 Soma Bits 博士研究的合作导师。",
+   "known_for": [
+    "Metaphone (CHI 2014)",
+    "Designing Energy-Sensitive Interactions (PhD thesis, KTH, 2016)"
+   ],
+   "url": "https://www.umu.se/en/staff/anders-lundstrom/",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=uEiU8RsAAAAJ"
+    }
+   ],
+   "image": "https://www.umu.se/contentassets/1cdfed8ec0804d6f861385b4f12ed1c1/Profilbild.jpg?v=-827983940&width=185&quality=90",
+   "based": "Umeå, Sweden",
+   "based_zh": "于默奥，瑞典",
+   "found_via": "https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-185931"
+  },
+  {
+   "id": "person--thecla-schiphorst",
+   "name": "Thecla Schiphorst",
+   "type": "researcher",
+   "themes": [
+    "somaesthetics",
+    "movement-dance",
+    "haptics-touch",
+    "first-person"
+   ],
+   "fields": [
+    "foundations",
+    "somaesthetic",
+    "movement"
+   ],
+   "description": "Dancer, computer scientist and SFU professor who brought somatic practice and Laban analysis into HCI; a member of the original LifeForms team with Merce Cunningham, she made soft(n), whisper[s] and exhale and wrote on somatic connoisseurship.",
+   "description_zh": "舞者、计算机科学家、西蒙菲莎大学教授，把身体修习与 Laban 分析带入人机交互；她是与 Merce Cunningham 合作的 LifeForms 最初团队成员，创作了 soft(n)、whisper[s]、exhale，并论述“身体鉴赏力”。",
+   "known_for": [
+    "Life Forms choreography software (collaboration with Merce Cunningham, 1990–2005)",
+    "soft(n): toward a somaesthetics of touch (CHI EA 2009)",
+    "Self-evidence: applying somatic connoisseurship to experience design (CHI EA 2011)",
+    "The somatic turn in human-computer interaction (Interactions, 2018, with Lian Loke)"
+   ],
+   "url": "https://www.sfu.ca/siat/people/research-faculty/thecla-schiphorst.html",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Thecla_Schiphorst"
+    }
+   ],
+   "image": "https://www.sfu.ca/content/dam/sfu/siat/People/Research_Faculty/Thecla_Schiphorst.jpg",
+   "based": "Vancouver, Canada",
+   "based_zh": "温哥华，加拿大",
+   "born": 1955,
+   "found_via": "https://www.sfu.ca/siat/people/research-faculty/thecla-schiphorst.html",
+   "creator_id": "thecla-schiphorst"
+  },
+  {
+   "id": "person--lian-loke",
+   "name": "Lian Loke",
+   "type": "researcher",
+   "themes": [
+    "movement-dance",
+    "somaesthetics",
+    "first-person"
+   ],
+   "fields": [
+    "methods",
+    "movement"
+   ],
+   "description": "University of Sydney associate professor, dancer and performance artist whose 'Moving and Making Strange' (with Toni Robertson) gave interaction design a method for estranging habitual movement; co-author of 'The Somatic Turn in HCI'.",
+   "description_zh": "悉尼大学副教授、舞者与表演艺术家，她与 Toni Robertson 提出的“Moving and Making Strange”为交互设计提供了陌生化惯常动作的方法；《The Somatic Turn in HCI》作者之一。",
+   "known_for": [
+    "Understanding movement for interaction design: frameworks and approaches (Personal and Ubiquitous Computing, 2006)",
+    "Moving and Making Strange: a design methodology for movement-based interactive technologies (PhD thesis, UTS, 2009; TOCHI 2013 with Toni Robertson)",
+    "Intimate Aesthetics and Facilitated Interaction (2014, with George Khut)",
+    "The somatic turn in human-computer interaction (Interactions, 2018, with Thecla Schiphorst)"
+   ],
+   "url": "https://www.lianloke.com/",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=VTkrQ3AAAAAJ"
+    }
+   ],
+   "image": "https://www.lianloke.com/uploads/2/8/3/0/28300501/lianloke-bluesuit-sml-photocredit-alexwisser_orig.jpg",
+   "based": "Sydney, Australia",
+   "based_zh": "悉尼，澳大利亚",
+   "found_via": "https://www.lianloke.com/bio.html",
+   "creator_id": "lian-loke"
+  },
+  {
+   "id": "person--toni-robertson",
+   "name": "Toni Robertson",
+   "type": "researcher",
+   "themes": [
+    "phenomenology",
+    "movement-dance"
+   ],
+   "fields": [
+    "foundations",
+    "methods"
+   ],
+   "description": "Retired UTS professor whose taxonomy of embodied actions (1997) was an early phenomenological account of the body in cooperative work; she led the UTS movement-based interaction line with Loke and Larssen.",
+   "description_zh": "悉尼科技大学退休教授，1997 年提出的“具身行动分类”是对协同工作中身体最早的现象学阐述之一；她与 Loke、Larssen 一起开创了悉尼科技大学以动作为基础的交互研究。",
+   "known_for": [
+    "Cooperative Work and Lived Cognition: A Taxonomy of Embodied Actions (ECSCW 1997)",
+    "Understanding movement for interaction design: frameworks and approaches (PUC, 2006)",
+    "The feel dimension of technology interaction (TEI 2007)",
+    "Moving and Making Strange (TOCHI 2013, with Lian Loke)"
+   ],
+   "url": "https://scholar.google.com/citations?user=mOh-30QAAAAJ",
+   "image": "https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=mOh-30QAAAAJ&citpid=2",
+   "based": "Sydney, Australia",
+   "based_zh": "悉尼，澳大利亚",
+   "found_via": "https://scholar.google.com/citations?user=mOh-30QAAAAJ",
+   "creator_id": "toni-robertson"
+  },
+  {
+   "id": "person--caroline-hummels",
+   "name": "Caroline Hummels",
+   "type": "researcher",
+   "themes": [
+    "movement-dance",
+    "phenomenology"
+   ],
+   "fields": [
+    "foundations",
+    "methods"
+   ],
+   "description": "TU Eindhoven professor whose 'Move to get moved' and seven principles for embodied sensemaking (with Jelle van Dijk) shaped the Dutch school of movement-based, embodied interaction design; co-author of the 2018 first-person soma paper.",
+   "description_zh": "埃因霍温理工大学教授，她的“Move to get moved”以及与 Jelle van Dijk 提出的具身意义建构七原则，塑造了荷兰以动作为基础的具身交互设计学派；2018 年第一人称身体设计论文作者之一。",
+   "known_for": [
+    "Move to get moved: methods, tools and knowledge to design for expressive and rich movement-based interaction (PUC, 2006)",
+    "Seven Principles to Design for Embodied Sensemaking (TEI 2015, with Jelle van Dijk)"
+   ],
+   "url": "https://www.tue.nl/en/research/researchers/caroline-hummels",
+   "image": "https://assets.w3.tue.nl/w/fileadmin/research_import/dafffe503a6f849dbf765533e4ed461b.jpg",
+   "based": "Eindhoven, Netherlands",
+   "based_zh": "埃因霍温，荷兰",
+   "found_via": "https://www.tue.nl/en/research/researchers/caroline-hummels",
+   "creator_id": "caroline-hummels"
+  },
+  {
+   "id": "person--dag-svanaes",
+   "name": "Dag Svanæs",
+   "type": "researcher",
+   "themes": [
+    "phenomenology",
+    "somaesthetics"
+   ],
+   "fields": [
+    "foundations"
+   ],
+   "description": "NTNU professor whose writing on kinaesthetic thinking and 'interaction design for and with the lived body' (TOCHI 2013) brought Merleau-Ponty's phenomenology into HCI, a core theoretical source for soma design.",
+   "description_zh": "挪威科技大学教授，他关于“动觉思考”与“为活的身体、与活的身体一起做交互设计”（TOCHI 2013）的论述，把梅洛-庞蒂的现象学带入人机交互，是身体设计的核心理论来源。",
+   "known_for": [
+    "Kinaesthetic thinking: the tacit dimension of interaction design (Computers in Human Behavior, 1997)",
+    "Understanding Interactivity: Steps to a Phenomenology of Human-Computer Interaction (PhD, NTNU, 2000)",
+    "Interaction design for and with the lived body: some implications of Merleau-Ponty's phenomenology (TOCHI 2013)"
+   ],
+   "url": "https://www.ntnu.edu/employees/dag.svanes",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=rrAsOFsAAAAJ"
+    }
+   ],
+   "image": "https://backends.it.ntnu.no/user-profile-service/rest/files/455904be-f56f-30fb-9c86-768758ef8543",
+   "based": "Trondheim, Norway",
+   "based_zh": "特隆赫姆，挪威",
+   "born": 1959,
+   "found_via": "https://www.ntnu.edu/employees/dag.svanes",
+   "creator_id": "dag-svanaes"
+  },
+  {
+   "id": "person--katherine-isbister",
+   "name": "Katherine Isbister",
+   "type": "researcher",
+   "themes": [
+    "play-exertion",
+    "affective",
+    "haptics-touch"
+   ],
+   "fields": [
+    "movement",
+    "social"
+   ],
+   "description": "UC Santa Cruz professor of computational media who co-developed the Sensual Evaluation Instrument with Höök and designs movement games and playful wearables for emotion and social connection, from Yamove! to the self-soothing toy Purrble.",
+   "description_zh": "加州大学圣克鲁兹分校计算媒体教授，与 Höök 共同开发感官评估工具（SEI），并为情感与社会连接设计动作游戏和好玩的可穿戴，从 Yamove! 到自我安抚玩具 Purrble。",
+   "known_for": [
+    "The Sensual Evaluation Instrument (2006, with Höök et al.)",
+    "Yamove! A Movement Synchrony Game That Choreographs Social Interaction (Human Technology, 2016)",
+    "How Games Move Us (MIT Press, 2016)",
+    "Playful Wearables (MIT Press, 2024)"
+   ],
+   "url": "https://www.katherineinterface.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Katherine_Isbister"
+    }
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Isbister2017.png",
+   "based": "Santa Cruz, US",
+   "based_zh": "圣克鲁兹，美国",
+   "found_via": "https://www.katherineinterface.com/",
+   "creator_id": "katherine-isbister"
+  },
+  {
+   "id": "person--florian-mueller",
+   "name": "Florian 'Floyd' Mueller",
+   "type": "researcher",
+   "themes": [
+    "play-exertion",
+    "biosignals"
+   ],
+   "fields": [
+    "movement",
+    "machines-xr"
+   ],
+   "description": "Monash University professor and director of the Exertion Games Lab, which designs bodily play, from exertion interfaces and Jogging over a Distance to human-computer integration where technology works inside and with the body.",
+   "description_zh": "莫纳什大学教授、Exertion Games Lab 主任，其实验室设计身体游戏，从运动界面、异地同跑（Jogging over a Distance）到让技术在身体之内、与身体协作的人机融合。",
+   "known_for": [
+    "Exertion Interfaces: sports over a distance for social bonding and fun (CHI 2003)",
+    "Jogging over a Distance between Europe and Australia (UIST 2010)",
+    "Designing Sports: a framework for exertion games (CHI 2011)",
+    "Next Steps for Human-Computer Integration (CHI 2020)"
+   ],
+   "url": "https://www.florianfloydmueller.com/",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=DUrytgkAAAAJ"
+    }
+   ],
+   "image": "http://static1.squarespace.com/static/618f5569166b4a64a5887f82/t/6190aa6d13d51f545a4bc2ac/1636870770097/florian_floyd_mueller.jpg?format=1500w",
+   "based": "Melbourne, Australia",
+   "based_zh": "墨尔本，澳大利亚",
+   "found_via": "https://www.florianfloydmueller.com/",
+   "creator_id": "florian-mueller"
+  },
+  {
+   "id": "person--steve-benford",
+   "name": "Steve Benford",
+   "type": "researcher",
+   "themes": [
+    "soma-design",
+    "art",
+    "xr-embodiment"
+   ],
+   "fields": [
+    "methods",
+    "movement"
+   ],
+   "description": "Co-founder of Nottingham's Mixed Reality Lab whose trajectories framework for performance and cultural experiences was extended to soma design with Höök and Tennent; co-author of 'Unpacking Non-Dualistic Design' and lead of Somabotics.",
+   "description_zh": "诺丁汉混合现实实验室联合创始人，他为表演与文化体验提出的“轨迹”框架，后与 Höök、Tennent 一起扩展到身体设计；《Unpacking Non-Dualistic Design》作者之一，主持 Somabotics 项目。",
+   "known_for": [
+    "Performing Mixed Reality (MIT Press, 2011, with Gabriella Giannachi)",
+    "Uncomfortable Interactions (CHI 2012)",
+    "Articulating Soma Experiences using Trajectories (CHI 2021)",
+    "Unpacking Non-Dualistic Design: The Soma Design Case (TOCHI 2021)"
+   ],
+   "url": "https://www.nottingham.ac.uk/computerscience/people/steve.benford",
+   "image": "https://www.nottingham.ac.uk/computerscience/people/staff-images/stevebenford.jpg",
+   "based": "Nottingham, UK",
+   "based_zh": "诺丁汉，英国",
+   "found_via": "https://www.nottingham.ac.uk/computerscience/people/steve.benford",
+   "creator_id": "steve-benford"
+  },
+  {
+   "id": "person--paul-tennent",
+   "name": "Paul Tennent",
+   "type": "researcher",
+   "themes": [
+    "soma-design",
+    "play-exertion",
+    "xr-embodiment"
+   ],
+   "fields": [
+    "methods",
+    "movement"
+   ],
+   "description": "Nottingham associate professor who builds breath-controlled games, VR swings and rides, and led the Nottingham–KTH work on soma trajectories and sensory misalignment.",
+   "description_zh": "诺丁汉大学副教授，制作以呼吸控制的游戏、VR 秋千与游乐设施，主导了诺丁汉与 KTH 在身体轨迹与感官错位方面的合作研究。",
+   "known_for": [
+    "Breathalising Games (2011)",
+    "Soma Design and Sensory Misalignment (CHI 2020)",
+    "Articulating Soma Experiences using Trajectories (CHI 2021)",
+    "Unpacking Non-Dualistic Design: The Soma Design Case (TOCHI 2021)"
+   ],
+   "url": "https://www.nottingham.ac.uk/computerscience/people/paul.tennent",
+   "based": "Nottingham, UK",
+   "based_zh": "诺丁汉，英国",
+   "found_via": "https://www.nottingham.ac.uk/computerscience/people/paul.tennent",
+   "creator_id": "paul-tennent"
+  },
+  {
+   "id": "person--elena-marquez-segura",
+   "name": "Elena Márquez Segura",
+   "type": "researcher",
+   "themes": [
+    "play-exertion",
+    "movement-dance",
+    "first-person"
+   ],
+   "fields": [
+    "methods",
+    "movement"
+   ],
+   "description": "UC3M researcher (PhD Uppsala 2016, co-supervised by Höök) who created embodied design methods such as embodied sketching and bodystorming for movement-based play; co-author of the 2018 first-person soma paper.",
+   "description_zh": "马德里卡洛斯三世大学研究者（乌普萨拉大学博士 2016，Höök 为合作导师），为以动作为基础的游戏提出了具身草图、身体风暴等具身设计方法；2018 年第一人称身体设计论文作者之一。",
+   "known_for": [
+    "The Design Space of Body Games (CHI 2013)",
+    "Embodied Sketching (CHI 2016)",
+    "Bodystorming for movement-based interaction design (Human Technology, 2016)",
+    "Yamove! (Human Technology, 2016, with Isbister et al.)"
+   ],
+   "url": "https://imbodylab.com/about/",
+   "image": "https://imbodylab.com/wp-content/uploads/2025/12/Elena_Marquez_Segura.jpeg",
+   "based": "Madrid, Spain",
+   "based_zh": "马德里，西班牙",
+   "found_via": "https://orcid.org/0000-0002-3124-2286",
+   "creator_id": "elena-marquez-segura"
+  },
+  {
+   "id": "person--danielle-wilde",
+   "name": "Danielle Wilde",
+   "type": "researcher",
+   "themes": [
+    "art",
+    "movement-dance",
+    "more-than-human"
+   ],
+   "fields": [
+    "methods",
+    "movement"
+   ],
+   "description": "Professor at Umeå Institute of Design and SDU who made performative body devices such as hipDisk and wrote on embodying embodied design research techniques; she now applies embodied research-through-design to food systems.",
+   "description_zh": "于默奥设计学院与南丹麦大学教授，创作了 hipDisk 等表演性身体装置，并论述如何“具身化”具身设计研究方法；现将具身的设计研究用于食物系统。",
+   "known_for": [
+    "hipDisk (CHI EA 2012)",
+    "Embodying Embodied Design Research Techniques (2015)"
+   ],
+   "url": "https://www.daniellewilde.com/wilde/",
+   "based": "Umeå, Sweden",
+   "based_zh": "于默奥，瑞典",
+   "found_via": "https://www.daniellewilde.com/wilde/",
+   "creator_id": "danielle-wilde"
+  },
+  {
+   "id": "person--sarah-fdili-alaoui",
+   "name": "Sarah Fdili Alaoui",
+   "type": "researcher",
+   "themes": [
+    "movement-dance",
+    "art",
+    "first-person"
+   ],
+   "fields": [
+    "movement"
+   ],
+   "description": "Dancer and professor at UAL's Creative Computing Institute who integrates computation into choreography and somatic practice through Laban movement qualities, questioning how technology enters dance-making.",
+   "description_zh": "舞者、伦敦艺术大学创意计算研究院教授，借 Laban 动作质感把计算融入编舞与身体修习，并追问技术如何进入舞蹈创作。",
+   "known_for": [
+    "From dance to touch: movement qualities for interaction design (CHI EA 2011)",
+    "Seeing, Sensing and Recognizing Laban Movement Qualities (CHI 2017)",
+    "Making an Interactive Dance Piece: tensions in integrating technology in art (DIS 2019)"
+   ],
+   "url": "https://saralaoui.com/",
+   "image": "https://saralaoui.com/wp-content/uploads/2018/01/Emma_Feb_2015-22-of-45.jpg",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "found_via": "https://saralaoui.com/",
+   "creator_id": "sarah-fdili-alaoui"
+  },
+  {
+   "id": "person--jules-francoise",
+   "name": "Jules Françoise",
+   "type": "researcher",
+   "themes": [
+    "movement-dance",
+    "first-person"
+   ],
+   "fields": [
+    "movement",
+    "methods"
+   ],
+   "description": "CNRS researcher at LISN working on movement sonification and interactive machine learning; his work with Schiphorst and Fdili Alaoui on kinesthetic awareness brought second-person, micro-phenomenological inquiry into somatic interaction design.",
+   "description_zh": "法国国家科学研究中心（LISN）研究员，研究动作声音化与交互式机器学习；他与 Schiphorst、Fdili Alaoui 关于动觉觉察的研究，把第二人称、微观现象学的访谈带入身体交互设计。",
+   "known_for": [
+    "Motion-Sound Mapping by Demonstration (PhD thesis, UPMC/IRCAM, 2015)",
+    "Sensori-Motor Learning with Movement Sonification (Frontiers in Neuroscience, 2016)",
+    "Designing for Kinesthetic Awareness: revealing user experiences through second-person inquiry (CHI 2017)",
+    "Seeing, Sensing and Recognizing Laban Movement Qualities (CHI 2017)"
+   ],
+   "url": "https://julesfrancoise.com/",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=8yajlg8AAAAJ"
+    }
+   ],
+   "image": "https://julesfrancoise.com/jules-02.jpeg",
+   "based": "Paris-Saclay, France",
+   "based_zh": "巴黎-萨克雷，法国",
+   "found_via": "https://julesfrancoise.com/",
+   "creator_id": "jules-francoise"
+  },
+  {
+   "id": "person--frederic-bevilacqua",
+   "name": "Frédéric Bevilacqua",
+   "type": "researcher",
+   "themes": [
+    "movement-dance",
+    "health"
+   ],
+   "fields": [
+    "movement"
+   ],
+   "description": "Head of IRCAM's Sound Music Movement Interaction team, whose gesture following and movement sonification (e.g. Interlude) underpin much movement-sound interaction, including sound-guided rehabilitation.",
+   "description_zh": "IRCAM“声音-音乐-动作交互”团队负责人，他的手势跟随与动作声音化研究（如 Interlude）是许多动作-声音交互的基础，包括以声音引导的康复。",
+   "known_for": [
+    "Interlude project (2008–2010; 2011 Guthman Prize for new musical instruments)",
+    "Continuous Realtime Gesture Following and Recognition (LNCS, 2010)",
+    "Sensori-Motor Learning with Movement Sonification (Frontiers in Neuroscience, 2016)"
+   ],
+   "url": "https://www.stms-lab.fr/person/frederic-bevilacqua/",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=4k-k6SEAAAAJ"
+    }
+   ],
+   "image": "https://www.stms-lab.fr/media/uploads/personnels/ircamiens/thumbs/frederic-bevilacqua.jpg/frederic-bevilacqua-120x120.jpg",
+   "based": "Paris, France",
+   "based_zh": "巴黎，法国",
+   "found_via": "https://www.stms-lab.fr/person/frederic-bevilacqua/",
+   "creator_id": "frederic-bevilacqua"
+  },
+  {
+   "id": "person--ana-tajadura-jimenez",
+   "name": "Ana Tajadura-Jiménez",
+   "type": "researcher",
+   "themes": [
+    "xr-embodiment",
+    "haptics-touch",
+    "health"
+   ],
+   "fields": [
+    "machines-xr",
+    "affect"
+   ],
+   "description": "Head of the i_mBODY Lab at UC3M who uses sound and multisensory feedback to change how people feel their own body, as in 'As Light as your Footsteps', where altered walking sounds change perceived body weight.",
+   "description_zh": "马德里卡洛斯三世大学 i_mBODY 实验室负责人，用声音与多感官反馈改变人对自身身体的感受，例如《As Light as your Footsteps》：改变脚步声，使人觉得身体变轻或变重。",
+   "known_for": [
+    "Embodied auditory perception: the emotional impact of approaching and receding sound sources (Emotion, 2010)",
+    "Action sounds recalibrate perceived tactile distance (2012)",
+    "As Light as your Footsteps: altering walking sounds to change perceived body weight (CHI 2015)",
+    "BODYinTRANSIT project on multisensory body transformation"
+   ],
+   "url": "https://imbodylab.com/about/",
+   "image": "https://imbodylab.com/wp-content/uploads/2024/11/Team-Ana-Tajadura-Jimenez.jpg",
+   "based": "Madrid, Spain",
+   "based_zh": "马德里，西班牙",
+   "found_via": "https://imbodylab.com/about/",
+   "creator_id": "ana-tajadura-jimenez"
+  },
+  {
+   "id": "person--nadia-bianchi-berthouze",
+   "name": "Nadia Bianchi-Berthouze",
+   "type": "researcher",
+   "themes": [
+    "affective",
+    "health",
+    "movement-dance"
+   ],
+   "fields": [
+    "care",
+    "affect"
+   ],
+   "description": "UCL Interaction Centre professor of affective computing and the body who studies emotion in movement and touch and designs movement and breathing sonification to build confidence for people with chronic pain.",
+   "description_zh": "伦敦大学学院交互中心教授，研究情感计算与身体，考察动作与触碰中的情绪，并为慢性疼痛者设计动作与呼吸的声音化，帮助他们重建动作信心。",
+   "known_for": [
+    "Does Body Movement Engage You More in Digital Game Play? and Why? (ACII 2007)",
+    "Affective Body Expression Perception and Recognition: A Survey (IEEE Transactions on Affective Computing, 2013)",
+    "As Light as your Footsteps (CHI 2015, with Tajadura-Jiménez)"
+   ],
+   "url": "https://orcid.org/0000-0001-8921-0044",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "found_via": "https://orcid.org/0000-0001-8921-0044",
+   "creator_id": "nadia-bianchi-berthouze"
+  },
+  {
+   "id": "person--noura-howell",
+   "name": "Noura Howell",
+   "type": "researcher",
+   "themes": [
+    "biosignals",
+    "affective",
+    "feminist"
+   ],
+   "fields": [
+    "affect"
+   ],
+   "description": "Designer-researcher (now at SDU, formerly Georgia Tech's Future Feelings Lab) who critically designs emotional biosensing, showing how ambiguous skin conductance and heart sounds can open reflection instead of fixing emotions as data.",
+   "description_zh": "设计研究者（现任南丹麦大学，曾主持佐治亚理工 Future Feelings Lab），以批判性设计探讨情绪生物传感，展示模糊的皮电与心音如何引发反思，而不是把情绪固定为数据。",
+   "known_for": [
+    "Biosignals as Social Cues: ambiguity and emotional interpretation in social displays of skin conductance (DIS 2016)",
+    "Tensions of Data-Driven Reflection: a case study of real-time emotional biosensing (CHI 2018)",
+    "Emotional Biosensing: exploring critical alternatives (CSCW 2018)"
+   ],
+   "url": "https://nourahowell.com/",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=urDLnnEAAAAJ"
+    }
+   ],
+   "image": "https://nourahowell.com/static/img/largest/me_nye_shoot_1_square.jpg",
+   "based": "Vejle, Denmark",
+   "based_zh": "瓦埃勒，丹麦",
+   "found_via": "https://nourahowell.com/about",
+   "creator_id": "noura-howell"
+  },
+  {
+   "id": "person--mirjana-prpa",
+   "name": "Mirjana Prpa",
+   "type": "researcher",
+   "themes": [
+    "meditation",
+    "xr-embodiment",
+    "first-person"
+   ],
+   "fields": [
+    "somaesthetic",
+    "methods"
+   ],
+   "description": "Designer-researcher (PhD SFU, now HKUST Guangzhou) who creates breath-based VR and biofeedback and applies micro-phenomenology to design research ('Articulating Experience', CHI 2020).",
+   "description_zh": "设计研究者（西蒙菲莎大学博士，现任香港科技大学（广州）），创作以呼吸为基础的 VR 与生物反馈，并把微观现象学用于设计研究（《Articulating Experience》，CHI 2020）。",
+   "known_for": [
+    "Attending to Breath: breath-based VR experiences (DIS 2018)",
+    "Inhaling and Exhaling: How Technologies Can Perceptually Extend our Breath Awareness (CHI 2020)",
+    "Articulating Experience: reflections from experts applying micro-phenomenology to design research in HCI (CHI 2020)"
+   ],
+   "url": "https://orcid.org/0000-0003-0368-6581",
+   "based": "Guangzhou, China",
+   "based_zh": "广州，中国",
+   "found_via": "https://orcid.org/0000-0003-0368-6581",
+   "creator_id": "mirjana-prpa"
+  },
+  {
+   "id": "person--philippe-pasquier",
+   "name": "Philippe Pasquier",
+   "type": "researcher",
+   "themes": [
+    "movement-dance",
+    "robots-ai"
+   ],
+   "fields": [
+    "movement"
+   ],
+   "description": "SFU professor and director of the Metacreation Lab for Creative AI who founded the MOCO conference on movement and computing and co-supervised breath and micro-phenomenology work with Schiphorst.",
+   "description_zh": "西蒙菲莎大学教授、Metacreation 创意 AI 实验室主任，创办了运动与计算会议 MOCO，并与 Schiphorst 合作指导呼吸与微观现象学方向的研究。",
+   "known_for": [
+    "Founder of the ACM International Conference on Movement and Computing (MOCO)",
+    "Mova: interactive movement analytics platform (MOCO 2014)",
+    "Inhaling and Exhaling (CHI 2020, with Prpa, Schiphorst et al.)",
+    "Articulating Experience (CHI 2020, with Prpa, Fdili Alaoui, Schiphorst)"
+   ],
+   "url": "https://www.sfu.ca/siat/people/research-faculty/philippe-pasquier.html",
+   "image": "https://www.sfu.ca/content/dam/sfu/siat/People/Research_Faculty/Philippe_Pasquier.jpg",
+   "based": "Vancouver, Canada",
+   "based_zh": "温哥华，加拿大",
+   "found_via": "https://www.sfu.ca/siat/people/research-faculty/philippe-pasquier.html"
+  },
+  {
+   "id": "person--baptiste-caramiaux",
+   "name": "Baptiste Caramiaux",
+   "type": "researcher",
+   "themes": [
+    "movement-dance",
+    "robots-ai"
+   ],
+   "fields": [
+    "movement",
+    "machines-xr"
+   ],
+   "description": "CNRS researcher at ISIR, Sorbonne, who works on machine learning for expressive gesture and muscle sensing in musical interaction, and on human-centred AI in the arts; co-author of the 2018 first-person soma paper.",
+   "description_zh": "索邦大学 ISIR 的法国国家科学研究中心研究员，研究面向表现性手势与肌肉传感的机器学习、音乐交互，以及艺术中的以人为本 AI；2018 年第一人称身体设计论文作者之一。",
+   "known_for": [
+    "Adaptive Gesture Recognition with Variation Estimation for Interactive Systems (ACM TiiS, 2014)",
+    "Understanding Gesture Expressivity through Muscle Sensing (TOCHI 2015)",
+    "Mogees gesture-based musical product (Mogees Ltd., 2015)",
+    "Embracing First-Person Perspectives in Soma-Based Design (Informatics, 2018)"
+   ],
+   "url": "https://baptistecaramiaux.com/",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=OUr2ddMAAAAJ"
+    }
+   ],
+   "image": "https://baptistecaramiaux.com/assets/img/baptiste-portrait-isir-2024.jpg?bb5c772f93465f9099747971954f5aed",
+   "based": "Paris, France",
+   "based_zh": "巴黎，法国",
+   "found_via": "https://baptistecaramiaux.com/bio/",
+   "creator_id": "baptiste-caramiaux"
+  },
+  {
+   "id": "person--katta-spiel",
+   "name": "Katta Spiel",
+   "type": "researcher",
+   "themes": [
+    "feminist",
+    "health"
+   ],
+   "fields": [
+    "intimate",
+    "care"
+   ],
+   "description": "TU Wien researcher on critical access in embodied computing who centres disabled, neurodivergent and non-binary bodies; 'The Bodies of TEI' audits the normative body assumptions of embodied interaction research.",
+   "description_zh": "维也纳工业大学研究者，关注具身计算中的“批判性可及”，以残障、神经多样与非二元性别的身体为中心；《The Bodies of TEI》审视了具身交互研究中关于身体的规范性假设。",
+   "known_for": [
+    "Agency of Autistic Children in Technology Research—A Critical Literature Review (TOCHI 2019)",
+    "Patching Gender: Non-binary Utopias in HCI (CHI EA 2019)",
+    "The Bodies of TEI – Investigating Norms and Assumptions in the Design of Embodied Interaction (TEI 2021)"
+   ],
+   "url": "https://katta.mere.st/",
+   "image": "https://hci.tuwien.ac.at/img/people/katta-spiel/profile.jpg",
+   "based": "Vienna, Austria",
+   "based_zh": "维也纳，奥地利",
+   "found_via": "https://katta.mere.st/about/",
+   "creator_id": "katta-spiel"
+  },
+  {
+   "id": "person--scott-klemmer",
+   "name": "Scott Klemmer",
+   "type": "researcher",
+   "themes": [
+    "phenomenology"
+   ],
+   "fields": [
+    "foundations"
+   ],
+   "description": "UC San Diego professor and co-founder of its Design Lab whose 'How Bodies Matter: Five Themes for Interaction Design' (DIS 2006) is a widely cited statement of embodied cognition for interaction design.",
+   "description_zh": "加州大学圣地亚哥分校教授、设计实验室联合创始人，其《How Bodies Matter: Five Themes for Interaction Design》（DIS 2006）是交互设计中被广泛引用的具身认知宣言。",
+   "known_for": [
+    "Papier-Mâché: toolkit support for tangible input (CHI 2004)",
+    "How Bodies Matter: Five Themes for Interaction Design (DIS 2006)"
+   ],
+   "url": "https://d.ucsd.edu/srk/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Scott_Klemmer"
+    }
+   ],
+   "image": "https://d.ucsd.edu/srk/images/Portrait-2016-WebLarge.jpg",
+   "based": "San Diego, US",
+   "based_zh": "圣地亚哥，美国",
+   "found_via": "https://en.wikipedia.org/wiki/Scott_Klemmer",
+   "creator_id": "scott-klemmer"
+  },
+  {
+   "id": "person--paul-dourish",
+   "name": "Paul Dourish",
+   "type": "researcher",
+   "themes": [
+    "phenomenology"
+   ],
+   "fields": [
+    "foundations"
+   ],
+   "description": "UC Irvine professor whose 'Where the Action Is' (2001) introduced embodied interaction, grounding HCI in the phenomenology of Heidegger, Schutz and Merleau-Ponty; the theoretical ground soma design builds on.",
+   "description_zh": "加州大学尔湾分校教授，《Where the Action Is》（2001）提出“具身交互”，以海德格尔、舒茨与梅洛-庞蒂的现象学为人机交互奠基，是身体设计所依托的理论基础。",
+   "known_for": [
+    "Embodied Interaction: Exploring the Foundations of a New Approach to HCI (1999 paper)",
+    "Where the Action Is: The Foundations of Embodied Interaction (MIT Press, 2001)",
+    "Divining a Digital Future (MIT Press, 2011, with Genevieve Bell)",
+    "The Stuff of Bits (MIT Press, 2017)"
+   ],
+   "url": "https://ics.uci.edu/people/paul-dourish/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Paul_Dourish"
+    }
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Paul_Dourish_in_Pasadena%2C_2010.jpg",
+   "based": "Irvine, US",
+   "based_zh": "尔湾，美国",
+   "born": 1966,
+   "found_via": "https://en.wikipedia.org/wiki/Paul_Dourish",
+   "creator_id": "paul-dourish"
+  },
+  {
+   "id": "person--eva-hornecker",
+   "name": "Eva Hornecker",
+   "type": "researcher",
+   "themes": [
+    "haptics-touch",
+    "movement-dance"
+   ],
+   "fields": [
+    "foundations"
+   ],
+   "description": "Bauhaus-Universität Weimar professor whose frameworks for tangible interaction, physical space and the role of physicality are core references for embodied and whole-body interaction.",
+   "description_zh": "包豪斯魏玛大学教授，她关于实体交互、物理空间与“物质性的角色”的框架，是具身与全身交互的核心参考。",
+   "known_for": [
+    "Getting a Grip on Tangible Interaction: a framework on physical space and social interaction (CHI 2006, with Jacob Buur)",
+    "Tangible User Interfaces: Past, Present, and Future Directions (2010, with Orit Shaer)",
+    "The Role of Physicality in Tangible and Embodied Interactions (Interactions, 2011)",
+    "Human-Computer Interactions in Museums (2019, with Luigina Ciolfi)"
+   ],
+   "url": "http://www.ehornecker.de/",
+   "image": "http://www.ehornecker.de/s1579_0573-face.jpg",
+   "based": "Weimar, Germany",
+   "based_zh": "魏玛，德国",
+   "found_via": "http://www.ehornecker.de/",
+   "creator_id": "eva-hornecker"
+  },
+  {
+   "id": "person--george-khut",
+   "name": "George Poonkhin Khut",
+   "type": "researcher",
+   "themes": [
+    "biosignals",
+    "art",
+    "health"
+   ],
+   "fields": [
+    "affect",
+    "care"
+   ],
+   "description": "Chinese-Australian artist at UNSW who since 2004 has made participatory biofeedback artworks driven by heartbeat and breath (Cardiomorphologies) and brought them into hospitals with the BrightHearts app for children's procedural pain.",
+   "description_zh": "华裔澳大利亚艺术家，任教于新南威尔士大学。自 2004 年起创作由心跳与呼吸驱动的参与式生物反馈作品（Cardiomorphologies），并以 BrightHearts 应用把它带入医院，缓解儿童在医疗操作中的疼痛。",
+   "known_for": [
+    "Cardiomorphologies (biofeedback artwork, from 2004; IEEE MultiMedia 2007)",
+    "Development and Evaluation of Participant-Centred Biofeedback Artworks (Doctor of Creative Arts exegesis, Western Sydney University, 2006)",
+    "Designing Biofeedback Artworks for Relaxation (CHI EA 2016)",
+    "BrightHearts biofeedback app for children's procedural pain (Pain Practice, 2018)"
+   ],
+   "url": "https://georgekhut.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/George_Poonkhin_Khut"
+    }
+   ],
+   "based": "Sydney, Australia",
+   "based_zh": "悉尼，澳大利亚",
+   "born": 1969,
+   "found_via": "https://georgekhut.com/research",
+   "creator_id": "george-poonkhin-khut"
+  },
+  {
+   "id": "person--patrizia-marti",
+   "name": "Patrizia Marti",
+   "type": "researcher",
+   "themes": [
+    "health",
+    "robots-ai"
+   ],
+   "fields": [
+    "care"
+   ],
+   "description": "University of Siena associate professor in experience design, formerly at TU Eindhoven, who designs for health and inclusion, including socially assistive robots in dementia care; co-author of the 2018 first-person soma paper.",
+   "description_zh": "锡耶纳大学体验设计副教授，曾任教埃因霍温理工大学，为健康与包容而设计，包括用于失智症照护的社会辅助机器人；2018 年第一人称身体设计论文作者之一。",
+   "known_for": [
+    "Socially Assistive Robotics in the Treatment of Behavioural and Psychological Symptoms of Dementia (BioRob 2006)",
+    "Embracing First-Person Perspectives in Soma-Based Design (Informatics, 2018)"
+   ],
+   "url": "https://docenti.unisi.it/it/marti",
+   "image": "https://docenti.unisi.it/sites/dc2/files/styles/persona/public/foto/19-04-2023/Schermata%202022-12-20%20alle%2008.58.22.png?itok=R7wrz0O8",
+   "based": "Siena, Italy",
+   "based_zh": "锡耶纳，意大利",
+   "found_via": "https://docenti.unisi.it/it/marti"
+  },
+  {
+   "id": "person--danielle-lottridge",
+   "name": "Danielle Lottridge",
+   "type": "researcher",
+   "themes": [
+    "affective",
+    "movement-dance"
+   ],
+   "fields": [
+    "affect",
+    "social"
+   ],
+   "description": "University of Auckland associate professor and registered dance/movement therapist who works on affective interaction and remote intimacy (Sharing Empty Moments); co-author of the 2018 first-person soma paper.",
+   "description_zh": "奥克兰大学副教授、注册舞蹈/动作治疗师，研究情感交互与远程亲密（Sharing Empty Moments）；2018 年第一人称身体设计论文作者之一。",
+   "known_for": [
+    "Sharing Empty Moments: design for remote couples (CHI 2009)",
+    "Affective Interaction: understanding, evaluating, and designing for human emotion (Reviews of Human Factors and Ergonomics, 2011)",
+    "Embracing First-Person Perspectives in Soma-Based Design (Informatics, 2018)"
+   ],
+   "url": "https://profiles.auckland.ac.nz/d-lottridge",
+   "based": "Auckland, New Zealand",
+   "based_zh": "奥克兰，新西兰",
+   "found_via": "https://profiles.auckland.ac.nz/d-lottridge"
+  },
+  {
+   "id": "person--jodi-forlizzi",
+   "name": "Jodi Forlizzi",
+   "type": "researcher",
+   "themes": [
+    "robots-ai"
+   ],
+   "fields": [
+    "methods"
+   ],
+   "description": "Carnegie Mellon professor who helped define experience-centred design and research through design in HCI, and studies social robots; co-author of the 2018 first-person soma paper.",
+   "description_zh": "卡内基梅隆大学教授，参与奠定人机交互中的以体验为中心的设计与“通过设计做研究”，并研究社交机器人；2018 年第一人称身体设计论文作者之一。",
+   "known_for": [
+    "Understanding Experience in Interactive Systems (DIS 2004, with Katja Battarbee)",
+    "Research through Design as a Method for Interaction Design Research in HCI (CHI 2007, with Zimmerman and Evenson)",
+    "How robotic products become social products (2007)"
+   ],
+   "url": "https://www.jodiforlizzi.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Jodi_Forlizzi"
+    },
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=Hyhp_zUAAAAJ"
+    }
+   ],
+   "image": "https://hcii.cmu.edu/sites/default/files/styles/person_portrait_image/public/migrated_files/jodi_lores_scs.jpg.webp?h=0f09c2f2&itok=Pg5GLamN",
+   "based": "Pittsburgh, US",
+   "based_zh": "匹兹堡，美国",
+   "found_via": "https://hcii.cmu.edu/people/jodi-forlizzi"
+  },
+  {
+   "id": "person--cumhur-erkut",
+   "name": "Cumhur Erkut",
+   "type": "researcher",
+   "themes": [
+    "somaesthetics",
+    "movement-dance"
+   ],
+   "fields": [
+    "movement"
+   ],
+   "description": "Aalborg University Copenhagen associate professor in sonic and embodied interaction who teaches somaesthetics-informed embodied interaction courses (with Sofia Dahl); co-author of the 2018 first-person soma paper.",
+   "description_zh": "奥尔堡大学哥本哈根校区副教授，研究声音与具身交互，与 Sofia Dahl 开设以身体美学为基础的具身交互课程；2018 年第一人称身体设计论文作者之一。",
+   "known_for": [
+    "Embracing First-Person Perspectives in Soma-Based Design (Informatics, 2018)",
+    "Embodied Interaction through Movement in a Course Work (MOCO 2017, with S. Dahl)",
+    "Incorporating Virtual Reality in an Embodied Interaction Course (MOCO 2018, with S. Dahl)",
+    "Workshop 'Training, Sharing, and Enacting: Somaesthetics of Rhythmic Interaction' (2017, with S. Dahl)"
+   ],
+   "url": "https://vbn.aau.dk/en/persons/cer/",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=NPYFs5EAAAAJ"
+    }
+   ],
+   "image": "https://vbn.aau.dk/files-asset/716393789/CumhurErkut.jpg?w=160&f=jpg",
+   "based": "Copenhagen, Denmark",
+   "based_zh": "哥本哈根，丹麦",
+   "found_via": "https://vbn.aau.dk/en/persons/cer/"
+  },
+  {
+   "id": "person--nassrin-hajinejad",
+   "name": "Nassrin Hajinejad",
+   "type": "researcher",
+   "themes": [
+    "movement-dance",
+    "somaesthetics"
+   ],
+   "fields": [
+    "movement"
+   ],
+   "description": "Professor of media informatics at HTW Berlin whose GangKlang project sonified walking to renew walkers' sense of the embodied qualities of their gait; co-author of the 2018 first-person soma paper.",
+   "description_zh": "柏林应用技术大学（HTW）媒体信息学教授，其 GangKlang 项目把行走声音化，让人重新感受步态的身体品质；2018 年第一人称身体设计论文作者之一。",
+   "known_for": [
+    "GangKlang: sonic interaction for walking experiences (Audio Mostly 2016)",
+    "Embracing First-Person Perspectives in Soma-Based Design (Informatics, 2018)"
+   ],
+   "url": "https://www.fokus.fraunhofer.de/en/dps/news/hajinejad_professur_2024_10.html",
+   "image": "https://www.fokus.fraunhofer.de/content/businesscards/fokus/dps/nassrin_hajinejad/jcr:content/businesscard/image.img.1col.png/1741706611711/DPS-Portrait-Nassrin-Hajinejad-2024-1200x675.png",
+   "based": "Berlin, Germany",
+   "based_zh": "柏林，德国",
+   "found_via": "https://www.fokus.fraunhofer.de/en/dps/news/hajinejad_professur_2024_10.html"
+  },
+  {
+   "id": "person--michael-haller",
+   "name": "Michael Haller",
+   "type": "researcher",
+   "themes": [
+    "haptics-touch"
+   ],
+   "fields": [
+    "somaesthetic"
+   ],
+   "description": "Professor at the Free University of Bozen-Bolzano and founder of the Media Interaction Lab, known for touch- and deformation-sensitive smart textiles (SmartSleeve, RESi); co-author of the 2018 first-person soma paper.",
+   "description_zh": "博尔扎诺自由大学教授、Media Interaction Lab 创始人，以可感知触碰与形变的智能织物（SmartSleeve、RESi）闻名；2018 年第一人称身体设计论文作者之一。",
+   "known_for": [
+    "SmartSleeve: sensing gestures on interactive textiles (UIST 2017)",
+    "RESi: pressure-sensitive textile interface based on resistive yarns (UIST 2018)",
+    "Embracing First-Person Perspectives in Soma-Based Design (Informatics, 2018)"
+   ],
+   "url": "https://www.mediainteractionlab.eu/?page_id=561",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=6b6-UeQAAAAJ"
+    }
+   ],
+   "image": "https://www.mediainteractionlab.eu/wp-content/uploads/2023/03/C548836F-6B7D-4017-8A54-9841A90E275A.jpeg",
+   "based": "Bolzano, Italy",
+   "based_zh": "博尔扎诺，意大利",
+   "found_via": "https://www.mediainteractionlab.eu/?page_id=561"
+  },
+  {
+   "id": "person--edward-melcer",
+   "name": "Edward Melcer",
+   "type": "researcher",
+   "themes": [
+    "play-exertion"
+   ],
+   "fields": [
+    "movement"
+   ],
+   "description": "Carleton University associate professor who, with Katherine Isbister, developed a design framework for embodied learning games; co-author of the 2018 first-person soma paper.",
+   "description_zh": "卡尔顿大学副教授，与 Katherine Isbister 共同提出具身学习游戏的设计框架；2018 年第一人称身体设计论文作者之一。",
+   "known_for": [
+    "Bridging the Physical Learning Divides: A Design Framework for Embodied Learning Games and Simulations (DiGRA 2016, with K. Isbister)",
+    "Bots & (Main)Frames: tangible blocks and collaborative play in an educational programming game (CHI 2018, with K. Isbister)",
+    "Embracing First-Person Perspectives in Soma-Based Design (Informatics, 2018)"
+   ],
+   "url": "https://carleton.ca/scs/people/edward-melcer/",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=ftmlYFsAAAAJ"
+    }
+   ],
+   "image": "https://carleton.ca/scs/wp-content/uploads/sites/260/melcer-1200x1200-1.jpg",
+   "based": "Ottawa, Canada",
+   "based_zh": "渥太华，加拿大",
+   "found_via": "https://carleton.ca/scs/people/edward-melcer/"
+  },
+  {
+   "id": "person--marianne-graves-petersen",
+   "name": "Marianne Graves Petersen",
+   "type": "researcher",
+   "themes": [
+    "somaesthetics",
+    "haptics-touch"
+   ],
+   "fields": [
+    "foundations"
+   ],
+   "description": "Aarhus University professor whose 'Aesthetic Interaction' (DIS 2004) framed interaction through Dewey's pragmatist aesthetics, a precursor of somaesthetic interaction design; co-author of the CHI 2012 review of shape-changing interfaces.",
+   "description_zh": "奥胡斯大学教授，其《Aesthetic Interaction》（DIS 2004）以杜威的实用主义美学看待交互，是身体美学交互设计的先声；也是 CHI 2012 形变界面综述的作者之一。",
+   "known_for": [
+    "Aesthetic Interaction: A Pragmatist's Aesthetics of Interactive Systems (DIS 2004)",
+    "Shape-changing interfaces: a review of the design space and open research questions (CHI 2012)",
+    "Embracing First-Person Perspectives in Soma-Based Design (Informatics, 2018)"
+   ],
+   "url": "https://pure.au.dk/portal/en/persons/mgraves@cs.au.dk",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=vgP6E1oAAAAJ"
+    }
+   ],
+   "image": "https://pure.au.dk/portal/files-asset/222873572/Marianne_GravesAU_CS_webS_renKjeldgaard2FotoReducedFilesize.jpg/",
+   "based": "Aarhus, Denmark",
+   "based_zh": "奥胡斯，丹麦",
+   "found_via": "https://pure.au.dk/portal/en/persons/mgraves@cs.au.dk"
+  },
+  {
+   "id": "person--helena-tobiasson",
+   "name": "Helena Tobiasson",
+   "type": "researcher",
+   "themes": [
+    "movement-dance",
+    "health"
+   ],
+   "fields": [
+    "methods",
+    "care"
+   ],
+   "description": "Ergonomist and KTH PhD (2015, 'Traces of Movement') who studied physical activity in eldercare, schools and offices and proposed Physical Movement Sketching; co-author of the 2018 first-person soma paper.",
+   "description_zh": "人因工程师、KTH 博士（2015，《Traces of Movement》），研究养老照护、学校与办公室中的身体活动，并提出“身体动作草图”方法；2018 年第一人称身体设计论文作者之一。",
+   "known_for": [
+    "Traces of Movement: Exploring physical activity in societal settings (PhD thesis, KTH, 2015)",
+    "Physical Movement Sketching and Movement Probes (design methods, 2015 thesis)",
+    "Embracing First-Person Perspectives in Soma-Based Design (Informatics, 2018)"
+   ],
+   "url": "https://scholar.google.com/citations?user=mjctlakAAAAJ",
+   "based": "Stockholm, Sweden",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "found_via": "http://kth.diva-portal.org/smash/resultList.jsf?searchType=SIMPLE&query=Tobiasson+Traces+of+Movement"
+  },
+  {
+   "id": "person--marianna-obrist",
+   "name": "Marianna Obrist",
+   "type": "researcher",
+   "themes": [
+    "haptics-touch",
+    "affective"
+   ],
+   "fields": [
+    "somaesthetic"
+   ],
+   "description": "UCL professor of multisensory interfaces who works to make touch, taste and smell interaction modalities, from mid-air haptics that convey emotion to scent-delivery devices.",
+   "description_zh": "伦敦大学学院多感官界面教授，致力于让触觉、味觉与嗅觉成为交互通道，从传达情绪的空中触觉到气味释放装置。",
+   "known_for": [
+    "Opportunities for odor: experiences with smell and implications for technology (CHI 2014)",
+    "Emotions Mediated Through Mid-Air Haptics (CHI 2015)",
+    "Scent-delivery technology shown at WEF Davos 2019 and 2020, commercialised via OWidgets Ltd (co-founded 2019)"
+   ],
+   "url": "http://www0.cs.ucl.ac.uk/people/M.Obrist.html",
+   "image": "https://s41721.pcdn.co/wp-content/uploads/2021/01/Marianna-Obrist.jpeg.jpg",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "found_via": "http://www0.cs.ucl.ac.uk/people/M.Obrist.html",
+   "creator_id": "marianna-obrist"
+  },
+  {
+   "id": "person--pedro-lopes",
+   "name": "Pedro Lopes",
+   "type": "researcher",
+   "themes": [
+    "haptics-touch",
+    "xr-embodiment"
+   ],
+   "fields": [
+    "machines-xr"
+   ],
+   "description": "University of Chicago associate professor who designs electrical muscle stimulation interfaces that move the user's own muscles, and studies with neuroscientists how such integration affects the sense of agency.",
+   "description_zh": "芝加哥大学副教授，设计以电刺激驱动使用者自身肌肉的界面，并与神经科学家研究这种“身体融合”如何影响能动感。",
+   "known_for": [
+    "Affordance++: allowing objects to communicate dynamic use via electrical muscle stimulation (CHI 2015)",
+    "Providing Haptics to Walls & Heavy Objects in Virtual Reality by Means of Electrical Muscle Stimulation (CHI 2017)",
+    "Context-aware AI + EMS movement guidance (CHI 2026 Best Paper, students Yun Ho and Romain Nith)"
+   ],
+   "url": "https://plopes.org/",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=dhPGPoIAAAAJ"
+    }
+   ],
+   "image": "https://plopes.org/wp-content/uploads/2019/05/PedroLopes_UChicago2.jpg",
+   "based": "Chicago, US",
+   "based_zh": "芝加哥，美国",
+   "found_via": "https://plopes.org/",
+   "creator_id": "pedro-lopes"
+  },
+  {
+   "id": "person--phoebe-sengers",
+   "name": "Phoebe Sengers",
+   "type": "researcher",
+   "themes": [
+    "affective"
+   ],
+   "fields": [
+    "affect",
+    "methods"
+   ],
+   "description": "Cornell professor whose 'Reflective Design' and work on openness and ambiguity in evaluating experience (with Höök and colleagues) shaped the non-reductive approach to emotion that led to affective loops.",
+   "description_zh": "康奈尔大学教授，其《Reflective Design》以及与 Höök 等人关于体验评估中开放性与模糊性的研究，塑造了不化约的情绪观，促成了“情感回路”思路。",
+   "known_for": [
+    "Sense and sensibility: evaluation and interactive art (CHI 2003, with K. Höök and G. Andersson)",
+    "Reflective Design (Critical Computing 2005, with Boehner, David, Kaye)"
+   ],
+   "url": "https://infosci.cornell.edu/people/phoebe-sengers",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Phoebe_Sengers"
+    },
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=6c5cf1wAAAAJ"
+    }
+   ],
+   "image": "https://infosci.cornell.edu/sites/default/files/2025-07/sengers-phoebe-2025.jpg",
+   "based": "Ithaca, US",
+   "based_zh": "伊萨卡，美国",
+   "found_via": "https://infosci.cornell.edu/people/phoebe-sengers",
+   "creator_id": "phoebe-sengers"
+  },
+  {
+   "id": "person--rosalind-picard",
+   "name": "Rosalind Picard",
+   "type": "researcher",
+   "themes": [
+    "affective",
+    "biosignals"
+   ],
+   "fields": [
+    "affect"
+   ],
+   "description": "MIT professor who founded affective computing (1997) and wearable electrodermal sensing; soma design and affective loops developed partly in response to her recognition-based model of emotion.",
+   "description_zh": "麻省理工学院教授，1997 年开创情感计算与可穿戴皮电传感；身体设计与情感回路在一定程度上是对她“识别式”情绪模型的回应。",
+   "known_for": [
+    "Affective Computing (MIT Press, 1997)",
+    "Toward machine emotional intelligence: analysis of affective physiological state (IEEE TPAMI, 2001)",
+    "Co-founder of Affectiva and Empatica (wearable biosignal sensing)"
+   ],
+   "url": "https://web.media.mit.edu/~picard/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Rosalind_Picard"
+    }
+   ],
+   "image": "https://web.media.mit.edu/~picard/img/Picard-credit-A-Ryan.png",
+   "based": "Cambridge, US",
+   "based_zh": "坎布里奇，美国",
+   "born": 1962,
+   "found_via": "https://en.wikipedia.org/wiki/Rosalind_Picard",
+   "creator_id": "rosalind-picard"
+  },
+  {
+   "id": "person--shaowen-bardzell",
+   "name": "Shaowen Bardzell",
+   "type": "researcher",
+   "themes": [
+    "feminist"
+   ],
+   "fields": [
+    "intimate"
+   ],
+   "description": "Taiwanese-American HCI scholar at Georgia Tech who set out the feminist HCI agenda (CHI 2010) and wrote on pleasure, sexuality and care, groundwork for intimate and feminist soma design.",
+   "description_zh": "台裔美国人机交互学者，任教于佐治亚理工学院。她提出女性主义人机交互议程（CHI 2010），并论述愉悦、性与照护，为亲密与女性主义身体设计奠定基础。",
+   "known_for": [
+    "Feminist HCI: taking stock and outlining an agenda for design (CHI 2010)",
+    "Pleasure is your birthright: digitally enabled designer sex toys as a case of third-wave HCI (CHI 2011, with J. Bardzell)",
+    "Humanistic HCI (Morgan & Claypool, 2015, with J. Bardzell)"
+   ],
+   "url": "https://shaowenbardzell.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Shaowen_Bardzell"
+    },
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=aD5ev8QAAAAJ"
+    }
+   ],
+   "image": "https://shaowenbardzell.com/wp-content/uploads/2013/07/bardzell-shaowen.jpeg",
+   "based": "Atlanta, US",
+   "based_zh": "亚特兰大，美国",
+   "found_via": "https://en.wikipedia.org/wiki/Shaowen_Bardzell",
+   "creator_id": "shaowen-bardzell"
+  },
+  {
+   "id": "person--jonas-fritsch",
+   "name": "Jonas Fritsch",
+   "type": "researcher",
+   "themes": [
+    "affective",
+    "phenomenology"
+   ],
+   "fields": [
+    "affect"
+   ],
+   "description": "IT University of Copenhagen associate professor who brought affect theory into interaction design through experiments with interactive sound and physical interfaces, and now applies affective interaction design to care.",
+   "description_zh": "哥本哈根 IT 大学副教授，通过互动声音与实体界面的实验，把情动理论引入交互设计，现将情感交互设计用于照护。",
+   "known_for": [
+    "Understanding Affective Engagement as a Resource in Interaction Design (Nordes 2009)",
+    "Affective Interaction Design at the End of the World (DRS 2018)",
+    "Problematizing Affective Interaction Design (in Affects, Interfaces, Events, 2021)"
+   ],
+   "url": "http://www.fritsch.dk/",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=oj8I51cAAAAJ"
+    }
+   ],
+   "image": "https://www-static.fritsch.dk/wp-content/uploads/2024/09/13A9718-1-edited-1-scaled.jpg",
+   "based": "Copenhagen, Denmark",
+   "based_zh": "哥本哈根，丹麦",
+   "found_via": "http://www.fritsch.dk/",
+   "creator_id": "jonas-fritsch"
+  },
+  {
+   "id": "person--marco-gillies",
+   "name": "Marco Gillies",
+   "type": "researcher",
+   "themes": [
+    "movement-dance",
+    "robots-ai",
+    "xr-embodiment"
+   ],
+   "fields": [
+    "movement",
+    "machines-xr"
+   ],
+   "description": "Goldsmiths professor whose 'embodied design' lets designers create full-body interactions by moving and demonstrating with interactive machine learning rather than by coding.",
+   "description_zh": "伦敦大学金史密斯学院教授，提出“具身设计”：借助交互式机器学习，设计师通过亲身运动与示范而非写代码来创造全身交互。",
+   "known_for": [
+    "Embodied design of full bodied interaction with virtual humans (MOCO 2015)",
+    "Understanding the Role of Interactive Machine Learning in Movement Interaction Design (ACM TOCHI, 2019)",
+    "VR and ML for All MOOCs (Coursera)"
+   ],
+   "url": "https://www.gold.ac.uk/computing/people/m-gillies/",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=Q4o_1eIAAAAJ"
+    }
+   ],
+   "image": "https://coursera-instructor-photos.s3.amazonaws.com/85/3cd1cc68d63e8624f1f5de9f79395c/MarcoGillies-241x300.jpeg",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "found_via": "https://www.gold.ac.uk/computing/people/m-gillies/",
+   "creator_id": "marco-gillies"
+  },
+  {
+   "id": "person--rebecca-fiebrink",
+   "name": "Rebecca Fiebrink",
+   "type": "researcher",
+   "themes": [
+    "movement-dance",
+    "robots-ai"
+   ],
+   "fields": [
+    "movement",
+    "machines-xr"
+   ],
+   "description": "UAL professor of creative computing whose Wekinator lets musicians and artists train machine learning by demonstration to map body movement to sound and media.",
+   "description_zh": "伦敦艺术大学创意计算教授，她开发的 Wekinator 让音乐人和艺术家通过示范训练机器学习，把身体动作映射为声音与媒体。",
+   "known_for": [
+    "Wekinator interactive machine learning software (2008–)",
+    "Real-time interaction with supervised learning (CHI EA 2010)",
+    "Machine Learning for Musicians and Artists (first online course on ML for music and art)"
+   ],
+   "url": "https://www.arts.ac.uk/creative-computing-institute/people/rebecca-fiebrink",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=fEMWXvkAAAAJ"
+    }
+   ],
+   "image": "https://zkm.de/system/files/styles/img_node_media_detail_portrait/private/field_media_image/2023/02/24/083502/rebecca_fiebrink.jpg?itok=RJPEAA0n",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "found_via": "https://www.arts.ac.uk/creative-computing-institute/people/rebecca-fiebrink",
+   "creator_id": "rebecca-fiebrink"
+  },
+  {
+   "id": "person--atau-tanaka",
+   "name": "Atau Tanaka",
+   "type": "researcher",
+   "themes": [
+    "biosignals",
+    "art",
+    "movement-dance"
+   ],
+   "fields": [
+    "movement",
+    "affect"
+   ],
+   "description": "Goldsmiths professor and performer who plays the body as an instrument through muscle-tension (EMG) sensing and machine learning, from Sensorband to Myogram.",
+   "description_zh": "金史密斯学院教授与表演者，借肌电（EMG）传感与机器学习把身体当作乐器演奏，从 Sensorband 到 Myogram。",
+   "known_for": [
+    "Sensorband (with Zbigniew Karkowski and Edwin van der Heide)",
+    "Myogram (EMG performance, 2015)",
+    "Gestural Musical Performance with Physiological Sensors, Focusing on the Electromyogram (Routledge Companion to Embodied Music Interaction, 2017)"
+   ],
+   "url": "https://www.gold.ac.uk/computing/people/tanaka-atau/",
+   "image": "https://www.gold.ac.uk/media/images-by-section/departments/computing/research/people/AtauTanaka380.jpg",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "found_via": "https://www.gold.ac.uk/computing/people/tanaka-atau/"
+  },
+  {
+   "id": "person--teresa-almeida",
+   "name": "Teresa Almeida",
+   "type": "researcher",
+   "themes": [
+    "feminist",
+    "health"
+   ],
+   "fields": [
+    "intimate"
+   ],
+   "description": "Instituto Superior Técnico assistant professor whose feminist design research on intimate care created Labella for pelvic fitness and treats the body as an ecosystem.",
+   "description_zh": "里斯本高等理工学院助理教授，其女性主义设计研究关注亲密照护，创作了盆底训练系统 Labella，并把身体视为生态系统。",
+   "known_for": [
+    "Labella: looking at the vagina through an interactive pelvic-fitness system (CHI 2016 Interactivity)",
+    "Woman-Centered Design through Humanity, Activism, and Inclusion (ACM TOCHI, 2020)",
+    "Gut-Tracking as Cultivation (2020)"
+   ],
+   "url": "https://iti.larsys.pt/member/teresa-almeida/",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=S8k3_RAAAAAJ"
+    }
+   ],
+   "image": "https://iti.larsys.pt/wp-content/uploads/2023/05/uc-17.jpeg",
+   "based": "Lisbon, Portugal",
+   "based_zh": "里斯本，葡萄牙",
+   "found_via": "https://iti.larsys.pt/member/teresa-almeida/",
+   "creator_id": "teresa-almeida"
+  },
+  {
+   "id": "person--masahiko-inami",
+   "name": "Masahiko Inami",
+   "name_zh": "稲見昌彦",
+   "type": "researcher",
+   "themes": [
+    "xr-embodiment",
+    "robots-ai",
+    "east-asian"
+   ],
+   "fields": [
+    "machines-xr"
+   ],
+   "description": "University of Tokyo professor of human augmentation who led the ERATO JIZAI Body project on bodies whose natural and artificial parts can be freely controlled or shared, drawing on the Japanese notion of jizai (freedom of the body).",
+   "description_zh": "东京大学人类增强研究教授，主持 ERATO“自在身体”项目，借日语“自在”的概念，研究天然与人工部分可以自由操控、分享的身体。",
+   "known_for": [
+    "JIZAI Body project (JST ERATO, Oct 2017 – Mar 2023)",
+    "MetaLimbs: foot-controlled extra robotic arms (SIGGRAPH 2017 Emerging Technologies)",
+    "Theory of JIZAI Body: Towards Mastery Over the Extended Self (Springer, 2023)"
+   ],
+   "url": "https://www.ais.rcast.u-tokyo.ac.jp/en/research/labs/inami.html",
+   "image": "https://www.ais.rcast.u-tokyo.ac.jp/content/000012921.jpg",
+   "based": "Tokyo, Japan",
+   "based_zh": "东京，日本",
+   "found_via": "https://www.ais.rcast.u-tokyo.ac.jp/en/research/labs/inami.html"
+  },
+  {
+   "id": "person--sha-xin-wei",
+   "name": "Sha Xin Wei",
+   "type": "researcher",
+   "themes": [
+    "art",
+    "movement-dance",
+    "phenomenology"
+   ],
+   "fields": [
+    "movement",
+    "foundations"
+   ],
+   "description": "ASU professor and founder of the Topological Media Lab and Synthesis Center whose responsive environments and 'Poiesis and Enchantment in Topological Matter' treat gesture and movement as processual, felt experience.",
+   "description_zh": "亚利桑那州立大学教授，创办 Topological Media Lab 与 Synthesis Center。他的响应式环境与著作《Poiesis and Enchantment in Topological Matter》把手势与动作视为过程性的、被感受的经验。",
+   "known_for": [
+    "Poiesis and Enchantment in Topological Matter (MIT Press, 2013)",
+    "Topological Media Lab (Concordia University, founder-director)",
+    "Synthesis Center for responsive environments (ASU)"
+   ],
+   "url": "https://search.asu.edu/profile/2202759",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Sha_Xin_Wei"
+    }
+   ],
+   "image": "https://webapp4.asu.edu/photo-ws/directory_photo/xsha1?size=medium&break=1790642489&blankImage2=1",
+   "based": "Tempe, US",
+   "based_zh": "坦佩，美国",
+   "found_via": "https://en.wikipedia.org/wiki/Sha_Xin_Wei"
+  },
+  {
+   "id": "person--susan-kozel",
+   "name": "Susan Kozel",
+   "type": "researcher",
+   "themes": [
+    "phenomenology",
+    "movement-dance",
+    "art"
+   ],
+   "fields": [
+    "foundations",
+    "movement"
+   ],
+   "description": "Dancer-philosopher at Malmö University whose 'Closer: Performance, Technologies, Phenomenology' (2007) reworks Merleau-Ponty from inside dance with interactive systems; she now develops somatic archiving with mixed reality.",
+   "description_zh": "马尔默大学的舞者兼哲学家，其《Closer: Performance, Technologies, Phenomenology》（2007）从舞蹈与互动系统内部重读梅洛-庞蒂；现研究以混合现实进行“身体存档”。",
+   "known_for": [
+    "Closer: Performance, Technologies, Phenomenology (MIT Press, 2007)",
+    "Somatic Archiving with AR/MR (ongoing research)",
+    "Ten Permissions for Facilitating (Live) Design Activities (DIS 2024, with Höök and Andersen)"
+   ],
+   "url": "https://mau.se/en/persons/susan.kozel/",
+   "image": "https://idservice.mau.se/Photos/kssuko.jpg",
+   "based": "Malmö, Sweden",
+   "based_zh": "马尔默，瑞典",
+   "found_via": "https://mau.se/en/persons/susan.kozel/",
+   "creator_id": "susan-kozel"
+  },
+  {
+   "id": "person--jonas-lowgren",
+   "name": "Jonas Löwgren",
+   "type": "researcher",
+   "themes": [
+    "somaesthetics"
+   ],
+   "fields": [
+    "methods"
+   ],
+   "description": "Linköping University professor of interaction design whose work on interaction aesthetics and, with Höök, 'strong concepts' as intermediate-level design knowledge frames how soma design generalises.",
+   "description_zh": "林雪平大学交互设计教授，他关于交互美学的研究，以及与 Höök 提出的作为中间层设计知识的“强概念”，为身体设计如何形成可推广的知识提供了框架。",
+   "known_for": [
+    "Thoughtful Interaction Design (MIT Press, 2004, with E. Stolterman)",
+    "Inspirational patterns for embodied interaction (Nordes 2005)",
+    "Strong concepts: Intermediate-level knowledge in interaction design research (ACM TOCHI, 2012, with K. Höök)"
+   ],
+   "url": "https://jonas.lowgren.info/",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=wBPvZE0AAAAJ"
+    }
+   ],
+   "image": "https://jonas.lowgren.info/Images/jl_2015.png",
+   "based": "Norrköping, Sweden",
+   "based_zh": "北雪平，瑞典",
+   "found_via": "https://jonas.lowgren.info/",
+   "creator_id": "jonas-lowgren"
+  },
+  {
+   "id": "person--rohit-ashok-khot",
+   "name": "Rohit Ashok Khot",
+   "type": "researcher",
+   "themes": [
+    "play-exertion",
+    "biosignals"
+   ],
+   "fields": [
+    "affect",
+    "movement"
+   ],
+   "description": "RMIT senior lecturer from the Exertion Games Lab who materialises bodily data as edible or printed artefacts, such as SweatAtoms and EdiPulse's heart-rate chocolate, and designs playful eating experiences.",
+   "description_zh": "皇家墨尔本理工大学高级讲师，出自 Exertion Games Lab，把身体数据物化为可食或打印的物件，如 SweatAtoms 与以心率制作巧克力的 EdiPulse，并设计好玩的饮食体验。",
+   "known_for": [
+    "SweatAtoms: materializing physical activity as 3D-printed artefacts (OzCHI 2013)",
+    "EdiPulse: self-monitoring through 3D-printed chocolate treats (CHI 2017)",
+    "Playful human-food interaction projects (e.g., GustaCine, SWAN)"
+   ],
+   "url": "https://rohitashokkhot.com/",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=YbBFc_EAAAAJ"
+    }
+   ],
+   "image": "https://rohitashokkhot.com/assets/imgs/header/rk.webp",
+   "based": "Melbourne, Australia",
+   "based_zh": "墨尔本，澳大利亚",
+   "found_via": "https://rohitashokkhot.com/"
+  },
+  {
+   "id": "person--josh-andres",
+   "name": "Josh Andres",
+   "type": "researcher",
+   "themes": [
+    "play-exertion",
+    "biosignals"
+   ],
+   "fields": [
+    "machines-xr",
+    "movement"
+   ],
+   "description": "UNSW Canberra senior lecturer whose award-winning PhD at the Exertion Games Lab built eBikes that respond to the rider's brain and body states, articulating human-computer integration during exertion.",
+   "description_zh": "新南威尔士大学堪培拉校区高级讲师，在 Exertion Games Lab 的获奖博士研究打造了能回应骑行者脑与身体状态的电动自行车，阐明了运动中的人机融合。",
+   "known_for": [
+    "Integrated Exertion: Understanding the Design of Human–Computer Integration in an Exertion Context (PhD thesis, RMIT, 2020; ACM SIGCHI Outstanding Dissertation Award)",
+    "Ena, Ari and Ava eBikes (EEG- and sensor-driven integrated eBikes)",
+    "Introducing Peripheral Awareness as a Neurological State for Human-computer Integration (CHI 2020)"
+   ],
+   "url": "https://www.joshandres.com/",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=Hlfcd50AAAAJ"
+    }
+   ],
+   "image": "https://api.research.unsw.edu.au/sites/default/files/images/profile/2026_ja_unsw_5_jpeg.jpg",
+   "based": "Canberra, Australia",
+   "based_zh": "堪培拉，澳大利亚",
+   "found_via": "https://www.joshandres.com/",
+   "creator_id": "josh-andres"
+  },
+  {
+   "id": "person--zhuying-li",
+   "name": "Zhuying Li",
+   "type": "researcher",
+   "themes": [
+    "play-exertion",
+    "biosignals"
+   ],
+   "fields": [
+    "affect",
+    "movement"
+   ],
+   "description": "Southeast University associate professor whose Exertion Games Lab PhD invented 'ingestible play', games such as The Guts Game and HeatCraft built around swallowable sensors that engage people with their inner body.",
+   "description_zh": "东南大学副教授，在 Exertion Games Lab 的博士研究开创了“可吞食游戏”：如 The Guts Game 与 HeatCraft，以可吞服传感器让人与自己的体内相遇。",
+   "known_for": [
+    "The Guts Game: Towards Designing Ingestible Games (CHI PLAY 2018)",
+    "HeatCraft: experiencing body temperature from an ingestible sensor as localised heat",
+    "A Design Framework for Ingestible Play (ACM TOCHI, 2023)"
+   ],
+   "url": "https://zhuyingli.info/",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=GxBTIBQAAAAJ"
+    }
+   ],
+   "image": "https://zhuyingli.info/pic/zhuying.jpg",
+   "based": "Nanjing, China",
+   "based_zh": "南京，中国",
+   "found_via": "https://zhuyingli.info/",
+   "creator_id": "zhuying-li"
+  }
+ ]
+}

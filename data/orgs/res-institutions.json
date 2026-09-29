@@ -1,0 +1,2471 @@
+{
+ "batch": "res-institutions",
+ "orgs": [
+  {
+   "id": "kth-interaction-design-soma",
+   "name": "KTH Interaction Design group (Soma Design)",
+   "type": "lab",
+   "themes": [
+    "soma-design",
+    "somaesthetics",
+    "feminist",
+    "haptics-touch"
+   ],
+   "fields": [
+    "methods",
+    "somaesthetic",
+    "intimate"
+   ],
+   "description": "Kristina Höök's research group at KTH's Division of Media Technology and Interaction Design in Stockholm, where soma design was formulated and where Soma Mat, Breathing Light, the Soma Bits and much feminist intimate-health design were made. The group works in 'the IxD Jungle' at the top of KTH's main building and trains designers through Feldenkrais-based somaesthetic practice.",
+   "description_zh": "Kristina Höök 在斯德哥尔摩皇家理工学院（KTH）媒体技术与交互设计系的研究组：身体设计（soma design）在这里成形，Soma Mat、Breathing Light、Soma Bits 以及许多女性主义私密健康设计都出自这里。研究组以 Feldenkrais 为基础的身体美学练习训练设计师。",
+   "url": "https://www.kth.se/mid/research/interaction-design",
+   "links": [
+    {
+     "label": "Digital Futures: Soma Design",
+     "url": "https://www.digitalfutures.kth.se/project/kristina-hook/"
+    },
+    {
+     "label": "Kristina Höök at KTH",
+     "url": "https://www.kth.se/profile/khook"
+    }
+   ],
+   "image": "https://www.digitalfutures.kth.se/wp-content/uploads/2020/09/kristina-hook.jpg",
+   "based": "Stockholm, SE",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "people": [
+    "Kristina Höök",
+    "Madeline Balaam",
+    "Marianela Ciolfi Felice",
+    "Laia Turmo Vidal"
+   ]
+  },
+  {
+   "id": "mobile-life-centre",
+   "name": "Mobile Life Centre",
+   "type": "lab",
+   "themes": [
+    "soma-design",
+    "affective",
+    "biosignals"
+   ],
+   "fields": [
+    "affect",
+    "somaesthetic"
+   ],
+   "description": "A VINN Excellence Centre (2007–2017) in Kista, Stockholm, hosted by Stockholm University with SICS (now RISE) and the Interactive Institute, co-founded and directed by Kristina Höök. Its studios produced affective-loop and early somaesthetic prototypes (eMoto, Affective Diary, Brightr, Soma Mat) that seeded soma design.",
+   "description_zh": "设在斯德哥尔摩 Kista 的 VINN 卓越中心（2007–2017），由斯德哥尔摩大学主办，SICS（现 RISE）与 Interactive Institute 共同执行，Kristina Höök 是创办人和主任之一。这里做出的情感回路与早期身体美学原型（eMoto、Affective Diary、Brightr、Soma Mat）为身体设计打下了基础。",
+   "url": "https://en.wikipedia.org/wiki/Mobile_Life_Centre",
+   "links": [
+    {
+     "label": "Mobile Life archive site",
+     "url": "http://www.mobilelifecentre.org"
+    }
+   ],
+   "based": "Stockholm, SE",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "founded": 2007,
+   "people": [
+    "Kristina Höök",
+    "Oskar Juhlin",
+    "Barry Brown",
+    "Annika Waern"
+   ]
+  },
+  {
+   "id": "exertion-games-lab",
+   "name": "Exertion Games Lab",
+   "type": "lab",
+   "themes": [
+    "play-exertion",
+    "soma-design",
+    "xr-embodiment"
+   ],
+   "fields": [
+    "movement",
+    "machines-xr"
+   ],
+   "description": "Florian 'Floyd' Mueller's lab at Monash University in Melbourne, designing 'bodily play': exertion games, integrated human-computer bodies and playful interactions with the body. It co-organised the CHI 2017 soma-based design theory workshop and the Dagstuhl seminar on body-centric computing.",
+   "description_zh": "Florian “Floyd” Mueller 在墨尔本莫纳什大学的实验室，设计“身体游戏”：运动型游戏、人机融合的身体以及与身体玩耍的交互。它参与组织了 CHI 2017 身体设计理论工作坊和 Dagstuhl 身体中心计算研讨会。",
+   "url": "https://exertiongameslab.org",
+   "based": "Melbourne, AU",
+   "based_zh": "墨尔本，澳大利亚",
+   "people": [
+    "Florian 'Floyd' Mueller"
+   ]
+  },
+  {
+   "id": "mixed-reality-lab-nottingham",
+   "name": "Mixed Reality Laboratory (Nottingham)",
+   "type": "lab",
+   "themes": [
+    "play-exertion",
+    "art",
+    "biosignals"
+   ],
+   "fields": [
+    "movement",
+    "social",
+    "affect"
+   ],
+   "description": "The University of Nottingham's interdisciplinary HCI lab led by Steve Benford, known for performance-led research with artists (Blast Theory) and for body-centred works such as the breath-controlled Exobuilding and the Broncomatic breathing ride. It is a key partner of Höök's group in soma design and somatic play.",
+   "description_zh": "诺丁汉大学由 Steve Benford 领导的跨学科人机交互实验室，以与艺术家（Blast Theory）合作的表演导向研究著称，也做了由呼吸控制的 Exobuilding、呼吸骑乘装置 Broncomatic 等以身体为中心的作品，是 Höök 团队在身体设计与身体游戏方面的重要伙伴。",
+   "url": "https://www.nottingham.ac.uk/research/groups/mixedrealitylab/",
+   "image": "https://www.nottingham.ac.uk/research/groups/mixedrealitylab/images/mastheads/steve-benford-with-exobuilding-cropped-1000x666.png",
+   "based": "Nottingham, UK",
+   "based_zh": "诺丁汉，英国",
+   "people": [
+    "Steve Benford",
+    "Paul Tennent",
+    "Joe Marshall"
+   ]
+  },
+  {
+   "id": "ucl-interaction-centre",
+   "name": "UCL Interaction Centre (UCLIC)",
+   "type": "lab",
+   "themes": [
+    "affective",
+    "health",
+    "biosignals",
+    "haptics-touch"
+   ],
+   "fields": [
+    "affect",
+    "care"
+   ],
+   "description": "University College London's HCI centre, home of Nadia Bianchi-Berthouze's research on affective body movement and touch, including movement sonification for people with chronic pain (Go-with-the-Flow) and body-perception work with Ana Tajadura-Jiménez.",
+   "description_zh": "伦敦大学学院的人机交互中心，Nadia Bianchi-Berthouze 在这里研究带情感的身体动作与触摸，包括为慢性疼痛患者设计的动作声音化（Go-with-the-Flow），以及与 Ana Tajadura-Jiménez 合作的身体感知研究。",
+   "url": "https://www.ucl.ac.uk/uclic/",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "people": [
+    "Nadia Bianchi-Berthouze",
+    "Aneesha Singh",
+    "Ana Tajadura-Jiménez"
+   ]
+  },
+  {
+   "id": "ircam-ismm",
+   "name": "IRCAM Sound Music Movement Interaction (ISMM)",
+   "type": "lab",
+   "themes": [
+    "movement-dance",
+    "art",
+    "somatic-practice"
+   ],
+   "fields": [
+    "movement"
+   ],
+   "description": "The team at IRCAM / STMS Lab in Paris that studies movement–sound interaction: gesture following, interactive sonification and movement learning, with tools such as MuBu and CoMo used by dancers, musicians and soma designers. Frédéric Bevilacqua leads it; Jules Françoise worked here on movement sonification and somatic learning.",
+   "description_zh": "巴黎 IRCAM / STMS 实验室里研究动作与声音交互的团队：手势跟随、交互式声音化与动作学习，开发的 MuBu、CoMo 等工具被舞者、音乐人和身体设计者使用。团队由 Frédéric Bevilacqua 领导，Jules Françoise 曾在此研究动作声音化与身体学习。",
+   "url": "https://www.stms-lab.fr/team/interaction-son-musique-mouvement/",
+   "links": [
+    {
+     "label": "ISMM team site",
+     "url": "https://ircam-ismm.github.io/"
+    }
+   ],
+   "image": "https://www.stms-lab.fr/media/uploads/STMS/ISMM/recherche/thumbs/ismm_labo5.jpg/ismm_labo5-1014x368.jpg",
+   "based": "Paris, FR",
+   "based_zh": "巴黎，法国",
+   "people": [
+    "Frédéric Bevilacqua",
+    "Jules Françoise"
+   ]
+  },
+  {
+   "id": "sfu-siat",
+   "name": "SFU School of Interactive Arts & Technology (SIAT)",
+   "type": "lab",
+   "themes": [
+    "soma-design",
+    "movement-dance",
+    "biosignals",
+    "art"
+   ],
+   "fields": [
+    "movement",
+    "somaesthetic",
+    "care"
+   ],
+   "description": "Simon Fraser University's school in Surrey, BC, where Thecla Schiphorst brought somatics and dance into interaction design (whisper, soft(n), somatic connoisseurship), Philippe Pasquier's Metacreation Lab works on movement and generative art, and Diane Gromala built pain-focused VR.",
+   "description_zh": "西蒙菲莎大学位于萨里的学院：Thecla Schiphorst 在这里把身体修习和舞蹈带进交互设计（whisper、soft(n)、身体鉴赏力），Philippe Pasquier 的 Metacreation Lab 研究动作与生成艺术，Diane Gromala 做了面向疼痛的虚拟现实。",
+   "url": "https://www.sfu.ca/siat.html",
+   "image": "https://www.sfu.ca/content/dam/sfu/images/common/SFU-social-image.jpeg",
+   "based": "Surrey, CA",
+   "based_zh": "萨里，加拿大",
+   "people": [
+    "Thecla Schiphorst",
+    "Philippe Pasquier",
+    "Diane Gromala"
+   ]
+  },
+  {
+   "id": "tue-industrial-design",
+   "name": "TU/e Department of Industrial Design",
+   "type": "lab",
+   "themes": [
+    "soma-design",
+    "phenomenology",
+    "first-person"
+   ],
+   "fields": [
+    "methods",
+    "foundations"
+   ],
+   "description": "Eindhoven University of Technology's design department, where Caroline Hummels and colleagues developed embodied, phenomenology-informed design education and research (skills-based design, embodied sensemaking, transformative practices). Hummels co-organised the CHI 2017 soma-based design theory workshop.",
+   "description_zh": "埃因霍温理工大学工业设计系：Caroline Hummels 等人在这里发展出受现象学启发的具身设计教育与研究（基于技能的设计、具身意义建构、转化性实践）。Hummels 也是 CHI 2017 身体设计理论工作坊的组织者之一。",
+   "url": "https://www.tue.nl/en/our-university/departments/industrial-design",
+   "image": "https://assets.w3.tue.nl/w/fileadmin/_processed_/8/e/csm_5.%20ID25EXPO_861a4cf256.jpg",
+   "based": "Eindhoven, NL",
+   "based_zh": "埃因霍温，荷兰",
+   "people": [
+    "Caroline Hummels",
+    "Joep Frens",
+    "Stephan Wensveen"
+   ]
+  },
+  {
+   "id": "ntnu-computer-science",
+   "name": "NTNU Department of Computer Science (IDI)",
+   "type": "lab",
+   "themes": [
+    "phenomenology",
+    "soma-design"
+   ],
+   "fields": [
+    "foundations",
+    "methods"
+   ],
+   "description": "The Norwegian University of Science and Technology's computer science department in Trondheim, home of Dag Svanæs, whose work on Merleau-Ponty and interaction design and on 'kinaesthetic thinking' made phenomenology of the body usable for HCI. Svanæs co-organised the Dagstuhl seminar on body-centric computing.",
+   "description_zh": "挪威科技大学位于特隆赫姆的计算机系，Dag Svanæs 在这里工作。他关于 Merleau-Ponty 与交互设计、关于“动觉思维”的研究，让身体现象学能够用于人机交互。他也是 Dagstuhl 身体中心计算研讨会的组织者之一。",
+   "url": "https://www.ntnu.edu/idi",
+   "based": "Trondheim, NO",
+   "based_zh": "特隆赫姆，挪威",
+   "people": [
+    "Dag Svanæs"
+   ]
+  },
+  {
+   "id": "usyd-design-lab",
+   "name": "University of Sydney Design Lab",
+   "type": "lab",
+   "themes": [
+    "movement-dance",
+    "soma-design",
+    "art"
+   ],
+   "fields": [
+    "movement",
+    "methods"
+   ],
+   "description": "The research arm of design at the University of Sydney's School of Architecture, Design and Planning (formerly the Key Centre of Design Computing and Cognition). Lian Loke, a former head, translates dance and somatic knowledge into interaction design, e.g. Labanotation for movement-based interaction and the 'moving and making strange' approach with Toni Robertson.",
+   "description_zh": "悉尼大学建筑、设计与规划学院的设计研究部门（前身为设计计算与认知重点中心）。曾任负责人的 Lian Loke 把舞蹈和身体修习的知识转译为交互设计，例如用拉班舞谱描述动作交互，以及与 Toni Robertson 提出的“移动与陌生化”方法。",
+   "url": "https://design.sydney.edu.au/about/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/University_of_Sydney_Design_Lab"
+    }
+   ],
+   "based": "Sydney, AU",
+   "based_zh": "悉尼，澳大利亚",
+   "founded": 1968,
+   "people": [
+    "Lian Loke"
+   ]
+  },
+  {
+   "id": "ucsc-set-lab",
+   "name": "Social Emotional Technology Lab (UC Santa Cruz)",
+   "type": "lab",
+   "themes": [
+    "play-exertion",
+    "affective",
+    "soma-design"
+   ],
+   "fields": [
+    "social",
+    "affect"
+   ],
+   "description": "Katherine Isbister's lab at UC Santa Cruz designing games and wearables for social and emotional connection, including physical co-located play and the Sensual Evaluation Instrument lineage. Isbister is a long-time collaborator of Höök on affective and somaesthetic design.",
+   "description_zh": "Katherine Isbister 在加州大学圣克鲁兹分校的实验室，设计促进社交与情感联结的游戏和可穿戴设备，包括同处一地的身体游戏，也延续了感官评估工具（Sensual Evaluation Instrument）的思路。Isbister 长期与 Höök 合作研究情感与身体美学设计。",
+   "url": "https://setlab.soe.ucsc.edu",
+   "image": "https://setlab.soe.ucsc.edu/images/gallery/chi26.jpg",
+   "based": "Santa Cruz, US",
+   "based_zh": "圣克鲁兹，美国",
+   "people": [
+    "Katherine Isbister"
+   ]
+  },
+  {
+   "id": "open-lab-newcastle",
+   "name": "Open Lab (Newcastle University)",
+   "type": "lab",
+   "themes": [
+    "feminist",
+    "health"
+   ],
+   "fields": [
+    "intimate",
+    "care"
+   ],
+   "description": "Newcastle University's digital civics and HCI lab, where Madeline Balaam led feminist research on women's intimate health and pelvic-floor technologies before moving to KTH. It is a reference point for feminist and care-oriented soma design.",
+   "description_zh": "纽卡斯尔大学的数字公民与人机交互实验室，Madeline Balaam 在转往 KTH 之前在这里领导了关于女性私密健康和盆底技术的女性主义研究。它是女性主义与关怀取向身体设计的重要参照。",
+   "url": "https://openlab.ncl.ac.uk",
+   "based": "Newcastle upon Tyne, UK",
+   "based_zh": "纽卡斯尔，英国",
+   "people": [
+    "Madeline Balaam"
+   ]
+  },
+  {
+   "id": "lisn-ex-situ",
+   "name": "ex)situ (LISN, Université Paris-Saclay / Inria)",
+   "type": "lab",
+   "themes": [
+    "movement-dance",
+    "first-person",
+    "art"
+   ],
+   "fields": [
+    "movement",
+    "methods"
+   ],
+   "description": "The Extreme Situated Interaction team at LISN, Université Paris-Saclay and Inria, led by Wendy Mackay; Sarah Fdili Alaoui developed her research on dance, somatics and first-person methods in HCI here.",
+   "description_zh": "巴黎萨克雷大学 LISN 与 Inria 的“极端情境交互”团队，由 Wendy Mackay 领导；Sarah Fdili Alaoui 在这里发展了她关于舞蹈、身体修习与人机交互第一人称方法的研究。",
+   "url": "https://ex-situ.lisn.upsaclay.fr/",
+   "based": "Paris-Saclay, FR",
+   "based_zh": "巴黎-萨克雷，法国",
+   "people": [
+    "Wendy Mackay",
+    "Sarah Fdili Alaoui"
+   ]
+  },
+  {
+   "id": "imbody-lab",
+   "name": "i_mBODY Lab (Universidad Carlos III de Madrid)",
+   "type": "lab",
+   "themes": [
+    "xr-embodiment",
+    "haptics-touch",
+    "health",
+    "play-exertion"
+   ],
+   "fields": [
+    "machines-xr",
+    "care",
+    "methods"
+   ],
+   "description": "The Interactive Multisensory Body-centred Experiences lab at UC3M Madrid, led by Ana Tajadura-Jiménez, which uses sound, touch and vision to change how people perceive their own bodies (e.g. Magic Feet, body-transformation experiences in BODYinTRANSIT). Elena Márquez Segura works here on embodied ideation and sketching.",
+   "description_zh": "马德里卡洛斯三世大学的“多感官身体中心体验”实验室，由 Ana Tajadura-Jiménez 领导，用声音、触觉和视觉改变人们对自己身体的感知（如 Magic Feet，以及 BODYinTRANSIT 项目中的身体变形体验）。Elena Márquez Segura 在此研究具身构思与具身草图。",
+   "url": "https://imbodylab.com/",
+   "image": "https://imbodylab.com/wp-content/uploads/2026/09/IMG_7565-scaled.jpg",
+   "based": "Madrid, ES",
+   "based_zh": "马德里，西班牙",
+   "people": [
+    "Ana Tajadura-Jiménez",
+    "Elena Márquez Segura"
+   ]
+  },
+  {
+   "id": "keio-embodied-media",
+   "name": "Embodied Media (Keio University KMD)",
+   "name_zh": "庆应义塾大学 Embodied Media 实验室",
+   "type": "lab",
+   "themes": [
+    "haptics-touch",
+    "xr-embodiment",
+    "east-asian"
+   ],
+   "fields": [
+    "machines-xr",
+    "social"
+   ],
+   "description": "Kouta Minamizawa's lab at the Keio University Graduate School of Media Design in Yokohama, creating media that record, share and enhance bodily experience, from haptic design and the TECHTILE toolkit to telexistence. It is a centre of Japan's 'haptic design' community.",
+   "description_zh": "南泽孝太（Kouta Minamizawa）在庆应义塾大学媒体设计研究科（横滨）的实验室，研究记录、分享和增强身体经验的媒体，从触觉设计、TECHTILE 工具包到远程临场（telexistence）。它是日本“触觉设计”社群的中心之一。",
+   "url": "https://www.embodiedmedia.org/",
+   "image": "https://cdn.prod.website-files.com/6006c223a4520d92a6ebffb0/624965936ebcee51d6b52756_emBanner_ccexpress.jpeg",
+   "based": "Yokohama, JP",
+   "based_zh": "横滨，日本",
+   "people": [
+    "Kouta Minamizawa"
+   ]
+  },
+  {
+   "id": "inami-jizai-body-project",
+   "name": "JST ERATO Inami JIZAI Body Project",
+   "name_zh": "稻见自在化身体项目",
+   "type": "lab",
+   "themes": [
+    "xr-embodiment",
+    "robots-ai",
+    "east-asian"
+   ],
+   "fields": [
+    "machines-xr"
+   ],
+   "description": "Masahiko Inami's research project (University of Tokyo, with Keio, Waseda and other partners) on 'body editing': how perception, action and social behaviour change when bodies are augmented, e.g. JIZAI ARMS, a wearable set of detachable robot arms. It frames augmentation through the Japanese idea of jizai, moving freely and at ease.",
+   "description_zh": "稻见昌彦（Masahiko Inami）主持的研究项目（东京大学，联合庆应、早稻田等），研究“身体编辑”：身体被增强后，人的感知、行动和社会行为如何改变，代表作有可穿戴、可拆卸的机械臂 JIZAI ARMS。项目以日本的“自在”观念来理解身体增强。",
+   "url": "https://www.jst.go.jp/erato/inami/en/index.html",
+   "image": "https://www.jst.go.jp/erato/inami/img/slide/s1.jpg",
+   "based": "Tokyo, JP",
+   "based_zh": "东京，日本",
+   "people": [
+    "Masahiko Inami"
+   ]
+  },
+  {
+   "id": "tsinghua-future-lab",
+   "name": "Tsinghua University Future Laboratory",
+   "name_zh": "清华大学未来实验室",
+   "type": "lab",
+   "themes": [
+    "haptics-touch",
+    "affective",
+    "east-asian"
+   ],
+   "fields": [
+    "affect",
+    "machines-xr"
+   ],
+   "description": "An interdisciplinary laboratory at Tsinghua University in Beijing whose Center for Perception and Consciousness Research designs multisensory, touch-based experiences such as tactile music appreciation and dream visualisation, and which publishes widely at CHI on haptics and human-computer interaction.",
+   "description_zh": "清华大学的跨学科实验室。其感知与意识研究中心设计以触觉为主的多感官体验，例如“音乐可触化”和梦境可视化，实验室也在 CHI 上发表了大量触觉与人机交互研究。",
+   "url": "https://thfl.tsinghua.edu.cn/index.htm",
+   "image": "https://thfl.tsinghua.edu.cn/images/banner.png",
+   "based": "Beijing, CN",
+   "based_zh": "北京，中国"
+  },
+  {
+   "id": "jedi-lab-nus",
+   "name": "JEDI Lab (National University of Singapore)",
+   "type": "lab",
+   "themes": [
+    "east-asian",
+    "first-person",
+    "health"
+   ],
+   "fields": [
+    "methods",
+    "foundations"
+   ],
+   "description": "The Joyful Experiences in Design and Interaction lab in NUS's Department of Design, which studies technology for reflection, care and rest. Its CHI 2026 paper 'Toward Pluralizing Reflection in HCI through Daoism' draws on Daoist priests and practitioners to describe embodied, relational reflection (stillness, resonance, emergence).",
+   "description_zh": "新加坡国立大学设计系的 JEDI 实验室，研究支持反思、关怀与休息的技术。其 CHI 2026 论文《Toward Pluralizing Reflection in HCI through Daoism》通过访谈道士与修行者，提出一种具身、关系性的反思（静、感应、生发）。",
+   "url": "https://joyfuldesignlab.com",
+   "links": [
+    {
+     "label": "Daoism reflection project",
+     "url": "https://daoismreflection.org/"
+    }
+   ],
+   "image": "https://freight.cargo.site/w/1000/i/X2187796495889908379968159991307/Preview.png",
+   "based": "Singapore, SG",
+   "based_zh": "新加坡",
+   "people": [
+    "Janghee Cho",
+    "Aaron Pengyu Zhu"
+   ]
+  },
+  {
+   "id": "mit-tangible-media-group",
+   "name": "MIT Media Lab Tangible Media Group",
+   "name_zh": "MIT 可触媒体组",
+   "type": "lab",
+   "themes": [
+    "haptics-touch",
+    "art"
+   ],
+   "fields": [
+    "social",
+    "machines-xr"
+   ],
+   "description": "Hiroshi Ishii's group at the MIT Media Lab, which founded tangible user interfaces and made early remote-touch works such as inTouch (1997), later shape displays (inFORM) and 'radical atoms'. Its work is a starting point for touch and shape-change in soma design.",
+   "description_zh": "石井裕（Hiroshi Ishii）在 MIT 媒体实验室的研究组，开创了可触用户界面，做出了远程触摸的早期作品 inTouch（1997），以及后来的形状显示器 inFORM 和“激进原子”。它是身体设计中触觉与形变研究的起点之一。",
+   "url": "https://tangible.media.mit.edu",
+   "image": "https://tangible.media.mit.edu/static/vision-image-tui-8f7b2a2d0b7207000ebe6ccc69c3e652.jpg",
+   "based": "Cambridge, US",
+   "based_zh": "剑桥（马萨诸塞州），美国",
+   "founded": 1995,
+   "people": [
+    "Hiroshi Ishii"
+   ]
+  },
+  {
+   "id": "mit-fluid-interfaces",
+   "name": "MIT Media Lab Fluid Interfaces",
+   "type": "lab",
+   "themes": [
+    "biosignals",
+    "health",
+    "meditation"
+   ],
+   "fields": [
+    "affect",
+    "care"
+   ],
+   "description": "Pattie Maes's group at the MIT Media Lab building wearable and physiological interfaces for attention, memory, sleep and wellbeing, such as Dormio for dream incubation and biofeedback wearables for calm.",
+   "description_zh": "Pattie Maes 在 MIT 媒体实验室的研究组，设计与注意力、记忆、睡眠和安适相关的可穿戴与生理接口，例如用于梦境孵化的 Dormio，以及帮助平静的生物反馈可穿戴设备。",
+   "url": "https://www.media.mit.edu/groups/fluid-interfaces/overview/",
+   "image": "https://dam-prod.media.mit.edu/thumb/2018/04/05/mores_37ayBeO.jpg.1400x1400.jpg",
+   "based": "Cambridge, US",
+   "based_zh": "剑桥（马萨诸塞州），美国",
+   "people": [
+    "Pattie Maes"
+   ]
+  },
+  {
+   "id": "human-computer-integration-lab",
+   "name": "Human Computer Integration Lab (University of Chicago)",
+   "type": "lab",
+   "themes": [
+    "haptics-touch",
+    "xr-embodiment"
+   ],
+   "fields": [
+    "machines-xr"
+   ],
+   "description": "Pedro Lopes's lab at the University of Chicago, which builds interfaces that borrow parts of the user's body, such as electrical muscle stimulation that moves the hand, chemical haptics and temperature illusions. It raises questions of agency and ownership central to soma design with machines.",
+   "description_zh": "Pedro Lopes 在芝加哥大学的实验室，制作“借用”使用者身体的界面，例如驱动手部的肌肉电刺激、化学触觉和温度错觉，提出了能动性与身体所有感等问题，这些正是机器与身体设计的核心。",
+   "url": "https://lab.plopes.org",
+   "based": "Chicago, US",
+   "based_zh": "芝加哥，美国",
+   "people": [
+    "Pedro Lopes"
+   ]
+  },
+  {
+   "id": "beanotherlab",
+   "name": "BeAnotherLab",
+   "type": "lab",
+   "themes": [
+    "xr-embodiment",
+    "art"
+   ],
+   "fields": [
+    "machines-xr",
+    "social"
+   ],
+   "description": "An interdisciplinary collective based in Barcelona that created The Machine to Be Another, an embodiment system in which two people swap first-person perspectives and move in synchrony to 'be in another's body', used in art, research and dialogue work.",
+   "description_zh": "总部在巴塞罗那的跨学科团体，创作了 The Machine to Be Another：两人交换第一人称视角、同步动作，体验“在另一个人的身体里”，被用于艺术、研究与对话实践。",
+   "url": "https://beanotherlab.org",
+   "image": "https://beanotherlab.org/wp-content/uploads/2019/03/tmtba_01_portada_movil.jpg",
+   "based": "Barcelona, ES",
+   "based_zh": "巴塞罗那，西班牙",
+   "people": [
+    "Philippe Bertrand",
+    "Marte Roel",
+    "Daniel González",
+    "Christian Cherene",
+    "Arthur Tres"
+   ],
+   "creator_id": "beanotherlab"
+  },
+  {
+   "id": "reality-design-lab",
+   "name": "Reality Design Lab",
+   "name_zh": "现实设计实验室",
+   "type": "lab",
+   "themes": [
+    "xr-embodiment",
+    "soma-design",
+    "more-than-human"
+   ],
+   "fields": [
+    "machines-xr"
+   ],
+   "description": "Botao 'Amber' Hu's lab designing speculative and immersive realities (HoloKit, EchoVision) and teaching 'Somaesthetic Realities'; it makes this gallery, Somatic Reality Inspire.",
+   "description_zh": "胡博涛（Botao “Amber” Hu）的实验室，设计思辨性与沉浸式的现实（HoloKit、EchoVision），开设“身体美学现实”课程；本站 Somatic Reality Inspire 由它制作。",
+   "url": "https://reality.design",
+   "image": "https://reality.design/static/images/twitter-card.png",
+   "people": [
+    "Botao Amber Hu"
+   ]
+  },
+  {
+   "id": "ohio-state-accad",
+   "name": "ACCAD (Ohio State University)",
+   "type": "lab",
+   "themes": [
+    "movement-dance",
+    "art"
+   ],
+   "fields": [
+    "movement"
+   ],
+   "description": "The Advanced Computing Center for the Arts and Design at Ohio State, a hub for motion capture, dance and technology, where Synchronous Objects with William Forsythe and later dance-tech work were produced.",
+   "description_zh": "俄亥俄州立大学的艺术与设计先进计算中心，是动作捕捉、舞蹈与技术的重要基地，与 William Forsythe 合作的 Synchronous Objects 等舞蹈科技项目出自这里。",
+   "url": "https://accad.osu.edu",
+   "image": "https://accad.osu.edu/sites/default/files/styles/16x9/public/2024-04/Hero_Image_2024_0.png.webp?h=04bec34f&itok=gh0z0vGD",
+   "based": "Columbus, US",
+   "based_zh": "哥伦布，美国",
+   "people": [
+    "Norah Zuniga Shaw"
+   ]
+  },
+  {
+   "id": "synthesis-center-asu",
+   "name": "Synthesis Center (Arizona State University)",
+   "type": "lab",
+   "themes": [
+    "phenomenology",
+    "movement-dance",
+    "art"
+   ],
+   "fields": [
+    "movement",
+    "foundations"
+   ],
+   "description": "Sha Xin Wei's research centre at ASU building responsive environments in which movement, sound and light co-evolve, grounded in phenomenology and process philosophy; it continues the Topological Media Lab's work from Concordia University.",
+   "description_zh": "Sha Xin Wei 在亚利桑那州立大学的研究中心，建造动作、声音与光共同变化的响应式环境，理论基础是现象学与过程哲学，延续了他在康考迪亚大学 Topological Media Lab 的工作。",
+   "url": "https://synthesiscenter.net",
+   "image": "https://synthesiscenter.net/wp-content/uploads/2016/04/synthesis_home_header-1024x342.jpg",
+   "based": "Tempe, US",
+   "based_zh": "坦佩，美国",
+   "people": [
+    "Sha Xin Wei"
+   ]
+  },
+  {
+   "id": "coventry-c-dare",
+   "name": "Centre for Dance Research (C-DaRE), Coventry University",
+   "type": "lab",
+   "themes": [
+    "movement-dance",
+    "somatic-practice",
+    "art"
+   ],
+   "fields": [
+    "movement",
+    "practices"
+   ],
+   "description": "Coventry University's dance research centre, directed by Sarah Whatley, working on somatic practices, dance documentation, digital performance and disability; it hosts the Journal of Dance & Somatic Practices and the International Dance and Somatic Practices Conference.",
+   "description_zh": "考文垂大学的舞蹈研究中心，由 Sarah Whatley 主持，研究身体修习、舞蹈记录、数字表演与残障议题；《Journal of Dance & Somatic Practices》和国际舞蹈与身体修习会议都由它主办。",
+   "url": "https://www.coventry.ac.uk/research/areas-of-research/centre-for-dance-research/",
+   "image": "https://www.coventry.ac.uk/globalassets/media/global/08-new-research-section/c-dare/siobhan-davies.jpg",
+   "based": "Coventry, UK",
+   "based_zh": "考文垂，英国",
+   "people": [
+    "Sarah Whatley"
+   ]
+  },
+  {
+   "id": "international-feldenkrais-federation",
+   "name": "International Feldenkrais Federation (IFF)",
+   "name_zh": "国际费登奎斯联合会",
+   "type": "school",
+   "themes": [
+    "somatic-practice",
+    "movement-dance"
+   ],
+   "fields": [
+    "practices",
+    "methods"
+   ],
+   "description": "The international umbrella body of Feldenkrais Method guilds and training accreditation boards, which maintains the Method's standards, archives and research resources. Feldenkrais lessons (Awareness Through Movement) are the somatic training most used in Höök's soma design.",
+   "description_zh": "费登奎斯方法各国协会与培训认证机构的国际联合会，维护方法的标准、档案与研究资源。费登奎斯课程（动中觉察）是 Höök 身体设计中最常用的身体训练。",
+   "url": "https://feldenkrais-method.org",
+   "links": [
+    {
+     "label": "Wikipedia: Feldenkrais Method",
+     "url": "https://en.wikipedia.org/wiki/Feldenkrais_method"
+    }
+   ],
+   "image": "https://feldenkrais-method.org/media/gjljn2iw/fkmoments.jpg?width=1370&height=745&v=1da87bbef354210"
+  },
+  {
+   "id": "feldenkrais-guild-north-america",
+   "name": "Feldenkrais Guild of North America",
+   "name_zh": "北美费登奎斯协会",
+   "type": "school",
+   "themes": [
+    "somatic-practice",
+    "movement-dance"
+   ],
+   "fields": [
+    "practices"
+   ],
+   "description": "The professional association of Feldenkrais practitioners in the US and Canada, which lists accredited trainings, teachers and Awareness Through Movement classes.",
+   "description_zh": "美国与加拿大费登奎斯从业者的专业协会，提供经认证的培训、教师名录和“动中觉察”课程。",
+   "url": "https://feldenkrais.com",
+   "founded": 1977
+  },
+  {
+   "id": "amsat",
+   "name": "American Society for the Alexander Technique (AmSAT)",
+   "name_zh": "美国亚历山大技巧协会",
+   "type": "school",
+   "themes": [
+    "somatic-practice"
+   ],
+   "fields": [
+    "practices"
+   ],
+   "description": "The largest US association of certified Alexander Technique teachers, setting teacher-training standards for the practice of noticing and inhibiting habitual patterns of use, which soma designers cite as a model of estrangement and re-education.",
+   "description_zh": "美国最大的亚历山大技巧认证教师协会，为教师培训设定标准。亚历山大技巧练习觉察并抑制惯常的身体使用方式，身体设计者把它当作陌生化与再教育的范例。",
+   "url": "https://alexandertechniqueusa.org/",
+   "based": "US",
+   "based_zh": "美国",
+   "founded": 1987
+  },
+  {
+   "id": "stat-alexander-technique",
+   "name": "Society of Teachers of the Alexander Technique (STAT)",
+   "name_zh": "亚历山大技巧教师协会",
+   "type": "school",
+   "themes": [
+    "somatic-practice"
+   ],
+   "fields": [
+    "practices"
+   ],
+   "description": "The oldest professional body for the Alexander Technique, founded in London in 1958 by teachers trained by F. M. Alexander; it accredits teacher-training courses and runs an extensive public guide to the Technique.",
+   "description_zh": "历史最悠久的亚历山大技巧专业团体，1958 年由 F. M. Alexander 亲自培训的教师在伦敦创立，负责认证教师培训课程，并维护内容丰富的公众指南。",
+   "url": "https://alexandertechnique.co.uk",
+   "image": "https://alexandertechnique.co.uk/sites/default/files/2025-04/SemiSupine05%20%282%29.jpg",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "founded": 1958
+  },
+  {
+   "id": "school-for-body-mind-centering",
+   "name": "The School for Body-Mind Centering",
+   "name_zh": "身心平衡技法学校",
+   "type": "school",
+   "themes": [
+    "somatic-practice",
+    "movement-dance"
+   ],
+   "fields": [
+    "practices",
+    "methods"
+   ],
+   "description": "The school founded by Bonnie Bainbridge Cohen to teach Body-Mind Centering, an experiential study of body systems, developmental movement and embodied anatomy that shapes somatic dance and several soma design methods.",
+   "description_zh": "Bonnie Bainbridge Cohen 创办的学校，教授身心平衡技法（Body-Mind Centering）：以亲身体验来研究身体各系统、发展性动作和具身解剖，影响了身体舞蹈和多种身体设计方法。",
+   "url": "https://www.bodymindcentering.com",
+   "image": "https://www.bodymindcentering.com/wp-content/uploads/2017/08/bonnie-teaching.jpg",
+   "founded": 1973,
+   "people": [
+    "Bonnie Bainbridge Cohen"
+   ]
+  },
+  {
+   "id": "laban-bartenieff-institute",
+   "name": "Laban/Bartenieff Institute of Movement Studies (LIMS)",
+   "name_zh": "拉班/巴特尼夫动作研究所",
+   "type": "school",
+   "themes": [
+    "movement-dance",
+    "somatic-practice"
+   ],
+   "fields": [
+    "practices",
+    "methods"
+   ],
+   "description": "The New York institute founded by Irmgard Bartenieff that certifies Laban Movement Analysts and teaches Bartenieff Fundamentals, the vocabulary of Effort, Shape and Space that movement-based interaction designers use to describe felt movement qualities.",
+   "description_zh": "由 Irmgard Bartenieff 在纽约创办的机构，认证拉班动作分析师、教授 Bartenieff 基础练习；它提供的力效、形状与空间词汇被动作交互设计者用来描述动作的感受品质。",
+   "url": "https://labaninstitute.org",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Laban/Bartenieff_Institute_of_Movement_Studies"
+    }
+   ],
+   "image": "https://labaninstitute.org/wp-content/uploads/2024/03/IMG_3422.png",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "founded": 1978,
+   "people": [
+    "Irmgard Bartenieff"
+   ]
+  },
+  {
+   "id": "trinity-laban",
+   "name": "Trinity Laban Conservatoire of Music and Dance",
+   "name_zh": "圣三一拉班音乐舞蹈学院",
+   "type": "school",
+   "themes": [
+    "movement-dance",
+    "somatic-practice"
+   ],
+   "fields": [
+    "movement",
+    "practices"
+   ],
+   "description": "The London conservatoire whose dance faculty descends from Rudolf Laban's Art of Movement Studio and the Laban Centre; it houses the Laban Archive and teaches somatic approaches alongside contemporary dance.",
+   "description_zh": "伦敦的音乐与舞蹈学院，其舞蹈部门源自 Rudolf Laban 的动作艺术工作室和拉班中心，收藏拉班档案，并在当代舞之外教授身体修习方法。",
+   "url": "https://www.trinitylaban.ac.uk",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Trinity_Laban_Conservatoire_of_Music_and_Dance"
+    }
+   ],
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "founded": 2005
+  },
+  {
+   "id": "somatic-experiencing-international",
+   "name": "Somatic Experiencing International",
+   "name_zh": "国际身体经验疗法协会",
+   "type": "school",
+   "themes": [
+    "somatic-practice",
+    "health"
+   ],
+   "fields": [
+    "practices",
+    "care"
+   ],
+   "description": "The organisation that trains practitioners in Peter Levine's Somatic Experiencing, a body-based approach to trauma that works with felt sensation, titration and the nervous system's capacity to settle.",
+   "description_zh": "培训 Peter Levine 身体经验疗法（Somatic Experiencing）从业者的机构。这种以身体为本的创伤疗法通过感受觉察、逐步滴定和神经系统自我平复的能力来工作。",
+   "url": "https://traumahealing.org",
+   "people": [
+    "Peter A. Levine"
+   ]
+  },
+  {
+   "id": "tamalpa-institute",
+   "name": "Tamalpa Institute",
+   "name_zh": "塔玛尔帕学院",
+   "type": "school",
+   "themes": [
+    "movement-dance",
+    "somatic-practice",
+    "art",
+    "health"
+   ],
+   "fields": [
+    "practices",
+    "movement"
+   ],
+   "description": "Founded in 1978 by Anna and Daria Halprin in Marin County, California, the institute trains people in the Life/Art Process, a movement-based expressive arts therapy that links body, feeling and imagery.",
+   "description_zh": "1978 年由 Anna Halprin 与 Daria Halprin 在加州马林县创办，教授“生命/艺术过程”（Life/Art Process）：一种以动作为基础、把身体、情感与意象连在一起的表达性艺术疗法。",
+   "url": "https://tamalpa.org/",
+   "image": "https://tamalpa.org/wp-content/uploads/007_tamalpa_steel_blue_1200x550.jpg",
+   "based": "California, US",
+   "based_zh": "加利福尼亚，美国",
+   "founded": 1978,
+   "people": [
+    "Anna Halprin",
+    "Daria Halprin"
+   ]
+  },
+  {
+   "id": "dr-ida-rolf-institute",
+   "name": "Dr. Ida Rolf Institute",
+   "name_zh": "罗尔夫研究所",
+   "type": "school",
+   "themes": [
+    "somatic-practice",
+    "health"
+   ],
+   "fields": [
+    "practices"
+   ],
+   "description": "The school of Rolfing Structural Integration, the manual and movement education method developed by Ida Rolf, one of the founding somatic disciplines taught at Esalen in the 1960s.",
+   "description_zh": "罗尔夫结构整合（Rolfing）的学校。这套由 Ida Rolf 发展的徒手与动作教育方法，是 1960 年代在伊莎兰学院传授的奠基性身体修习之一。",
+   "url": "https://rolf.org",
+   "image": "https://rolf.org/photos/class_photo_12162025155139.JPEG",
+   "based": "Boulder, US",
+   "based_zh": "博尔德，美国",
+   "founded": 1971,
+   "people": [
+    "Ida Rolf"
+   ]
+  },
+  {
+   "id": "umass-center-for-mindfulness",
+   "name": "UMass Memorial Center for Mindfulness",
+   "name_zh": "麻省大学正念中心",
+   "type": "school",
+   "themes": [
+    "meditation",
+    "health"
+   ],
+   "fields": [
+    "practices",
+    "care"
+   ],
+   "description": "The centre that grew from Jon Kabat-Zinn's Stress Reduction Clinic (1979) at the University of Massachusetts Medical School, where Mindfulness-Based Stress Reduction and its body scan were developed and taught.",
+   "description_zh": "源自 Jon Kabat-Zinn 1979 年在麻省大学医学院创办的减压诊所，正念减压（MBSR）及其身体扫描练习在这里形成并传授。",
+   "url": "https://www.ummhealth.org/services-treatments/center-mindfulness",
+   "links": [
+    {
+     "label": "Mindfulness Center at Brown University",
+     "url": "https://mindfulness.sph.brown.edu/"
+    }
+   ],
+   "image": "https://www.ummhealth.org/sites/default/files/2024-11/Mindfulness_Hero_960x465.jpg",
+   "based": "Worcester, US",
+   "based_zh": "伍斯特，美国",
+   "people": [
+    "Jon Kabat-Zinn",
+    "Saki Santorelli"
+   ]
+  },
+  {
+   "id": "plum-village",
+   "name": "Plum Village",
+   "name_zh": "梅村",
+   "type": "school",
+   "themes": [
+    "meditation",
+    "east-asian"
+   ],
+   "fields": [
+    "practices"
+   ],
+   "description": "The monastery and practice centre founded by Zen master Thich Nhat Hanh in south-west France, teaching mindful breathing, walking meditation and 'interbeing' to a worldwide lay community.",
+   "description_zh": "一行禅师在法国西南部创办的禅修道场，向全世界的在家修行者传授正念呼吸、行禅与“相即”（interbeing）。",
+   "url": "https://plumvillage.org",
+   "image": "https://plumvillage.org/wp-content/uploads/2020/06/cropped-IMG_7914-2.jpg",
+   "based": "Dordogne, FR",
+   "based_zh": "多尔多涅，法国",
+   "founded": 1982,
+   "people": [
+    "Thich Nhat Hanh"
+   ]
+  },
+  {
+   "id": "chinese-health-qigong-association",
+   "name": "Chinese Health Qigong Association",
+   "name_zh": "中国健身气功协会",
+   "type": "school",
+   "themes": [
+    "east-asian",
+    "somatic-practice",
+    "health",
+    "meditation"
+   ],
+   "fields": [
+    "practices"
+   ],
+   "description": "China's national body for health qigong, which standardises and teaches forms such as Baduanjin, Wuqinxi, Yijinjing and Liuzijue that regulate body, breath and mind together.",
+   "description_zh": "负责健身气功的全国性社团，推广和规范八段锦、五禽戏、易筋经、六字诀等功法，讲究调身、调息、调心三者合一。",
+   "url": "https://www.chqa.org.cn",
+   "links": [
+    {
+     "label": "Wikipedia: Qigong",
+     "url": "https://en.wikipedia.org/wiki/Qigong"
+    }
+   ],
+   "based": "Beijing, CN",
+   "based_zh": "北京，中国",
+   "creator_id": "chinese-health-qigong-association"
+  },
+  {
+   "id": "yang-family-tai-chi",
+   "name": "International Yang Style Tai Chi Chuan Association",
+   "name_zh": "国际杨氏太极拳协会",
+   "type": "school",
+   "themes": [
+    "east-asian",
+    "somatic-practice",
+    "movement-dance"
+   ],
+   "fields": [
+    "practices"
+   ],
+   "description": "The association led by Yang Jun, a fifth-generation lineage holder of Yang-style tai chi, which teaches the traditional Yang forms through affiliated centres worldwide.",
+   "description_zh": "由杨氏太极拳第五代传人杨军领导的国际协会，通过遍布世界的分会传授传统杨氏太极拳套路。",
+   "url": "https://yangfamilytaichi.com",
+   "links": [
+    {
+     "label": "Wikipedia: Yang-style tai chi",
+     "url": "https://en.wikipedia.org/wiki/Yang-style_tai_chi"
+    }
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Yang_cheng_fu_single_whip_application_2_75.jpg",
+   "people": [
+    "Yang Jun"
+   ]
+  },
+  {
+   "id": "seitai-kyokai",
+   "name": "Seitai Kyokai",
+   "name_zh": "整体协会",
+   "type": "school",
+   "themes": [
+    "east-asian",
+    "somatic-practice",
+    "health"
+   ],
+   "fields": [
+    "practices"
+   ],
+   "description": "The Japanese association founded by Haruchika Noguchi to teach seitai, including katsugen undō, spontaneous 'regenerating movement' that lets the body move by itself, and yukiho, attentive laying-on of hands.",
+   "description_zh": "野口晴哉创办的日本整体协会，传授整体法，包括让身体自发运动的“活元运动”和专注的“愉气法”（手当）。",
+   "url": "https://www.seitai.org",
+   "links": [
+    {
+     "label": "Wikipedia: Seitai",
+     "url": "https://en.wikipedia.org/wiki/Seitai"
+    }
+   ],
+   "image": "https://www.seitai.org/images/header_1.jpg",
+   "based": "Tokyo, JP",
+   "based_zh": "东京，日本",
+   "people": [
+    "Haruchika Noguchi"
+   ]
+  },
+  {
+   "id": "noguchi-taiso",
+   "name": "Noguchi Taisō Association",
+   "name_zh": "野口体操之会",
+   "type": "school",
+   "themes": [
+    "east-asian",
+    "somatic-practice",
+    "movement-dance"
+   ],
+   "fields": [
+    "practices"
+   ],
+   "description": "The group that continues Noguchi Michizō's (1914–1998) Noguchi Taisō, a Japanese movement practice of releasing unnecessary effort and letting weight and fluid move the body, taught for decades at Tokyo University of the Arts.",
+   "description_zh": "传承野口三千三（1914–1998）野口体操的团体。野口体操主张放下多余的力，让重量与体内“液体”带动身体，曾在东京艺术大学教授数十年。",
+   "url": "https://www.noguchi-taisou.jp/",
+   "links": [
+    {
+     "label": "Wikipedia (ja)",
+     "url": "https://ja.wikipedia.org/wiki/%E9%87%8E%E5%8F%A3%E4%BD%93%E6%93%8D"
+    }
+   ],
+   "image": "https://www.noguchi-taisou.jp/_src/7064/94c28f91.jpg?v=1680092524409",
+   "based": "Tokyo, JP",
+   "based_zh": "东京，日本",
+   "people": [
+    "Noguchi Michizō"
+   ]
+  },
+  {
+   "id": "aikikai-foundation",
+   "name": "Aikikai Foundation",
+   "name_zh": "合气会",
+   "type": "school",
+   "themes": [
+    "east-asian",
+    "somatic-practice",
+    "movement-dance"
+   ],
+   "fields": [
+    "practices"
+   ],
+   "description": "The Tokyo headquarters (Hombu Dōjō) of aikido founded by Morihei Ueshiba, whose practice of blending with a partner's movement is used in somatic education and embodied design.",
+   "description_zh": "植芝盛平创立的合气道总部（东京本部道场）。合气道练习与对方动作相融，被身体教育与具身设计借用。",
+   "url": "https://aikikai.or.jp/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Aikikai"
+    }
+   ],
+   "image": "https://aikikai.or.jp/wp-content/themes/aiki-kai/dist/img/FV1.jpg",
+   "based": "Tokyo, JP",
+   "based_zh": "东京，日本",
+   "people": [
+    "Morihei Ueshiba",
+    "Moriteru Ueshiba"
+   ]
+  },
+  {
+   "id": "international-focusing-institute",
+   "name": "The International Focusing Institute",
+   "name_zh": "国际聚焦研究所",
+   "type": "school",
+   "themes": [
+    "first-person",
+    "phenomenology",
+    "somatic-practice"
+   ],
+   "fields": [
+    "practices",
+    "methods"
+   ],
+   "description": "The institute founded by Eugene Gendlin to teach Focusing, attending to the bodily 'felt sense' of a situation before words, and his Thinking at the Edge. Soma designers use Focusing to articulate felt experience.",
+   "description_zh": "Eugene Gendlin 创办的机构，教授体会聚焦（Focusing）：在言语之前关注对一个情境的身体“体会”（felt sense），以及“边缘思考”（Thinking at the Edge）。身体设计者用 Focusing 来说出被感受到的经验。",
+   "url": "https://focusing.org",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "people": [
+    "Eugene Gendlin"
+   ]
+  },
+  {
+   "id": "hakomi-institute",
+   "name": "Hakomi Institute",
+   "name_zh": "Hakomi 研究所",
+   "type": "school",
+   "themes": [
+    "somatic-practice",
+    "health",
+    "meditation"
+   ],
+   "fields": [
+    "practices",
+    "care"
+   ],
+   "description": "The training organisation for Hakomi, Ron Kurtz's mindfulness-centred somatic psychotherapy that studies how beliefs are held in posture, gesture and felt sensation.",
+   "description_zh": "Hakomi 疗法的培训机构。这是 Ron Kurtz 创立的以正念为中心的身体心理疗法，探究信念如何体现在姿态、手势和身体感受之中。",
+   "url": "https://hakomiinstitute.com",
+   "founded": 1981,
+   "people": [
+    "Ron Kurtz"
+   ]
+  },
+  {
+   "id": "continuum-movement",
+   "name": "Continuum Movement",
+   "name_zh": "Continuum 连续体动作",
+   "type": "school",
+   "themes": [
+    "somatic-practice",
+    "movement-dance",
+    "meditation"
+   ],
+   "fields": [
+    "practices"
+   ],
+   "description": "The practice founded by Emilie Conrad that uses breath, sound and slow, wave-like movement to explore the body as fluid; teachers continue it through workshops and trainings.",
+   "description_zh": "Emilie Conrad 创立的修习，用呼吸、声音和缓慢如波的动作把身体当作流体来探索，如今由教师们通过工作坊和培训延续。",
+   "url": "https://continuummovement.com",
+   "image": "https://continuummovement.com/wp-content/uploads/2018/08/continuum_movement_background-1024x523.jpg",
+   "people": [
+    "Emilie Conrad",
+    "Susan Harper"
+   ]
+  },
+  {
+   "id": "discipline-of-authentic-movement",
+   "name": "The Discipline of Authentic Movement",
+   "name_zh": "真实动作修习",
+   "type": "school",
+   "themes": [
+    "somatic-practice",
+    "movement-dance",
+    "first-person"
+   ],
+   "fields": [
+    "practices",
+    "methods"
+   ],
+   "description": "Janet Adler's development of Mary Starks Whitehouse's Authentic Movement: a mover moves with eyes closed while a witness attends, training embodied presence and first-person articulation.",
+   "description_zh": "Janet Adler 在 Mary Starks Whitehouse 的真实动作（Authentic Movement）基础上发展出的修习：动者闭眼移动，见证者在旁专注观照，训练具身的在场与第一人称表达。",
+   "url": "https://disciplineofauthenticmovement.com",
+   "links": [
+    {
+     "label": "Wikipedia: Authentic Movement",
+     "url": "https://en.wikipedia.org/wiki/Authentic_Movement"
+    }
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Movers.jpg",
+   "people": [
+    "Janet Adler"
+   ]
+  },
+  {
+   "id": "san-francisco-zen-center",
+   "name": "San Francisco Zen Center",
+   "name_zh": "旧金山禅修中心",
+   "type": "school",
+   "themes": [
+    "meditation",
+    "east-asian"
+   ],
+   "fields": [
+    "practices"
+   ],
+   "description": "The Sōtō Zen community founded by Shunryu Suzuki, author of Zen Mind, Beginner's Mind, which runs City Center, Green Gulch Farm and Tassajara; a main route by which zazen reached Western designers and scholars.",
+   "description_zh": "铃木俊隆创办的曹洞宗禅修团体，他著有《禅者的初心》；中心运营城市中心、绿谷农场和塔萨哈拉禅山中心，是坐禅进入西方设计者与学者视野的主要途径之一。",
+   "url": "https://www.sfzc.org",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/San_Francisco_Zen_Center.jpg",
+   "based": "San Francisco, US",
+   "based_zh": "旧金山，美国",
+   "founded": 1962,
+   "people": [
+    "Shunryu Suzuki"
+   ]
+  },
+  {
+   "id": "vipassana-dhamma",
+   "name": "Vipassana Meditation (dhamma.org)",
+   "name_zh": "内观禅修（葛印卡传承）",
+   "type": "school",
+   "themes": [
+    "meditation",
+    "somatic-practice"
+   ],
+   "fields": [
+    "practices"
+   ],
+   "description": "The worldwide network of centres offering S. N. Goenka's free ten-day Vipassana courses, in which practitioners systematically scan bodily sensations with equanimity, one of the most widespread body-scan practices.",
+   "description_zh": "葛印卡（S. N. Goenka）内观禅修的全球中心网络，提供免费的十日课程：学员以平等心有系统地扫描身体感受，这是流传最广的身体扫描修习之一。",
+   "url": "https://www.dhamma.org/en/index",
+   "links": [
+    {
+     "label": "Wikipedia: S. N. Goenka",
+     "url": "https://en.wikipedia.org/wiki/S._N._Goenka"
+    }
+   ],
+   "people": [
+    "S. N. Goenka"
+   ]
+  },
+  {
+   "id": "kazuo-ohno-dance-studio",
+   "name": "Kazuo Ohno Dance Studio",
+   "name_zh": "大野一雄舞踏研究所",
+   "type": "school",
+   "themes": [
+    "east-asian",
+    "movement-dance",
+    "art"
+   ],
+   "fields": [
+    "practices",
+    "movement"
+   ],
+   "description": "The butoh studio of Kazuo Ohno and Yoshito Ohno in Yokohama, which still holds regular workshops and keeps the Kazuo Ohno Archives of films, photographs and notes.",
+   "description_zh": "大野一雄与大野庆人在横滨的舞踏研究所，至今定期开设工作坊，并保存大野一雄档案（影像、照片与笔记）。",
+   "url": "http://www.kazuoohnodancestudio.com/english/",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Kazuo_Ohno.jpg",
+   "based": "Yokohama, JP",
+   "based_zh": "横滨，日本",
+   "people": [
+    "Kazuo Ohno",
+    "Yoshito Ohno"
+   ]
+  },
+  {
+   "id": "acm-chi",
+   "name": "ACM CHI Conference on Human Factors in Computing Systems",
+   "type": "conference",
+   "themes": [
+    "soma-design",
+    "first-person"
+   ],
+   "fields": [
+    "methods",
+    "somaesthetic"
+   ],
+   "description": "The largest HCI conference, where most soma design papers, workshops and first-person research have appeared (e.g. Somaesthetic Appreciation Design, 2016; the soma-based design theory workshop, 2017).",
+   "description_zh": "规模最大的人机交互会议，大部分身体设计论文、工作坊和第一人称研究都发表于此（如 2016 年的 Somaesthetic Appreciation Design、2017 年的身体设计理论工作坊）。",
+   "url": "https://chi2027.acm.org",
+   "links": [
+    {
+     "label": "ACM Digital Library",
+     "url": "https://dl.acm.org/conference/chi"
+    },
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Conference_on_Human_Factors_in_Computing_Systems"
+    }
+   ],
+   "image": "https://images.ctfassets.net/rufa4t0ewnqg/1DZ81R8cfAFExaSlXdhlrv/9ed314646747868bf1ad9a07a138a986/chi_Large.jpeg",
+   "founded": 1982
+  },
+  {
+   "id": "acm-dis",
+   "name": "ACM Designing Interactive Systems (DIS)",
+   "type": "conference",
+   "themes": [
+    "soma-design",
+    "first-person"
+   ],
+   "fields": [
+    "methods"
+   ],
+   "description": "The ACM conference on design practice and research in interaction, a frequent venue for soma design methods such as Teaching Soma Design (2019) and Sketching Soma Bits (2022).",
+   "description_zh": "ACM 关于交互设计实践与研究的会议，常发表身体设计方法论文，如《Teaching Soma Design》（2019）和《Sketching Soma Bits》（2022）。",
+   "url": "https://dis.acm.org",
+   "links": [
+    {
+     "label": "ACM Digital Library",
+     "url": "https://dl.acm.org/conference/dis"
+    }
+   ],
+   "founded": 1995
+  },
+  {
+   "id": "acm-tei",
+   "name": "ACM Tangible, Embedded and Embodied Interaction (TEI)",
+   "type": "conference",
+   "themes": [
+    "soma-design",
+    "haptics-touch",
+    "art"
+   ],
+   "fields": [
+    "somaesthetic",
+    "methods"
+   ],
+   "description": "The ACM conference on tangible, embedded and embodied interaction, with studios and an arts track where soma designers demonstrate and share material and bodily explorations.",
+   "description_zh": "ACM 关于可触、嵌入式与具身交互的会议，设有工作室（studios）和艺术单元，身体设计者在这里展示与分享材料和身体的探索。",
+   "url": "https://tei.acm.org",
+   "founded": 2007
+  },
+  {
+   "id": "moco",
+   "name": "MOCO: International Conference on Movement and Computing",
+   "type": "conference",
+   "themes": [
+    "movement-dance",
+    "art",
+    "somatic-practice"
+   ],
+   "fields": [
+    "movement"
+   ],
+   "description": "A conference that brings together dancers, somatic practitioners, artists and researchers working on movement and computation, with papers, performances and workshops. MOCO'26 was held in Montpellier.",
+   "description_zh": "汇集舞者、身体修习者、艺术家与研究者的动作与计算会议，形式包括论文、演出和工作坊。MOCO'26 在蒙彼利埃举行。",
+   "url": "https://www.movementcomputing.org/",
+   "links": [
+    {
+     "label": "Mailing list",
+     "url": "https://groups.google.com/g/movementcomputing"
+    },
+    {
+     "label": "dblp",
+     "url": "https://dblp.org/db/conf/moco/index.html"
+    }
+   ],
+   "founded": 2014
+  },
+  {
+   "id": "nime",
+   "name": "NIME: New Interfaces for Musical Expression",
+   "type": "conference",
+   "themes": [
+    "art",
+    "movement-dance",
+    "biosignals"
+   ],
+   "fields": [
+    "movement",
+    "affect"
+   ],
+   "description": "The international conference on new musical instruments and interfaces, where bodily, gestural and biosignal instruments (e.g. muscle-sensing and breath instruments) are presented and performed.",
+   "description_zh": "关于新型乐器与音乐界面的国际会议，许多身体、手势与生物信号乐器（如肌肉感测乐器、呼吸乐器）在此发表并演出。",
+   "url": "https://nime.org/",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Nime2007jun08concert_performance32.jpg",
+   "founded": 2001
+  },
+  {
+   "id": "augmented-humans",
+   "name": "Augmented Humans Conference",
+   "type": "conference",
+   "themes": [
+    "xr-embodiment",
+    "haptics-touch",
+    "robots-ai"
+   ],
+   "fields": [
+    "machines-xr"
+   ],
+   "description": "An international conference on technologies that extend human perception, action and body, from supernumerary limbs to sensory substitution; useful for seeing where augmentation meets felt embodiment.",
+   "description_zh": "关于扩展人类感知、行动与身体的技术的国际会议，从额外肢体到感官替代。可以从中看到身体增强与切身感受的交汇。",
+   "url": "https://augmented-humans.org",
+   "image": "https://augmented-humans.org/img/assets/meta_card_2026.jpg",
+   "founded": 2010
+  },
+  {
+   "id": "acm-chi-play",
+   "name": "ACM CHI PLAY",
+   "type": "conference",
+   "themes": [
+    "play-exertion"
+   ],
+   "fields": [
+    "movement",
+    "social"
+   ],
+   "description": "The ACM conference on play and games research, where exertion games, bodily play and somatic play design are presented.",
+   "description_zh": "ACM 关于游戏与玩耍研究的会议，运动型游戏、身体游戏与身体玩耍设计在此发表。",
+   "url": "https://chiplay.acm.org",
+   "founded": 2014
+  },
+  {
+   "id": "acii",
+   "name": "Affective Computing and Intelligent Interaction (ACII)",
+   "type": "conference",
+   "themes": [
+    "affective",
+    "biosignals"
+   ],
+   "fields": [
+    "affect"
+   ],
+   "description": "The main international conference of the affective computing community (AAAC), covering emotion sensing, physiological signals and affective interaction, the field that Höök's 'affective loops' responded to.",
+   "description_zh": "情感计算学会（AAAC）的主要国际会议，涵盖情绪感测、生理信号与情感交互。Höök 的“情感回路”正是对这一领域的回应。",
+   "url": "https://acii-conf.net",
+   "founded": 2005
+  },
+  {
+   "id": "nordichi",
+   "name": "NordiCHI",
+   "type": "conference",
+   "themes": [
+    "soma-design",
+    "first-person"
+   ],
+   "fields": [
+    "methods"
+   ],
+   "description": "The Nordic conference on human-computer interaction, a home of the Scandinavian design tradition from which Höök's group and many soma design papers come.",
+   "description_zh": "北欧人机交互会议，是斯堪的纳维亚设计传统的阵地，Höök 团队和许多身体设计论文都出自这一传统。",
+   "url": "http://www.nordichi.org/",
+   "founded": 2000
+  },
+  {
+   "id": "ichec-chinese-chi",
+   "name": "ICHEC (formerly Chinese CHI)",
+   "type": "conference",
+   "themes": [
+    "east-asian"
+   ],
+   "fields": [
+    "machines-xr",
+    "social"
+   ],
+   "description": "The International Conference on Human-Engaged Computing of the International Association of Chinese HCI (ICACHI), formerly Chinese CHI; it gathers Chinese-speaking and Asian HCI researchers around technology, culture and lived experience. ICHEC 2025 was held at Singapore Management University.",
+   "description_zh": "国际华人人机交互协会（ICACHI）主办的“以人为本的计算”国际会议，前身为 Chinese CHI，聚集华人与亚洲的人机交互研究者，讨论技术、文化与生活经验。ICHEC 2025 在新加坡管理大学举行。",
+   "url": "https://ichec.icachi.org/",
+   "image": "https://ichec.icachi.org/assets/img/background/2025-2.jpg",
+   "founded": 2013
+  },
+  {
+   "id": "dagstuhl-17392-body-centric-computing",
+   "name": "Dagstuhl Seminar 17392: Body-Centric Computing",
+   "type": "conference",
+   "themes": [
+    "soma-design",
+    "play-exertion",
+    "first-person"
+   ],
+   "fields": [
+    "methods",
+    "foundations"
+   ],
+   "description": "A week-long seminar at Schloss Dagstuhl in September 2017 where 23 researchers mapped the future of body-centric computing; organised by Steve Benford, Kristina Höök, Joe Marshall, Florian Mueller and Dag Svanæs and reported in ACM Interactions (2018).",
+   "description_zh": "2017 年 9 月在德国达格斯图尔城堡举行的一周研讨会，23 位研究者共同描绘身体中心计算的未来；由 Steve Benford、Kristina Höök、Joe Marshall、Florian Mueller 与 Dag Svanæs 组织，成果发表于 ACM Interactions（2018）。",
+   "url": "https://www.dagstuhl.de/17392",
+   "links": [
+    {
+     "label": "Dagstuhl Report",
+     "url": "https://drops.dagstuhl.de/entities/document/10.4230/DagRep.7.9.126"
+    },
+    {
+     "label": "Interactions article",
+     "url": "https://doi.org/10.1145/3215854"
+    }
+   ],
+   "image": "https://www.dagstuhl.de/storage/media/0003/3362/conversions/17392.01.s.jpg",
+   "based": "Wadern, DE",
+   "based_zh": "瓦德恩，德国",
+   "founded": 2017,
+   "people": [
+    "Steve Benford",
+    "Kristina Höök",
+    "Joe Marshall",
+    "Florian Mueller",
+    "Dag Svanæs"
+   ]
+  },
+  {
+   "id": "chi-2017-soma-based-design-theory",
+   "name": "Soma-Based Design Theory (CHI 2017 workshop)",
+   "type": "conference",
+   "themes": [
+    "soma-design",
+    "somaesthetics",
+    "first-person"
+   ],
+   "fields": [
+    "methods",
+    "foundations"
+   ],
+   "description": "A CHI 2017 workshop that followed the CHI 2016 meeting on aesthetics in soma-based design and moved from philosophy to design theory, asking how practical, pragmatic and analytical work can build soma design knowledge.",
+   "description_zh": "CHI 2017 的工作坊，承接 2016 年关于身体设计美学的讨论，从哲学转向设计理论，探讨如何通过实践、实用与分析的工作积累身体设计知识。",
+   "url": "https://exertiongameslab.org/wp-content/uploads/2017/02/soma_chi2017.pdf",
+   "links": [
+    {
+     "label": "ACM Digital Library",
+     "url": "https://doi.org/10.1145/3027063.3027082"
+    }
+   ],
+   "founded": 2017,
+   "people": [
+    "Kristina Höök",
+    "Caroline Hummels",
+    "Katherine Isbister",
+    "Patrizia Marti",
+    "Elena Márquez Segura",
+    "Martin Jonsson",
+    "Florian Mueller",
+    "Pedro Sanches",
+    "Thecla Schiphorst",
+    "Anna Ståhl",
+    "Dag Svanæs",
+    "Ambra Trotto",
+    "Marianne Graves Petersen",
+    "Youn-kyung Lim"
+   ]
+  },
+  {
+   "id": "dance-and-somatic-practices-conference",
+   "name": "International Dance and Somatic Practices Conference",
+   "type": "conference",
+   "themes": [
+    "somatic-practice",
+    "movement-dance"
+   ],
+   "fields": [
+    "practices",
+    "movement"
+   ],
+   "description": "The conference series hosted by C-DaRE at Coventry University that brings together dance artists, somatic educators and researchers; its sixth edition took place in 2023.",
+   "description_zh": "由考文垂大学 C-DaRE 主办的系列会议，汇聚舞蹈艺术家、身体教育者和研究者；第六届于 2023 年举行。",
+   "url": "https://www.coventry.ac.uk/events/2023/dance-and-somatic-practices-conference-2023/",
+   "image": "https://www.coventry.ac.uk/globalassets/media/global/08-new-research-section/c-dare/events/6th-idspc2023-banner-767x460.jpg",
+   "based": "Coventry, UK",
+   "based_zh": "考文垂，英国"
+  },
+  {
+   "id": "design-culture-somaesthetics-conference",
+   "name": "Design Culture & Somaesthetics Conference",
+   "type": "conference",
+   "themes": [
+    "somaesthetics"
+   ],
+   "fields": [
+    "foundations"
+   ],
+   "description": "A 2019 conference at Moholy-Nagy University of Art and Design in Budapest, organised with the Hungarian Forum of Somaesthetics, with Richard Shusterman as keynote, on how somaesthetics can inform design culture.",
+   "description_zh": "2019 年在布达佩斯莫霍利-纳吉艺术设计大学举行的会议，由该校博士院与匈牙利身体美学论坛共同组织，Richard Shusterman 作主旨演讲，探讨身体美学如何影响设计文化。",
+   "url": "https://www.designresearchsociety.org/events/design-culture-somaesthetics-conference",
+   "based": "Budapest, HU",
+   "based_zh": "布达佩斯，匈牙利",
+   "founded": 2019,
+   "people": [
+    "Richard Shusterman"
+   ]
+  },
+  {
+   "id": "movement-research",
+   "name": "Movement Research",
+   "type": "venue",
+   "themes": [
+    "movement-dance",
+    "somatic-practice",
+    "art"
+   ],
+   "fields": [
+    "movement",
+    "practices"
+   ],
+   "description": "A New York laboratory for dance and movement-based practice founded in 1978, offering classes, residencies, the Movement Research at Judson Church series and the Performance Journal; many somatic and release techniques circulated through it.",
+   "description_zh": "1978 年在纽约创立的舞蹈与动作实践实验室，提供课程、驻留、Judson 教堂演出系列和《Performance Journal》，许多身体修习与释放技巧经由这里传播。",
+   "url": "https://movementresearch.org/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Movement_Research"
+    }
+   ],
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "founded": 1978
+  },
+  {
+   "id": "judson-memorial-church",
+   "name": "Judson Memorial Church (Judson Dance Theater)",
+   "type": "venue",
+   "themes": [
+    "movement-dance",
+    "art"
+   ],
+   "fields": [
+    "movement"
+   ],
+   "description": "The Greenwich Village church whose gymnasium hosted Judson Dance Theater (1962–1964), where Yvonne Rainer, Steve Paxton, Trisha Brown and others turned pedestrian and task-based movement into dance, the ground from which contact improvisation grew.",
+   "description_zh": "纽约格林威治村的教堂，其体育馆在 1962–1964 年间是 Judson 舞蹈剧场的所在地：Yvonne Rainer、Steve Paxton、Trisha Brown 等人把日常与任务性的动作变成舞蹈，接触即兴由此生长。",
+   "url": "https://www.judson.org",
+   "links": [
+    {
+     "label": "Wikipedia: Judson Dance Theater",
+     "url": "https://en.wikipedia.org/wiki/Judson_Dance_Theater"
+    }
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Judson_Memorial_Church_%2851660334986%29.jpg",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "people": [
+    "Yvonne Rainer",
+    "Steve Paxton",
+    "Trisha Brown"
+   ]
+  },
+  {
+   "id": "tanzquartier-wien",
+   "name": "Tanzquartier Wien",
+   "type": "venue",
+   "themes": [
+    "movement-dance",
+    "art"
+   ],
+   "fields": [
+    "movement"
+   ],
+   "description": "Vienna's centre for contemporary dance and performance in the MuseumsQuartier, combining performances with theory, research and a public dance library.",
+   "description_zh": "位于维也纳博物馆区的当代舞蹈与表演中心，把演出与理论、研究和公共舞蹈图书馆结合在一起。",
+   "url": "https://www.tqw.at/",
+   "image": "https://www.tqw.at/volumes/transforms/_image500x/140804/2025-10-09_TQW_OpenHouse_c_RonjaElinaKappl_01.webp",
+   "based": "Vienna, AT",
+   "based_zh": "维也纳，奥地利",
+   "founded": 2001
+  },
+  {
+   "id": "impulstanz",
+   "name": "ImPulsTanz Vienna International Dance Festival",
+   "type": "venue",
+   "themes": [
+    "movement-dance",
+    "somatic-practice",
+    "art"
+   ],
+   "fields": [
+    "movement",
+    "practices"
+   ],
+   "description": "Europe's largest contemporary dance festival, held every summer in Vienna, with hundreds of workshops in somatic practices, contact improvisation and dance technique alongside performances.",
+   "description_zh": "欧洲规模最大的当代舞蹈节，每年夏天在维也纳举行，除演出外还有数百场身体修习、接触即兴和舞蹈技巧工作坊。",
+   "url": "https://www.impulstanz.com",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/MQ_Vienna_20100716_-_ImPulsTanz_opening_performance_098ff.jpg",
+   "based": "Vienna, AT",
+   "based_zh": "维也纳，奥地利",
+   "founded": 1984
+  },
+  {
+   "id": "dance-umbrella",
+   "name": "Dance Umbrella",
+   "type": "venue",
+   "themes": [
+    "movement-dance",
+    "art"
+   ],
+   "fields": [
+    "movement"
+   ],
+   "description": "London's international festival of contemporary dance, presenting dance in theatres and public space each October.",
+   "description_zh": "伦敦的国际当代舞蹈节，每年十月在剧场与公共空间呈现舞蹈。",
+   "url": "https://danceumbrella.co.uk",
+   "image": "https://danceumbrella.co.uk/wp-content/uploads/2026/06/Outside-In-1080-x-720.jpg",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "founded": 1978
+  },
+  {
+   "id": "tanzfabrik-berlin",
+   "name": "Tanzfabrik Berlin",
+   "type": "venue",
+   "themes": [
+    "movement-dance",
+    "somatic-practice"
+   ],
+   "fields": [
+    "movement",
+    "practices"
+   ],
+   "description": "A Berlin production house and dance school with a long-standing programme of contact improvisation, release and somatic classes, residencies and performances.",
+   "description_zh": "柏林的制作中心兼舞蹈学校，长期开设接触即兴、释放技巧和身体修习课程，并提供驻留与演出。",
+   "url": "https://www.tanzfabrik-berlin.de",
+   "based": "Berlin, DE",
+   "based_zh": "柏林，德国"
+  },
+  {
+   "id": "jacobs-pillow",
+   "name": "Jacob's Pillow",
+   "type": "venue",
+   "themes": [
+    "movement-dance",
+    "art"
+   ],
+   "fields": [
+    "movement"
+   ],
+   "description": "The dance centre and summer festival founded by Ted Shawn on a farm in Becket, Massachusetts, a National Historic Landmark with an extensive dance archive.",
+   "description_zh": "Ted Shawn 在马萨诸塞州贝克特的农场上创办的舞蹈中心和夏季舞蹈节，是美国国家历史地标，拥有丰富的舞蹈档案。",
+   "url": "https://www.jacobspillow.org",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Jacob%27s_Pillow"
+    }
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Ted_Shawn_Theatre.jpg",
+   "based": "Becket, US",
+   "based_zh": "贝克特，美国",
+   "founded": 1931,
+   "people": [
+    "Ted Shawn"
+   ]
+  },
+  {
+   "id": "esalen-institute",
+   "name": "Esalen Institute",
+   "name_zh": "伊莎兰学院",
+   "type": "venue",
+   "themes": [
+    "somatic-practice",
+    "meditation",
+    "health"
+   ],
+   "fields": [
+    "practices"
+   ],
+   "description": "The retreat centre at Big Sur, California, where Moshe Feldenkrais, Ida Rolf, Charlotte Selver and others taught in the 1960s–70s; the word and field of 'somatics' grew in its human potential movement milieu.",
+   "description_zh": "位于加州大瑟尔的静修中心，1960–70 年代 Moshe Feldenkrais、Ida Rolf、Charlotte Selver 等人在此授课；“身心学”（somatics）这一领域在其人类潜能运动的氛围中成长。",
+   "url": "https://www.esalen.org",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Esalen_Institute"
+    }
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Esalen_Institute.jpg",
+   "based": "Big Sur, US",
+   "based_zh": "大瑟尔，美国",
+   "founded": 1962,
+   "people": [
+    "Michael Murphy",
+    "Dick Price"
+   ]
+  },
+  {
+   "id": "v2-lab-unstable-media",
+   "name": "V2_ Lab for the Unstable Media",
+   "type": "venue",
+   "themes": [
+    "art",
+    "xr-embodiment"
+   ],
+   "fields": [
+    "movement",
+    "machines-xr"
+   ],
+   "description": "The Rotterdam centre for art and technology that has long supported body-centred media art, from sensor-based performance to wearable and interactive installations.",
+   "description_zh": "鹿特丹的艺术与技术中心，长期支持以身体为中心的媒体艺术，从传感器表演到可穿戴与互动装置。",
+   "url": "https://v2.nl",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/V2_Institute_for_the_Unstable_Media"
+    }
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/V2_Lab.jpg",
+   "based": "Rotterdam, NL",
+   "based_zh": "鹿特丹，荷兰",
+   "founded": 1981
+  },
+  {
+   "id": "ars-electronica",
+   "name": "Ars Electronica",
+   "name_zh": "林茨电子艺术节",
+   "type": "venue",
+   "themes": [
+    "art",
+    "xr-embodiment",
+    "robots-ai"
+   ],
+   "fields": [
+    "machines-xr",
+    "movement"
+   ],
+   "description": "The festival, centre and Prix for art, technology and society in Linz, where many body-based works, from Stelarc's performances to JIZAI ARMS, have been shown.",
+   "description_zh": "林茨的艺术、技术与社会节、中心与大奖，许多身体相关作品在此展出，从 Stelarc 的表演到 JIZAI ARMS。",
+   "url": "https://ars.electronica.art",
+   "image": "https://ars.electronica.art/news/files/2018/10/facade.jpg",
+   "based": "Linz, AT",
+   "based_zh": "林茨，奥地利",
+   "founded": 1979
+  },
+  {
+   "id": "cloud-gate-dance-theatre",
+   "name": "Cloud Gate Dance Theatre",
+   "name_zh": "云门舞集",
+   "type": "venue",
+   "themes": [
+    "east-asian",
+    "movement-dance",
+    "art"
+   ],
+   "fields": [
+    "movement",
+    "practices"
+   ],
+   "description": "Taiwan's leading contemporary dance company, founded by Lin Hwai-min, whose dancers train in tai chi daoyin, qigong, martial arts and meditation; works such as Songs of the Wanderers and the Cursive trilogy grow from this body training.",
+   "description_zh": "林怀民创办的台湾当代舞团，舞者修习太极导引、气功、武术与静坐；《流浪者之歌》与《行草》三部曲等作品都来自这种身体训练。",
+   "url": "https://www.cloudgate.org.tw",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Cloud_Gate_Dance_Theater"
+    }
+   ],
+   "image": "https://www.cloudgate.org.tw/sites/default/files/u1005/MetaInfo_CG_1200x630.jpg",
+   "based": "New Taipei, TW",
+   "based_zh": "新北，台湾",
+   "founded": 1973,
+   "people": [
+    "Lin Hwai-min",
+    "Cheng Tsung-lung"
+   ]
+  },
+  {
+   "id": "ycam",
+   "name": "Yamaguchi Center for Arts and Media (YCAM)",
+   "name_zh": "山口情报艺术中心",
+   "type": "venue",
+   "themes": [
+    "east-asian",
+    "art",
+    "movement-dance"
+   ],
+   "fields": [
+    "movement",
+    "machines-xr"
+   ],
+   "description": "An art centre in Yamaguchi, Japan, whose in-house YCAM InterLab develops media technology with artists, including Reactor for Awareness in Motion (RAM), a dance-creation toolkit made with Forsythe dancer Yoko Ando.",
+   "description_zh": "日本山口市的艺术中心，其内部的 YCAM InterLab 与艺术家共同开发媒体技术，例如与 Forsythe 舞团舞者安藤洋子合作的舞蹈创作工具 Reactor for Awareness in Motion（RAM）。",
+   "url": "https://www.ycam.jp/en/",
+   "links": [
+    {
+     "label": "RAM project",
+     "url": "https://www.ycam.jp/en/projects/ram/"
+    }
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/YCAM.jpg",
+   "based": "Yamaguchi, JP",
+   "based_zh": "山口，日本",
+   "founded": 2003
+  },
+  {
+   "id": "ntt-icc",
+   "name": "NTT InterCommunication Center (ICC)",
+   "type": "venue",
+   "themes": [
+    "east-asian",
+    "art",
+    "haptics-touch"
+   ],
+   "fields": [
+    "machines-xr"
+   ],
+   "description": "A media art centre in Tokyo Opera City run by NTT East, showing interactive and sensory works on perception, communication and the body.",
+   "description_zh": "位于东京歌剧城的媒体艺术中心，由 NTT 东日本运营，展出关于感知、沟通与身体的互动和感官作品。",
+   "url": "https://www.ntticc.or.jp/en/",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/NTT_ICC_entrance.jpg",
+   "based": "Tokyo, JP",
+   "based_zh": "东京，日本",
+   "founded": 1997
+  },
+  {
+   "id": "c-lab-taiwan",
+   "name": "Taiwan Contemporary Culture Lab (C-LAB)",
+   "name_zh": "台湾当代文化实验场",
+   "type": "venue",
+   "themes": [
+    "east-asian",
+    "art",
+    "xr-embodiment"
+   ],
+   "fields": [
+    "machines-xr",
+    "movement"
+   ],
+   "description": "A cultural laboratory on a former air-force base in Taipei with a Future Vision Lab and technology-art residencies, showing immersive, sound and body-based work.",
+   "description_zh": "位于台北原空军总部旧址的文化实验场，设有未来视觉实验室和科技艺术驻留，呈现沉浸式、声音与身体相关的作品。",
+   "url": "https://clab.org.tw",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Taiwan_Contemporary_Culture_Lab_-_Future_Vision_Lab.jpg",
+   "based": "Taipei, TW",
+   "based_zh": "台北，台湾",
+   "founded": 2018
+  },
+  {
+   "id": "journal-of-somaesthetics",
+   "name": "The Journal of Somaesthetics",
+   "name_zh": "身体美学期刊",
+   "type": "media",
+   "themes": [
+    "somaesthetics",
+    "soma-design"
+   ],
+   "fields": [
+    "foundations"
+   ],
+   "description": "The open-access journal of somaesthetics published by Aalborg University Press with Florida Atlantic University's Center for Body, Mind, and Culture; its 2019 issue 'Somaesthetics and Technology' gathered soma design work.",
+   "description_zh": "由奥尔堡大学出版社与佛罗里达大西洋大学身体、心智与文化中心合作出版的开放获取身体美学期刊；2019 年的“身体美学与技术”专刊收录了身体设计研究。",
+   "url": "https://journals.aau.dk/index.php/JOS",
+   "links": [
+    {
+     "label": "Somaesthetics and Technology issue",
+     "url": "https://journals.aau.dk/index.php/JOS/issue/view/215"
+    }
+   ],
+   "image": "https://journals.aau.dk/public/journals/16/homepageImage_en_US.jpg",
+   "based": "Aalborg, DK",
+   "based_zh": "奥尔堡，丹麦",
+   "founded": 2015,
+   "people": [
+    "Richard Shusterman",
+    "Falk Heinrich"
+   ]
+  },
+  {
+   "id": "journal-of-dance-somatic-practices",
+   "name": "Journal of Dance & Somatic Practices",
+   "type": "media",
+   "themes": [
+    "somatic-practice",
+    "movement-dance"
+   ],
+   "fields": [
+    "practices",
+    "movement"
+   ],
+   "description": "A peer-reviewed journal published by Intellect and edited from Coventry University's C-DaRE, covering somatic practices in dance, performance, education and research.",
+   "description_zh": "由 Intellect 出版、在考文垂大学 C-DaRE 编辑的同行评审期刊，涵盖舞蹈、表演、教育与研究中的身体修习。",
+   "url": "https://www.intellectbooks.com/journal-of-dance-somatic-practices",
+   "links": [
+    {
+     "label": "C-DaRE page",
+     "url": "https://www.coventry.ac.uk/research/areas-of-research/centre-for-dance-research/jdsp/"
+    }
+   ],
+   "image": "https://www.intellectbooks.com/assets/c4b9984f/jdsp-181-cover-208066-450x450.png",
+   "founded": 2009,
+   "people": [
+    "Sarah Whatley"
+   ]
+  },
+  {
+   "id": "contact-quarterly",
+   "name": "Contact Quarterly",
+   "type": "media",
+   "themes": [
+    "movement-dance",
+    "somatic-practice"
+   ],
+   "fields": [
+    "practices",
+    "movement"
+   ],
+   "description": "The dance and improvisation journal that began in 1975 as the newsletter of the contact improvisation community, edited for decades by Nancy Stark Smith and Lisa Nelson; also a publisher of books and videos on somatic practice.",
+   "description_zh": "1975 年作为接触即兴社群通讯创刊的舞蹈与即兴期刊，长期由 Nancy Stark Smith 与 Lisa Nelson 编辑，也出版关于身体修习的书籍和影像。",
+   "url": "https://contactquarterly.com",
+   "image": "https://contactquarterly.com/images/elements/banner/banner1.jpg",
+   "founded": 1975,
+   "people": [
+    "Nancy Stark Smith",
+    "Lisa Nelson"
+   ]
+  },
+  {
+   "id": "body-and-society",
+   "name": "Body & Society",
+   "type": "media",
+   "themes": [
+    "phenomenology",
+    "feminist"
+   ],
+   "fields": [
+    "foundations"
+   ],
+   "description": "A SAGE journal of the social and cultural analysis of the body, spanning phenomenology, feminist theory, affect and technology.",
+   "description_zh": "SAGE 出版的身体社会与文化分析期刊，内容横跨现象学、女性主义理论、情动与技术。",
+   "url": "https://journals.sagepub.com/home/bod",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Body_%26_Society"
+    }
+   ],
+   "founded": 1995
+  },
+  {
+   "id": "phenomenology-and-the-cognitive-sciences",
+   "name": "Phenomenology and the Cognitive Sciences",
+   "type": "media",
+   "themes": [
+    "phenomenology",
+    "first-person"
+   ],
+   "fields": [
+    "foundations"
+   ],
+   "description": "A Springer journal linking phenomenology with cognitive science, home of much work on embodiment, enaction and first-person methods (founded by Shaun Gallagher and Natalie Depraz).",
+   "description_zh": "Springer 出版的期刊，连接现象学与认知科学，发表了大量关于具身、生成论与第一人称方法的研究（由 Shaun Gallagher 与 Natalie Depraz 创办）。",
+   "url": "https://link.springer.com/journal/11097",
+   "founded": 2002,
+   "people": [
+    "Shaun Gallagher",
+    "Natalie Depraz"
+   ]
+  },
+  {
+   "id": "journal-of-consciousness-studies",
+   "name": "Journal of Consciousness Studies",
+   "type": "media",
+   "themes": [
+    "first-person",
+    "phenomenology",
+    "meditation"
+   ],
+   "fields": [
+    "foundations",
+    "methods"
+   ],
+   "description": "The interdisciplinary journal whose 1999 special issue 'The View from Within' (eds. Francisco Varela and Jonathan Shear) set out first-person methods for the study of experience.",
+   "description_zh": "跨学科意识研究期刊；1999 年由 Francisco Varela 与 Jonathan Shear 主编的专刊《The View from Within》系统提出了研究经验的第一人称方法。",
+   "url": "https://www.imprint.co.uk/product/jcs/",
+   "image": "https://www.imprint.co.uk/wp-content/uploads/2014/12/JCS_covers_33_9-10-1-scaled.jpg",
+   "founded": 1994
+  },
+  {
+   "id": "constructivist-foundations",
+   "name": "Constructivist Foundations",
+   "type": "media",
+   "themes": [
+    "first-person",
+    "phenomenology"
+   ],
+   "fields": [
+    "methods",
+    "foundations"
+   ],
+   "description": "An open-access journal on constructivist and enactive approaches that publishes micro-phenomenology and second-person methods research, with open peer commentary.",
+   "description_zh": "开放获取期刊，关注建构论与生成论取向，发表微观现象学与第二人称方法研究，并采用公开同行评论形式。",
+   "url": "https://constructivist.info",
+   "founded": 2005
+  },
+  {
+   "id": "acm-interactions",
+   "name": "ACM Interactions",
+   "type": "media",
+   "themes": [
+    "soma-design"
+   ],
+   "fields": [
+    "methods"
+   ],
+   "description": "The ACM's magazine for the HCI community, where accessible pieces on soma design and body-centric computing have appeared (e.g. the Dagstuhl 'Body-centric computing' report, 2018).",
+   "description_zh": "ACM 面向人机交互社群的杂志，刊载过通俗易读的身体设计与身体中心计算文章（如 2018 年 Dagstuhl“身体中心计算”报告）。",
+   "url": "https://interactions.acm.org",
+   "founded": 1994
+  },
+  {
+   "id": "acm-tochi",
+   "name": "ACM Transactions on Computer-Human Interaction (TOCHI)",
+   "type": "media",
+   "themes": [
+    "soma-design",
+    "first-person"
+   ],
+   "fields": [
+    "methods",
+    "foundations"
+   ],
+   "description": "The ACM's flagship HCI journal, which published key soma design papers such as 'Moving and Making Strange' (2013), 'Unpacking Non-Dualistic Design: The Soma Design Case' (2021).",
+   "description_zh": "ACM 的旗舰人机交互期刊，发表过《Moving and Making Strange》（2013）、《Unpacking Non-Dualistic Design: The Soma Design Case》（2021）等身体设计关键论文。",
+   "url": "https://dl.acm.org/journal/tochi",
+   "founded": 1994
+  },
+  {
+   "id": "body-space-technology",
+   "name": "Body, Space & Technology",
+   "type": "media",
+   "themes": [
+    "movement-dance",
+    "art",
+    "xr-embodiment"
+   ],
+   "fields": [
+    "movement"
+   ],
+   "description": "An open-access journal on performance, the body and digital technology, publishing research on dance-tech, telematic performance and embodied media.",
+   "description_zh": "关于表演、身体与数字技术的开放获取期刊，发表舞蹈科技、远程表演与具身媒体研究。",
+   "url": "https://www.bstjournal.com"
+  },
+  {
+   "id": "journal-of-embodied-research",
+   "name": "Journal of Embodied Research",
+   "type": "media",
+   "themes": [
+    "first-person",
+    "movement-dance",
+    "somatic-practice"
+   ],
+   "fields": [
+    "methods",
+    "practices"
+   ],
+   "description": "An open-access, peer-reviewed journal whose articles are videos, publishing embodied and practice-led research in which the body carries the argument.",
+   "description_zh": "开放获取的同行评审期刊，论文以视频形式发表，刊载由身体承载论证的具身研究与实践研究。",
+   "url": "https://jer.openlibhums.org",
+   "founded": 2018
+  },
+  {
+   "id": "somatechnics",
+   "name": "Somatechnics",
+   "type": "media",
+   "themes": [
+    "feminist",
+    "phenomenology"
+   ],
+   "fields": [
+    "intimate",
+    "foundations"
+   ],
+   "description": "An Edinburgh University Press journal on how bodies and technologies co-constitute each other, with a strong feminist and queer focus.",
+   "description_zh": "爱丁堡大学出版社的期刊，研究身体与技术如何相互构成，具有鲜明的女性主义与酷儿视角。",
+   "url": "https://www.euppublishing.com/loi/soma",
+   "founded": 2011
+  },
+  {
+   "id": "choreographic-practices",
+   "name": "Choreographic Practices",
+   "type": "media",
+   "themes": [
+    "movement-dance",
+    "art"
+   ],
+   "fields": [
+    "movement"
+   ],
+   "description": "An Intellect journal on choreography as an expanded practice, including choreographic thinking in research, technology and everyday life.",
+   "description_zh": "Intellect 出版的期刊，把编舞视为一种扩展的实践，包括研究、技术与日常生活中的编舞思维。",
+   "url": "https://www.intellectbooks.com/choreographic-practices",
+   "image": "https://www.intellectbooks.com/assets/f39ba349/chor-162-cover-200884-450x450.png",
+   "founded": 2010
+  },
+  {
+   "id": "ismeta",
+   "name": "ISMETA (International Somatic Movement Education and Therapy Association)",
+   "name_zh": "国际身体动作教育与治疗协会",
+   "type": "network",
+   "themes": [
+    "somatic-practice",
+    "movement-dance",
+    "health"
+   ],
+   "fields": [
+    "practices"
+   ],
+   "description": "The professional association, active since 1988, that sets standards for and registers somatic movement educators and therapists across many methods (BMC, Laban/Bartenieff, Hanna Somatics, Continuum and others).",
+   "description_zh": "自 1988 年起运作的专业协会，为多种方法（BMC、拉班/巴特尼夫、Hanna 身心学、Continuum 等）的身体动作教育者与治疗师制定标准并注册认证。",
+   "url": "https://ismeta.org",
+   "image": "https://ismeta.org/wp-content/uploads/2023/03/www.ismeta.org_.jpg",
+   "founded": 1988
+  },
+  {
+   "id": "fau-center-body-mind-culture",
+   "name": "Center for Body, Mind, and Culture (Florida Atlantic University)",
+   "name_zh": "身体、心智与文化中心",
+   "type": "network",
+   "themes": [
+    "somaesthetics",
+    "phenomenology"
+   ],
+   "fields": [
+    "foundations"
+   ],
+   "description": "Richard Shusterman's centre at Florida Atlantic University, the international hub of somaesthetics: it co-publishes the Journal of Somaesthetics, runs conferences such as 'Bodies of Culture: Somaesthetic Explorations' (2026) and hosts visiting scholars.",
+   "description_zh": "Richard Shusterman 在佛罗里达大西洋大学主持的中心，是身体美学的国际枢纽：合办《身体美学期刊》，举办“文化之身：身体美学探索”（2026）等会议，并接待访问学者。",
+   "url": "https://www.fau.edu/artsandletters/bodymindculture/",
+   "links": [
+    {
+     "label": "Upcoming conferences",
+     "url": "https://www.fau.edu/artsandletters/bodymindculture/uconfern/"
+    }
+   ],
+   "image": "https://www.fau.edu/artsandletters/images/banner/body-mind-culture.jpg",
+   "based": "Boca Raton, US",
+   "based_zh": "博卡拉顿，美国",
+   "people": [
+    "Richard Shusterman"
+   ]
+  },
+  {
+   "id": "acm-sigchi",
+   "name": "ACM SIGCHI",
+   "type": "network",
+   "themes": [
+    "soma-design"
+   ],
+   "fields": [
+    "methods"
+   ],
+   "description": "The ACM Special Interest Group on Computer-Human Interaction, which sponsors CHI, DIS, TEI, CHI PLAY and other venues where soma design is published.",
+   "description_zh": "ACM 人机交互特别兴趣小组，主办 CHI、DIS、TEI、CHI PLAY 等发表身体设计研究的会议。",
+   "url": "https://sigchi.org",
+   "image": "https://sigchi.org/static/55301b7fc740825deca723d6ebb1549c/d8c50/2.jpg",
+   "founded": 1982
+  },
+  {
+   "id": "mind-and-life-institute",
+   "name": "Mind & Life Institute",
+   "name_zh": "心智与生命研究所",
+   "type": "network",
+   "themes": [
+    "meditation",
+    "phenomenology",
+    "first-person"
+   ],
+   "fields": [
+    "foundations",
+    "practices"
+   ],
+   "description": "The institute co-founded by Francisco Varela, Adam Engle and the Dalai Lama to bring contemplative practice and science into dialogue; its dialogues and summer research institutes shaped contemplative and first-person science.",
+   "description_zh": "由 Francisco Varela、Adam Engle 与达赖喇嘛共同创办，推动冥想修习与科学对话；其对话会和夏季研究营塑造了沉思科学与第一人称科学。",
+   "url": "https://www.mindandlife.org",
+   "image": "https://www.mindandlife.org/wp-content/uploads/2026/08/2026-SRI-Pedrick-102-scaled-1200x600_c.jpg",
+   "founded": 1987,
+   "people": [
+    "Francisco Varela",
+    "Adam Engle"
+   ]
+  },
+  {
+   "id": "body-mind-centering-association",
+   "name": "Body-Mind Centering Association (BMCA)",
+   "name_zh": "身心平衡技法协会",
+   "type": "network",
+   "themes": [
+    "somatic-practice",
+    "movement-dance"
+   ],
+   "fields": [
+    "practices"
+   ],
+   "description": "The international membership association of Body-Mind Centering practitioners and teachers, with a professional locator, conferences and recordings.",
+   "description_zh": "身心平衡技法（BMC）从业者与教师的国际会员协会，提供从业者查询、年会和录音资源。",
+   "url": "https://www.bmcassociation.org"
+  },
+  {
+   "id": "association-for-hanna-somatic-education",
+   "name": "Association for Hanna Somatic Education",
+   "name_zh": "Hanna 身心教育协会",
+   "type": "network",
+   "themes": [
+    "somatic-practice",
+    "health"
+   ],
+   "fields": [
+    "practices",
+    "foundations"
+   ],
+   "description": "The association of practitioners of Thomas Hanna's Hanna Somatic Education, the method of the thinker who coined 'soma' as the body experienced from within and founded the Novato Institute and Somatics magazine-journal.",
+   "description_zh": "Hanna 身心教育（Hanna Somatic Education）从业者的协会。Thomas Hanna 提出“soma”一词，指从内部体验的身体，并创办了 Novato 研究所和《Somatics》杂志。",
+   "url": "https://www.associationforhannasomaticeducation.com/",
+   "links": [
+    {
+     "label": "Wikipedia: Thomas Hanna",
+     "url": "https://en.wikipedia.org/wiki/Thomas_Hanna"
+    }
+   ],
+   "people": [
+    "Thomas Hanna",
+    "Eleanor Criswell Hanna"
+   ]
+  },
+  {
+   "id": "soma-bits",
+   "name": "Soma Bits (KTH)",
+   "type": "archive",
+   "themes": [
+    "soma-design",
+    "haptics-touch"
+   ],
+   "fields": [
+    "methods",
+    "somaesthetic"
+   ],
+   "description": "KTH's page for the Soma Bits, a prototyping toolkit of soft shapes with heat, vibration and shape-changing actuators that designers place on and around the body to feel and share what a design might feel like.",
+   "description_zh": "KTH 的 Soma Bits 页面。Soma Bits 是一套原型工具包：带有加热、振动与形变执行器的柔软形体，设计者把它们放在身上或身体周围，去感受并分享一个设计“会是什么感觉”。",
+   "url": "https://www.kth.se/mid/research/interaction-design/projects/soma-bits-1.921861",
+   "links": [
+    {
+     "label": "Soma Bits paper (Zenodo)",
+     "url": "https://zenodo.org/records/3248842"
+    },
+    {
+     "label": "Sketching Soma Bits (DIS 2022)",
+     "url": "https://doi.org/10.1145/3532106.3533510"
+    }
+   ],
+   "image": "https://www.kth.se/polopoly_fs/1.1486475.1782820488!/image/vSRN9C4kb.jpg",
+   "based": "Stockholm, SE",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "people": [
+    "Charles Windlin",
+    "Anna Ståhl",
+    "Kristina Höök"
+   ]
+  },
+  {
+   "id": "kth-diva",
+   "name": "KTH DiVA publication archive",
+   "type": "archive",
+   "themes": [
+    "soma-design",
+    "first-person"
+   ],
+   "fields": [
+    "methods"
+   ],
+   "description": "KTH's open repository, where the doctoral theses and many papers of Höök's soma design students (e.g. Vasiliki Tsaknaki, Pedro Sanches, Pavel Karpashevich) can be read in full.",
+   "description_zh": "KTH 的开放论文库，可以读到 Höök 身体设计团队学生的博士论文和许多论文全文（如 Vasiliki Tsaknaki、Pedro Sanches、Pavel Karpashevich）。",
+   "url": "https://kth.diva-portal.org",
+   "based": "Stockholm, SE",
+   "based_zh": "斯德哥尔摩，瑞典"
+  },
+  {
+   "id": "micro-phenomenology",
+   "name": "Micro-phenomenology",
+   "name_zh": "微观现象学",
+   "type": "archive",
+   "themes": [
+    "first-person",
+    "phenomenology"
+   ],
+   "fields": [
+    "methods"
+   ],
+   "description": "The hub of the micro-phenomenology community (the 'psychological microscope' developed from Claire Petitmengin's and Pierre Vermersch's interview methods), listing research axes, trainings and events.",
+   "description_zh": "微观现象学社群的中心网站（源自 Claire Petitmengin 与 Pierre Vermersch 访谈方法的“心理显微镜”），列出研究方向、培训与活动。",
+   "url": "https://www.microphenomenology.com",
+   "image": "https://static.wixstatic.com/media/41ce65_33690b3038024baea79592dc8f64ed0b~mv2.png/v1/crop/x_0,y_103,w_1654,h_838/fill/w_1654,h_837,al_c,q_90,enc_avif,quality_auto/41ce65_33690b3038024baea79592dc8f64ed0b~mv2.png",
+   "people": [
+    "Claire Petitmengin"
+   ]
+  },
+  {
+   "id": "gendlin-online-library",
+   "name": "Gendlin Online Library",
+   "name_zh": "Gendlin 在线文库",
+   "type": "archive",
+   "themes": [
+    "phenomenology",
+    "first-person"
+   ],
+   "fields": [
+    "foundations",
+    "methods"
+   ],
+   "description": "The International Focusing Institute's free library of Eugene Gendlin's writings, including A Process Model and his papers on the felt sense and Thinking at the Edge.",
+   "description_zh": "国际聚焦研究所提供的 Eugene Gendlin 著作免费在线文库，包括《A Process Model》以及他关于“体会”和边缘思考的论文。",
+   "url": "https://focusing.org/gendlin",
+   "people": [
+    "Eugene Gendlin"
+   ]
+  },
+  {
+   "id": "dance-notation-bureau",
+   "name": "Dance Notation Bureau",
+   "type": "archive",
+   "themes": [
+    "movement-dance"
+   ],
+   "fields": [
+    "movement"
+   ],
+   "description": "The New York organisation holding the world's largest collection of Labanotation dance scores and training notators, a key resource behind Laban-based descriptions of movement in HCI.",
+   "description_zh": "纽约的机构，收藏世界上最多的拉班舞谱，并培训记谱员，是人机交互中以拉班体系描述动作的重要资源。",
+   "url": "https://www.dancenotation.org",
+   "links": [
+    {
+     "label": "Wikipedia: Labanotation",
+     "url": "https://en.wikipedia.org/wiki/Labanotation"
+    }
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Labanotation1.jpg",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "founded": 1940
+  },
+  {
+   "id": "motion-bank",
+   "name": "Motion Bank",
+   "type": "archive",
+   "themes": [
+    "movement-dance",
+    "art"
+   ],
+   "fields": [
+    "movement"
+   ],
+   "description": "A research platform begun by The Forsythe Company (2010–2013) to create online digital scores of choreographers' thinking, continued at Hochschule Mainz as tools for annotating and sharing dance.",
+   "description_zh": "Forsythe 舞团发起的研究平台（2010–2013），为编舞家的思考制作在线数字舞谱，之后在美因茨应用科技大学延续，开发标注与分享舞蹈的工具。",
+   "url": "https://motionbank.org",
+   "founded": 2010,
+   "people": [
+    "William Forsythe",
+    "Scott deLahunta"
+   ]
+  },
+  {
+   "id": "synchronous-objects",
+   "name": "Synchronous Objects",
+   "type": "archive",
+   "themes": [
+    "movement-dance",
+    "art"
+   ],
+   "fields": [
+    "movement"
+   ],
+   "description": "An online project by William Forsythe and Ohio State University (2009) that translates the choreographic structure of One Flat Thing, reproduced into data visualisations and animated objects.",
+   "description_zh": "William Forsythe 与俄亥俄州立大学合作的在线项目（2009），把作品《One Flat Thing, reproduced》的编舞结构转译成数据可视化与动态对象。",
+   "url": "https://synchronousobjects.osu.edu",
+   "image": "https://synchronousobjects.osu.edu/assets/img/portfolio/SO-1.jpg",
+   "founded": 2009,
+   "people": [
+    "William Forsythe",
+    "Maria Palazzi",
+    "Norah Zuniga Shaw"
+   ]
+  },
+  {
+   "id": "numeridanse",
+   "name": "Numeridanse",
+   "type": "archive",
+   "themes": [
+    "movement-dance"
+   ],
+   "fields": [
+    "movement"
+   ],
+   "description": "A free international dance video library run from the Maison de la Danse in Lyon, with performances, documentaries, dance films and masterclasses.",
+   "description_zh": "由里昂舞蹈之家运营的免费国际舞蹈影像库，收录演出、纪录片、舞蹈影片和大师课。",
+   "url": "https://numeridanse.com/",
+   "based": "Lyon, FR",
+   "based_zh": "里昂，法国"
+  },
+  {
+   "id": "jacobs-pillow-dance-interactive",
+   "name": "Jacob's Pillow Dance Interactive",
+   "type": "archive",
+   "themes": [
+    "movement-dance"
+   ],
+   "fields": [
+    "movement"
+   ],
+   "description": "An online collection of dance videos filmed at Jacob's Pillow from the 1930s to today, with illustrated essays.",
+   "description_zh": "在线舞蹈影像库，收录 1930 年代至今在 Jacob's Pillow 拍摄的舞蹈影片，并附有图文文章。",
+   "url": "https://danceinteractive.jacobspillow.org",
+   "image": "https://danceinteractive.jacobspillow.org/wp-content/uploads/2015/03/JPDIShare-RestlessCreature.png"
+  }
+ ]
+}

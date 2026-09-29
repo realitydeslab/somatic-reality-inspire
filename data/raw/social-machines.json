@@ -1,0 +1,4299 @@
+{
+ "batch": "social-machines",
+ "creators": [
+  {
+   "id": "joseph-la-delfa",
+   "name": "Joseph La Delfa",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Interaction designer and researcher; PhD at the Exertion Games Lab (RMIT), later postdoc at KTH Royal Institute of Technology",
+   "role_zh": "交互设计师与研究者；在 RMIT Exertion Games Lab 获博士学位，后于瑞典皇家理工学院（KTH）做博士后",
+   "based": "Melbourne, AU / Stockholm, SE",
+   "based_zh": "墨尔本，澳大利亚 / 斯德哥尔摩，瑞典",
+   "bio": "Joseph La Delfa designs human-drone interactions from tai chi and somaesthetics, where a drone is felt and moved with rather than piloted.",
+   "bio_zh": "Joseph La Delfa 从太极和身体美学出发设计人与无人机的交互：无人机不是被操控的，而是被感受、与之一同运动的。",
+   "why": "Drone Chi made somaesthetic human-drone interaction a recognised topic in soma design.",
+   "why_zh": "他的 Drone Chi 让“身体美学的人-无人机交互”成为身体设计中公认的议题。",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "connected_to": [
+    "florian-mueller",
+    "mehmet-aydin-baytas",
+    "kristina-hook"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "mehmet-aydin-baytas",
+   "name": "Mehmet Aydın Baytaş",
+   "name_zh": "",
+   "kind": "person",
+   "role": "HCI researcher and designer; worked on human-drone interaction at Koç University and Chalmers University of Technology",
+   "role_zh": "人机交互研究者与设计师；曾在科奇大学与查尔默斯理工大学研究人与无人机交互",
+   "based": "Gothenburg, SE",
+   "based_zh": "哥德堡，瑞典",
+   "bio": "Mehmet Aydın Baytaş studies the design of social drones and co-authored the Drone Chi work.",
+   "bio_zh": "Mehmet Aydın Baytaş 研究社交无人机的设计，是 Drone Chi 的合著者。",
+   "why": "He helped frame drones as companions whose movement is read through the body.",
+   "why_zh": "他帮助把无人机理解为伙伴：它的运动要用身体去读懂。",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "connected_to": [
+    "joseph-la-delfa"
+   ],
+   "discovered_via": "joseph-la-delfa"
+  },
+  {
+   "id": "florian-mueller",
+   "name": "Florian 'Floyd' Mueller",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor, Exertion Games Lab, Monash University; formerly RMIT University",
+   "role_zh": "莫纳什大学 Exertion Games Lab 教授；曾任职于 RMIT 大学",
+   "based": "Melbourne, AU",
+   "based_zh": "墨尔本，澳大利亚",
+   "bio": "Floyd Mueller directs the Exertion Games Lab, which designs play and technology around the moving, sweating, feeling body.",
+   "bio_zh": "Floyd Mueller 领导 Exertion Games Lab，围绕运动、出汗、有感受的身体设计游戏与技术。",
+   "why": "His lab links soma design with exertion, touch at a distance and the integration of body and computer.",
+   "why_zh": "他的实验室把身体设计与运动发力、远程触碰以及身体与计算机的融合连在一起。",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {
+    "site": "https://exertiongameslab.org"
+   },
+   "connected_to": [
+    "joseph-la-delfa",
+    "pedro-lopes",
+    "rakesh-patibanda"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "cutecircuit",
+   "name": "CuteCircuit",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Wearable-technology fashion label founded by Francesca Rosella and Ryan Genz",
+   "role_zh": "由 Francesca Rosella 与 Ryan Genz 创立的可穿戴科技时装品牌",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "bio": "CuteCircuit, founded in 2004, designs garments with embedded electronics that light up, sense and touch the wearer.",
+   "bio_zh": "CuteCircuit 创立于 2004 年，设计内置电子元件、会发光、会感知、会触碰穿着者的服装。",
+   "why": "Its Hug Shirt is the best-known attempt to send the felt quality of a hug over a network.",
+   "why_zh": "它的 Hug Shirt 是通过网络传递拥抱之“感觉”最知名的尝试。",
+   "disciplines": [
+    "design",
+    "art"
+   ],
+   "links": {
+    "site": "https://cutecircuit.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "scott-brave",
+   "name": "Scott Brave",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Former researcher, Tangible Media Group, MIT Media Lab",
+   "role_zh": "曾任 MIT 媒体实验室 Tangible Media Group 研究者",
+   "based": "Cambridge, US",
+   "based_zh": "剑桥（马萨诸塞州），美国",
+   "bio": "Scott Brave built inTouch with Andrew Dahley and Hiroshi Ishii in the Tangible Media Group.",
+   "bio_zh": "Scott Brave 在 Tangible Media Group 与 Andrew Dahley、石井裕共同制作了 inTouch。",
+   "why": "inTouch is a founding example of touch shared between two distant bodies.",
+   "why_zh": "inTouch 是远距离两个身体共享触碰的奠基案例。",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "angela-chang",
+   "name": "Angela Chang",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Designer and researcher; formerly Tangible Media Group, MIT Media Lab",
+   "role_zh": "设计师与研究者；曾在 MIT 媒体实验室 Tangible Media Group",
+   "based": "Cambridge, US",
+   "based_zh": "剑桥（马萨诸塞州），美国",
+   "bio": "Angela Chang designed ComTouch, a vibrotactile device that adds touch to phone calls.",
+   "bio_zh": "Angela Chang 设计了 ComTouch，一种在通话中加入触碰的振动触觉装置。",
+   "why": "ComTouch showed how squeeze and vibration can carry emphasis and turn-taking between two people.",
+   "why_zh": "ComTouch 展示了按压与振动如何在两人之间传递强调与话轮。",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "connected_to": [
+    "scott-brave"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "carl-disalvo",
+   "name": "Carl DiSalvo",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor, School of Interactive Computing, Georgia Institute of Technology",
+   "role_zh": "佐治亚理工学院交互计算学院教授",
+   "based": "Atlanta, US",
+   "based_zh": "亚特兰大，美国",
+   "bio": "Carl DiSalvo works on design, robots and public life; at Carnegie Mellon he co-designed The Hug, a robotic pillow for intimate communication.",
+   "bio_zh": "Carl DiSalvo 研究设计、机器人与公共生活；在卡内基梅隆大学时共同设计了用于亲密沟通的机器人抱枕 The Hug。",
+   "why": "The Hug is an early social robot whose form is designed to be embraced.",
+   "why_zh": "The Hug 是较早一件为“被拥抱”而设计外形的社交机器人。",
+   "disciplines": [
+    "design",
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "gijs-huisman",
+   "name": "Gijs Huisman",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher in social touch technology; formerly University of Twente, later TU Delft",
+   "role_zh": "社会触碰技术研究者；曾在特温特大学，后在代尔夫特理工大学",
+   "based": "Delft, NL",
+   "based_zh": "代尔夫特，荷兰",
+   "bio": "Gijs Huisman builds and studies devices for touch at a distance, such as the TaSST tactile sleeve.",
+   "bio_zh": "Gijs Huisman 制作并研究远程触碰装置，例如 TaSST 触觉袖套。",
+   "why": "His survey of social touch technology is the standard map of the field.",
+   "why_zh": "他关于社会触碰技术的综述是这一领域的标准地图。",
+   "disciplines": [
+    "hci",
+    "engineering"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "holland-haptics",
+   "name": "Holland Haptics",
+   "name_zh": "",
+   "kind": "company",
+   "role": "Dutch start-up that made the Frebble hand-holding device",
+   "role_zh": "制作 Frebble 远程牵手装置的荷兰初创公司",
+   "based": "Netherlands",
+   "based_zh": "荷兰",
+   "bio": "Holland Haptics, founded by Frederic Petrignani, developed Frebble, a handheld device for holding hands at a distance.",
+   "bio_zh": "Holland Haptics 由 Frederic Petrignani 创立，开发了远程牵手的手持装置 Frebble。",
+   "why": "Frebble turned the squeeze of a held hand into a consumer object and a research tool on mediated touch.",
+   "why_zh": "Frebble 把握手时的一捏变成了消费品，也成了中介触碰研究的工具。",
+   "disciplines": [
+    "design",
+    "engineering"
+   ],
+   "links": {},
+   "connected_to": [
+    "alexander-toet"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "alexander-toet",
+   "name": "Alexander Toet",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Senior scientist, TNO (Netherlands Organisation for Applied Scientific Research)",
+   "role_zh": "荷兰应用科学研究组织（TNO）资深科学家",
+   "based": "Soesterberg, NL",
+   "based_zh": "索斯特贝格，荷兰",
+   "bio": "Alexander Toet studies perception, emotion and mediated social touch.",
+   "bio_zh": "Alexander Toet 研究知觉、情绪与中介的社会触碰。",
+   "why": "With Jan van Erp he tested whether a remote hand squeeze changes how people feel together.",
+   "why_zh": "他与 Jan van Erp 一起检验了远程的一次握手是否会改变人们一起时的感受。",
+   "disciplines": [
+    "health",
+    "engineering"
+   ],
+   "links": {},
+   "connected_to": [
+    "holland-haptics"
+   ],
+   "discovered_via": "holland-haptics"
+  },
+  {
+   "id": "carey-jewitt",
+   "name": "Carey Jewitt",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Learning and Technology, UCL; director of the UCL Knowledge Lab",
+   "role_zh": "伦敦大学学院学习与技术教授；UCL Knowledge Lab 主任",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "bio": "Carey Jewitt led the ERC project IN-TOUCH on how digital technologies reshape touch and communication.",
+   "bio_zh": "Carey Jewitt 主持欧洲研究理事会项目 IN-TOUCH，研究数字技术如何重塑触碰与沟通。",
+   "why": "She brings a social-science reading of touch, its norms and its ethics, to haptic design.",
+   "why_zh": "她把关于触碰及其规范与伦理的社会科学视角带进触觉设计。",
+   "disciplines": [
+    "hci",
+    "philosophy"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "julia-werner",
+   "name": "Julia Werner",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Interaction designer; studied at the University of Applied Sciences Potsdam",
+   "role_zh": "交互设计师；曾就读于波茨坦应用科技大学",
+   "based": "Potsdam, DE",
+   "based_zh": "波茨坦，德国",
+   "bio": "Julia Werner designed United-pulse with Reto Wettach and Eva Hornecker.",
+   "bio_zh": "Julia Werner 与 Reto Wettach、Eva Hornecker 共同设计了 United-pulse。",
+   "why": "United-pulse is a pair of rings that lets partners feel each other's pulse.",
+   "why_zh": "United-pulse 是一对戒指，让伴侣感受到彼此的脉搏。",
+   "disciplines": [
+    "design",
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "thecla-schiphorst",
+   "name": "Thecla Schiphorst",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor, School of Interactive Arts and Technology, Simon Fraser University; media artist and dancer",
+   "role_zh": "西蒙菲莎大学交互艺术与技术学院教授；媒体艺术家与舞者",
+   "based": "Vancouver, CA",
+   "based_zh": "温哥华，加拿大",
+   "bio": "Thecla Schiphorst is a dancer, media artist and HCI researcher trained in somatics, who designs wearables around breath and touch.",
+   "bio_zh": "Thecla Schiphorst 是受过身体修习训练的舞者、媒体艺术家与人机交互研究者，围绕呼吸与触碰设计可穿戴作品。",
+   "why": "She brought somatic practice into HCI years before soma design had a name.",
+   "why_zh": "早在身体设计有名字之前，她就把身体修习带进了人机交互。",
+   "disciplines": [
+    "art",
+    "dance"
+   ],
+   "links": {
+    "site": "https://www.sfu.ca/siat/people/research-faculty/thecla-schiphorst.html"
+   },
+   "connected_to": [
+    "susan-kozel"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "susan-kozel",
+   "name": "Susan Kozel",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor, School of Arts and Communication, Malmö University; dancer and philosopher",
+   "role_zh": "马尔默大学艺术与传播学院教授；舞者与哲学家",
+   "based": "Malmö, SE",
+   "based_zh": "马尔默，瑞典",
+   "bio": "Susan Kozel is a dancer and phenomenologist who writes on performance, technology and the lived body.",
+   "bio_zh": "Susan Kozel 是舞者与现象学学者，书写表演、技术与活的身体。",
+   "why": "Her book Closer and the whisper[s] project joined phenomenology with wearable performance.",
+   "why_zh": "她的著作 Closer 与 whisper[s] 项目把现象学与可穿戴表演结合起来。",
+   "disciplines": [
+    "dance",
+    "philosophy"
+   ],
+   "links": {},
+   "connected_to": [
+    "thecla-schiphorst"
+   ],
+   "discovered_via": "thecla-schiphorst"
+  },
+  {
+   "id": "katherine-isbister",
+   "name": "Katherine Isbister",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Computational Media, University of California, Santa Cruz",
+   "role_zh": "加州大学圣克鲁兹分校计算媒体教授",
+   "based": "Santa Cruz, US",
+   "based_zh": "圣克鲁兹，美国",
+   "bio": "Katherine Isbister designs games and wearables for emotion and social connection; she worked with Kristina Höök on eMoto and SenToy.",
+   "bio_zh": "Katherine Isbister 为情绪与社交联结设计游戏和可穿戴物；她曾与 Kristina Höök 合作 eMoto 与 SenToy。",
+   "why": "Her social movement games make co-located bodies move in sync to feel connected.",
+   "why_zh": "她的社交运动游戏让同处一室的身体同步运动，从而感到彼此相连。",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {
+    "site": "https://www.isbister.org"
+   },
+   "connected_to": [
+    "kristina-hook"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "game-oven",
+   "name": "Game Oven",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Independent game studio (Adriaan de Jongh, Bojan Endrovski, Jonathan Barbosa)",
+   "role_zh": "独立游戏工作室（Adriaan de Jongh、Bojan Endrovski、Jonathan Barbosa）",
+   "based": "Utrecht, NL",
+   "based_zh": "乌得勒支，荷兰",
+   "bio": "Game Oven made playful games about physical closeness between players, including Fingle and Bounden.",
+   "bio_zh": "Game Oven 制作关于玩家之间身体亲近的游戏，包括 Fingle 与 Bounden。",
+   "why": "Bounden turns a phone into a shared object that two people dance around.",
+   "why_zh": "Bounden 把手机变成两个人围绕着起舞的共享物件。",
+   "disciplines": [
+    "design",
+    "dance"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "brendan-walker",
+   "name": "Brendan Walker",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and 'thrill engineer'; founder of Thrill Laboratory; collaborator of the Mixed Reality Lab, University of Nottingham",
+   "role_zh": "艺术家与“刺激工程师”；Thrill Laboratory 创始人；诺丁汉大学混合现实实验室合作者",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "bio": "Brendan Walker designs amusement rides and VR swings as artworks about thrill and the felt body.",
+   "bio_zh": "Brendan Walker 把游乐设施和 VR 秋千当作艺术作品，探讨刺激感与被感受的身体。",
+   "why": "His rides make vertigo, breath and heart rate into material for somatic play.",
+   "why_zh": "他的游乐作品把眩晕、呼吸与心率变成身体游戏的材料。",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {},
+   "connected_to": [
+    "steve-benford",
+    "paul-tennent",
+    "joe-marshall"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "steve-benford",
+   "name": "Steve Benford",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Collaborative Computing, Mixed Reality Lab, University of Nottingham",
+   "role_zh": "诺丁汉大学混合现实实验室协同计算教授",
+   "based": "Nottingham, UK",
+   "based_zh": "诺丁汉，英国",
+   "bio": "Steve Benford co-founded the Mixed Reality Lab and works with artists on performance, rides and VR.",
+   "bio_zh": "Steve Benford 共同创立了混合现实实验室，与艺术家合作表演、游乐设施与 VR。",
+   "why": "His work on 'uncomfortable interactions' and thrill rides shows how bodily intensity can be designed.",
+   "why_zh": "他关于“不舒适的交互”与刺激游乐设施的研究表明，身体的强度是可以被设计的。",
+   "disciplines": [
+    "hci",
+    "art"
+   ],
+   "links": {
+    "site": "https://www.nottingham.ac.uk/research/groups/mixedrealitylab/people/steve.benford"
+   },
+   "connected_to": [
+    "paul-tennent",
+    "joe-marshall",
+    "brendan-walker"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "paul-tennent",
+   "name": "Paul Tennent",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Associate Professor, Mixed Reality Lab, University of Nottingham",
+   "role_zh": "诺丁汉大学混合现实实验室副教授",
+   "based": "Nottingham, UK",
+   "based_zh": "诺丁汉，英国",
+   "bio": "Paul Tennent builds VR rides and swings that couple and decouple vision and kinaesthesia.",
+   "bio_zh": "Paul Tennent 制作让视觉与动觉相互耦合又错位的 VR 游乐设施与秋千。",
+   "why": "He treats visual-kinaesthetic conflict as a somatic design material rather than a bug.",
+   "why_zh": "他把视觉与动觉的冲突当作身体设计的材料，而不是缺陷。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": "https://paultennent.wordpress.com"
+   },
+   "connected_to": [
+    "steve-benford",
+    "brendan-walker"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "joe-marshall",
+   "name": "Joe Marshall",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Associate Professor, Mixed Reality Lab, University of Nottingham",
+   "role_zh": "诺丁汉大学混合现实实验室副教授",
+   "based": "Nottingham, UK",
+   "based_zh": "诺丁汉，英国",
+   "bio": "Joe Marshall designs breath- and body-controlled experiences, from the Broncomatic ride to VR.",
+   "bio_zh": "Joe Marshall 设计由呼吸和身体控制的体验，从 Broncomatic 游乐设施到 VR。",
+   "why": "His breath-controlled bucking bronco is a sharp example of breath as a felt control channel.",
+   "why_zh": "他的呼吸控制机械牛是把呼吸当作可感受的控制通道的鲜明例子。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "steve-benford",
+    "brendan-walker"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "mikko-salminen",
+   "name": "Mikko Salminen",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, Tampere University (Gamification Group); formerly Aalto University",
+   "role_zh": "坦佩雷大学（Gamification Group）研究者；曾任职于阿尔托大学",
+   "based": "Tampere, FI",
+   "based_zh": "坦佩雷，芬兰",
+   "bio": "Mikko Salminen studies emotion, empathy and physiological synchrony in VR.",
+   "bio_zh": "Mikko Salminen 研究 VR 中的情绪、共情与生理同步。",
+   "why": "His social VR studies test whether showing each other's biosignals brings two bodies into sync.",
+   "why_zh": "他的社交 VR 研究检验了互相看到对方的生物信号能否让两个身体同步。",
+   "disciplines": [
+    "health",
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "simo-jarvela"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "simo-jarvela",
+   "name": "Simo Järvelä",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher in psychophysiology and VR, Aalto University and University of Helsinki",
+   "role_zh": "阿尔托大学与赫尔辛基大学的心理生理学与 VR 研究者",
+   "based": "Helsinki, FI",
+   "based_zh": "赫尔辛基，芬兰",
+   "bio": "Simo Järvelä studies shared biofeedback, meditation and social presence in virtual reality.",
+   "bio_zh": "Simo Järvelä 研究虚拟现实中的共享生物反馈、冥想与社会临场感。",
+   "why": "His dyadic VR meditation shows respiration synchrony as a route to feeling together.",
+   "why_zh": "他的双人 VR 冥想研究把呼吸同步视为“一起感受”的途径。",
+   "disciplines": [
+    "health",
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "mikko-salminen"
+   ],
+   "discovered_via": "mikko-salminen"
+  },
+  {
+   "id": "alexis-block",
+   "name": "Alexis E. Block",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Roboticist; PhD at Max Planck Institute for Intelligent Systems and ETH Zurich (HuggieBot)",
+   "role_zh": "机器人研究者；在马普智能系统研究所与苏黎世联邦理工学院完成博士研究（HuggieBot）",
+   "based": "Cleveland, US",
+   "based_zh": "克利夫兰，美国",
+   "bio": "Alexis Block built the HuggieBot series of soft, warm hugging robots with Katherine J. Kuchenbecker.",
+   "bio_zh": "Alexis Block 与 Katherine J. Kuchenbecker 一起制作了柔软、温暖的拥抱机器人系列 HuggieBot。",
+   "why": "Her 'hug commandments' spell out what a robot hug must feel like to feel good.",
+   "why_zh": "她的“拥抱诫命”说清了机器人的拥抱要怎样才会让人觉得舒服。",
+   "disciplines": [
+    "engineering",
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "steve-yohanan",
+   "name": "Steve Yohanan",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher; formerly SPIN Lab, University of British Columbia",
+   "role_zh": "研究者；曾在不列颠哥伦比亚大学 SPIN 实验室",
+   "based": "Vancouver, CA",
+   "based_zh": "温哥华，加拿大",
+   "bio": "Steve Yohanan built the Haptic Creature, a furry robot that breathes, purrs and stiffens under the hand.",
+   "bio_zh": "Steve Yohanan 制作了 Haptic Creature：一只在手下呼吸、发出咕噜声、会绷紧身体的毛茸茸机器人。",
+   "why": "It is a key study of affective touch between humans and robots.",
+   "why_zh": "这是关于人与机器人之间情感触碰的关键研究。",
+   "disciplines": [
+    "engineering",
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "paul-bucci"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "paul-bucci",
+   "name": "Paul Bucci",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher; formerly SPIN Lab, University of British Columbia",
+   "role_zh": "研究者；曾在不列颠哥伦比亚大学 SPIN 实验室",
+   "based": "Vancouver, CA",
+   "based_zh": "温哥华，加拿大",
+   "bio": "Paul Bucci led CuddleBits, small breathing robots prototyped together with their behaviour.",
+   "bio_zh": "Paul Bucci 主导了 CuddleBits：外形与行为一同原型化的小型呼吸机器人。",
+   "why": "CuddleBits show how a robot's body and its felt behaviour have to be sketched together.",
+   "why_zh": "CuddleBits 表明机器人的身体与它被感受到的行为必须一起草拟。",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "connected_to": [
+    "steve-yohanan"
+   ],
+   "discovered_via": "steve-yohanan"
+  },
+  {
+   "id": "alice-haynes",
+   "name": "Alice Haynes",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher in soft robotics and haptics; PhD at the University of Bristol",
+   "role_zh": "软体机器人与触觉研究者；在布里斯托大学完成博士学位",
+   "based": "Bristol, UK",
+   "based_zh": "布里斯托，英国",
+   "bio": "Alice Haynes designs soft, shape-changing objects for emotional support, such as a cushion that breathes.",
+   "bio_zh": "Alice Haynes 设计用于情绪支持的柔软形变物件，例如会呼吸的靠垫。",
+   "why": "Her breathing cushion lets the body entrain to a slower rhythm through touch alone.",
+   "why_zh": "她的呼吸靠垫仅凭触碰就让身体跟上更慢的节律。",
+   "disciplines": [
+    "engineering",
+    "health"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "pedro-lopes",
+   "name": "Pedro Lopes",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Associate Professor of Computer Science, University of Chicago; director of the Human Computer Integration Lab",
+   "role_zh": "芝加哥大学计算机科学副教授，人机融合实验室负责人",
+   "based": "Chicago, US",
+   "based_zh": "芝加哥，美国",
+   "bio": "Pedro Lopes builds devices that integrate with the body, such as electrical muscle stimulation that moves the wearer's limbs.",
+   "bio_zh": "Pedro Lopes 研究与身体融为一体的设备，例如能驱动佩戴者肢体的肌肉电刺激。",
+   "why": "His EMS work asks what it feels like when a computer moves your muscles, and whose action that is.",
+   "why_zh": "他的肌肉电刺激研究追问：当计算机驱动你的肌肉时是什么感觉，这个动作又属于谁。",
+   "disciplines": [
+    "hci",
+    "engineering"
+   ],
+   "links": {
+    "site": "https://plopes.org"
+   },
+   "connected_to": [
+    "florian-mueller"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "rebecca-fiebrink",
+   "name": "Rebecca Fiebrink",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor, UAL Creative Computing Institute",
+   "role_zh": "伦敦艺术大学创意计算学院教授",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "bio": "Rebecca Fiebrink is a computer scientist and musician who builds interactive machine learning tools for artists.",
+   "bio_zh": "Rebecca Fiebrink 是计算机科学家与音乐人，为艺术家开发交互式机器学习工具。",
+   "why": "Wekinator lets people teach a model by moving, so the body, not code, shapes the mapping.",
+   "why_zh": "Wekinator 让人通过运动来训练模型，由身体而不是代码塑造映射。",
+   "disciplines": [
+    "hci",
+    "dance"
+   ],
+   "links": {
+    "site": "http://www.wekinator.org/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "baptiste-caramiaux",
+   "name": "Baptiste Caramiaux",
+   "name_zh": "",
+   "kind": "person",
+   "role": "CNRS researcher, ISIR, Sorbonne Université; formerly IRCAM and Goldsmiths",
+   "role_zh": "索邦大学 ISIR 法国国家科学研究中心（CNRS）研究员；曾任职于 IRCAM 与金史密斯学院",
+   "based": "Paris, FR",
+   "based_zh": "巴黎，法国",
+   "bio": "Baptiste Caramiaux studies machine learning for expressive gesture, music and movement.",
+   "bio_zh": "Baptiste Caramiaux 研究面向表达性手势、音乐与动作的机器学习。",
+   "why": "His muscle-sensing work treats expressivity as something felt in effort and tension, not only seen.",
+   "why_zh": "他的肌肉传感研究把表现力看作在发力和张力中被感受到的东西，而不只是被看到的。",
+   "disciplines": [
+    "hci",
+    "dance"
+   ],
+   "links": {},
+   "connected_to": [
+    "marco-gillies"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "marco-gillies",
+   "name": "Marco Gillies",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Reader in Computing, Goldsmiths, University of London",
+   "role_zh": "伦敦大学金史密斯学院计算系 Reader",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "bio": "Marco Gillies researches movement interaction, virtual characters and interactive machine learning.",
+   "bio_zh": "Marco Gillies 研究动作交互、虚拟角色与交互式机器学习。",
+   "why": "He argues that designers should design movement interaction by moving, with ML learning from their examples.",
+   "why_zh": "他主张设计者应当通过亲自运动来设计动作交互，让机器学习从示范中学习。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "baptiste-caramiaux",
+    "rebecca-fiebrink"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "laura-devendorf",
+   "name": "Laura Devendorf",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Associate Professor, ATLAS Institute and Information Science, University of Colorado Boulder; director of the Unstable Design Lab",
+   "role_zh": "科罗拉多大学博尔德分校 ATLAS 研究所与信息科学系副教授，Unstable Design Lab 负责人",
+   "based": "Boulder, US",
+   "based_zh": "博尔德，美国",
+   "bio": "Laura Devendorf is a designer and artist working on weaving, smart textiles and hybrid human-machine making.",
+   "bio_zh": "Laura Devendorf 是设计师与艺术家，研究编织、智能织物与人机混合制造。",
+   "why": "Being the Machine turns the maker's own body into the 3D printer's moving head.",
+   "why_zh": "Being the Machine 把制作者自己的身体变成 3D 打印机的移动喷头。",
+   "disciplines": [
+    "design",
+    "art"
+   ],
+   "links": {
+    "site": "https://unstable.design"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "matthew-botvinick",
+   "name": "Matthew Botvinick",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Cognitive neuroscientist; formerly Princeton University and DeepMind",
+   "role_zh": "认知神经科学家；曾任职于普林斯顿大学与 DeepMind",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "bio": "Matthew Botvinick and Jonathan Cohen described the rubber hand illusion in 1998.",
+   "bio_zh": "Matthew Botvinick 与 Jonathan Cohen 于 1998 年描述了橡胶手错觉。",
+   "why": "The rubber hand illusion is the foundation of research on felt body ownership.",
+   "why_zh": "橡胶手错觉是“被感受的身体拥有感”研究的基础。",
+   "disciplines": [
+    "health"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "bigna-lenggenhager",
+   "name": "Bigna Lenggenhager",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Cognitive Psychology and Neuropsychology, University of Konstanz; formerly EPFL (Blanke lab)",
+   "role_zh": "康斯坦茨大学认知心理学与神经心理学教授；曾在洛桑联邦理工学院 Blanke 实验室",
+   "based": "Konstanz, DE",
+   "based_zh": "康斯坦茨，德国",
+   "bio": "Bigna Lenggenhager led the 2007 full-body illusion study with Olaf Blanke and Thomas Metzinger.",
+   "bio_zh": "Bigna Lenggenhager 与 Olaf Blanke、Thomas Metzinger 共同完成了 2007 年的全身错觉研究。",
+   "why": "Her work shows that the felt location of the self can be moved with video and touch.",
+   "why_zh": "她的研究表明，自我被感受到的位置可以借由影像与触碰被移动。",
+   "disciplines": [
+    "health",
+    "philosophy"
+   ],
+   "links": {},
+   "connected_to": [
+    "henrik-ehrsson"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "henrik-ehrsson",
+   "name": "H. Henrik Ehrsson",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Cognitive Neuroscience, Karolinska Institutet; Brain, Body and Self Laboratory",
+   "role_zh": "卡罗林斯卡学院认知神经科学教授；Brain, Body and Self 实验室",
+   "based": "Stockholm, SE",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "bio": "Henrik Ehrsson studies how the brain builds the feeling of owning a body, using illusions of body swap and out-of-body experience.",
+   "bio_zh": "Henrik Ehrsson 借助身体互换与离体体验等错觉，研究大脑如何建立“拥有身体”的感觉。",
+   "why": "His illusions give designers a vocabulary for where and whose the felt body is.",
+   "why_zh": "他的错觉研究为设计者提供了一套描述“被感受的身体在哪里、属于谁”的词汇。",
+   "disciplines": [
+    "health"
+   ],
+   "links": {},
+   "connected_to": [
+    "valeria-petkova"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "valeria-petkova",
+   "name": "Valeria I. Petkova",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Cognitive neuroscientist; formerly Karolinska Institutet (Ehrsson lab)",
+   "role_zh": "认知神经科学家；曾在卡罗林斯卡学院 Ehrsson 实验室",
+   "based": "Stockholm, SE",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "bio": "Valeria Petkova led the 2008 body-swap illusion study with Henrik Ehrsson.",
+   "bio_zh": "Valeria Petkova 与 Henrik Ehrsson 一起主导了 2008 年的身体互换错觉研究。",
+   "why": "The body-swap study showed that people can feel another person's body as their own.",
+   "why_zh": "身体互换研究表明，人可以把另一个人的身体感受为自己的身体。",
+   "disciplines": [
+    "health"
+   ],
+   "links": {},
+   "connected_to": [
+    "henrik-ehrsson"
+   ],
+   "discovered_via": "henrik-ehrsson"
+  },
+  {
+   "id": "mel-slater",
+   "name": "Mel Slater",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Distinguished Investigator, University of Barcelona (Event Lab); formerly UCL",
+   "role_zh": "巴塞罗那大学杰出研究员（Event Lab）；曾任职于伦敦大学学院",
+   "based": "Barcelona, ES",
+   "based_zh": "巴塞罗那，西班牙",
+   "bio": "Mel Slater pioneered research on presence and virtual body ownership, from body transfer to extended avatars.",
+   "bio_zh": "Mel Slater 开创了关于临场感与虚拟身体拥有感的研究，从身体转移到延展化身。",
+   "why": "His lab shows that owning a different virtual body changes perception, attitudes and self-understanding.",
+   "why_zh": "他的实验室表明，拥有一个不同的虚拟身体会改变知觉、态度与自我理解。",
+   "disciplines": [
+    "hci",
+    "health"
+   ],
+   "links": {},
+   "connected_to": [
+    "konstantina-kilteni",
+    "domna-banakou"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "konstantina-kilteni",
+   "name": "Konstantina Kilteni",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Neuroscientist, Donders Institute; formerly Karolinska Institutet and Event Lab, Barcelona",
+   "role_zh": "神经科学家，唐德斯研究所；曾在卡罗林斯卡学院与巴塞罗那 Event Lab",
+   "based": "Nijmegen, NL",
+   "based_zh": "奈梅亨，荷兰",
+   "bio": "Konstantina Kilteni studies body ownership, self-touch and the sense of embodiment.",
+   "bio_zh": "Konstantina Kilteni 研究身体拥有感、自我触碰与具身感。",
+   "why": "Her definition of the 'sense of embodiment' (ownership, agency, self-location) is the standard framework in VR.",
+   "why_zh": "她对“具身感”（拥有感、能动感、自我定位）的定义是 VR 研究的标准框架。",
+   "disciplines": [
+    "health"
+   ],
+   "links": {},
+   "connected_to": [
+    "mel-slater"
+   ],
+   "discovered_via": "mel-slater"
+  },
+  {
+   "id": "domna-banakou",
+   "name": "Domna Banakou",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher in virtual embodiment; formerly Event Lab, University of Barcelona",
+   "role_zh": "虚拟具身研究者；曾在巴塞罗那大学 Event Lab",
+   "based": "Barcelona, ES",
+   "based_zh": "巴塞罗那，西班牙",
+   "bio": "Domna Banakou studies how virtual bodies change perception and bias.",
+   "bio_zh": "Domna Banakou 研究虚拟身体如何改变知觉与偏见。",
+   "why": "Her child-body study shows that the felt body scales how the world looks.",
+   "why_zh": "她的儿童身体研究表明，被感受的身体会改变世界看起来的尺度。",
+   "disciplines": [
+    "health",
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "mel-slater"
+   ],
+   "discovered_via": "mel-slater"
+  },
+  {
+   "id": "william-steptoe",
+   "name": "William Steptoe",
+   "name_zh": "",
+   "kind": "person",
+   "role": "VR researcher; formerly Virtual Environments and Computer Graphics group, UCL",
+   "role_zh": "VR 研究者；曾在伦敦大学学院虚拟环境与计算机图形组",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "bio": "William Steptoe led the Human Tails study on owning and controlling an extra body part in VR.",
+   "bio_zh": "William Steptoe 主导了 Human Tails 研究：在 VR 中拥有并控制一个额外的身体部位。",
+   "why": "Human Tails shows the body schema can grow a limb humans never had.",
+   "why_zh": "Human Tails 表明身体图式可以长出人类从未有过的肢体。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "mel-slater"
+   ],
+   "discovered_via": "mel-slater"
+  },
+  {
+   "id": "tabitha-peck",
+   "name": "Tabitha C. Peck",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Associate Professor of Mathematics and Computer Science, Davidson College",
+   "role_zh": "戴维森学院数学与计算机科学副教授",
+   "based": "Davidson, US",
+   "based_zh": "戴维森，美国",
+   "bio": "Tabitha Peck studies avatar embodiment, bias and perception in VR.",
+   "bio_zh": "Tabitha Peck 研究 VR 中的化身具身、偏见与知觉。",
+   "why": "Her embodiment study made body ownership a question of body politics.",
+   "why_zh": "她的具身研究把身体拥有感变成了身体政治的问题。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "mel-slater"
+   ],
+   "discovered_via": "mel-slater"
+  },
+  {
+   "id": "beanotherlab",
+   "name": "BeAnotherLab",
+   "name_zh": "",
+   "kind": "lab",
+   "role": "Interdisciplinary collective for embodiment and empathy research",
+   "role_zh": "关于具身与共情研究的跨学科团体",
+   "based": "Barcelona, ES",
+   "based_zh": "巴塞罗那，西班牙",
+   "bio": "BeAnotherLab is a collective founded in Barcelona in 2012 that builds low-cost embodiment systems for swapping perspectives and bodies.",
+   "bio_zh": "BeAnotherLab 是 2012 年在巴塞罗那成立的团体，制作低成本具身系统，让人交换视角与身体。",
+   "why": "The Machine to Be Another turns body ownership research into a shared, choreographed encounter between two people.",
+   "why_zh": "《成为他人的机器》把身体拥有感研究变成两个人之间共享的、被编排的相遇。",
+   "disciplines": [
+    "art",
+    "hci"
+   ],
+   "links": {
+    "site": "https://beanotherlab.org"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "owen-harris",
+   "name": "Owen Harris",
+   "name_zh": "",
+   "kind": "person",
+   "role": "VR designer and artist; co-creator of DEEP",
+   "role_zh": "VR 设计师与艺术家；DEEP 的共同创作者",
+   "based": "Utrecht, NL",
+   "based_zh": "乌得勒支，荷兰",
+   "bio": "Owen Harris makes meditative VR; he built DEEP with Niki Smit after using breathing to manage his own anxiety.",
+   "bio_zh": "Owen Harris 创作冥想型 VR；他在用呼吸应对自身焦虑之后，与 Niki Smit 一起做了 DEEP。",
+   "why": "DEEP is the best-known VR work steered only by diaphragmatic breathing.",
+   "why_zh": "DEEP 是最知名的一件只用腹式呼吸来驾驭的 VR 作品。",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {
+    "site": "https://www.exploredeep.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "john-desnoyers-stewart",
+   "name": "John Desnoyers-Stewart",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist-researcher, iSpace Lab, Simon Fraser University",
+   "role_zh": "西蒙菲莎大学 iSpace 实验室艺术家与研究者",
+   "based": "Vancouver, CA",
+   "based_zh": "温哥华，加拿大",
+   "bio": "John Desnoyers-Stewart makes social VR installations about connection, breath and touch.",
+   "bio_zh": "John Desnoyers-Stewart 创作关于联结、呼吸与触碰的社交 VR 装置。",
+   "why": "JeL uses shared breathing in VR to grow a connection between people and a virtual reef.",
+   "why_zh": "JeL 用 VR 中共享的呼吸，在人与人、人与虚拟珊瑚礁之间生长出联结。",
+   "disciplines": [
+    "art",
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "ekaterina-stepanova"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ekaterina-stepanova",
+   "name": "Ekaterina R. Stepanova",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, iSpace Lab, Simon Fraser University",
+   "role_zh": "西蒙菲莎大学 iSpace 实验室研究者",
+   "based": "Vancouver, CA",
+   "based_zh": "温哥华，加拿大",
+   "bio": "Ekaterina Stepanova studies transformative and self-transcendent experiences in VR.",
+   "bio_zh": "Ekaterina Stepanova 研究 VR 中的转化性与自我超越体验。",
+   "why": "She studies how VR can support feelings of connection with others and with nature.",
+   "why_zh": "她研究 VR 如何支持与他人、与自然相连的感受。",
+   "disciplines": [
+    "hci",
+    "health"
+   ],
+   "links": {},
+   "connected_to": [
+    "john-desnoyers-stewart"
+   ],
+   "discovered_via": "john-desnoyers-stewart"
+  },
+  {
+   "id": "marshmallow-laser-feast",
+   "name": "Marshmallow Laser Feast",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Experiential art collective",
+   "role_zh": "体验艺术团体",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "bio": "Marshmallow Laser Feast is a London collective (Barney Steel, Robin McNicholas and others) making multisensory VR and installations about perception and the natural world.",
+   "bio_zh": "Marshmallow Laser Feast 是伦敦的艺术团体（Barney Steel、Robin McNicholas 等），创作关于感知与自然世界的多感官 VR 与装置。",
+   "why": "Their VR works let people borrow the senses and breath of animals and trees.",
+   "why_zh": "他们的 VR 作品让人借用动物与树的感官和呼吸。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://marshmallowlaserfeast.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "somniacs",
+   "name": "Somniacs",
+   "name_zh": "",
+   "kind": "company",
+   "role": "Swiss VR simulator company behind Birdly",
+   "role_zh": "推出 Birdly 的瑞士 VR 模拟器公司",
+   "based": "Zurich, CH",
+   "based_zh": "苏黎世，瑞士",
+   "bio": "Somniacs was founded by Max Rheiner to develop Birdly, a full-body flight simulator.",
+   "bio_zh": "Somniacs 由 Max Rheiner 创立，开发全身飞行模拟器 Birdly。",
+   "why": "Birdly makes flying a matter of the whole prone body, arms as wings.",
+   "why_zh": "Birdly 让飞行成为整个俯卧身体的事情，手臂就是翅膀。",
+   "disciplines": [
+    "design",
+    "engineering"
+   ],
+   "links": {
+    "site": "https://www.birdlyvr.com"
+   },
+   "connected_to": [
+    "max-rheiner"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "max-rheiner",
+   "name": "Max Rheiner",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Media artist; creator of Birdly and founder of Somniacs; formerly Zurich University of the Arts",
+   "role_zh": "媒体艺术家；Birdly 创作者与 Somniacs 创始人；曾任教于苏黎世艺术大学",
+   "based": "Zurich, CH",
+   "based_zh": "苏黎世，瑞士",
+   "bio": "Max Rheiner is a Swiss media artist who developed Birdly at the Zurich University of the Arts.",
+   "bio_zh": "Max Rheiner 是瑞士媒体艺术家，在苏黎世艺术大学开发了 Birdly。",
+   "why": "He turned the dream of flying into a posture, a wind and a flapping body.",
+   "why_zh": "他把飞翔之梦变成一种姿态、一阵风和一副拍动的身体。",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {},
+   "connected_to": [
+    "somniacs"
+   ],
+   "discovered_via": "somniacs"
+  },
+  {
+   "id": "milica-zec",
+   "name": "Milica Zec",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Film director and VR storyteller",
+   "role_zh": "电影导演与 VR 叙事者",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "bio": "Milica Zec is a Serbian-born director who makes VR films about nature and empathy.",
+   "bio_zh": "Milica Zec 是出生于塞尔维亚的导演，创作关于自然与共情的 VR 影片。",
+   "why": "Tree lets the viewer's body become a rainforest tree, from seed to fire.",
+   "why_zh": "Tree 让观者的身体变成一棵雨林中的树，从种子到被火焚烧。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.treeofficial.com"
+   },
+   "connected_to": [
+    "winslow-porter"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "winslow-porter",
+   "name": "Winslow Porter",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Immersive producer and creative director",
+   "role_zh": "沉浸式作品制作人与创意总监",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "bio": "Winslow Porter co-created the VR works Giant and Tree with Milica Zec.",
+   "bio_zh": "Winslow Porter 与 Milica Zec 共同创作了 VR 作品 Giant 与 Tree。",
+   "why": "He designs the haptic and environmental layers that make VR felt on the body.",
+   "why_zh": "他设计让 VR 在身体上被感受到的触觉与环境层。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "connected_to": [
+    "milica-zec"
+   ],
+   "discovered_via": "milica-zec"
+  },
+  {
+   "id": "thomas-thwaites",
+   "name": "Thomas Thwaites",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Designer",
+   "role_zh": "设计师",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "bio": "Thomas Thwaites is a designer known for The Toaster Project and GoatMan.",
+   "bio_zh": "Thomas Thwaites 是以 The Toaster Project 与 GoatMan 闻名的设计师。",
+   "why": "GoatMan is a first-person experiment in taking on another species' body and gait.",
+   "why_zh": "GoatMan 是一次以第一人称承担另一物种身体与步态的实验。",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": "https://www.thomasthwaites.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "chris-woebken",
+   "name": "Chris Woebken",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Designer and researcher; co-founder of the Extrapolation Factory",
+   "role_zh": "设计师与研究者；Extrapolation Factory 联合创始人",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "bio": "Chris Woebken is a German-born designer working on speculative and participatory futures.",
+   "bio_zh": "Chris Woebken 是出生于德国的设计师，从事思辨与参与式未来设计。",
+   "why": "Animal Superpowers gives children the senses of ants and birds through wearable devices.",
+   "why_zh": "Animal Superpowers 通过可穿戴装置，让孩子获得蚂蚁与鸟的感官。",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": "https://www.chriswoebken.com"
+   },
+   "connected_to": [
+    "kenichi-okada"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "kenichi-okada",
+   "name": "Kenichi Okada",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Designer; Royal College of Art Design Interactions graduate",
+   "role_zh": "设计师；皇家艺术学院交互设计系毕业",
+   "based": "Tokyo, JP",
+   "based_zh": "东京，日本",
+   "bio": "Kenichi Okada is a Japanese designer who co-created Animal Superpowers with Chris Woebken.",
+   "bio_zh": "Kenichi Okada 是日本设计师，与 Chris Woebken 共同创作了 Animal Superpowers。",
+   "why": "He co-designed wearables that shift the scale and sense of the body.",
+   "why_zh": "他参与设计了改变身体尺度与感官的可穿戴物。",
+   "disciplines": [
+    "design"
+   ],
+   "links": {},
+   "connected_to": [
+    "chris-woebken"
+   ],
+   "discovered_via": "chris-woebken"
+  },
+  {
+   "id": "art-oriente-objet",
+   "name": "Art Orienté Objet",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Artist duo of Marion Laval-Jeantet and Benoît Mangin",
+   "role_zh": "Marion Laval-Jeantet 与 Benoît Mangin 组成的艺术家二人组",
+   "based": "Paris, FR",
+   "based_zh": "巴黎，法国",
+   "bio": "Art Orienté Objet is a French duo working at the edges of art, ethology and biology since 1991.",
+   "bio_zh": "Art Orienté Objet 是法国艺术二人组，自 1991 年起在艺术、动物行为学与生物学的边缘工作。",
+   "why": "Their horse-blood performance asks what it would mean to feel another species inside one's own body.",
+   "why_zh": "他们的马血表演追问：在自己身体里感受另一个物种意味着什么。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "clara-moge",
+   "name": "Clara Moge",
+   "name_zh": "",
+   "kind": "person",
+   "role": "HCI researcher; formerly UCL Interaction Centre",
+   "role_zh": "人机交互研究者；曾在伦敦大学学院交互中心（UCLIC）",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "bio": "Clara Moge studies how physiological data can be shared between people to support social and emotional connection.",
+   "bio_zh": "Clara Moge 研究如何在人与人之间分享生理数据，以支持社会与情感联结。",
+   "why": "Her systematic review maps the field of social biofeedback that shared-heartbeat and shared-breath designs belong to.",
+   "why_zh": "她的系统综述梳理了“社会生物反馈”领域，共享心跳与共享呼吸的设计都属于其中。",
+   "disciplines": [
+    "hci",
+    "health"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "holger-schnadelbach",
+   "name": "Holger Schnädelbach",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Architect and HCI researcher; founder of the Adaptive Architecture research group, formerly Mixed Reality Lab, University of Nottingham",
+   "role_zh": "建筑师与人机交互研究者；自适应建筑研究组创始人，曾在诺丁汉大学混合现实实验室",
+   "based": "Nottingham, UK",
+   "based_zh": "诺丁汉，英国",
+   "bio": "Holger Schnädelbach designs adaptive architecture that changes shape and atmosphere in response to the people inside it.",
+   "bio_zh": "Holger Schnädelbach 设计会随内部人员而改变形状与氛围的自适应建筑。",
+   "why": "ExoBuilding makes a building breathe with its occupant, extending the felt body into architecture.",
+   "why_zh": "ExoBuilding 让建筑与其中的人一同呼吸，把被感受的身体延伸到建筑之中。",
+   "disciplines": [
+    "design",
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "steve-benford",
+    "brendan-walker"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "bronwyn-tarr",
+   "name": "Bronwyn Tarr",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Evolutionary anthropologist and dancer; formerly Institute of Cognitive and Evolutionary Anthropology, University of Oxford",
+   "role_zh": "进化人类学者与舞者；曾在牛津大学认知与进化人类学研究所",
+   "based": "Oxford, UK",
+   "based_zh": "牛津，英国",
+   "bio": "Bronwyn Tarr studies how dancing and moving in synchrony bond people together.",
+   "bio_zh": "Bronwyn Tarr 研究一起跳舞、同步运动如何让人彼此联结。",
+   "why": "Her VR study isolates movement synchrony as a cause of felt social closeness.",
+   "why_zh": "她的 VR 研究把动作同步单独拿出来，证明它本身就能带来被感受到的社会亲近。",
+   "disciplines": [
+    "health",
+    "dance"
+   ],
+   "links": {},
+   "connected_to": [
+    "mel-slater"
+   ],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "scott-brave--intouch",
+   "creator_ids": [
+    "scott-brave"
+   ],
+   "title": "inTouch",
+   "year": 1997,
+   "field": "social",
+   "sub": "mediated-touch",
+   "modalities": [
+    "touch",
+    "movement"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "touching-back"
+   ],
+   "kind": "prototype",
+   "description": "Two sets of three wooden rollers are linked by motors: when one person turns a roller, the matching roller under the other person's hand turns too, and both can push against each other.",
+   "description_zh": "两组各三根木质滚轴由电机相连：一人转动滚轴时，远方另一人手下对应的滚轴也随之转动，两人还能彼此“顶”住对方。",
+   "idea_en": "Touch at a distance works best as a shared, two-way physical medium that both bodies can push and feel at once, not as a message sent from one to the other.",
+   "idea_zh": "远距离的触碰最好是一个双向共享的物理介质，两个身体能同时推动、同时感到，而不是一方发给另一方的讯息。",
+   "method": "Force-feedback rollers with position sensors and motors synchronise two remote objects so that both users feel the same state and each other's resistance.",
+   "method_zh": "带位置传感器与电机的力反馈滚轴让两个远端物件保持同步，双方感到同一状态，也感到对方的阻力。",
+   "keywords": [
+    "Tangible Media Group",
+    "MIT Media Lab",
+    "Hiroshi Ishii",
+    "Andrew Dahley",
+    "synchronized distributed physical objects",
+    "haptic telepresence"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/289444.289491",
+    "doi": "10.1145/289444.289491",
+    "arxiv": "",
+    "venue": "CSCW 1998",
+    "title": "Tangible interfaces for remote collaboration and communication"
+   },
+   "source_url": "https://tangible.media.mit.edu/project/intouch/",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "angela-chang--comtouch",
+   "creator_ids": [
+    "angela-chang",
+    "scott-brave"
+   ],
+   "title": "ComTouch",
+   "year": 2002,
+   "field": "social",
+   "sub": "mediated-touch",
+   "modalities": [
+    "touch",
+    "vibration",
+    "voice-sound"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "touching-back"
+   ],
+   "kind": "prototype",
+   "description": "A sleeve on a mobile phone turns the pressure of each finger into vibration under the other caller's fingers, so a conversation carries squeezes as well as words.",
+   "description_zh": "套在手机上的装置把每根手指的按压转成对方手指下的振动，让一次通话既有话语也有“捏一下”。",
+   "idea_en": "People invent their own tactile vocabulary, emphasis, turn-taking and play, as soon as touch is added to talk.",
+   "idea_zh": "一旦在话语之外加上触碰，人们会自己发明一套触觉词汇：强调、轮流与嬉戏。",
+   "method": "Force-sensitive resistors under the fingers drive vibrotactile actuators on the remote device, tested with pairs of users in a lab study.",
+   "method_zh": "手指下的力敏电阻驱动远端装置上的振动触觉执行器，并以双人实验室研究检验。",
+   "keywords": [
+    "Tangible Media Group",
+    "vibrotactile",
+    "Sile O'Modhrain",
+    "Hiroshi Ishii",
+    "remote communication"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/778712.778755",
+    "doi": "10.1145/778712.778755",
+    "arxiv": "",
+    "venue": "DIS 2002",
+    "title": "ComTouch: design of a vibrotactile communication device"
+   },
+   "source_url": "https://tangible.media.mit.edu/project/comtouch/",
+   "code_url": "",
+   "collections": [
+    "dis"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "cutecircuit--hug-shirt",
+   "creator_ids": [
+    "cutecircuit"
+   ],
+   "title": "The Hug Shirt",
+   "year": 2004,
+   "field": "social",
+   "sub": "mediated-touch",
+   "modalities": [
+    "touch",
+    "heat",
+    "heartbeat"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "touching-back"
+   ],
+   "kind": "product",
+   "description": "A shirt with sensors and actuators where a hug would land: a hug sent from a phone is replayed on the wearer's body as pressure, warmth and the sender's heartbeat.",
+   "description_zh": "一件在拥抱落点处嵌有传感器与执行器的衬衫：从手机发出的拥抱在穿着者身上重现为压力、温暖与发送者的心跳。",
+   "idea_en": "A hug is a whole-body event of pressure, warmth and rhythm, so sending one means designing for where and how it lands on the skin.",
+   "idea_zh": "拥抱是一件关于压力、温度与节律的全身事件；要“发送”拥抱，就得设计它落在皮肤何处、以何种方式落下。",
+   "method": "Sensors record the strength, duration and location of a hug; Bluetooth and a phone app relay it to actuators and heating elements in the partner's shirt.",
+   "method_zh": "传感器记录拥抱的力度、时长与位置，经蓝牙与手机应用传给伴侣衬衫里的执行器和加热元件。",
+   "keywords": [
+    "CuteCircuit",
+    "Francesca Rosella",
+    "Ryan Genz",
+    "haptic telecommunication",
+    "wearable"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=4MbzMiEGn5s"
+   },
+   "images": [
+    "https://cutecircuit.com/images/cute2/archive/7d18d69954180842.webp",
+    "https://cutecircuit.com/images/cute2/archive/b940be00f887ec0b.webp"
+   ],
+   "source_url": "https://cutecircuit.com/hugshirt/",
+   "code_url": "",
+   "collections": [],
+   "exhibited": [
+    "TIME Best Inventions of the Year 2006"
+   ]
+  },
+  {
+   "id": "florian-mueller--hug-over-a-distance",
+   "creator_ids": [
+    "florian-mueller"
+   ],
+   "title": "Hug over a Distance",
+   "year": 2005,
+   "field": "social",
+   "sub": "mediated-touch",
+   "modalities": [
+    "touch",
+    "shape-change"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "touching-back"
+   ],
+   "kind": "prototype",
+   "description": "An air-inflatable vest lets couples in long-distance relationships send a hug: when one partner squeezes a koala-shaped soft toy, the other's vest inflates around the torso.",
+   "description_zh": "一件充气背心让异地伴侣“寄出”拥抱：一方捏一下考拉形状的毛绒玩具，另一方的背心就在躯干周围鼓起。",
+   "idea_en": "An embrace is felt as pressure closing around the torso; the vest designs that closure rather than a signal of affection.",
+   "idea_zh": "拥抱被感受为环绕躯干收拢的压力；这件背心设计的是那种收拢，而不是一个“表示爱意”的信号。",
+   "method": "A PDA-linked koala with a pressure sensor triggers a pump that inflates air pockets in the partner's vest; tested with couples in a field study.",
+   "method_zh": "带压力传感器的考拉玩具连着掌上电脑，触发气泵给伴侣背心的气囊充气；以伴侣实地研究检验。",
+   "keywords": [
+    "Exertion Games Lab",
+    "inflatable vest",
+    "long-distance relationships",
+    "Frank Vetere",
+    "Martin Gibbs"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=XtG4UzezQWk"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/1056808.1056994",
+    "doi": "10.1145/1056808.1056994",
+    "arxiv": "",
+    "venue": "CHI 2005 Extended Abstracts",
+    "title": "Hug over a distance"
+   },
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "carl-disalvo--the-hug",
+   "creator_ids": [
+    "carl-disalvo"
+   ],
+   "title": "The Hug",
+   "year": 2003,
+   "field": "social",
+   "sub": "mediated-touch",
+   "modalities": [
+    "touch",
+    "vibration",
+    "heat"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "touching-back"
+   ],
+   "kind": "prototype",
+   "description": "A soft, arm-shaped robotic pillow for elders and their families: hugging it sends a hug to a matching pillow, which then vibrates, warms and plays the caller's voice.",
+   "description_zh": "一只手臂形状、柔软的机器人抱枕，面向老人与家人：抱紧它，就把拥抱传给另一只抱枕，后者随之振动、发热并播放来电者的声音。",
+   "idea_en": "A robot for intimacy should first be shaped to be held; its form invites the embrace before any function does.",
+   "idea_zh": "为亲密而做的机器人首先要被塑造成可以被抱住的样子；在任何功能之前，形态先邀请了拥抱。",
+   "method": "Pressure and stroke sensors in the pillow's arms connect over a phone line to vibration motors, heating pads and audio in the paired pillow.",
+   "method_zh": "抱枕手臂中的压力与抚触传感器经电话线与配对抱枕中的振动电机、加热垫与音频相连。",
+   "keywords": [
+    "Carnegie Mellon University",
+    "Francine Gemperle",
+    "Jodi Forlizzi",
+    "robotic pillow",
+    "elders",
+    "intimate communication"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1109/roman.2003.1251879",
+    "doi": "10.1109/roman.2003.1251879",
+    "arxiv": "",
+    "venue": "IEEE RO-MAN 2003",
+    "title": "The Hug: an exploration of robotic form for intimate communication"
+   },
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "gijs-huisman--tasst",
+   "creator_ids": [
+    "gijs-huisman"
+   ],
+   "title": "TaSST: Tactile Sleeve for Social Touch",
+   "year": 2013,
+   "field": "social",
+   "sub": "mediated-touch",
+   "modalities": [
+    "touch",
+    "vibration"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "touching-back"
+   ],
+   "kind": "prototype",
+   "description": "A pair of forearm sleeves: stroking or squeezing the pressure-sensitive layer of one sleeve is played back as a pattern of vibration on the other person's arm.",
+   "description_zh": "一对前臂袖套：抚摸或捏压一只袖套的压力感应层，另一人手臂上就会重现为一串振动图案。",
+   "idea_en": "Social touch is carried by its pattern in time and space, a stroke versus a tap, more than by force alone.",
+   "idea_zh": "社会触碰的含义更多在于时间与空间中的样式（抚过还是轻拍），而不只是力度。",
+   "method": "A grid of conductive-foam pressure sensors on one sleeve maps onto a matching grid of vibration motors on the other.",
+   "method_zh": "一只袖套上的导电泡沫压力传感器阵列一一对应到另一只袖套上的振动电机阵列。",
+   "keywords": [
+    "University of Twente",
+    "social touch",
+    "vibrotactile sleeve",
+    "stroke",
+    "Dirk Heylen"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1109/whc.2013.6548410",
+    "doi": "10.1109/whc.2013.6548410",
+    "arxiv": "",
+    "venue": "IEEE World Haptics Conference 2013",
+    "title": "The TaSSt: Tactile sleeve for social touch"
+   },
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "gijs-huisman--social-touch-technology",
+   "creator_ids": [
+    "gijs-huisman"
+   ],
+   "title": "Social Touch Technology: A Survey of Haptic Technology for Social Touch",
+   "year": 2017,
+   "field": "social",
+   "sub": "mediated-touch",
+   "modalities": [
+    "touch",
+    "vibration"
+   ],
+   "lenses": [
+    "intercorporeality"
+   ],
+   "kind": "paper",
+   "description": "A survey of devices that mediate social touch, from hugging shirts to robot pets, read against the psychology and neuroscience of affective touch.",
+   "description_zh": "一篇综述，梳理从拥抱衬衫到机器宠物等中介社会触碰的装置，并对照情感触碰的心理学与神经科学加以解读。",
+   "idea_en": "Designs for touch at a distance work when they respect what skin evolved to feel: slow, warm, gentle stroking reads as care.",
+   "idea_zh": "远距离触碰的设计要尊重皮肤演化出来的感受方式：缓慢、温暖、轻柔的抚触才会被读作关怀。",
+   "method": "Literature review organised by touch type, device and study outcome, drawing on C-tactile afferent research.",
+   "method_zh": "按触碰类型、装置与研究结果组织的文献综述，并借鉴 C 触觉传入纤维研究。",
+   "keywords": [
+    "social touch",
+    "C-tactile afferents",
+    "mediated touch",
+    "survey",
+    "haptics"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=qXoQ4r5BhCs"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1109/toh.2017.2650221",
+    "doi": "10.1109/toh.2017.2650221",
+    "arxiv": "",
+    "venue": "IEEE Transactions on Haptics 2017",
+    "title": "Social Touch Technology: A Survey of Haptic Technology for Social Touch"
+   },
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "holland-haptics--frebble",
+   "creator_ids": [
+    "holland-haptics",
+    "alexander-toet"
+   ],
+   "title": "Frebble",
+   "year": 2014,
+   "field": "social",
+   "sub": "mediated-touch",
+   "modalities": [
+    "touch",
+    "vibration"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "touching-back"
+   ],
+   "kind": "product",
+   "description": "A palm-sized device you hold like a hand: squeezing it makes the partner's Frebble press against the back of their hand, so two people can hold hands during a call or a film.",
+   "description_zh": "一个手掌大小、像手一样握着的装置：捏一下，对方的 Frebble 就压向其手背，让两个人在通话或看电影时“牵着手”。",
+   "idea_en": "Holding hands is a small, continuous touch; a mediated version can change how shared moments feel even at a distance.",
+   "idea_zh": "牵手是一种细微而持续的触碰；即便隔着距离，它的中介版本也能改变共度时刻的感受。",
+   "method": "Pressure sensors and vibration actuators in a hand-shaped shell, linked over the internet; TNO tested it during a remotely shared sad film.",
+   "method_zh": "手形外壳中装有压力传感器与振动执行器，经互联网相连；TNO 在双方远程共看悲伤影片的实验中对其进行了检验。",
+   "keywords": [
+    "Frebble",
+    "hand holding",
+    "Frederic Petrignani",
+    "Jan van Erp",
+    "TNO",
+    "mediated social touch"
+   ],
+   "images": [
+    "https://dfzljdn9uc3pi.cloudfront.net/2015/1297/1/fig-1-2x.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.7717/peerj.1297",
+    "doi": "10.7717/peerj.1297",
+    "arxiv": "",
+    "venue": "PeerJ 2015",
+    "title": "Effects of mediated social touch on affective experiences and trust"
+   },
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "carey-jewitt--digital-touch",
+   "creator_ids": [
+    "carey-jewitt"
+   ],
+   "title": "Interdisciplinary Insights for Digital Touch Communication",
+   "year": 2020,
+   "field": "social",
+   "sub": "mediated-touch",
+   "modalities": [
+    "touch"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "body-politics"
+   ],
+   "kind": "publication",
+   "description": "An open-access book from the IN-TOUCH project that brings together design, social science and computing to ask how digital touch changes intimacy, care and social norms.",
+   "description_zh": "IN-TOUCH 项目的开放获取著作，汇集设计、社会科学与计算研究，追问数字触碰如何改变亲密、照护与社会规范。",
+   "idea_en": "Touch is social and cultural before it is technical: designing digital touch means designing who may touch whom, how and when.",
+   "idea_zh": "触碰先是社会的、文化的，然后才是技术的：设计数字触碰就是设计谁能触碰谁、如何触碰、何时触碰。",
+   "method": "Speculative design workshops, interviews and case studies with artists, engineers and the public, analysed through multimodal social semiotics.",
+   "method_zh": "与艺术家、工程师和公众一起开展思辨设计工作坊、访谈和案例研究，并以多模态社会符号学分析。",
+   "keywords": [
+    "IN-TOUCH",
+    "UCL Knowledge Lab",
+    "digital touch",
+    "Sara Price",
+    "ERC",
+    "multimodality"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=CiVFakYPlQo"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1007/978-3-030-24564-1",
+    "doi": "10.1007/978-3-030-24564-1",
+    "arxiv": "",
+    "venue": "Springer HCI Series 2020",
+    "title": "Interdisciplinary Insights for Digital Touch Communication"
+   },
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "john-desnoyers-stewart--embodied-telepresent-connection",
+   "creator_ids": [
+    "john-desnoyers-stewart",
+    "ekaterina-stepanova",
+    "kristina-hook"
+   ],
+   "title": "Embodied Telepresent Connection (ETC)",
+   "year": 2023,
+   "field": "social",
+   "sub": "mediated-touch",
+   "also": [
+    "machines-xr"
+   ],
+   "modalities": [
+    "touch",
+    "light-vision",
+    "heartbeat"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "touching-back"
+   ],
+   "kind": "artwork",
+   "description": "A VR artwork where two people meet as ethereal, glowing bodies and 'touch' each other through visual and sound effects rather than any device on the skin, with subtle biosignals in the scene.",
+   "description_zh": "一件 VR 艺术作品：两个人以空灵、发光的身体相遇，通过视觉与声音效果而非皮肤上的任何装置“触碰”彼此，场景中还带有细微的生物信号。",
+   "idea_en": "Social touch in VR need not imitate physical tactility; an ephemeral, suggested touch can still carry play and intimacy.",
+   "idea_zh": "VR 中的社会触碰不必模仿实体触感；一种短暂的、被暗示的触碰依然能承载嬉戏与亲密。",
+   "method": "Pseudo-haptic visual and audio feedback at virtual contact points between networked avatars; developed in soma design-inspired workshops with 14 HCI experts and shown to 300+ visitors.",
+   "method_zh": "在联网化身的虚拟接触点给出伪触觉的视觉与声音反馈；通过有 14 位人机交互专家参与、受身体设计启发的工作坊发展，并向 300 多名观众展出。",
+   "keywords": [
+    "pseudo-haptics",
+    "social VR",
+    "virtual touch",
+    "iSpace Lab",
+    "Bernhard Riecke",
+    "soma design"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=3OW05odYNHI"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3800645.3812937",
+    "doi": "10.1145/3800645.3812937",
+    "arxiv": "",
+    "venue": "DIS 2026",
+    "title": "Ethereal Virtual Touch for Embodied Telepresent Connection: Applying Pseudo-haptics in Social Virtual Reality"
+   },
+   "code_url": "",
+   "collections": [
+    "dis"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "julia-werner--united-pulse",
+   "creator_ids": [
+    "julia-werner"
+   ],
+   "title": "United-pulse",
+   "year": 2008,
+   "field": "social",
+   "sub": "synchrony",
+   "modalities": [
+    "heartbeat",
+    "touch"
+   ],
+   "lenses": [
+    "intercorporeality"
+   ],
+   "kind": "prototype",
+   "description": "A pair of rings for lovers apart: each ring measures its wearer's pulse and taps it softly onto the partner's finger.",
+   "description_zh": "为分隔两地的恋人设计的一对戒指：每只戒指测量佩戴者的脉搏，再轻轻敲打到伴侣的手指上。",
+   "idea_en": "A pulse felt on the skin is a quiet way of being with someone, closer to presence than to messaging.",
+   "idea_zh": "在皮肤上感受到的脉搏是一种安静的陪伴方式，更接近在场，而不是发讯息。",
+   "method": "A pulse sensor and a small actuator in each ring, likely linked wirelessly through the wearers' phones.",
+   "method_zh": "每只戒指内有脉搏传感器与小型执行器，很可能经由佩戴者的手机无线相连。",
+   "keywords": [
+    "pulse",
+    "ring",
+    "Reto Wettach",
+    "Eva Hornecker",
+    "long-distance couples"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/1409240.1409338",
+    "doi": "10.1145/1409240.1409338",
+    "arxiv": "",
+    "venue": "MobileHCI 2008",
+    "title": "United-pulse: feeling your partner's pulse"
+   },
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "thecla-schiphorst--exhale",
+   "creator_ids": [
+    "thecla-schiphorst"
+   ],
+   "title": "exhale: breath between bodies",
+   "year": 2005,
+   "field": "social",
+   "sub": "synchrony",
+   "modalities": [
+    "breath",
+    "vibration",
+    "touch"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "attunement"
+   ],
+   "kind": "artwork",
+   "description": "A group of networked skirts that respond to their wearers' breath: small fans and vibrations let each wearer feel the breath of others in the room.",
+   "description_zh": "一组联网的裙子会回应穿着者的呼吸：小风扇与振动让每位穿着者感受到房间里其他人的呼吸。",
+   "idea_en": "Breath can be a shared, felt medium between bodies; the garment makes the space between people breathable.",
+   "idea_zh": "呼吸可以是身体之间共享的、被感受到的介质；衣物让人与人之间的空间变得可以“呼吸”。",
+   "method": "Breath sensors on each wearer drive fans and vibrotactile actuators embedded in the skirts of the other wearers over a wireless network.",
+   "method_zh": "每位穿着者身上的呼吸传感器通过无线网络驱动其他人裙子里的风扇与振动执行器。",
+   "keywords": [
+    "whisper[s]",
+    "wearable",
+    "breath",
+    "SIGGRAPH 2005",
+    "somatics",
+    "Simon Fraser University"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=_7XKOa8JH1U"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/1187297.1187304",
+    "doi": "10.1145/1187297.1187304",
+    "arxiv": "",
+    "venue": "SIGGRAPH 2005 Emerging Technologies",
+    "title": "exhale: breath between bodies"
+   },
+   "code_url": "",
+   "collections": [],
+   "exhibited": [
+    "SIGGRAPH 2005 Emerging Technologies"
+   ]
+  },
+  {
+   "id": "mikko-salminen--physiological-synchrony-vr",
+   "creator_ids": [
+    "mikko-salminen",
+    "simo-jarvela"
+   ],
+   "title": "Evoking Physiological Synchrony and Empathy Using Social VR with Biofeedback",
+   "year": 2019,
+   "field": "social",
+   "sub": "synchrony",
+   "modalities": [
+    "breath",
+    "brain",
+    "whole-soma"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "body-data"
+   ],
+   "kind": "paper",
+   "description": "Pairs do a compassion meditation together in social VR while seeing each other's breathing rate and an EEG-based empathy signal; the more their signals synchronised, the more empathy they reported.",
+   "description_zh": "两人一组在社交 VR 中一起做慈悲冥想，同时看到彼此的呼吸频率与基于脑电的共情信号；两人信号越同步，报告的共情越多。",
+   "idea_en": "Seeing another body's rhythm alongside one's own can pull two people into sync and toward empathy.",
+   "idea_zh": "在看到自己节律的同时看到另一个身体的节律，可以把两个人拉入同步，并引向共情。",
+   "method": "Lab study (N = 72) in the DYNECOM VR meditation environment with respiration and EEG frontal-asymmetry biofeedback, shown solo or shared; a companion paper (Järvelä et al. 2021) reports respiratory synchrony and social presence.",
+   "method_zh": "在 DYNECOM VR 冥想环境中进行的实验室研究（N = 72），以呼吸与脑电额叶不对称作为生物反馈，分为单人或共享呈现；姊妹论文（Järvelä 等 2021）报告了呼吸同步与社会临场感。",
+   "keywords": [
+    "DYNECOM",
+    "physiological synchrony",
+    "empathy",
+    "Aalto University",
+    "shared biofeedback"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1109/taffc.2019.2958657",
+    "doi": "10.1109/taffc.2019.2958657",
+    "arxiv": "",
+    "venue": "IEEE Transactions on Affective Computing",
+    "title": "Evoking Physiological Synchrony and Empathy Using Social VR With Biofeedback"
+   },
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "clara-moge--shared-physiological-uis",
+   "creator_ids": [
+    "clara-moge"
+   ],
+   "title": "Shared User Interfaces of Physiological Data",
+   "year": 2022,
+   "field": "social",
+   "sub": "synchrony",
+   "modalities": [
+    "heartbeat",
+    "breath",
+    "skin-arousal"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "body-data"
+   ],
+   "kind": "paper",
+   "description": "A systematic review of 64 studies of social biofeedback, systems in which two or more people see, hear or feel each other's heart rate, breath or arousal.",
+   "description_zh": "一篇系统综述，梳理 64 项社会生物反馈研究，即两人或多人彼此看到、听到或感受到对方心率、呼吸或唤醒水平的系统。",
+   "idea_en": "Shared body signals change relationships at three levels, within oneself, between people and around a shared task, and their meaning depends on timing and social context.",
+   "idea_zh": "共享的身体信号在三个层面改变关系：自身之内、人与人之间、围绕共同任务；其意义取决于时机与社会情境。",
+   "method": "PRISMA-style systematic review of HCI literature, synthesised into the Social Biofeedback Interactions framework.",
+   "method_zh": "按 PRISMA 方式对人机交互文献做系统综述，并归纳为“社会生物反馈交互”框架。",
+   "keywords": [
+    "social biofeedback",
+    "physiological computing",
+    "systematic review",
+    "Youngjun Cho",
+    "UCL"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3491102.3517495",
+    "doi": "10.1145/3491102.3517495",
+    "arxiv": "",
+    "venue": "CHI 2022",
+    "title": "Shared User Interfaces of Physiological Data: Systematic Review of Social Biofeedback Systems and Contexts in HCI"
+   },
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "bronwyn-tarr--synchrony-vr",
+   "creator_ids": [
+    "bronwyn-tarr",
+    "mel-slater"
+   ],
+   "title": "Synchrony and Social Connection in Immersive Virtual Reality",
+   "year": 2018,
+   "field": "social",
+   "sub": "synchrony",
+   "also": [
+    "machines-xr"
+   ],
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "movement-expression"
+   ],
+   "kind": "paper",
+   "description": "Participants in VR move in time with two virtual co-participants whose timing is secretly set to be in or out of sync with them; those in sync feel closer to their virtual partners.",
+   "description_zh": "参与者在 VR 中与两名虚拟同伴一起按节拍运动，同伴的时间被暗中设定为与其同步或不同步；同步组对虚拟同伴感到更亲近。",
+   "idea_en": "Moving in time with others is itself a source of felt closeness, even when the others are virtual and no shared intention is involved.",
+   "idea_zh": "与他人同步运动本身就会带来被感受到的亲近，即便对方是虚拟的，也无需共同意图。",
+   "method": "Immersive VR with full-body avatars in a joint movement task; timing of virtual co-participants covertly manipulated; social closeness measured by questionnaire.",
+   "method_zh": "沉浸式 VR 中以全身化身完成共同动作任务；暗中操控虚拟同伴的时间；以问卷测量社会亲近感。",
+   "keywords": [
+    "interpersonal synchrony",
+    "social bonding",
+    "Emma Cohen",
+    "University of Oxford",
+    "joint action"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=9GQTLwUaA1I"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1038/s41598-018-21765-4",
+    "doi": "10.1038/s41598-018-21765-4",
+    "arxiv": "",
+    "venue": "Scientific Reports 2018",
+    "title": "Synchrony and social connection in immersive Virtual Reality"
+   },
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "katherine-isbister--yamove",
+   "creator_ids": [
+    "katherine-isbister"
+   ],
+   "title": "Yamove!",
+   "year": 2012,
+   "field": "social",
+   "sub": "synchrony",
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "pleasure-play"
+   ],
+   "kind": "prototype",
+   "description": "A dance-battle game for pairs: each dancer holds a phone, and the game scores how energetic, varied and above all synchronised the partners move.",
+   "description_zh": "一款双人斗舞游戏：每位舞者手持一部手机，游戏根据两人动作的力度、变化，尤其是同步程度来计分。",
+   "idea_en": "Rewarding synchrony rather than individual skill choreographs social connection: partners must watch and feel each other to win.",
+   "idea_zh": "奖励同步而非个人技巧，就是在编排社会联结：搭档必须看着彼此、感受彼此才能赢。",
+   "method": "Phone accelerometers track both dancers; an emcee and audience frame the play; studies observed how pairs coordinate.",
+   "method_zh": "手机加速度计追踪两位舞者；主持人与观众构成游戏的框架；研究观察搭档如何协调动作。",
+   "keywords": [
+    "social movement games",
+    "Elena Márquez Segura",
+    "synchrony",
+    "dance battle",
+    "NYU Game Innovation Lab"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=BimobsCaGzo"
+   },
+   "paper": {
+    "url": "https://doi.org/10.17011/ht/urn.201605192621",
+    "doi": "10.17011/ht/urn.201605192621",
+    "arxiv": "",
+    "venue": "Human Technology 2016",
+    "title": "Yamove! A Movement Synchrony Game That Choreographs Social Interaction"
+   },
+   "code_url": "",
+   "collections": [],
+   "exhibited": [
+    "IndieCade 2012 Nominee"
+   ]
+  },
+  {
+   "id": "game-oven--bounden",
+   "creator_ids": [
+    "game-oven"
+   ],
+   "title": "Bounden",
+   "year": 2014,
+   "field": "social",
+   "sub": "synchrony",
+   "modalities": [
+    "movement",
+    "touch"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "pleasure-play",
+    "movement-expression"
+   ],
+   "kind": "product",
+   "description": "A two-player game on one phone: both players hold an end of the phone and follow a path on a sphere, which turns them into a couple dancing around each other.",
+   "description_zh": "一款两人共用一部手机的游戏：两人各握手机一端，沿着球面上的路径转动，于是彼此围绕着跳起舞来。",
+   "idea_en": "A shared object held by two hands can choreograph bodies into closeness, so the game designs the dance rather than the screen.",
+   "idea_zh": "两只手共同握着的物件可以把身体编排成亲近的姿态；这款游戏设计的是舞蹈，而不是屏幕。",
+   "method": "The phone's gyroscope tracks rotation along choreographies developed with the Dutch National Ballet.",
+   "method_zh": "手机陀螺仪追踪沿编舞路径的旋转，编舞与荷兰国家芭蕾舞团合作完成。",
+   "keywords": [
+    "Dutch National Ballet",
+    "two-player",
+    "dance game",
+    "Adriaan de Jongh",
+    "social play"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Gete61IxkPo"
+   },
+   "source_url": "https://playbounden.com",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "thecla-schiphorst--whispers",
+   "creator_ids": [
+    "thecla-schiphorst",
+    "susan-kozel"
+   ],
+   "title": "whisper[s]",
+   "year": 2003,
+   "field": "social",
+   "sub": "collective",
+   "modalities": [
+    "breath",
+    "heartbeat",
+    "movement"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "first-person"
+   ],
+   "kind": "performance",
+   "description": "A participatory performance in which visitors wear networked garments that sense their breath and heartbeat and pass them to each other as touch, sound and light.",
+   "description_zh": "一场参与式表演：观众穿上联网的衣物，衣物感知他们的呼吸与心跳，并以触碰、声音和光彼此传递。",
+   "idea_en": "Somatic practice can be the design method: the garments grew from exercises in listening to one's own and others' inner rhythms.",
+   "idea_zh": "身体修习本身可以成为设计方法：这些衣物源自聆听自己与他人内在节律的练习。",
+   "method": "Wireless wearables with breath and heart sensors plus vibration and sound outputs, developed through workshops of body-based listening; shown at DEAF03.",
+   "method_zh": "带呼吸与心跳传感器及振动、声音输出的无线可穿戴物，通过基于身体聆听的工作坊发展而来；在 DEAF03 展出。",
+   "keywords": [
+    "whisper[s]",
+    "Susan Kozel",
+    "wearable performance",
+    "V2_",
+    "DEAF03",
+    "somatics"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=GEofDFj8WFY"
+   },
+   "code_url": "",
+   "collections": [],
+   "exhibited": [
+    "DEAF03, V2_ Rotterdam (2003)"
+   ]
+  },
+  {
+   "id": "brendan-walker--thrill-laboratory",
+   "creator_ids": [
+    "brendan-walker",
+    "steve-benford"
+   ],
+   "title": "Fairground: Thrill Laboratory",
+   "year": 2006,
+   "field": "social",
+   "sub": "collective",
+   "modalities": [
+    "heartbeat",
+    "skin-arousal",
+    "movement"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "pleasure-play",
+    "body-data"
+   ],
+   "kind": "artwork",
+   "description": "Riders on real fairground rides wear sensors and cameras; their heart rate, face and screams are shown live to the crowd, who watch the ride from the inside of another body.",
+   "description_zh": "真实游乐设施上的乘客佩戴传感器与摄像头；他们的心率、面部与尖叫被实时展示给人群，观众得以从另一个身体内部观看这趟旅程。",
+   "idea_en": "Thrill is social: making a rider's bodily state visible turns spectators into participants in someone else's fear and joy.",
+   "idea_zh": "刺激感是社会性的：让乘客的身体状态可见，就把旁观者变成了他人恐惧与欢乐的参与者。",
+   "method": "Telemetry of heart rate, acceleration, audio and video from riders streamed to a spectator display; studied as a performance frame.",
+   "method_zh": "把乘客的心率、加速度、音频与视频遥测数据传到观众屏幕上，并作为表演框架加以研究。",
+   "keywords": [
+    "Thrill Laboratory",
+    "amusement rides",
+    "telemetry",
+    "spectator interfaces",
+    "Mixed Reality Lab",
+    "Dana Centre"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=HUDJg-bZEmE"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/1357054.1357238",
+    "doi": "10.1145/1357054.1357238",
+    "arxiv": "",
+    "venue": "CHI 2008",
+    "title": "Performing thrill: designing telemetry systems and spectator interfaces for amusement rides"
+   },
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "john-desnoyers-stewart--body-remixer",
+   "creator_ids": [
+    "john-desnoyers-stewart",
+    "ekaterina-stepanova"
+   ],
+   "title": "Body RemiXer",
+   "year": 2020,
+   "field": "social",
+   "sub": "collective",
+   "also": [
+    "machines-xr"
+   ],
+   "modalities": [
+    "touch",
+    "movement",
+    "light-vision"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "body-mind-unity"
+   ],
+   "kind": "artwork",
+   "description": "A mixed-reality installation where participants' bodies appear as abstract, light-like avatars that stretch toward and mix with each other, inviting touch and synchronised movement between strangers.",
+   "description_zh": "一件混合现实装置：参与者的身体化为抽象、如光般的化身，彼此伸展、交融，邀请陌生人之间的触碰与同步动作。",
+   "idea_en": "Blurring where one body ends and another begins can lower social boundaries, but it also unsettles one's sense of owning a body.",
+   "idea_zh": "模糊一个身体在哪里结束、另一个身体从哪里开始，可以降低社交边界，但也会动摇对自身身体的拥有感。",
+   "method": "Asymmetric XR with body tracking, projection and a headset; body-mixing avatars; studied with phenomenological interviews.",
+   "method_zh": "非对称扩展现实系统，结合身体追踪、投影与头显；化身可相互交融；以现象学访谈研究。",
+   "keywords": [
+    "mixed reality",
+    "shared embodiment",
+    "SIGGRAPH 2020 Art Gallery",
+    "iSpace Lab",
+    "social connection"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=LHddyzvMYCY"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3772318.3791023",
+    "doi": "10.1145/3772318.3791023",
+    "arxiv": "",
+    "venue": "CHI 2026",
+    "title": "Diffusing Social Boundaries through Virtual Bodies: How Mixed Reality Embodied Experiences Can Foster Social Connection"
+   },
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": [
+    "SIGGRAPH 2020 Art Gallery"
+   ]
+  },
+  {
+   "id": "john-desnoyers-stewart--jel",
+   "creator_ids": [
+    "john-desnoyers-stewart",
+    "ekaterina-stepanova"
+   ],
+   "title": "JeL",
+   "year": 2019,
+   "field": "social",
+   "sub": "collective",
+   "also": [
+    "machines-xr"
+   ],
+   "modalities": [
+    "breath",
+    "light-vision"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "more-than-human",
+    "attunement"
+   ],
+   "kind": "artwork",
+   "description": "Two people in VR breathe to grow a coral reef of jellyfish-like forms; the reef grows most when their breathing falls into sync.",
+   "description_zh": "两个人在 VR 中用呼吸让一片由水母般形态组成的珊瑚礁生长；当他们的呼吸同步时，珊瑚礁长得最快。",
+   "idea_en": "Synchronised breath can link people to each other and to a living world at once.",
+   "idea_zh": "同步的呼吸可以同时把人与人、人与一个活的世界连在一起。",
+   "method": "Two VR headsets with breathing sensors; a shared virtual reef responds to each breath and to their synchrony; evaluated through interviews.",
+   "method_zh": "两台 VR 头显配呼吸传感器；共享的虚拟珊瑚礁回应每一次呼吸及二人的同步程度；以访谈评估。",
+   "keywords": [
+    "iSpace Lab",
+    "Simon Fraser University",
+    "breath synchrony",
+    "Bernhard Riecke",
+    "social VR",
+    "self-transcendence"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=jp91I0BuGhY"
+   },
+   "images": [
+    "http://ispace.iat.sfu.ca/wp-content/uploads/2019/02/JeL_Diagram_Horizontal-1024x228.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3357236.3395532",
+    "doi": "10.1145/3357236.3395532",
+    "arxiv": "",
+    "venue": "DIS 2020",
+    "title": "JeL: Breathing Together to Connect with Others and Nature"
+   },
+   "source_url": "https://ispace.iat.sfu.ca/project/jel/",
+   "code_url": "",
+   "collections": [
+    "dis"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "joseph-la-delfa--drone-chi",
+   "creator_ids": [
+    "joseph-la-delfa",
+    "mehmet-aydin-baytas",
+    "florian-mueller"
+   ],
+   "title": "Drone Chi",
+   "year": 2020,
+   "field": "machines-xr",
+   "sub": "robots-drones",
+   "modalities": [
+    "movement",
+    "touch",
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "attunement",
+    "more-than-human"
+   ],
+   "kind": "prototype",
+   "description": "A person moves slowly in a tai chi-like practice with a small drone hovering close to their hands; the drone follows and leads their movement, and its downdraft is felt on the skin.",
+   "description_zh": "一个人以类似太极的方式缓慢运动，一架小型无人机在手边近距离悬停；无人机跟随又引领其动作，旋翼下洗的气流落在皮肤上被感受到。",
+   "idea_en": "A drone can be a partner in a meditative movement practice rather than a remote-controlled tool: slowness, closeness and airflow let it be felt, not piloted.",
+   "idea_zh": "无人机可以是冥想式动作修习中的伙伴，而不是遥控工具：缓慢、贴近与气流让它被感受，而不是被驾驶。",
+   "method": "A micro-quadcopter in a custom protective shell, likely tracked by motion capture, responds to the practitioner's hand movements; designed with soma design and Somaesthetic Appreciation principles and studied with practitioners.",
+   "method_zh": "一架装在定制保护外壳中的微型四旋翼（很可能由动作捕捉追踪）回应修习者的手部动作；按身体设计与“身体美学鉴赏”原则设计，并与修习者一起研究。",
+   "keywords": [
+    "tai chi",
+    "human-drone interaction",
+    "Exertion Games Lab",
+    "RMIT",
+    "Somaesthetic Appreciation",
+    "quadcopter"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=w6CFGl-Plug"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3313831.3376786",
+    "doi": "10.1145/3313831.3376786",
+    "arxiv": "",
+    "venue": "CHI 2020",
+    "title": "Drone Chi: Somaesthetic Human-Drone Interaction"
+   },
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "joseph-la-delfa--designing-drone-chi",
+   "creator_ids": [
+    "joseph-la-delfa",
+    "mehmet-aydin-baytas",
+    "florian-mueller"
+   ],
+   "title": "Designing Drone Chi",
+   "year": 2020,
+   "field": "machines-xr",
+   "sub": "robots-drones",
+   "also": [
+    "methods"
+   ],
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "first-person",
+    "body-mind-unity"
+   ],
+   "kind": "paper",
+   "description": "A pictorial that retraces how the sensory experience of tai chi was carried, step by step, into the form, flight and feel of the Drone Chi drone.",
+   "description_zh": "一篇图文论文，回溯太极的感官经验如何一步步被带进 Drone Chi 无人机的外形、飞行与手感之中。",
+   "idea_en": "Designing a robot for the soma is slow work that moves between the designer's own practice, product design and engineering.",
+   "idea_zh": "为身体而设计机器人是一项缓慢的工作，需要在设计者自己的修习、产品设计与工程之间来回。",
+   "method": "Quasi-chronological design account with sketches, prototypes and first-person tai chi practice, reflecting on somaesthetic, product design and engineering perspectives.",
+   "method_zh": "以准时间顺序的设计记录，结合草图、原型与第一人称的太极修习，从身体美学、产品设计与工程三种视角反思。",
+   "keywords": [
+    "pictorial",
+    "tai chi",
+    "soma design",
+    "research through design",
+    "human-drone interaction"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3357236.3395589",
+    "doi": "10.1145/3357236.3395589",
+    "arxiv": "",
+    "venue": "DIS 2020",
+    "title": "Designing Drone Chi: Unpacking the Thinking and Making of Somaesthetic Human-Drone Interaction"
+   },
+   "code_url": "",
+   "collections": [
+    "dis"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "joseph-la-delfa--tai-chi-in-the-clouds",
+   "creator_ids": [
+    "joseph-la-delfa",
+    "florian-mueller"
+   ],
+   "title": "Tai Chi in the Clouds",
+   "year": 2018,
+   "field": "machines-xr",
+   "sub": "robots-drones",
+   "modalities": [
+    "movement",
+    "light-vision"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "attunement"
+   ],
+   "kind": "prototype",
+   "description": "Micro drones act as the 'clouds' of the tai chi image 'wave hands like clouds': they lead or follow the practitioner's hands and glow to show how smooth the movement is.",
+   "description_zh": "微型无人机化身太极意象“云手”中的“云”：它们引领或跟随修习者的双手，并以灯光显示动作是否顺滑。",
+   "idea_en": "Tai chi teaches through metaphor; technology can help a practitioner live the metaphor instead of measuring posture.",
+   "idea_zh": "太极借由意象来教学；技术可以帮助修习者活出这个意象，而不是去测量姿势。",
+   "method": "Micro UAVs with LEDs, likely tracked in a motion-capture space, lead or follow hand movements and give live light feedback on smoothness.",
+   "method_zh": "带 LED 的微型无人机（很可能在动作捕捉空间中被追踪）引领或跟随手部动作，并以灯光实时反馈动作的顺滑程度。",
+   "keywords": [
+    "tai chi",
+    "cloud hands",
+    "UAV",
+    "metaphoric imagery",
+    "CHI PLAY 2018"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=wUeW4OAXGVQ"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3270316.3271511",
+    "doi": "10.1145/3270316.3271511",
+    "arxiv": "",
+    "venue": "CHI PLAY 2018 Extended Abstracts",
+    "title": "Tai Chi In The Clouds: Using Micro UAV's To Support Tai Chi Practice"
+   },
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "joe-marshall--broncomatic",
+   "creator_ids": [
+    "joe-marshall",
+    "brendan-walker",
+    "steve-benford"
+   ],
+   "title": "Broncomatic",
+   "year": 2011,
+   "field": "machines-xr",
+   "sub": "robots-drones",
+   "also": [
+    "somaesthetic"
+   ],
+   "modalities": [
+    "breath",
+    "movement",
+    "posture-balance"
+   ],
+   "lenses": [
+    "pleasure-play",
+    "estrangement"
+   ],
+   "kind": "prototype",
+   "description": "A mechanical bucking bronco that riders steer with their breath, while the ride itself throws the body and makes controlled breathing hard.",
+   "description_zh": "一台用呼吸操控的机械牛，而机械牛本身把身体甩来甩去，使得控制呼吸变得困难。",
+   "idea_en": "Breath is both voluntary and involuntary, so using it as a control under physical stress makes the rider feel the struggle between will and body.",
+   "idea_zh": "呼吸既可控又不可控；在身体受压时用它来控制，会让骑手感到意志与身体之间的角力。",
+   "method": "A breathing sensor on the rider's chest likely drives the rotation of a rodeo machine; studied with riders at public events.",
+   "method_zh": "骑手胸前的呼吸传感器很可能驱动机械牛的旋转；在公共活动中与骑手一起研究。",
+   "keywords": [
+    "breath control",
+    "amusement rides",
+    "Mixed Reality Lab",
+    "thrill",
+    "bucking bronco"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Ql4ResSvoD4"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/1978942.1978955",
+    "doi": "10.1145/1978942.1978955",
+    "arxiv": "",
+    "venue": "CHI 2011",
+    "title": "Breath control of amusement rides"
+   },
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "holger-schnadelbach--exobuilding",
+   "creator_ids": [
+    "holger-schnadelbach"
+   ],
+   "title": "ExoBuilding",
+   "year": 2010,
+   "field": "machines-xr",
+   "sub": "robots-drones",
+   "also": [
+    "affect"
+   ],
+   "modalities": [
+    "breath",
+    "heartbeat",
+    "shape-change"
+   ],
+   "lenses": [
+    "body-data",
+    "attunement",
+    "touching-back"
+   ],
+   "kind": "prototype",
+   "description": "A tent-like room that breathes with the person inside: its fabric rises and falls with their abdominal breathing, their heartbeat plays as sound and light, and skin conductance is projected on the walls.",
+   "description_zh": "一个帐篷般的房间与其中的人一同呼吸：织物随其腹式呼吸起伏，心跳化作声音与光，皮肤电被投影在墙面上。",
+   "idea_en": "When architecture takes on the rhythm of the body, a person can feel their own physiology from the outside, as the space around them.",
+   "idea_zh": "当建筑承接了身体的节律，人就能从外部、以周围空间的形式感受自己的生理状态。",
+   "method": "A breathing belt, ECG and EDA sensors drive actuators that change the tent's shape, plus sound, lights and projection; iterated from scale model to full size.",
+   "method_zh": "呼吸带、心电与皮肤电传感器驱动改变帐篷形状的执行器，以及声音、灯光与投影；从比例模型迭代到实际尺寸。",
+   "keywords": [
+    "adaptive architecture",
+    "biofeedback",
+    "Mixed Reality Lab",
+    "NordiCHI 2010",
+    "tent"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=NAZPQDqr8aQ"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/1868914.1868965",
+    "doi": "10.1145/1868914.1868965",
+    "arxiv": "",
+    "venue": "NordiCHI 2010",
+    "title": "ExoBuilding: breathing life into architecture"
+   },
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "steve-benford--somatic-safety",
+   "creator_ids": [
+    "steve-benford",
+    "paul-tennent"
+   ],
+   "title": "Somatic Safety",
+   "year": 2025,
+   "field": "machines-xr",
+   "sub": "robots-drones",
+   "also": [
+    "movement"
+   ],
+   "modalities": [
+    "touch",
+    "movement",
+    "posture-balance"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "first-person",
+    "intercorporeality"
+   ],
+   "kind": "paper",
+   "description": "Dancers use contact improvisation to dance with collaborative robot arms, pushing, leaning on and being moved by them, and learn through the body how to do so safely.",
+   "description_zh": "舞者用接触即兴与协作机械臂共舞：推它、倚靠它、被它带动，并通过身体学会如何安全地这样做。",
+   "idea_en": "Safety with robots can be felt and learned through contact, a mind-body skill, not only calculated as distance and force limits.",
+   "idea_zh": "与机器人相处的安全可以通过接触被感受、被习得，是一种身心技能，而不只是计算出的距离与力的上限。",
+   "method": "Artistic exploration with dancers and cobots in iterative sessions of contact improvisation exercises and reflection, analysed by a multidisciplinary team.",
+   "method_zh": "舞者与协作机器人一起开展艺术探索，反复进行接触即兴练习与反思，由跨学科团队分析。",
+   "keywords": [
+    "contact improvisation",
+    "cobots",
+    "human-robot interaction",
+    "dance",
+    "Sarah Whatley",
+    "Kristina Höök"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1109/hri61500.2025.10973822",
+    "doi": "10.1109/hri61500.2025.10973822",
+    "arxiv": "",
+    "venue": "HRI 2025",
+    "title": "Somatic Safety: An Embodied Approach Towards Safe Human-Robot Interaction"
+   },
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "alexis-block--huggiebot",
+   "creator_ids": [
+    "alexis-block"
+   ],
+   "title": "HuggieBot",
+   "year": 2021,
+   "field": "machines-xr",
+   "sub": "robots-drones",
+   "also": [
+    "social"
+   ],
+   "modalities": [
+    "touch",
+    "heat",
+    "shape-change"
+   ],
+   "lenses": [
+    "touching-back",
+    "care-healing",
+    "intercorporeality"
+   ],
+   "kind": "prototype",
+   "description": "A human-sized robot with a soft, warm, inflated chest and padded arms that sees a person approach, fits its embrace to their body and lets go when they want.",
+   "description_zh": "一台真人大小的机器人，拥有柔软、温暖的充气胸膛和带衬垫的手臂；它看到有人走近，按对方身体调整拥抱，并在对方想结束时松开。",
+   "idea_en": "A good robot hug is defined by how it feels: soft, warm, the right size, responsive, and above all willing to release.",
+   "idea_zh": "好的机器人拥抱由感觉来定义：柔软、温暖、尺寸合适、有回应，尤其是愿意松开。",
+   "method": "HuggieBot 2.0 uses an inflated, heated torso with pressure sensing, a camera to see the user and arm control adapted to user size; evaluated in a user study that proposed six 'hug commandments'.",
+   "method_zh": "HuggieBot 2.0 采用可感压的充气加热躯干、用于看见使用者的摄像头，以及按使用者身材调节的手臂控制；在提出六条“拥抱诫命”的用户研究中评估。",
+   "keywords": [
+    "hugging robot",
+    "social touch",
+    "Katherine J. Kuchenbecker",
+    "Max Planck Institute for Intelligent Systems",
+    "ETH Zurich"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=jtEh0ZC32gA"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3434073.3444656",
+    "doi": "10.1145/3434073.3444656",
+    "arxiv": "",
+    "venue": "HRI 2021",
+    "title": "The Six Hug Commandments: Design and Evaluation of a Human-Sized Hugging Robot with Visual and Haptic Perception"
+   },
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "steve-yohanan--haptic-creature",
+   "creator_ids": [
+    "steve-yohanan"
+   ],
+   "title": "The Haptic Creature",
+   "year": 2011,
+   "field": "machines-xr",
+   "sub": "robots-drones",
+   "modalities": [
+    "touch",
+    "breath",
+    "vibration"
+   ],
+   "lenses": [
+    "touching-back",
+    "affective-loop"
+   ],
+   "kind": "prototype",
+   "description": "A furry, lap-sized robot animal without face or eyes that breathes, purrs and stiffens its ears under a person's hand, communicating only through touch.",
+   "description_zh": "一只没有脸和眼睛、放在腿上的毛绒机器动物，在人的手下呼吸、发出咕噜声、竖起耳朵，只通过触碰来交流。",
+   "idea_en": "Emotion between human and robot can live entirely in touch: how a person strokes, and how the creature breathes back.",
+   "idea_zh": "人与机器人之间的情绪可以完全存在于触碰之中：人如何抚摸，生物又如何以呼吸回应。",
+   "method": "Touch sensors under fur detect gestures; actuators control breathing, purring vibration and ear stiffness; a study mapped touch gestures to intended emotions.",
+   "method_zh": "毛皮下的触觉传感器识别手势，执行器控制呼吸、咕噜振动与耳朵的软硬；研究把触碰手势与意图表达的情绪相对应。",
+   "keywords": [
+    "affective touch",
+    "social robot",
+    "Karon MacLean",
+    "SPIN Lab",
+    "UBC",
+    "zoomorphic robot"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1007/s12369-011-0126-7",
+    "doi": "10.1007/s12369-011-0126-7",
+    "arxiv": "",
+    "venue": "International Journal of Social Robotics 2012",
+    "title": "The Role of Affective Touch in Human-Robot Interaction: Human Intent and Expectations in Touching the Haptic Creature"
+   },
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "paul-bucci--cuddlebits",
+   "creator_ids": [
+    "paul-bucci"
+   ],
+   "title": "CuddleBits",
+   "year": 2017,
+   "field": "machines-xr",
+   "sub": "robots-drones",
+   "modalities": [
+    "breath",
+    "touch",
+    "shape-change"
+   ],
+   "lenses": [
+    "touching-back",
+    "affective-loop",
+    "first-person"
+   ],
+   "kind": "prototype",
+   "description": "Small, simple robots held in the hands that 'breathe' by expanding and contracting; designers sketch their bodies and their breathing behaviours together to express emotions.",
+   "description_zh": "握在手中的小而简单的机器人，靠膨胀与收缩来“呼吸”；设计者把它们的身体与呼吸行为放在一起草拟，用来表达情绪。",
+   "idea_en": "A robot's felt emotion comes from the coupling of body and behaviour, so both have to be prototyped at the same time and by feel.",
+   "idea_zh": "机器人被感受到的情绪来自身体与行为的耦合，因此两者必须同时、凭感觉一起做原型。",
+   "method": "Paper, foam and fur bodies driven by a single servo or voice-coil actuator; behaviours sketched with a custom tool and rated by participants.",
+   "method_zh": "纸、泡沫和毛皮做成的身体由单个舵机或音圈执行器驱动；用定制工具草拟行为，并由参与者评分。",
+   "keywords": [
+    "affective robot",
+    "breathing",
+    "SPIN Lab",
+    "UBC",
+    "Karon MacLean",
+    "coupled prototyping"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=EywcxQTkfDo"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3025453.3025774",
+    "doi": "10.1145/3025453.3025774",
+    "arxiv": "",
+    "venue": "CHI 2017",
+    "title": "Sketching CuddleBits: Coupled Prototyping of Body and Behaviour for an Affective Robot Pet"
+   },
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "alice-haynes--calming-hug",
+   "creator_ids": [
+    "alice-haynes"
+   ],
+   "title": "A Calming Hug",
+   "year": 2022,
+   "field": "machines-xr",
+   "sub": "robots-drones",
+   "also": [
+    "care"
+   ],
+   "modalities": [
+    "breath",
+    "touch",
+    "shape-change"
+   ],
+   "lenses": [
+    "touching-back",
+    "care-healing",
+    "attunement"
+   ],
+   "kind": "prototype",
+   "description": "A soft cushion held against the chest that slowly expands and contracts like breathing; people hugging it before a stressful test tended to slow their own breath to match.",
+   "description_zh": "一个抱在胸前的柔软靠垫，像呼吸一样缓慢地膨胀与收缩；人们在压力测验前抱着它，往往会把自己的呼吸放慢去跟随。",
+   "idea_en": "The body entrains to a rhythm it can feel against it; calm can be passed on through touch without any screen or voice.",
+   "idea_zh": "身体会跟上贴着它的、可以被感受的节律；平静无需屏幕或声音，也能经由触碰传递。",
+   "method": "A shape-changing soft robotic cushion with an internal mechanism simulating breathing, validated in a lab study with an anxiety-inducing maths test.",
+   "method_zh": "内部机构模拟呼吸的形变软体机器人靠垫，在一个诱发焦虑的数学测验实验中得到验证。",
+   "keywords": [
+    "soft robotics",
+    "breathing cushion",
+    "anxiety",
+    "University of Bristol",
+    "Jonathan Rossiter",
+    "entrainment"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=66h4R4BL0W4"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1371/journal.pone.0259838",
+    "doi": "10.1371/journal.pone.0259838",
+    "arxiv": "",
+    "venue": "PLOS ONE 2022",
+    "title": "A calming hug: Design and validation of a tactile aid to ease anxiety"
+   },
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "pedro-lopes--proprioceptive-interaction",
+   "creator_ids": [
+    "pedro-lopes"
+   ],
+   "title": "Proprioceptive Interaction",
+   "year": 2015,
+   "field": "machines-xr",
+   "sub": "robots-drones",
+   "modalities": [
+    "muscle",
+    "posture-balance",
+    "movement"
+   ],
+   "lenses": [
+    "touching-back",
+    "estrangement"
+   ],
+   "kind": "prototype",
+   "description": "Electrical muscle stimulation tilts the user's wrist in response to a device's state, so information is felt through one's own posture and muscles rather than seen on a screen.",
+   "description_zh": "肌肉电刺激按设备的状态让使用者的手腕倾斜，信息通过自身的姿态与肌肉被感受，而不是在屏幕上被看到。",
+   "idea_en": "Proprioception can be an output channel: a computer can speak to you by gently moving your own body.",
+   "idea_zh": "本体感可以成为输出通道：计算机可以通过轻轻移动你自己的身体来“说话”。",
+   "method": "EMS electrodes on the forearm actuate wrist muscles against the user's own movement; users read values by feeling the resulting force and position.",
+   "method_zh": "前臂上的肌肉电刺激电极驱动手腕肌肉与使用者自身的动作相抗，使用者通过感受由此产生的力与位置读出数值。",
+   "keywords": [
+    "electrical muscle stimulation",
+    "EMS",
+    "proprioception",
+    "Hasso Plattner Institute",
+    "Patrick Baudisch"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=KMxIfj7zhlw"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/2702123.2702461",
+    "doi": "10.1145/2702123.2702461",
+    "arxiv": "",
+    "venue": "CHI 2015",
+    "title": "Proprioceptive Interaction"
+   },
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "pedro-lopes--affordance-plus-plus",
+   "creator_ids": [
+    "pedro-lopes"
+   ],
+   "title": "Affordance++",
+   "year": 2015,
+   "field": "machines-xr",
+   "sub": "robots-drones",
+   "modalities": [
+    "muscle",
+    "movement"
+   ],
+   "lenses": [
+    "touching-back",
+    "estrangement"
+   ],
+   "kind": "prototype",
+   "description": "When a user reaches for an object, muscle stimulation moves their hand to show how to use it: to shake a spray can, or to let go of a hot teapot.",
+   "description_zh": "当使用者伸手去拿物品时，肌肉电刺激会移动其手部，示范该如何使用：摇一摇喷漆罐，或松开一只滚烫的茶壶。",
+   "idea_en": "An object's use can be communicated through the user's own movement, which raises the question of who is acting when the body moves.",
+   "idea_zh": "物品的用法可以通过使用者自己的动作来传达；这也提出一个问题：当身体动起来时，是谁在行动。",
+   "method": "Optical tracking detects which object is being reached for and EMS electrodes on the arm trigger the matching hand and wrist movement.",
+   "method_zh": "光学追踪识别使用者伸手拿的物品，手臂上的肌肉电刺激电极触发相应的手部与手腕动作。",
+   "keywords": [
+    "EMS",
+    "affordance",
+    "Hasso Plattner Institute",
+    "Patrick Baudisch",
+    "CHI 2015 Best Paper"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Gz4dphzBb6I"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/2702123.2702128",
+    "doi": "10.1145/2702123.2702128",
+    "arxiv": "",
+    "venue": "CHI 2015",
+    "title": "Affordance++: Allowing Objects to Communicate Dynamic Use"
+   },
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": [
+    "CHI 2015 Best Paper Award"
+   ]
+  },
+  {
+   "id": "florian-mueller--human-computer-integration",
+   "creator_ids": [
+    "florian-mueller",
+    "pedro-lopes"
+   ],
+   "title": "Next Steps for Human-Computer Integration",
+   "year": 2020,
+   "field": "machines-xr",
+   "sub": "robots-drones",
+   "modalities": [
+    "whole-soma",
+    "muscle"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "more-than-human"
+   ],
+   "kind": "paper",
+   "description": "An agenda written by 29 researchers after a five-day workshop on systems that merge with the body, from muscle stimulation to implants, and the ethical questions they raise.",
+   "description_zh": "29 位研究者在为期五天的工作坊后写成的议程，讨论从肌肉电刺激到植入物等与身体融合的系统及其伦理问题。",
+   "idea_en": "When computers act inside the body, design must ask how agency, ownership and the felt self are shared between person and machine.",
+   "idea_zh": "当计算机在身体内部行动时，设计必须追问：能动性、拥有感与被感受的自我如何在人与机器之间分配。",
+   "method": "Structured workshop of experts in body-integrated systems, synthesised into a set of research challenges.",
+   "method_zh": "由身体融合系统领域专家参加的结构化工作坊，归纳出一组研究挑战。",
+   "keywords": [
+    "human-computer integration",
+    "HInt",
+    "bodily integration",
+    "agency"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=qpwl2QiGhAI"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3313831.3376242",
+    "doi": "10.1145/3313831.3376242",
+    "arxiv": "",
+    "venue": "CHI 2020",
+    "title": "Next Steps for Human-Computer Integration"
+   },
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "laura-devendorf--being-the-machine",
+   "creator_ids": [
+    "laura-devendorf"
+   ],
+   "title": "Being the Machine",
+   "year": 2014,
+   "field": "machines-xr",
+   "sub": "robots-drones",
+   "modalities": [
+    "movement",
+    "touch"
+   ],
+   "lenses": [
+    "estrangement",
+    "first-person"
+   ],
+   "kind": "prototype",
+   "description": "A portable system projects a 3D printer's toolpath as a laser point, and the person follows it by hand with found materials, becoming the printer.",
+   "description_zh": "一个便携系统把 3D 打印机的路径投射成激光点，人用手拿着随手找到的材料跟着它走，自己成了打印机。",
+   "idea_en": "Performing a machine's motions with one's own hands makes both the machine and one's bodily skill strange, and puts control back in negotiation.",
+   "idea_zh": "用自己的手去执行机器的动作，会让机器和自己的身体技能都变得陌生，也让“谁在控制”重新变成协商。",
+   "method": "A laser guide driven by G-code shows the next point to 'print'; participants chose when to follow or deviate, studied in field sessions.",
+   "method_zh": "由 G 代码驱动的激光引导显示下一个要“打印”的点；参与者自行决定何时跟随、何时偏离，并在实地环节中研究。",
+   "keywords": [
+    "hybrid fabrication",
+    "3D printing",
+    "Kimiko Ryokai",
+    "UC Berkeley",
+    "laser guide"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=sLfwvSHMD9s"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/2702123.2702547",
+    "doi": "10.1145/2702123.2702547",
+    "arxiv": "",
+    "venue": "CHI 2015",
+    "title": "Being the Machine: Reconfiguring Agency and Control in Hybrid Fabrication"
+   },
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "rebecca-fiebrink--wekinator",
+   "creator_ids": [
+    "rebecca-fiebrink"
+   ],
+   "title": "Wekinator",
+   "year": 2009,
+   "field": "machines-xr",
+   "sub": "ai-ml",
+   "also": [
+    "movement"
+   ],
+   "modalities": [
+    "movement",
+    "voice-sound"
+   ],
+   "lenses": [
+    "movement-expression",
+    "first-person"
+   ],
+   "kind": "method",
+   "description": "Free software for interactive machine learning: a person demonstrates gestures with a sensor or camera, pairs them with sounds or visuals, and trains a model on the spot.",
+   "description_zh": "一款用于交互式机器学习的免费软件：人用传感器或摄像头示范手势，把它们与声音或影像配对，当场训练模型。",
+   "idea_en": "Teaching a model by moving lets designers keep the knowledge in their body, tuning a mapping by feel rather than by code.",
+   "idea_zh": "通过运动来训练模型，让设计者把知识留在身体里，凭感觉而不是凭代码去调整映射。",
+   "method": "Real-time supervised learning (classification, regression) from OSC inputs to outputs; the user records examples, trains, plays and re-trains in a loop.",
+   "method_zh": "对 OSC 输入到输出做实时监督学习（分类、回归）；使用者循环进行录制示例、训练、演奏与再训练。",
+   "keywords": [
+    "interactive machine learning",
+    "meta-instrument",
+    "NIME",
+    "OSC",
+    "gesture mapping"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=yc5CL5EoPqg"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1007/978-981-10-2951-6_10",
+    "doi": "10.1007/978-981-10-2951-6_10",
+    "arxiv": "",
+    "venue": "Musical Instruments in the 21st Century (Springer 2016)",
+    "title": "Machine Learning as Meta-Instrument: Human-Machine Partnerships Shaping Expressive Instrumental Creation"
+   },
+   "source_url": "http://www.wekinator.org/",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "baptiste-caramiaux--gesture-expressivity-muscle",
+   "creator_ids": [
+    "baptiste-caramiaux"
+   ],
+   "title": "Understanding Gesture Expressivity through Muscle Sensing",
+   "year": 2015,
+   "field": "machines-xr",
+   "sub": "ai-ml",
+   "modalities": [
+    "muscle",
+    "movement"
+   ],
+   "lenses": [
+    "movement-expression",
+    "body-data"
+   ],
+   "kind": "paper",
+   "description": "Performers repeat gestures with different expressive intentions while EMG and motion are recorded; the muscle signal captures variation in effort that motion data misses.",
+   "description_zh": "表演者以不同的表达意图重复手势，同时记录肌电与运动数据；肌肉信号捕捉到运动数据遗漏的发力变化。",
+   "idea_en": "Expressivity is felt from inside as effort and tension; sensing the muscles gets closer to what the mover feels than tracking the limb.",
+   "idea_zh": "表现力是从内部被感受到的发力与张力；感知肌肉比追踪肢体更接近运动者自己的感受。",
+   "method": "Combined EMG and accelerometer recordings of repeated gestures, analysed with machine learning for expressive variation; collaboration with Marco Donnarumma and Atau Tanaka.",
+   "method_zh": "对重复手势同时记录肌电与加速度数据，并用机器学习分析表达上的变化；与 Marco Donnarumma、Atau Tanaka 合作。",
+   "keywords": [
+    "EMG",
+    "gesture expressivity",
+    "machine learning",
+    "Goldsmiths",
+    "Marco Donnarumma",
+    "Atau Tanaka"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=c9uEeNGQdM4"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/2687922",
+    "doi": "10.1145/2687922",
+    "arxiv": "",
+    "venue": "ACM TOCHI 2015",
+    "title": "Understanding Gesture Expressivity through Muscle Sensing"
+   },
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "marco-gillies--iml-movement-design",
+   "creator_ids": [
+    "marco-gillies"
+   ],
+   "title": "Understanding the Role of Interactive Machine Learning in Movement Interaction Design",
+   "year": 2019,
+   "field": "machines-xr",
+   "sub": "ai-ml",
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "first-person",
+    "movement-expression"
+   ],
+   "kind": "paper",
+   "description": "An essay arguing that movement interaction should be designed by moving: the designer performs examples and machine learning captures the embodied knowledge that cannot be written as rules.",
+   "description_zh": "一篇论文主张动作交互应当通过运动来设计：设计者亲自示范，机器学习捕捉那些无法写成规则的具身知识。",
+   "idea_en": "Movement knowledge is tacit and felt, so the best specification of a movement interaction is a body performing it.",
+   "idea_zh": "动作知识是默会的、被感受的，因此一个动作交互最好的规格说明就是一个正在做它的身体。",
+   "method": "Synthesis of theories of embodied and tacit knowledge with case studies of interactive machine learning tools for movement.",
+   "method_zh": "把具身与默会知识的理论与面向动作的交互式机器学习工具案例综合起来。",
+   "keywords": [
+    "interactive machine learning",
+    "embodied knowledge",
+    "movement interaction",
+    "Goldsmiths",
+    "tacit knowledge"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=l2C6aAWzpyw"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3287307",
+    "doi": "10.1145/3287307",
+    "arxiv": "",
+    "venue": "ACM TOCHI 2019",
+    "title": "Understanding the Role of Interactive Machine Learning in Movement Interaction Design"
+   },
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "matthew-botvinick--rubber-hand-illusion",
+   "creator_ids": [
+    "matthew-botvinick"
+   ],
+   "title": "Rubber Hands 'Feel' Touch That Eyes See",
+   "year": 1998,
+   "field": "machines-xr",
+   "sub": "xr-virtual-body",
+   "modalities": [
+    "touch",
+    "light-vision",
+    "posture-balance"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "estrangement"
+   ],
+   "kind": "paper",
+   "description": "A participant's hidden hand and a visible rubber hand are stroked in synchrony; after a few minutes the rubber hand feels like one's own and the real hand seems to drift toward it.",
+   "description_zh": "参与者被遮住的真手与眼前的橡胶手被同步抚摸；几分钟后，橡胶手感觉像是自己的，真手的位置仿佛也向它漂移。",
+   "idea_en": "Ownership of the body is not given but continuously made from matching sight and touch, which is why a felt body can be extended or displaced.",
+   "idea_zh": "对身体的拥有感不是给定的，而是由视觉与触觉的吻合不断生成的；正因如此，被感受的身体可以被延展或挪移。",
+   "method": "Synchronous versus asynchronous brush strokes on hidden real hand and visible rubber hand; questionnaires and proprioceptive drift measured.",
+   "method_zh": "用画笔对被遮住的真手与可见的橡胶手进行同步或不同步的抚触，测量问卷与本体感漂移。",
+   "keywords": [
+    "rubber hand illusion",
+    "body ownership",
+    "Jonathan Cohen",
+    "visuotactile integration",
+    "Nature"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=sxwn1w7MJvk"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1038/35784",
+    "doi": "10.1038/35784",
+    "arxiv": "",
+    "venue": "Nature 1998",
+    "title": "Rubber hands 'feel' touch that eyes see"
+   },
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "bigna-lenggenhager--video-ergo-sum",
+   "creator_ids": [
+    "bigna-lenggenhager"
+   ],
+   "title": "Video Ergo Sum",
+   "year": 2007,
+   "field": "machines-xr",
+   "sub": "xr-virtual-body",
+   "modalities": [
+    "touch",
+    "light-vision",
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "estrangement"
+   ],
+   "kind": "paper",
+   "description": "Wearing a head-mounted display, participants see a video of their own back being stroked two metres in front of them while their real back is stroked, and begin to feel that body as theirs.",
+   "description_zh": "参与者戴着头戴显示器，看到自己背部在前方两米处被抚摸的影像，同时真实的背部也被抚摸，于是开始把那个身体感受为自己的。",
+   "idea_en": "The felt 'I am here, in this body' can be shifted with a camera and a brush: self-location is part of the living, adjustable soma.",
+   "idea_zh": "“我在这里、在这个身体里”的感受可以用一台摄像机和一支画笔挪动：自我定位是活的、可调节的身体的一部分。",
+   "method": "Full-body illusion with a camera filming the participant from behind into an HMD, synchronous or asynchronous back-stroking, then drift in self-location measured.",
+   "method_zh": "全身错觉：摄像机从背后拍摄参与者并送入头显，进行同步或不同步的背部抚触，再测量自我定位的漂移。",
+   "keywords": [
+    "full-body illusion",
+    "bodily self-consciousness",
+    "Olaf Blanke",
+    "Thomas Metzinger",
+    "EPFL",
+    "self-location"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=5jg0sSwOtLI"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1126/science.1143439",
+    "doi": "10.1126/science.1143439",
+    "arxiv": "",
+    "venue": "Science 2007",
+    "title": "Video Ergo Sum: Manipulating Bodily Self-Consciousness"
+   },
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "henrik-ehrsson--out-of-body-experience",
+   "creator_ids": [
+    "henrik-ehrsson"
+   ],
+   "title": "The Experimental Induction of Out-of-Body Experiences",
+   "year": 2007,
+   "field": "machines-xr",
+   "sub": "xr-virtual-body",
+   "modalities": [
+    "touch",
+    "light-vision",
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "estrangement"
+   ],
+   "kind": "paper",
+   "description": "Participants see themselves from behind through goggles fed by cameras while their chest is touched, and report feeling located outside their own body, where the cameras are.",
+   "description_zh": "参与者通过接在摄像机上的眼镜从背后看见自己，同时胸口被触碰，他们报告感到自己位于身体之外、摄像机所在之处。",
+   "idea_en": "Where 'I' am is felt, not known: with the right sensory match the self can step out of its own body.",
+   "idea_zh": "“我”在哪里是被感受到的，而不是被知道的；只要感官匹配得当，自我可以走出自己的身体。",
+   "method": "Stereo cameras behind the participant feed an HMD; a rod touches the real chest while moving toward the illusory body; skin conductance to a threat measured.",
+   "method_zh": "放在参与者身后的立体摄像机把画面送入头显；一根棍子触碰真实的胸口，同时朝错觉中的身体移动；测量面对威胁时的皮肤电反应。",
+   "keywords": [
+    "out-of-body experience",
+    "Karolinska Institutet",
+    "self-location",
+    "body ownership",
+    "Science"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ee4-grU_6vs"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1126/science.1142175",
+    "doi": "10.1126/science.1142175",
+    "arxiv": "",
+    "venue": "Science 2007",
+    "title": "The Experimental Induction of Out-of-Body Experiences"
+   },
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "valeria-petkova--body-swap-illusion",
+   "creator_ids": [
+    "valeria-petkova",
+    "henrik-ehrsson"
+   ],
+   "title": "If I Were You: Perceptual Illusion of Body Swapping",
+   "year": 2008,
+   "field": "machines-xr",
+   "sub": "xr-virtual-body",
+   "modalities": [
+    "touch",
+    "light-vision",
+    "whole-soma"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "estrangement"
+   ],
+   "kind": "paper",
+   "description": "Seeing through cameras on another person's head while shaking hands with them, participants felt the other person's body as their own and their own as someone else's.",
+   "description_zh": "通过戴在另一人头上的摄像机观看，同时与对方握手，参与者把对方的身体感受为自己的，而把自己的身体感受为别人的。",
+   "idea_en": "The boundary between my body and yours is held by synchrony of sight and touch; change it, and bodies can be swapped.",
+   "idea_zh": "我的身体与你的身体之间的边界靠视觉与触觉的同步维持；改变它，身体就可以互换。",
+   "method": "Head-mounted cameras on a mannequin or experimenter stream to the participant's HMD; synchronous squeezing and handshakes, with threat-evoked skin conductance.",
+   "method_zh": "装在人体模型或实验者头部的摄像机把画面传到参与者的头显；同步的捏压与握手，并测量威胁诱发的皮肤电反应。",
+   "keywords": [
+    "body swap",
+    "Karolinska Institutet",
+    "body ownership",
+    "handshake",
+    "PLoS ONE"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=AuzCSejk0Bw"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1371/journal.pone.0003832",
+    "doi": "10.1371/journal.pone.0003832",
+    "arxiv": "",
+    "venue": "PLoS ONE 2008",
+    "title": "If I Were You: Perceptual Illusion of Body Swapping"
+   },
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "mel-slater--body-transfer-vr",
+   "creator_ids": [
+    "mel-slater"
+   ],
+   "title": "First Person Experience of Body Transfer in Virtual Reality",
+   "year": 2010,
+   "field": "machines-xr",
+   "sub": "xr-virtual-body",
+   "modalities": [
+    "light-vision",
+    "touch",
+    "whole-soma"
+   ],
+   "lenses": [
+    "first-person",
+    "body-politics"
+   ],
+   "kind": "paper",
+   "description": "Adult men in VR saw, from a first-person view, the body of a young girl in place of their own, and felt it as theirs, with bodily reactions when the girl was threatened.",
+   "description_zh": "成年男性在 VR 中以第一人称视角看到一个小女孩的身体取代了自己的身体，并把它感受为自己的；当女孩受到威胁时，他们出现身体反应。",
+   "idea_en": "A first-person perspective alone can transfer ownership to a very different body, which opens VR as a tool for living in another's body.",
+   "idea_zh": "仅凭第一人称视角就能把拥有感转移到一个非常不同的身体上，这让 VR 成为“活在他人身体里”的工具。",
+   "method": "Immersive VR with a virtual female body seen from first-person or third-person perspective, with visuotactile stroking; heart-rate deceleration to a threat measured.",
+   "method_zh": "沉浸式 VR，以第一或第三人称视角看到虚拟女性身体，配合视触同步抚触；测量面对威胁时的心率减速。",
+   "keywords": [
+    "body transfer",
+    "virtual body ownership",
+    "Event Lab",
+    "Olaf Blanke",
+    "Maria V. Sanchez-Vives",
+    "first-person perspective"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=pzCxjN8hyvg"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1371/journal.pone.0010564",
+    "doi": "10.1371/journal.pone.0010564",
+    "arxiv": "",
+    "venue": "PLoS ONE 2010",
+    "title": "First Person Experience of Body Transfer in Virtual Reality"
+   },
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "konstantina-kilteni--sense-of-embodiment",
+   "creator_ids": [
+    "konstantina-kilteni",
+    "mel-slater"
+   ],
+   "title": "The Sense of Embodiment in Virtual Reality",
+   "year": 2012,
+   "field": "machines-xr",
+   "sub": "xr-virtual-body",
+   "modalities": [
+    "whole-soma",
+    "movement",
+    "posture-balance"
+   ],
+   "lenses": [
+    "first-person",
+    "body-mind-unity"
+   ],
+   "kind": "paper",
+   "description": "A theory paper that splits the sense of embodiment in a virtual body into three parts, self-location, agency and body ownership, and reviews how each can be induced.",
+   "description_zh": "一篇理论论文，把对虚拟身体的具身感分为自我定位、能动感与身体拥有感三部分，并回顾如何分别诱发它们。",
+   "idea_en": "Feeling embodied is several felt senses working together; designers can tune each one rather than treating 'presence' as a single switch.",
+   "idea_zh": "感到具身是几种感受共同作用的结果；设计者可以分别调节它们，而不是把“临场感”当作一个开关。",
+   "method": "Conceptual review of body-ownership, agency and self-location research in neuroscience and VR.",
+   "method_zh": "对神经科学与 VR 中身体拥有感、能动感与自我定位研究的概念性综述。",
+   "keywords": [
+    "sense of embodiment",
+    "self-location",
+    "agency",
+    "body ownership",
+    "Presence"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1162/pres_a_00124",
+    "doi": "10.1162/pres_a_00124",
+    "arxiv": "",
+    "venue": "Presence: Teleoperators and Virtual Environments 2012",
+    "title": "The Sense of Embodiment in Virtual Reality"
+   },
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "domna-banakou--virtual-child-body",
+   "creator_ids": [
+    "domna-banakou",
+    "mel-slater"
+   ],
+   "title": "Illusory Ownership of a Virtual Child Body",
+   "year": 2013,
+   "field": "machines-xr",
+   "sub": "xr-virtual-body",
+   "modalities": [
+    "whole-soma",
+    "light-vision",
+    "movement"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "estrangement"
+   ],
+   "kind": "paper",
+   "description": "Adults embodied in the virtual body of a four-year-old child overestimated the size of objects and associated themselves more with child-like traits.",
+   "description_zh": "被赋予四岁儿童虚拟身体的成年人会高估物体的尺寸，并更多地把自己与孩童特质联系在一起。",
+   "idea_en": "The felt body shapes perception and self-concept at once: change the body, and both the world and the self look different.",
+   "idea_zh": "被感受的身体同时塑造知觉与自我概念：改变身体，世界与自我看起来都会不同。",
+   "method": "Immersive VR with full-body motion capture and synchronous visuomotor feedback in a child or scaled adult body; size estimation and implicit association tests.",
+   "method_zh": "沉浸式 VR 配合全身动作捕捉，在儿童身体或等比缩小的成人身体中给予同步视动反馈；进行尺寸估计与内隐联想测验。",
+   "keywords": [
+    "virtual body",
+    "child body",
+    "size perception",
+    "implicit attitudes",
+    "Event Lab",
+    "PNAS"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=8Oy83OVgbSM"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1073/pnas.1306779110",
+    "doi": "10.1073/pnas.1306779110",
+    "arxiv": "",
+    "venue": "PNAS 2013",
+    "title": "Illusory ownership of a virtual child body causes overestimation of object sizes and implicit attitude changes"
+   },
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "william-steptoe--human-tails",
+   "creator_ids": [
+    "william-steptoe",
+    "mel-slater"
+   ],
+   "title": "Human Tails",
+   "year": 2013,
+   "field": "machines-xr",
+   "sub": "xr-virtual-body",
+   "modalities": [
+    "movement",
+    "posture-balance",
+    "whole-soma"
+   ],
+   "lenses": [
+    "more-than-human",
+    "estrangement"
+   ],
+   "kind": "paper",
+   "description": "In VR, participants have an avatar with a tail they swing by moving their hips; after using it to block falling objects, many react as if the tail were part of their body.",
+   "description_zh": "在 VR 中，参与者拥有一个带尾巴的化身，通过扭动臀部来摆动尾巴；用它拦截落下的物体之后，许多人的反应就像尾巴是自己身体的一部分。",
+   "idea_en": "The body schema is plastic: with the right sensorimotor loop, a mover can come to feel a limb that humans have never had.",
+   "idea_zh": "身体图式是可塑的：只要感觉运动回路合适，运动者就能感到一个人类从未有过的肢体。",
+   "method": "Full-body tracked avatar in immersive VR with a tail driven by hip movement (synchronous or random) and a task of blocking objects with body and tail; questionnaires and behaviour measured.",
+   "method_zh": "在沉浸式 VR 中使用全身追踪化身，尾巴由臀部动作驱动（同步或随机），并完成用身体与尾巴拦截物体的任务；以问卷与行为测量。",
+   "keywords": [
+    "extended avatar",
+    "tail",
+    "body schema",
+    "UCL",
+    "Anthony Steed",
+    "IEEE VR 2013"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=d2zbZLBUqwU"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1109/tvcg.2013.32",
+    "doi": "10.1109/tvcg.2013.32",
+    "arxiv": "",
+    "venue": "IEEE TVCG (IEEE VR 2013)",
+    "title": "Human Tails: Ownership and Control of Extended Humanoid Avatars"
+   },
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "tabitha-peck--black-avatar-bias",
+   "creator_ids": [
+    "tabitha-peck",
+    "mel-slater"
+   ],
+   "title": "Putting Yourself in the Skin of a Black Avatar",
+   "year": 2013,
+   "field": "machines-xr",
+   "sub": "xr-virtual-body",
+   "modalities": [
+    "whole-soma",
+    "light-vision",
+    "movement"
+   ],
+   "lenses": [
+    "body-politics",
+    "intercorporeality"
+   ],
+   "kind": "paper",
+   "description": "Light-skinned participants embodied in a dark-skinned virtual body, seen in a virtual mirror, showed reduced implicit racial bias afterwards.",
+   "description_zh": "浅肤色参与者被赋予一个深肤色的虚拟身体，并在虚拟镜子中看到它，之后他们的内隐种族偏见有所下降。",
+   "idea_en": "Owning a different body for a while can loosen the boundary between self and other that bias depends on, though such effects raise their own ethical questions.",
+   "idea_zh": "暂时拥有一个不同的身体，可以松动偏见所依赖的自我与他者之间的边界，不过这类效果本身也带来伦理问题。",
+   "method": "Immersive VR with full-body tracking and a virtual mirror, comparing light-skinned, dark-skinned, alien and no-body conditions with pre/post implicit association tests.",
+   "method_zh": "沉浸式 VR 配合全身追踪与虚拟镜子，比较浅肤色、深肤色、外星人与无身体几种条件，并做前后测内隐联想测验。",
+   "keywords": [
+    "implicit bias",
+    "virtual mirror",
+    "embodiment",
+    "Event Lab",
+    "Salvatore Aglioti",
+    "empathy"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=HliN3iOX090"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1016/j.concog.2013.04.016",
+    "doi": "10.1016/j.concog.2013.04.016",
+    "arxiv": "",
+    "venue": "Consciousness and Cognition 2013",
+    "title": "Putting yourself in the skin of a black avatar reduces implicit racial bias"
+   },
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "beanotherlab--machine-to-be-another",
+   "creator_ids": [
+    "beanotherlab"
+   ],
+   "title": "The Machine to Be Another",
+   "year": 2012,
+   "field": "machines-xr",
+   "sub": "xr-virtual-body",
+   "also": [
+    "social"
+   ],
+   "modalities": [
+    "whole-soma",
+    "touch",
+    "movement"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "first-person"
+   ],
+   "kind": "artwork",
+   "description": "Two people wear headsets showing each other's first-person view; they move in agreed synchrony and touch the same objects, so each feels, for a while, in the other's body.",
+   "description_zh": "两个人戴上头显，看到彼此的第一人称视角；他们按约定同步移动、触摸相同的物件，于是各自在一段时间里感到身处对方的身体中。",
+   "idea_en": "Embodiment is choreographed between people: the illusion of being another depends on two bodies attending to each other and moving together.",
+   "idea_zh": "具身是在人与人之间被编排出来的：成为他人的错觉，取决于两个身体彼此专注、一起移动。",
+   "method": "Head-mounted cameras stream each participant's view to the other's HMD; performers mirror movements and apply matching touch; shown as an installation and used in workshops.",
+   "method_zh": "头戴摄像机把每位参与者的视野传到对方的头显中；表演者镜像动作并施以对应的触碰；以装置形式展出，也用于工作坊。",
+   "keywords": [
+    "body swap",
+    "gender swap",
+    "embodiment",
+    "empathy",
+    "BeAnotherLab",
+    "Barcelona"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=F0dfA1DsLRk"
+   },
+   "images": [
+    "https://beanotherlab.org/wp-content/uploads/2019/04/bal_tmtba01.jpg"
+   ],
+   "source_url": "https://beanotherlab.org/home/work/tmtba/",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "owen-harris--deep",
+   "creator_ids": [
+    "owen-harris"
+   ],
+   "title": "DEEP",
+   "year": 2016,
+   "field": "machines-xr",
+   "sub": "xr-virtual-body",
+   "also": [
+    "somaesthetic"
+   ],
+   "modalities": [
+    "breath",
+    "light-vision"
+   ],
+   "lenses": [
+    "attunement",
+    "care-healing"
+   ],
+   "kind": "artwork",
+   "description": "A meditative VR world under the sea that you move through only by breathing: slow, deep belly breaths carry you along and change the glowing landscape.",
+   "description_zh": "一个只能用呼吸移动的海底冥想 VR 世界：缓慢深长的腹式呼吸带着你前行，并改变发光的景观。",
+   "idea_en": "When breath is the only control, the practice of slowing down becomes the game itself, and calm is felt rather than instructed.",
+   "idea_zh": "当呼吸是唯一的控制方式时，放慢这件修习本身就成了游戏；平静是被感受到的，而不是被指示的。",
+   "method": "A custom stretch-sensor belt around the diaphragm drives movement and visuals in a VR headset; later tested as biofeedback for anxious children.",
+   "method_zh": "绕在腹部的定制拉伸传感带驱动 VR 头显中的移动与视觉；后来作为焦虑儿童的生物反馈加以检验。",
+   "keywords": [
+    "breath-controlled VR",
+    "diaphragmatic breathing",
+    "Niki Smit",
+    "biofeedback",
+    "anxiety",
+    "meditation"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=qIhZhdmPQ_8"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/56a1092da128e65fa42a11fa/1585418439909-AH0BEHDJN736S99KKYEG/Screenshot_102.3696.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2851581.2892452",
+    "doi": "10.1145/2851581.2892452",
+    "arxiv": "",
+    "venue": "CHI 2016 Extended Abstracts",
+    "title": "DEEP: A Biofeedback Virtual Reality Game for Children At-risk for Anxiety"
+   },
+   "source_url": "https://www.exploredeep.com",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "mirjana-prpa--attending-to-breath",
+   "creator_ids": [
+    "mirjana-prpa",
+    "thecla-schiphorst"
+   ],
+   "title": "Attending to Breath",
+   "year": 2018,
+   "field": "machines-xr",
+   "sub": "xr-virtual-body",
+   "also": [
+    "somaesthetic"
+   ],
+   "modalities": [
+    "breath",
+    "voice-sound",
+    "light-vision"
+   ],
+   "lenses": [
+    "attunement",
+    "first-person"
+   ],
+   "kind": "prototype",
+   "description": "An immersive virtual environment for focused-attention meditation in which sound and visuals follow the user's breathing, helping them keep attention on the breath.",
+   "description_zh": "一个用于专注式冥想的沉浸式虚拟环境，声音与画面跟随使用者的呼吸，帮助其把注意力保持在呼吸上。",
+   "idea_en": "Mapping breath directly into sound and image can hold attention on the body from within, and micro-phenomenology can show how that awareness unfolds.",
+   "idea_zh": "把呼吸直接映射为声音与影像，可以从内部把注意力留在身体上；微观现象学则能揭示这种觉察如何展开。",
+   "method": "A breathing sensor drives a generative soundtrack and visuals in VR; experience studied with micro-phenomenological interviews.",
+   "method_zh": "呼吸传感器驱动 VR 中的生成式声音与画面；以微观现象学访谈研究体验。",
+   "keywords": [
+    "breath awareness",
+    "meditation",
+    "micro-phenomenology",
+    "iSpace Lab",
+    "Simon Fraser University",
+    "generative sound"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3196709.3196765",
+    "doi": "10.1145/3196709.3196765",
+    "arxiv": "",
+    "venue": "DIS 2018",
+    "title": "Attending to Breath: Exploring How the Cues in a Virtual Environment Guide the Attention to Breath and Shape the Quality of Experience to Support Mindfulness"
+   },
+   "code_url": "",
+   "collections": [
+    "dis"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "paul-tennent--soma-design-sensory-misalignment",
+   "creator_ids": [
+    "paul-tennent",
+    "joe-marshall"
+   ],
+   "title": "Soma Design and Sensory Misalignment",
+   "year": 2020,
+   "field": "machines-xr",
+   "sub": "xr-virtual-body",
+   "also": [
+    "methods"
+   ],
+   "modalities": [
+    "posture-balance",
+    "movement",
+    "light-vision"
+   ],
+   "lenses": [
+    "estrangement",
+    "first-person"
+   ],
+   "kind": "paper",
+   "description": "A workshop report that brings together soma designers and researchers of sensory misalignment in VR and rides, arguing that each practice can extend the other.",
+   "description_zh": "一份工作坊报告，把身体设计者与研究 VR、游乐设施中感官错位的研究者聚在一起，论证两种实践可以相互扩展。",
+   "idea_en": "Deliberately misaligning the senses is a technological form of estrangement: it disrupts the habitual body so that it can be felt anew.",
+   "idea_zh": "有意让感官错位是一种技术化的陌生化：它打乱惯常的身体，使之能被重新感受。",
+   "method": "Joint workshop of the Nottingham Mixed Reality Lab and KTH soma design researchers, with hands-on sessions on misalignment prototypes, synthesised into design themes.",
+   "method_zh": "诺丁汉混合现实实验室与 KTH 身体设计研究者共同举办的工作坊，动手体验错位原型，并归纳为设计主题。",
+   "keywords": [
+    "sensory misalignment",
+    "estrangement",
+    "visual-kinaesthetic conflict",
+    "Vasiliki Tsaknaki",
+    "Charles Windlin",
+    "Kristina Höök"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3313831.3376812",
+    "doi": "10.1145/3313831.3376812",
+    "arxiv": "",
+    "venue": "CHI 2020",
+    "title": "Soma Design and Sensory Misalignment"
+   },
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": []
+  },
+  {
+   "id": "brendan-walker--vr-playground",
+   "creator_ids": [
+    "brendan-walker",
+    "paul-tennent",
+    "steve-benford"
+   ],
+   "title": "VR Playground",
+   "year": 2017,
+   "field": "machines-xr",
+   "sub": "xr-virtual-body",
+   "modalities": [
+    "movement",
+    "posture-balance",
+    "light-vision"
+   ],
+   "lenses": [
+    "estrangement",
+    "pleasure-play"
+   ],
+   "kind": "artwork",
+   "description": "Riders on a real playground swing wear VR headsets and travel through four virtual worlds, each of which amplifies, reverses or distorts the felt motion of swinging.",
+   "description_zh": "乘客坐在真实的游乐场秋千上戴着 VR 头显，穿越四个虚拟世界，每个世界都会放大、颠倒或扭曲荡秋千时身体感到的运动。",
+   "idea_en": "Deliberately mismatching what the eyes see and what the inner ear feels can be a source of delight, and a way to make one's own motion strange.",
+   "idea_zh": "有意让眼睛所见与内耳所感错位，可以带来乐趣，也能让自己的运动变得陌生。",
+   "method": "A sensor on the swing measures its motion and drives four 'abstract machines' that map physical swing to virtual movement; toured to over 5,000 riders.",
+   "method_zh": "秋千上的传感器测量其运动，驱动四种把实体摆动映射为虚拟运动的“抽象机器”；巡展吸引了五千多名乘客。",
+   "keywords": [
+    "swing",
+    "visual-kinaesthetic conflict",
+    "abstract machines",
+    "Mixed Reality Lab",
+    "Norfolk and Norwich Festival"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=WmP79khSrQc"
+   },
+   "images": [
+    "https://paultennent.wordpress.com/wp-content/uploads/2018/06/swing.png",
+    "https://www.nottingham.ac.uk/research/groups/mixedrealitylab/images/works/vr-playground-cropped-950x300.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3290605.3300811",
+    "doi": "10.1145/3290605.3300811",
+    "arxiv": "",
+    "venue": "CHI 2019",
+    "title": "Abstract Machines: Overlaying Virtual Worlds on Physical Rides"
+   },
+   "source_url": "https://www.nottingham.ac.uk/research/groups/mixedrealitylab/works/vr-playground.aspx",
+   "code_url": "",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": [
+    "Norfolk and Norwich Festival 2017"
+   ]
+  },
+  {
+   "id": "marshmallow-laser-feast--in-the-eyes-of-the-animal",
+   "creator_ids": [
+    "marshmallow-laser-feast"
+   ],
+   "title": "In the Eyes of the Animal",
+   "year": 2015,
+   "field": "machines-xr",
+   "sub": "more-than-human",
+   "modalities": [
+    "light-vision",
+    "vibration",
+    "voice-sound"
+   ],
+   "lenses": [
+    "more-than-human",
+    "estrangement"
+   ],
+   "kind": "artwork",
+   "description": "Visitors in a forest wear headsets and a vibrating backpack and see the same forest through the senses of a mosquito, a dragonfly, a frog and an owl.",
+   "description_zh": "观众在森林里戴上头显和会振动的背包，透过蚊子、蜻蜓、青蛙和猫头鹰的感官看同一片森林。",
+   "idea_en": "Borrowing another species' senses unsettles the human body as the default measure of perception.",
+   "idea_zh": "借用另一物种的感官，会动摇“人类身体是感知默认尺度”的想法。",
+   "method": "LiDAR and CT scans of the forest rendered as particle worlds in VR, with a binaural soundtrack and a subwoofer backpack delivering vibration to the body.",
+   "method_zh": "把森林的激光雷达与 CT 扫描数据渲染成 VR 中的粒子世界，配合双耳声轨与把振动传到身体的低音背包。",
+   "keywords": [
+    "Grizedale Forest",
+    "Abandon Normal Devices",
+    "animal senses",
+    "LiDAR",
+    "haptic backpack"
+   ],
+   "video": {
+    "url": "https://vimeo.com/140057053"
+   },
+   "images": [
+    "https://marshmallowlaserfeast.com/app/uploads/2024/07/Screenshot-2024-07-24-at-10.52.46.jpg"
+   ],
+   "source_url": "https://marshmallowlaserfeast.com",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "marshmallow-laser-feast--treehugger-wawona",
+   "creator_ids": [
+    "marshmallow-laser-feast"
+   ],
+   "title": "Treehugger: Wawona",
+   "year": 2016,
+   "field": "machines-xr",
+   "sub": "more-than-human",
+   "modalities": [
+    "touch",
+    "light-vision",
+    "breath"
+   ],
+   "lenses": [
+    "more-than-human",
+    "attunement"
+   ],
+   "kind": "artwork",
+   "description": "Visitors put their heads into a sculpted tree trunk and see and hear the inside of a giant sequoia, following water as it rises through the tree.",
+   "description_zh": "观众把头伸进一截雕塑般的树干，看到并听到一棵巨型红杉的内部，跟随水分沿树干上升。",
+   "idea_en": "Hugging a tree, physically and in VR, invites a slower, bodily sense of a life on another timescale.",
+   "idea_zh": "在实体与 VR 中拥抱一棵树，邀请人以更慢的、身体性的方式感受另一时间尺度上的生命。",
+   "method": "A physical tree-trunk sculpture with embedded VR headset and haptics, using scan data of a giant sequoia turned into a particle visualisation.",
+   "method_zh": "内嵌 VR 头显与触觉装置的实体树干雕塑，把一棵巨型红杉的扫描数据转为粒子可视化。",
+   "keywords": [
+    "giant sequoia",
+    "tree",
+    "haptics",
+    "installation",
+    "Wawona"
+   ],
+   "video": {
+    "url": "https://vimeo.com/195539105"
+   },
+   "images": [
+    "https://marshmallowlaserfeast.com/app/uploads/2024/08/5.jpg"
+   ],
+   "source_url": "https://marshmallowlaserfeast.com",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "marshmallow-laser-feast--we-live-in-an-ocean-of-air",
+   "creator_ids": [
+    "marshmallow-laser-feast"
+   ],
+   "title": "We Live in an Ocean of Air",
+   "year": 2018,
+   "field": "machines-xr",
+   "sub": "more-than-human",
+   "also": [
+    "social"
+   ],
+   "modalities": [
+    "breath",
+    "heartbeat",
+    "light-vision"
+   ],
+   "lenses": [
+    "more-than-human",
+    "intercorporeality",
+    "attunement"
+   ],
+   "kind": "artwork",
+   "description": "A multi-person VR installation around a giant sequoia in which visitors see their own breath leave the body as particles and pass into the tree, and the tree's exhalation return to them.",
+   "description_zh": "一件围绕巨型红杉的多人 VR 装置：观众看到自己的呼吸化作粒子离开身体、进入树中，树的呼出又回到他们身上。",
+   "idea_en": "Breath is an exchange between bodies and species; making it visible turns breathing into a felt relation with plants.",
+   "idea_zh": "呼吸是身体之间、物种之间的交换；让它可见，就把呼吸变成与植物之间可被感受的关系。",
+   "method": "Untethered VR with breath and heart-rate sensors; each visitor's breath and pulse are rendered as particles in a shared scene.",
+   "method_zh": "无线 VR 配合呼吸与心率传感器；每位观众的呼吸与脉搏都在共享场景中被渲染成粒子。",
+   "keywords": [
+    "breath",
+    "sequoia",
+    "Saatchi Gallery",
+    "multi-user VR",
+    "photosynthesis"
+   ],
+   "video": {
+    "url": "https://vimeo.com/303589503"
+   },
+   "images": [
+    "https://marshmallowlaserfeast.com/app/uploads/2023/11/Copy-of-OceanOfAir_Saatchi_-12-of-34_sml.jpg"
+   ],
+   "source_url": "https://marshmallowlaserfeast.com",
+   "code_url": "",
+   "collections": [],
+   "exhibited": [
+    "Saatchi Gallery, London (2018–2019)"
+   ]
+  },
+  {
+   "id": "somniacs--birdly",
+   "creator_ids": [
+    "somniacs",
+    "max-rheiner"
+   ],
+   "title": "Birdly",
+   "year": 2014,
+   "field": "machines-xr",
+   "sub": "more-than-human",
+   "modalities": [
+    "posture-balance",
+    "movement",
+    "touch"
+   ],
+   "lenses": [
+    "more-than-human",
+    "pleasure-play"
+   ],
+   "kind": "artwork",
+   "description": "You lie face down on a machine, spread your arms as wings and fly as a bird over a city; flapping, tilting and a fan-driven headwind make the flight felt through the whole body.",
+   "description_zh": "你俯卧在一台机器上，张开手臂作翅膀，化身为鸟飞过城市；拍动、倾斜和风扇吹来的迎面风让飞行被全身感受到。",
+   "idea_en": "Becoming another creature starts with posture: lying prone with arms as wings is what makes the flight felt.",
+   "idea_zh": "成为另一种生物，要从姿态开始：俯卧、以臂为翼，才让飞翔被身体感受到。",
+   "method": "A motorised platform responds to arm flapping and body tilt, with a VR headset, a fan for headwind and spatial sound.",
+   "method_zh": "电动平台回应手臂的拍动与身体的倾斜，配合 VR 头显、提供迎面风的风扇与空间声音。",
+   "keywords": [
+    "flight simulator",
+    "bird",
+    "Zurich University of the Arts",
+    "SIGGRAPH 2014",
+    "full-body VR"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=gWLHIusLWOc"
+   },
+   "images": [
+    "https://birdlyvr.com/wp-content/uploads/sites/3/2017/03/homepage-birdly-BHP-2868-2.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2614066.2614101",
+    "doi": "10.1145/2614066.2614101",
+    "arxiv": "",
+    "venue": "SIGGRAPH 2014 Emerging Technologies",
+    "title": "Birdly an attempt to fly"
+   },
+   "source_url": "https://www.birdlyvr.com",
+   "code_url": "",
+   "collections": [],
+   "exhibited": [
+    "SIGGRAPH 2014 Emerging Technologies"
+   ]
+  },
+  {
+   "id": "milica-zec--tree",
+   "creator_ids": [
+    "milica-zec",
+    "winslow-porter"
+   ],
+   "title": "Tree",
+   "year": 2017,
+   "field": "machines-xr",
+   "sub": "more-than-human",
+   "modalities": [
+    "whole-soma",
+    "heat",
+    "vibration"
+   ],
+   "lenses": [
+    "more-than-human",
+    "estrangement"
+   ],
+   "kind": "artwork",
+   "description": "In VR you grow from a seed into a rainforest tree, your arms become branches, and you feel wind, heat and vibration until the forest burns.",
+   "description_zh": "在 VR 中，你从种子长成一棵雨林中的树，手臂成为枝干，感受风、热与振动，直到森林起火。",
+   "idea_en": "Taking on a tree's body and slow life through touch, heat and rumble makes deforestation felt as something happening to a body.",
+   "idea_zh": "借由触感、热和震动承担一棵树的身体与缓慢的一生，会让森林砍伐被感受为发生在一个身体上的事。",
+   "method": "Room-scale VR with haptic vibration, wind and heat (and likely scent), synchronised to the tree's life stages.",
+   "method_zh": "房间尺度的 VR，配合触觉振动、风与热（很可能还有气味），与树的生命阶段同步。",
+   "keywords": [
+    "rainforest",
+    "tree",
+    "multisensory VR",
+    "Sundance New Frontier",
+    "haptic floor"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ERffRXjTAqM"
+   },
+   "images": [
+    "https://docubase.mit.edu/wp-content/uploads/2018/11/Tree-02-Still.jpg"
+   ],
+   "source_url": "https://www.treeofficial.com",
+   "code_url": "",
+   "collections": [],
+   "exhibited": [
+    "Sundance Film Festival New Frontier 2017"
+   ]
+  },
+  {
+   "id": "thomas-thwaites--goatman",
+   "creator_ids": [
+    "thomas-thwaites"
+   ],
+   "title": "GoatMan",
+   "year": 2016,
+   "field": "machines-xr",
+   "sub": "more-than-human",
+   "modalities": [
+    "posture-balance",
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "more-than-human",
+    "first-person",
+    "estrangement"
+   ],
+   "kind": "artwork",
+   "description": "A designer builds prosthetic legs and an artificial rumen and lives for days with a herd of goats in the Alps, walking on four limbs.",
+   "description_zh": "一位设计师制作义肢腿和人工瘤胃，在阿尔卑斯山与一群山羊一起生活数日，用四肢行走。",
+   "idea_en": "Trying to live in another species' body shows how deeply thought, mood and worry are tied to one's own posture and gait.",
+   "idea_zh": "尝试活在另一物种的身体里，会显示出思考、情绪与忧虑与自己的姿态和步态绑得有多紧。",
+   "method": "Prosthetic limbs designed with prosthetists and animal experts, a helmet and an external digestion device; tested in a first-person expedition.",
+   "method_zh": "与假肢师和动物专家一起设计的义肢、头盔与体外消化装置，在第一人称的远行中检验。",
+   "keywords": [
+    "GoatMan",
+    "A Holiday from Being Human",
+    "prosthetics",
+    "Ig Nobel Prize",
+    "Alps"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=-IPub-Fipz8"
+   },
+   "images": [
+    "https://www.thomasthwaites.com/folio5/wp-content/uploads/2016/03/Goat8-Thomas_Thwaites-photo-Tim_Bowditch.jpg"
+   ],
+   "source_url": "https://www.thomasthwaites.com/a-holiday-from-being-human-goatman/",
+   "code_url": "",
+   "collections": [],
+   "exhibited": [
+    "Ig Nobel Prize 2016 (Biology)"
+   ]
+  },
+  {
+   "id": "chris-woebken--animal-superpowers",
+   "creator_ids": [
+    "chris-woebken",
+    "kenichi-okada"
+   ],
+   "title": "Animal Superpowers",
+   "year": 2008,
+   "field": "machines-xr",
+   "sub": "more-than-human",
+   "modalities": [
+    "light-vision",
+    "touch",
+    "voice-sound"
+   ],
+   "lenses": [
+    "more-than-human",
+    "pleasure-play",
+    "estrangement"
+   ],
+   "kind": "artwork",
+   "description": "Wearable devices give children animal senses: an 'ant' device magnifies what their hands touch 50 times, a 'bird' device lets them feel magnetic fields, a 'giraffe' device raises their eyes.",
+   "description_zh": "可穿戴装置赋予孩子动物的感官：“蚂蚁”装置把手触到的东西放大 50 倍，“鸟”装置让他们感到磁场，“长颈鹿”装置抬高他们的视线。",
+   "idea_en": "Changing the scale and senses of a child's body is a playful way to feel that other creatures live in different worlds.",
+   "idea_zh": "改变孩子身体的尺度与感官，是一种感受“其他生物生活在不同世界里”的游戏方式。",
+   "method": "Hand-worn cameras with helmet displays, a vibrating GPS/compass device and periscope-like goggles, made as playful critical-design objects.",
+   "method_zh": "手戴摄像头配头盔显示器、振动的 GPS 与指南针装置、潜望镜式护目镜，作为游戏性的批判设计物件。",
+   "keywords": [
+    "critical design",
+    "Royal College of Art",
+    "Design Interactions",
+    "children",
+    "animal senses"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=L9oTcez2CXU"
+   },
+   "images": [
+    "https://freight.cargo.site/w/1200/i/ad1784c02faa9d2afb6614fa878b4982436d2d58292e1349ebee13b3d8c6a682/2232862656_cba3f094c1_o.jpg"
+   ],
+   "source_url": "https://www.chriswoebken.com/animal-superpowers",
+   "code_url": "",
+   "collections": [],
+   "exhibited": []
+  },
+  {
+   "id": "art-oriente-objet--may-the-horse-live-in-me",
+   "creator_ids": [
+    "art-oriente-objet"
+   ],
+   "title": "May the Horse Live in Me",
+   "year": 2011,
+   "field": "machines-xr",
+   "sub": "more-than-human",
+   "modalities": [
+    "intimate-body",
+    "posture-balance",
+    "pain-interoception"
+   ],
+   "lenses": [
+    "more-than-human",
+    "first-person",
+    "body-politics"
+   ],
+   "kind": "performance",
+   "description": "After months of immunising herself, artist Marion Laval-Jeantet is injected with horse blood plasma and then walks with a horse on stilts shaped like hooves.",
+   "description_zh": "艺术家 Marion Laval-Jeantet 经过数月免疫准备后，被注射马的血浆，随后踩着马蹄形状的高跷与一匹马同行。",
+   "idea_en": "Letting another species' blood act inside one's body is an extreme first-person test of where one's own body ends.",
+   "idea_zh": "让另一物种的血液在自己体内起作用，是对“自己的身体止于何处”的一次极端的第一人称检验。",
+   "method": "Progressive immunisation to horse immunoglobulins, followed by a live injection and a walk with a horse on hoof-stilts; documented as performance.",
+   "method_zh": "逐步对马免疫球蛋白进行免疫，随后现场注射，并踩马蹄高跷与马同行；以表演形式记录。",
+   "keywords": [
+    "bio art",
+    "horse blood",
+    "Marion Laval-Jeantet",
+    "Benoît Mangin",
+    "Kapelica Gallery",
+    "transfusion"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=yx_E4DUWXbE"
+   },
+   "images": [
+    "https://archive.aec.at/asset/730673/preview/"
+   ],
+   "source_url": "https://archive.aec.at/prix/169875/",
+   "code_url": "",
+   "collections": [],
+   "exhibited": [
+    "Prix Ars Electronica 2011, Golden Nica, Hybrid Art"
+   ]
+  }
+ ],
+ "leads": [
+  {
+   "name": "Joseph La Delfa — How to Train Your Drone (DIS 2024) and Mechanical Sympathy (DIS 2024)",
+   "why": "KTH-era somaesthetic human-drone works co-authored with Höök; left to hook-lab (reuse creator id joseph-la-delfa).",
+   "link": "https://doi.org/10.1145/3643834.3660737",
+   "found_via": "joseph-la-delfa",
+   "status": "duplicate"
+  },
+  {
+   "name": "Joseph La Delfa et al. — Are Drones Meditative? (CHI EA 2019)",
+   "why": "Early Drone Chi study; folded into Drone Chi here, could be its own paper entry.",
+   "link": "https://doi.org/10.1145/3290607.3313274",
+   "found_via": "joseph-la-delfa",
+   "status": "open"
+  },
+  {
+   "name": "Núñez-Pacheco, Sanches et al. — Where is the Body in Designing (Through) AI? (CHI EA 2026)",
+   "why": "Soma design and AI; Höök-group authors, so for hook-lab or methods.",
+   "link": "https://doi.org/10.1145/3772363.3778774",
+   "found_via": "baptiste-caramiaux",
+   "status": "open"
+  },
+  {
+   "name": "Kaho Abe & Katherine Isbister — Hotaru (CHI EA 2016)",
+   "why": "Wearable social movement game where players share 'energy' by touching; first author Japanese-American, check with east-asia.",
+   "link": "https://doi.org/10.1145/2851581.2889472",
+   "found_via": "katherine-isbister",
+   "status": "open"
+  },
+  {
+   "name": "Inner Garden (Roo, Gervais, Frey, Hachet, CHI 2017)",
+   "why": "Breath- and heart-driven mixed-reality sandbox for mindfulness; better fit for intimate-care / affect.",
+   "link": "https://doi.org/10.1145/3025453.3025743",
+   "found_via": "jeremy-frey",
+   "status": "open"
+  },
+  {
+   "name": "Sarah Fdili Alaoui & Baptiste Caramiaux — Movement Qualities as Interaction Modality (DIS 2012)",
+   "why": "Movement-quality sensing; belongs to movement-art (movement-computing).",
+   "link": "https://doi.org/10.1145/2317956.2318071",
+   "found_via": "baptiste-caramiaux",
+   "status": "open"
+  },
+  {
+   "name": "LumiTouch (Chang et al., CHI EA 2001)",
+   "why": "Picture frames that glow when the partner touches theirs; light rather than touch, weaker fit.",
+   "link": "https://doi.org/10.1145/634067.634252",
+   "found_via": "angela-chang",
+   "status": "open"
+  },
+  {
+   "name": "Hugvie / Paro / Kasahara 'Preemptive Action' / Tamaki 'PossessedHand'",
+   "why": "Japanese social-touch robots and EMS agency works; for east-asia.",
+   "link": "",
+   "found_via": "pedro-lopes",
+   "status": "open"
+  },
+  {
+   "name": "Kissenger (Samani, Cheok et al.)",
+   "why": "Remote kissing robot; Cheok's lab in Singapore/Japan, check with east-asia.",
+   "link": "",
+   "found_via": "cutecircuit",
+   "status": "open"
+  },
+  {
+   "name": "Pat Pataranutaporn — AI and bodily futures (MIT Media Lab)",
+   "why": "Thai researcher; for east-asia.",
+   "link": "",
+   "found_via": "rebecca-fiebrink",
+   "status": "open"
+  },
+  {
+   "name": "Yuhan Hu & Guy Hoffman — shape-changing robot skin (goosebumps)",
+   "why": "Soft robot skin expressing emotion through texture; first author Chinese, for east-asia.",
+   "link": "",
+   "found_via": "paul-bucci",
+   "status": "open"
+  },
+  {
+   "name": "Mirjana Prpa et al. — The Pulse Breath Water System (2017)",
+   "why": "Breath-driven immersive VR; left by affect-biodata to this batch, not added (no abstract or video verified yet).",
+   "link": "https://doi.org/10.1007/978-3-319-57987-0_13",
+   "found_via": "mirjana-prpa",
+   "status": "open"
+  },
+  {
+   "name": "Sondoqah et al. — Shaping and Being Shaped by Drones (DIS 2024)",
+   "why": "Programming drones in perception-action loops; added by hook-lab as mousa-sondoqah--drone-arena.",
+   "link": "https://doi.org/10.1145/3643834.3661636",
+   "found_via": "joseph-la-delfa",
+   "status": "duplicate"
+  },
+  {
+   "name": "La Delfa et al. — Articulating Mechanical Sympathy (DIS 2024)",
+   "why": "Design-knowledge concept for somaesthetic human-machine relations; added by hook-lab as joseph-la-delfa--mechanical-sympathy.",
+   "link": "https://doi.org/10.1145/3643834.3661514",
+   "found_via": "joseph-la-delfa",
+   "status": "duplicate"
+  },
+  {
+   "name": "Guy Hoffman & Michael Suguitan — Blossom (THRI 2019)",
+   "why": "Handcrafted soft social robot with woolly exterior; felt-body angle is secondary.",
+   "link": "https://doi.org/10.1145/3310356",
+   "found_via": "paul-bucci",
+   "status": "open"
+  },
+  {
+   "name": "Temple Grandin — Hug Machine / squeeze machine",
+   "why": "Deep-pressure device designed from autistic first-person experience; for intimate-care (care / neuro-motor).",
+   "link": "https://en.wikipedia.org/wiki/Hug_machine",
+   "found_via": "alexis-block",
+   "status": "open"
+  },
+  {
+   "name": "Paul Bach-y-Rita — Vision substitution by tactile image projection (Nature 1969)",
+   "why": "Foundational sensory substitution; the body learns to 'see' through the skin; for foundations.",
+   "link": "https://doi.org/10.1038/221963a0",
+   "found_via": "matthew-botvinick",
+   "status": "open"
+  },
+  {
+   "name": "Somnox sleep robot",
+   "why": "Breathing pillow product for sleep entrainment; product with wellness framing, weak evidence.",
+   "link": "https://somnox.com",
+   "found_via": "alice-haynes",
+   "status": "off_topic"
+  },
+  {
+   "name": "Die Gute Fabrik — Johann Sebastian Joust (2011)",
+   "why": "Collective slow-movement game without screens; likely movement-art (exertion-play).",
+   "link": "",
+   "found_via": "katherine-isbister",
+   "status": "open"
+  },
+  {
+   "name": "Marco Donnarumma — Xth Sense / Corpus Nil",
+   "why": "Muscle-sound biophysical performance; for movement-art (performance).",
+   "link": "",
+   "found_via": "baptiste-caramiaux",
+   "status": "open"
+  },
+  {
+   "name": "Osimo, Slater et al. — Conversations between self and self as Sigmund Freud (Sci Rep 2015)",
+   "why": "Body-swap self-counselling in VR; care angle.",
+   "link": "https://doi.org/10.1038/srep13899",
+   "found_via": "mel-slater",
+   "status": "open"
+  },
+  {
+   "name": "Tennent et al. — The Challenge of Visual-Kinaesthetic Conflict in Virtual Reality (CHI 2020)",
+   "why": "Theory companion to VR Playground; could be a method/strong-concept entry.",
+   "link": "",
+   "found_via": "paul-tennent",
+   "status": "open"
+  }
+ ]
+}

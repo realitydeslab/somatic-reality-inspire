@@ -1,0 +1,2479 @@
+{
+ "batch": "movement-art",
+ "creators": [
+  {
+   "id": "thecla-schiphorst",
+   "name": "Thecla Schiphorst",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Media artist; Professor, School of Interactive Arts and Technology, Simon Fraser University",
+   "based": "Vancouver, CA",
+   "bio": "Canadian dancer, choreographer and media artist trained in somatics; co-designer of the choreography software Life Forms and maker of touch- and breath-based installations.",
+   "why": "She brought somatics and Shusterman's somaesthetics into HCI (soft(n), 2009) and is one of the direct sources of soma design.",
+   "disciplines": [
+    "art",
+    "hci"
+   ],
+   "links": {
+    "site": "https://www.sfu.ca/siat/people/research-faculty/thecla-schiphorst.html"
+   },
+   "role_zh": "媒体艺术家；西蒙弗雷泽大学交互艺术与技术学院教授",
+   "bio_zh": "加拿大舞者、编舞家与媒体艺术家，受过身体修习训练；编舞软件 Life Forms 的共同设计者，创作以触摸和呼吸为核心的装置。",
+   "why_zh": "她把身体修习和 Shusterman 的身体美学带进人机交互（soft(n)，2009），是身体设计的直接源头之一。",
+   "based_zh": "温哥华，加拿大",
+   "connected_to": [
+    "susan-kozel",
+    "tom-calvert",
+    "sarah-fdili-alaoui",
+    "lian-loke",
+    "merce-cunningham"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "tom-calvert",
+   "name": "Tom Calvert",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor Emeritus, School of Interactive Arts and Technology, Simon Fraser University",
+   "based": "Vancouver, CA",
+   "bio": "Computer scientist who led the SFU team that built Life Forms (later DanceForms), a figure-animation tool for choreographers.",
+   "why": "Life Forms was an early case of designing software from a choreographer's bodily way of thinking.",
+   "disciplines": [
+    "hci",
+    "engineering"
+   ],
+   "links": {},
+   "role_zh": "西蒙弗雷泽大学交互艺术与技术学院荣休教授",
+   "bio_zh": "计算机科学家，领导西蒙弗雷泽大学团队开发了面向编舞家的人体动画工具 Life Forms（后称 DanceForms）。",
+   "why_zh": "Life Forms 是较早从编舞家的身体思维方式出发设计软件的案例。",
+   "based_zh": "温哥华，加拿大",
+   "connected_to": [
+    "thecla-schiphorst",
+    "merce-cunningham"
+   ],
+   "discovered_via": "thecla-schiphorst"
+  },
+  {
+   "id": "merce-cunningham",
+   "name": "Merce Cunningham",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Choreographer (1919–2009)",
+   "based": "New York, US",
+   "bio": "American choreographer who used chance procedures, film and, from 1989, the Life Forms software to make dances.",
+   "why": "His work with Life Forms showed a choreographer thinking movement through a computer while keeping the dancer's body as the final judge.",
+   "disciplines": [
+    "dance"
+   ],
+   "links": {
+    "site": "https://www.mercecunningham.org/"
+   },
+   "role_zh": "编舞家（1919–2009）",
+   "bio_zh": "美国编舞家，使用偶然程序、影像以及自 1989 年起的 Life Forms 软件来创作舞蹈。",
+   "why_zh": "他与 Life Forms 的合作展示了编舞家借助计算机思考动作，同时让舞者的身体做最终判断。",
+   "based_zh": "纽约，美国",
+   "connected_to": [
+    "tom-calvert",
+    "thecla-schiphorst"
+   ],
+   "discovered_via": "thecla-schiphorst"
+  },
+  {
+   "id": "lian-loke",
+   "name": "Lian Loke",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Associate Professor, Design Lab, University of Sydney; performance artist",
+   "based": "Sydney, AU",
+   "bio": "Australian interaction designer and performance artist who works with Feldenkrais, Body Weather and live art to design body-focused interactions.",
+   "why": "With Toni Robertson she built the movement-based and 'making strange' design approach that soma design draws on.",
+   "disciplines": [
+    "hci",
+    "art"
+   ],
+   "links": {
+    "site": "https://www.lianloke.com/"
+   },
+   "role_zh": "悉尼大学设计实验室副教授；行为艺术家",
+   "bio_zh": "澳大利亚交互设计师与行为艺术家，以费登奎斯、Body Weather 与现场艺术为方法设计以身体为中心的交互。",
+   "why_zh": "她与 Toni Robertson 共同建立了基于动作与“陌生化”的设计方法，身体设计直接借鉴了这条路线。",
+   "based_zh": "悉尼，澳大利亚",
+   "connected_to": [
+    "toni-robertson",
+    "george-poonkhin-khut",
+    "thecla-schiphorst"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "toni-robertson",
+   "name": "Toni Robertson",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor Emerita of Interaction Design, University of Technology Sydney",
+   "based": "Sydney, AU",
+   "bio": "Australian HCI researcher on embodied action, participatory design and the lived body in design.",
+   "why": "She grounded movement-based interaction design in phenomenology of the lived body.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "悉尼科技大学交互设计荣休教授",
+   "bio_zh": "澳大利亚人机交互学者，研究具身行动、参与式设计与设计中的活的身体。",
+   "why_zh": "她把基于动作的交互设计建立在活的身体的现象学之上。",
+   "based_zh": "悉尼，澳大利亚",
+   "connected_to": [
+    "lian-loke"
+   ],
+   "discovered_via": "lian-loke"
+  },
+  {
+   "id": "sarah-fdili-alaoui",
+   "name": "Sarah Fdili Alaoui",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Dancer, choreographer and Laban Movement Analyst; Professor, Creative Computing Institute, University of the Arts London (formerly Université Paris-Saclay)",
+   "based": "London, UK / Paris, FR",
+   "bio": "Researcher-choreographer who models movement qualities with Laban Movement Analysis and makes interactive dance pieces as research.",
+   "why": "Her work treats dancers' felt movement expertise as the ground truth for movement computing.",
+   "disciplines": [
+    "dance",
+    "hci"
+   ],
+   "links": {
+    "site": "https://saralaoui.com/"
+   },
+   "role_zh": "舞者、编舞家与 Laban 动作分析师；伦敦艺术大学创意计算研究院教授（曾任职巴黎-萨克雷大学）",
+   "bio_zh": "研究者兼编舞家，用 Laban 动作分析为动作质感建模，并以互动舞蹈作品作为研究。",
+   "why_zh": "她把舞者对动作的亲身感受与专业知识当作动作计算的依据。",
+   "based_zh": "伦敦，英国 / 巴黎，法国",
+   "connected_to": [
+    "jules-francoise",
+    "frederic-bevilacqua",
+    "thecla-schiphorst"
+   ],
+   "discovered_via": "thecla-schiphorst"
+  },
+  {
+   "id": "jules-francoise",
+   "name": "Jules Françoise",
+   "name_zh": "",
+   "kind": "person",
+   "role": "CNRS researcher, LISN, Université Paris-Saclay",
+   "based": "Paris, FR",
+   "bio": "Researcher in movement sonification and interactive machine learning, formerly at IRCAM's Sound Music Movement Interaction team.",
+   "why": "He designs sound feedback that lets people hear and refine the quality of their own movement.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": "https://julesfrancoise.com/"
+   },
+   "role_zh": "法国国家科学研究中心研究员，巴黎-萨克雷大学 LISN 实验室",
+   "bio_zh": "研究动作声音化与交互式机器学习，曾在 IRCAM 声音音乐动作交互团队工作。",
+   "why_zh": "他设计的声音反馈让人能听见并调整自己动作的质感。",
+   "based_zh": "巴黎，法国",
+   "connected_to": [
+    "frederic-bevilacqua",
+    "sarah-fdili-alaoui"
+   ],
+   "discovered_via": "sarah-fdili-alaoui"
+  },
+  {
+   "id": "frederic-bevilacqua",
+   "name": "Frédéric Bevilacqua",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Head of Sound Music Movement Interaction team (ISMM), IRCAM",
+   "based": "Paris, FR",
+   "bio": "Researcher who has led IRCAM's work on gesture following, motion-sound interaction and embodied music tools since the 2000s.",
+   "why": "His team made continuous, movement-driven sound a design material for dance, music and rehabilitation.",
+   "disciplines": [
+    "hci",
+    "engineering"
+   ],
+   "links": {
+    "site": "https://ismm.ircam.fr/"
+   },
+   "role_zh": "IRCAM 声音音乐动作交互团队（ISMM）负责人",
+   "bio_zh": "自 2000 年代起领导 IRCAM 在手势跟随、动作与声音交互及具身音乐工具方面的研究。",
+   "why_zh": "他的团队把连续的、由动作驱动的声音变成舞蹈、音乐与康复的设计材料。",
+   "based_zh": "巴黎，法国",
+   "connected_to": [
+    "jules-francoise",
+    "sarah-fdili-alaoui",
+    "nicolas-rasamimanana"
+   ],
+   "discovered_via": "sarah-fdili-alaoui"
+  },
+  {
+   "id": "nicolas-rasamimanana",
+   "name": "Nicolas Rasamimanana",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher and co-founder of Phonotonic; formerly IRCAM",
+   "based": "Paris, FR",
+   "bio": "Violinist and researcher in gesture and music who led the design of IRCAM's Modular Musical Objects.",
+   "why": "MO turned everyday gestures and objects into embodied instruments.",
+   "disciplines": [
+    "engineering",
+    "dance"
+   ],
+   "links": {},
+   "role_zh": "研究者，Phonotonic 联合创始人；曾任职 IRCAM",
+   "bio_zh": "小提琴手与手势音乐研究者，主导设计了 IRCAM 的模块化音乐物件（MO）。",
+   "why_zh": "MO 把日常手势与物件变成具身乐器。",
+   "based_zh": "巴黎，法国",
+   "connected_to": [
+    "frederic-bevilacqua"
+   ],
+   "discovered_via": "frederic-bevilacqua"
+  },
+  {
+   "id": "antonio-camurri",
+   "name": "Antonio Camurri",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor, DIBRIS, University of Genoa; founder of Casa Paganini–InfoMus",
+   "based": "Genoa, IT",
+   "bio": "Italian computer scientist who built EyesWeb and has studied expressive movement qualities in dance for three decades.",
+   "why": "His lab models qualities like fluidity, lightness and fragility, the felt texture of movement, rather than only positions.",
+   "disciplines": [
+    "engineering",
+    "dance"
+   ],
+   "links": {
+    "site": "http://www.casapaganini.org/"
+   },
+   "role_zh": "热那亚大学 DIBRIS 教授；Casa Paganini–InfoMus 创始人",
+   "bio_zh": "意大利计算机科学家，开发了 EyesWeb，三十年来研究舞蹈中富有表现力的动作质感。",
+   "why_zh": "他的实验室为流畅、轻盈、脆弱等动作质感建模，也就是动作被感受到的纹理，而不只是位置。",
+   "based_zh": "热那亚，意大利",
+   "connected_to": [
+    "frederic-bevilacqua"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "william-forsythe",
+   "name": "William Forsythe",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Choreographer",
+   "based": "Frankfurt, DE / Vermont, US",
+   "bio": "American choreographer who directed Ballett Frankfurt and The Forsythe Company and developed digital tools to teach and analyse improvisation.",
+   "why": "His improvisation technologies show how dancers think with imagined lines and planes inside their bodies.",
+   "disciplines": [
+    "dance"
+   ],
+   "links": {
+    "site": "https://www.williamforsythe.com/"
+   },
+   "role_zh": "编舞家",
+   "bio_zh": "美国编舞家，曾领导法兰克福芭蕾舞团与 The Forsythe Company，开发数字工具来教授和分析即兴。",
+   "why_zh": "他的即兴技术展示了舞者如何用身体内部想象的线与面来思考。",
+   "based_zh": "法兰克福，德国 / 佛蒙特，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "wayne-mcgregor",
+   "name": "Wayne McGregor",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Choreographer; Artistic Director, Studio Wayne McGregor",
+   "based": "London, UK",
+   "bio": "British choreographer who has worked with cognitive scientists and technologists on how movement ideas are made.",
+   "why": "His research treats choreography as embodied cognition, thinking done by and through the body.",
+   "disciplines": [
+    "dance"
+   ],
+   "links": {
+    "site": "https://waynemcgregor.com/"
+   },
+   "role_zh": "编舞家；Studio Wayne McGregor 艺术总监",
+   "bio_zh": "英国编舞家，长期与认知科学家和技术人员合作，研究动作想法如何生成。",
+   "why_zh": "他的研究把编舞看作具身认知，即由身体、通过身体完成的思考。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "palindrome",
+   "name": "Palindrome (Robert Wechsler)",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Interactive dance company led by choreographer Robert Wechsler; co-developers of EyeCon and MotionComposer",
+   "based": "Weimar, DE",
+   "bio": "Founded in New York in 1982 and based in Germany since 1991, Palindrome made early dance pieces in which camera tracking, skin contact and body signals play music and light, mostly with engineer Frieder Weiss.",
+   "why": "Their work moved from stage pieces to MotionComposer, which lets people of all abilities hear their own movement.",
+   "disciplines": [
+    "dance"
+   ],
+   "links": {
+    "site": "https://www.palindrome.de",
+    "youtube": "https://www.youtube.com/@wech13"
+   },
+   "role_zh": "由编舞家 Robert Wechsler 领导的互动舞蹈团；EyeCon 与 MotionComposer 的共同开发者",
+   "bio_zh": "1982 年成立于纽约，1991 年起常驻德国。Palindrome 主要与工程师 Frieder Weiss 合作，较早创作了由摄像追踪、皮肤接触与身体信号演奏音乐和灯光的舞蹈作品。",
+   "why_zh": "他们从舞台作品走向 MotionComposer，让不同能力的人都能听见自己的动作。",
+   "based_zh": "魏玛，德国",
+   "connected_to": [
+    "chunky-move"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "mark-coniglio",
+   "name": "Mark Coniglio / Troika Ranch (with Dawn Stoppiello)",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Interactive dance-theatre company; Mark Coniglio created the Isadora media software and the MidiDancer sensor suit",
+   "based": "New York / Portland, US",
+   "bio": "Composer-programmer Mark Coniglio and choreographer Dawn Stoppiello founded Troika Ranch in 1994; their sensor suits and camera tracking let dancers shape video, sound and light.",
+   "why": "MidiDancer put joint-angle sensing on the dancer's own body, so media answered felt bending rather than an external camera.",
+   "disciplines": [
+    "dance",
+    "engineering"
+   ],
+   "links": {
+    "site": "https://troikaranch.org",
+    "youtube": "https://www.youtube.com/@troikaranch"
+   },
+   "role_zh": "交互舞蹈剧场团体；Mark Coniglio 开发了媒体软件 Isadora 和传感舞衣 MidiDancer",
+   "bio_zh": "作曲家兼程序员 Mark Coniglio 与编舞 Dawn Stoppiello 于 1994 年创立 Troika Ranch，传感舞衣与摄像追踪让舞者塑造影像、声音与灯光。",
+   "why_zh": "MidiDancer 把关节角度传感器放在舞者身上，让媒体回应身体感受到的弯曲，而不是外部摄像头。",
+   "based_zh": "纽约 / 波特兰，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "florian-mueller",
+   "name": "Florian 'Floyd' Mueller",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor and Director, Exertion Games Lab, Monash University",
+   "based": "Melbourne, AU",
+   "bio": "German-Australian designer who coined 'exertion interfaces' (2003) and leads research on bodily play and human-computer integration.",
+   "why": "He moved games from using the body as a controller to experiencing the body itself as play (Körper and Leib).",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {
+    "site": "https://exertiongameslab.org/",
+    "youtube": "https://www.youtube.com/@floydmueller"
+   },
+   "role_zh": "莫纳什大学 Exertion Games Lab 教授、主任",
+   "bio_zh": "德裔澳大利亚设计研究者，2003 年提出“运动界面”（exertion interfaces），领导身体游戏与人机融合研究。",
+   "why_zh": "他把游戏从“用身体当控制器”推进到“把身体本身体验为游戏”（Körper 与 Leib）。",
+   "based_zh": "墨尔本，澳大利亚",
+   "connected_to": [
+    "katherine-isbister",
+    "richard-byrne",
+    "josh-andres",
+    "amy-huggard",
+    "thecla-schiphorst"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "richard-byrne",
+   "name": "Richard Byrne",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, Exertion Games Lab (RMIT / Monash)",
+   "based": "Melbourne, AU",
+   "bio": "Game designer and researcher on digital vertigo play using galvanic vestibular stimulation.",
+   "why": "His vertigo games make the sense of balance, usually unnoticed, into the centre of play.",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "role_zh": "Exertion Games Lab 研究者（皇家墨尔本理工大学 / 莫纳什大学）",
+   "bio_zh": "游戏设计者与研究者，研究利用前庭电刺激的数字眩晕游戏。",
+   "why_zh": "他的眩晕游戏把平时注意不到的平衡感变成游戏的核心。",
+   "based_zh": "墨尔本，澳大利亚",
+   "connected_to": [
+    "florian-mueller"
+   ],
+   "discovered_via": "florian-mueller"
+  },
+  {
+   "id": "josh-andres",
+   "name": "Josh Andres",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher in human-computer integration; Australian National University (formerly Exertion Games Lab)",
+   "based": "Canberra, AU",
+   "bio": "Designer-researcher of integrated exertion systems such as eBikes that act with the rider.",
+   "why": "His eBikes explore what it feels like when a machine shares effort with your body.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "人机融合研究者；澳大利亚国立大学（曾在 Exertion Games Lab）",
+   "bio_zh": "研究融合式运动系统的设计研究者，例如与骑行者一起行动的电动自行车。",
+   "why_zh": "他的电动自行车探索当机器与身体分担用力时是什么感受。",
+   "based_zh": "堪培拉，澳大利亚",
+   "connected_to": [
+    "florian-mueller"
+   ],
+   "discovered_via": "florian-mueller"
+  },
+  {
+   "id": "amy-huggard",
+   "name": "Amy Huggard",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Designer; Exertion Games Lab alumna (RMIT University)",
+   "based": "Melbourne, AU",
+   "bio": "Game designer who led Musical Embrace, a game played by strangers hugging a pillow-like controller.",
+   "why": "Musical Embrace uses bodily closeness and awkwardness as design material.",
+   "disciplines": [
+    "design"
+   ],
+   "links": {},
+   "role_zh": "设计师；Exertion Games Lab 校友（皇家墨尔本理工大学）",
+   "bio_zh": "游戏设计师，主导了《Musical Embrace》，一款由陌生人拥抱枕头状控制器来玩的游戏。",
+   "why_zh": "《Musical Embrace》把身体的亲近与尴尬当作设计材料。",
+   "based_zh": "墨尔本，澳大利亚",
+   "connected_to": [
+    "florian-mueller"
+   ],
+   "discovered_via": "florian-mueller"
+  },
+  {
+   "id": "katherine-isbister",
+   "name": "Katherine Isbister",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Computational Media, University of California Santa Cruz",
+   "based": "Santa Cruz, US",
+   "bio": "Game and HCI researcher on emotion, movement and social play; co-author with Höök on affective interaction.",
+   "why": "Her movement games show that how you move changes how you feel and how you connect with others.",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "role_zh": "加州大学圣克鲁兹分校计算媒体系教授",
+   "bio_zh": "游戏与人机交互研究者，研究情绪、动作与社交游戏；曾与 Höök 合作研究情感交互。",
+   "why_zh": "她的动作游戏表明，怎么动会改变你的感受以及你与他人的联结。",
+   "based_zh": "圣克鲁兹，美国",
+   "connected_to": [
+    "florian-mueller",
+    "elena-marquez-segura"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "die-gute-fabrik",
+   "name": "Die Gute Fabrik",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Independent game studio (Douglas Wilson, Nils Deneken, Hannes Hvidberg)",
+   "based": "Copenhagen, DK",
+   "bio": "Copenhagen studio known for physical, screenless party games such as Johann Sebastian Joust.",
+   "why": "Joust made controlled, slow movement and bodily attention the core game skill.",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": "https://www.gutefabrik.com/"
+   },
+   "role_zh": "独立游戏工作室（Douglas Wilson、Nils Deneken、Hannes Hvidberg）",
+   "bio_zh": "哥本哈根的游戏工作室，以《Johann Sebastian Joust》等无屏幕的身体派对游戏闻名。",
+   "why_zh": "《Joust》让受控的慢动作与身体觉察成为核心游戏技巧。",
+   "based_zh": "哥本哈根，丹麦",
+   "connected_to": [],
+   "discovered_via": "katherine-isbister"
+  },
+  {
+   "id": "elena-marquez-segura",
+   "name": "Elena Márquez Segura",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Assistant Professor, Universidad Carlos III de Madrid (formerly Uppsala University and UC Santa Cruz)",
+   "based": "Madrid, ES",
+   "bio": "Designer-researcher of body games, embodied sketching and technology for physical training.",
+   "why": "She treats the physical and social setting, not only sensors, as material for designing felt movement experiences.",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "role_zh": "马德里卡洛斯三世大学助理教授（曾任职乌普萨拉大学与加州大学圣克鲁兹分校）",
+   "bio_zh": "研究身体游戏、具身草图与体能训练技术的设计研究者。",
+   "why_zh": "她把物理与社会情境，而不只是传感器，当作设计动作体验的材料。",
+   "based_zh": "马德里，西班牙",
+   "connected_to": [
+    "laia-turmo-vidal",
+    "katherine-isbister",
+    "jin-moen"
+   ],
+   "discovered_via": "katherine-isbister"
+  },
+  {
+   "id": "laia-turmo-vidal",
+   "name": "Laia Turmo Vidal",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, Universidad Carlos III de Madrid (PhD Uppsala University)",
+   "based": "Madrid, ES",
+   "bio": "HCI researcher on technology for movement learning, circus and fitness training.",
+   "why": "She shows how shared biofeedback can support learning between bodies, not only inside one.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "马德里卡洛斯三世大学研究者（乌普萨拉大学博士）",
+   "bio_zh": "研究动作学习、马戏与体能训练技术的人机交互学者。",
+   "why_zh": "她展示了共享的生物反馈如何支持身体之间的学习，而不只是单个身体内部的学习。",
+   "based_zh": "马德里，西班牙",
+   "connected_to": [
+    "elena-marquez-segura"
+   ],
+   "discovered_via": "elena-marquez-segura"
+  },
+  {
+   "id": "jin-moen",
+   "name": "Jin Moen",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Interaction designer; founder of Movinto Fun (Oriboo); PhD KTH",
+   "based": "Stockholm, SE",
+   "bio": "Swedish designer who developed kinaesthetic movement interaction from modern dance and built the BodyBug wearable.",
+   "why": "Her work argued early that movement interaction should start from people's own movement experience, not from sensors.",
+   "disciplines": [
+    "design",
+    "dance"
+   ],
+   "links": {},
+   "role_zh": "交互设计师；Movinto Fun（Oriboo）创始人；KTH 博士",
+   "bio_zh": "瑞典设计师，从现代舞出发发展了动觉动作交互，并制作了可穿戴设备 BodyBug。",
+   "why_zh": "她较早主张动作交互应从人自身的动作经验出发，而不是从传感器出发。",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "connected_to": [
+    "elena-marquez-segura"
+   ],
+   "discovered_via": "elena-marquez-segura"
+  },
+  {
+   "id": "perttu-hamalainen",
+   "name": "Perttu Hämäläinen",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Associate Professor, Aalto University",
+   "based": "Espoo, FI",
+   "bio": "Finnish researcher on movement games, martial-arts and acrobatics interfaces and simulated movement.",
+   "why": "Kick Ass Kung-Fu used a full-body video mirror to make martial-arts play feel physical.",
+   "disciplines": [
+    "hci",
+    "engineering"
+   ],
+   "links": {},
+   "role_zh": "阿尔托大学副教授",
+   "bio_zh": "芬兰研究者，研究动作游戏、武术与杂技界面以及动作模拟。",
+   "why_zh": "《Kick Ass Kung-Fu》用全身视频镜像让武术游戏有真实的身体感。",
+   "based_zh": "埃斯波，芬兰",
+   "connected_to": [],
+   "discovered_via": "florian-mueller"
+  },
+  {
+   "id": "danielle-wilde",
+   "name": "Danielle Wilde",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Associate Professor, Embodied Design, University of Southern Denmark",
+   "based": "Kolding, DK",
+   "bio": "Australian artist-researcher of body-worn devices, embodied ideation and more-than-human food futures.",
+   "why": "Her playful wearables invite people to move in unfamiliar ways and notice their bodies anew.",
+   "disciplines": [
+    "design",
+    "art"
+   ],
+   "links": {},
+   "role_zh": "南丹麦大学具身设计副教授",
+   "bio_zh": "澳大利亚艺术家兼研究者，研究身体穿戴装置、具身构思以及超越人类的食物未来。",
+   "why_zh": "她的趣味可穿戴设备邀请人们以陌生的方式移动，重新注意自己的身体。",
+   "based_zh": "科灵，丹麦",
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "thecla-schiphorst--bodymaps",
+   "creator_ids": [
+    "thecla-schiphorst"
+   ],
+   "title": "Bodymaps: Artifacts of Touch",
+   "year": 1996,
+   "field": "movement",
+   "sub": "somatic-art",
+   "modalities": [
+    "touch",
+    "whole-soma"
+   ],
+   "lenses": [
+    "touching-back",
+    "first-person",
+    "intercorporeality"
+   ],
+   "kind": "artwork",
+   "description": "A white velvet table shows a projected image of the artist's body; when visitors stroke, press or hover over it, the image and sound respond in ways that are hard to predict.",
+   "description_zh": "一张白色天鹅绒桌面上投影着艺术家的身体影像；观众抚摸、按压或悬手其上时，影像与声音以难以预料的方式回应。",
+   "idea_en": "Touch is a two-way, intimate act: a surface that 'wants' contact makes visitors aware of how and why they touch.",
+   "idea_zh": "触摸是双向而私密的行为：一个“渴望”被触碰的表面，让人意识到自己如何触摸、为何触摸。",
+   "method": "Fifteen electric-field sensors and eight force-sensitive resistors under the velvet sense proximity, touch and pressure and drive video and sound through a deliberately opaque rule set.",
+   "method_zh": "天鹅绒下的 15 个电场传感器与 8 个力敏电阻感知接近、触摸与压力，并通过刻意难以解读的规则驱动影像与声音。",
+   "keywords": [
+    "touch",
+    "electric field sensing",
+    "installation",
+    "velvet",
+    "SIGGRAPH"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=3DrCM8pJVYI"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/259081.259172",
+    "doi": "10.1145/259081.259172",
+    "venue": "SIGGRAPH 97 Visual Proceedings",
+    "title": "Bodymaps: artifacts of touch"
+   },
+   "exhibited": [
+    "SIGGRAPH 97 Art Gallery"
+   ]
+  },
+  {
+   "id": "thecla-schiphorst--soft-n",
+   "creator_ids": [
+    "thecla-schiphorst"
+   ],
+   "title": "soft(n)",
+   "year": 2007,
+   "field": "movement",
+   "sub": "somatic-art",
+   "modalities": [
+    "touch",
+    "vibration",
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "touching-back",
+    "attunement"
+   ],
+   "kind": "artwork",
+   "description": "A group of soft, pillow-like networked objects responds when people hold, stroke or hug them, passing touch on to each other as vibration, light and sound.",
+   "description_zh": "一组柔软、枕头般的联网物件在被抱住、抚摸或拥抱时作出回应，并以振动、光与声音把触摸传给彼此。",
+   "idea_en": "The paper that introduced Shusterman's somaesthetics to HCI: design for how touch feels, not only for what it triggers.",
+   "idea_zh": "这是把 Shusterman 的身体美学引入人机交互的论文：为触摸的感受而设计，而不只是为它触发什么而设计。",
+   "method": "Soft tangible objects with embedded touch sensing and vibration/light/sound actuators, networked so that touching one affects others; designed with V2_Lab.",
+   "method_zh": "柔软的可触物件内置触摸传感与振动、光、声音执行器，彼此联网，触碰一个会影响其他；与 V2_Lab 合作设计。",
+   "keywords": [
+    "somaesthetics",
+    "Shusterman",
+    "touch",
+    "tangible",
+    "V2_Lab",
+    "soft objects"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=fsDXBxeRoOw"
+   },
+   "images": [
+    "https://v2.nl/wp-content/uploads/2023/02/softn.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/1520340.1520345",
+    "doi": "10.1145/1520340.1520345",
+    "venue": "CHI 2009 Extended Abstracts",
+    "title": "soft(n): toward a somaesthetics of touch"
+   },
+   "source_url": "https://v2.nl/archive/works/soft-n",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": [
+    "DEAF07, Rotterdam"
+   ]
+  },
+  {
+   "id": "tom-calvert--life-forms",
+   "creator_ids": [
+    "tom-calvert",
+    "thecla-schiphorst",
+    "merce-cunningham"
+   ],
+   "title": "Life Forms",
+   "year": 1989,
+   "field": "movement",
+   "sub": "dance-tech",
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "movement-expression"
+   ],
+   "kind": "prototype",
+   "description": "A figure-animation program in which choreographers sketch and sequence body shapes on screen; Merce Cunningham used it from 1989 to compose dances such as Trackers (1991).",
+   "description_zh": "一个人体动画程序，编舞家可在屏幕上勾画身体姿态并编排顺序；Merce Cunningham 从 1989 年起用它创作了《Trackers》（1991）等舞蹈。",
+   "idea_en": "Designing for choreographers meant building around how they think movement in the body, with dancers' bodies still testing every idea.",
+   "idea_zh": "为编舞家设计，就是围绕他们在身体里思考动作的方式来构建工具，而每个想法最后仍由舞者的身体来检验。",
+   "method": "Keyframe animation of articulated human figures with a stance/body editor, timeline and spatial stage view, developed iteratively with choreographers at Simon Fraser University.",
+   "method_zh": "带有姿态编辑器、时间线与舞台空间视图的关节人体关键帧动画，在西蒙弗雷泽大学与编舞家迭代开发。",
+   "keywords": [
+    "choreography software",
+    "DanceForms",
+    "Merce Cunningham",
+    "animation",
+    "SFU"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=aKbWX-9HKeo"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/169059.169113",
+    "doi": "10.1145/169059.169113",
+    "venue": "CHI 1993",
+    "title": "The evolution of an interface for choreographers"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "lian-loke--understanding-movement",
+   "creator_ids": [
+    "lian-loke",
+    "toni-robertson"
+   ],
+   "title": "Understanding Movement for Interaction Design",
+   "year": 2007,
+   "field": "movement",
+   "sub": "movement-computing",
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "movement-expression",
+    "first-person"
+   ],
+   "kind": "paper",
+   "description": "Compares several frameworks for describing movement, from HCI models to Labanotation, by applying them to players of a camera-based body game.",
+   "description_zh": "把从人机交互模型到 Laban 舞谱的几种动作描述框架，应用到一款摄像头体感游戏的玩家身上加以比较。",
+   "idea_en": "Each framework makes a different aspect of the moving body visible; designers need dance-derived vocabularies to see movement quality.",
+   "idea_zh": "每个框架让运动身体的不同面向变得可见；设计者需要来自舞蹈的词汇才能看见动作质感。",
+   "method": "Analytic comparison of frameworks on video of EyeToy game play, with Laban-based notation of players' movements.",
+   "method_zh": "以 EyeToy 游戏过程的视频为材料比较各框架，并用 Laban 记谱记录玩家的动作。",
+   "keywords": [
+    "Labanotation",
+    "movement-based interaction",
+    "EyeToy",
+    "frameworks"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1007/s00779-006-0132-1",
+    "doi": "10.1007/s00779-006-0132-1",
+    "venue": "Personal and Ubiquitous Computing",
+    "title": "Understanding movement for interaction design: frameworks and approaches"
+   }
+  },
+  {
+   "id": "lian-loke--surging-verticality",
+   "creator_ids": [
+    "lian-loke",
+    "george-poonkhin-khut"
+   ],
+   "title": "Surging Verticality",
+   "year": 2011,
+   "field": "movement",
+   "sub": "somatic-art",
+   "also": [
+    "practices"
+   ],
+   "modalities": [
+    "posture-balance",
+    "touch",
+    "whole-soma"
+   ],
+   "lenses": [
+    "first-person",
+    "attunement",
+    "body-mind-unity"
+   ],
+   "kind": "artwork",
+   "description": "A body-focused interactive artwork in which an artist guides a visitor through touch and slow movement to sense how their skeleton holds them upright.",
+   "description_zh": "一件以身体为中心的互动艺术作品：艺术家通过触摸与缓慢动作引导观众，感受自己的骨骼如何把身体撑直。",
+   "idea_en": "Feldenkrais-style guidance shows that artist care and the visitor's receptivity are part of the interface.",
+   "idea_zh": "费登奎斯式的引导表明，艺术家的照料与观众的接受状态本身就是界面的一部分。",
+   "method": "Prototype built by applying the Feldenkrais Method to proprioception and touch, tested with audiences and reflected on by the artist-researchers.",
+   "method_zh": "把费登奎斯方法应用于本体感与触摸而构建的原型，经观众测试，并由艺术家研究者反思。",
+   "keywords": [
+    "Feldenkrais",
+    "proprioception",
+    "balance",
+    "live art",
+    "George Khut"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/1935701.1935747",
+    "doi": "10.1145/1935701.1935747",
+    "venue": "TEI 2011",
+    "title": "Surging verticality: an experience of balance"
+   },
+   "collections": [
+    "tei"
+   ]
+  },
+  {
+   "id": "lian-loke--choreographic-inscriptions",
+   "creator_ids": [
+    "lian-loke"
+   ],
+   "title": "Choreographic Inscriptions",
+   "year": 2016,
+   "field": "movement",
+   "sub": "movement-computing",
+   "modalities": [
+    "movement"
+   ],
+   "lenses": [
+    "movement-expression",
+    "body-politics"
+   ],
+   "kind": "paper",
+   "description": "A framework for noticing how devices and social norms 'choreograph' everyday movement, described in Laban Effort and Shape terms.",
+   "description_zh": "一个框架，用来察觉设备与社会规范如何“编排”日常动作，并以 Laban 的力效与形状来描述。",
+   "idea_en": "Technology quietly scripts how we move; naming those scripts in movement-quality terms lets designers choose them.",
+   "idea_zh": "技术在悄悄编写我们的动作；用动作质感的语言说出这些脚本，设计者才能有意识地选择它们。",
+   "method": "Combines actor-network inscriptions with Laban Movement Analysis, demonstrated on a case study of an affective gesture-based mobile device.",
+   "method_zh": "把行动者网络理论中的“铭写”与 Laban 动作分析结合，并以一款情感手势移动设备为案例演示。",
+   "keywords": [
+    "Laban Movement Analysis",
+    "actor-network theory",
+    "choreography",
+    "everyday movement"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.17011/ht/urn.201605192619",
+    "doi": "10.17011/ht/urn.201605192619",
+    "venue": "Human Technology",
+    "title": "Choreographic Inscriptions: A Framework for Exploring Sociomaterial Influences on Qualities of Movement for HCI"
+   }
+  },
+  {
+   "id": "sarah-fdili-alaoui--a-light-touch",
+   "creator_ids": [
+    "sarah-fdili-alaoui",
+    "frederic-bevilacqua"
+   ],
+   "title": "A Light Touch (Movement Qualities as Interaction Modality)",
+   "year": 2012,
+   "field": "movement",
+   "sub": "movement-computing",
+   "modalities": [
+    "movement",
+    "light-vision"
+   ],
+   "lenses": [
+    "movement-expression",
+    "attunement"
+   ],
+   "kind": "prototype",
+   "description": "An installation where a spot of light moves with the quality of a visitor's hand movement, how it moves, not where it goes.",
+   "description_zh": "一件装置：一个光点随观众手部动作的质感而运动，回应的是“怎么动”，而不是“动到哪里”。",
+   "idea_en": "Using movement quality, rather than trajectory, as input invites exploratory and expressive movement.",
+   "idea_zh": "以动作质感而非轨迹作为输入，会引导人更具探索性和表现力地移动。",
+   "method": "Hand motion is tracked and classified into dance-derived movement qualities that drive the behaviour of a projected light spot; evaluated in a user experiment.",
+   "method_zh": "追踪手部运动并将其归类为源自舞蹈的动作质感，用以驱动投影光点的行为；通过用户实验评估。",
+   "keywords": [
+    "movement qualities",
+    "dance",
+    "installation",
+    "light"
+   ],
+   "images": [
+    "https://saralaoui.com/wp-content/uploads/2015/03/installation.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2317956.2318071",
+    "doi": "10.1145/2317956.2318071",
+    "venue": "DIS 2012",
+    "title": "Movement qualities as interaction modality"
+   },
+   "source_url": "https://saralaoui.com/2015/03/a-light-touch/",
+   "collections": [
+    "dis"
+   ],
+   "exhibited": [
+    "DIS 2012 Art Exhibition, Newcastle"
+   ]
+  },
+  {
+   "id": "sarah-fdili-alaoui--laban-movement-qualities",
+   "creator_ids": [
+    "sarah-fdili-alaoui",
+    "jules-francoise",
+    "thecla-schiphorst"
+   ],
+   "title": "Seeing, Sensing and Recognizing Laban Movement Qualities",
+   "year": 2017,
+   "field": "movement",
+   "sub": "movement-computing",
+   "modalities": [
+    "movement",
+    "muscle",
+    "whole-soma"
+   ],
+   "lenses": [
+    "movement-expression",
+    "first-person"
+   ],
+   "kind": "paper",
+   "description": "Certified Laban Movement Analysts helped choose sensors and features so that a computer could recognise Effort qualities such as lightness, strength and sustainment.",
+   "description_zh": "认证的 Laban 动作分析师参与挑选传感器与特征，让计算机能识别轻、强、持续等力效质感。",
+   "idea_en": "Movement experts' embodied knowledge should shape what the machine measures; adding physiological signals captures qualities that position alone misses.",
+   "idea_zh": "动作专家的具身知识应当决定机器测量什么；加入生理信号能捕捉仅凭位置无法捕捉的质感。",
+   "method": "Multimodal capture (motion capture, accelerometers, EMG) with features designed with LMA experts, evaluated against expert annotations of Laban Efforts.",
+   "method_zh": "多模态采集（动作捕捉、加速度计、肌电），特征与 LMA 专家共同设计，并以专家对 Laban 力效的标注评估。",
+   "keywords": [
+    "Laban Movement Analysis",
+    "Effort",
+    "EMG",
+    "machine learning",
+    "dance"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=cafivJpiYUE"
+   },
+   "images": [
+    "https://saralaoui.com/wp-content/uploads/2015/03/dancer_sensors.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3025453.3025530",
+    "doi": "10.1145/3025453.3025530",
+    "venue": "CHI 2017",
+    "title": "Seeing, Sensing and Recognizing Laban Movement Qualities"
+   },
+   "source_url": "https://saralaoui.com/2015/03/effortmodeling/",
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "sarah-fdili-alaoui--skin",
+   "creator_ids": [
+    "sarah-fdili-alaoui"
+   ],
+   "title": "SKIN",
+   "year": 2016,
+   "field": "movement",
+   "sub": "dance-tech",
+   "modalities": [
+    "movement",
+    "muscle",
+    "voice-sound"
+   ],
+   "lenses": [
+    "first-person",
+    "movement-expression",
+    "body-mind-unity"
+   ],
+   "kind": "performance",
+   "description": "An interactive dance piece in which sensors map the dancers' inner movement and bodily sensations to sound and video on stage; its making was studied through interviews with the team and audience.",
+   "description_zh": "一部互动舞蹈作品：传感器把舞者的内在动作与身体感受映射为舞台上的声音与影像；创作过程通过对团队和观众的访谈加以研究。",
+   "idea_en": "Integrating technology into dance creates tensions; experience interviews show what 'inner movement' made audible means to dancers and audience.",
+   "idea_zh": "把技术融入舞蹈会产生张力；经验访谈揭示了让“内在动作”被听见对舞者与观众意味着什么。",
+   "method": "Research-through-practice: iterative cycles of choreography and interaction design with wearable sensing, then micro-phenomenological (explicitation) interviews.",
+   "method_zh": "以实践为研究：编舞与交互设计反复迭代，配合可穿戴传感，之后进行微观现象学（经验阐明）访谈。",
+   "keywords": [
+    "interactive dance",
+    "explicitation interview",
+    "Tamara Erde",
+    "research through practice"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=hdin4bVr5tQ"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3322276.3322289",
+    "doi": "10.1145/3322276.3322289",
+    "venue": "DIS 2019",
+    "title": "Making an Interactive Dance Piece: Tensions in Integrating Technology in Art"
+   },
+   "source_url": "https://saralaoui.com/2016/02/skin/",
+   "collections": [
+    "dis"
+   ]
+  },
+  {
+   "id": "sarah-fdili-alaoui--rco",
+   "creator_ids": [
+    "sarah-fdili-alaoui"
+   ],
+   "title": "Radical Choreographic Object [RCO]",
+   "year": 2017,
+   "field": "movement",
+   "sub": "dance-tech",
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "movement-expression",
+    "body-politics"
+   ],
+   "kind": "performance",
+   "description": "A participatory dance performance by Jean-Marc Matos and Sarah Fdili Alaoui in which audience members join dancers in scored, interactive movement.",
+   "description_zh": "Jean-Marc Matos 与 Sarah Fdili Alaoui 的参与式舞蹈表演：观众与舞者一起进入有谱的互动动作。",
+   "idea_en": "A choreographic object can be shared: the audience learns by moving, not by watching.",
+   "idea_zh": "编舞对象可以被分享：观众通过移动来理解，而不是通过观看。",
+   "method": "Performance with movement scores and interactive media, staged in community venues in the Toulouse area (2017–2018).",
+   "method_zh": "结合动作谱与互动媒体的表演，在图卢兹地区的社区场所上演（2017–2018）。",
+   "keywords": [
+    "participatory dance",
+    "Jean-Marc Matos",
+    "choreographic object"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=XkPGWT4btw4"
+   },
+   "images": [
+    "https://saralaoui.com/wp-content/uploads/2017/02/RCO-50.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3170427.3181403",
+    "doi": "10.1145/3170427.3181403",
+    "venue": "CHI 2018 Extended Abstracts (Art)",
+    "title": "Radical Choreographic Object [RCO]"
+   },
+   "source_url": "https://saralaoui.com/2017/02/rco/",
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "jules-francoise--vocalizing-dance-movement",
+   "creator_ids": [
+    "jules-francoise",
+    "sarah-fdili-alaoui",
+    "thecla-schiphorst",
+    "frederic-bevilacqua"
+   ],
+   "title": "Vocalizing Dance Movement",
+   "year": 2014,
+   "field": "movement",
+   "sub": "movement-computing",
+   "modalities": [
+    "voice-sound",
+    "movement"
+   ],
+   "lenses": [
+    "movement-expression",
+    "attunement"
+   ],
+   "kind": "prototype",
+   "description": "Dancers vocalize while moving; the system learns the link between their voice and Laban Effort qualities and then sonifies new movement so dancers can hear their own quality.",
+   "description_zh": "舞者边动边发声；系统学习嗓音与 Laban 力效质感之间的关系，再把新的动作声音化，让舞者听见自己的动作质感。",
+   "idea_en": "The voice is a bodily bridge: sounds made by movement experts let others hear and learn a movement quality from inside.",
+   "idea_zh": "嗓音是身体的桥梁：动作专家发出的声音让他人能从内部听见并学习一种动作质感。",
+   "method": "Vocalizations of movement experts recorded with motion data train a probabilistic motion-sound mapping; explored in a dance pedagogy workshop.",
+   "method_zh": "录制动作专家的发声与动作数据，训练概率式的动作—声音映射；在舞蹈教学工作坊中探索。",
+   "keywords": [
+    "sonification",
+    "Laban Effort",
+    "vocalization",
+    "interactive machine learning",
+    "IRCAM"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2598510.2598582",
+    "doi": "10.1145/2598510.2598582",
+    "venue": "DIS 2014",
+    "title": "Vocalizing dance movement for interactive sonification of laban effort factors"
+   },
+   "collections": [
+    "dis"
+   ]
+  },
+  {
+   "id": "jules-francoise--mapping-through-interaction",
+   "creator_ids": [
+    "jules-francoise",
+    "frederic-bevilacqua"
+   ],
+   "title": "Motion-Sound Mapping through Interaction",
+   "year": 2018,
+   "field": "movement",
+   "sub": "movement-computing",
+   "also": [
+    "methods"
+   ],
+   "modalities": [
+    "movement",
+    "voice-sound"
+   ],
+   "lenses": [
+    "movement-expression",
+    "first-person"
+   ],
+   "kind": "method",
+   "description": "People demonstrate a movement together with a sound they imagine for it; the system learns the relation so they can then play and feel their movement as sound.",
+   "description_zh": "人们示范一个动作，并配上他们为之想象的声音；系统学习二者的关系，之后人们就能把自己的动作当作声音来演奏和感受。",
+   "idea_en": "Mapping by demonstration lets people design body-sound feedback from their own movement sense instead of programming it.",
+   "idea_zh": "示范式映射让人们从自己的动作感出发设计身体—声音反馈，而不必编写程序。",
+   "method": "Interactive machine learning (Gaussian mixture and hidden Markov regression) trained on a few demonstrations of paired motion and sound.",
+   "method_zh": "交互式机器学习（高斯混合与隐马尔可夫回归），用少量动作与声音配对的示范来训练。",
+   "keywords": [
+    "mapping by demonstration",
+    "XMM",
+    "sonification",
+    "interactive machine learning",
+    "IRCAM"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3211826",
+    "doi": "10.1145/3211826",
+    "venue": "ACM Transactions on Interactive Intelligent Systems",
+    "title": "Motion-Sound Mapping through Interaction: An Approach to User-Centered Design of Auditory Feedback Using Machine Learning"
+   }
+  },
+  {
+   "id": "frederic-bevilacqua--gesture-follower",
+   "creator_ids": [
+    "frederic-bevilacqua"
+   ],
+   "title": "Gesture Follower",
+   "year": 2010,
+   "field": "movement",
+   "sub": "movement-computing",
+   "modalities": [
+    "movement",
+    "voice-sound"
+   ],
+   "lenses": [
+    "movement-expression"
+   ],
+   "kind": "prototype",
+   "description": "A system that learns a gesture from one example and then follows it in real time, so a sound can be stretched or compressed to the pace at which the gesture is performed.",
+   "description_zh": "一个系统从单个示例中学会一个手势，然后实时跟随它，使声音随手势的快慢被拉伸或压缩。",
+   "idea_en": "Following the continuous time of a gesture, rather than only recognising it at the end, keeps the performer's timing and feel in the sound.",
+   "idea_zh": "持续跟随手势的时间进程，而不是只在结束时识别，才能让表演者的节奏与感受留在声音里。",
+   "method": "Hidden-Markov-model-based real-time alignment of multidimensional sensor data to recorded templates, used with dancers and musicians at IRCAM.",
+   "method_zh": "基于隐马尔可夫模型，把多维传感数据与录制模板实时对齐；在 IRCAM 与舞者和音乐家一起使用。",
+   "keywords": [
+    "gesture following",
+    "HMM",
+    "IRCAM",
+    "real-time",
+    "dance",
+    "music"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=2dSU8MeJlz4"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1007/978-3-642-12553-9_7",
+    "doi": "10.1007/978-3-642-12553-9_7",
+    "venue": "Gesture in Embodied Communication and Human-Computer Interaction (LNCS)",
+    "title": "Continuous Realtime Gesture Following and Recognition"
+   },
+   "source_url": "https://ismm.ircam.fr/"
+  },
+  {
+   "id": "nicolas-rasamimanana--mo",
+   "creator_ids": [
+    "nicolas-rasamimanana",
+    "frederic-bevilacqua"
+   ],
+   "title": "MO – Modular Musical Objects",
+   "year": 2011,
+   "field": "movement",
+   "sub": "movement-computing",
+   "modalities": [
+    "movement",
+    "touch",
+    "voice-sound"
+   ],
+   "lenses": [
+    "movement-expression",
+    "pleasure-play"
+   ],
+   "kind": "prototype",
+   "description": "Small wireless motion-sensing modules that can be attached to balls, hands or everyday objects, turning shaking, tapping and throwing into music.",
+   "description_zh": "小型无线动作传感模块，可以装在球、手或日常物件上，把摇晃、敲击和抛掷变成音乐。",
+   "idea_en": "Instruments can be 'finished' by the player: the meaning of a gesture comes from how the body uses the object.",
+   "idea_zh": "乐器可以由演奏者来“完成”：手势的意义来自身体如何使用这个物件。",
+   "method": "Wireless inertial sensor modules with accessories, mapped to sound through gesture following and recognition software from IRCAM's Interlude project.",
+   "method_zh": "带配件的无线惯性传感模块，通过 IRCAM Interlude 项目的手势跟随与识别软件映射为声音。",
+   "keywords": [
+    "tangible",
+    "IRCAM",
+    "Interlude",
+    "embodied music",
+    "inertial sensors"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Uhps_U2E9OM"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/1935701.1935704",
+    "doi": "10.1145/1935701.1935704",
+    "venue": "TEI 2011",
+    "title": "Modular musical objects towards embodied control of digital music"
+   },
+   "collections": [
+    "tei"
+   ]
+  },
+  {
+   "id": "antonio-camurri--eyesweb",
+   "creator_ids": [
+    "antonio-camurri"
+   ],
+   "title": "EyesWeb",
+   "year": 2000,
+   "field": "movement",
+   "sub": "movement-computing",
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "movement-expression",
+    "affective-loop"
+   ],
+   "kind": "prototype",
+   "description": "An open software platform that extracts expressive cues from video of dancers (contraction, fluidity, impulsiveness) and maps them to music and media in real time.",
+   "description_zh": "一个开放软件平台，从舞者视频中提取表现性线索（收缩、流畅、冲动）并实时映射为音乐与媒体。",
+   "idea_en": "Expressive, emotional qualities of movement can be modelled directly, not only positions and gestures.",
+   "idea_zh": "动作中富有表现力的情感质感可以被直接建模，而不只是位置与手势。",
+   "method": "Visual-programming environment with computer-vision modules for full-body motion features (quantity of motion, contraction index), developed at InfoMus Lab, Genoa.",
+   "method_zh": "可视化编程环境，带有提取全身运动特征（运动量、收缩指数）的计算机视觉模块，由热那亚 InfoMus 实验室开发。",
+   "keywords": [
+    "EyesWeb",
+    "expressive gesture",
+    "computer vision",
+    "InfoMus",
+    "Casa Paganini"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1162/014892600559182",
+    "doi": "10.1162/014892600559182",
+    "venue": "Computer Music Journal",
+    "title": "EyesWeb: Toward Gesture and Affect Recognition in Interactive Dance and Music Systems"
+   },
+   "source_url": "http://www.casapaganini.org/"
+  },
+  {
+   "id": "antonio-camurri--dance-sonification",
+   "creator_ids": [
+    "antonio-camurri"
+   ],
+   "title": "DANCE: Sonifying Movement Qualities",
+   "year": 2016,
+   "field": "movement",
+   "sub": "movement-computing",
+   "modalities": [
+    "movement",
+    "voice-sound"
+   ],
+   "lenses": [
+    "movement-expression",
+    "attunement"
+   ],
+   "kind": "prototype",
+   "description": "Qualities such as lightness, heaviness and fragility in a dancer's movement are analysed live and turned into sound, with the aim that blind and sighted people can 'see' dance through listening.",
+   "description_zh": "舞者动作中的轻盈、沉重、脆弱等质感被实时分析并转为声音，目标是让盲人与明眼人都能通过聆听“看见”舞蹈。",
+   "idea_en": "Movement qualities can travel between senses: a felt quality in one body can be heard by another.",
+   "idea_zh": "动作质感可以在感官之间传递：一个身体感受到的质感，可以被另一个人听见。",
+   "method": "EyesWeb-based real-time analysis of motion-capture and inertial data into a multi-layered model of qualities, sonified with designed sound (EU H2020 DANCE project, with choreographer Virgilio Sieni).",
+   "method_zh": "基于 EyesWeb，把动作捕捉与惯性数据实时分析为多层次的质感模型，再以设计好的声音呈现（欧盟 H2020 DANCE 项目，与编舞 Virgilio Sieni 合作）。",
+   "keywords": [
+    "sonification",
+    "movement qualities",
+    "blindness",
+    "H2020 DANCE",
+    "Virgilio Sieni",
+    "MOCO"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=5HGSuuzbgAM"
+   },
+   "images": [
+    "http://dance.dibris.unige.it/user_files/images/DANCE_Mocap-2.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2948910.2948927",
+    "doi": "10.1145/2948910.2948927",
+    "venue": "MOCO 2016",
+    "title": "The Dancer in the Eye: Towards a Multi-Layered Computational Framework of Qualities in Movement"
+   },
+   "source_url": "http://dance.dibris.unige.it/",
+   "collections": [
+    "moco"
+   ]
+  },
+  {
+   "id": "william-forsythe--improvisation-technologies",
+   "creator_ids": [
+    "william-forsythe"
+   ],
+   "title": "Improvisation Technologies",
+   "year": 1999,
+   "field": "movement",
+   "sub": "dance-tech",
+   "also": [
+    "practices"
+   ],
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "movement-expression",
+    "body-mind-unity"
+   ],
+   "kind": "method",
+   "description": "A video lecture series in which Forsythe demonstrates his improvisation principles while graphic lines drawn over the video show the imagined points, lines and planes his body moves through.",
+   "description_zh": "一套视频讲座：Forsythe 演示他的即兴原则，叠加在画面上的图形线条显示他身体所穿过的想象中的点、线和面。",
+   "idea_en": "Dancers think with imagined geometry inside and around the body; making that inner imagery visible makes it teachable.",
+   "idea_zh": "舞者用身体内外想象的几何来思考；把这种内在意象变得可见，它就可以被教授。",
+   "method": "Digitised lecture-demonstrations with line annotations, published as a CD-ROM by ZKM Karlsruhe for training Ballett Frankfurt dancers.",
+   "method_zh": "带线条注释的数字化讲座示范，由 ZKM 卡尔斯鲁厄以 CD-ROM 出版，用于法兰克福芭蕾舞团舞者的训练。",
+   "keywords": [
+    "improvisation",
+    "ZKM",
+    "Ballett Frankfurt",
+    "CD-ROM",
+    "choreographic thinking"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ogsdGjAtyDc"
+   },
+   "images": [
+    "https://zkm.de/system/files/styles/default_metatag/private/field_media_image/2023/03/01/121656/0103_1999_William-Forsythe-Improvisation-Technologies.jpg?itok=0MhVgG1P"
+   ],
+   "source_url": "https://zkm.de/en/publication/william-forsythe-improvisation-technologies"
+  },
+  {
+   "id": "william-forsythe--synchronous-objects",
+   "creator_ids": [
+    "william-forsythe"
+   ],
+   "title": "Synchronous Objects for One Flat Thing, reproduced",
+   "year": 2009,
+   "field": "movement",
+   "sub": "dance-tech",
+   "modalities": [
+    "movement"
+   ],
+   "lenses": [
+    "movement-expression",
+    "intercorporeality"
+   ],
+   "kind": "artwork",
+   "description": "An online set of visualisations that reveal the hidden counterpoint in Forsythe's dance for 17 dancers and 20 tables: cues, alignments and timing between bodies.",
+   "description_zh": "一组在线可视化，揭示 Forsythe 为 17 名舞者与 20 张桌子创作的舞蹈中隐藏的对位：身体之间的提示、呼应与时间关系。",
+   "idea_en": "Choreography is a system of attention between dancers; data can show how bodies cue and align with each other.",
+   "idea_zh": "编舞是舞者之间的注意力系统；数据可以显示身体如何互相提示与对齐。",
+   "method": "Annotation of multi-camera video of the dance, turned into animations and interactive objects by The Forsythe Company and Ohio State University (Palazzi, Zuniga Shaw).",
+   "method_zh": "对多机位舞蹈视频进行标注，再由 The Forsythe Company 与俄亥俄州立大学（Palazzi、Zuniga Shaw）制成动画与互动对象。",
+   "keywords": [
+    "choreographic objects",
+    "visualization",
+    "Ohio State University",
+    "counterpoint"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=v2REtWg6-bo"
+   },
+   "images": [
+    "https://synchronousobjects.osu.edu/assets/img/portfolio/SO-1.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/1667265.1667306",
+    "doi": "10.1145/1667265.1667306",
+    "venue": "SIGGRAPH 2009 Art Gallery",
+    "title": "Synchronous Objects for One Flat Thing, reproduced"
+   },
+   "source_url": "https://synchronousobjects.osu.edu/",
+   "exhibited": [
+    "SIGGRAPH 2009 Art Gallery"
+   ]
+  },
+  {
+   "id": "wayne-mcgregor--choreographic-language-agent",
+   "creator_ids": [
+    "wayne-mcgregor"
+   ],
+   "title": "Choreographic Language Agent",
+   "year": 2008,
+   "field": "movement",
+   "sub": "dance-tech",
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "movement-expression"
+   ],
+   "kind": "prototype",
+   "description": "Software that generates abstract, moving visual prompts for dancers to translate into movement; its interactive form 'Becoming' was used to create the piece Atomos (2013).",
+   "description_zh": "一个软件，生成抽象、流动的视觉提示，由舞者把它转化为动作；其互动形态“Becoming”被用于创作作品《Atomos》（2013）。",
+   "idea_en": "Choreography is thinking with the body; an agent can provoke that thinking without replacing it.",
+   "idea_zh": "编舞是用身体思考；智能体可以激发这种思考，而不取代它。",
+   "method": "Rule-based and generative graphics developed with cognitive scientists and digital artists, projected in the studio as a creative partner during rehearsal.",
+   "method_zh": "与认知科学家和数字艺术家共同开发的基于规则的生成图形，在排练时投影于排练厅，作为创作伙伴。",
+   "keywords": [
+    "embodied cognition",
+    "Becoming",
+    "Atomos",
+    "Random Dance",
+    "Wellcome Collection"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=yAgDYA7tJOo"
+   },
+   "images": [
+    "https://waynemcgregor.com/assets/2Work/Atomos/_1455x825_crop_center-center_75/atomoscreation_carousel_ravideepres_CLA2_230118_161057.jpg"
+   ],
+   "source_url": "https://waynemcgregor.com/research/choreographic-language-agent",
+   "exhibited": [
+    "Thinking with the Body, Wellcome Collection 2013–14"
+   ]
+  },
+  {
+   "id": "wayne-mcgregor--aisoma",
+   "creator_ids": [
+    "wayne-mcgregor"
+   ],
+   "title": "AISOMA / Living Archive",
+   "year": 2018,
+   "field": "movement",
+   "sub": "dance-tech",
+   "also": [
+    "machines-xr"
+   ],
+   "modalities": [
+    "movement"
+   ],
+   "lenses": [
+    "movement-expression",
+    "more-than-human"
+   ],
+   "kind": "prototype",
+   "description": "A machine-learning tool trained on 25 years of McGregor's filmed choreography that proposes new movement phrases in response to a dancer's pose.",
+   "description_zh": "一个机器学习工具，以 McGregor 25 年的舞蹈影像为训练数据，根据舞者的姿态提出新的动作短句。",
+   "idea_en": "An archive of a choreographer's bodily style can become a partner that dancers answer with their own bodies.",
+   "idea_zh": "一位编舞家的身体风格档案，可以成为舞者用自己身体回应的伙伴。",
+   "method": "Pose estimation over archival video trains a sequence model that generates continuations; developed with Google Arts & Culture Lab.",
+   "method_zh": "对档案视频进行姿态估计，训练生成后续动作的序列模型；与 Google Arts & Culture Lab 合作开发。",
+   "keywords": [
+    "machine learning",
+    "archive",
+    "Google Arts & Culture",
+    "choreography"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=qshkvUOc35A"
+   },
+   "images": [
+    "https://waynemcgregor.com/assets/4Research/Living-Archive/_1455x825_crop_center-center_75/GoogleLivingArchive_carousel_GAC_2.jpg"
+   ],
+   "source_url": "https://waynemcgregor.com/research/aisoma"
+  },
+  {
+   "id": "palindrome--touching",
+   "creator_ids": [
+    "palindrome"
+   ],
+   "title": "Touching",
+   "year": 2004,
+   "field": "movement",
+   "sub": "dance-tech",
+   "also": [
+    "social"
+   ],
+   "modalities": [
+    "touch",
+    "voice-sound",
+    "movement"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "movement-expression"
+   ],
+   "kind": "performance",
+   "description": "Two dancers wrestle, lean and press their hands together, and every moment of skin-to-skin contact becomes audible: the harder or longer they touch, the more the sound changes.",
+   "description_zh": "两位舞者角力、倚靠、手掌相抵，每一次皮肤接触都变得可听：触碰越用力、越久，声音变化越大。",
+   "idea_en": "Contact between bodies, not individual gestures, becomes the instrument.",
+   "idea_zh": "身体之间的接触，而非单人的手势，成了乐器。",
+   "method": "A body-contact sensor worn by both dancers measures when and how firmly they touch and drives sound in real time (Palindrome's EyeCon-era systems, likely with Frieder Weiss).",
+   "method_zh": "两位舞者佩戴的身体接触传感器测量何时接触、接触多紧，并实时驱动声音（Palindrome 的 EyeCon 时期系统，很可能与 Frieder Weiss 合作）。",
+   "keywords": [
+    "contact",
+    "interactive dance",
+    "skin",
+    "EyeCon",
+    "sonification"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=FfjU-lbHdvo"
+   }
+  },
+  {
+   "id": "palindrome--motioncomposer",
+   "creator_ids": [
+    "palindrome"
+   ],
+   "title": "MotionComposer",
+   "year": 2016,
+   "field": "movement",
+   "sub": "dance-tech",
+   "also": [
+    "care"
+   ],
+   "modalities": [
+    "movement",
+    "voice-sound"
+   ],
+   "lenses": [
+    "care-healing",
+    "movement-expression",
+    "pleasure-play"
+   ],
+   "kind": "product",
+   "description": "A camera device that turns any movement, from a wave of the arm to a blink, into music, designed so that people with very different abilities can dance and compose together.",
+   "description_zh": "一台摄像设备，能把从挥臂到眨眼的任何动作变成音乐，专为让能力差异很大的人一起跳舞和作曲而设计。",
+   "idea_en": "When any movement can make music, people with limited mobility can feel their own movement as expressive.",
+   "idea_zh": "当任何动作都能发出音乐时，行动受限的人也能感到自己的动作是有表现力的。",
+   "method": "Stereo/depth and video tracking with sound environments tuned for small and large movements, developed with therapists and disabled users.",
+   "method_zh": "立体/深度与视频追踪，配合为细微与大幅动作调校的声音环境，与治疗师和残障使用者共同开发。",
+   "keywords": [
+    "inclusive design",
+    "disability",
+    "music therapy",
+    "camera tracking",
+    "Robert Wechsler"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=4aDj7Ma_HkE"
+   },
+   "images": [
+    "https://motioncomposer.de/wp-content/uploads/2023/06/Bild1_MotionComposer-in-Action.jpg"
+   ],
+   "source_url": "https://motioncomposer.de/"
+  },
+  {
+   "id": "mark-coniglio--in-plane",
+   "creator_ids": [
+    "mark-coniglio"
+   ],
+   "title": "In Plane (MidiDancer)",
+   "year": 1994,
+   "field": "movement",
+   "sub": "dance-tech",
+   "modalities": [
+    "movement",
+    "posture-balance"
+   ],
+   "lenses": [
+    "movement-expression"
+   ],
+   "kind": "performance",
+   "description": "A solo in which dancer Dawn Stoppiello wears the MidiDancer suit: the bending of her own elbows, knees and hips controls the video image and music around her.",
+   "description_zh": "舞者 Dawn Stoppiello 身穿 MidiDancer 舞衣的独舞：她自己肘、膝、髋的弯曲控制着周围的影像与音乐。",
+   "idea_en": "Sensing from inside the joints ties media to felt bending rather than to how the body looks from outside.",
+   "idea_zh": "从关节内部感知，让媒体与被感受到的弯曲相连，而不是与身体的外观相连。",
+   "method": "Flex sensors on the joints transmit wirelessly to a computer that maps joint angles to MIDI-controlled video and sound.",
+   "method_zh": "关节上的弯曲传感器无线传输到计算机，把关节角度映射为由 MIDI 控制的影像与声音。",
+   "keywords": [
+    "MidiDancer",
+    "wearable sensors",
+    "Troika Ranch",
+    "Dawn Stoppiello",
+    "Isadora"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=_MyT3E44KC4"
+   },
+   "source_url": "https://troikaranch.org/"
+  },
+  {
+   "id": "florian-mueller--breakout-for-two",
+   "creator_ids": [
+    "florian-mueller"
+   ],
+   "title": "Breakout for Two (Exertion Interfaces)",
+   "year": 2003,
+   "field": "movement",
+   "sub": "exertion-play",
+   "also": [
+    "social"
+   ],
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "pleasure-play",
+    "intercorporeality"
+   ],
+   "kind": "prototype",
+   "description": "Two players in different cities kick a real ball against a wall that shows the other player life-size; hitting projected blocks scores points, like tennis across a video net.",
+   "description_zh": "身处不同城市的两名玩家把真实的球踢向墙面，墙上显示着真人大小的对方；击中投影方块得分，如同隔着视频网打网球。",
+   "idea_en": "Physical effort itself creates social bonding; 'exertion interfaces' made tiring the body a design goal.",
+   "idea_zh": "身体的用力本身就能建立社交联结；“运动界面”把让身体累起来变成设计目标。",
+   "method": "Life-size videoconference projected on a wall, with sensors detecting where a real soccer ball hits; compared with a keyboard version in a study.",
+   "method_zh": "墙上投影真人大小的视频会议画面，传感器检测真实足球的击中位置；并在研究中与键盘版本比较。",
+   "keywords": [
+    "exertion interfaces",
+    "sports over a distance",
+    "MIT Media Lab",
+    "social bonding"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Z8cASgpFQgM"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/642611.642709",
+    "doi": "10.1145/642611.642709",
+    "venue": "CHI 2003",
+    "title": "Exertion interfaces: sports over a distance for social bonding and fun"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "florian-mueller--jogging-over-a-distance",
+   "creator_ids": [
+    "florian-mueller"
+   ],
+   "title": "Jogging over a Distance",
+   "year": 2007,
+   "field": "movement",
+   "sub": "exertion-play",
+   "also": [
+    "social"
+   ],
+   "modalities": [
+    "heartbeat",
+    "movement",
+    "voice-sound"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "pleasure-play",
+    "body-data"
+   ],
+   "kind": "prototype",
+   "description": "Two runners in different places talk through headsets while jogging; if one runs harder than usual relative to their heart rate, their voice seems to come from ahead, otherwise from behind.",
+   "description_zh": "身处两地的跑者边跑边通过耳机交谈；若一方相对自身心率跑得更努力，其声音就像从前方传来，否则从后方传来。",
+   "idea_en": "Mapping effort, not speed, lets people of different fitness run 'together' and feel each other's exertion.",
+   "idea_zh": "映射的是用力程度而不是速度，让体能不同的人也能“一起”跑，并感受彼此的用力。",
+   "method": "Heart-rate monitors and mobile phones compare each jogger's heart rate to a personal target and place the partner's voice in spatial audio accordingly.",
+   "method_zh": "心率监测与手机把每位跑者的心率和个人目标比较，并据此把同伴的声音放在空间音频中的相应位置。",
+   "keywords": [
+    "heart rate",
+    "spatial audio",
+    "running",
+    "social exertion",
+    "sports over a distance"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=NWJjIbWmaN4"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/1866029.1866062",
+    "doi": "10.1145/1866029.1866062",
+    "venue": "UIST 2010",
+    "title": "Jogging over a distance between Europe and Australia"
+   }
+  },
+  {
+   "id": "florian-mueller--hanging-off-a-bar",
+   "creator_ids": [
+    "florian-mueller"
+   ],
+   "title": "Hanging off a Bar",
+   "year": 2012,
+   "field": "movement",
+   "sub": "exertion-play",
+   "modalities": [
+    "muscle",
+    "posture-balance"
+   ],
+   "lenses": [
+    "pleasure-play",
+    "first-person"
+   ],
+   "kind": "prototype",
+   "description": "Players hang from an exercise bar above a projected river for as long as they can, like an action hero; the game is almost all effort and almost no movement.",
+   "description_zh": "玩家像动作片英雄一样，悬挂在投影出的河流上方的单杠上，坚持得越久越好；游戏几乎全是用力，几乎没有动作。",
+   "idea_en": "Exertion can be felt without movement: sustained effort and muscle burn are the play.",
+   "idea_zh": "用力可以在没有动作时被感受到：持续的用力与肌肉酸痛就是游戏。",
+   "method": "An exercise bar with sensing of whether the player is still hanging, with projected graphics and sound; observed at three public events.",
+   "method_zh": "单杠配备检测玩家是否仍在悬挂的传感，配合投影画面与声音；在三次公开活动中观察。",
+   "keywords": [
+    "exergame",
+    "effort",
+    "isometric",
+    "Exertion Games Lab"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=TLDEr4XO4wg"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/2212776.2212384",
+    "doi": "10.1145/2212776.2212384",
+    "venue": "CHI 2012 Extended Abstracts",
+    "title": "Hanging off a bar"
+   },
+   "source_url": "https://exertiongameslab.org/projects/hanging-off-a-bar",
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "florian-mueller--movement-based-game-guidelines",
+   "creator_ids": [
+    "florian-mueller",
+    "katherine-isbister"
+   ],
+   "title": "Movement-Based Game Guidelines",
+   "year": 2014,
+   "field": "movement",
+   "sub": "exertion-play",
+   "also": [
+    "methods"
+   ],
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "pleasure-play",
+    "movement-expression"
+   ],
+   "kind": "method",
+   "description": "Ten design guidelines for movement games, drawn from expert designers, such as 'celebrate movement articulation' and 'embrace ambiguity' in sensing.",
+   "description_zh": "从专家设计师经验中总结的十条动作游戏设计准则，例如“赞美动作的表达”“拥抱传感中的模糊性”。",
+   "idea_en": "Good movement games are designed for how movement feels and looks to others, not for sensing accuracy.",
+   "idea_zh": "好的动作游戏是为动作的感受以及它在他人眼中的样子而设计的，而不是为传感精度而设计。",
+   "method": "Guidelines derived from interviews and workshops with movement-game designers and prior work, organised by movement requirements, feedback and social aspects.",
+   "method_zh": "准则来自对动作游戏设计师的访谈、工作坊与既有研究，按动作要求、反馈与社交方面组织。",
+   "keywords": [
+    "design guidelines",
+    "movement games",
+    "exergames",
+    "Katherine Isbister"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=hQM3xg6IjD4"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/2556288.2557163",
+    "doi": "10.1145/2556288.2557163",
+    "venue": "CHI 2014",
+    "title": "Movement-based game guidelines"
+   },
+   "source_url": "https://exertiongameslab.org/projects/design-tool-movement-based-game-guidelines",
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "florian-mueller--bodily-interplay",
+   "creator_ids": [
+    "florian-mueller"
+   ],
+   "title": "Designing for Bodily Interplay in Social Exertion Games",
+   "year": 2017,
+   "field": "movement",
+   "sub": "exertion-play",
+   "also": [
+    "social"
+   ],
+   "modalities": [
+    "movement",
+    "touch",
+    "whole-soma"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "pleasure-play"
+   ],
+   "kind": "paper",
+   "description": "A design dimension for how players' bodies act on one another in exertion games, from parallel play side by side to interdependent pushing, blocking and cooperating.",
+   "description_zh": "一个设计维度，描述运动游戏中玩家身体如何相互作用：从并排的平行游戏到相互依赖的推挤、阻挡与合作。",
+   "idea_en": "Social exertion is felt between bodies; designers can tune how much bodies meet in physical and virtual space.",
+   "idea_zh": "社交性的用力发生在身体之间；设计者可以调节身体在物理与虚拟空间中相遇的程度。",
+   "method": "Conceptual framework (parallel vs. interdependent play, across physical and virtual space) derived from the lab's exertion game designs and studies.",
+   "method_zh": "概念框架（平行与相互依赖的游戏，跨越物理与虚拟空间），源自实验室的运动游戏设计与研究。",
+   "keywords": [
+    "bodily interplay",
+    "social play",
+    "exertion games",
+    "framework"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=3-BoqB6eskM"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3064938",
+    "doi": "10.1145/3064938",
+    "venue": "ACM TOCHI",
+    "title": "Designing for Bodily Interplay in Social Exertion Games"
+   }
+  },
+  {
+   "id": "florian-mueller--body-as-play",
+   "creator_ids": [
+    "florian-mueller",
+    "richard-byrne",
+    "josh-andres"
+   ],
+   "title": "Experiencing the Body as Play",
+   "year": 2018,
+   "field": "movement",
+   "sub": "exertion-play",
+   "modalities": [
+    "whole-soma",
+    "movement",
+    "posture-balance"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "pleasure-play",
+    "first-person"
+   ],
+   "kind": "paper",
+   "description": "Argues that games are moving from using the body as a controller to letting players experience their own body as the play itself, and offers design tactics for it.",
+   "description_zh": "论证游戏正从“把身体当控制器”走向“让玩家把自己的身体体验为游戏本身”，并给出相应的设计策略。",
+   "idea_en": "Designing for the Leib (the lived body) as well as the Körper (the object body) turns play into a way of feeling oneself.",
+   "idea_zh": "既为 Leib（活的身体）也为 Körper（作为物体的身体）而设计，游戏就成了感受自己的一种方式。",
+   "method": "Two phenomenological perspectives (Körper and Leib) applied to the lab's and others' bodily games to derive a suite of design tactics.",
+   "method_zh": "把 Körper 与 Leib 两种现象学视角应用于本实验室及他人的身体游戏，归纳出一套设计策略。",
+   "keywords": [
+    "Körper",
+    "Leib",
+    "phenomenology",
+    "bodily play",
+    "design tactics"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=5DK7pBNJEAE"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3173574.3173784",
+    "doi": "10.1145/3173574.3173784",
+    "venue": "CHI 2018",
+    "title": "Experiencing the Body as Play"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "richard-byrne--balance-ninja",
+   "creator_ids": [
+    "richard-byrne",
+    "florian-mueller"
+   ],
+   "title": "Balance Ninja",
+   "year": 2016,
+   "field": "movement",
+   "sub": "exertion-play",
+   "modalities": [
+    "posture-balance",
+    "pain-interoception"
+   ],
+   "lenses": [
+    "estrangement",
+    "pleasure-play",
+    "intercorporeality"
+   ],
+   "kind": "prototype",
+   "description": "Two players balance on a line while electrodes behind their ears disturb their sense of balance; each player's movements control the vertigo felt by the opponent.",
+   "description_zh": "两名玩家在一条线上保持平衡，耳后的电极扰乱他们的平衡感；一方的动作控制着对方感受到的眩晕。",
+   "idea_en": "Vertigo makes the usually invisible vestibular sense felt, and can be shaped as a playful, shared experience.",
+   "idea_zh": "眩晕让通常无形的前庭感被感受到，并且可以被塑造成有趣的共享体验。",
+   "method": "Galvanic vestibular stimulation whose strength is likely driven by the other player's tracked movement; studied with 20 players to derive vertigo-game design strategies.",
+   "method_zh": "前庭电刺激的强度很可能由另一名玩家被追踪的动作驱动；通过 20 名玩家的研究总结眩晕游戏的设计策略。",
+   "keywords": [
+    "galvanic vestibular stimulation",
+    "vertigo",
+    "balance",
+    "Exertion Games Lab"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=MfHaKFiAyOQ"
+   },
+   "images": [
+    "http://exertiongameslab.org/wp-content/uploads/2018/06/balance_ninja-300x169.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2967934.2968080",
+    "doi": "10.1145/2967934.2968080",
+    "venue": "CHI PLAY 2016",
+    "title": "Balance Ninja: Towards the Design of Digital Vertigo Games via Galvanic Vestibular Stimulation"
+   },
+   "source_url": "https://exertiongameslab.org/projects/balance-ninja"
+  },
+  {
+   "id": "josh-andres--ari-ebike",
+   "creator_ids": [
+    "josh-andres",
+    "florian-mueller"
+   ],
+   "title": "Ari, the eBike",
+   "year": 2019,
+   "field": "movement",
+   "sub": "exertion-play",
+   "also": [
+    "machines-xr"
+   ],
+   "modalities": [
+    "movement",
+    "muscle"
+   ],
+   "lenses": [
+    "more-than-human",
+    "first-person"
+   ],
+   "kind": "prototype",
+   "description": "An electric bike that knows the traffic-light timing ahead and adds or holds back motor power so rider and bike reach the green light together.",
+   "description_zh": "一辆电动自行车知道前方红绿灯的时间，通过增加或保留电机助力，让骑手与车一起赶上绿灯。",
+   "idea_en": "When a machine acts on your effort, the felt question is how to share control of your own body's work.",
+   "idea_zh": "当机器直接作用于你的用力时，感受上的问题是：如何分享对自己身体劳动的控制。",
+   "method": "An eBike augmented with traffic-light data and motor control, plus light cues, studied with riders on city routes.",
+   "method_zh": "一辆接入红绿灯数据并可控制电机的电动自行车，配合灯光提示，在城市路线上与骑手一起研究。",
+   "keywords": [
+    "eBike",
+    "human-computer integration",
+    "cycling",
+    "co-operation"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=7GCnU0QjGl8"
+   },
+   "images": [
+    "http://exertiongameslab.org/wp-content/uploads/2018/06/ava.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3322276.3322307",
+    "doi": "10.1145/3322276.3322307",
+    "venue": "DIS 2019",
+    "title": "\"Co-riding With My eBike to Get Green Lights\""
+   },
+   "source_url": "https://exertiongameslab.org/projects/ari-the-green-light-ebike",
+   "collections": [
+    "dis"
+   ]
+  },
+  {
+   "id": "amy-huggard--musical-embrace",
+   "creator_ids": [
+    "amy-huggard",
+    "florian-mueller"
+   ],
+   "title": "Musical Embrace",
+   "year": 2013,
+   "field": "movement",
+   "sub": "exertion-play",
+   "also": [
+    "social"
+   ],
+   "modalities": [
+    "touch",
+    "whole-soma"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "pleasure-play"
+   ],
+   "kind": "prototype",
+   "description": "Two strangers play a music game by hugging a large pillow-like controller between them and moving together to steer it.",
+   "description_zh": "两个陌生人把一个大枕头状控制器抱在中间，一起移动来操控它，玩一个音乐游戏。",
+   "idea_en": "Social awkwardness and close bodily contact can be a resource for play, not something to avoid.",
+   "idea_zh": "社交尴尬与亲密的身体接触可以成为游戏资源，而不是需要回避的东西。",
+   "method": "A soft controller with embedded motion sensing, observed at public events to derive strategies for 'facilitating social awkwardness'.",
+   "method_zh": "内嵌动作传感的柔软控制器，在公开活动中观察，总结出“促成社交尴尬”的设计策略。",
+   "keywords": [
+    "social awkwardness",
+    "hug",
+    "soft controller",
+    "Exertion Games Lab"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=7LmUyIqdpRo"
+   },
+   "images": [
+    "http://exertiongameslab.org/wp-content/uploads/2012/06/musical_embrace3.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2493432.2493518",
+    "doi": "10.1145/2493432.2493518",
+    "venue": "UbiComp 2013",
+    "title": "Musical embrace: facilitating engaging play experiences through social awkwardness"
+   },
+   "source_url": "https://exertiongameslab.org/projects/musical-embrace"
+  },
+  {
+   "id": "die-gute-fabrik--johann-sebastian-joust",
+   "creator_ids": [
+    "die-gute-fabrik"
+   ],
+   "title": "Johann Sebastian Joust",
+   "year": 2011,
+   "field": "movement",
+   "sub": "exertion-play",
+   "modalities": [
+    "movement",
+    "voice-sound",
+    "posture-balance"
+   ],
+   "lenses": [
+    "pleasure-play",
+    "attunement"
+   ],
+   "kind": "product",
+   "description": "A screenless game for motion controllers: players must keep their controller still while trying to jostle others'; when Bach's music slows, the controllers become more sensitive.",
+   "description_zh": "一款无屏幕的体感手柄游戏：玩家要保持自己的手柄不动，同时设法晃动别人的；当巴赫音乐放慢时，手柄变得更敏感。",
+   "idea_en": "Removing the screen turns attention back to bodies, balance and each other.",
+   "idea_zh": "去掉屏幕，注意力就回到了身体、平衡与彼此身上。",
+   "method": "PlayStation Move controllers measure acceleration against a threshold that changes with the tempo of the Brandenburg Concertos.",
+   "method_zh": "PlayStation Move 手柄测量加速度，阈值随《勃兰登堡协奏曲》的速度变化。",
+   "keywords": [
+    "no-screen game",
+    "PlayStation Move",
+    "Bach",
+    "party game",
+    "Douglas Wilson"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=c2Ei9fgFAOs"
+   },
+   "images": [
+    "http://jsjoust.com/images/jsjoust-photo04.jpg"
+   ],
+   "source_url": "https://www.gutefabrik.com/joust.html",
+   "exhibited": [
+    "IndieCade 2011 Official Selection"
+   ]
+  },
+  {
+   "id": "elena-marquez-segura--body-games",
+   "creator_ids": [
+    "elena-marquez-segura",
+    "jin-moen"
+   ],
+   "title": "The Design Space of Body Games",
+   "year": 2013,
+   "field": "movement",
+   "sub": "exertion-play",
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "pleasure-play",
+    "intercorporeality"
+   ],
+   "kind": "paper",
+   "description": "Defines body games as games whose main pleasure is bodily engagement, and shows how the physical and social setting can matter as much as the technology.",
+   "description_zh": "把“身体游戏”定义为主要乐趣来自身体投入的游戏，并说明物理与社会情境可以与技术同样重要。",
+   "idea_en": "When sensing is limited, the room, the rules and the other players carry the felt experience.",
+   "idea_zh": "当传感能力有限时，空间、规则与其他玩家承载了身体感受。",
+   "method": "Literature study plus design experiments with children playing multiplayer games on the BodyBug wearable.",
+   "method_zh": "文献研究，加上儿童使用 BodyBug 可穿戴设备玩多人游戏的设计实验。",
+   "keywords": [
+    "body games",
+    "BodyBug",
+    "children",
+    "social play",
+    "design space"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=zDlI2ZiUXF0"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/2470654.2466461",
+    "doi": "10.1145/2470654.2466461",
+    "venue": "CHI 2013",
+    "title": "The design space of body games: technological, physical, and social design"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "elena-marquez-segura--warm-up-games",
+   "creator_ids": [
+    "elena-marquez-segura",
+    "laia-turmo-vidal"
+   ],
+   "title": "Physical Warm-up Games",
+   "year": 2021,
+   "field": "movement",
+   "sub": "exertion-play",
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "pleasure-play",
+    "attunement",
+    "intercorporeality"
+   ],
+   "kind": "paper",
+   "description": "Studies warm-up games in physical education and circus training, and adds open-ended wearables to them, to show how warm-ups prepare people physically, socially and mentally.",
+   "description_zh": "研究体育课与马戏训练中的热身游戏，并为其加入开放式可穿戴设备，说明热身如何让人在身体、社交与心理上做好准备。",
+   "idea_en": "Warm-ups tune body and mind together; light, open-ended technology can support that tuning without taking over.",
+   "idea_zh": "热身同时调谐身体与心智；轻量、开放的技术可以支持这种调谐而不喧宾夺主。",
+   "method": "Collection of warm-up games from teachers online plus design interventions with wearable light/sound artefacts in a circus training course.",
+   "method_zh": "收集教师在线分享的热身游戏，并在马戏训练课中用可穿戴的光/声装置进行设计干预。",
+   "keywords": [
+    "warm-up",
+    "circus",
+    "physical education",
+    "wearables",
+    "play"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=xD9P-kBwDRk"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3411764.3445163",
+    "doi": "10.1145/3411764.3445163",
+    "venue": "CHI 2021",
+    "title": "Physical Warm-up Games: Exploring the Potential of Play and Technology Design"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "jin-moen--bodybug",
+   "creator_ids": [
+    "jin-moen"
+   ],
+   "title": "BodyBug",
+   "year": 2007,
+   "field": "movement",
+   "sub": "exertion-play",
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "movement-expression",
+    "pleasure-play"
+   ],
+   "kind": "prototype",
+   "description": "A small creature-like device that slides along a strap worn on the body and reacts to the wearer's movement, inviting full-body, dance-like play.",
+   "description_zh": "一个像小生物的设备，沿着穿戴在身上的绑带滑动，并对穿戴者的动作作出反应，邀请全身的、舞蹈般的玩耍。",
+   "idea_en": "Movement interaction should start from people's own movement experience, drawing on modern dance, rather than from sensor capabilities.",
+   "idea_zh": "动作交互应当从人们自身的动作经验出发（借鉴现代舞），而不是从传感器能力出发。",
+   "method": "Accelerometer-equipped device that climbs a wire strapped to the body, designed from movement workshops; later sold as Oriboo.",
+   "method_zh": "装有加速度计的设备沿绑在身上的线攀爬，从动作工作坊中设计而来；后来以 Oriboo 为名上市。",
+   "keywords": [
+    "BodyBug",
+    "Oriboo",
+    "kinaesthetic interaction",
+    "modern dance",
+    "wearable"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=J5PVmKfiaCY"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/1226969.1227021",
+    "doi": "10.1145/1226969.1227021",
+    "venue": "TEI 2007",
+    "title": "From hand-held to body-worn: embodied experiences of the design and use of a wearable movement-based interaction concept"
+   },
+   "collections": [
+    "tei"
+   ]
+  },
+  {
+   "id": "perttu-hamalainen--kick-ass-kung-fu",
+   "creator_ids": [
+    "perttu-hamalainen"
+   ],
+   "title": "Kick Ass Kung-Fu",
+   "year": 2004,
+   "field": "movement",
+   "sub": "exertion-play",
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "pleasure-play",
+    "movement-expression"
+   ],
+   "kind": "prototype",
+   "description": "Players fight virtual opponents with real kicks and punches, seeing their own video image on a large screen with slowed-down, exaggerated jumps.",
+   "description_zh": "玩家用真实的踢打与虚拟对手格斗，在大屏幕上看到自己的视频影像，跳跃被放慢和夸张。",
+   "idea_en": "A full-body mirror with gentle 'cheats' like slow motion lets people feel like skilled martial artists and train real moves.",
+   "idea_zh": "带有慢动作等温和“作弊”的全身镜像，让人感到自己像熟练的武术家，同时练到真实的动作。",
+   "method": "Camera-based silhouette tracking composited into a game world projected on two screens, with time-manipulation of jumps; tested with martial-arts practitioners.",
+   "method_zh": "基于摄像头的剪影追踪，把玩家合成进投影在两块屏幕上的游戏世界，并对跳跃进行时间处理；由武术练习者测试。",
+   "keywords": [
+    "martial arts",
+    "artificial reality",
+    "full-body game",
+    "video mirror"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=lhdJM9pIsvQ"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/1054972.1055081",
+    "doi": "10.1145/1054972.1055081",
+    "venue": "CHI 2005",
+    "title": "Martial arts in artificial reality"
+   },
+   "collections": [
+    "chi"
+   ],
+   "exhibited": [
+    "Pixelache 2005, Kiasma Theatre, Helsinki"
+   ]
+  },
+  {
+   "id": "danielle-wilde--hipdisk",
+   "creator_ids": [
+    "danielle-wilde"
+   ],
+   "title": "hipDisk",
+   "year": 2007,
+   "field": "movement",
+   "sub": "exertion-play",
+   "modalities": [
+    "movement",
+    "voice-sound",
+    "posture-balance"
+   ],
+   "lenses": [
+    "estrangement",
+    "pleasure-play",
+    "movement-expression"
+   ],
+   "kind": "prototype",
+   "description": "Two stiff disks worn around the hips and chest sound a note when the wearer bends their torso to bring the disks' edges together, so the body becomes a playable instrument.",
+   "description_zh": "两片硬质圆盘分别戴在髋部与胸部，穿戴者弯曲躯干使圆盘边缘相碰时会发出音符，身体成了可以演奏的乐器。",
+   "idea_en": "An awkward, funny wearable can extend how people move and make the torso's range of motion newly felt.",
+   "idea_zh": "一件别扭又好笑的可穿戴设备，可以拓展人的动作方式，让躯干的活动范围被重新感受到。",
+   "method": "Contact points around the edges of the two disks trigger tones, so each torso tilt plays a pitch; explored in performance and workshops.",
+   "method_zh": "两片圆盘边缘的接触点触发音高，每次躯干倾斜都会奏出一个音；在表演与工作坊中探索。",
+   "keywords": [
+    "wearable instrument",
+    "humour",
+    "torso",
+    "physical extension"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Htsy_ldbOag"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1386/padm.4.1.7_1",
+    "doi": "10.1386/padm.4.1.7_1",
+    "venue": "International Journal of Performance Arts and Digital Media",
+    "title": "hipDisk: Using sound to encourage physical extension, exploring humour in interface design"
+   }
+  }
+ ],
+ "leads": [
+  {
+   "name": "Loke & Robertson — Moving and Making Strange (TOCHI 2013)",
+   "why": "Canonical estrangement method for movement-based design; belongs to the methods batch.",
+   "link": "https://doi.org/10.1145/2442106.2442113",
+   "found_via": "lian-loke",
+   "status": "open"
+  },
+  {
+   "name": "Loke, Khut & Kocaballi — Bodily Experience and Imagination (DIS 2012)",
+   "why": "Body Weather-informed participatory live art with biofeedback; could be a second Loke artwork.",
+   "link": "https://doi.org/10.1145/2317956.2318073",
+   "found_via": "lian-loke",
+   "status": "open"
+  },
+  {
+   "name": "Lian Loke — Breath Temple",
+   "why": "Breath-based performance/installation listed on her art page; needs a source and year.",
+   "link": "https://www.lianloke.com/art.html",
+   "found_via": "lian-loke",
+   "status": "no_media"
+  },
+  {
+   "name": "Schiphorst — Self-evidence: applying somatic connoisseurship to experience design (CHI EA 2011)",
+   "why": "Somatic connoisseurship method; belongs to the methods batch.",
+   "link": "https://doi.org/10.1145/1979742.1979640",
+   "found_via": "thecla-schiphorst",
+   "status": "open"
+  },
+  {
+   "name": "Schiphorst — felt histories",
+   "why": "Video on her channel; details and year not verified.",
+   "link": "https://www.youtube.com/watch?v=Fcs5Ia7RZGM",
+   "found_via": "thecla-schiphorst",
+   "status": "open"
+  },
+  {
+   "name": "Fdili Alaoui et al. — Strategies for Embodied Design: observing movement (C&C 2015)",
+   "why": "Method paper on movement observation; methods batch.",
+   "link": "https://doi.org/10.1145/2757226.2757238",
+   "found_via": "sarah-fdili-alaoui",
+   "status": "open"
+  },
+  {
+   "name": "Sarah Fdili Alaoui — Chiselling Bodies / Double Skin/Double Mind",
+   "why": "Earlier interactive dance works with movement-quality visuals (CHI 2013 performance, Emio Greco|PC).",
+   "link": "https://saralaoui.com/2015/03/chiselling-bodies/",
+   "found_via": "sarah-fdili-alaoui",
+   "status": "open"
+  },
+  {
+   "name": "Allen d'Ávila Silveira, Kilic Afsar, Fdili Alaoui — Wearable Choreographer (DIS 2022)",
+   "why": "Soft robotics worn in dance practice; soma + actuation.",
+   "link": "https://doi.org/10.1145/3532106.3533499",
+   "found_via": "sarah-fdili-alaoui",
+   "status": "open"
+  },
+  {
+   "name": "Hummels, Overbeeke & Klooster — Move to get moved (PUC 2007)",
+   "why": "Early movement-based interaction design paper (Eindhoven); cut for balance.",
+   "link": "https://doi.org/10.1007/s00779-006-0135-y",
+   "found_via": "lian-loke",
+   "status": "open"
+  },
+  {
+   "name": "Larssen, Robertson & Edwards — The feel dimension of technology interaction (TEI 2007)",
+   "why": "Kinaesthetic 'feel' themes for tangible design; foundations/hci-theory candidate.",
+   "link": "https://doi.org/10.1145/1226969.1227024",
+   "found_via": "toni-robertson",
+   "status": "open"
+  },
+  {
+   "name": "Nadia Bianchi-Berthouze — Understanding the Role of Body Movement in Player Engagement (HCI 2013)",
+   "why": "Movement and engagement taxonomy; affect or movement batch.",
+   "link": "https://doi.org/10.1080/07370024.2012.688468",
+   "found_via": "katherine-isbister",
+   "status": "open"
+  },
+  {
+   "name": "Mueller et al. — Designing Sports: A Framework for Exertion Games (CHI 2011)",
+   "why": "Exertion Framework (responding, moving, sensing, relating body); cut in favour of later papers.",
+   "link": "https://doi.org/10.1145/1978942.1979330",
+   "found_via": "florian-mueller",
+   "status": "open"
+  },
+  {
+   "name": "Exertion Games Lab — The Guts Game (ingestible sensor)",
+   "why": "Interoceptive play with an ingestible temperature sensor; affect/interoception batch.",
+   "link": "https://exertiongameslab.org/projects/the-guts-game",
+   "found_via": "florian-mueller",
+   "status": "open"
+  },
+  {
+   "name": "Exertion Games Lab — Exertion Cards (design tool)",
+   "why": "Card-based design tool for exertion games; methods batch.",
+   "link": "https://exertiongameslab.org/projects/design-tools-exertion-cards",
+   "found_via": "florian-mueller",
+   "status": "open"
+  },
+  {
+   "name": "Byrne, Marshall & Mueller — Designing Digital Vertigo Experiences (TOCHI 2020)",
+   "why": "Framework paper behind Balance Ninja.",
+   "link": "https://doi.org/10.1145/3387167",
+   "found_via": "richard-byrne",
+   "status": "open"
+  },
+  {
+   "name": "Isbister et al. — Wriggle (CHI EA 2011)",
+   "why": "Movement changes emotion and social connection; video on kcisbister channel.",
+   "link": "https://www.youtube.com/watch?v=o7h1umC0o4w",
+   "found_via": "katherine-isbister",
+   "status": "open"
+  },
+  {
+   "name": "Márquez Segura et al. — Playification: the PhySeEar case (CHI PLAY 2016)",
+   "why": "Playful rehabilitation for older adults; care batch.",
+   "link": "https://doi.org/10.1145/2967934.2968099",
+   "found_via": "elena-marquez-segura",
+   "status": "open"
+  },
+  {
+   "name": "Motion Bank (The Forsythe Company, Scott deLahunta)",
+   "why": "Choreographic scores and digital documentation of dance; trailer exists.",
+   "link": "https://www.youtube.com/watch?v=p1FyO2AypmI",
+   "found_via": "william-forsythe",
+   "status": "open"
+  },
+  {
+   "name": "Paul Sermon (with Susan Kozel) — Telematic Dreaming (1992)",
+   "why": "Remote touch on a shared bed via video; social/mediated-touch batch.",
+   "link": "https://www.youtube.com/watch?v=S4Wt16PnqeY",
+   "found_via": "susan-kozel",
+   "status": "open"
+  },
+  {
+   "name": "Marina Abramović — The Abramović Method (2012)",
+   "why": "Slow walking, counting and stillness exercises for audiences; no creator-owned video found.",
+   "link": "https://en.wikipedia.org/wiki/Marina_Abramovi%C4%87",
+   "found_via": "seed",
+   "status": "no_media"
+  },
+  {
+   "name": "Anna Halprin — Planetary Dance / Parades and Changes",
+   "why": "Participatory ritual dance; practices batch owns Halprin.",
+   "link": "https://en.wikipedia.org/wiki/Anna_Halprin",
+   "found_via": "seed",
+   "status": "duplicate"
+  },
+  {
+   "name": "Atau Tanaka — BioMuse / Myogram (EMG music)",
+   "why": "Muscle-signal performance; East Asian-born creator, east-asia batch.",
+   "link": "https://en.wikipedia.org/wiki/Atau_Tanaka",
+   "found_via": "marco-donnarumma",
+   "status": "open"
+  },
+  {
+   "name": "Shusterman & Stelarc — Body Art and Somaesthetics: A Shusterman-Stelarc Dialogue (J. Somaesthetics)",
+   "why": "Direct somaesthetic reading of Stelarc; foundations batch.",
+   "link": "https://doi.org/10.54337/ojs.jos.v11i2.11256",
+   "found_via": "stelarc",
+   "status": "open"
+  },
+  {
+   "name": "Laetitia Sonami — Lady's Glove / Michel Waisvisz — The Hands",
+   "why": "NIME-canonical gestural instruments; body-felt angle to check.",
+   "link": "https://en.wikipedia.org/wiki/Laetitia_Sonami",
+   "found_via": "frederic-bevilacqua",
+   "status": "open"
+  },
+  {
+   "name": "Carl & Åsa Unander-Scharin — Opera Mecatronica (other works)",
+   "why": "Further robot/opera works beyond Robocygne and The Vocal Chorder.",
+   "link": "https://www.youtube.com/watch?v=G-wOl-E0IYQ",
+   "found_via": "asa-unander-scharin",
+   "status": "open"
+  }
+ ]
+}

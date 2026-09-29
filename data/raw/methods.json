@@ -1,0 +1,3518 @@
+{
+ "batch": "methods",
+ "creators": [
+  {
+   "id": "kristina-hook",
+   "name": "Kristina Höök",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Interaction Design, KTH Royal Institute of Technology",
+   "role_zh": "瑞典皇家理工学院（KTH）交互设计教授",
+   "based": "Stockholm, SE",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "bio": "Interaction design researcher who moved affective computing towards affective loops and then founded soma design; author of Designing with the Body (MIT Press 2018).",
+   "bio_zh": "交互设计研究者，把情感计算推向“情感回路”，随后开创了身体设计（soma design）；著有《Designing with the Body》（MIT 出版社，2018）。",
+   "why": "She defined soma design as a design program in which the designer's own trained, felt body-mind is the main instrument.",
+   "why_zh": "她把身体设计确立为一套设计纲领：设计师自己经过训练、被亲身感受的身心，是最主要的设计工具。",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {
+    "site": "https://www.kth.se/profile/khook"
+   },
+   "connected_to": [
+    "anna-stahl",
+    "vasiliki-tsaknaki",
+    "katherine-isbister",
+    "thecla-schiphorst"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "katherine-isbister",
+   "name": "Katherine Isbister",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Computational Media, University of California Santa Cruz",
+   "role_zh": "加州大学圣克鲁兹分校计算媒体教授",
+   "based": "Santa Cruz, US",
+   "based_zh": "圣克鲁兹，美国",
+   "bio": "Game and interaction designer who studies emotion, movement and social play.",
+   "bio_zh": "游戏与交互设计研究者，研究情绪、动作与社交游戏。",
+   "why": "She co-created the Sensual Evaluation Instrument, a nonverbal, body-based way to report feelings.",
+   "why_zh": "她参与创造了感官评估工具（SEI），一种用身体、非语言的方式报告感受的工具。",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {
+    "site": "https://www.katherineinterface.com"
+   },
+   "connected_to": [
+    "kristina-hook"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jonas-lowgren",
+   "name": "Jonas Löwgren",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Interaction and Information Design, Linköping University",
+   "role_zh": "林雪平大学交互与信息设计教授",
+   "based": "Norrköping, SE",
+   "based_zh": "诺尔雪平，瑞典",
+   "bio": "Interaction design researcher known for work on design knowledge and interaction aesthetics.",
+   "bio_zh": "交互设计研究者，以设计知识与交互美学研究著称。",
+   "why": "With Höök he framed 'strong concepts', the intermediate-level knowledge that soma design uses to share what it learns.",
+   "why_zh": "他与 Höök 提出“强概念”，身体设计借这种中间层知识分享它的发现。",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "connected_to": [
+    "kristina-hook"
+   ],
+   "discovered_via": "kristina-hook"
+  },
+  {
+   "id": "andres-lucero",
+   "name": "Andrés Lucero",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Interaction Design, Aalto University",
+   "role_zh": "阿尔托大学交互设计教授",
+   "based": "Espoo, FI",
+   "based_zh": "埃斯波，芬兰",
+   "bio": "Interaction design researcher working on participatory, playful and first-person design methods.",
+   "bio_zh": "交互设计研究者，研究参与式、游戏化与第一人称的设计方法。",
+   "why": "He gathered HCI's first-person methods under one banner with 'A Sample of One'.",
+   "why_zh": "他以“A Sample of One”把人机交互中的第一人称方法汇聚到一起。",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "connected_to": [
+    "audrey-desjardins",
+    "carman-neustaedter",
+    "kristina-hook"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "audrey-desjardins",
+   "name": "Audrey Desjardins",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Associate Professor, School of Art + Art History + Design, University of Washington",
+   "role_zh": "华盛顿大学艺术、艺术史与设计学院副教授",
+   "based": "Seattle, US",
+   "based_zh": "西雅图，美国",
+   "bio": "Design researcher who works through autobiographical design and living with prototypes at home.",
+   "bio_zh": "设计研究者，通过自传式设计和在家中与原型共同生活来做研究。",
+   "why": "Her work spells out what it takes for designers to use their own lived experience as research data.",
+   "why_zh": "她的研究讲清楚了设计师把自己的生活经验当作研究数据需要什么。",
+   "disciplines": [
+    "design",
+    "hci"
+   ],
+   "links": {
+    "site": "https://desjardins.design"
+   },
+   "connected_to": [
+    "andres-lucero"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "carman-neustaedter",
+   "name": "Carman Neustaedter",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor, School of Interactive Arts and Technology, Simon Fraser University",
+   "role_zh": "西蒙菲莎大学交互艺术与技术学院教授",
+   "based": "Vancouver, CA",
+   "based_zh": "温哥华，加拿大",
+   "bio": "HCI researcher on domestic and family technologies and telepresence.",
+   "bio_zh": "人机交互研究者，研究家庭与亲人之间的技术以及远程临场。",
+   "why": "With Phoebe Sengers he named autobiographical design as a legitimate HCI research method.",
+   "why_zh": "他与 Phoebe Sengers 一起把自传式设计确立为正当的人机交互研究方法。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "phoebe-sengers",
+    "andres-lucero"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "phoebe-sengers",
+   "name": "Phoebe Sengers",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Information Science and Science & Technology Studies, Cornell University",
+   "role_zh": "康奈尔大学信息科学与科学技术研究教授",
+   "based": "Ithaca, US",
+   "based_zh": "伊萨卡，美国",
+   "bio": "Critical technical practitioner who brought reflective design and defamiliarization into HCI.",
+   "bio_zh": "批判性技术实践者，把反思性设计与陌生化引入人机交互。",
+   "why": "Her 'making strange' and reflective design work gave soma design its first HCI vocabulary for estrangement.",
+   "why_zh": "她的“陌生化”与反思性设计研究，为身体设计提供了最早的人机交互陌生化语汇。",
+   "disciplines": [
+    "hci",
+    "philosophy"
+   ],
+   "links": {},
+   "connected_to": [
+    "genevieve-bell",
+    "carman-neustaedter"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "genevieve-bell",
+   "name": "Genevieve Bell",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Anthropologist; former Intel Fellow and Director of the School of Cybernetics, Australian National University",
+   "role_zh": "人类学家；前英特尔院士，澳大利亚国立大学控制论学院前院长",
+   "based": "Canberra, AU",
+   "based_zh": "堪培拉，澳大利亚",
+   "bio": "Cultural anthropologist who studied technology in everyday life across cultures.",
+   "bio_zh": "文化人类学家，研究不同文化日常生活中的技术。",
+   "why": "She co-wrote 'Making by making strange', which taught HCI to defamiliarize the ordinary.",
+   "why_zh": "她是《Making by making strange》的第一作者，这篇论文教会人机交互把平常之物陌生化。",
+   "disciplines": [
+    "hci",
+    "philosophy"
+   ],
+   "links": {},
+   "connected_to": [
+    "phoebe-sengers"
+   ],
+   "discovered_via": "phoebe-sengers"
+  },
+  {
+   "id": "dag-svanaes",
+   "name": "Dag Svanæs",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Interaction Design, Norwegian University of Science and Technology (NTNU)",
+   "role_zh": "挪威科技大学（NTNU）交互设计教授",
+   "based": "Trondheim, NO",
+   "based_zh": "特隆赫姆，挪威",
+   "bio": "HCI researcher who brought Merleau-Ponty's phenomenology of the lived body into interaction design.",
+   "bio_zh": "人机交互研究者，把 Merleau-Ponty 关于活的身体的现象学带入交互设计。",
+   "why": "He shows how designers can use their own bodies, in different points of view and tenses, as a design resource.",
+   "why_zh": "他展示了设计师如何以不同视角和时态，把自己的身体当作设计资源。",
+   "disciplines": [
+    "hci",
+    "philosophy"
+   ],
+   "links": {},
+   "connected_to": [
+    "kristina-hook"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "anna-stahl",
+   "name": "Anna Ståhl",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Senior Researcher, RISE Research Institutes of Sweden",
+   "role_zh": "瑞典研究院（RISE）高级研究员",
+   "based": "Stockholm, SE",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "bio": "Interaction designer in Höök's group who co-designed the Soma Mat, Breathing Light and many soma design workshops.",
+   "bio_zh": "Höök 团队的交互设计师，参与设计了 Soma Mat、Breathing Light 与许多身体设计工作坊。",
+   "why": "She articulates how soma designers sketch with their own bodies and what counts as rigour in doing so.",
+   "why_zh": "她阐明了身体设计师如何用自己的身体画草图，以及这样做时何为严谨。",
+   "disciplines": [
+    "design",
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "kristina-hook",
+    "madeline-balaam",
+    "vasiliki-tsaknaki"
+   ],
+   "discovered_via": "kristina-hook"
+  },
+  {
+   "id": "vasiliki-tsaknaki",
+   "name": "Vasiliki Tsaknaki",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Associate Professor, IT University of Copenhagen",
+   "role_zh": "哥本哈根信息技术大学副教授",
+   "based": "Copenhagen, DK",
+   "based_zh": "哥本哈根，丹麦",
+   "bio": "Interaction design researcher working on biodata, somaesthetics, crafting and more-than-human bodies.",
+   "bio_zh": "交互设计研究者，关注生物数据、身体美学、手工制作与超越人类的身体。",
+   "why": "She helped turn soma design into a teachable practice and biodata into felt 'somadata'.",
+   "why_zh": "她帮助把身体设计变成可以教授的实践，也把生物数据变成可被感受的“身体数据（somadata）”。",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "connected_to": [
+    "kristina-hook",
+    "madeline-balaam",
+    "anna-stahl"
+   ],
+   "discovered_via": "kristina-hook"
+  },
+  {
+   "id": "madeline-balaam",
+   "name": "Madeline Balaam",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Interaction Design, KTH Royal Institute of Technology",
+   "role_zh": "瑞典皇家理工学院（KTH）交互设计教授",
+   "based": "Stockholm, SE",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "bio": "Feminist HCI researcher working on women's health, intimate care and soma design.",
+   "bio_zh": "女性主义人机交互研究者，研究女性健康、亲密照护与身体设计。",
+   "why": "She brings feminist and intimate-care concerns into soma design methods and teaching.",
+   "why_zh": "她把女性主义与亲密照护的关切带入身体设计的方法与教学。",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "connected_to": [
+    "kristina-hook",
+    "anna-stahl"
+   ],
+   "discovered_via": "kristina-hook"
+  },
+  {
+   "id": "kristina-mah",
+   "name": "Kristina Mah",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Design researcher, The University of Sydney",
+   "role_zh": "悉尼大学设计研究者",
+   "based": "Sydney, AU",
+   "based_zh": "悉尼，澳大利亚",
+   "bio": "Design researcher who studies contemplative and compassion practices as a way to train designers' self-observation.",
+   "bio_zh": "设计研究者，研究如何以冥想与慈悲修习训练设计师的自我观察。",
+   "why": "She shows how contemplative training can make first-person soma design research more careful.",
+   "why_zh": "她展示了冥想训练如何让第一人称的身体设计研究更细致可靠。",
+   "disciplines": [
+    "design",
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "lian-loke"
+   ],
+   "discovered_via": "lian-loke"
+  },
+  {
+   "id": "lian-loke",
+   "name": "Lian Loke",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Associate Professor, Design Lab, The University of Sydney",
+   "role_zh": "悉尼大学设计实验室副教授",
+   "based": "Sydney, AU",
+   "based_zh": "悉尼，澳大利亚",
+   "bio": "Interaction designer and performance-maker who works with the moving, feeling body in design.",
+   "bio_zh": "交互设计师与表演创作者，在设计中与运动、感受着的身体一起工作。",
+   "why": "Her 'Moving and Making Strange' gave movement-based and soma design a practical method for estrangement.",
+   "why_zh": "她的“Moving and Making Strange”为基于动作的设计与身体设计提供了一套可操作的陌生化方法。",
+   "disciplines": [
+    "hci",
+    "dance"
+   ],
+   "links": {
+    "site": "https://www.lianloke.com"
+   },
+   "connected_to": [
+    "toni-robertson",
+    "thecla-schiphorst",
+    "claudia-nunez-pacheco"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "toni-robertson",
+   "name": "Toni Robertson",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Emeritus Professor of Interaction Design, University of Technology Sydney",
+   "role_zh": "悉尼科技大学交互设计荣休教授",
+   "based": "Sydney, AU",
+   "based_zh": "悉尼，澳大利亚",
+   "bio": "Participatory design and CSCW researcher who grounded interaction design in embodied, phenomenological accounts of work and movement.",
+   "bio_zh": "参与式设计与协同工作研究者，以具身的、现象学的方式理解工作与动作。",
+   "why": "She co-developed the Moving and Making Strange method and the 'feel dimension' of interaction.",
+   "why_zh": "她共同发展了“Moving and Making Strange”方法和交互的“感觉维度”。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "lian-loke",
+    "astrid-twenebowa-larssen"
+   ],
+   "discovered_via": "lian-loke"
+  },
+  {
+   "id": "susan-kozel",
+   "name": "Susan Kozel",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor, School of Arts and Communication, Malmö University",
+   "role_zh": "马尔默大学艺术与传播学院教授",
+   "based": "Malmö, SE",
+   "based_zh": "马尔默，瑞典",
+   "bio": "Dancer, philosopher and media artist who developed a phenomenological, performative research method for technology.",
+   "bio_zh": "舞者、哲学家与媒体艺术家，发展出一种面向技术的现象学、表演式研究方法。",
+   "why": "Her book Closer models how to research technology from inside one's own dancing body.",
+   "why_zh": "她的著作《Closer》示范了如何从自己跳舞的身体内部去研究技术。",
+   "disciplines": [
+    "dance",
+    "philosophy"
+   ],
+   "links": {},
+   "connected_to": [
+    "lone-koefoed-hansen",
+    "sarah-homewood"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "lone-koefoed-hansen",
+   "name": "Lone Koefoed Hansen",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Associate Professor of Digital Design, Aarhus University",
+   "role_zh": "奥胡斯大学数字设计副教授",
+   "based": "Aarhus, DK",
+   "based_zh": "奥胡斯，丹麦",
+   "bio": "Digital design researcher working on aesthetics, critique and embodied experience with technology.",
+   "bio_zh": "数字设计研究者，关注美学、批判与技术中的具身经验。",
+   "why": "With Susan Kozel she devised 'embodied imagination', a method that mixes improvisation and design for intimacy.",
+   "why_zh": "她与 Susan Kozel 提出“具身想象”，把即兴与为亲密而做的设计结合起来。",
+   "disciplines": [
+    "design",
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "susan-kozel"
+   ],
+   "discovered_via": "susan-kozel"
+  },
+  {
+   "id": "danielle-wilde",
+   "name": "Danielle Wilde",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Embodied Design, Umeå Institute of Design / University of Southern Denmark",
+   "role_zh": "具身设计教授，于默奥设计学院 / 南丹麦大学",
+   "based": "Umeå, SE",
+   "based_zh": "于默奥，瑞典",
+   "bio": "Designer and researcher working with the body, performance, wearables and participatory futures.",
+   "bio_zh": "设计师与研究者，与身体、表演、可穿戴物和参与式未来一起工作。",
+   "why": "Her work analyses how estrangement in embodied ideation opens new design possibilities.",
+   "why_zh": "她的研究剖析了具身构思中的陌生化如何打开新的设计可能。",
+   "disciplines": [
+    "design",
+    "art"
+   ],
+   "links": {},
+   "connected_to": [
+    "oscar-tomico"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "oscar-tomico",
+   "name": "Oscar Tomico",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Associate Professor, Eindhoven University of Technology; Elisava Barcelona",
+   "role_zh": "埃因霍温理工大学副教授；巴塞罗那 Elisava 设计学院",
+   "based": "Barcelona, ES",
+   "based_zh": "巴塞罗那，西班牙",
+   "bio": "Design researcher on soft wearables, first-person and embodied design research.",
+   "bio_zh": "设计研究者，研究柔性可穿戴、第一人称与具身设计研究。",
+   "why": "He co-shaped first-person and embodied ideation methods in wearables design.",
+   "why_zh": "他参与塑造了可穿戴设计中的第一人称与具身构思方法。",
+   "disciplines": [
+    "design"
+   ],
+   "links": {},
+   "connected_to": [
+    "danielle-wilde"
+   ],
+   "discovered_via": "danielle-wilde"
+  },
+  {
+   "id": "thecla-schiphorst",
+   "name": "Thecla Schiphorst",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor, School of Interactive Arts and Technology, Simon Fraser University",
+   "role_zh": "西蒙菲莎大学交互艺术与技术学院教授",
+   "based": "Vancouver, CA",
+   "based_zh": "温哥华，加拿大",
+   "bio": "Media artist, dancer and Certified Laban Movement Analyst who brought somatics into HCI.",
+   "bio_zh": "媒体艺术家、舞者与认证 Laban 动作分析师，把身心学（somatics）带入人机交互。",
+   "why": "Her idea of somatic connoisseurship treats the trained felt sense as a valid basis for experience design.",
+   "why_zh": "她提出的“身体鉴赏力”，把经过训练的身体感受当作体验设计的正当依据。",
+   "disciplines": [
+    "art",
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "lian-loke",
+    "kristina-hook",
+    "sarah-fdili-alaoui"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jules-francoise",
+   "name": "Jules Françoise",
+   "name_zh": "",
+   "kind": "person",
+   "role": "CNRS researcher, LISN, Université Paris-Saclay",
+   "role_zh": "法国国家科学研究中心研究员，巴黎萨克雷大学 LISN 实验室",
+   "based": "Paris, FR",
+   "based_zh": "巴黎，法国",
+   "bio": "Researcher in movement-sound interaction and interactive machine learning.",
+   "bio_zh": "研究动作—声音交互与交互式机器学习。",
+   "why": "He studies how interactive sound can deepen kinaesthetic awareness, and how to ask people about it.",
+   "why_zh": "他研究互动声音如何加深动觉觉察，以及如何询问人们的这种体验。",
+   "disciplines": [
+    "hci",
+    "dance"
+   ],
+   "links": {},
+   "connected_to": [
+    "yves-candau",
+    "sarah-fdili-alaoui",
+    "thecla-schiphorst"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "yves-candau",
+   "name": "Yves Candau",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher and somatic movement practitioner, Simon Fraser University",
+   "role_zh": "西蒙菲莎大学研究者、身体动作修习者",
+   "based": "Vancouver, CA",
+   "based_zh": "温哥华，加拿大",
+   "bio": "Movement practitioner and researcher who connects somatic practices, embodied cognition and interaction design.",
+   "bio_zh": "动作修习者与研究者，连接身体修习、具身认知与交互设计。",
+   "why": "He brings somatic practitioners' ways of attending into interactive system design.",
+   "why_zh": "他把身体修习者的觉察方式带进交互系统设计。",
+   "disciplines": [
+    "somatics",
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "jules-francoise",
+    "thecla-schiphorst"
+   ],
+   "discovered_via": "thecla-schiphorst"
+  },
+  {
+   "id": "sarah-fdili-alaoui",
+   "name": "Sarah Fdili Alaoui",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Art, Science and Technology, Université Paris-Saclay; choreographer",
+   "role_zh": "巴黎萨克雷大学艺术、科学与技术教授；编舞家",
+   "based": "Paris, FR",
+   "based_zh": "巴黎，法国",
+   "bio": "Dancer, Laban Movement Analyst and HCI researcher working on movement qualities and dance with technology.",
+   "bio_zh": "舞者、Laban 动作分析师与人机交互研究者，研究动作质感与舞蹈中的技术。",
+   "why": "She bridges dance knowledge and design research on the felt quality of movement.",
+   "why_zh": "她在舞蹈知识与关于动作感受质感的设计研究之间架桥。",
+   "disciplines": [
+    "dance",
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "thecla-schiphorst",
+    "jules-francoise"
+   ],
+   "discovered_via": "thecla-schiphorst"
+  },
+  {
+   "id": "antti-oulasvirta",
+   "name": "Antti Oulasvirta",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Computer Science, Aalto University",
+   "role_zh": "阿尔托大学计算机科学教授",
+   "based": "Espoo, FI",
+   "based_zh": "埃斯波，芬兰",
+   "bio": "HCI researcher, early on in mobile and contextual design, later in computational models of interaction.",
+   "bio_zh": "人机交互研究者，早期研究移动与情境设计，后来研究交互的计算模型。",
+   "why": "His bodystorming case studies established designing by physically being in the situation.",
+   "why_zh": "他的身体风暴案例研究确立了“亲身置身情境中”做设计的方法。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "dennis-schleicher",
+   "name": "Dennis Schleicher",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Design researcher and consultant; OCAD University Strategic Foresight and Innovation alumnus",
+   "role_zh": "设计研究者与顾问；OCAD 大学战略预见与创新项目校友",
+   "based": "Toronto, CA",
+   "based_zh": "多伦多，加拿大",
+   "bio": "Design researcher who wrote on bodystorming as a form of embodied designing.",
+   "bio_zh": "设计研究者，撰文把身体风暴阐述为一种具身的设计方式。",
+   "why": "He reframed bodystorming from role-play to embodied thinking.",
+   "why_zh": "他把身体风暴从角色扮演重新理解为用身体思考。",
+   "disciplines": [
+    "design"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "marion-buchenau",
+   "name": "Marion Buchenau",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Designer, formerly IDEO",
+   "role_zh": "设计师，曾任职 IDEO",
+   "based": "Palo Alto, US",
+   "based_zh": "帕洛阿尔托，美国",
+   "bio": "Interaction designer who, with Jane Fulton Suri, described experience prototyping at IDEO.",
+   "bio_zh": "交互设计师，与 Jane Fulton Suri 一起在 IDEO 阐述了体验原型方法。",
+   "why": "Experience prototyping made 'feel it yourself' a standard step in design practice.",
+   "why_zh": "体验原型让“亲身去感受”成为设计实践中的常规步骤。",
+   "disciplines": [
+    "design"
+   ],
+   "links": {},
+   "connected_to": [
+    "jane-fulton-suri"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jane-fulton-suri",
+   "name": "Jane Fulton Suri",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Partner Emeritus and Chief Creative Officer, IDEO",
+   "role_zh": "IDEO 荣誉合伙人、前首席创意官",
+   "based": "San Francisco, US",
+   "based_zh": "旧金山，美国",
+   "bio": "Psychologist and designer who shaped human-centred design research at IDEO.",
+   "bio_zh": "心理学家与设计师，塑造了 IDEO 以人为本的设计研究。",
+   "why": "She championed learning through bodily, first-hand experience of prototypes.",
+   "why_zh": "她倡导通过亲身、身体性地体验原型来学习。",
+   "disciplines": [
+    "design",
+    "health"
+   ],
+   "links": {},
+   "connected_to": [
+    "marion-buchenau"
+   ],
+   "discovered_via": "marion-buchenau"
+  },
+  {
+   "id": "elena-marquez-segura",
+   "name": "Elena Márquez Segura",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Associate Professor, Universidad Carlos III de Madrid",
+   "role_zh": "马德里卡洛斯三世大学副教授",
+   "based": "Madrid, ES",
+   "based_zh": "马德里，西班牙",
+   "bio": "Interaction designer working on embodied and social play, movement and physical training.",
+   "bio_zh": "交互设计师，研究具身与社交游戏、动作与身体训练。",
+   "why": "She developed embodied sketching, which puts moving bodies and play at the start of design.",
+   "why_zh": "她发展了具身草图法，把运动的身体与游戏放在设计的起点。",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "connected_to": [
+    "laia-turmo-vidal",
+    "katherine-isbister",
+    "kristina-hook"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "laia-turmo-vidal",
+   "name": "Laia Turmo Vidal",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, Universidad Carlos III de Madrid / KTH",
+   "role_zh": "马德里卡洛斯三世大学 / 瑞典皇家理工学院研究者",
+   "based": "Madrid, ES",
+   "based_zh": "马德里，西班牙",
+   "bio": "Interaction designer researching technology for physical training, movement learning and embodied design methods.",
+   "bio_zh": "交互设计师，研究身体训练技术、动作学习与具身设计方法。",
+   "why": "She develops methods and strong concepts for designing with trainers' and trainees' felt bodies.",
+   "why_zh": "她为“以教练与学员的身体感受来设计”发展方法与强概念。",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {
+    "site": "https://www.laiaturmovidal.com"
+   },
+   "connected_to": [
+    "elena-marquez-segura"
+   ],
+   "discovered_via": "elena-marquez-segura"
+  },
+  {
+   "id": "caroline-hummels",
+   "name": "Caroline Hummels",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Design and Theory for Transforming Practices, Eindhoven University of Technology",
+   "role_zh": "埃因霍温理工大学“面向变革实践的设计与理论”教授",
+   "based": "Eindhoven, NL",
+   "based_zh": "埃因霍温，荷兰",
+   "bio": "Design researcher on embodied, movement-based interaction and embodied sensemaking.",
+   "bio_zh": "设计研究者，研究具身的、基于动作的交互与具身意义建构。",
+   "why": "Her 'move to get moved' stance insists that designers must move their own bodies to design for movement.",
+   "why_zh": "她的“动起来才能被打动”主张：为动作而设计，设计师自己必须动起来。",
+   "disciplines": [
+    "design"
+   ],
+   "links": {},
+   "connected_to": [
+    "kristina-hook"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "charles-windlin",
+   "name": "Charles Windlin",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, KTH Royal Institute of Technology",
+   "role_zh": "瑞典皇家理工学院研究者",
+   "based": "Stockholm, SE",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "bio": "Designer-engineer in Höök's group who built the Soma Bits toolkit.",
+   "bio_zh": "Höök 团队的设计工程师，打造了 Soma Bits 工具包。",
+   "why": "He made soma design's materials — heat, vibration, shape-change — available as a hands-on toolkit.",
+   "why_zh": "他把身体设计的材料——热、振动、形变——做成可上手的工具包。",
+   "disciplines": [
+    "engineering",
+    "design"
+   ],
+   "links": {},
+   "connected_to": [
+    "kristina-hook"
+   ],
+   "discovered_via": "kristina-hook"
+  },
+  {
+   "id": "miquel-alfaras",
+   "name": "Miquel Alfaras",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, Universitat Jaume I / KTH",
+   "role_zh": "海梅一世大学 / 瑞典皇家理工学院研究者",
+   "based": "Castellón, ES",
+   "based_zh": "卡斯特利翁，西班牙",
+   "bio": "Engineer and researcher on biosignal acquisition and its use as design material.",
+   "bio_zh": "工程师与研究者，研究生物信号采集及其作为设计材料的用途。",
+   "why": "He framed the turn from biodata to somadata: biosignals felt on the body rather than read on a screen.",
+   "why_zh": "他提出从生物数据到身体数据的转向：生物信号应在身体上被感受，而不是在屏幕上被读取。",
+   "disciplines": [
+    "engineering",
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "kristina-hook",
+    "vasiliki-tsaknaki"
+   ],
+   "discovered_via": "kristina-hook"
+  },
+  {
+   "id": "claudia-nunez-pacheco",
+   "name": "Claudia Núñez-Pacheco",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Design researcher, Malmö University (previously KTH and The University of Sydney)",
+   "role_zh": "马尔默大学设计研究者（曾任职 KTH 与悉尼大学）",
+   "based": "Malmö, SE",
+   "based_zh": "马尔默，瑞典",
+   "bio": "Interaction design researcher working with somaesthetics, Focusing, micro-phenomenology and first-person methods.",
+   "bio_zh": "交互设计研究者，研究身体美学、Focusing（体会聚焦）、微观现象学与第一人称方法。",
+   "why": "She adapted Gendlin's Focusing into an introspective somatic method for designers.",
+   "why_zh": "她把 Gendlin 的 Focusing 改造为设计师可用的内省式身体方法。",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "connected_to": [
+    "lian-loke",
+    "kristina-hook"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "paul-tennent",
+   "name": "Paul Tennent",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Associate Professor, Mixed Reality Lab, University of Nottingham",
+   "role_zh": "诺丁汉大学混合现实实验室副教授",
+   "based": "Nottingham, UK",
+   "based_zh": "诺丁汉，英国",
+   "bio": "HCI researcher on amusement rides, bodily experience and biosensing in extreme experiences.",
+   "bio_zh": "人机交互研究者，研究游乐设施、身体经验以及极端体验中的生物传感。",
+   "why": "He led the soma trajectories method for articulating how a felt experience unfolds over time.",
+   "why_zh": "他主导了“身体轨迹”方法，用来说出一段被感受的经验如何随时间展开。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "steve-benford",
+    "kristina-hook"
+   ],
+   "discovered_via": "kristina-hook"
+  },
+  {
+   "id": "steve-benford",
+   "name": "Steve Benford",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Collaborative Computing, Mixed Reality Lab, University of Nottingham",
+   "role_zh": "诺丁汉大学混合现实实验室协作计算教授",
+   "based": "Nottingham, UK",
+   "based_zh": "诺丁汉，英国",
+   "bio": "Co-founder of the Mixed Reality Lab, known for performance-led research with artists and the trajectories framework.",
+   "bio_zh": "混合现实实验室联合创始人，以与艺术家合作的表演导向研究和“轨迹”框架著称。",
+   "why": "His trajectories framework became the basis for soma trajectories.",
+   "why_zh": "他的“轨迹”框架成为身体轨迹方法的基础。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "paul-tennent",
+    "kristina-hook"
+   ],
+   "discovered_via": "kristina-hook"
+  },
+  {
+   "id": "claire-petitmengin",
+   "name": "Claire Petitmengin",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor Emerita, Institut Mines-Télécom; member of the Archives Husserl, Paris",
+   "role_zh": "巴黎电信矿业学院荣休教授；巴黎胡塞尔档案馆成员",
+   "based": "Paris, FR",
+   "based_zh": "巴黎，法国",
+   "bio": "Philosopher and researcher who developed the micro-phenomenological interview from Varela's neurophenomenology and Vermersch's explicitation interview.",
+   "bio_zh": "哲学家与研究者，在 Varela 的神经现象学与 Vermersch 的“明述访谈”基础上发展出微观现象学访谈。",
+   "why": "Her interview method gives designers a rigorous way to help people describe felt experience moment by moment.",
+   "why_zh": "她的访谈方法为设计师提供了严谨的途径，帮助人们一刻一刻地描述被感受的经验。",
+   "disciplines": [
+    "philosophy",
+    "health"
+   ],
+   "links": {
+    "site": "https://www.microphenomenology.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "mirjana-prpa",
+   "name": "Mirjana Prpa",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, Simon Fraser University",
+   "role_zh": "西蒙菲莎大学研究者",
+   "based": "Vancouver, CA",
+   "based_zh": "温哥华，加拿大",
+   "bio": "Interaction designer working on breath, attention and immersive experiences.",
+   "bio_zh": "交互设计师，研究呼吸、注意力与沉浸式体验。",
+   "why": "She brought micro-phenomenology into HCI design research and reported how experts use it.",
+   "why_zh": "她把微观现象学引入人机交互设计研究，并报告了专家如何使用它。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "thecla-schiphorst",
+    "sarah-fdili-alaoui"
+   ],
+   "discovered_via": "thecla-schiphorst"
+  },
+  {
+   "id": "karen-anne-cochrane",
+   "name": "Karen Anne Cochrane",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Design researcher, Carleton University",
+   "role_zh": "卡尔顿大学设计研究者",
+   "based": "Ottawa, CA",
+   "based_zh": "渥太华，加拿大",
+   "bio": "Design researcher working on body maps, wearables and emotion.",
+   "bio_zh": "设计研究者，研究身体地图、可穿戴与情绪。",
+   "why": "She turned body mapping into a generative tool for soma-based design.",
+   "why_zh": "她把身体地图变成身体设计的生成性工具。",
+   "disciplines": [
+    "design",
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "lian-loke",
+    "anna-stahl"
+   ],
+   "discovered_via": "lian-loke"
+  },
+  {
+   "id": "rachael-garrett",
+   "name": "Rachael Garrett",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, KTH Royal Institute of Technology",
+   "role_zh": "瑞典皇家理工学院研究者",
+   "based": "Stockholm, SE",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "bio": "HCI researcher on ethics, soma design and human-robot interaction.",
+   "bio_zh": "人机交互研究者，关注伦理、身体设计与人机器人交互。",
+   "why": "She developed felt ethics: ethical sensibility cultivated through the designer's body.",
+   "why_zh": "她发展了“被感受的伦理”：通过设计师的身体培养伦理感受力。",
+   "disciplines": [
+    "hci",
+    "philosophy"
+   ],
+   "links": {},
+   "connected_to": [
+    "kristina-popova",
+    "kristina-hook",
+    "claudia-nunez-pacheco"
+   ],
+   "discovered_via": "kristina-hook"
+  },
+  {
+   "id": "kristina-popova",
+   "name": "Kristina Popova",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, KTH Royal Institute of Technology",
+   "role_zh": "瑞典皇家理工学院研究者",
+   "based": "Stockholm, SE",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "bio": "HCI researcher on vulnerability, ethics and intimate data in soma design.",
+   "bio_zh": "人机交互研究者，研究身体设计中的脆弱性、伦理与亲密数据。",
+   "why": "She argued that vulnerability, not only protection, is an ethical stance in soma design processes.",
+   "why_zh": "她主张：在身体设计过程中，脆弱性本身——而不只是保护——就是一种伦理立场。",
+   "disciplines": [
+    "hci",
+    "philosophy"
+   ],
+   "links": {},
+   "connected_to": [
+    "rachael-garrett",
+    "kristina-hook"
+   ],
+   "discovered_via": "kristina-hook"
+  },
+  {
+   "id": "jonas-fritsch",
+   "name": "Jonas Fritsch",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Associate Professor of Digital Design, IT University of Copenhagen",
+   "role_zh": "哥本哈根信息技术大学数字设计副教授",
+   "based": "Copenhagen, DK",
+   "based_zh": "哥本哈根，丹麦",
+   "bio": "Interaction design researcher working with affect theory, atmospheres and sound in design.",
+   "bio_zh": "交互设计研究者，把情动理论、氛围与声音带入设计。",
+   "why": "He led the soma design study of silence as a way of estranging habitual sensing.",
+   "why_zh": "他主导了以“静默”陌生化惯常感知的身体设计研究。",
+   "disciplines": [
+    "hci",
+    "philosophy"
+   ],
+   "links": {},
+   "connected_to": [
+    "kristina-hook",
+    "claudia-nunez-pacheco"
+   ],
+   "discovered_via": "kristina-hook"
+  }
+ ],
+ "works": [
+  {
+   "id": "kristina-hook--designing-with-the-body",
+   "creator_ids": [
+    "kristina-hook"
+   ],
+   "title": "Designing with the Body: Somaesthetic Interaction Design",
+   "year": 2018,
+   "field": "methods",
+   "sub": "design-knowledge",
+   "modalities": [
+    "whole-soma",
+    "movement"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "first-person",
+    "attunement"
+   ],
+   "kind": "publication",
+   "description": "Höök's book that defines soma design: it tells how she learned Feldenkrais and horseback riding, walks through the Soma Mat, Breathing Light and other cases, and sets out a soma design manifesto, theory and methods.",
+   "description_zh": "Höök 奠定身体设计的专著：讲述她如何学习 Feldenkrais 与骑马，逐一剖析 Soma Mat、Breathing Light 等案例，并提出身体设计宣言、理论与方法。",
+   "idea_en": "Design starts from a body-mind trained to feel more finely; the designer's own soma is the first instrument of design, not an afterthought.",
+   "idea_zh": "设计始于一个被训练得更敏锐的身心；设计师自己的身体是第一件设计工具，而不是事后才考虑的东西。",
+   "method": "Book (MIT Press, Design Thinking, Design Theory series) combining Shusterman's somaesthetics, first-person design accounts and a catalogue of methods such as estrangement, somatic training and soma-based material exploration.",
+   "method_zh": "专著（MIT 出版社“设计思维·设计理论”丛书），结合 Shusterman 的身体美学、第一人称设计叙述，以及陌生化、身体训练、以身体探索材料等方法。",
+   "keywords": [
+    "soma design",
+    "somaesthetics",
+    "Feldenkrais",
+    "manifesto",
+    "Kristina Höök",
+    "MIT Press"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.7551/mitpress/11481.001.0001",
+    "doi": "10.7551/mitpress/11481.001.0001",
+    "venue": "MIT Press 2018",
+    "title": "Designing with the Body: Somaesthetic Interaction Design"
+   },
+   "also": [
+    "foundations"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=3oIngFrfZD4"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/isbn/9780262038560-L.jpg?default=false"
+   ],
+   "source_url": "https://mitpress.mit.edu/9780262038560/designing-with-the-body/",
+   "collections": [
+    "designing-with-the-body"
+   ]
+  },
+  {
+   "id": "kristina-hook--somaesthetic-design-2015",
+   "creator_ids": [
+    "kristina-hook",
+    "anna-stahl"
+   ],
+   "title": "Somaesthetic Design",
+   "year": 2015,
+   "field": "methods",
+   "sub": "design-knowledge",
+   "modalities": [
+    "whole-soma",
+    "heat",
+    "breath"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "attunement"
+   ],
+   "kind": "paper",
+   "description": "An interactions cover story that introduced somaesthetic design to a broad HCI audience, using the Soma Mat, heat and breath-driven light as examples of technology that turns attention inward.",
+   "description_zh": "《interactions》杂志封面文章，向广大人机交互读者介绍身体美学设计，以 Soma Mat、热感与呼吸驱动的灯光为例，说明技术如何把注意力引向身体内部。",
+   "idea_en": "Technology can be designed to slow us down and help us feel our own body-mind more richly, instead of pulling attention outward.",
+   "idea_zh": "技术可以被设计成让我们慢下来、更丰富地感受自己的身心，而不是把注意力拉向外部。",
+   "method": "Magazine essay drawing on Feldenkrais-inspired design workshops and prototypes built in Höök's group.",
+   "method_zh": "杂志文章，取材于 Höök 团队受 Feldenkrais 启发的设计工作坊与原型。",
+   "keywords": [
+    "somaesthetic design",
+    "Soma Mat",
+    "interactions",
+    "Feldenkrais"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2770888",
+    "doi": "10.1145/2770888",
+    "venue": "ACM interactions 22(4), 2015",
+    "title": "Somaesthetic design"
+   },
+   "video": {
+    "url": "https://www.youtube.com/watch?v=t22T4AwdU-E"
+   },
+   "collections": [
+    "designing-with-the-body"
+   ]
+  },
+  {
+   "id": "kristina-hook--somaesthetic-appreciation-design",
+   "creator_ids": [
+    "kristina-hook",
+    "anna-stahl"
+   ],
+   "title": "Somaesthetic Appreciation Design",
+   "year": 2016,
+   "field": "methods",
+   "sub": "design-knowledge",
+   "modalities": [
+    "whole-soma",
+    "heat",
+    "breath"
+   ],
+   "lenses": [
+    "attunement",
+    "body-mind-unity",
+    "touching-back"
+   ],
+   "kind": "method",
+   "description": "The CHI paper behind the Soma Mat and Breathing Light that names design qualities for systems of somaesthetic appreciation: subtle guidance, making space and intimate correspondence.",
+   "description_zh": "Soma Mat 与 Breathing Light 背后的 CHI 论文，提出“身体美学鉴赏”系统的设计品质：细微的引导、留出空间与亲密的对应。",
+   "idea_en": "Systems for bodily awareness work when they guide lightly and leave room for the person's own felt sense to lead.",
+   "idea_zh": "帮助身体觉察的系统，要轻轻引导，并为人自身的身体感受留出主导的空间。",
+   "method": "Research-through-design with Feldenkrais-trained designers, heat and light prototypes, and first-person and user studies.",
+   "method_zh": "以设计为研究：由受过 Feldenkrais 训练的设计师制作热与光的原型，并结合第一人称与用户研究。",
+   "keywords": [
+    "somaesthetic appreciation",
+    "subtle guidance",
+    "intimate correspondence",
+    "Soma Mat",
+    "Breathing Light",
+    "Feldenkrais"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2858036.2858583",
+    "doi": "10.1145/2858036.2858583",
+    "venue": "CHI 2016",
+    "title": "Somaesthetic Appreciation Design"
+   },
+   "video": {
+    "url": "https://www.youtube.com/watch?v=uHTv_YqFjEk"
+   },
+   "collections": [
+    "chi",
+    "designing-with-the-body"
+   ]
+  },
+  {
+   "id": "kristina-hook--first-person-soma-based-design",
+   "creator_ids": [
+    "kristina-hook",
+    "katherine-isbister",
+    "caroline-hummels",
+    "thecla-schiphorst"
+   ],
+   "title": "Embracing First-Person Perspectives in Soma-Based Design",
+   "year": 2018,
+   "field": "methods",
+   "sub": "first-person",
+   "modalities": [
+    "whole-soma",
+    "movement"
+   ],
+   "lenses": [
+    "first-person",
+    "body-mind-unity"
+   ],
+   "kind": "paper",
+   "description": "A 22-author paper in which soma designers each describe a first-person design case and together argue that the designer's own felt experience is a legitimate source of design knowledge.",
+   "description_zh": "22 位身体设计研究者各自讲述一个第一人称设计案例，共同论证设计师自己的身体感受是正当的设计知识来源。",
+   "idea_en": "To design for felt experience, designers must first examine their own; first-person inquiry is disciplined practice, not self-indulgence.",
+   "idea_zh": "要为被感受的经验而设计，设计师得先审视自己的经验；第一人称探究是有纪律的实践，而非自我沉溺。",
+   "method": "Collective paper that grew out of the CHI 2017 Soma-Based Design Theory workshop, gathering cases from breathing, dance, heat, sound and play.",
+   "method_zh": "源自 CHI 2017“Soma-Based Design Theory”工作坊的集体论文，汇集呼吸、舞蹈、热、声音与游戏等案例。",
+   "keywords": [
+    "first-person",
+    "soma design",
+    "design theory",
+    "Informatics"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.3390/informatics5010008",
+    "doi": "10.3390/informatics5010008",
+    "venue": "Informatics 5(1):8, 2018",
+    "title": "Embracing First-Person Perspectives in Soma-Based Design"
+   },
+   "images": [
+    "https://pub.mdpi-res.com/informatics/informatics-05-00008/article_deploy/html/images/informatics-05-00008-g001.png"
+   ],
+   "source_url": "https://www.mdpi.com/2227-9709/5/1/8",
+   "collections": [
+    "first-person-soma-2018"
+   ]
+  },
+  {
+   "id": "kristina-hook--unpacking-non-dualistic-design",
+   "creator_ids": [
+    "kristina-hook",
+    "steve-benford",
+    "paul-tennent",
+    "vasiliki-tsaknaki"
+   ],
+   "title": "Unpacking Non-Dualistic Design: The Soma Design Case",
+   "year": 2021,
+   "field": "methods",
+   "sub": "design-knowledge",
+   "modalities": [
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "first-person"
+   ],
+   "kind": "paper",
+   "description": "A TOCHI article that uses a series of soma design projects to show what design looks like when it refuses the split between mind and body, self and other, subject and object.",
+   "description_zh": "TOCHI 论文，以一系列身体设计项目展示：当设计拒绝心与身、自我与他者、主体与客体的二分时，会是什么样子。",
+   "idea_en": "Feeling, thinking and moving are one process; methods that treat the designer's soma as data make that non-dualism practical.",
+   "idea_zh": "感受、思考与动作是同一个过程；把设计师的身体当作数据的方法，让这种非二元立场变得可操作。",
+   "method": "Theoretical paper built from case projects by KTH and Nottingham teams, analysed as design strategies for non-dualistic design.",
+   "method_zh": "理论论文，基于 KTH 与诺丁汉团队的案例项目，把它们分析为非二元设计的策略。",
+   "keywords": [
+    "non-dualism",
+    "soma design",
+    "TOCHI",
+    "design theory"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3462448",
+    "doi": "10.1145/3462448",
+    "venue": "ACM TOCHI 28(6), 2021",
+    "title": "Unpacking Non-Dualistic Design: The Soma Design Case"
+   },
+   "video": {
+    "url": "https://www.youtube.com/watch?v=RycXfX3vL4Q"
+   },
+   "collections": []
+  },
+  {
+   "id": "kristina-hook--soma-based-design-theory",
+   "creator_ids": [
+    "kristina-hook",
+    "caroline-hummels",
+    "katherine-isbister",
+    "elena-marquez-segura"
+   ],
+   "title": "Soma-Based Design Theory",
+   "year": 2017,
+   "field": "methods",
+   "sub": "design-knowledge",
+   "modalities": [
+    "whole-soma",
+    "movement"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "first-person"
+   ],
+   "kind": "paper",
+   "description": "A CHI 2017 workshop where soma designers moved, touched and discussed together to work out a shared theory of soma-based design; its cases became the 2018 first-person paper.",
+   "description_zh": "CHI 2017 工作坊：身体设计研究者一起动身体、触摸、讨论，尝试形成共同的身体设计理论；其中的案例后来成为 2018 年第一人称论文。",
+   "idea_en": "Theory of soma design is built by doing it together with bodies in the room, not only by reading.",
+   "idea_zh": "身体设计的理论要靠大家带着身体在场一起做出来，不只靠阅读。",
+   "method": "One-day workshop combining somatic exercises, sharing of first-person design cases and collective writing.",
+   "method_zh": "一天的工作坊，结合身体练习、第一人称设计案例分享与集体写作。",
+   "keywords": [
+    "workshop",
+    "soma design theory",
+    "CHI 2017"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3027063.3027082",
+    "doi": "10.1145/3027063.3027082",
+    "venue": "CHI 2017 Extended Abstracts",
+    "title": "Soma-Based Design Theory"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "kristina-hook--strong-concepts",
+   "creator_ids": [
+    "kristina-hook",
+    "jonas-lowgren"
+   ],
+   "title": "Strong Concepts: Intermediate-Level Knowledge in Interaction Design Research",
+   "year": 2012,
+   "field": "methods",
+   "sub": "design-knowledge",
+   "modalities": [
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-mind-unity"
+   ],
+   "kind": "paper",
+   "description": "Defines strong concepts: design ideas that sit between a single artefact and a general theory, can be reused across designs, and are grounded in examples. Soma design uses them to share what it learns.",
+   "description_zh": "定义“强概念”：介于单个作品与普遍理论之间、可在不同设计中复用、以实例为依据的设计想法。身体设计借此分享它的发现。",
+   "idea_en": "Felt design knowledge can be shared without flattening it into rules: name the interaction pattern and show the cases.",
+   "idea_zh": "被感受的设计知识可以分享而不必压成规则：命名交互模式，并给出案例。",
+   "method": "Conceptual paper illustrated with strong concepts such as social navigation and seamfulness, later used for soma design concepts.",
+   "method_zh": "概念性论文，以社会导航、接缝可见等强概念为例；这一框架后来被用于提炼身体设计的概念。",
+   "keywords": [
+    "strong concepts",
+    "intermediate-level knowledge",
+    "design research",
+    "TOCHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2362364.2362371",
+    "doi": "10.1145/2362364.2362371",
+    "venue": "ACM TOCHI 19(3), 2012",
+    "title": "Strong concepts: Intermediate-level knowledge in interaction design research"
+   }
+  },
+  {
+   "id": "kristina-hook--horseback-riding",
+   "creator_ids": [
+    "kristina-hook"
+   ],
+   "title": "Transferring Qualities from Horseback Riding to Design",
+   "year": 2010,
+   "field": "methods",
+   "sub": "first-person",
+   "modalities": [
+    "movement",
+    "posture-balance",
+    "touch"
+   ],
+   "lenses": [
+    "first-person",
+    "intercorporeality",
+    "more-than-human"
+   ],
+   "kind": "paper",
+   "description": "Höök's autoethnography of learning to ride a horse: how rider and horse come to communicate through subtle shifts of weight and muscle, and which of those qualities design could borrow.",
+   "description_zh": "Höök 学骑马的自我民族志：骑手与马如何借由重心与肌肉的细微变化相互沟通，以及设计可以借用哪些品质。",
+   "idea_en": "Years of bodily learning with another living body reveal interaction qualities — subtlety, rhythm, mutual attunement — that screens rarely offer.",
+   "idea_zh": "与另一个活的身体共同学习多年，揭示了屏幕少有的交互品质：细腻、节奏与相互调谐。",
+   "method": "First-person autoethnographic account drawn from the author's years of riding lessons, analysed for design qualities.",
+   "method_zh": "第一人称自我民族志，取材于作者多年的骑马课程，并从中分析设计品质。",
+   "keywords": [
+    "autoethnography",
+    "horseback riding",
+    "first-person",
+    "NordiCHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/1868914.1868943",
+    "doi": "10.1145/1868914.1868943",
+    "venue": "NordiCHI 2010",
+    "title": "Transferring qualities from horseback riding to design"
+   },
+   "collections": [
+    "designing-with-the-body"
+   ]
+  },
+  {
+   "id": "andres-lucero--sample-of-one",
+   "creator_ids": [
+    "andres-lucero",
+    "audrey-desjardins",
+    "carman-neustaedter",
+    "kristina-hook"
+   ],
+   "title": "A Sample of One: First-Person Research Methods in HCI",
+   "year": 2019,
+   "field": "methods",
+   "sub": "first-person",
+   "modalities": [
+    "whole-soma"
+   ],
+   "lenses": [
+    "first-person"
+   ],
+   "kind": "method",
+   "description": "A DIS workshop that gathered autoethnography, autobiographical design, soma design and other first-person methods to discuss their rigour, ethics and value in HCI.",
+   "description_zh": "DIS 工作坊，汇集自我民族志、自传式设计、身体设计等第一人称方法，讨论它们在人机交互中的严谨性、伦理与价值。",
+   "idea_en": "When the researcher is also the participant, the body that lives with the design becomes the instrument of knowing.",
+   "idea_zh": "当研究者同时是参与者，与设计共同生活的身体就成了认识的工具。",
+   "method": "Workshop with position papers and hands-on sessions; it led to a TOCHI special issue on first-person methods (2021).",
+   "method_zh": "工作坊包括立场论文与实践环节，后来促成 TOCHI 第一人称方法特刊（2021）。",
+   "keywords": [
+    "first-person methods",
+    "autoethnography",
+    "autobiographical design",
+    "DIS"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3301019.3319996",
+    "doi": "10.1145/3301019.3319996",
+    "venue": "DIS 2019 Companion",
+    "title": "A Sample of One: First-Person Research Methods in HCI"
+   },
+   "video": {
+    "url": "https://www.youtube.com/watch?v=VXmJNp9R-m4"
+   },
+   "collections": [
+    "dis"
+   ]
+  },
+  {
+   "id": "carman-neustaedter--autobiographical-design",
+   "creator_ids": [
+    "carman-neustaedter",
+    "phoebe-sengers"
+   ],
+   "title": "Autobiographical Design in HCI Research",
+   "year": 2012,
+   "field": "methods",
+   "sub": "first-person",
+   "modalities": [
+    "whole-soma"
+   ],
+   "lenses": [
+    "first-person"
+   ],
+   "kind": "method",
+   "description": "Defines autobiographical design — building and living with a system you made for yourself — and shows through interviews with practitioners that it yields knowledge ordinary studies miss.",
+   "description_zh": "定义“自传式设计”——为自己做一个系统并与之长期共处——并通过访谈实践者表明，它能得到一般研究得不到的知识。",
+   "idea_en": "Long, genuine use by the designer's own life and body surfaces the small frictions and pleasures that short studies never reach.",
+   "idea_zh": "设计师以自己的生活与身体长期、真实地使用，能发现短期研究触及不到的细小摩擦与乐趣。",
+   "method": "Interview study with researchers who had designed for themselves, synthesised into features of the method.",
+   "method_zh": "对“为自己做设计”的研究者进行访谈，归纳出这一方法的特征。",
+   "keywords": [
+    "autobiographical design",
+    "use-it-yourself",
+    "first-person",
+    "DIS"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2317956.2318034",
+    "doi": "10.1145/2317956.2318034",
+    "venue": "DIS 2012",
+    "title": "Autobiographical design in HCI research: designing and learning through use-it-yourself"
+   },
+   "collections": [
+    "dis"
+   ]
+  },
+  {
+   "id": "audrey-desjardins--autobiographical-design-tensions",
+   "creator_ids": [
+    "audrey-desjardins"
+   ],
+   "title": "Revealing Tensions in Autobiographical Design in HCI",
+   "year": 2018,
+   "field": "methods",
+   "sub": "first-person",
+   "modalities": [
+    "whole-soma"
+   ],
+   "lenses": [
+    "first-person",
+    "body-politics"
+   ],
+   "kind": "paper",
+   "description": "Reflects on the tensions of autobiographical design — between researcher and participant, private life and publication, genuine need and research agenda — using the authors' own long-term projects.",
+   "description_zh": "借作者自己的长期项目，反思自传式设计中的张力：研究者与参与者、私人生活与发表、真实需要与研究议程之间。",
+   "idea_en": "Using your own life as data demands care about what you expose and how honestly you report your own body and home.",
+   "idea_zh": "把自己的生活当作数据，就需要谨慎处理暴露什么，以及如何诚实地报告自己的身体与家。",
+   "method": "Reflective analysis of the authors' autobiographical design projects (with Aubree Ball), structured as five tensions.",
+   "method_zh": "对作者（与 Aubree Ball）的自传式设计项目进行反思性分析，整理为五种张力。",
+   "keywords": [
+    "autobiographical design",
+    "first-person",
+    "research ethics",
+    "DIS"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3196709.3196781",
+    "doi": "10.1145/3196709.3196781",
+    "venue": "DIS 2018",
+    "title": "Revealing Tensions in Autobiographical Design in HCI"
+   },
+   "collections": [
+    "dis"
+   ]
+  },
+  {
+   "id": "dag-svanaes--designers-body-as-resource",
+   "creator_ids": [
+    "dag-svanaes"
+   ],
+   "title": "The Designer's Body as Resource in Design",
+   "year": 2020,
+   "field": "methods",
+   "sub": "first-person",
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "first-person",
+    "body-mind-unity"
+   ],
+   "kind": "method",
+   "description": "Maps how designers use their own bodies in design by combining point of view (first, second, third person) with tense (past, present, future), and shows each combination in practice.",
+   "description_zh": "把视角（第一、第二、第三人称）与时态（过去、现在、将来）组合起来，梳理设计师如何在设计中使用自己的身体，并逐一举例。",
+   "idea_en": "Imagining, remembering and enacting a felt experience are different bodily resources; a designer can switch among them on purpose.",
+   "idea_zh": "想象、回忆与演出一段身体经验，是不同的身体资源；设计师可以有意识地在它们之间切换。",
+   "method": "Conceptual framework grounded in Merleau-Ponty and illustrated with student design projects and the authors' practice.",
+   "method_zh": "以 Merleau-Ponty 为基础的概念框架，并用学生设计项目与作者的实践加以说明。",
+   "keywords": [
+    "designer's body",
+    "point of view",
+    "tense",
+    "Merleau-Ponty",
+    "CHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3313831.3376430",
+    "doi": "10.1145/3313831.3376430",
+    "venue": "CHI 2020",
+    "title": "The Designer's Body as Resource in Design: Exploring Combinations of Point-of-view and Tense"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "anna-stahl--sketching-with-the-soma",
+   "creator_ids": [
+    "anna-stahl",
+    "vasiliki-tsaknaki",
+    "madeline-balaam"
+   ],
+   "title": "Validity and Rigour in Soma Design: Sketching with the Soma",
+   "year": 2021,
+   "field": "methods",
+   "sub": "first-person",
+   "modalities": [
+    "whole-soma",
+    "movement"
+   ],
+   "lenses": [
+    "first-person",
+    "body-mind-unity"
+   ],
+   "kind": "paper",
+   "description": "Describes 'sketching with the soma' — the iterative, felt trying-out of materials and movements on one's own body — and argues for what makes such first-person design rigorous and valid.",
+   "description_zh": "描述“用身体画草图”——在自己身上反复、亲身地试验材料与动作——并论证这类第一人称设计何以严谨、有效。",
+   "idea_en": "The designer's felt sense can be trained, tested against others and made accountable; that is where the rigour of soma design lies.",
+   "idea_zh": "设计师的身体感受可以被训练、与他人对照、被问责；身体设计的严谨就在于此。",
+   "method": "Analysis of several soma design processes, identifying practices of sensitisation, iteration and shared articulation.",
+   "method_zh": "分析多个身体设计过程，识别出敏化、迭代与共同表述等实践。",
+   "keywords": [
+    "sketching with the soma",
+    "validity",
+    "rigour",
+    "first-person",
+    "TOCHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3470132",
+    "doi": "10.1145/3470132",
+    "venue": "ACM TOCHI 28(6), 2021",
+    "title": "Validity and Rigour in Soma Design-Sketching with the Soma"
+   },
+   "video": {
+    "url": "https://www.youtube.com/watch?v=MGYlVdYWcsg"
+   }
+  },
+  {
+   "id": "susan-kozel--closer",
+   "creator_ids": [
+    "susan-kozel"
+   ],
+   "title": "Closer: Performance, Technologies, Phenomenology",
+   "year": 2007,
+   "field": "methods",
+   "sub": "first-person",
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "first-person",
+    "intercorporeality",
+    "movement-expression"
+   ],
+   "kind": "publication",
+   "description": "Kozel's book that researches telematic dance, motion capture and wearables from inside her own performing body, developing phenomenology as a hands-on research method.",
+   "description_zh": "Kozel 的专著：从她自己表演着的身体内部，研究远程舞蹈、动作捕捉与可穿戴物，把现象学发展为一种亲身实践的研究方法。",
+   "idea_en": "The researcher's dancing body can be a precise instrument for understanding technology, if its experience is described with care.",
+   "idea_zh": "只要细致地描述经验，研究者跳舞的身体就能成为理解技术的精确工具。",
+   "method": "Book (MIT Press, Leonardo series) combining Merleau-Ponty's phenomenology with first-person accounts of the author's performances.",
+   "method_zh": "专著（MIT 出版社 Leonardo 丛书），把 Merleau-Ponty 的现象学与作者表演的第一人称叙述结合起来。",
+   "keywords": [
+    "phenomenology",
+    "performance",
+    "telematic dance",
+    "first-person",
+    "MIT Press"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.7551/mitpress/9780262113106.001.0001",
+    "doi": "10.7551/mitpress/9780262113106.001.0001",
+    "venue": "MIT Press 2007",
+    "title": "Closer: Performance, Technologies, Phenomenology"
+   },
+   "video": {
+    "url": "https://www.youtube.com/watch?v=mv7Vp3NPKw4"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/isbn/9780262113106-L.jpg?default=false"
+   ]
+  },
+  {
+   "id": "genevieve-bell--making-by-making-strange",
+   "creator_ids": [
+    "genevieve-bell",
+    "phoebe-sengers"
+   ],
+   "title": "Making by Making Strange: Defamiliarization and the Design of Domestic Technologies",
+   "year": 2005,
+   "field": "methods",
+   "sub": "estrangement",
+   "modalities": [
+    "whole-soma"
+   ],
+   "lenses": [
+    "estrangement"
+   ],
+   "kind": "paper",
+   "description": "Uses ethnographic and historical material to make the ordinary home look strange, so designers can question assumptions built into domestic technology.",
+   "description_zh": "借民族志与历史材料，让平常的家显得陌生，让设计师能够质疑家用技术中内置的假设。",
+   "idea_en": "What is most familiar — including our own bodily habits — is hardest to design for until it is made strange.",
+   "idea_zh": "最熟悉的东西——包括我们自己的身体习惯——在被陌生化之前最难为之设计。",
+   "method": "Defamiliarization strategies from literary theory and anthropology (cross-cultural comparison, historical reading, cultural critique).",
+   "method_zh": "借自文学理论与人类学的陌生化策略（跨文化比较、历史阅读、文化批判）。",
+   "keywords": [
+    "defamiliarization",
+    "making strange",
+    "domestic technology",
+    "TOCHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/1067860.1067862",
+    "doi": "10.1145/1067860.1067862",
+    "venue": "ACM TOCHI 12(2), 2005",
+    "title": "Making by making strange: Defamiliarization and the design of domestic technologies"
+   }
+  },
+  {
+   "id": "lian-loke--moving-and-making-strange",
+   "creator_ids": [
+    "lian-loke",
+    "toni-robertson"
+   ],
+   "title": "Moving and Making Strange: An Embodied Approach to Movement-Based Interaction Design",
+   "year": 2013,
+   "field": "methods",
+   "sub": "estrangement",
+   "modalities": [
+    "movement",
+    "posture-balance"
+   ],
+   "lenses": [
+    "estrangement",
+    "movement-expression",
+    "first-person"
+   ],
+   "kind": "method",
+   "description": "A design methodology with tools for making habitual movement strange, so that designers can notice, describe and design from how movement feels, looks and is sensed by machines.",
+   "description_zh": "一套设计方法及工具，把惯常的动作陌生化，让设计师注意、描述，并从动作的感受、样貌以及机器如何感知它出发来设计。",
+   "idea_en": "Only when a familiar movement becomes strange do we feel it again; that renewed feeling is the starting point for design.",
+   "idea_zh": "只有当熟悉的动作变得陌生，我们才会重新感受到它；这种重新的感受正是设计的起点。",
+   "method": "Methodology with three perspectives (mover, observer, machine), using movement scores, somatic exercises and notation, built from dance-based design projects.",
+   "method_zh": "包含三种视角（动者、观察者、机器）的方法论，使用动作谱、身体练习与记谱，源自以舞蹈为基础的设计项目。",
+   "keywords": [
+    "making strange",
+    "estrangement",
+    "movement-based interaction",
+    "Laban",
+    "TOCHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2442106.2442113",
+    "doi": "10.1145/2442106.2442113",
+    "venue": "ACM TOCHI 20(1), 2013",
+    "title": "Moving and making strange: An embodied approach to movement-based interaction design"
+   },
+   "video": {
+    "url": "https://www.youtube.com/watch?v=7cGcSdDeN9E"
+   }
+  },
+  {
+   "id": "danielle-wilde--embodied-design-ideation",
+   "creator_ids": [
+    "danielle-wilde",
+    "oscar-tomico"
+   ],
+   "title": "Embodied Design Ideation Methods: Analysing the Power of Estrangement",
+   "year": 2017,
+   "field": "methods",
+   "sub": "estrangement",
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "estrangement",
+    "first-person"
+   ],
+   "kind": "method",
+   "description": "Compares embodied ideation methods from three design practices and shows how estrangement — odd props, unusual constraints, unfamiliar ways of moving — opens up new design ideas.",
+   "description_zh": "比较三种设计实践中的具身构思方法，说明陌生化——古怪的道具、不寻常的限制、陌生的动作方式——如何打开新的设计想法。",
+   "idea_en": "Disturbing how the body usually moves and senses is a reliable way to make designers notice possibilities they would otherwise overlook.",
+   "idea_zh": "打乱身体惯常的运动与感知方式，是让设计师注意到原本会忽略的可能性的可靠途径。",
+   "method": "Comparative analysis of workshop methods by Wilde, Vallgårda and Tomico, identifying strategies of estrangement.",
+   "method_zh": "对 Wilde、Vallgårda 与 Tomico 的工作坊方法作比较分析，归纳陌生化策略。",
+   "keywords": [
+    "embodied ideation",
+    "estrangement",
+    "wearables",
+    "CHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3025453.3025873",
+    "doi": "10.1145/3025453.3025873",
+    "venue": "CHI 2017",
+    "title": "Embodied Design Ideation Methods: Analysing the Power of Estrangement"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "vasiliki-tsaknaki--teaching-soma-design",
+   "creator_ids": [
+    "vasiliki-tsaknaki",
+    "madeline-balaam",
+    "anna-stahl",
+    "kristina-hook"
+   ],
+   "title": "Teaching Soma Design",
+   "year": 2019,
+   "field": "methods",
+   "sub": "somatic-training",
+   "modalities": [
+    "whole-soma",
+    "movement",
+    "heat"
+   ],
+   "lenses": [
+    "attunement",
+    "first-person"
+   ],
+   "kind": "method",
+   "description": "Reports soma design courses in which students did Feldenkrais-style body scans and movement exercises, then explored heat, vibration and shape-change on their own bodies before designing.",
+   "description_zh": "记录身体设计课程：学生先做类似 Feldenkrais 的身体扫描与动作练习，再在自己身上探索热、振动与形变，然后才开始设计。",
+   "idea_en": "Somaesthetic sensitivity can be taught; slowing down with the body first changes what students go on to design.",
+   "idea_zh": "身体美学的感受力是可以教的；先与身体一起慢下来，会改变学生后来设计出的东西。",
+   "method": "Analysis of several soma design courses and workshops with somatic exercises, material explorations and design briefs.",
+   "method_zh": "分析若干身体设计课程与工作坊，包括身体练习、材料探索与设计任务。",
+   "keywords": [
+    "teaching",
+    "somatic training",
+    "body scan",
+    "Feldenkrais",
+    "Soma Bits",
+    "DIS"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3322276.3322327",
+    "doi": "10.1145/3322276.3322327",
+    "venue": "DIS 2019",
+    "title": "Teaching Soma Design"
+   },
+   "video": {
+    "url": "https://www.youtube.com/watch?v=taUFMwrBHxE"
+   },
+   "collections": [
+    "dis"
+   ]
+  },
+  {
+   "id": "thecla-schiphorst--somatic-techniques-courses",
+   "creator_ids": [
+    "thecla-schiphorst",
+    "lian-loke",
+    "kristina-hook"
+   ],
+   "title": "Somatic Techniques for Experience Design (CHI courses)",
+   "year": 2013,
+   "field": "methods",
+   "sub": "somatic-training",
+   "modalities": [
+    "whole-soma",
+    "movement",
+    "breath"
+   ],
+   "lenses": [
+    "attunement",
+    "first-person"
+   ],
+   "kind": "method",
+   "description": "Hands-on CHI courses — 'Body, Whys & Videotape' (2013) and 'Designing for Sensory Appreciation' (2020) — that teach HCI practitioners somatic exercises for designing and evaluating experience.",
+   "description_zh": "CHI 实践课程——“Body, Whys & Videotape”（2013）与“Designing for Sensory Appreciation”（2020）——教人机交互从业者用身体练习来设计与评估体验。",
+   "idea_en": "Designers can learn, in a few hours, to use breath, attention and movement as instruments for sensing experience.",
+   "idea_zh": "设计师可以在几小时内学会把呼吸、注意力与动作当作感知体验的工具。",
+   "method": "Course with case studies, video and in-class somatic exercises drawn from Laban, Feldenkrais and other practices.",
+   "method_zh": "课程包括案例、视频与课堂身体练习，取材于 Laban、Feldenkrais 等实践。",
+   "keywords": [
+    "somatics",
+    "course",
+    "sensory appreciation",
+    "CHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3334480.3375056",
+    "doi": "10.1145/3334480.3375056",
+    "venue": "CHI 2020 Extended Abstracts (course)",
+    "title": "Designing for Sensory Appreciation: Cultivating Somatic Approaches to Experience Design"
+   },
+   "video": {
+    "url": "https://www.youtube.com/watch?v=RI36LoVwk6w"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "kristina-hook--move-to-be-moved",
+   "creator_ids": [
+    "kristina-hook",
+    "anna-stahl",
+    "toni-robertson",
+    "thecla-schiphorst"
+   ],
+   "title": "Move to be Moved",
+   "year": 2016,
+   "field": "methods",
+   "sub": "somatic-training",
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "attunement",
+    "movement-expression"
+   ],
+   "kind": "method",
+   "description": "A CHI 2016 workshop where participants learned soma design by moving: somatic exercises, sharing of movement-based design cases and hands-on exploration.",
+   "description_zh": "CHI 2016 工作坊：参与者通过动起来学习身体设计——身体练习、分享基于动作的设计案例、动手探索。",
+   "idea_en": "You cannot learn to design for movement by talking about it; the designer's own body has to be moved.",
+   "idea_zh": "为动作而设计，靠谈论是学不会的；设计师自己的身体得先被触动。",
+   "method": "Workshop organised by a large group of movement and soma design researchers, alternating movement practice with discussion.",
+   "method_zh": "由众多动作与身体设计研究者共同组织的工作坊，动作练习与讨论交替进行。",
+   "keywords": [
+    "workshop",
+    "movement",
+    "somatic training",
+    "CHI 2016"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2851581.2856470",
+    "doi": "10.1145/2851581.2856470",
+    "venue": "CHI 2016 Extended Abstracts",
+    "title": "Move to be Moved"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "yves-candau--cultivating-kinaesthetic-awareness",
+   "creator_ids": [
+    "yves-candau",
+    "jules-francoise",
+    "sarah-fdili-alaoui",
+    "thecla-schiphorst"
+   ],
+   "title": "Cultivating Kinaesthetic Awareness through Interaction",
+   "year": 2017,
+   "field": "methods",
+   "sub": "somatic-training",
+   "modalities": [
+    "movement",
+    "voice-sound",
+    "posture-balance"
+   ],
+   "lenses": [
+    "attunement",
+    "movement-expression"
+   ],
+   "kind": "method",
+   "description": "Draws on somatic practices and embodied cognition to propose how interactive systems — here movement sonification — can help people cultivate kinaesthetic awareness.",
+   "description_zh": "借鉴身体修习与具身认知，提出交互系统——此处为动作声音化——如何帮助人培养动觉觉察。",
+   "idea_en": "Awareness of movement grows through attention practices; interaction can support that growth rather than replace it.",
+   "idea_zh": "对动作的觉察通过注意力练习而增长；交互可以支持这种增长，而不是取而代之。",
+   "method": "Theoretical synthesis of Feldenkrais-style somatic education and enactive cognition, grounded in a movement-sound design study.",
+   "method_zh": "综合 Feldenkrais 式身体教育与生成认知理论，以一项动作—声音设计研究为基础。",
+   "keywords": [
+    "kinaesthetic awareness",
+    "somatic practice",
+    "sonification",
+    "MOCO"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3077981.3078042",
+    "doi": "10.1145/3077981.3078042",
+    "venue": "MOCO 2017",
+    "title": "Cultivating kinaesthetic awareness through interaction: Perspectives from somatic practices and embodied cognition"
+   },
+   "collections": [
+    "moco"
+   ]
+  },
+  {
+   "id": "kristina-mah--contemplative-research-framework",
+   "creator_ids": [
+    "kristina-mah",
+    "lian-loke"
+   ],
+   "title": "Towards a Contemplative Research Framework for Training Self-Observation in HCI",
+   "year": 2021,
+   "field": "methods",
+   "sub": "somatic-training",
+   "modalities": [
+    "whole-soma",
+    "breath"
+   ],
+   "lenses": [
+    "attunement",
+    "first-person",
+    "care-healing"
+   ],
+   "kind": "method",
+   "description": "Uses the researcher's own practice of Tonglen compassion meditation to propose a framework for training self-observation, so first-person HCI research can rest on cultivated attention.",
+   "description_zh": "以研究者自己修习“施受法”（Tonglen）慈悲冥想为例，提出训练自我观察的框架，让第一人称人机交互研究建立在被培养的注意力之上。",
+   "idea_en": "Observing one's own body-mind is a skill; contemplative traditions offer tested ways to train it.",
+   "idea_zh": "观察自己的身心是一门技能；冥想传统提供了经过检验的训练方法。",
+   "method": "Autoethnographic study of compassion cultivation combined with micro-phenomenological description, synthesised into a contemplative research framework.",
+   "method_zh": "对慈悲修习的自我民族志研究，结合微观现象学描述，提炼为冥想式研究框架。",
+   "keywords": [
+    "contemplative practice",
+    "Tonglen",
+    "self-observation",
+    "compassion",
+    "TOCHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3471932",
+    "doi": "10.1145/3471932",
+    "venue": "ACM TOCHI 28(6), 2021",
+    "title": "Towards a Contemplative Research Framework for Training Self-Observation in HCI: A Study of Compassion Cultivation"
+   },
+   "video": {
+    "url": "https://www.youtube.com/watch?v=xDm2kT4B-kA"
+   }
+  },
+  {
+   "id": "marion-buchenau--experience-prototyping",
+   "creator_ids": [
+    "marion-buchenau",
+    "jane-fulton-suri"
+   ],
+   "title": "Experience Prototyping",
+   "year": 2000,
+   "field": "methods",
+   "sub": "embodied-ideation",
+   "modalities": [
+    "whole-soma",
+    "touch"
+   ],
+   "lenses": [
+    "first-person"
+   ],
+   "kind": "method",
+   "description": "Describes IDEO's practice of letting designers and clients live through a situation — wearing a pager, carrying a heart-patient's load — to understand how a design would feel.",
+   "description_zh": "介绍 IDEO 的做法：让设计师与客户亲身经历某个情境——佩戴寻呼机、背负心脏病人的负担——以理解一个设计会带来怎样的感受。",
+   "idea_en": "The quickest way to understand a felt experience is to have it, in your own body, with rough props.",
+   "idea_zh": "理解一种被感受的经验，最快的方法是用粗糙的道具，在自己身上经历它。",
+   "method": "Case descriptions from IDEO projects using role-play, props and simulated situations at different design stages.",
+   "method_zh": "来自 IDEO 项目的案例描述，在不同设计阶段使用角色扮演、道具与模拟情境。",
+   "keywords": [
+    "experience prototyping",
+    "IDEO",
+    "role-play",
+    "DIS"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/347642.347802",
+    "doi": "10.1145/347642.347802",
+    "venue": "DIS 2000",
+    "title": "Experience prototyping"
+   },
+   "collections": [
+    "dis"
+   ]
+  },
+  {
+   "id": "antti-oulasvirta--bodystorming",
+   "creator_ids": [
+    "antti-oulasvirta"
+   ],
+   "title": "Understanding Contexts by Being There: Case Studies in Bodystorming",
+   "year": 2003,
+   "field": "methods",
+   "sub": "embodied-ideation",
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "first-person"
+   ],
+   "kind": "method",
+   "description": "Case studies in which designers generated ideas while physically in the real setting — a bus, a home, a kindergarten — rather than in a meeting room.",
+   "description_zh": "案例研究：设计师身处真实情境——公交车、家中、幼儿园——而不是会议室里产生想法。",
+   "idea_en": "Ideas come differently when the body is in the situation; being there is a way of thinking.",
+   "idea_zh": "身体置身情境中时，想法以不同方式出现；在场本身就是一种思考。",
+   "method": "Four bodystorming case studies comparing idea quality and process with conventional brainstorming.",
+   "method_zh": "四个身体风暴案例，比较其与常规头脑风暴在想法质量与过程上的差异。",
+   "keywords": [
+    "bodystorming",
+    "in situ design",
+    "ubiquitous computing"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1007/s00779-003-0238-7",
+    "doi": "10.1007/s00779-003-0238-7",
+    "venue": "Personal and Ubiquitous Computing 7(2), 2003",
+    "title": "Understanding contexts by being there: case studies in bodystorming"
+   }
+  },
+  {
+   "id": "dennis-schleicher--bodystorming-embodied-designing",
+   "creator_ids": [
+    "dennis-schleicher"
+   ],
+   "title": "Bodystorming as Embodied Designing",
+   "year": 2010,
+   "field": "methods",
+   "sub": "embodied-ideation",
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "first-person",
+    "body-mind-unity"
+   ],
+   "kind": "method",
+   "description": "An interactions article that presents bodystorming as embodied thinking: physically acting out a situation to generate and test design ideas.",
+   "description_zh": "《interactions》文章，把身体风暴阐述为具身的思考：通过亲身演出情境来产生并检验设计想法。",
+   "idea_en": "Acting a scenario out with the whole body produces knowledge that talking and sketching on paper do not.",
+   "idea_zh": "用整个身体把情境演出来，能产生口头讨论与纸上草图得不到的知识。",
+   "method": "Practitioner account with guidance for running bodystorming sessions (with Peter Jones and Oksana Kachur).",
+   "method_zh": "实践者经验总结，附有组织身体风暴的指引（与 Peter Jones、Oksana Kachur 合著）。",
+   "keywords": [
+    "bodystorming",
+    "embodied designing",
+    "interactions"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/1865245.1865256",
+    "doi": "10.1145/1865245.1865256",
+    "venue": "ACM interactions 17(6), 2010",
+    "title": "Bodystorming as embodied designing"
+   }
+  },
+  {
+   "id": "lone-koefoed-hansen--embodied-imagination",
+   "creator_ids": [
+    "lone-koefoed-hansen",
+    "susan-kozel"
+   ],
+   "title": "Embodied Imagination: A Hybrid Method of Designing for Intimacy",
+   "year": 2007,
+   "field": "methods",
+   "sub": "embodied-ideation",
+   "modalities": [
+    "touch",
+    "movement"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "first-person"
+   ],
+   "kind": "method",
+   "description": "A method that combines dance improvisation with design scenarios so that participants imagine future intimate technologies through their own bodies.",
+   "description_zh": "把舞蹈即兴与设计情境结合的方法，让参与者借自己的身体去想象未来的亲密技术。",
+   "idea_en": "Imagination is embodied: moving with another person makes possible technologies for intimacy felt before they are built.",
+   "idea_zh": "想象是具身的：与另一个人一起动起来，能让尚未造出的亲密技术先被感受到。",
+   "method": "Workshops mixing improvisation scores, props and discussion, developed around wearable and intimate technologies.",
+   "method_zh": "工作坊融合即兴谱、道具与讨论，围绕可穿戴与亲密技术展开。",
+   "keywords": [
+    "embodied imagination",
+    "improvisation",
+    "intimacy",
+    "Digital Creativity"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1080/14626260701743200",
+    "doi": "10.1080/14626260701743200",
+    "venue": "Digital Creativity 18(4), 2007",
+    "title": "Embodied imagination: a hybrid method of designing for intimacy"
+   }
+  },
+  {
+   "id": "elena-marquez-segura--embodied-sketching",
+   "creator_ids": [
+    "elena-marquez-segura",
+    "laia-turmo-vidal"
+   ],
+   "title": "Embodied Sketching",
+   "year": 2016,
+   "field": "methods",
+   "sub": "embodied-ideation",
+   "modalities": [
+    "movement",
+    "touch"
+   ],
+   "lenses": [
+    "pleasure-play",
+    "first-person",
+    "intercorporeality"
+   ],
+   "kind": "method",
+   "description": "A family of ideation methods in which designers and users sketch with their moving bodies, props and play in real settings, before any technology exists.",
+   "description_zh": "一组构思方法：在任何技术出现之前，设计师与用户在真实情境中用运动的身体、道具与游戏来画草图。",
+   "idea_en": "Bodies at play are sketching tools; the felt, social qualities of an activity can be explored before they are engineered.",
+   "idea_zh": "游戏中的身体就是草图工具；一种活动被感受到的、社会性的品质，可以在工程实现之前就被探索。",
+   "method": "Synthesis of several design projects (games, physiotherapy, dance) using bodystorming, embodied play tests and minimal props.",
+   "method_zh": "综合多个设计项目（游戏、物理治疗、舞蹈），使用身体风暴、具身游戏测试与极简道具。",
+   "keywords": [
+    "embodied sketching",
+    "bodystorming",
+    "play",
+    "props",
+    "CHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2858036.2858486",
+    "doi": "10.1145/2858036.2858486",
+    "venue": "CHI 2016",
+    "title": "Embodied Sketching"
+   },
+   "video": {
+    "url": "https://www.youtube.com/watch?v=tI1GUPjrXjQ"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "elena-marquez-segura--bodystorming-movement-based",
+   "creator_ids": [
+    "elena-marquez-segura",
+    "laia-turmo-vidal"
+   ],
+   "title": "Bodystorming for Movement-Based Interaction Design",
+   "year": 2016,
+   "field": "methods",
+   "sub": "embodied-ideation",
+   "modalities": [
+    "movement",
+    "posture-balance"
+   ],
+   "lenses": [
+    "movement-expression",
+    "first-person"
+   ],
+   "kind": "method",
+   "description": "Adapts bodystorming to movement-based interaction: participants explore movement, props and early technology together in the actual activity setting.",
+   "description_zh": "把身体风暴改造用于基于动作的交互设计：参与者在真实活动场景中一起探索动作、道具与早期技术。",
+   "idea_en": "For movement design, the ideas worth keeping are the ones that feel right in the body during the activity itself.",
+   "idea_zh": "对动作设计来说，值得保留的想法，是在活动本身中身体觉得对的那些。",
+   "method": "Analysis of bodystorming sessions in movement-based design projects (with Asreen Rostami).",
+   "method_zh": "分析基于动作的设计项目中的身体风暴环节（与 Asreen Rostami 合著）。",
+   "keywords": [
+    "bodystorming",
+    "movement-based interaction",
+    "Human Technology"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.17011/ht/urn.201611174655",
+    "doi": "10.17011/ht/urn.201611174655",
+    "venue": "Human Technology 12(2), 2016",
+    "title": "Bodystorming for movement-based interaction design"
+   }
+  },
+  {
+   "id": "laia-turmo-vidal--sensory-bodystorming",
+   "creator_ids": [
+    "laia-turmo-vidal",
+    "elena-marquez-segura"
+   ],
+   "title": "Sensory Bodystorming for Collocated Physical Training Design",
+   "year": 2018,
+   "field": "methods",
+   "sub": "embodied-ideation",
+   "modalities": [
+    "movement",
+    "vibration",
+    "light-vision"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "movement-expression"
+   ],
+   "kind": "method",
+   "description": "A bodystorming variant in which trainers and trainees try out sensory props — lights, sounds, vibrations — during real training sessions to imagine technology that supports learning movement together.",
+   "description_zh": "身体风暴的一种变体：教练与学员在真实训练课中试用光、声、振动等感官道具，想象支持共同学习动作的技术。",
+   "idea_en": "Sensory feedback is best designed inside the shared activity, where trainer and trainee feel each other's movement.",
+   "idea_zh": "感官反馈最好在共同活动之中设计，在那里教练与学员能感受彼此的动作。",
+   "method": "Workshops in circus and fitness training settings using simple sensory props, analysed for design qualities (with Annika Waern).",
+   "method_zh": "在马戏与健身训练场景中用简单感官道具开展工作坊，并分析设计品质（与 Annika Waern 合著）。",
+   "keywords": [
+    "sensory bodystorming",
+    "physical training",
+    "props",
+    "NordiCHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3240167.3240224",
+    "doi": "10.1145/3240167.3240224",
+    "venue": "NordiCHI 2018",
+    "title": "Sensory bodystorming for collocated physical training design"
+   }
+  },
+  {
+   "id": "charles-windlin--sketching-soma-bits",
+   "creator_ids": [
+    "charles-windlin",
+    "kristina-hook"
+   ],
+   "title": "Sketching Soma Bits",
+   "year": 2022,
+   "field": "methods",
+   "sub": "material-exploration",
+   "modalities": [
+    "heat",
+    "vibration",
+    "shape-change"
+   ],
+   "lenses": [
+    "touching-back",
+    "first-person",
+    "attunement"
+   ],
+   "kind": "method",
+   "description": "Describes the Soma Bits toolkit — small, soft modules that give heat, vibration and shape-change on the body, plus sensors — and how designers use it to sketch felt experiences directly on their skin.",
+   "description_zh": "介绍 Soma Bits 工具包——在身体上给出热、振动与形变的柔软小模块，外加传感器——以及设计师如何用它直接在皮肤上勾画被感受的体验。",
+   "idea_en": "Designers need materials they can feel on their own body within minutes; that immediacy is what lets the soma lead the design.",
+   "idea_zh": "设计师需要几分钟内就能在自己身上感受到的材料；正是这种即时性让身体得以主导设计。",
+   "method": "Modular hardware toolkit with actuators and sensors in fabric shapes, used and refined in workshops and courses (with Jarmo Laaksolahti).",
+   "method_zh": "模块化硬件工具包，把执行器与传感器装进织物外形中，在工作坊与课程中使用和改进（与 Jarmo Laaksolahti 合著）。",
+   "keywords": [
+    "Soma Bits",
+    "toolkit",
+    "heat",
+    "vibration",
+    "shape-change",
+    "DIS"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3532106.3533510",
+    "doi": "10.1145/3532106.3533510",
+    "venue": "DIS 2022",
+    "title": "Sketching Soma Bits"
+   },
+   "collections": [
+    "dis"
+   ]
+  },
+  {
+   "id": "miquel-alfaras--biodata-to-somadata",
+   "creator_ids": [
+    "miquel-alfaras",
+    "vasiliki-tsaknaki",
+    "kristina-hook"
+   ],
+   "title": "From Biodata to Somadata",
+   "year": 2020,
+   "field": "methods",
+   "sub": "material-exploration",
+   "modalities": [
+    "muscle",
+    "skin-arousal",
+    "breath"
+   ],
+   "lenses": [
+    "body-data",
+    "first-person",
+    "touching-back"
+   ],
+   "kind": "method",
+   "description": "Proposes 'somadata': biosignals such as muscle tension or breathing explored as design material through felt feedback on the body, instead of charts on a screen.",
+   "description_zh": "提出“身体数据（somadata）”：把肌电、呼吸等生物信号当作设计材料，通过身体上的感受反馈来探索，而不是屏幕上的图表。",
+   "idea_en": "Data about the body becomes meaningful when it is felt by the body; turning biodata into somadata keeps experience and measurement together.",
+   "idea_zh": "关于身体的数据，只有被身体感受到才有意义；把生物数据变成身体数据，让经验与测量不再分离。",
+   "method": "Design workshops where designers wore EMG and breathing sensors mapped to sound, vibration and heat, analysed as material exploration.",
+   "method_zh": "设计工作坊：设计师佩戴肌电与呼吸传感器，信号映射为声音、振动与热，并作为材料探索加以分析。",
+   "keywords": [
+    "somadata",
+    "biodata",
+    "EMG",
+    "biosignals",
+    "material exploration",
+    "CHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3313831.3376684",
+    "doi": "10.1145/3313831.3376684",
+    "venue": "CHI 2020",
+    "title": "From Biodata to Somadata"
+   },
+   "also": [
+    "affect"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=zohoISiOZmQ"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "claudia-nunez-pacheco--crafting-the-body-tool",
+   "creator_ids": [
+    "claudia-nunez-pacheco",
+    "lian-loke"
+   ],
+   "title": "Crafting the Body-Tool",
+   "year": 2014,
+   "field": "methods",
+   "sub": "material-exploration",
+   "modalities": [
+    "touch",
+    "whole-soma"
+   ],
+   "lenses": [
+    "first-person",
+    "attunement"
+   ],
+   "kind": "method",
+   "description": "A body-centred perspective on wearables in which the body and the worn object are crafted together as one 'body-tool' through felt exploration.",
+   "description_zh": "一种以身体为中心的可穿戴视角：身体与穿戴物在亲身探索中被一起“打造”为一个“身体—工具”。",
+   "idea_en": "A wearable is not added to the body; it becomes part of how the body feels itself.",
+   "idea_zh": "可穿戴物不是加在身体上的东西；它成为身体感受自己的一部分。",
+   "method": "Design study with wearable props and somatic exploration, drawing on phenomenology and somaesthetics.",
+   "method_zh": "借助可穿戴道具与身体探索开展的设计研究，理论上取自现象学与身体美学。",
+   "keywords": [
+    "body-tool",
+    "wearables",
+    "somaesthetics",
+    "DIS"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2598510.2598546",
+    "doi": "10.1145/2598510.2598546",
+    "venue": "DIS 2014",
+    "title": "Crafting the body-tool: a body-centred perspective on wearable technology"
+   },
+   "collections": [
+    "dis"
+   ]
+  },
+  {
+   "id": "katherine-isbister--sensual-evaluation-instrument",
+   "creator_ids": [
+    "katherine-isbister",
+    "kristina-hook"
+   ],
+   "title": "The Sensual Evaluation Instrument",
+   "year": 2006,
+   "field": "methods",
+   "sub": "articulation",
+   "modalities": [
+    "touch",
+    "whole-soma"
+   ],
+   "lenses": [
+    "affective-loop",
+    "first-person"
+   ],
+   "kind": "method",
+   "description": "A set of eight smooth, abstract sculpted objects that people hold and arrange to show how they feel while using a system, as a nonverbal alternative to questionnaires.",
+   "description_zh": "一组八个光滑、抽象的雕塑物件，人们在使用系统时握着、摆放它们来表达感受，作为问卷之外的非语言选择。",
+   "idea_en": "Feelings are bodily; letting people answer with their hands captures affect that words and rating scales flatten.",
+   "idea_zh": "情绪是身体性的；让人用手来回答，能捕捉到被语言和评分量表压平的情感。",
+   "method": "Hand-sized sculpted objects made by an artist co-author, tested in user and cross-cultural studies (with Jarmo Laaksolahti).",
+   "method_zh": "由一位艺术家合作者雕刻的手掌大小物件，并在用户研究与跨文化研究中检验（与 Jarmo Laaksolahti 合著）。",
+   "keywords": [
+    "Sensual Evaluation Instrument",
+    "SEI",
+    "nonverbal self-report",
+    "affect",
+    "CHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/1124772.1124946",
+    "doi": "10.1145/1124772.1124946",
+    "venue": "CHI 2006",
+    "title": "The sensual evaluation instrument: developing an affective evaluation tool"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "katherine-isbister--on-being-supple",
+   "creator_ids": [
+    "katherine-isbister",
+    "kristina-hook"
+   ],
+   "title": "On Being Supple: In Search of Rigor without Rigidity",
+   "year": 2009,
+   "field": "methods",
+   "sub": "articulation",
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "affective-loop",
+    "first-person"
+   ],
+   "kind": "paper",
+   "description": "Proposes 'supple' interaction — social, emotional, bodily — and asks how to evaluate it with rigour but without the rigid metrics of task performance.",
+   "description_zh": "提出“柔韧的”（supple）交互——社会的、情感的、身体的——并探讨如何以严谨而不僵硬的方式评估它，不再依赖任务绩效指标。",
+   "idea_en": "Evaluating felt, bodily experience needs methods as flexible as the experience itself.",
+   "idea_zh": "评估被感受的身体经验，需要与经验本身一样灵活的方法。",
+   "method": "Position paper drawing on the authors' affective and movement-based systems (eMoto, SenToy, games).",
+   "method_zh": "立场论文，取材于作者的情感与动作系统（eMoto、SenToy、游戏）。",
+   "keywords": [
+    "suppleness",
+    "evaluation",
+    "affective interaction",
+    "CHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/1518701.1519042",
+    "doi": "10.1145/1518701.1519042",
+    "venue": "CHI 2009",
+    "title": "On being supple: in search of rigor without rigidity in meeting new design and evaluation challenges for HCI practitioners"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "thecla-schiphorst--self-evidence",
+   "creator_ids": [
+    "thecla-schiphorst"
+   ],
+   "title": "Self-Evidence: Applying Somatic Connoisseurship to Experience Design",
+   "year": 2011,
+   "field": "methods",
+   "sub": "articulation",
+   "modalities": [
+    "whole-soma",
+    "breath",
+    "touch"
+   ],
+   "lenses": [
+    "first-person",
+    "attunement"
+   ],
+   "kind": "method",
+   "description": "Introduces somatic connoisseurship: using the trained felt sense of somatic practitioners as evidence in designing and evaluating experience.",
+   "description_zh": "提出“身体鉴赏力”：把身体修习者训练过的身体感受当作设计与评估体验的证据。",
+   "idea_en": "The felt sense, when trained, is evidence; designers can learn to trust and articulate it.",
+   "idea_zh": "经过训练的身体感受就是证据；设计师可以学会信任并说出它。",
+   "method": "Essay drawing on somatics (Laban, Feldenkrais, Body-Mind Centering) and the author's wearable and installation works.",
+   "method_zh": "论文取材于身心学（Laban、Feldenkrais、身心平衡技法 BMC）以及作者的可穿戴与装置作品。",
+   "keywords": [
+    "somatic connoisseurship",
+    "self-evidence",
+    "somatics",
+    "CHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/1979742.1979640",
+    "doi": "10.1145/1979742.1979640",
+    "venue": "CHI 2011 Extended Abstracts",
+    "title": "Self-evidence: applying somatic connoisseurship to experience design"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "jules-francoise--designing-for-kinesthetic-awareness",
+   "creator_ids": [
+    "jules-francoise",
+    "yves-candau",
+    "sarah-fdili-alaoui",
+    "thecla-schiphorst"
+   ],
+   "title": "Designing for Kinesthetic Awareness",
+   "year": 2017,
+   "field": "methods",
+   "sub": "articulation",
+   "modalities": [
+    "movement",
+    "voice-sound"
+   ],
+   "lenses": [
+    "attunement",
+    "first-person"
+   ],
+   "kind": "method",
+   "description": "Studies an interactive movement-sonification system and uses second-person interviews, inspired by micro-phenomenology, to reveal how people's kinesthetic awareness shifts.",
+   "description_zh": "研究一个动作声音化的交互系统，借鉴微观现象学，用第二人称访谈揭示人们的动觉觉察如何变化。",
+   "idea_en": "Subtle changes in bodily awareness are invisible to logs and surveys; guided second-person inquiry can bring them into words.",
+   "idea_zh": "身体觉察的细微变化在日志与问卷中看不到；有引导的第二人称询问能把它们带入语言。",
+   "method": "User study with a sonification system and second-person interview protocol, analysed for dimensions of kinesthetic experience.",
+   "method_zh": "以声音化系统开展用户研究，采用第二人称访谈流程，并分析动觉体验的维度。",
+   "keywords": [
+    "kinesthetic awareness",
+    "second-person inquiry",
+    "sonification",
+    "micro-phenomenology",
+    "CHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3025453.3025714",
+    "doi": "10.1145/3025453.3025714",
+    "venue": "CHI 2017",
+    "title": "Designing for Kinesthetic Awareness: Revealing User Experiences through Second-Person Inquiry"
+   },
+   "video": {
+    "url": "https://www.youtube.com/watch?v=6pqkj8FbWaA"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "claire-petitmengin--micro-phenomenological-interview",
+   "creator_ids": [
+    "claire-petitmengin"
+   ],
+   "title": "The Micro-Phenomenological Interview",
+   "year": 2006,
+   "field": "methods",
+   "sub": "articulation",
+   "modalities": [
+    "whole-soma"
+   ],
+   "lenses": [
+    "first-person",
+    "attunement"
+   ],
+   "kind": "method",
+   "description": "An interview technique that guides a person back into one specific past moment and helps them describe, in fine detail, what they felt and did — gestures, sensations, shifts of attention.",
+   "description_zh": "一种访谈技巧：引导人回到过去某个具体时刻，帮助他们细致描述当时的感受与动作——手势、感觉、注意力的转移。",
+   "idea_en": "Much of felt experience is pre-reflective; careful questioning can bring it into awareness without imposing interpretations.",
+   "idea_zh": "许多被感受的经验是前反思的；细致的提问可以把它带入觉察，而不强加解释。",
+   "method": "Second-person interview protocol (evocation of a singular experience, open 'how' questions, redirection from content to process).",
+   "method_zh": "第二人称访谈流程（唤起一次具体经验、开放的“如何”提问、从内容转向过程）。",
+   "keywords": [
+    "micro-phenomenology",
+    "explicitation interview",
+    "second-person",
+    "neurophenomenology",
+    "Varela"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1007/s11097-006-9022-2",
+    "doi": "10.1007/s11097-006-9022-2",
+    "venue": "Phenomenology and the Cognitive Sciences 5, 2006",
+    "title": "Describing one's subjective experience in the second person: An interview method for the science of consciousness"
+   },
+   "video": {
+    "url": "https://www.youtube.com/watch?v=YFU9YVuNXQg"
+   },
+   "source_url": "https://www.microphenomenology.com"
+  },
+  {
+   "id": "mirjana-prpa--articulating-experience",
+   "creator_ids": [
+    "mirjana-prpa",
+    "sarah-fdili-alaoui",
+    "thecla-schiphorst"
+   ],
+   "title": "Articulating Experience: Reflections from Experts Applying Micro-Phenomenology to Design Research in HCI",
+   "year": 2020,
+   "field": "methods",
+   "sub": "articulation",
+   "modalities": [
+    "whole-soma",
+    "breath"
+   ],
+   "lenses": [
+    "first-person",
+    "attunement"
+   ],
+   "kind": "method",
+   "description": "Interviews expert practitioners on how they use micro-phenomenology in HCI design research, and draws out its strengths, pitfalls and training needs.",
+   "description_zh": "访谈在人机交互设计研究中使用微观现象学的专家，梳理其优势、陷阱与训练需求。",
+   "idea_en": "Getting people to describe how an experience unfolds — not what they think about it — takes practice from both interviewer and interviewee.",
+   "idea_zh": "让人描述一段经验如何展开——而不是他们对它怎么想——需要访谈者与受访者双方的练习。",
+   "method": "Qualitative study with experienced micro-phenomenology practitioners in design and HCI (with Philippe Pasquier).",
+   "method_zh": "对设计与人机交互领域有经验的微观现象学实践者的质性研究（与 Philippe Pasquier 合著）。",
+   "keywords": [
+    "micro-phenomenology",
+    "articulation",
+    "interview",
+    "CHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3313831.3376664",
+    "doi": "10.1145/3313831.3376664",
+    "venue": "CHI 2020",
+    "title": "Articulating Experience: Reflections from Experts Applying Micro-Phenomenology to Design Research in HCI"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "paul-tennent--soma-trajectories",
+   "creator_ids": [
+    "paul-tennent",
+    "kristina-hook",
+    "steve-benford",
+    "vasiliki-tsaknaki"
+   ],
+   "title": "Articulating Soma Experiences using Trajectories",
+   "year": 2021,
+   "field": "methods",
+   "sub": "articulation",
+   "modalities": [
+    "whole-soma",
+    "breath",
+    "movement"
+   ],
+   "lenses": [
+    "first-person",
+    "body-mind-unity"
+   ],
+   "kind": "method",
+   "description": "Soma trajectories: a way of drawing and describing how a felt experience unfolds over time — moments of attention, sensation and transition — for design and analysis.",
+   "description_zh": "身体轨迹：一种描绘并叙述被感受的经验如何随时间展开的方式——注意、感觉与转换的时刻——用于设计与分析。",
+   "idea_en": "A soma experience has a shape in time; mapping that shape helps designers orchestrate transitions rather than single effects.",
+   "idea_zh": "身体经验在时间中有形状；描绘这种形状，帮助设计师编排过渡，而不只是单个效果。",
+   "method": "Extends Benford's trajectories framework with first-person accounts from several soma design projects.",
+   "method_zh": "以多个身体设计项目的第一人称叙述，扩展 Benford 的“轨迹”框架。",
+   "keywords": [
+    "soma trajectories",
+    "trajectories",
+    "articulation",
+    "CHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3411764.3445482",
+    "doi": "10.1145/3411764.3445482",
+    "venue": "CHI 2021",
+    "title": "Articulating Soma Experiences using Trajectories"
+   },
+   "video": {
+    "url": "https://www.youtube.com/watch?v=7ACi7LS9mj4"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "karen-anne-cochrane--body-maps",
+   "creator_ids": [
+    "karen-anne-cochrane",
+    "kristina-mah",
+    "anna-stahl",
+    "lian-loke"
+   ],
+   "title": "Body Maps: A Generative Tool for Soma-based Design",
+   "year": 2022,
+   "field": "methods",
+   "sub": "articulation",
+   "modalities": [
+    "whole-soma",
+    "touch",
+    "pain-interoception"
+   ],
+   "lenses": [
+    "first-person",
+    "attunement"
+   ],
+   "kind": "method",
+   "description": "Body maps — outlines of a body that people draw and colour to locate sensations and feelings — used as a generative tool for soma design rather than only as a record.",
+   "description_zh": "身体地图——人们在身体轮廓上绘画、涂色以标出感觉与情绪的位置——被用作身体设计的生成工具，而不只是记录。",
+   "idea_en": "Drawing where and how something is felt helps people notice and share sensations they could not put into words.",
+   "idea_zh": "画出“在哪里、以怎样的方式”感受到，能帮助人注意并分享说不出口的感觉。",
+   "method": "Workshops with body-map templates, drawing materials and somatic exercises, analysed across several soma design studies.",
+   "method_zh": "工作坊使用身体地图模板、绘画材料与身体练习，并在多项身体设计研究中比较分析。",
+   "keywords": [
+    "body maps",
+    "body mapping",
+    "generative tool",
+    "TEI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3490149.3502262",
+    "doi": "10.1145/3490149.3502262",
+    "venue": "TEI 2022",
+    "title": "Body Maps: A Generative Tool for Soma-based Design"
+   },
+   "collections": [
+    "tei"
+   ]
+  },
+  {
+   "id": "claudia-nunez-pacheco--focusing-for-interaction-design",
+   "creator_ids": [
+    "claudia-nunez-pacheco",
+    "lian-loke"
+   ],
+   "title": "Focusing for Interaction Design: An Introspective Somatic Method",
+   "year": 2022,
+   "field": "methods",
+   "sub": "articulation",
+   "modalities": [
+    "whole-soma",
+    "pain-interoception"
+   ],
+   "lenses": [
+    "first-person",
+    "attunement",
+    "body-mind-unity"
+   ],
+   "kind": "method",
+   "description": "Adapts Eugene Gendlin's Focusing into steps designers can use to attend to a vague bodily 'felt sense' and let it unfold into words, images and design ideas.",
+   "description_zh": "把 Eugene Gendlin 的 Focusing（体会聚焦）改造为设计师可用的步骤，去关注模糊的身体“体会”，并让它展开为词语、意象与设计想法。",
+   "idea_en": "Meaning often begins as an unclear bodily feeling; staying with it patiently lets understanding and emotion emerge together.",
+   "idea_zh": "意义常常始于一种模糊的身体感受；耐心地与它待在一起，理解与情绪会一同浮现。",
+   "method": "Method developed through first-person studies and workshops (following the authors' 2018 Design Journal technique paper).",
+   "method_zh": "通过第一人称研究与工作坊发展而来（延续作者 2018 年发表于《Design Journal》的技巧论文）。",
+   "keywords": [
+    "Focusing",
+    "felt sense",
+    "Gendlin",
+    "introspection",
+    "CHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3491102.3501978",
+    "doi": "10.1145/3491102.3501978",
+    "venue": "CHI 2022",
+    "title": "Focusing for Interaction Design: An Introspective Somatic Method"
+   },
+   "video": {
+    "url": "https://www.youtube.com/watch?v=g5e0WW1k5Fc"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "claudia-nunez-pacheco--tacit-narratives",
+   "creator_ids": [
+    "claudia-nunez-pacheco",
+    "lian-loke"
+   ],
+   "title": "Tacit Narratives: Surfacing Aesthetic Meaning by Using Wearable Props and Focusing",
+   "year": 2017,
+   "field": "methods",
+   "sub": "articulation",
+   "modalities": [
+    "touch",
+    "whole-soma"
+   ],
+   "lenses": [
+    "first-person",
+    "attunement"
+   ],
+   "kind": "method",
+   "description": "Participants wear simple props and follow Focusing steps to bring tacit, bodily meanings of an experience into narrative.",
+   "description_zh": "参与者穿戴简单的道具，并按照 Focusing 步骤，把一段经验中默会的、身体性的意义讲成叙述。",
+   "idea_en": "Objects on the body can act as handles for felt meanings that are otherwise hard to reach.",
+   "idea_zh": "身体上的物件可以成为把手，帮助我们触及原本难以触及的被感受的意义。",
+   "method": "Workshop study combining wearable props, guided Focusing and narrative analysis.",
+   "method_zh": "结合可穿戴道具、引导式 Focusing 与叙事分析的工作坊研究。",
+   "keywords": [
+    "tacit knowledge",
+    "Focusing",
+    "wearable props",
+    "TEI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3024969.3024979",
+    "doi": "10.1145/3024969.3024979",
+    "venue": "TEI 2017",
+    "title": "Tacit Narratives: Surfacing Aesthetic Meaning by Using Wearable Props and Focusing"
+   },
+   "collections": [
+    "tei"
+   ]
+  },
+  {
+   "id": "lian-loke--design-representations-moving-bodies",
+   "creator_ids": [
+    "lian-loke",
+    "toni-robertson"
+   ],
+   "title": "Design Representations of Moving Bodies for Interactive, Motion-Sensing Spaces",
+   "year": 2009,
+   "field": "methods",
+   "sub": "articulation",
+   "modalities": [
+    "movement",
+    "posture-balance"
+   ],
+   "lenses": [
+    "movement-expression"
+   ],
+   "kind": "method",
+   "description": "Compares ways of representing movement for design — Labanotation, video, scores, personas of movement — and what each lets designers see about the moving body.",
+   "description_zh": "比较为设计表示动作的各种方式——Laban 记谱法、视频、动作谱、动作人物画像——以及每种方式让设计师看见运动身体的哪些方面。",
+   "idea_en": "How a designer notates movement shapes what they can feel and design; choose representations that keep the mover's experience.",
+   "idea_zh": "设计师如何记录动作，决定了他们能感受到并设计什么；应选择能保留动者经验的表示方式。",
+   "method": "Design case of an interactive motion-sensing space, with representations drawn from dance notation and interaction design.",
+   "method_zh": "以一个交互式动作感应空间为设计案例，采用来自舞蹈记谱与交互设计的表示方法。",
+   "keywords": [
+    "Labanotation",
+    "movement notation",
+    "design representations",
+    "IJHCS"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1016/j.ijhcs.2008.11.003",
+    "doi": "10.1016/j.ijhcs.2008.11.003",
+    "venue": "International Journal of Human-Computer Studies 67(4), 2009",
+    "title": "Design representations of moving bodies for interactive, motion-sensing spaces"
+   }
+  },
+  {
+   "id": "caroline-hummels--seven-principles-embodied-sensemaking",
+   "creator_ids": [
+    "caroline-hummels"
+   ],
+   "title": "Seven Principles to Design for Embodied Sensemaking",
+   "year": 2015,
+   "field": "methods",
+   "sub": "design-knowledge",
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "movement-expression"
+   ],
+   "kind": "paper",
+   "description": "Seven principles for designing systems that support sensemaking through the body, grounded in enactive cognition rather than information processing.",
+   "description_zh": "七条设计原则，用于支持“通过身体理解意义”的系统，立足于生成认知而非信息加工。",
+   "idea_en": "People make sense of the world by moving in it; design should support that bodily sensemaking, not bypass it.",
+   "idea_zh": "人通过在世界中运动来理解世界；设计应支持这种身体性的意义建构，而不是绕过它。",
+   "method": "Principles derived from enactivism and phenomenology and illustrated with TU/e design projects (with Jelle van Dijk).",
+   "method_zh": "从生成主义与现象学中提炼原则，并以埃因霍温理工大学的设计项目为例（与 Jelle van Dijk 合著）。",
+   "keywords": [
+    "embodied sensemaking",
+    "enactivism",
+    "design principles",
+    "TEI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2677199.2680577",
+    "doi": "10.1145/2677199.2680577",
+    "venue": "TEI 2015",
+    "title": "Seven Principles to Design for Embodied Sensemaking"
+   },
+   "video": {
+    "url": "https://www.youtube.com/watch?v=JVq80-6dLok"
+   },
+   "collections": [
+    "tei"
+   ]
+  },
+  {
+   "id": "laia-turmo-vidal--intercorporeal-biofeedback",
+   "creator_ids": [
+    "laia-turmo-vidal",
+    "elena-marquez-segura"
+   ],
+   "title": "Intercorporeal Biofeedback for Movement Learning",
+   "year": 2023,
+   "field": "methods",
+   "sub": "design-knowledge",
+   "modalities": [
+    "movement",
+    "muscle",
+    "posture-balance"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "body-data"
+   ],
+   "kind": "paper",
+   "description": "A strong concept: biofeedback shared between trainer and trainee, so that both can see or feel one body's inner activity and learn the movement together.",
+   "description_zh": "一个强概念：在教练与学员之间共享的生物反馈，让双方都能看到或感受到一个身体的内在活动，从而一起学习动作。",
+   "idea_en": "Movement is learned between bodies; biofeedback works best when it supports that intercorporeal exchange instead of a lone user and a screen.",
+   "idea_zh": "动作是在身体之间学会的；生物反馈最有效的时候，是支持这种身体间的交流，而不是一个人对着屏幕。",
+   "method": "Strong concept articulated from several training-technology design cases, with its design qualities (with Annika Waern).",
+   "method_zh": "从多个训练技术设计案例中提炼的强概念及其设计品质（与 Annika Waern 合著）。",
+   "keywords": [
+    "intercorporeality",
+    "biofeedback",
+    "movement learning",
+    "strong concept",
+    "TOCHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3582428",
+    "doi": "10.1145/3582428",
+    "venue": "ACM TOCHI 30(3), 2023",
+    "title": "Intercorporeal Biofeedback for Movement Learning"
+   },
+   "also": [
+    "social"
+   ]
+  },
+  {
+   "id": "rachael-garrett--felt-ethics",
+   "creator_ids": [
+    "rachael-garrett",
+    "kristina-popova",
+    "claudia-nunez-pacheco",
+    "kristina-hook"
+   ],
+   "title": "Felt Ethics: Cultivating Ethical Sensibility in Design Practice",
+   "year": 2023,
+   "field": "methods",
+   "sub": "design-knowledge",
+   "modalities": [
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "body-politics"
+   ],
+   "kind": "method",
+   "description": "Argues that ethical judgment in design is also felt, and describes practices that cultivate designers' bodily ethical sensibility during design work.",
+   "description_zh": "主张设计中的伦理判断也是被感受的，并描述在设计工作中培养设计师身体性伦理感受力的实践。",
+   "idea_en": "Ethics is not only reasoning after the fact; discomfort and care felt in the body during design are ethical signals worth attending to.",
+   "idea_zh": "伦理不只是事后的推理；设计中身体感到的不适与关切，就是值得注意的伦理信号。",
+   "method": "Analysis of soma design and HRI design processes, identifying practices of felt ethical attention.",
+   "method_zh": "分析身体设计与人机器人交互设计过程，识别出被感受的伦理关注实践。",
+   "keywords": [
+    "felt ethics",
+    "ethical sensibility",
+    "soma design",
+    "CHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3544548.3580875",
+    "doi": "10.1145/3544548.3580875",
+    "venue": "CHI 2023",
+    "title": "Felt Ethics: Cultivating Ethical Sensibility in Design Practice"
+   },
+   "video": {
+    "url": "https://www.youtube.com/watch?v=iVN61ogAV5k"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "kristina-popova--vulnerability-ethical-stance",
+   "creator_ids": [
+    "kristina-popova",
+    "rachael-garrett",
+    "claudia-nunez-pacheco",
+    "kristina-hook"
+   ],
+   "title": "Vulnerability as an Ethical Stance in Soma Design Processes",
+   "year": 2022,
+   "field": "methods",
+   "sub": "design-knowledge",
+   "modalities": [
+    "whole-soma",
+    "intimate-body"
+   ],
+   "lenses": [
+    "body-politics",
+    "first-person"
+   ],
+   "kind": "paper",
+   "description": "Examines moments in soma design where designers expose their bodies and feelings, and argues that holding vulnerability with care is itself an ethical stance.",
+   "description_zh": "考察身体设计中设计师暴露自己的身体与感受的时刻，并主张以关怀承接脆弱性本身就是一种伦理立场。",
+   "idea_en": "Designing from the body means being exposed; vulnerability handled with care produces both better knowledge and fairer processes.",
+   "idea_zh": "从身体出发做设计就意味着会暴露自己；被细心对待的脆弱性，既带来更好的知识，也带来更公平的过程。",
+   "method": "Reflective analysis of first-person soma design processes and workshops (with Airi Lampinen).",
+   "method_zh": "对第一人称身体设计过程与工作坊的反思性分析（与 Airi Lampinen 合著）。",
+   "keywords": [
+    "vulnerability",
+    "ethics",
+    "soma design",
+    "CHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3491102.3501994",
+    "doi": "10.1145/3491102.3501994",
+    "venue": "CHI 2022",
+    "title": "Vulnerability as an ethical stance in soma design processes"
+   },
+   "video": {
+    "url": "https://www.youtube.com/watch?v=3eTw27UrRlQ"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "anna-stahl--making-new-worlds",
+   "creator_ids": [
+    "anna-stahl",
+    "madeline-balaam",
+    "kristina-hook"
+   ],
+   "title": "Making New Worlds: Transformative Becomings with Soma Design",
+   "year": 2022,
+   "field": "methods",
+   "sub": "design-knowledge",
+   "modalities": [
+    "whole-soma",
+    "intimate-body"
+   ],
+   "lenses": [
+    "body-politics",
+    "body-mind-unity"
+   ],
+   "kind": "paper",
+   "description": "Argues that soma design changes designers and users, not only products, and reads soma design projects as ways of becoming — and of imagining other worlds for bodies.",
+   "description_zh": "主张身体设计改变的不只是产品，还有设计师与使用者；把身体设计项目理解为“生成”的方式，以及为身体想象另一种世界的方式。",
+   "idea_en": "Working through the body transforms who we are; soma design is also a practice of changing how bodies are allowed to live.",
+   "idea_zh": "透过身体工作会改变我们是谁；身体设计也是一种改变身体被允许如何生活的实践。",
+   "method": "Theoretical reading of soma design cases through feminist new materialism and transformation (with Rob Comber).",
+   "method_zh": "借女性主义新物质主义与“转化”理论解读身体设计案例（与 Rob Comber 合著）。",
+   "keywords": [
+    "transformation",
+    "becoming",
+    "feminist new materialism",
+    "soma design",
+    "CHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3491102.3502018",
+    "doi": "10.1145/3491102.3502018",
+    "venue": "CHI 2022",
+    "title": "Making New Worlds – Transformative Becomings with Soma Design"
+   },
+   "video": {
+    "url": "https://www.youtube.com/watch?v=yvlBEyPYZXw"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "anna-stahl--pelvic-chair-annotated",
+   "creator_ids": [
+    "anna-stahl",
+    "madeline-balaam"
+   ],
+   "title": "An Annotated Soma Design Process of the Pelvic Chair",
+   "year": 2022,
+   "field": "methods",
+   "sub": "design-knowledge",
+   "modalities": [
+    "intimate-body",
+    "posture-balance"
+   ],
+   "lenses": [
+    "first-person",
+    "body-politics"
+   ],
+   "kind": "method",
+   "description": "An annotated portfolio of the whole soma design process behind the Pelvic Chair, a chair that helps people feel their pelvic floor, making each design move and its felt reason visible.",
+   "description_zh": "对 Pelvic Chair（一把帮助人感受盆底的椅子）整个身体设计过程所做的注释性作品集，让每一步设计选择及其身体感受上的理由都清楚可见。",
+   "idea_en": "Soma design knowledge lives in the process; annotating that process shows how felt judgments steer the design.",
+   "idea_zh": "身体设计的知识存在于过程之中；为过程作注释，能展示被感受的判断如何引导设计。",
+   "method": "Annotated portfolio method applied to a first-person soma design process (with Marianela Ciolfi Felice and Irene Kaklopoulou).",
+   "method_zh": "把注释性作品集方法应用于第一人称的身体设计过程（与 Marianela Ciolfi Felice、Irene Kaklopoulou 合著）。",
+   "keywords": [
+    "annotated portfolio",
+    "Pelvic Chair",
+    "pelvic floor",
+    "design process",
+    "DIS"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3532106.3533469",
+    "doi": "10.1145/3532106.3533469",
+    "venue": "DIS 2022",
+    "title": "An Annotated Soma Design Process of the Pelvic Chair"
+   },
+   "also": [
+    "intimate"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=HspE-Al7_Y0"
+   },
+   "collections": [
+    "dis"
+   ]
+  },
+  {
+   "id": "lian-loke--somatic-turn",
+   "creator_ids": [
+    "lian-loke",
+    "thecla-schiphorst"
+   ],
+   "title": "The Somatic Turn in Human-Computer Interaction",
+   "year": 2018,
+   "field": "methods",
+   "sub": "design-knowledge",
+   "modalities": [
+    "whole-soma",
+    "movement"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "attunement"
+   ],
+   "kind": "paper",
+   "description": "An interactions article that names HCI's 'somatic turn': designers drawing on somatic practices to treat felt, first-person experience as central to design.",
+   "description_zh": "《interactions》文章，命名人机交互的“身体转向”：设计师借鉴身体修习，把被感受的第一人称经验放到设计的中心。",
+   "idea_en": "Somatic practices give designers disciplined ways to attend to the body-mind as a whole, which is what makes soma design possible.",
+   "idea_zh": "身体修习为设计师提供了有纪律的方式，把身心作为整体来关注，这正是身体设计得以成立的前提。",
+   "method": "Short overview essay linking Feldenkrais, Laban, Body-Mind Centering and other somatics to HCI methods.",
+   "method_zh": "简短的综述文章，把 Feldenkrais、Laban、身心平衡技法（BMC）等身心学与人机交互方法联系起来。",
+   "keywords": [
+    "somatic turn",
+    "somatics",
+    "interactions"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3236675",
+    "doi": "10.1145/3236675",
+    "venue": "ACM interactions 25(5), 2018",
+    "title": "The somatic turn in human-computer interaction"
+   }
+  },
+  {
+   "id": "kristina-hook--soma-design-politics-of-the-body",
+   "creator_ids": [
+    "kristina-hook",
+    "sara-eriksson",
+    "marie-louise-juul-sondergaard"
+   ],
+   "title": "Soma Design and Politics of the Body",
+   "year": 2019,
+   "field": "methods",
+   "sub": "design-knowledge",
+   "modalities": [
+    "whole-soma",
+    "intimate-body"
+   ],
+   "lenses": [
+    "body-politics",
+    "body-mind-unity"
+   ],
+   "kind": "paper",
+   "description": "A short paper arguing that design tends to repeat dichotomies such as body-mind, male-female and emotion-thinking, and that closer somatic engagement with digital materials can help designers bypass them and counter privilege.",
+   "description_zh": "一篇短论文，指出设计常常重复身/心、男/女、情绪/思考等二分，而更深入地以身体投入数字材料，能帮助设计师绕开这些现成概念、对抗特权。",
+   "idea_en": "Feeling your own body more finely also makes visible the social norms written into it; soma design has to engage those politics.",
+   "idea_zh": "更细致地感受自己的身体，也会让刻写在身体上的社会规范显现出来；身体设计必须面对这些政治。",
+   "method": "Position paper reflecting on the KTH group's soma design projects through non-dualism and feminist qualities such as pluralism and participation (with Ciolfi Felice, Campo Woytuk, Kilic Afsar, Tsaknaki and Ståhl).",
+   "method_zh": "立场论文，从非二元立场与多元、参与等女性主义品质出发，反思 KTH 团队的身体设计项目（与 Ciolfi Felice、Campo Woytuk、Kilic Afsar、Tsaknaki、Ståhl 合著）。",
+   "keywords": [
+    "politics of the body",
+    "feminist HCI",
+    "soma design",
+    "Halfway to the Future"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3363384.3363385",
+    "doi": "10.1145/3363384.3363385",
+    "venue": "Halfway to the Future Symposium 2019",
+    "title": "Soma Design and Politics of the Body"
+   }
+  },
+  {
+   "id": "rachael-garrett--five-political-provocations",
+   "creator_ids": [
+    "rachael-garrett",
+    "claudia-nunez-pacheco",
+    "kristina-hook"
+   ],
+   "title": "Five Political Provocations for Soma Design: A Relational Perspective on Emotion and Politics",
+   "year": 2024,
+   "field": "methods",
+   "sub": "design-knowledge",
+   "modalities": [
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-politics",
+    "intercorporeality"
+   ],
+   "kind": "paper",
+   "description": "Five provocations on the politics of soma design — ways of knowing, the self, felt ethics and right action, the pursuit of happiness, and justice and the emotional labour of transformation.",
+   "description_zh": "关于身体设计之政治的五条“挑衅”：认识方式、自我、被感受的伦理与正当行动、对幸福的追求，以及正义与转化中的情绪劳动。",
+   "idea_en": "Felt experience is shaped between bodies and by society; designing for the soma therefore means designing within politics.",
+   "idea_zh": "被感受的经验在身体之间、由社会塑造；因此为身体设计，就是在政治之中设计。",
+   "method": "Conceptual paper combining soma design, political theory and Sara Ahmed's The Cultural Politics of Emotion (with Pasko Kisić-Merino and Pedro Sanches).",
+   "method_zh": "结合身体设计、政治理论与 Sara Ahmed《情绪的文化政治》写成的概念性论文（与 Pasko Kisić-Merino、Pedro Sanches 合著）。",
+   "keywords": [
+    "provocations",
+    "politics",
+    "emotion",
+    "Sara Ahmed",
+    "soma design"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3686169.3686213",
+    "doi": "10.1145/3686169.3686213",
+    "venue": "Halfway to the Future 2024",
+    "title": "Five Political Provocations for Soma Design: A Relational Perspective on Emotion and Politics"
+   }
+  },
+  {
+   "id": "jonas-fritsch--estrangement-through-silence",
+   "creator_ids": [
+    "jonas-fritsch",
+    "kristina-hook",
+    "claudia-nunez-pacheco",
+    "anna-stahl"
+   ],
+   "title": "Estrangement through Silence",
+   "year": 2025,
+   "field": "methods",
+   "sub": "estrangement",
+   "modalities": [
+    "voice-sound",
+    "whole-soma"
+   ],
+   "lenses": [
+    "estrangement",
+    "attunement",
+    "intercorporeality"
+   ],
+   "kind": "method",
+   "description": "Over four workshops across 18 months, mostly outdoors, the authors kept long periods of shared silence; the collective silence worked as an estrangement method that revealed how people and things shape one another.",
+   "description_zh": "在一年半里的四次工作坊中（多在户外），作者们长时间共同保持静默；这种集体静默成为一种陌生化方法，揭示了人与物如何彼此构成。",
+   "idea_en": "Silence is not an absence but a presence full of sound and contact; shared silence tunes designers to themselves, each other and the environment.",
+   "idea_zh": "静默不是缺席，而是充满声音与接触的在场；共同的静默让设计师与自己、彼此和环境调谐。",
+   "method": "Four first-person workshops with prolonged collective silence during activities such as cooking and designing (with Pedro Sanches and Vasiliki Tsaknaki).",
+   "method_zh": "四次第一人称工作坊，在烹饪、设计等活动中长时间保持集体静默（与 Pedro Sanches、Vasiliki Tsaknaki 合著）。",
+   "keywords": [
+    "silence",
+    "estrangement",
+    "listening",
+    "soma design",
+    "DIS"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3715336.3735711",
+    "doi": "10.1145/3715336.3735711",
+    "venue": "DIS 2025",
+    "title": "Estrangement through Silence"
+   },
+   "collections": [
+    "dis"
+   ]
+  },
+  {
+   "id": "kristina-popova--voicing-discomfort",
+   "creator_ids": [
+    "kristina-popova"
+   ],
+   "title": "Voicing Discomfort, Communicating Breakdowns: Design Exploration of Felt Ethics in a Body-Based Workshop",
+   "year": 2024,
+   "field": "methods",
+   "sub": "design-knowledge",
+   "modalities": [
+    "whole-soma",
+    "touch",
+    "movement"
+   ],
+   "lenses": [
+    "body-politics",
+    "intercorporeality",
+    "first-person"
+   ],
+   "kind": "method",
+   "description": "A soma-design workshop with interaction designers that explores ethics through the discomfort felt in interpersonal bodily interaction, and how participants make that discomfort shared.",
+   "description_zh": "一个面向交互设计师的身体设计工作坊：通过人与人身体互动中的不适来探讨伦理，并观察参与者如何让这种不适被共同承认。",
+   "idea_en": "Ethical breakdowns are first felt as discomfort; giving people ways to voice it keeps bodies safe and design honest.",
+   "idea_zh": "伦理上的裂缝最先表现为身体的不适；给人说出它的方式，能保护身体，也让设计保持诚实。",
+   "method": "Body-based workshop grounded in soma design and the ethics of care, analysed from video recordings and post-workshop interviews (with Arife Dila Demir, Joo Young Park and Rob Comber).",
+   "method_zh": "以身体设计与关怀伦理为基础的工作坊，依据录像与事后访谈进行分析（与 Arife Dila Demir、Joo Young Park、Rob Comber 合著）。",
+   "keywords": [
+    "felt ethics",
+    "discomfort",
+    "workshop",
+    "ethics of care",
+    "NordiCHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3679318.3685375",
+    "doi": "10.1145/3679318.3685375",
+    "venue": "NordiCHI 2024",
+    "title": "Voicing Discomfort, Communicating Breakdowns: Design Exploration of Felt Ethics in a Body-Based Workshop"
+   }
+  },
+  {
+   "id": "kristina-hook--change-and-be-changed",
+   "creator_ids": [
+    "kristina-hook",
+    "jonas-lowgren",
+    "anna-stahl"
+   ],
+   "title": "Change and Be Changed: Looking Back at 10 Years of the Soma Design Research Program",
+   "year": 2026,
+   "field": "methods",
+   "sub": "design-knowledge",
+   "modalities": [
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "first-person"
+   ],
+   "kind": "paper",
+   "description": "A TOCHI retrospective on ten years of the soma design research program: what its methods, prototypes and concepts achieved, and how doing it changed the designers themselves.",
+   "description_zh": "TOCHI 回顾文章，总结身体设计研究纲领的十年：它的方法、原型与概念取得了什么，以及这项工作如何改变了设计师自己。",
+   "idea_en": "Soma design changes the designer as much as the design; a research program built on the felt body must account for that change.",
+   "idea_zh": "身体设计改变设计师，不亚于改变设计；建立在被感受的身体之上的研究纲领，必须把这种改变算进去。",
+   "method": "Retrospective analysis of design examples and concepts, assessing the program's generativity, transferability and scope.",
+   "method_zh": "对设计案例与概念的回顾性分析，从生成力、可迁移性与范围三方面评估该纲领。",
+   "keywords": [
+    "soma design",
+    "research program",
+    "retrospective",
+    "TOCHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3793670",
+    "doi": "10.1145/3793670",
+    "venue": "ACM TOCHI 2026",
+    "title": "Change and Be Changed: Looking Back at 10 Years of the Soma Design Research Program"
+   }
+  }
+ ],
+ "leads": [
+  {
+   "name": "Wonjun Lee, Youn-kyung Lim & Richard Shusterman — Practicing somaesthetics (DIS 2014)",
+   "why": "Somaesthetic training exercises for product design ideation; Korean first author, so for the east-asia batch.",
+   "link": "https://doi.org/10.1145/2598510.2598561",
+   "found_via": "kristina-hook",
+   "status": "open"
+  },
+  {
+   "name": "Kanda & Kunze — Soma Express Kit (2023)",
+   "why": "Toolkit for the somaesthetic experience of people with visual impairment; Japanese authors (east-asia batch).",
+   "link": "https://doi.org/10.1145/3627050.3631571",
+   "found_via": "kristina-hook",
+   "status": "open"
+  },
+  {
+   "name": "Klemmer, Hartmann & Takayama — How bodies matter (DIS 2006)",
+   "why": "Five themes for embodied interaction design; hci-theory, foundations batch.",
+   "link": "https://doi.org/10.1145/1142405.1142429",
+   "found_via": "kristina-hook",
+   "status": "open"
+  },
+  {
+   "name": "Svanæs — Interaction design for and with the lived body (TOCHI 2013)",
+   "why": "Merleau-Ponty for interaction design; foundations/hci-theory.",
+   "link": "https://doi.org/10.1145/2442106.2442114",
+   "found_via": "dag-svanaes",
+   "status": "open"
+  },
+  {
+   "name": "Tholander & Nylander — Snot, Sweat, Pain, Mud, and Snow (CHI 2015)",
+   "why": "Felt experience of athletes with sports watches; movement/exertion batch.",
+   "link": "https://doi.org/10.1145/2702123.2702482",
+   "found_via": "kristina-hook",
+   "status": "open"
+  },
+  {
+   "name": "Moen — Towards people based movement interaction and kinaesthetic interaction experiences (2005) / BodyBug",
+   "why": "Early free-movement method for kinaesthetic interaction design.",
+   "link": "https://doi.org/10.1145/1094562.1094579",
+   "found_via": "caroline-hummels",
+   "status": "open"
+  },
+  {
+   "name": "Karpashevich et al. — Reinterpreting Schlemmer's Triadic Ballet (CHI 2018)",
+   "why": "Costumes that estrange movement ('unthinkable movements'); hook-lab / movement.",
+   "link": "https://doi.org/10.1145/3173574.3173635",
+   "found_via": "kristina-hook",
+   "status": "open"
+  },
+  {
+   "name": "Tsaknaki — The Breathing Wings (DIS 2021)",
+   "why": "Autobiographical soma design of touch qualities with shape-change; hook-lab prototype.",
+   "link": "https://doi.org/10.1145/3461778.3462054",
+   "found_via": "vasiliki-tsaknaki",
+   "status": "open"
+  },
+  {
+   "name": "Mueller & Isbister — Movement-based game guidelines (CHI 2014)",
+   "why": "Design knowledge for movement games; movement batch.",
+   "link": "https://doi.org/10.1145/2556288.2557163",
+   "found_via": "katherine-isbister",
+   "status": "open"
+  },
+  {
+   "name": "Altarriba Bertran et al. — Chasing Play Potentials (DIS 2019)",
+   "why": "Embodied, situated play design method.",
+   "link": "https://doi.org/10.1145/3322276.3322325",
+   "found_via": "elena-marquez-segura",
+   "status": "open"
+  },
+  {
+   "name": "Márquez Segura et al. — The design space of body games (CHI 2013)",
+   "why": "Design space for embodied play; possible home of 'embodied core mechanics'.",
+   "link": "https://doi.org/10.1145/2470654.2466461",
+   "found_via": "elena-marquez-segura",
+   "status": "open"
+  },
+  {
+   "name": "Vega-Cebrián et al. — Towards a Minimalist Embodied Sketching Toolkit for Wearable Design for Motor Learning (TEI 2024)",
+   "why": "Embodied sketching toolkit follow-up.",
+   "link": "https://doi.org/10.1145/3623509.3635253",
+   "found_via": "elena-marquez-segura",
+   "status": "open"
+  },
+  {
+   "name": "Benford et al. — Tangles: Unpacking Extended Collision Experiences with Soma Trajectories (TOCHI 2025)",
+   "why": "Extends soma trajectories.",
+   "link": "https://doi.org/10.1145/3723875",
+   "found_via": "paul-tennent",
+   "status": "open"
+  },
+  {
+   "name": "Gamboa et al. — More Samples of One (DIS 2024)",
+   "why": "Follow-up first-person methods workshop.",
+   "link": "https://doi.org/10.1145/3656156.3658382",
+   "found_via": "andres-lucero",
+   "status": "open"
+  },
+  {
+   "name": "Desjardins et al. — Introduction to the Special Issue on First-Person Methods in HCI (TOCHI 2021)",
+   "why": "Survey of first-person methods.",
+   "link": "https://doi.org/10.1145/3492342",
+   "found_via": "andres-lucero",
+   "status": "open"
+  },
+  {
+   "name": "Lucero, Desjardins & Neustaedter — Longitudinal First-Person HCI Research Methods (2021)",
+   "why": "Book chapter on first-person methods.",
+   "link": "https://doi.org/10.1007/978-3-030-67322-2_5",
+   "found_via": "andres-lucero",
+   "status": "open"
+  },
+  {
+   "name": "Núñez-Pacheco & Loke — Towards a technique for articulating aesthetic experiences in design using Focusing and the Felt Sense (Design Journal 2018)",
+   "why": "Earlier version of the Focusing method.",
+   "link": "https://doi.org/10.1080/14606925.2018.1467680",
+   "found_via": "claudia-nunez-pacheco",
+   "status": "open"
+  },
+  {
+   "name": "Núñez-Pacheco & Poikolainen Rosén — Articulating Felt Senses for More-Than-Human Design (DIS 2024)",
+   "why": "Felt sense for more-than-human design.",
+   "link": "https://doi.org/10.1145/3643834.3661554",
+   "found_via": "claudia-nunez-pacheco",
+   "status": "open"
+  },
+  {
+   "name": "Cochrane, Dubois & Girouard — Tactile Narratives: Augmenting Body Maps through Textured Fabric (TEI 2024)",
+   "why": "Body maps extended with fabric.",
+   "link": "https://doi.org/10.1145/3623509.3633399",
+   "found_via": "karen-anne-cochrane",
+   "status": "open"
+  },
+  {
+   "name": "Loke & Robertson — Inventing and devising movement in the design of movement-based interactive systems (OzCHI 2008)",
+   "why": "Earlier movement-method paper.",
+   "link": "https://doi.org/10.1145/1517744.1517769",
+   "found_via": "lian-loke",
+   "status": "open"
+  },
+  {
+   "name": "Candau, Schiphorst & Françoise — Designing from Embodied Knowing (2018 chapter)",
+   "why": "Practice-based research at the intersection of somatics and interaction.",
+   "link": "https://doi.org/10.1007/978-3-319-73374-6_11",
+   "found_via": "thecla-schiphorst",
+   "status": "open"
+  },
+  {
+   "name": "Schiphorst — soft(n): toward a somaesthetics of touch (CHI EA 2009)",
+   "why": "Somaesthetics of touch; artwork, movement/social batch.",
+   "link": "https://doi.org/10.1145/1520340.1520345",
+   "found_via": "thecla-schiphorst",
+   "status": "open"
+  },
+  {
+   "name": "Gamboa & Hendriks — In Praise of Shadows: Sensibility and Somaesthetic Appreciation for Shadows (DIS 2024)",
+   "why": "Somaesthetic appreciation extended to shadows; Tanizaki link, possibly east-asia.",
+   "link": "https://doi.org/10.1145/3643834.3660679",
+   "found_via": "kristina-hook",
+   "status": "open"
+  },
+  {
+   "name": "Rapp — Autoethnography in Human-Computer Interaction: Theory and Practice (2018)",
+   "why": "Methodological chapter on autoethnography.",
+   "link": "https://doi.org/10.1007/978-3-319-73374-6_3",
+   "found_via": "andres-lucero",
+   "status": "open"
+  },
+  {
+   "name": "Vermersch — Explicitation interview",
+   "why": "Origin of the micro-phenomenological interview; no stable English source found.",
+   "link": "https://doi.org/10.5840/zeta-premiere201410",
+   "found_via": "claire-petitmengin",
+   "status": "no_media"
+  },
+  {
+   "name": "Nummenmaa et al. — Bodily maps of emotions (PNAS 2014)",
+   "why": "Body-map instrument for emotions; affect batch.",
+   "link": "https://doi.org/10.1073/pnas.1321664111",
+   "found_via": "karen-anne-cochrane",
+   "status": "open"
+  },
+  {
+   "name": "Höök — Soma Design: Intertwining Aesthetics, Ethics and Movement (TEI 2020 keynote)",
+   "why": "Keynote abstract with talk video (taUFMwrBHxE).",
+   "link": "https://doi.org/10.1145/3374920.3374964",
+   "found_via": "kristina-hook",
+   "status": "open"
+  },
+  {
+   "name": "Jonsson et al. — The Aesthetics of Heat (TEI 2016)",
+   "why": "Heat as somaesthetic material; hook-lab.",
+   "link": "https://doi.org/10.1145/2839462.2839487",
+   "found_via": "kristina-hook",
+   "status": "open"
+  }
+ ]
+}

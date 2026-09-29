@@ -1,0 +1,3225 @@
+{
+ "batch": "hook-lab",
+ "creators": [
+  {
+   "id": "kristina-hook",
+   "name": "Kristina Höök",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Interaction Design, KTH Royal Institute of Technology",
+   "based": "Stockholm, SE",
+   "bio": "Kristina Höök moved from affective computing at SICS (eMoto, Affective Diary, Affective Health) to founding soma design at KTH. The book Designing with the Body (MIT Press, 2018) sets out the programme.",
+   "why": "Höök built the soma design programme and the lab lineage this gallery is organised around.",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {
+    "site": "https://www.kth.se/profile/khook"
+   },
+   "role_zh": "瑞典皇家理工学院（KTH）交互设计教授",
+   "bio_zh": "Kristina Höök 早年在瑞典计算机科学研究所（SICS）做情感计算（eMoto、Affective Diary、Affective Health），后来在 KTH 创立了身体设计（soma design）。《Designing with the Body》（MIT Press，2018）系统阐述了这一研究纲领。",
+   "why_zh": "Höök 建立了身体设计的研究纲领，本图录正是围绕这条实验室谱系组织的。",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "connected_to": [
+    "anna-stahl",
+    "pedro-sanches",
+    "vasiliki-tsaknaki",
+    "madeline-balaam",
+    "katherine-isbister",
+    "martin-jonsson"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "anna-stahl",
+   "name": "Anna Ståhl",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Senior researcher, RISE Research Institutes of Sweden",
+   "based": "Stockholm, SE",
+   "bio": "Anna Ståhl is an interaction designer who has worked with Höök since eMoto and the Affective Diary, and co-designed the Soma Mat, Breathing Light and Pelvic Chair.",
+   "why": "Ståhl's annotated soma design processes show how somatic judgement guides material choices step by step.",
+   "disciplines": [
+    "design",
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "瑞典研究院（RISE）高级研究员",
+   "bio_zh": "Anna Ståhl 是交互设计师，从 eMoto 和 Affective Diary 起就与 Höök 合作，参与设计了 Soma Mat、Breathing Light 和 Pelvic Chair。",
+   "why_zh": "Ståhl 对身体设计过程的注释式记录，展示了身体感受如何一步步引导材料上的判断。",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "connected_to": [
+    "kristina-hook",
+    "madeline-balaam",
+    "martin-jonsson"
+   ],
+   "discovered_via": "kristina-hook"
+  },
+  {
+   "id": "martin-jonsson",
+   "name": "Martin Jonsson",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Interaction design researcher, Södertörn University",
+   "based": "Stockholm, SE",
+   "bio": "Martin Jonsson (also published as Jönsson) co-developed the heated Soma Mat and the Sarka sound mat with Höök's group.",
+   "why": "Jonsson's work treats heat as an aesthetic design material for turning attention inward.",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "role_zh": "瑟德脱恩大学交互设计研究者",
+   "bio_zh": "Martin Jonsson（论文中也署名 Jönsson）与 Höök 团队共同开发了加热的 Soma Mat 和发声的 Sarka 垫子。",
+   "why_zh": "Jonsson 把热当作一种审美性的设计材料，用来把注意力引向身体内部。",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "connected_to": [
+    "kristina-hook",
+    "anna-stahl",
+    "ilias-bergstrom"
+   ],
+   "discovered_via": "kristina-hook"
+  },
+  {
+   "id": "jarmo-laaksolahti",
+   "name": "Jarmo Laaksolahti",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, KTH Royal Institute of Technology",
+   "based": "Stockholm, SE",
+   "bio": "Jarmo Laaksolahti is a long-time SICS and KTH collaborator of Höök, from the Sensual Evaluation Instrument and Affective Diary to the Soma Bits toolkit.",
+   "why": "Laaksolahti engineered many of the lab's prototyping platforms.",
+   "disciplines": [
+    "hci",
+    "engineering"
+   ],
+   "links": {},
+   "role_zh": "瑞典皇家理工学院（KTH）研究员",
+   "bio_zh": "Jarmo Laaksolahti 长期在 SICS 与 KTH 同 Höök 合作，参与过 Sensual Evaluation Instrument、Affective Diary 和 Soma Bits 工具包。",
+   "why_zh": "实验室的许多原型平台由 Laaksolahti 负责工程实现。",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "connected_to": [
+    "kristina-hook",
+    "charles-windlin"
+   ],
+   "discovered_via": "kristina-hook"
+  },
+  {
+   "id": "petra-sundstrom",
+   "name": "Petra Sundström",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Interaction design researcher (SICS and Stockholm University), creator of eMoto",
+   "based": "Stockholm, SE",
+   "bio": "Petra Sundström (published earlier as Petra Fagerberg) designed eMoto, an affective messaging service, as doctoral research with Höök.",
+   "why": "eMoto was the first worked example of an affective loop between gesture, colour and emotion.",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "role_zh": "交互设计研究者（SICS 与斯德哥尔摩大学），eMoto 的设计者",
+   "bio_zh": "Petra Sundström（早期论文署名 Petra Fagerberg）在 Höök 指导下以博士研究设计了情感短信系统 eMoto。",
+   "why_zh": "eMoto 是手势、色彩与情绪之间“情感回路”的第一个完整案例。",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "connected_to": [
+    "kristina-hook",
+    "anna-stahl"
+   ],
+   "discovered_via": "kristina-hook"
+  },
+  {
+   "id": "ana-paiva",
+   "name": "Ana Paiva",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor, Instituto Superior Técnico, University of Lisbon (GAIPS, INESC-ID)",
+   "based": "Lisbon, PT",
+   "bio": "Ana Paiva leads research on affective agents and social robots in Lisbon. In the EU SAFIRA project, Paiva's team built SenToy with Höök's SICS team.",
+   "why": "SenToy made emotion something you express with your whole arm, not a menu choice.",
+   "disciplines": [
+    "hci",
+    "engineering"
+   ],
+   "links": {},
+   "role_zh": "里斯本大学高等理工学院教授（GAIPS，INESC-ID）",
+   "bio_zh": "Ana Paiva 在里斯本领导情感智能体与社交机器人研究。在欧盟 SAFIRA 项目中，Paiva 的团队与 Höök 的 SICS 团队一起做出了 SenToy。",
+   "why_zh": "SenToy 让情绪成为用整只手臂表达的东西，而不是菜单里的选项。",
+   "based_zh": "里斯本，葡萄牙",
+   "connected_to": [
+    "kristina-hook"
+   ],
+   "discovered_via": "kristina-hook"
+  },
+  {
+   "id": "pedro-sanches",
+   "name": "Pedro Sanches",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Interaction design researcher, Umeå University (formerly KTH)",
+   "based": "Umeå, SE",
+   "bio": "Pedro Sanches designed Affective Health at SICS and later worked on soma design, biodata and lived data at KTH.",
+   "why": "Sanches argues that biodata should be mirrored back for people's own interpretation rather than used to diagnose them.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "于默奥大学交互设计研究者（曾任职 KTH）",
+   "bio_zh": "Pedro Sanches 在 SICS 设计了 Affective Health，之后在 KTH 从事身体设计、生物数据与“活的数据”研究。",
+   "why_zh": "Sanches 主张把生物数据反映给人们自己去解读，而不是拿来诊断人。",
+   "based_zh": "于默奥，瑞典",
+   "connected_to": [
+    "kristina-hook",
+    "vasiliki-tsaknaki",
+    "pavel-karpashevich"
+   ],
+   "discovered_via": "kristina-hook"
+  },
+  {
+   "id": "vasiliki-tsaknaki",
+   "name": "Vasiliki Tsaknaki",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Associate Professor, IT University of Copenhagen",
+   "based": "Copenhagen, DK",
+   "bio": "Vasiliki Tsaknaki did a PhD at KTH on craft and materials in interaction design and then worked on shape-change, breathing and biodata in the soma design group.",
+   "why": "Tsaknaki's autobiographical wearables show how a material can make a neglected part of the body felt again.",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "role_zh": "哥本哈根信息技术大学副教授",
+   "bio_zh": "Vasiliki Tsaknaki 在 KTH 完成关于交互设计中手工艺与材料的博士研究，随后在身体设计团队研究形变、呼吸与生物数据。",
+   "why_zh": "Tsaknaki 的自传式可穿戴作品展示了材料如何让被忽略的身体部位重新被感受到。",
+   "based_zh": "哥本哈根，丹麦",
+   "connected_to": [
+    "kristina-hook",
+    "pedro-sanches",
+    "kelsey-cotton",
+    "pavel-karpashevich"
+   ],
+   "discovered_via": "kristina-hook"
+  },
+  {
+   "id": "charles-windlin",
+   "name": "Charles Windlin",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Interaction design researcher, KTH Royal Institute of Technology",
+   "based": "Stockholm, SE",
+   "bio": "Charles Windlin designed and built the Soma Bits, the lab's kit of heat, vibration and shape-change actuators for sketching with the body.",
+   "why": "The Soma Bits made it possible to feel actuation on the body from the first hour of a design process.",
+   "disciplines": [
+    "hci",
+    "engineering"
+   ],
+   "links": {},
+   "role_zh": "瑞典皇家理工学院（KTH）交互设计研究者",
+   "bio_zh": "Charles Windlin 设计并制作了 Soma Bits——实验室用来“用身体画草图”的加热、振动与形变执行器套件。",
+   "why_zh": "有了 Soma Bits，设计过程一开始就能在身体上感受执行效果。",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "connected_to": [
+    "kristina-hook",
+    "jarmo-laaksolahti",
+    "anna-stahl"
+   ],
+   "discovered_via": "kristina-hook"
+  },
+  {
+   "id": "pavel-karpashevich",
+   "name": "Pavel Karpashevich",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, Carl von Ossietzky University of Oldenburg (PhD, KTH)",
+   "based": "Oldenburg, DE",
+   "bio": "Pavel Karpashevich designed interactive costumes at Bauhaus-Universität Weimar and shape-changing garments such as the Soma Corset during doctoral work at KTH.",
+   "why": "Karpashevich's work names the uncanny, monstrous side of wearing technology that touches back.",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "role_zh": "奥尔登堡大学研究员（KTH 博士）",
+   "bio_zh": "Pavel Karpashevich 在魏玛包豪斯大学设计互动服装，在 KTH 读博期间设计了 Soma Corset 等形变服装。",
+   "why_zh": "Karpashevich 的研究直面穿戴会回触身体的技术时那种诡异、“怪物般”的一面。",
+   "based_zh": "奥尔登堡，德国",
+   "connected_to": [
+    "kristina-hook",
+    "pedro-sanches",
+    "vasiliki-tsaknaki",
+    "yoav-luft"
+   ],
+   "discovered_via": "kristina-hook"
+  },
+  {
+   "id": "kelsey-cotton",
+   "name": "Kelsey Cotton",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Singer, composer and HCI researcher (KTH; Chalmers University of Technology)",
+   "based": "Gothenburg, SE",
+   "bio": "Kelsey Cotton is a classically trained singer who designs and performs with breathing-driven instruments and robotic garments, first at KTH and then in a PhD on AI and voice at Chalmers.",
+   "why": "Cotton brings a singer's trained interoception into soma design.",
+   "disciplines": [
+    "dance",
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "歌手、作曲者与人机交互研究者（KTH；查尔姆斯理工大学）",
+   "bio_zh": "Kelsey Cotton 受过古典声乐训练，先在 KTH、后在查尔姆斯理工大学攻读关于 AI 与嗓音的博士，设计并演出由呼吸驱动的乐器和机器人服装。",
+   "why_zh": "Cotton 把歌手训练出的内感受带入了身体设计。",
+   "based_zh": "哥德堡，瑞典",
+   "connected_to": [
+    "vasiliki-tsaknaki",
+    "pavel-karpashevich",
+    "ozgun-kilic-afsar",
+    "yoav-luft"
+   ],
+   "discovered_via": "kristina-hook"
+  },
+  {
+   "id": "rachael-garrett",
+   "name": "Rachael Garrett",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Interaction design researcher (PhD, KTH), felt ethics and soma design",
+   "based": "Stockholm, SE",
+   "bio": "Rachael Garrett studied how ethical sensibility is felt in the body during design work, and co-designed shape-changing garments and drone interactions at KTH.",
+   "why": "Garrett's 'felt ethics' extends soma design from aesthetics to responsibility.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "交互设计研究者（KTH 博士），研究“感受的伦理”与身体设计",
+   "bio_zh": "Rachael Garrett 研究设计工作中伦理敏感性如何在身体里被感受到，并在 KTH 参与了形变服装和无人机交互的设计。",
+   "why_zh": "Garrett 提出的“感受的伦理”把身体设计从审美延伸到责任。",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "connected_to": [
+    "kristina-hook",
+    "pavel-karpashevich",
+    "joseph-la-delfa"
+   ],
+   "discovered_via": "kristina-hook"
+  },
+  {
+   "id": "muhammad-umair",
+   "name": "Muhammad Umair",
+   "name_zh": "",
+   "kind": "person",
+   "role": "HCI researcher, Lancaster University (AffecTech network)",
+   "based": "Lancaster, UK",
+   "bio": "Muhammad Umair designed materials-based affective interfaces for emotion regulation in the EU AffecTech network, working with Höök's group on biodata and actuation.",
+   "why": "Umair's toolkits let non-experts shape how their own arousal becomes visible and warm.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "兰卡斯特大学人机交互研究者（AffecTech 网络）",
+   "bio_zh": "Muhammad Umair 在欧盟 AffecTech 网络中设计基于材料的情感界面以支持情绪调节，并与 Höök 团队合作研究生物数据与执行。",
+   "why_zh": "Umair 的工具包让非专业者自己决定唤醒如何变得可见、可感到温度。",
+   "based_zh": "兰卡斯特，英国",
+   "connected_to": [
+    "miquel-alfaras",
+    "kristina-hook"
+   ],
+   "discovered_via": "kristina-hook"
+  },
+  {
+   "id": "miquel-alfaras",
+   "name": "Miquel Alfaras",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Biomedical engineer and HCI researcher (PLUX Wireless Biosignals; Universitat Jaume I)",
+   "based": "Castelló, ES",
+   "bio": "Miquel Alfaras worked on biosignal hardware at PLUX and on soma design with KTH in the AffecTech network.",
+   "why": "Alfaras and colleagues framed the move from biodata to 'somadata': signals made available to felt experience.",
+   "disciplines": [
+    "engineering",
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "生物医学工程师与人机交互研究者（PLUX 无线生物信号公司；海梅一世大学）",
+   "bio_zh": "Miquel Alfaras 在 PLUX 从事生物信号硬件工作，并在 AffecTech 网络中与 KTH 合作进行身体设计。",
+   "why_zh": "Alfaras 与合作者提出从“生物数据”到“身体数据（somadata）”的转向：让信号能被亲身感受到。",
+   "based_zh": "卡斯特利翁，西班牙",
+   "connected_to": [
+    "kristina-hook",
+    "vasiliki-tsaknaki",
+    "charles-windlin",
+    "muhammad-umair"
+   ],
+   "discovered_via": "kristina-hook"
+  },
+  {
+   "id": "marie-louise-juul-sondergaard",
+   "name": "Marie Louise Juul Søndergaard",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Associate Professor, Oslo School of Architecture and Design (AHO)",
+   "based": "Oslo, NO",
+   "bio": "Marie Louise Juul Søndergaard designs feminist intimate technologies; as a postdoc at KTH, Søndergaard made Menarche Bits and worked on menstrual and menopause design.",
+   "why": "Søndergaard's work shows how soma design can make room for bodies that culture teaches us to hide.",
+   "disciplines": [
+    "design",
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "奥斯陆建筑与设计学院副教授",
+   "bio_zh": "Marie Louise Juul Søndergaard 设计女性主义的私密技术；在 KTH 做博士后期间做出了 Menarche Bits，并研究月经与更年期设计。",
+   "why_zh": "Søndergaard 的作品展示了身体设计如何为文化教人隐藏的身体腾出空间。",
+   "based_zh": "奥斯陆，挪威",
+   "connected_to": [
+    "nadia-campo-woytuk",
+    "madeline-balaam",
+    "marianela-ciolfi-felice"
+   ],
+   "discovered_via": "kristina-hook"
+  },
+  {
+   "id": "nadia-campo-woytuk",
+   "name": "Nadia Campo Woytuk",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Interaction design researcher, KTH Royal Institute of Technology",
+   "based": "Stockholm, SE",
+   "bio": "Nadia Campo Woytuk works on feminist HCI for intimate health: menstrual blood, cervical mucus and the vaginal microbiome.",
+   "why": "Campo Woytuk's designs invite people to touch and look at their bodily fluids as sources of self-knowledge.",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "role_zh": "瑞典皇家理工学院（KTH）交互设计研究者",
+   "bio_zh": "Nadia Campo Woytuk 从事面向私密健康的女性主义人机交互研究：经血、宫颈黏液与阴道微生物组。",
+   "why_zh": "Campo Woytuk 的设计邀请人们触摸、观看自己的体液，把它们当作认识自己的来源。",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "connected_to": [
+    "marie-louise-juul-sondergaard",
+    "madeline-balaam",
+    "joo-young-park",
+    "marianela-ciolfi-felice"
+   ],
+   "discovered_via": "kristina-hook"
+  },
+  {
+   "id": "marianela-ciolfi-felice",
+   "name": "Marianela Ciolfi Felice",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, KTH Royal Institute of Technology",
+   "based": "Stockholm, SE",
+   "bio": "Marianela Ciolfi Felice works on participatory, body-centred design for women's health, including menopause, menstruation and contraception.",
+   "why": "The menopause work reclaims a medicalised transition as a lived bodily experience.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "瑞典皇家理工学院（KTH）研究员",
+   "bio_zh": "Marianela Ciolfi Felice 研究以身体为中心、参与式的女性健康设计，涉及更年期、月经和避孕。",
+   "why_zh": "这项更年期研究把被医学化的人生转变重新找回为亲身经历的身体体验。",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "connected_to": [
+    "madeline-balaam",
+    "marie-louise-juul-sondergaard",
+    "nadia-campo-woytuk"
+   ],
+   "discovered_via": "kristina-hook"
+  },
+  {
+   "id": "joo-young-park",
+   "name": "Joo Young Park",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Interaction design researcher, KTH Royal Institute of Technology",
+   "based": "Stockholm, SE",
+   "bio": "Joo Young Park designs touch technologies for menstrual discomfort and critiques FemTech through feminist disability studies.",
+   "why": "Park treats menstrual pain as a cyclical lived experience to be cared for rather than hidden.",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "role_zh": "瑞典皇家理工学院（KTH）交互设计研究者",
+   "bio_zh": "Joo Young Park 为经期不适设计触觉技术，并从女性主义残障研究的视角批判女性健康科技（FemTech）。",
+   "why_zh": "Park 把经痛看作需要照护、而非掩盖的周期性亲身经验。",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "connected_to": [
+    "madeline-balaam",
+    "nadia-campo-woytuk",
+    "caroline-yan-zheng"
+   ],
+   "discovered_via": "kristina-hook"
+  },
+  {
+   "id": "caroline-yan-zheng",
+   "name": "Caroline Yan Zheng",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher in soft robotics and affective touch, KTH Royal Institute of Technology",
+   "based": "Stockholm, SE",
+   "bio": "Caroline Yan Zheng designs soft robotic touch and studies how technologies can touch people well.",
+   "why": "Zheng asks what makes technology-initiated touch feel caring rather than mechanical.",
+   "disciplines": [
+    "design",
+    "engineering"
+   ],
+   "links": {},
+   "role_zh": "瑞典皇家理工学院（KTH）软体机器人与情感触觉研究者",
+   "bio_zh": "Caroline Yan Zheng 设计软体机器人触觉，研究技术怎样才能“触摸得好”。",
+   "why_zh": "Zheng 追问：由技术发起的触摸，怎样才会让人感到被照护，而不是机械的？",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "connected_to": [
+    "madeline-balaam",
+    "anna-stahl",
+    "joo-young-park"
+   ],
+   "discovered_via": "kristina-hook"
+  },
+  {
+   "id": "gudrun-margret-ivansdottir",
+   "name": "Guðrún Margrét Ívansdóttir",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Interaction design researcher, KTH Royal Institute of Technology",
+   "based": "Stockholm, SE",
+   "bio": "Guðrún Margrét Ívansdóttir designs haptic data physicalisations and shape-changing interfaces in the soma design group.",
+   "why": "The Kuddi pillow turns menstrual-cycle data into touch.",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "role_zh": "瑞典皇家理工学院（KTH）交互设计研究者",
+   "bio_zh": "Guðrún Margrét Ívansdóttir 在身体设计团队中设计触觉数据实体化和形变界面。",
+   "why_zh": "Kuddi 枕头把月经周期数据变成触摸。",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "connected_to": [
+    "madeline-balaam",
+    "anna-stahl",
+    "joo-young-park"
+   ],
+   "discovered_via": "kristina-hook"
+  },
+  {
+   "id": "jakob-tholander",
+   "name": "Jakob Tholander",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Interaction design researcher, Stockholm University",
+   "based": "Stockholm, SE",
+   "bio": "Jakob Tholander studies whole-body interaction, sports and bodily experience, and co-organised the Move to be Moved workshop behind the first-person soma design paper.",
+   "why": "Tholander's running autoethnography treats the trained body as a sensor finer than the watch.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "斯德哥尔摩大学交互设计研究者",
+   "bio_zh": "Jakob Tholander 研究全身交互、运动与身体经验，并参与组织了“Move to be Moved”工作坊，这个工作坊催生了第一人称身体设计的论文。",
+   "why_zh": "Tholander 关于跑步的自我民族志把受过训练的身体看作比手表更精细的传感器。",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "connected_to": [
+    "kristina-hook",
+    "anna-stahl"
+   ],
+   "discovered_via": "kristina-hook"
+  },
+  {
+   "id": "ozgun-kilic-afsar",
+   "name": "Ozgun Kilic Afsar",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, MIT Media Lab and KTH Royal Institute of Technology",
+   "based": "Cambridge, MA, US",
+   "bio": "Ozgun Kilic Afsar develops fluidic fibre actuators and soft robotic garments, combining a KTH soma design PhD with work in MIT's Tangible Media Group.",
+   "why": "Kilic Afsar's garments move one body's felt experience onto another.",
+   "disciplines": [
+    "engineering",
+    "design"
+   ],
+   "links": {},
+   "role_zh": "麻省理工学院媒体实验室与 KTH 研究者",
+   "bio_zh": "Ozgun Kilic Afsar 开发流体纤维执行器和软体机器人服装，其 KTH 身体设计博士研究与 MIT 可触媒体组的工作相结合。",
+   "why_zh": "Kilic Afsar 的服装把一个身体的感受转移到另一个身体上。",
+   "based_zh": "剑桥（马萨诸塞州），美国",
+   "connected_to": [
+    "kelsey-cotton",
+    "yoav-luft",
+    "marie-louise-juul-sondergaard"
+   ],
+   "discovered_via": "kristina-hook"
+  },
+  {
+   "id": "yoav-luft",
+   "name": "Yoav Luft",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher and martial arts practitioner, KTH Royal Institute of Technology",
+   "based": "Stockholm, SE",
+   "bio": "Yoav Luft builds sensing and actuation systems for the soma design group and brings a long martial arts practice into design.",
+   "why": "The Boards Hit Back dummy shows a practitioner changing their own habits through soma design.",
+   "disciplines": [
+    "engineering",
+    "somatics"
+   ],
+   "links": {},
+   "role_zh": "瑞典皇家理工学院（KTH）研究者、武术修习者",
+   "bio_zh": "Yoav Luft 为身体设计团队搭建传感与执行系统，并把多年的武术修习带入设计。",
+   "why_zh": "Boards Hit Back 的木人桩展示了修习者如何通过身体设计改变自己的习惯。",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "connected_to": [
+    "pavel-karpashevich",
+    "kristina-hook",
+    "kelsey-cotton"
+   ],
+   "discovered_via": "kristina-hook"
+  },
+  {
+   "id": "sara-eriksson",
+   "name": "Sara Eriksson",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Interaction design researcher (PhD, KTH), drones and choreography",
+   "based": "Stockholm, SE",
+   "bio": "Sara Eriksson studied how a choreographer and engineers shaped the movement of drones for an opera, and the ethics of movement.",
+   "why": "Eriksson's drone opera study made intercorporeality a design resource for machines.",
+   "disciplines": [
+    "hci",
+    "dance"
+   ],
+   "links": {},
+   "role_zh": "交互设计研究者（KTH 博士），研究无人机与编舞",
+   "bio_zh": "Sara Eriksson 研究编舞者与工程师如何为一部歌剧塑造无人机的动作，以及动作中的伦理。",
+   "why_zh": "Eriksson 对无人机歌剧的研究把身体间性变成了设计机器的资源。",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "connected_to": [
+    "kristina-hook"
+   ],
+   "discovered_via": "kristina-hook"
+  },
+  {
+   "id": "annkatrin-jung",
+   "name": "Annkatrin Jung",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Interaction designer, KTH Royal Institute of Technology",
+   "based": "Stockholm, SE",
+   "bio": "Annkatrin Jung designed the Breathing Garment, which applies deep touch pressure in time with breathing.",
+   "why": "The Breathing Garment shows pressure as a way to make breathing felt.",
+   "disciplines": [
+    "design",
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "瑞典皇家理工学院（KTH）交互设计师",
+   "bio_zh": "Annkatrin Jung 设计了 Breathing Garment，它随呼吸对身体施加深压触觉。",
+   "why_zh": "Breathing Garment 说明压力可以让呼吸被感受到。",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "connected_to": [
+    "kristina-hook",
+    "miquel-alfaras",
+    "pavel-karpashevich"
+   ],
+   "discovered_via": "kristina-hook"
+  },
+  {
+   "id": "ilias-bergstrom",
+   "name": "Ilias Bergström",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher in sound and interaction, KTH Royal Institute of Technology",
+   "based": "Stockholm, SE",
+   "bio": "Ilias Bergström works on sonification and virtual embodiment; at KTH, Bergström built the Sarka mat with Martin Jonsson.",
+   "why": "Sarka tests how sound can guide inward listening without pulling attention outward.",
+   "disciplines": [
+    "hci",
+    "engineering"
+   ],
+   "links": {},
+   "role_zh": "瑞典皇家理工学院（KTH）声音与交互研究者",
+   "bio_zh": "Ilias Bergström 研究声音化与虚拟具身；在 KTH 与 Martin Jonsson 一起做了 Sarka 垫子。",
+   "why_zh": "Sarka 探索声音如何引导向内聆听，而不把注意力拉向外部。",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "connected_to": [
+    "martin-jonsson",
+    "kristina-hook"
+   ],
+   "discovered_via": "kristina-hook"
+  },
+  {
+   "id": "vygandas-simbelis",
+   "name": "Vygandas Šimbelis",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and interaction design researcher, KTH Royal Institute of Technology",
+   "based": "Stockholm, SE",
+   "bio": "Vygandas Šimbelis is an artist who made the Metaphone biofeedback painting machine during doctoral work with Höök at KTH.",
+   "why": "Šimbelis brought machine aesthetics from art into affective interaction design.",
+   "disciplines": [
+    "art",
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "艺术家、瑞典皇家理工学院（KTH）交互设计研究者",
+   "bio_zh": "Vygandas Šimbelis 是一位艺术家，在 KTH 随 Höök 读博期间制作了生物反馈绘画机器 Metaphone。",
+   "why_zh": "Šimbelis 把艺术中的“机器美学”带进了情感交互设计。",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "connected_to": [
+    "kristina-hook"
+   ],
+   "discovered_via": "kristina-hook"
+  },
+  {
+   "id": "claudia-nunez-pacheco",
+   "name": "Claudia Núñez-Pacheco",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Design researcher, Malmö University (formerly KTH)",
+   "based": "Malmö, SE",
+   "bio": "Claudia Núñez-Pacheco develops Focusing-based methods for articulating felt sense in design, and worked as a postdoc in the KTH soma design group.",
+   "why": "Núñez-Pacheco connects Gendlin's felt sense with design and now with language models.",
+   "disciplines": [
+    "design",
+    "somatics"
+   ],
+   "links": {},
+   "role_zh": "马尔默大学设计研究者（曾任职 KTH）",
+   "bio_zh": "Claudia Núñez-Pacheco 发展基于“聚焦（Focusing）”的方法，用来在设计中表述体会（felt sense），曾在 KTH 身体设计团队做博士后。",
+   "why_zh": "Núñez-Pacheco 把 Gendlin 的“体会”与设计、如今又与语言模型联系起来。",
+   "based_zh": "马尔默，瑞典",
+   "connected_to": [
+    "kristina-hook",
+    "pedro-sanches",
+    "rachael-garrett"
+   ],
+   "discovered_via": "kristina-hook"
+  },
+  {
+   "id": "thorhildur-asgeirsdottir",
+   "name": "Thórhildur Ásgeirsdóttir",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Interaction design researcher, KTH Royal Institute of Technology",
+   "based": "Stockholm, SE",
+   "bio": "Thórhildur Ásgeirsdóttir uses soma design to rethink everyday relations with energy.",
+   "why": "Ásgeirsdóttir's first-person work asks how energy can be felt rather than only counted.",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "role_zh": "瑞典皇家理工学院（KTH）交互设计研究者",
+   "bio_zh": "Thórhildur Ásgeirsdóttir 用身体设计重新思考日常生活与能源的关系。",
+   "why_zh": "Ásgeirsdóttir 的第一人称研究追问：能源怎样才能被感受到，而不只是被计量？",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "connected_to": [
+    "rob-comber",
+    "rachael-garrett"
+   ],
+   "discovered_via": "kristina-hook"
+  },
+  {
+   "id": "joseph-la-delfa",
+   "name": "Joseph La Delfa",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Interaction design researcher, KTH Royal Institute of Technology (formerly RMIT Exertion Games Lab)",
+   "based": "Stockholm, SE",
+   "bio": "Joseph La Delfa designs somaesthetic human-drone interactions, from Drone Chi at RMIT to How to Train Your Drone at KTH.",
+   "why": "La Delfa treats a drone as a partner whose sensing world can be shaped with the body.",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "role_zh": "瑞典皇家理工学院（KTH）交互设计研究者（曾在 RMIT 运动游戏实验室）",
+   "bio_zh": "Joseph La Delfa 设计身体美学取向的人机无人机交互，从 RMIT 的 Drone Chi 到 KTH 的 How to Train Your Drone。",
+   "why_zh": "La Delfa 把无人机看作一个伙伴，它的感知世界可以用身体去塑造。",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "connected_to": [
+    "kristina-hook",
+    "rachael-garrett",
+    "florian-mueller"
+   ],
+   "discovered_via": "kristina-hook"
+  },
+  {
+   "id": "mousa-sondoqah",
+   "name": "Mousa Sondoqah",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher, Politecnico di Milano (Drone Arena project with RISE, KTH and Stockholm University)",
+   "based": "Milan, IT",
+   "bio": "Mousa Sondoqah studied how teams program drones by feeling out their behaviour, in the Drone Arena challenges held at KTH's Reactor Hall.",
+   "why": "The Drone Arena study shows programmers turning to intimate, bodily probing to understand a machine.",
+   "disciplines": [
+    "hci",
+    "engineering"
+   ],
+   "links": {},
+   "role_zh": "米兰理工大学研究者（与 RISE、KTH、斯德哥尔摩大学合作的 Drone Arena 项目）",
+   "bio_zh": "Mousa Sondoqah 在 KTH 反应堆大厅举办的 Drone Arena 挑战赛中，研究团队如何通过亲身摸索无人机的行为来为它编程。",
+   "why_zh": "Drone Arena 研究显示，编程者会转向亲密的、身体性的试探来理解一台机器。",
+   "based_zh": "米兰，意大利",
+   "connected_to": [
+    "joseph-la-delfa",
+    "rachael-garrett"
+   ],
+   "discovered_via": "joseph-la-delfa"
+  }
+ ],
+ "works": [
+  {
+   "id": "ana-paiva--sentoy",
+   "creator_ids": [
+    "ana-paiva",
+    "kristina-hook"
+   ],
+   "title": "SenToy",
+   "year": 2003,
+   "field": "affect",
+   "sub": "affective-loops",
+   "modalities": [
+    "movement",
+    "touch"
+   ],
+   "lenses": [
+    "affective-loop",
+    "movement-expression",
+    "pleasure-play"
+   ],
+   "kind": "prototype",
+   "description": "SenToy is a plush doll with motion sensors that players move and squeeze to make game characters happy, sad, angry or afraid in the fantasy game FantasyA.",
+   "description_zh": "SenToy 是一个装有运动传感器的毛绒玩偶。玩家在奇幻游戏 FantasyA 中挥动、挤压它，让游戏角色变得快乐、悲伤、愤怒或恐惧。",
+   "idea_en": "Emotion can be entered into a system as a whole-body gesture, so the player has to act the feeling out to use it.",
+   "idea_zh": "情绪可以作为全身动作输入系统：玩家要把这份感受演出来，才能用上它。",
+   "method": "Sensors in the doll's body and limbs (likely accelerometers and position switches) classify gesture patterns (e.g. bouncing for happy, covering the eyes for fear), derived from a Wizard of Oz study at SICS.",
+   "method_zh": "玩偶身体与四肢中的传感器（可能是加速度计与位置开关）识别动作模式（如上下跳动表示高兴、捂住眼睛表示害怕），这些模式来自 SICS 的“绿野仙踪”式实验。",
+   "keywords": [
+    "SAFIRA",
+    "FantasyA",
+    "affective interface",
+    "tangible",
+    "Wizard of Oz"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/73b66a6b4c4bc8e975ca3f6b446c6efe307439e5/3-Figure1-1.png",
+    "https://figures.semanticscholar.org/73b66a6b4c4bc8e975ca3f6b446c6efe307439e5/5-Figure2-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1016/s1071-5819(03)00048-x",
+    "doi": "10.1016/s1071-5819(03)00048-x",
+    "arxiv": "",
+    "venue": "International Journal of Human-Computer Studies 2003",
+    "title": "SenToy: an affective sympathetic interface"
+   }
+  },
+  {
+   "id": "petra-sundstrom--emoto",
+   "creator_ids": [
+    "petra-sundstrom",
+    "anna-stahl",
+    "kristina-hook"
+   ],
+   "title": "eMoto",
+   "year": 2004,
+   "field": "affect",
+   "sub": "affective-loops",
+   "modalities": [
+    "movement",
+    "touch",
+    "light-vision"
+   ],
+   "lenses": [
+    "affective-loop",
+    "movement-expression",
+    "body-mind-unity"
+   ],
+   "kind": "prototype",
+   "description": "eMoto is a mobile messaging service in which the sender expresses emotion by how they move and squeeze a stylus; the text is sent against an animated background of colours and shapes chosen that way.",
+   "description_zh": "eMoto 是一种手机短信服务：发送者通过挥动、按压触控笔的方式表达情绪，文字连同由此选定的彩色动画背景一起发出。",
+   "idea_en": "Emotion is not a label to select but a process that starts in the body; the interface should pull the user into it physically and leave the interpretation to them.",
+   "idea_zh": "情绪不是一个供挑选的标签，而是从身体开始的过程；界面应当在身体上把人卷入其中，并把解读留给使用者。",
+   "method": "A pressure- and motion-sensing stylus maps effort and shape of gesture (from Laban analysis) to a circular space of animated colour backgrounds; tested with friends in everyday use.",
+   "method_zh": "带压力与运动传感的触控笔依据拉班动作分析，把动作的力度与形态映射到一个环形排列的彩色动画背景空间中；在朋友之间的日常使用中进行了测试。",
+   "keywords": [
+    "affective loop",
+    "SMS",
+    "Laban",
+    "gesture",
+    "colour",
+    "SICS"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/d4fc400539b03fed6e3e52b2120f9d95c2729658/2-Figure4-1.png",
+    "https://figures.semanticscholar.org/a4980adb3deee93c75ff36c412b0ba0467a6a5ba/4-Figure2-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1007/s00779-004-0301-z",
+    "doi": "10.1007/s00779-004-0301-z",
+    "arxiv": "",
+    "venue": "Personal and Ubiquitous Computing 2004",
+    "title": "eMoto: emotionally engaging interaction"
+   }
+  },
+  {
+   "id": "anna-stahl--affective-diary",
+   "creator_ids": [
+    "anna-stahl",
+    "kristina-hook",
+    "jarmo-laaksolahti"
+   ],
+   "title": "Affective Diary",
+   "year": 2006,
+   "field": "affect",
+   "sub": "body-data",
+   "modalities": [
+    "skin-arousal",
+    "movement"
+   ],
+   "lenses": [
+    "body-data",
+    "affective-loop",
+    "first-person"
+   ],
+   "kind": "prototype",
+   "description": "The Affective Diary pairs a biosensor armband with a tablet diary: in the evening, the day's arousal and movement appear as ambiguous, colourful body figures next to the user's text messages and photos, and the user can scribble on them.",
+   "description_zh": "Affective Diary 把生物传感臂环与平板日记结合：晚上，当天的唤醒与活动数据以模糊、彩色的人形出现在用户的短信和照片旁，用户可以在上面随手涂写。",
+   "idea_en": "Body data works best as an open mirror: vague shapes invite people to remember how the day felt instead of telling them what they felt.",
+   "idea_zh": "身体数据最好是一面开放的镜子：模糊的形状邀请人回忆那一天的感受，而不是告诉他们“你感觉到了什么”。",
+   "method": "A SenseWear armband logs galvanic skin response and step counts; a Tablet PC renders them as abstract, posture-like figures on a timeline with mobile phone data; studied with users over several weeks (with Microsoft Research Cambridge).",
+   "method_zh": "SenseWear 臂环记录皮肤电和步数；平板电脑把它们与手机数据一起，在时间轴上呈现为抽象的、姿态般的人形；与剑桥微软研究院合作，由用户使用数周进行研究。",
+   "keywords": [
+    "biosensors",
+    "diary",
+    "ambiguity",
+    "reflection",
+    "Microsoft Research",
+    "SICS"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/55385d09e20b61373302e23cc8971577caa57d79/6-Figure1-1.png",
+    "https://figures.semanticscholar.org/55385d09e20b61373302e23cc8971577caa57d79/9-Figure4-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1007/s00779-008-0202-7",
+    "doi": "10.1007/s00779-008-0202-7",
+    "arxiv": "",
+    "venue": "Personal and Ubiquitous Computing 2008",
+    "title": "Experiencing the Affective Diary"
+   }
+  },
+  {
+   "id": "pedro-sanches--affective-health",
+   "creator_ids": [
+    "pedro-sanches",
+    "kristina-hook"
+   ],
+   "title": "Affective Health",
+   "year": 2010,
+   "field": "care",
+   "sub": "stress-mental-health",
+   "modalities": [
+    "skin-arousal",
+    "heartbeat",
+    "movement"
+   ],
+   "lenses": [
+    "body-data",
+    "care-healing",
+    "affective-loop"
+   ],
+   "kind": "prototype",
+   "description": "Affective Health is a mobile stress-management service that mirrors short-term stress reactions measured by wearable sensors back to users as a moving spiral of colour, so they can reflect on their own patterns.",
+   "description_zh": "Affective Health 是一款手机压力管理服务：它把可穿戴传感器测到的短时应激反应，以彩色旋转的螺旋反映给用户，让他们反思自己的模式。",
+   "idea_en": "Stress cannot be read off the body as a diagnosis; it is better to mirror bodily reactions and let people interpret them in the context of their lives.",
+   "idea_zh": "压力无法从身体上直接读出诊断；更好的做法是把身体反应反映出来，让人在自己的生活情境中去解读。",
+   "method": "Skin conductance, heart rate and movement sensors stream to a phone that renders arousal and activity as layered and spiral visualisations over time; designed through a multidisciplinary process at SICS.",
+   "method_zh": "皮肤电、心率与运动传感器把数据传到手机，手机把唤醒与活动随时间绘成分层与螺旋的可视化；在 SICS 经由跨学科过程设计。",
+   "keywords": [
+    "stress",
+    "biofeedback",
+    "mobile",
+    "ambiguity",
+    "self-reflection",
+    "SICS"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/352cfe0ae89771b68d9f0cbe9e9ec13d503ae0e1/7-Figure4-1.png",
+    "https://figures.semanticscholar.org/352cfe0ae89771b68d9f0cbe9e9ec13d503ae0e1/5-Figure1-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/1858171.1858182",
+    "doi": "10.1145/1858171.1858182",
+    "arxiv": "",
+    "venue": "MobileHCI 2010",
+    "title": "Mind the body! Designing a mobile stress management application encouraging personal reflection"
+   }
+  },
+  {
+   "id": "kristina-hook--affective-loop-experiences",
+   "creator_ids": [
+    "kristina-hook"
+   ],
+   "title": "Affective Loop Experiences",
+   "year": 2009,
+   "field": "affect",
+   "sub": "affective-loops",
+   "modalities": [
+    "whole-soma",
+    "movement"
+   ],
+   "lenses": [
+    "affective-loop",
+    "body-mind-unity",
+    "movement-expression"
+   ],
+   "kind": "paper",
+   "description": "Höök's essay defines the affective loop: a system that is influenced by and influences the user corporeally, drawing on eMoto, the Affective Diary and other SICS systems.",
+   "description_zh": "Höök 的这篇论文界定了“情感回路”：系统在身体层面既受用户影响、也影响用户；论证以 eMoto、Affective Diary 等 SICS 系统为例。",
+   "idea_en": "Emotions are processes constructed in interaction, starting from bodily, cognitive and social experience; the user, not the system, holds the responsibility for interpreting them.",
+   "idea_zh": "情绪是在互动中构建的过程，起于身体、认知与社会经验；解读情绪的责任在用户，而不在系统。",
+   "method": "Conceptual analysis of a series of built systems (eMoto, FriendSense, Affective Diary) and their user studies, published in a theme issue on computation of emotions.",
+   "method_zh": "对一系列已建成系统（eMoto、FriendSense、Affective Diary）及其用户研究的概念分析，发表于一期关于情绪计算的主题专刊。",
+   "keywords": [
+    "affective loop",
+    "interactional embodiment",
+    "emotion as process",
+    "eMoto",
+    "Affective Diary"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=-_GBHgADRr4"
+   },
+   "images": [
+    "https://figures.semanticscholar.org/a4980adb3deee93c75ff36c412b0ba0467a6a5ba/3-Figure1-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1098/rstb.2009.0202",
+    "doi": "10.1098/rstb.2009.0202",
+    "arxiv": "",
+    "venue": "Philosophical Transactions of the Royal Society B 2009",
+    "title": "Affective loop experiences: designing for interactional embodiment"
+   }
+  },
+  {
+   "id": "vygandas-simbelis--metaphone",
+   "creator_ids": [
+    "vygandas-simbelis",
+    "kristina-hook"
+   ],
+   "title": "Metaphone",
+   "year": 2013,
+   "field": "affect",
+   "sub": "biosignals",
+   "modalities": [
+    "skin-arousal",
+    "heartbeat",
+    "voice-sound"
+   ],
+   "lenses": [
+    "body-data",
+    "attunement",
+    "estrangement"
+   ],
+   "kind": "artwork",
+   "description": "Metaphone is a large machine on two wheels that rolls across a sheet of watercolour paper, dripping paint and making sound according to the visitor's skin conductance and heart rate.",
+   "description_zh": "Metaphone 是一台装在两个大轮子上的机器，它在一张水彩纸上滚动，依据参与者的皮肤电和心率滴下颜料、发出声音。",
+   "idea_en": "A slow, machine-like response to one's pulse can feel strangely relaxing: machine aesthetics can make the living body stand out by contrast.",
+   "idea_zh": "对脉搏作出缓慢、机械般回应的机器，会让人感到出奇地放松：机器美学能通过对比，让活生生的身体凸显出来。",
+   "method": "GSR and heart-rate sensors drive a rotating shaft that drips paint onto paper on the floor, with a soundscape following the biosignals; six invited commentators interacted with it.",
+   "method_zh": "皮肤电和心率传感器驱动一根旋转的轴，把颜料滴到地上的纸上，声景随生物信号变化；邀请了六位评论者与之互动。",
+   "keywords": [
+    "biofeedback",
+    "machine aesthetics",
+    "painting machine",
+    "GSR",
+    "heart rate",
+    "art"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=9BpBc7UuclI"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/2556288.2557152",
+    "doi": "10.1145/2556288.2557152",
+    "arxiv": "",
+    "venue": "CHI 2014",
+    "title": "Metaphone: machine aesthetics meets interaction design"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "martin-jonsson--soma-mat",
+   "creator_ids": [
+    "martin-jonsson",
+    "anna-stahl",
+    "kristina-hook"
+   ],
+   "title": "Soma Mat",
+   "year": 2016,
+   "field": "somaesthetic",
+   "sub": "appreciation",
+   "modalities": [
+    "heat",
+    "whole-soma"
+   ],
+   "lenses": [
+    "attunement",
+    "touching-back",
+    "first-person"
+   ],
+   "kind": "prototype",
+   "description": "The Soma Mat is a padded mat with heating elements beneath its surface; lying on it during a guided body scan, the listener feels warmth appear under the body part the recorded voice names.",
+   "description_zh": "Soma Mat 是一张表面下装有加热元件的软垫；人躺在上面听引导式身体扫描录音，录音念到哪个部位，那个部位下方就慢慢变暖。",
+   "idea_en": "Slow, subtle heat does not signal anything; it quietly draws attention to parts of the body we rarely feel.",
+   "idea_zh": "缓慢而细微的热并不传递讯息，它只是静静地把注意力引向平时很少感觉到的身体部位。",
+   "method": "Heat pads under a sculpted felt surface are switched in sequence with a Feldenkrais-inspired body-scan recording; the user study examined heat as an aesthetic material (inertia, subtleness, heat transfer).",
+   "method_zh": "塑形毛毡表面下的加热片随一段受费登奎斯启发的身体扫描录音依次开启；用户研究把热当作审美材料来考察（惯性、细微、热传导）。",
+   "keywords": [
+    "heat",
+    "body scan",
+    "Feldenkrais",
+    "somaesthetic appreciation",
+    "thermal stimuli"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/58851b397677d0295424829a85331041347eb3c2/3-Figure3-1.png",
+    "https://figures.semanticscholar.org/1cde192fe629ab02c0c5bcfda880f59cce16e194/4-Figure2-1.png",
+    "https://figures.semanticscholar.org/1cde192fe629ab02c0c5bcfda880f59cce16e194/3-Figure1-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2839462.2839487",
+    "doi": "10.1145/2839462.2839487",
+    "arxiv": "",
+    "venue": "TEI 2016",
+    "title": "The Aesthetics of Heat: Guiding Awareness with Thermal Stimuli"
+   },
+   "collections": [
+    "designing-with-the-body",
+    "first-person-soma-2018",
+    "tei"
+   ]
+  },
+  {
+   "id": "anna-stahl--breathing-light",
+   "creator_ids": [
+    "anna-stahl",
+    "martin-jonsson",
+    "kristina-hook"
+   ],
+   "title": "Breathing Light",
+   "year": 2016,
+   "field": "somaesthetic",
+   "sub": "breath",
+   "modalities": [
+    "breath",
+    "light-vision"
+   ],
+   "lenses": [
+    "attunement",
+    "body-mind-unity",
+    "first-person"
+   ],
+   "kind": "prototype",
+   "description": "Breathing Light is a lamp with a curtain of fabric and strings that encloses a person lying beneath it; the light slowly dims in and out with their breathing.",
+   "description_zh": "Breathing Light 是一盏垂着布帘和细绳的灯，把躺在下面的人围成一个“房中之房”；灯光随着这个人的呼吸缓缓明暗。",
+   "idea_en": "Seeing your breath softly reflected in ambient light lets you notice breathing without trying to control it.",
+   "idea_zh": "看到自己的呼吸被柔和地映在环境光里，人便能察觉呼吸，而不急着去控制它。",
+   "method": "A sensor on the chest measures breathing movement and drives a dimmable lamp inside a fabric and string enclosure; evaluated together with the Soma Mat, and later in a three-month home study.",
+   "method_zh": "胸前的传感器测量呼吸起伏，驱动布帘与细绳围合内的可调光灯；与 Soma Mat 一起评估，之后又在家庭中进行了三个月的研究。",
+   "keywords": [
+    "breathing",
+    "light",
+    "meditation",
+    "enclosure",
+    "somaesthetic appreciation"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=4kAX5YRJkJw"
+   },
+   "images": [
+    "https://figures.semanticscholar.org/58851b397677d0295424829a85331041347eb3c2/4-Figure4-1.png",
+    "https://figures.semanticscholar.org/58851b397677d0295424829a85331041347eb3c2/2-Figure1-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2851581.2889464",
+    "doi": "10.1145/2851581.2889464",
+    "arxiv": "",
+    "venue": "CHI 2016 Extended Abstracts",
+    "title": "The Soma Mat and Breathing Light"
+   },
+   "collections": [
+    "designing-with-the-body",
+    "first-person-soma-2018",
+    "chi"
+   ]
+  },
+  {
+   "id": "ilias-bergstrom--sarka",
+   "creator_ids": [
+    "ilias-bergstrom",
+    "martin-jonsson"
+   ],
+   "title": "Sarka",
+   "year": 2016,
+   "field": "somaesthetic",
+   "sub": "sound-voice",
+   "modalities": [
+    "voice-sound",
+    "posture-balance"
+   ],
+   "lenses": [
+    "attunement",
+    "first-person"
+   ],
+   "kind": "prototype",
+   "description": "Sarka is a mat that sonifies how a person lying on it distributes their weight and how intensely each part of the body moves, to support inward listening during body-awareness exercises.",
+   "description_zh": "Sarka 是一张会发声的垫子：它把躺在上面的人如何分配体重、各部位动得多强烈转化为声音，帮助人在身体觉察练习中向内聆听。",
+   "idea_en": "Sound feedback can support attention to the body only if it stays quiet enough not to become the thing you listen to.",
+   "idea_zh": "声音反馈要能支持对身体的注意，前提是它足够安静，不至于喧宾夺主、成为被聆听的对象本身。",
+   "method": "Sensing of weight distribution and movement across zones of the mat (likely pressure sensors) drives an interactive sonification designed through Somaesthetic Appreciation Design.",
+   "method_zh": "垫子各区域对体重分布和动作的感测（可能是压力传感器）驱动一套交互式声音化系统，按“身体美学鉴赏设计”的方法设计。",
+   "keywords": [
+    "sonification",
+    "weight distribution",
+    "body scan",
+    "inward listening",
+    "MOCO"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/cd5a659b9d8a65cff778c9b909b61bcdb2e86318/4-Figure2-1.png",
+    "https://figures.semanticscholar.org/cd5a659b9d8a65cff778c9b909b61bcdb2e86318/1-Figure1-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2948910.2948922",
+    "doi": "10.1145/2948910.2948922",
+    "arxiv": "",
+    "venue": "MOCO 2016",
+    "title": "Sarka: Sonification and Somaesthetic Appreciation Design"
+   },
+   "collections": [
+    "designing-with-the-body",
+    "moco"
+   ]
+  },
+  {
+   "id": "annkatrin-jung--breathing-garment",
+   "creator_ids": [
+    "annkatrin-jung",
+    "miquel-alfaras",
+    "pavel-karpashevich",
+    "kristina-hook"
+   ],
+   "title": "Breathing Garment",
+   "year": 2021,
+   "field": "somaesthetic",
+   "sub": "breath",
+   "modalities": [
+    "breath",
+    "touch",
+    "shape-change"
+   ],
+   "lenses": [
+    "attunement",
+    "touching-back",
+    "care-healing"
+   ],
+   "kind": "prototype",
+   "description": "A garment with inflatable cushions presses firmly on the torso in relation to the wearer's breathing, sometimes following it, sometimes leading it.",
+   "description_zh": "一件带充气垫的衣服，根据穿着者的呼吸对躯干施加稳定的压力，时而跟随呼吸，时而引导呼吸。",
+   "idea_en": "Deep pressure can direct attention to the muscles and bones of breathing; the most evocative rhythm sits between following and leading the breath.",
+   "idea_zh": "深压可以把注意力引向参与呼吸的肌肉与骨骼；最动人的节奏介于跟随与引导呼吸之间。",
+   "method": "A breathing sensor drives pneumatic actuators placed symmetrically and asymmetrically on the torso, inspired by Deep Pressure Therapy; first-person explorations led to 'breathing correspondence' interactions.",
+   "method_zh": "呼吸传感器驱动在躯干上对称或不对称分布的气动执行器，灵感来自深压疗法；第一人称探索得出了“呼吸呼应”的交互方式。",
+   "keywords": [
+    "deep touch pressure",
+    "breathing",
+    "pneumatics",
+    "sensory sensitivity"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=b_1t7TjxnCk"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3411764.3445533",
+    "doi": "10.1145/3411764.3445533",
+    "arxiv": "",
+    "venue": "CHI 2021",
+    "title": "Exploring Awareness of Breathing through Deep Touch Pressure"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "vasiliki-tsaknaki--breathing-shell",
+   "creator_ids": [
+    "vasiliki-tsaknaki",
+    "kelsey-cotton",
+    "pavel-karpashevich",
+    "pedro-sanches"
+   ],
+   "title": "Breathing Shell",
+   "year": 2021,
+   "field": "somaesthetic",
+   "sub": "breath",
+   "modalities": [
+    "breath",
+    "shape-change",
+    "voice-sound"
+   ],
+   "lenses": [
+    "first-person",
+    "touching-back",
+    "body-data"
+   ],
+   "kind": "prototype",
+   "description": "Designed with a classical singer, the Breathing Shell is a wearable breathing sensor that also presses back on the body, so the singer feels 'the sensor feeling you'.",
+   "description_zh": "Breathing Shell 与一位古典歌手共同设计，是一种可穿戴呼吸传感器，同时也会反压身体，让歌手感到“传感器在感受我”。",
+   "idea_en": "Being sensed is itself a bodily experience; a sensor that is felt makes the relation between body and data reciprocal.",
+   "idea_zh": "被感测本身就是一种身体经验；一个能被感觉到的传感器，让身体与数据之间的关系成为双向的。",
+   "method": "A new sensing mechanism built from shape-change (inflatable) technology around the singer's torso, developed through soma design sessions on non-habitual breathing.",
+   "method_zh": "在歌手躯干周围用形变（充气）技术构成一种新的感测机制，经由关于“非习惯性呼吸”的身体设计练习发展而来。",
+   "keywords": [
+    "singing",
+    "breathing",
+    "sensor",
+    "shape-change",
+    "non-habitual"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=bY82dGWywj8"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3411764.3445628",
+    "doi": "10.1145/3411764.3445628",
+    "arxiv": "",
+    "venue": "CHI 2021",
+    "title": "“Feeling the Sensor Feeling you”: A Soma Design Exploration on Sensing Non-habitual Breathing"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "vasiliki-tsaknaki--breathing-wings",
+   "creator_ids": [
+    "vasiliki-tsaknaki"
+   ],
+   "title": "The Breathing Wings",
+   "year": 2021,
+   "field": "somaesthetic",
+   "sub": "garments",
+   "modalities": [
+    "shape-change",
+    "touch",
+    "breath"
+   ],
+   "lenses": [
+    "touching-back",
+    "first-person",
+    "body-mind-unity"
+   ],
+   "kind": "prototype",
+   "description": "The Breathing Wings is a wearable over the shoulder blades whose soft shape-changing parts swell and embrace the back, inviting the wearer to feel a neglected part of the body.",
+   "description_zh": "Breathing Wings 覆盖在肩胛骨上，柔软的形变部件鼓起、环抱后背，邀请穿着者去感受一处常被忽略的身体部位。",
+   "idea_en": "A material that touches you slowly can blur the boundary between garment and body and make the shoulder blades felt again.",
+   "idea_zh": "缓慢触碰你的材料，会模糊衣物与身体的边界，让肩胛骨重新被感受到。",
+   "method": "Autobiographical soma design with soft inflatable and shape-change materials, documented as a pictorial.",
+   "method_zh": "以柔软的充气与形变材料进行自传式身体设计，以图文论文（pictorial）形式记录。",
+   "keywords": [
+    "shape-change",
+    "shoulder blades",
+    "autobiographical design",
+    "wearable",
+    "pictorial"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=3BcjnEDwakU"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3461778.3462054",
+    "doi": "10.1145/3461778.3462054",
+    "arxiv": "",
+    "venue": "DIS 2021",
+    "title": "The Breathing Wings: An Autobiographical Soma Design Exploration of Touch Qualities through Shape-Change Materials"
+   },
+   "collections": [
+    "dis"
+   ]
+  },
+  {
+   "id": "pavel-karpashevich--soma-corset",
+   "creator_ids": [
+    "pavel-karpashevich",
+    "pedro-sanches",
+    "rachael-garrett",
+    "yoav-luft",
+    "kelsey-cotton",
+    "vasiliki-tsaknaki",
+    "kristina-hook"
+   ],
+   "title": "Soma Corset",
+   "year": 2022,
+   "field": "somaesthetic",
+   "sub": "breath",
+   "modalities": [
+    "breath",
+    "shape-change",
+    "touch"
+   ],
+   "lenses": [
+    "estrangement",
+    "touching-back",
+    "more-than-human"
+   ],
+   "kind": "prototype",
+   "description": "The Soma Corset senses breathing around the torso and answers with inflating pads, so the garment can feel like a harmonious partner, an organic 'other' with its own will, or a twisted mirror of one's own breath.",
+   "description_zh": "Soma Corset 感测躯干的呼吸并以充气垫回应，于是这件衣服可能像一个和谐的伙伴，像一个有自己意志的有机“他者”，也可能像自己呼吸的扭曲镜像。",
+   "idea_en": "When a garment mirrors your breath in tight loops, the line between wearer and technology blurs, and not always comfortably.",
+   "idea_zh": "当一件衣服在紧密的回路中映照你的呼吸时，穿着者与技术的边界会变得模糊，而且未必总是舒服的。",
+   "method": "Breathing sensors and inflatable actuators placed over the diaphragm, intercostal muscles and lower back, run in closed sensing-actuation loops and explored by the design team over a long soma design process.",
+   "method_zh": "呼吸传感器与充气执行器分布在膈肌、肋间肌和下背部，以闭环的感测—执行方式运行，由设计团队在长时间的身体设计过程中探索。",
+   "keywords": [
+    "corset",
+    "breathing",
+    "shape-change",
+    "cyborg",
+    "monster",
+    "uncanny"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/c493d77955a0fbf485736178fff1a2b4db941a38/9-Figure2-1.png",
+    "https://figures.semanticscholar.org/c493d77955a0fbf485736178fff1a2b4db941a38/8-Figure1-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3490498",
+    "doi": "10.1145/3490498",
+    "arxiv": "",
+    "venue": "ACM TOCHI 2022",
+    "title": "Touching Our Breathing through Shape-Change: Monster, Organic Other, or Twisted Mirror"
+   }
+  },
+  {
+   "id": "vasiliki-tsaknaki--wearable-nebula",
+   "creator_ids": [
+    "vasiliki-tsaknaki"
+   ],
+   "title": "Nebula",
+   "year": 2015,
+   "field": "somaesthetic",
+   "sub": "garments",
+   "modalities": [
+    "movement",
+    "voice-sound"
+   ],
+   "lenses": [
+    "movement-expression",
+    "attunement"
+   ],
+   "kind": "prototype",
+   "description": "Nebula is a heavy studded cloak that turns both intentional gestures and the incidental swing of its folds into sound, so the wearer hears how they move.",
+   "description_zh": "Nebula 是一件缀满铆钉的厚重斗篷，它把有意的手势和褶皱无意的摆动都转化为声音，让穿着者听见自己的动作。",
+   "idea_en": "A garment's drape can itself be the interface: implicit movement, not commands, carries the expression.",
+   "idea_zh": "衣物的垂坠本身就可以是界面：承载表达的是不经意的动作，而不是指令。",
+   "method": "Metal studs act as a sensing material and visual feature in a draped heavy fabric; a sound design exploits the garment's material qualities (with sound researcher Ludvig Elblaus at KTH).",
+   "method_zh": "金属铆钉在厚重垂坠的布料中既是感测材料，也是视觉元素；声音设计利用了衣物的材料特性（与 KTH 的声音研究者 Ludvig Elblaus 合作）。",
+   "keywords": [
+    "cloak",
+    "sonification",
+    "implicit interaction",
+    "material investigation",
+    "wearable"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/81b83d6431712aa2e5de7e65dbf2fe04156c71e7/2-Figure1-1.png",
+    "https://figures.semanticscholar.org/81b83d6431712aa2e5de7e65dbf2fe04156c71e7/6-Figure3-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3294109.3295623",
+    "doi": "10.1145/3294109.3295623",
+    "arxiv": "",
+    "venue": "TEI 2019",
+    "title": "A Wearable Nebula: Material Investigations of Implicit Interaction"
+   },
+   "collections": [
+    "tei"
+   ]
+  },
+  {
+   "id": "pavel-karpashevich--wire-costume",
+   "creator_ids": [
+    "pavel-karpashevich",
+    "pedro-sanches"
+   ],
+   "title": "Wire Costume (Reinterpreting Schlemmer's Triadic Ballet)",
+   "year": 2018,
+   "field": "movement",
+   "sub": "performance",
+   "modalities": [
+    "movement",
+    "posture-balance",
+    "light-vision"
+   ],
+   "lenses": [
+    "estrangement",
+    "movement-expression"
+   ],
+   "kind": "performance",
+   "description": "Inspired by Oskar Schlemmer's Bauhaus Triadic Ballet, the Wire Costume restricts the dancer's lower body and turns arm movements into LED 'sparks' and 'waves' on a tutu-like wire skirt.",
+   "description_zh": "受包豪斯艺术家奥斯卡·施莱默《三元芭蕾》启发，这件金属丝服装限制舞者下半身的动作，把手臂动作变成裙撑般的金属丝裙上的 LED“火花”与“波浪”。",
+   "idea_en": "Restricting and altering the senses creates a new soma to train into; the costume's character is only revealed once it is worn and danced.",
+   "idea_zh": "限制与改变感官，会造出一个需要重新训练的“新身体”；服装的性格只有在被穿上、被舞动时才显现。",
+   "method": "Motion sensing on the arms drives LED light sequences in a wire costume; designed with cultural research, expert interviews and a dancer's rehearsals (Bauhaus-Universität Weimar with KTH).",
+   "method_zh": "手臂上的动作感测驱动金属丝服装中的 LED 灯光序列；结合文化史研究、专家访谈与舞者排练设计（魏玛包豪斯大学与 KTH 合作）。",
+   "keywords": [
+    "Bauhaus",
+    "Oskar Schlemmer",
+    "Triadic Ballet",
+    "interactive costume",
+    "dance",
+    "LED"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=_32Tl6zLGTU"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3173574.3173635",
+    "doi": "10.1145/3173574.3173635",
+    "arxiv": "",
+    "venue": "CHI 2018",
+    "title": "Reinterpreting Schlemmer's Triadic Ballet: Interactive Costume for Unthinkable Movements"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "pavel-karpashevich--monstrous-experiences",
+   "creator_ids": [
+    "pavel-karpashevich",
+    "kristina-hook"
+   ],
+   "title": "Inside the Mirror, Wearing My Own Body",
+   "year": 2026,
+   "field": "somaesthetic",
+   "sub": "garments",
+   "also": [
+    "machines-xr"
+   ],
+   "modalities": [
+    "shape-change",
+    "touch",
+    "whole-soma"
+   ],
+   "lenses": [
+    "estrangement",
+    "body-mind-unity",
+    "more-than-human"
+   ],
+   "kind": "paper",
+   "description": "Looking back on four wearable systems, the authors describe felt experiences that were at once pleasant and unpleasant, comforting and frightening, human-like and machinic, and read them through monster theory.",
+   "description_zh": "回顾四种可穿戴系统，作者描述了一些同时令人愉快又不快、安慰又恐惧、像人又像机器的亲身感受，并用“怪物理论”来解读。",
+   "idea_en": "Attending to felt, ambiguous experiences reveals a monstrous category that user-experience frameworks miss; such experiences deserve design attention rather than removal.",
+   "idea_zh": "关注被感受到的、暧昧的体验，会揭示出用户体验框架遗漏的“怪物”类别；这类体验值得设计去关注，而不是被消除。",
+   "method": "Retrospective first-person analysis of shape-changing and actuated wearables using concepts such as fusion, fission, massification and incompleteness (with Jeffrey Bardzell).",
+   "method_zh": "以融合、裂变、聚合与不完整等概念，对形变和执行类可穿戴设备做回顾性的第一人称分析（与 Jeffrey Bardzell 合作）。",
+   "keywords": [
+    "monster theory",
+    "wearables",
+    "uncanny",
+    "user experience",
+    "shape-change"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/46f2883425394b2f11137ff595de6bd8992ef412/6-Figure5-1.png",
+    "https://figures.semanticscholar.org/46f2883425394b2f11137ff595de6bd8992ef412/5-Figure2-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3772318.3790753",
+    "doi": "10.1145/3772318.3790753",
+    "arxiv": "",
+    "venue": "CHI 2026",
+    "title": "Inside the Mirror, Wearing My own Body: Why UX Should Engage Monstrous Experiences"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "kelsey-cotton--body-electric",
+   "creator_ids": [
+    "kelsey-cotton",
+    "pedro-sanches",
+    "vasiliki-tsaknaki",
+    "pavel-karpashevich"
+   ],
+   "title": "The Body Electric",
+   "year": 2020,
+   "field": "somaesthetic",
+   "sub": "sound-voice",
+   "also": [
+    "movement"
+   ],
+   "modalities": [
+    "breath",
+    "voice-sound"
+   ],
+   "lenses": [
+    "first-person",
+    "movement-expression",
+    "estrangement"
+   ],
+   "kind": "performance",
+   "description": "The Body Electric is a singing corset that captures the breathing movements of the singer's torso and uses them to shape the soundscape, so the instrument steers the singer's voice as much as the singer steers the instrument.",
+   "description_zh": "The Body Electric 是一件歌唱束衣，它捕捉歌手躯干的呼吸起伏并用来塑造声景；于是歌手的声音被乐器牵引的程度，不亚于歌手驾驭乐器的程度。",
+   "idea_en": "An instrument designed from the singer's felt breathing can unsettle control and open new ways of relating to one's own voice.",
+   "idea_zh": "从歌手亲身感受的呼吸出发设计的乐器，会动摇“控制”，打开与自己嗓音相处的新方式。",
+   "method": "Breathing sensors on a corset stream biofeedback to a live electronic composition; performed in Hamburg in July 2020 and documented as a NIME paper.",
+   "method_zh": "束衣上的呼吸传感器把生物反馈传入现场电子作曲；2020 年 7 月在汉堡演出，并写成 NIME 论文。",
+   "keywords": [
+    "singing",
+    "corset",
+    "breathing",
+    "NIME",
+    "biofeedback",
+    "performance"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=L5DbL4XyBsU"
+   },
+   "paper": {
+    "url": "https://doi.org/10.21428/92fbeb44.ec9f8fdd",
+    "doi": "10.21428/92fbeb44.ec9f8fdd",
+    "arxiv": "2311.08136",
+    "venue": "NIME 2021",
+    "title": "The Body Electric: A NIME designed through and with the somatic experience of singing"
+   },
+   "collections": [
+    "nime"
+   ]
+  },
+  {
+   "id": "kelsey-cotton--symbiosinging",
+   "creator_ids": [
+    "kelsey-cotton",
+    "ozgun-kilic-afsar",
+    "yoav-luft"
+   ],
+   "title": "SymbioSinging (ADA)",
+   "year": 2021,
+   "field": "social",
+   "sub": "mediated-touch",
+   "also": [
+    "somaesthetic"
+   ],
+   "modalities": [
+    "breath",
+    "shape-change",
+    "voice-sound"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "touching-back"
+   ],
+   "kind": "prototype",
+   "description": "SymbioSinging is a soft robotic garment, ADA, that re-enacts the felt movements of singing on the body of someone who is not singing.",
+   "description_zh": "SymbioSinging 是一件名为 ADA 的软体机器人服装，它在不唱歌的人身上重现歌唱时的身体感受。",
+   "idea_en": "Somatic knowledge can be partly transposed from one body to another through touch.",
+   "idea_zh": "身体知识可以借由触觉，部分地从一个身体转移到另一个身体。",
+   "method": "A pneumatically controlled, fibre-based air-driven actuator garment developed through a soma design process with a singer.",
+   "method_zh": "一件以气动控制、基于纤维的空气驱动执行器服装，通过与歌手的身体设计过程开发而成。",
+   "keywords": [
+    "singing",
+    "soft robotics",
+    "transposition",
+    "wearable",
+    "pneumatics"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/5578691d7f746c8e071db6559a505de3a54bbf15/2-Figure1-1.png",
+    "https://figures.semanticscholar.org/5578691d7f746c8e071db6559a505de3a54bbf15/3-Figure2-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3450741.3466718",
+    "doi": "10.1145/3450741.3466718",
+    "arxiv": "",
+    "venue": "Creativity and Cognition 2021",
+    "title": "SymbioSinging: Robotically transposing singing experience across singing and non-singing bodies"
+   }
+  },
+  {
+   "id": "ozgun-kilic-afsar--corsetto",
+   "creator_ids": [
+    "ozgun-kilic-afsar",
+    "yoav-luft",
+    "kelsey-cotton",
+    "claudia-nunez-pacheco"
+   ],
+   "title": "Corsetto",
+   "year": 2023,
+   "field": "somaesthetic",
+   "sub": "sound-voice",
+   "also": [
+    "social"
+   ],
+   "modalities": [
+    "breath",
+    "shape-change",
+    "voice-sound"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "touching-back",
+    "movement-expression"
+   ],
+   "kind": "performance",
+   "description": "Corsetto is a robotic garment worn by audience members during a live opera performance; it enacts haptic gestures that echo the singer's upper-body movements, adding a felt 'fourth voice' to Morton Feldman's Three Voices.",
+   "description_zh": "Corsetto 是观众在现场歌剧演出中穿着的机器人服装；它施加与歌手上身动作相呼应的触觉姿态，为莫顿·费尔德曼的《Three Voices》加上一个被感受到的“第四声部”。",
+   "idea_en": "Haptic gestures on the torso can bridge inner and outer sensation, so listening to a voice becomes a shared intercorporeal experience.",
+   "idea_zh": "躯干上的触觉姿态可以连通内在与外在的感觉，让聆听一个嗓音成为共享的身体间经验。",
+   "method": "Soft robotic (likely fluidic fibre) actuators in a corset-like garment play composed haptic gestures synchronised with a live singer; audience experiences were studied with micro-phenomenological interviews.",
+   "method_zh": "类似束衣的服装中装有软体机器人执行器（可能是流体纤维），播放与现场歌手同步的触觉姿态编排；以微观现象学访谈研究观众体验。",
+   "keywords": [
+    "opera",
+    "haptic voice",
+    "Morton Feldman",
+    "soft robotics",
+    "micro-phenomenology",
+    "intercorporeality"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ML_A_L2u280"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3544548.3581294",
+    "doi": "10.1145/3544548.3581294",
+    "arxiv": "",
+    "venue": "CHI 2023",
+    "title": "Corsetto: A Kinesthetic Garment for Designing, Composing for, and Experiencing an Intersubjective Haptic Voice"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "ozgun-kilic-afsar--omnifiber",
+   "creator_ids": [
+    "ozgun-kilic-afsar"
+   ],
+   "title": "OmniFiber",
+   "year": 2021,
+   "field": "somaesthetic",
+   "sub": "actuation",
+   "modalities": [
+    "shape-change",
+    "movement",
+    "touch"
+   ],
+   "lenses": [
+    "touching-back",
+    "movement-expression"
+   ],
+   "kind": "prototype",
+   "description": "OmniFiber is a thin fluidic fibre that contracts and senses its own strain, so it can be woven or knitted into garments that move, squeeze and guide the body.",
+   "description_zh": "OmniFiber 是一种细的流体纤维，能收缩并感测自身的拉伸，可以织入或编入服装，让衣服移动、挤压并引导身体。",
+   "idea_en": "A textile that behaves like muscle lets movement be taught and shared through the fabric we already wear.",
+   "idea_zh": "像肌肉一样工作的织物，让动作可以通过我们本来就穿着的衣物被教授和分享。",
+   "method": "Fluidic artificial muscle fibres (under 1.8 mm) with integrated soft sensors, woven into on-body haptic devices for embodied learning (with the MIT Media Lab Tangible Media Group).",
+   "method_zh": "直径小于 1.8 毫米、集成柔性传感器的流体人工肌肉纤维，织入身体上的触觉装置用于具身学习（与 MIT 媒体实验室可触媒体组合作）。",
+   "keywords": [
+    "fluidic fibre",
+    "artificial muscle",
+    "textile",
+    "soft robotics",
+    "embodied learning"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=xtlL-0eb0xc"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3472749.3474802",
+    "doi": "10.1145/3472749.3474802",
+    "arxiv": "",
+    "venue": "UIST 2021",
+    "title": "OmniFiber: Integrated Fluidic Fiber Actuators for Weaving Movement based Interactions into the 'Fabric of Everyday Life'"
+   }
+  },
+  {
+   "id": "sara-eriksson--dancing-with-drones",
+   "creator_ids": [
+    "sara-eriksson",
+    "kristina-hook"
+   ],
+   "title": "Dancing With Drones",
+   "year": 2019,
+   "field": "machines-xr",
+   "sub": "robots-drones",
+   "also": [
+    "movement"
+   ],
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "movement-expression",
+    "more-than-human"
+   ],
+   "kind": "performance",
+   "description": "For a commissioned opera with custom drones on stage, the choreographer used their own moving body to feel the drones' 'otherness', showed the engineer how the drones' behaviour should change, and re-choreographed as the drones improved.",
+   "description_zh": "为一部由无人机登台的委约歌剧，编舞者用自己的身体去感受无人机的“他者性”，向工程师示范其行为该如何改变，并随着无人机的改进不断重编舞蹈。",
+   "idea_en": "Expressive machine movement is shaped through the designer's own moving body: an intercorporeal understanding between human and drone.",
+   "idea_zh": "富有表现力的机器动作，是通过设计者自己运动着的身体塑造出来的：一种人与无人机之间的身体间理解。",
+   "method": "Analysis of months of artistic development of drone behaviours for an opera, based on observation, video and interviews with choreographer Åsa Unander-Scharin and the team.",
+   "method_zh": "基于观察、录像以及对编舞者 Åsa Unander-Scharin 和团队的访谈，分析为歌剧开发无人机行为的数月艺术过程。",
+   "keywords": [
+    "drones",
+    "opera",
+    "choreography",
+    "intercorporeality",
+    "Unander-Scharin"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/f01cfce1209f9699f692049d9556e3f8c0ee4b8d/3-Figure1-1.png",
+    "https://figures.semanticscholar.org/f01cfce1209f9699f692049d9556e3f8c0ee4b8d/7-Figure3-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3290605.3300847",
+    "doi": "10.1145/3290605.3300847",
+    "arxiv": "",
+    "venue": "CHI 2019",
+    "title": "Dancing With Drones: Crafting Novel Artistic Expressions Through Intercorporeality"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "sara-eriksson--ethics-in-movement",
+   "creator_ids": [
+    "sara-eriksson",
+    "kristina-hook"
+   ],
+   "title": "Ethics in Movement",
+   "year": 2020,
+   "field": "machines-xr",
+   "sub": "robots-drones",
+   "also": [
+    "movement"
+   ],
+   "modalities": [
+    "movement",
+    "voice-sound",
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-politics",
+    "intercorporeality",
+    "attunement"
+   ],
+   "kind": "paper",
+   "description": "A video analysis of a choreographer, an opera singer and a choir of five drones performing together shows how the human-drone assemblage limits or frees movement against the norms of operatic performance.",
+   "description_zh": "对一位编舞者、一位歌剧演唱者与五架无人机“合唱团”同台演出的视频分析，展示了人与无人机的组合如何在歌剧表演规范面前限制或解放动作。",
+   "idea_en": "Ethics is not only rules 'out there': how a technology informs or dictates movement shapes what we can feel and freely choose, and somatic awareness widens that freedom.",
+   "idea_zh": "伦理不只是“外在”的规则：技术如何塑造或规定动作，决定了我们能感受什么、能自由选择什么；身体觉察则拓宽了这份自由。",
+   "method": "Detailed video analysis of rehearsals and performances of a drone opera, read through Shusterman's somaesthetic perspective on ethics (with Shusterman as co-author).",
+   "method_zh": "对一部无人机歌剧的排练与演出做细致的视频分析，并从舒斯特曼的身体美学伦理视角解读（舒斯特曼为合著者）。",
+   "keywords": [
+    "drones",
+    "opera",
+    "ethics",
+    "somaesthetics",
+    "Shusterman",
+    "choreography"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/c3ecbe7da0bc4d9175884fd5a540c973cd809a75/2-Figure1-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3313831.3376678",
+    "doi": "10.1145/3313831.3376678",
+    "arxiv": "",
+    "venue": "CHI 2020",
+    "title": "Ethics in Movement: Shaping and Being Shaped in Human-Drone Interaction"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "yoav-luft--boards-hit-back",
+   "creator_ids": [
+    "yoav-luft",
+    "pavel-karpashevich",
+    "kristina-hook"
+   ],
+   "title": "Boards Hit Back",
+   "year": 2023,
+   "field": "movement",
+   "sub": "exertion-play",
+   "modalities": [
+    "movement",
+    "touch",
+    "posture-balance"
+   ],
+   "lenses": [
+    "estrangement",
+    "movement-expression",
+    "first-person"
+   ],
+   "kind": "prototype",
+   "description": "An interactive wooden training dummy for martial arts was designed with and by a martial arts expert, and the process changed both the expert's practice and the expert.",
+   "description_zh": "一个用于武术训练的互动木人桩，由一位武术专家参与并主导设计，这个过程同时改变了这位专家的修习与这位专家本人。",
+   "idea_en": "Estrangement in soma design lets practitioners break habits and cultivate new ones, fused with thought and feeling.",
+   "idea_zh": "身体设计中的陌生化让修习者打破旧习惯，培养新的、思与感交融的习惯。",
+   "method": "Soma design process around a sensor-equipped wooden dummy, reported through a phenomenological first-person account of the practitioner.",
+   "method_zh": "围绕一个装有传感器的木人桩进行身体设计，并以修习者第一人称的现象学叙述来报告。",
+   "keywords": [
+    "martial arts",
+    "wooden dummy",
+    "estrangement",
+    "practice",
+    "habit"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=lTISUBb1gyc"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3544548.3580722",
+    "doi": "10.1145/3544548.3580722",
+    "arxiv": "",
+    "venue": "CHI 2023",
+    "title": "Boards Hit Back: Reflecting on Martial Arts Practices Through Soma Design"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "joseph-la-delfa--how-to-train-your-drone",
+   "creator_ids": [
+    "joseph-la-delfa",
+    "rachael-garrett",
+    "kristina-hook"
+   ],
+   "title": "How to Train Your Drone",
+   "year": 2024,
+   "field": "machines-xr",
+   "sub": "robots-drones",
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "more-than-human",
+    "intercorporeality",
+    "movement-expression"
+   ],
+   "kind": "prototype",
+   "description": "Three people sharing a home spent a month shaping what their drones could sense and how they responded, forming intimate, individual human-drone couplings.",
+   "description_zh": "三位合住的人用一个月时间，塑造各自无人机能感知什么、如何回应，形成了亲密而各不相同的人机配对。",
+   "idea_en": "Thinking of a drone's umwelt, its own sensory world, opens a design space where human and machine come to understand each other somatically.",
+   "idea_zh": "把无人机的“环世界”（umwelt，即它自己的感知世界）纳入思考，就打开了一个人与机器在身体层面相互理解的设计空间。",
+   "method": "Drones whose sensing and behaviour can be trained through bodily interaction, deployed for a month in a shared household; umwelt used as a design metaphor within soma design.",
+   "method_zh": "可通过身体互动训练其感知与行为的无人机，在合住家庭中部署一个月；在身体设计中把“环世界”用作设计隐喻。",
+   "keywords": [
+    "drones",
+    "umwelt",
+    "human-drone interaction",
+    "artificial life",
+    "household"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=4EagWgeGESI"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3643834.3660737",
+    "doi": "10.1145/3643834.3660737",
+    "arxiv": "",
+    "venue": "DIS 2024",
+    "title": "How to Train Your Drone: Exploring the umwelt as a design metaphor for human-drone interaction"
+   },
+   "collections": [
+    "dis"
+   ]
+  },
+  {
+   "id": "joseph-la-delfa--mechanical-sympathy",
+   "creator_ids": [
+    "joseph-la-delfa",
+    "rachael-garrett",
+    "kristina-hook"
+   ],
+   "title": "Mechanical Sympathy",
+   "year": 2024,
+   "field": "machines-xr",
+   "sub": "robots-drones",
+   "also": [
+    "methods"
+   ],
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "more-than-human",
+    "attunement",
+    "intercorporeality"
+   ],
+   "kind": "paper",
+   "description": "Drawing on How to Train Your Drone, the paper proposes mechanical sympathy, the feel a person develops for a machine's agency, oscillations and aesthetic possibilities, as a design concept for somaesthetic relations with machines.",
+   "description_zh": "以 How to Train Your Drone 为案例，论文提出“机械共感”作为设计概念：人对机器的能动性、振荡与审美可能性逐渐养成的一种体感，用于建立与机器之间的身体美学关系。",
+   "idea_en": "Like a driver who feels an engine, people can cultivate appreciative, idiosyncratic relationships with machines that complement technical understanding.",
+   "idea_zh": "就像驾驶者能感觉到引擎一样，人可以与机器培养出欣赏性的、个人化的关系，补充技术层面的理解。",
+   "method": "Descriptive and reflective accounts of design strategies and of co-creators living with the drones, distilled into three qualities: machine agency, oscillations and aesthetic pursuits.",
+   "method_zh": "对设计策略和共同创作者与无人机共处的描述性、反思性记录，提炼出三种品质：机器能动性、振荡与审美追求。",
+   "keywords": [
+    "mechanical sympathy",
+    "drones",
+    "strong concept",
+    "human-machine relations",
+    "soma design"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=pYzybU66dGE"
+   },
+   "images": [
+    "https://figures.semanticscholar.org/bd75a121dc19350017f538dacc1b47e1d9ff7d5a/5-Figure2-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3643834.3661514",
+    "doi": "10.1145/3643834.3661514",
+    "arxiv": "",
+    "venue": "DIS 2024",
+    "title": "Articulating Mechanical Sympathy for Somaesthetic Human-Machine Relations"
+   },
+   "collections": [
+    "dis"
+   ]
+  },
+  {
+   "id": "mousa-sondoqah--drone-arena",
+   "creator_ids": [
+    "mousa-sondoqah",
+    "kristina-popova",
+    "joseph-la-delfa",
+    "rachael-garrett"
+   ],
+   "title": "Drone Arena",
+   "year": 2024,
+   "field": "machines-xr",
+   "sub": "robots-drones",
+   "modalities": [
+    "movement",
+    "touch"
+   ],
+   "lenses": [
+    "more-than-human",
+    "intercorporeality",
+    "first-person"
+   ],
+   "kind": "paper",
+   "description": "In a three-day drone challenge at KTH, teams moved from aiming for seamless control to treating small drones as fragile, wilful and crash-prone, and used intimate bodily interactions to probe what their drone could do.",
+   "description_zh": "在 KTH 举办的三天无人机挑战赛中，各团队从追求无缝操控，转向把小型无人机视为脆弱、任性、容易坠毁的存在，并通过亲密的身体互动去试探无人机能做什么。",
+   "idea_en": "Shaping a machine's behaviour needs perception-action loops you can feel; programming becomes a bodily negotiation rather than pure instruction.",
+   "idea_zh": "塑造机器的行为，需要能被亲身感受的感知—行动回路；编程于是成为一种身体上的协商，而不只是下达指令。",
+   "method": "Observation, interviews, field notes, video and inspection of each team's code from the Drone Arena challenge (Crazyflie nano-drones with an external positioning system), analysed through bricolage.",
+   "method_zh": "对 Drone Arena 挑战赛的观察、访谈、现场笔记、录像以及各团队代码的检视（Crazyflie 微型无人机配合外部定位系统），以拼贴式方法分析。",
+   "keywords": [
+    "drones",
+    "Crazyflie",
+    "programming",
+    "perception-action loop",
+    "Digital Futures"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=kDzwTJadit8"
+   },
+   "images": [
+    "https://figures.semanticscholar.org/469f723c597d62dd98e6fef227ffd4545a59e410/4-Figure1-1.png",
+    "https://figures.semanticscholar.org/469f723c597d62dd98e6fef227ffd4545a59e410/6-Figure4-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3643834.3661636",
+    "doi": "10.1145/3643834.3661636",
+    "arxiv": "",
+    "venue": "DIS 2024",
+    "title": "Shaping and Being Shaped by Drones: Programming in Perception-Action Loops"
+   },
+   "collections": [
+    "dis"
+   ]
+  },
+  {
+   "id": "jakob-tholander--running-body-sensor",
+   "creator_ids": [
+    "jakob-tholander"
+   ],
+   "title": "The Body as Its Own Best Sensor",
+   "year": 2025,
+   "field": "movement",
+   "sub": "exertion-play",
+   "modalities": [
+    "movement",
+    "breath",
+    "heartbeat"
+   ],
+   "lenses": [
+    "first-person",
+    "body-data",
+    "attunement"
+   ],
+   "kind": "paper",
+   "description": "Through an autobiographical study of everyday long-distance running with a basic sports watch, Tholander describes how runners sense pace, effort and terrain with their whole body.",
+   "description_zh": "Tholander 通过对自己日常长跑、只戴一块普通运动手表的自传式研究，描述跑者如何用整个身体感知配速、用力与地形。",
+   "idea_en": "A trained body senses more finely than the watch; sports technology should support these somatic sensitivities rather than replace them.",
+   "idea_zh": "受过训练的身体比手表感知得更细；运动技术应当支持这些身体敏感性，而不是取而代之。",
+   "method": "Autoethnography of running practice and data use, distilled into six themes for sports technology design.",
+   "method_zh": "对跑步修习与数据使用的自我民族志，提炼出运动技术设计的六个主题。",
+   "keywords": [
+    "running",
+    "autoethnography",
+    "endurance",
+    "sports watch",
+    "somatic sensing"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3706598.3713607",
+    "doi": "10.1145/3706598.3713607",
+    "arxiv": "",
+    "venue": "CHI 2025",
+    "title": "The Body as Its Own Best Sensor - An Autoethnographic Study of the Sensitivities of the Body in Long-Distance Running"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "pedro-sanches--hci-affective-health",
+   "creator_ids": [
+    "pedro-sanches",
+    "pavel-karpashevich",
+    "muhammad-umair",
+    "kristina-hook"
+   ],
+   "title": "HCI and Affective Health",
+   "year": 2019,
+   "field": "care",
+   "sub": "stress-mental-health",
+   "modalities": [
+    "whole-soma",
+    "skin-arousal"
+   ],
+   "lenses": [
+    "care-healing",
+    "body-data",
+    "body-politics"
+   ],
+   "kind": "paper",
+   "description": "A review of 139 CHI-family papers on depression, anxiety and bipolar disorder finds most innovation in automated diagnosis and self-tracking, and calls for interventions and ethical involvement of people living with these conditions.",
+   "description_zh": "对 139 篇 CHI 系列会议中关于抑郁、焦虑和双相障碍的论文的综述发现，大多数创新集中在自动诊断和自我追踪，并呼吁更多干预性设计，以及以合乎伦理的方式让患者参与。",
+   "idea_en": "Producing more body data is not care; mental health technology should help people live with and act on what they feel.",
+   "idea_zh": "产出更多身体数据并不等于照护；心理健康技术应当帮助人与自己的感受共处，并据此行动。",
+   "method": "Systematic literature review of ten years of SIGCHI proceedings, coded for condition, approach, technology and evaluation.",
+   "method_zh": "对十年 SIGCHI 会议论文的系统文献综述，按病症、方法、技术与评估方式编码。",
+   "keywords": [
+    "mental health",
+    "depression",
+    "anxiety",
+    "bipolar",
+    "literature review",
+    "AffecTech"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=IlAAXSIb4WA"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3290605.3300475",
+    "doi": "10.1145/3290605.3300475",
+    "arxiv": "",
+    "venue": "CHI 2019",
+    "title": "HCI and Affective Health: Taking stock of a decade of studies and charting future research directions"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "pedro-sanches--diffraction-in-action",
+   "creator_ids": [
+    "pedro-sanches",
+    "noura-howell",
+    "vasiliki-tsaknaki"
+   ],
+   "title": "Diffraction-in-action: Lived Data",
+   "year": 2022,
+   "field": "affect",
+   "sub": "body-data",
+   "modalities": [
+    "whole-soma",
+    "heartbeat",
+    "movement"
+   ],
+   "lenses": [
+    "body-data",
+    "first-person",
+    "more-than-human"
+   ],
+   "kind": "paper",
+   "description": "Five biodata case studies, in which design researchers lived with their own data in slow, open-ended ways, show how the data became entangled with their everyday lives rather than standing apart as objective measurement.",
+   "description_zh": "五个生物数据案例中，设计研究者以缓慢而开放的方式与自己的数据共处，展示了这些数据如何与日常生活缠绕在一起，而不是作为客观测量站在生活之外。",
+   "idea_en": "Data about a body is lived: it changes what it measures, and designers learn most by staying with its messiness over time.",
+   "idea_zh": "关于身体的数据是“活的”：它会改变它所测量的东西；设计者长期与它的杂乱共处，才学得最多。",
+   "method": "Five first-person biodata case studies analysed through Karen Barad's agential realism and diffraction.",
+   "method_zh": "五个第一人称生物数据案例，借助凯伦·巴拉德的能动实在论与“衍射”概念进行分析。",
+   "keywords": [
+    "lived data",
+    "agential realism",
+    "diffraction",
+    "Barad",
+    "biodata",
+    "first-person"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=9z79h46zTKA"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3491102.3502029",
+    "doi": "10.1145/3491102.3502029",
+    "arxiv": "",
+    "venue": "CHI 2022",
+    "title": "Diffraction-in-action: Designerly Explorations of Agential Realism Through Lived Data"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "muhammad-umair--thermopixels",
+   "creator_ids": [
+    "muhammad-umair",
+    "miquel-alfaras"
+   ],
+   "title": "ThermoPixels",
+   "year": 2020,
+   "field": "affect",
+   "sub": "biosignals",
+   "modalities": [
+    "skin-arousal",
+    "heat",
+    "light-vision"
+   ],
+   "lenses": [
+    "body-data",
+    "attunement",
+    "pleasure-play"
+   ],
+   "kind": "prototype",
+   "description": "ThermoPixels is a crafting toolkit of thermochromic materials, heating elements and skin conductance sensors with which people make their own colour-changing displays of physiological arousal.",
+   "description_zh": "ThermoPixels 是一套手工工具包，包含热致变色材料、加热元件和皮肤电传感器，人们用它自己动手制作随生理唤醒而变色的显示物。",
+   "idea_en": "Making your own representation of arousal, with your hands, turns biodata into something personal you can regulate emotion with.",
+   "idea_zh": "亲手为自己的唤醒制作表征，会让生物数据成为属于自己的、可以用来调节情绪的东西。",
+   "method": "GSR sensing drives heating elements under thermochromic paint and fabric; 20 participants created personalised shapes and colours in 10 workshops.",
+   "method_zh": "皮肤电信号驱动热致变色颜料与织物下的加热元件；20 位参与者在 10 场工作坊中制作了个性化的形状与色彩。",
+   "keywords": [
+    "thermochromic",
+    "arousal",
+    "GSR",
+    "hybrid crafting",
+    "toolkit",
+    "emotion regulation"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=_IhgPrDsXzI"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3357236.3395512",
+    "doi": "10.1145/3357236.3395512",
+    "arxiv": "",
+    "venue": "DIS 2020",
+    "title": "ThermoPixels: Toolkit for Personalizing Arousal-based Interfaces through Hybrid Crafting"
+   },
+   "collections": [
+    "dis"
+   ]
+  },
+  {
+   "id": "vasiliki-tsaknaki--fabulating-biodata-futures",
+   "creator_ids": [
+    "vasiliki-tsaknaki",
+    "pedro-sanches",
+    "noura-howell"
+   ],
+   "title": "Fabulating Biodata Futures",
+   "year": 2022,
+   "field": "affect",
+   "sub": "body-data",
+   "modalities": [
+    "whole-soma",
+    "breath",
+    "heartbeat"
+   ],
+   "lenses": [
+    "body-data",
+    "more-than-human",
+    "intercorporeality"
+   ],
+   "kind": "paper",
+   "description": "The paper synthesises design research on biodata and offers three fabulations, Weaving Alongside, Diffracting Selves and Collective Affect, that imagine biodata shared among diverse human and non-human bodies.",
+   "description_zh": "论文综述生物数据相关的设计研究，并给出三则“虚构”——Weaving Alongside、Diffracting Selves、Collective Affect——想象在多样的人类与非人身体之间共享生物数据。",
+   "idea_en": "Biodata need not be individual and diagnostic; it can be a medium for living and knowing together with other bodies.",
+   "idea_zh": "生物数据不必是个人的、诊断性的，它可以成为与其他身体共同生活、共同认识的媒介。",
+   "method": "Thematic synthesis of design exemplars followed by speculative fabulation written by an international group of biodata design researchers.",
+   "method_zh": "先对设计案例做主题综合，再由一个国际生物数据设计研究者小组撰写思辨性的虚构故事。",
+   "keywords": [
+    "biodata",
+    "fabulation",
+    "speculative design",
+    "more-than-human",
+    "collective affect"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=NLcnlKI3vHM"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3532106.3533477",
+    "doi": "10.1145/3532106.3533477",
+    "arxiv": "",
+    "venue": "DIS 2022",
+    "title": "Fabulating Biodata Futures for Living and Knowing Together"
+   },
+   "collections": [
+    "dis"
+   ]
+  },
+  {
+   "id": "nadia-campo-woytuk--curious-cycles",
+   "creator_ids": [
+    "nadia-campo-woytuk",
+    "marie-louise-juul-sondergaard",
+    "marianela-ciolfi-felice",
+    "madeline-balaam"
+   ],
+   "title": "Curious Cycles",
+   "year": 2020,
+   "field": "intimate",
+   "sub": "menstruation",
+   "modalities": [
+    "intimate-body",
+    "touch"
+   ],
+   "lenses": [
+    "body-politics",
+    "first-person",
+    "care-healing"
+   ],
+   "kind": "prototype",
+   "description": "Curious Cycles is a set of objects that invite people to look at and touch their menstrual blood, saliva and cervical mucus over a full cycle.",
+   "description_zh": "Curious Cycles 是一组物件，邀请人们在一个完整的月经周期中观看并触摸自己的经血、唾液和宫颈黏液。",
+   "idea_en": "Touching and looking at one's own fluids builds self-knowledge and a nurturing appreciation of the changing body, against the stigma that teaches disgust.",
+   "idea_zh": "触摸和观看自己的体液，能建立对自身的认识，并对变化中的身体生出滋养性的欣赏，以对抗教人厌恶的污名。",
+   "method": "Research through Design: a kit of objects and interactions deployed with five participants over a menstrual cycle, with diaries and interviews.",
+   "method_zh": "以设计为研究：一套物件与互动方式，由五位参与者在一个月经周期中使用，配合日记与访谈。",
+   "keywords": [
+    "menstruation",
+    "bodily fluids",
+    "self-touch",
+    "stigma",
+    "feminist HCI"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=NJaDG-SHa4w"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3313831.3376471",
+    "doi": "10.1145/3313831.3376471",
+    "arxiv": "",
+    "venue": "CHI 2020",
+    "title": "Touching and Being in Touch with the Menstruating Body"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "marie-louise-juul-sondergaard--menarche-bits",
+   "creator_ids": [
+    "marie-louise-juul-sondergaard",
+    "ozgun-kilic-afsar",
+    "marianela-ciolfi-felice",
+    "nadia-campo-woytuk",
+    "madeline-balaam"
+   ],
+   "title": "Menarche Bits",
+   "year": 2020,
+   "field": "intimate",
+   "sub": "menstruation",
+   "modalities": [
+    "heat",
+    "shape-change",
+    "intimate-body"
+   ],
+   "lenses": [
+    "touching-back",
+    "body-politics",
+    "care-healing"
+   ],
+   "kind": "prototype",
+   "description": "Menarche Bits is an open-ended kit of heat pads and soft shape-changing actuators, worn on the skin or in pockets of a stretchy garment, for young people to create body-worn technologies around their first periods.",
+   "description_zh": "Menarche Bits 是一套开放式套件，包含加热片和柔软的形变执行器，可贴在皮肤上或放进弹性衣物的口袋里，供年轻人围绕自己的初潮创作贴身技术。",
+   "idea_en": "Warmth and pressure on the body can open conversations about menstruation and help young people trust their menstruating bodies.",
+   "idea_zh": "身体上的温暖与压力可以打开关于月经的对话，帮助年轻人信任自己正在来月经的身体。",
+   "method": "Soft robotic inflatables and heat elements that stimulate, press, heat and massage the skin and muscles; later used in participatory workshops with adolescents in sports clubs.",
+   "method_zh": "软体充气件与加热元件，可刺激、按压、加热和按摩皮肤与肌肉；后来用于与运动俱乐部青少年进行的参与式工作坊。",
+   "keywords": [
+    "menarche",
+    "adolescents",
+    "toolkit",
+    "soft robotics",
+    "heat",
+    "shape-change"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=DcHno9yU3ws"
+   },
+   "images": [
+    "https://www.kth.se/polopoly_fs/1.1486487.1782821190!/image/DSC_0172%20small.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3357236.3395592",
+    "doi": "10.1145/3357236.3395592",
+    "arxiv": "",
+    "venue": "DIS 2020",
+    "title": "Designing with Intimate Materials and Movements: Making “Menarche Bits”"
+   },
+   "source_url": "https://www.kth.se/hct/mid/research/interaction-design/projects/menarche-bits-1.921962",
+   "collections": [
+    "dis"
+   ]
+  },
+  {
+   "id": "marie-louise-juul-sondergaard--menstrual-tech-adolescents",
+   "creator_ids": [
+    "marie-louise-juul-sondergaard",
+    "marianela-ciolfi-felice",
+    "madeline-balaam"
+   ],
+   "title": "Menstrual Technologies Designed with Adolescents",
+   "year": 2021,
+   "field": "intimate",
+   "sub": "menstruation",
+   "also": [
+    "care"
+   ],
+   "modalities": [
+    "intimate-body",
+    "heat",
+    "shape-change"
+   ],
+   "lenses": [
+    "body-politics",
+    "care-healing",
+    "touching-back"
+   ],
+   "kind": "prototype",
+   "description": "Seven adolescents aged 16 to 18 used Menarche Bits in two workshops to design technologies that respond to menstrual cramps and to anxious feelings before a period, so they can keep playing sport.",
+   "description_zh": "七位 16 至 18 岁的青少年在两场工作坊中使用 Menarche Bits，设计能回应经期痉挛和经前焦虑的技术，让这些年轻人能继续参加体育运动。",
+   "idea_en": "Participatory soma design lets young people listen to and care for newly menstruating bodies instead of hiding them.",
+   "idea_zh": "参与式身体设计让年轻人倾听并照顾刚开始来月经的身体，而不是把它藏起来。",
+   "method": "Two participatory soma design workshops with the Menarche Bits toolkit, run with sports clubs and a high school as part of menstrual advocacy.",
+   "method_zh": "使用 Menarche Bits 工具包的两场参与式身体设计工作坊，与运动俱乐部和一所高中合作，作为月经倡导的一部分。",
+   "keywords": [
+    "adolescents",
+    "sport",
+    "participatory design",
+    "menstrual cramps",
+    "Menarche Bits"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=6smyCA51U_g"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3411764.3445471",
+    "doi": "10.1145/3411764.3445471",
+    "arxiv": "",
+    "venue": "CHI 2021",
+    "title": "Designing Menstrual Technologies with Adolescents"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "marianela-ciolfi-felice--menopause",
+   "creator_ids": [
+    "marianela-ciolfi-felice",
+    "marie-louise-juul-sondergaard",
+    "madeline-balaam"
+   ],
+   "title": "Reclaiming the Body through Design: Menopause",
+   "year": 2021,
+   "field": "intimate",
+   "sub": "life-transitions",
+   "modalities": [
+    "intimate-body",
+    "heat",
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-politics",
+    "care-healing",
+    "body-mind-unity"
+   ],
+   "kind": "paper",
+   "description": "Interviews with twelve women and a design workshop produced concepts that bring design close to the body during menopause, resisting its framing as a medical problem.",
+   "description_zh": "对十二位女性的访谈和一场设计工作坊产生了若干概念，让设计在更年期中贴近身体，抵抗把更年期仅视为医学问题的框架。",
+   "idea_en": "Menopause is an entanglement of physical and psychosocial change; design can recognise and transform it rather than only treat symptoms.",
+   "idea_zh": "更年期是身体变化与心理社会变化的交织；设计可以承认并转化它，而不只是治疗症状。",
+   "method": "Interviews with 12 women and a participatory design workshop with three, analysed from a holistic, body-first perspective.",
+   "method_zh": "访谈 12 位女性，并与其中三位进行参与式设计工作坊，从整体、以身体为先的视角分析。",
+   "keywords": [
+    "menopause",
+    "medicalisation",
+    "women's health",
+    "participatory design",
+    "hot flushes"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Qr9K9ScP6BI"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3411764.3445153",
+    "doi": "10.1145/3411764.3445153",
+    "arxiv": "",
+    "venue": "CHI 2021",
+    "title": "Resisting the Medicalisation of Menopause: Reclaiming the Body through Design"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "nadia-campo-woytuk--tactful-feminist-sensing",
+   "creator_ids": [
+    "nadia-campo-woytuk",
+    "joo-young-park",
+    "marianela-ciolfi-felice",
+    "madeline-balaam"
+   ],
+   "title": "Tactful Feminist Sensing",
+   "year": 2023,
+   "field": "intimate",
+   "sub": "menstruation",
+   "modalities": [
+    "intimate-body",
+    "touch"
+   ],
+   "lenses": [
+    "body-politics",
+    "body-data",
+    "first-person"
+   ],
+   "kind": "prototype",
+   "description": "Design explorations, four concepts and one working prototype sense the conductivity of cervical mucus, adding touch-based bodily knowledge to fertility tracking.",
+   "description_zh": "设计探索、四个概念和一个可用原型感测宫颈黏液的导电性，为生育力追踪加入以触摸为基础的身体知识。",
+   "idea_en": "Sensing intimate fluids can stay close to the fleshy, tactile body instead of abstracting it into numbers.",
+   "idea_zh": "对私密体液的感测可以贴近有血有肉、可触摸的身体，而不是把它抽象成数字。",
+   "method": "A conductivity sensor prototype for vaginal fluids, presented as a pictorial with material explorations of proximity, visibility and temporality.",
+   "method_zh": "一个测量阴道分泌物导电性的传感器原型，以图文论文形式呈现，并对接近程度、可见性与时间性进行材料探索。",
+   "keywords": [
+    "cervical mucus",
+    "fertility tracking",
+    "sensing",
+    "feminist HCI",
+    "pictorial"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=t5bukX1SJhQ"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3563657.3595966",
+    "doi": "10.1145/3563657.3595966",
+    "arxiv": "",
+    "venue": "DIS 2023",
+    "title": "Tactful Feminist Sensing: Designing for Touching Vaginal Fluids"
+   },
+   "collections": [
+    "dis"
+   ]
+  },
+  {
+   "id": "marie-louise-juul-sondergaard--biomenstrual",
+   "creator_ids": [
+    "marie-louise-juul-sondergaard",
+    "nadia-campo-woytuk"
+   ],
+   "title": "Biomenstrual: Menstrual Care for More-than-Human Bodies",
+   "year": 2023,
+   "field": "intimate",
+   "sub": "menstruation",
+   "also": [
+    "machines-xr"
+   ],
+   "modalities": [
+    "intimate-body",
+    "touch"
+   ],
+   "lenses": [
+    "more-than-human",
+    "body-politics",
+    "care-healing"
+   ],
+   "kind": "prototype",
+   "description": "Workshop participants made biodegradable menstrual artefacts from biomaterials that can be composted, returning the nutrients in menstrual blood to soil.",
+   "description_zh": "工作坊参与者用生物材料制作可堆肥的月经用品，把经血中的养分还给土壤。",
+   "idea_en": "Menstrual care can extend to soil and other species when the body is understood as more-than-human.",
+   "idea_zh": "当身体被理解为超越人类的，月经照护就可以延伸到土壤与其他物种。",
+   "method": "Research through Design with three workshops and 20 participants, making tools and biomaterial artefacts.",
+   "method_zh": "以设计为研究，举办三场工作坊、20 位参与者，制作工具与生物材料物件。",
+   "keywords": [
+    "menstrual blood",
+    "compost",
+    "biomaterials",
+    "posthumanism",
+    "feminist HCI"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=r9TaL5jPR50"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3544548.3581083",
+    "doi": "10.1145/3544548.3581083",
+    "arxiv": "",
+    "venue": "CHI 2023",
+    "title": "Feminist Posthumanist Design of Menstrual Care for More-than-Human Bodies"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "joo-young-park--menstrual-pain-critique",
+   "creator_ids": [
+    "joo-young-park",
+    "nadia-campo-woytuk",
+    "marianela-ciolfi-felice",
+    "madeline-balaam"
+   ],
+   "title": "Critiquing Menstrual Pain Technologies",
+   "year": 2024,
+   "field": "intimate",
+   "sub": "menstruation",
+   "also": [
+    "care"
+   ],
+   "modalities": [
+    "pain-interoception",
+    "intimate-body"
+   ],
+   "lenses": [
+    "body-politics",
+    "care-healing"
+   ],
+   "kind": "paper",
+   "description": "An interaction critique of FemTech products for menstrual pain, read through feminist disability studies, ends in three design provocations.",
+   "description_zh": "借助女性主义残障研究，对治疗经痛的女性健康科技产品进行交互批评，并提出三条设计挑衅。",
+   "idea_en": "Most products try to hide menstrual pain; design should instead attend to it as a cyclical, chronic lived experience.",
+   "idea_zh": "多数产品试图把经痛藏起来；设计应当把它当作周期性的、慢性的亲身经验来关注。",
+   "method": "Interaction critique of FemTech market exemplars using feminist disability studies as the analytical lens.",
+   "method_zh": "以女性主义残障研究为分析视角，对女性健康科技市场上的代表产品进行交互批评。",
+   "keywords": [
+    "menstrual pain",
+    "dysmenorrhea",
+    "FemTech",
+    "feminist disability studies",
+    "critique"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=SPOFbrspHgY"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3613904.3642691",
+    "doi": "10.1145/3613904.3642691",
+    "arxiv": "",
+    "venue": "CHI 2024",
+    "title": "Critiquing Menstrual Pain Technologies through the Lens of Feminist Disability Studies"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "joo-young-park--touchware",
+   "creator_ids": [
+    "joo-young-park",
+    "caroline-yan-zheng",
+    "nadia-campo-woytuk",
+    "madeline-balaam",
+    "marianela-ciolfi-felice"
+   ],
+   "title": "Touchware",
+   "year": 2025,
+   "field": "intimate",
+   "sub": "menstruation",
+   "also": [
+    "care"
+   ],
+   "modalities": [
+    "shape-change",
+    "touch",
+    "pain-interoception"
+   ],
+   "lenses": [
+    "touching-back",
+    "care-healing",
+    "body-politics"
+   ],
+   "kind": "prototype",
+   "description": "Touchware is a set of on-body touch probes that inflate or add weight, worn at work to engage with and care for menstrual discomfort.",
+   "description_zh": "Touchware 是一组贴身的触觉探头，可以充气或施加重量，在工作场合佩戴，用来与经期不适相处并照护它。",
+   "idea_en": "Technology can touch a body in a vulnerable state with care, when it is designed for the diffuse, lingering qualities of discomfort.",
+   "idea_zh": "当技术是为不适那种弥散、久久不去的特性而设计时，它就能带着照护去触碰处在脆弱状态的身体。",
+   "method": "Pneumatic shape-change and weighted components developed through participatory soma design, deployed for two weeks with six participants in a workplace.",
+   "method_zh": "通过参与式身体设计开发的气动形变与加重部件，在工作场所由六位参与者使用两周。",
+   "keywords": [
+    "menstrual discomfort",
+    "touch",
+    "pneumatics",
+    "weight",
+    "workplace",
+    "deployment"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3706598.3714032",
+    "doi": "10.1145/3706598.3714032",
+    "arxiv": "",
+    "venue": "CHI 2025",
+    "title": "Designing Touch Technologies for and with Bodies in Menstrual Discomfort"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "anna-stahl--pelvic-chair",
+   "creator_ids": [
+    "anna-stahl",
+    "madeline-balaam",
+    "marianela-ciolfi-felice"
+   ],
+   "title": "Pelvic Chair",
+   "year": 2022,
+   "field": "intimate",
+   "sub": "feminist-body",
+   "also": [
+    "care"
+   ],
+   "modalities": [
+    "shape-change",
+    "touch",
+    "intimate-body"
+   ],
+   "lenses": [
+    "touching-back",
+    "attunement",
+    "care-healing"
+   ],
+   "kind": "prototype",
+   "description": "The Pelvic Chair uses soft latex air pockets in the seat to touch the outer pelvic floor in gentle rhythms, drawing attention to its anatomy, muscles and connections.",
+   "description_zh": "Pelvic Chair 在座面中用柔软的乳胶气囊，以轻柔的节奏触碰外侧盆底，把注意力引向它的解剖结构、肌肉与联系。",
+   "idea_en": "Rhythmic, technology-initiated touch can build somatic literacy of a hidden muscle group: feeling tension and release where words fail.",
+   "idea_zh": "有节奏的、由技术发起的触摸，可以建立对一组隐秘肌群的身体素养：在言语无法到达之处感受紧张与放松。",
+   "method": "Inflatable latex pockets with tuned layers, volume and timing, developed through an annotated soma design process (Ståhl et al., DIS 2022) and studied with 14 participants (Yadav et al., CHI 2025).",
+   "method_zh": "层次、体积与时序经过调校的充气乳胶气囊，通过注释式身体设计开发（DIS 2022），并以 14 位参与者进行研究（Yadav 等，CHI 2025）。",
+   "keywords": [
+    "pelvic floor",
+    "soft robotics",
+    "latex",
+    "somatic literacy",
+    "women's health"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ouG7d90Hp-o"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3706598.3713223",
+    "doi": "10.1145/3706598.3713223",
+    "arxiv": "",
+    "venue": "CHI 2025",
+    "title": "A Route to Somatic Literacy of the Pelvic Floor through Technology-Initiated Touch"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "gudrun-margret-ivansdottir--kuddi",
+   "creator_ids": [
+    "gudrun-margret-ivansdottir",
+    "joo-young-park",
+    "anna-stahl",
+    "madeline-balaam"
+   ],
+   "title": "Kuddi",
+   "year": 2025,
+   "field": "intimate",
+   "sub": "menstruation",
+   "also": [
+    "affect"
+   ],
+   "modalities": [
+    "shape-change",
+    "touch",
+    "pain-interoception"
+   ],
+   "lenses": [
+    "body-data",
+    "touching-back",
+    "first-person"
+   ],
+   "kind": "prototype",
+   "description": "Kuddi is a soft pillow with 12 inflatable pockets that touches and is touched in relation to the changing menstruating body; its designer lived with it for two menstrual cycles.",
+   "description_zh": "Kuddi 是一个带 12 个充气口袋的柔软枕头，随着月经周期中身体的变化去触碰、也被触碰；设计者与它共同生活了两个月经周期。",
+   "idea_en": "Data felt through touch, 'visceralised' rather than visualised, can change one's relation to menstrual pain.",
+   "idea_zh": "通过触摸被感受到的数据——“内脏化”而非可视化——可以改变人与经痛的关系。",
+   "method": "Haptic data physicalisation with 12 inflatable pockets, evaluated autoethnographically over two cycles and analysed through narrative thick descriptions.",
+   "method_zh": "带 12 个充气口袋的触觉数据实体化装置，以自我民族志方式评估两个周期，并用叙事性的深描进行分析。",
+   "keywords": [
+    "data physicalisation",
+    "menstrual cycle",
+    "haptics",
+    "pillow",
+    "autoethnography"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3706598.3713221",
+    "doi": "10.1145/3706598.3713221",
+    "arxiv": "",
+    "venue": "CHI 2025",
+    "title": "Becoming One with Kuddi: Touching Data through an Intimate Data Physicalisation"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "madeline-balaam--shape-changing-car-seats",
+   "creator_ids": [
+    "madeline-balaam",
+    "anna-stahl",
+    "gudrun-margret-ivansdottir",
+    "kristina-hook",
+    "caroline-yan-zheng"
+   ],
+   "title": "Shape-Changing Car Seats",
+   "year": 2024,
+   "field": "somaesthetic",
+   "sub": "actuation",
+   "also": [
+    "machines-xr"
+   ],
+   "modalities": [
+    "shape-change",
+    "touch",
+    "posture-balance"
+   ],
+   "lenses": [
+    "touching-back",
+    "attunement",
+    "body-mind-unity"
+   ],
+   "kind": "prototype",
+   "description": "With a car manufacturer, the team co-designed touch patterns for a shape-changing driver's seat: re-engaging in driving, disengaging, saying farewell and being held while turning.",
+   "description_zh": "团队与一家汽车制造商共同为形变驾驶座设计触摸模式：重新投入驾驶、从驾驶中抽离、道别，以及转弯时被“托住”。",
+   "idea_en": "Touch on large, heavy parts of the body can link somatic experience to the rational tasks of driving, so the car's intelligence is felt rather than displayed.",
+   "idea_zh": "对身体大块、较重部位的触摸，可以把身体经验与驾驶的理性任务连起来，让汽车的智能被感受到，而不是被显示出来。",
+   "method": "A low-fidelity inflatable prototyping tool on a racing seat, used in a soma design workshop with the manufacturer's designers.",
+   "method_zh": "装在赛车座椅上的低保真充气原型工具，用于与制造商设计师进行的身体设计工作坊。",
+   "keywords": [
+    "car seat",
+    "shape-change",
+    "driving",
+    "automotive",
+    "inflatables"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/6ab6d94919fb0abd93165123064d0ccffe4bbe71/6-Figure2-1.png",
+    "https://figures.semanticscholar.org/6ab6d94919fb0abd93165123064d0ccffe4bbe71/8-Figure3-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3643834.3661518",
+    "doi": "10.1145/3643834.3661518",
+    "arxiv": "",
+    "venue": "DIS 2024",
+    "title": "Exploring the Somatic Possibilities of Shape Changing Car Seats"
+   },
+   "collections": [
+    "dis"
+   ]
+  },
+  {
+   "id": "thorhildur-asgeirsdottir--making-energy-matter",
+   "creator_ids": [
+    "thorhildur-asgeirsdottir",
+    "rob-comber"
+   ],
+   "title": "Making Energy Matter",
+   "year": 2023,
+   "field": "machines-xr",
+   "sub": "more-than-human",
+   "modalities": [
+    "heat",
+    "touch",
+    "whole-soma"
+   ],
+   "lenses": [
+    "first-person",
+    "more-than-human",
+    "body-politics"
+   ],
+   "kind": "paper",
+   "description": "A first-person soma design engagement with household energy moved from restrictive 'sustainability' designs to enacting material relations with energy, such as feeling residual heat and running water with the hands.",
+   "description_zh": "一项关于家庭能源的第一人称身体设计实践，从限制性的“可持续”设计转向与能源建立物质关系，例如用手去感受余热和流水。",
+   "idea_en": "Sustainability framed rationally breeds fatalism; somatic relations with energy open a more ethical, felt way of being with it.",
+   "idea_zh": "被理性框定的“可持续”会滋生宿命感；与能源建立身体关系，则打开一种更合乎伦理、可被感受的相处方式。",
+   "method": "Autobiographical design over months, with body maps, sketches and co-performed kitchen experiments.",
+   "method_zh": "持续数月的自传式设计，配合身体地图、草图，以及与他人共同进行的厨房实验。",
+   "keywords": [
+    "energy",
+    "sustainability",
+    "autobiographical design",
+    "relational ethics",
+    "kitchen"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=nIpaQ5-uQVs"
+   },
+   "images": [
+    "https://figures.semanticscholar.org/93d1703784186205708c39ae166a2a894032fbbc/9-Figure4-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3544548.3581160",
+    "doi": "10.1145/3544548.3581160",
+    "arxiv": "",
+    "venue": "CHI 2023",
+    "title": "Making Energy Matter: Soma Design for Ethical Relations in Energy Systems"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "claudia-nunez-pacheco--felt-sense-haiku-llm",
+   "creator_ids": [
+    "claudia-nunez-pacheco",
+    "pedro-sanches"
+   ],
+   "title": "Words that Feel Right: Haiku, Felt Sense and LLMs",
+   "year": 2025,
+   "field": "machines-xr",
+   "sub": "ai-ml",
+   "modalities": [
+    "whole-soma",
+    "voice-sound"
+   ],
+   "lenses": [
+    "first-person",
+    "attunement",
+    "body-mind-unity"
+   ],
+   "kind": "paper",
+   "description": "Over three months, the authors wrote haiku with ChatGPT as a tool for somatic introspection, searching for words that 'feel right' to the body and its emotions.",
+   "description_zh": "三个月里，作者把 ChatGPT 当作身体内省的工具来写俳句，寻找对身体和情绪而言“感觉对了”的词语。",
+   "idea_en": "A language model can support finding words for a felt sense only if designers respect the time it takes and each person's own idiom.",
+   "idea_zh": "语言模型要帮人为“体会”找到词语，前提是设计者尊重这所需的时间，以及每个人自己的言语方式。",
+   "method": "First-person collaborative process combining Gendlin's Focusing, haiku writing and ChatGPT dialogues, yielding two design qualities: ongoing temporalities and idiolectic resonance.",
+   "method_zh": "结合 Gendlin 的聚焦法、俳句写作与 ChatGPT 对话的第一人称协作过程，得出两个设计品质：持续的时间性与个人语言的共鸣。",
+   "keywords": [
+    "felt sense",
+    "Gendlin",
+    "Focusing",
+    "haiku",
+    "ChatGPT",
+    "LLM",
+    "introspection"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3715336.3735751",
+    "doi": "10.1145/3715336.3735751",
+    "arxiv": "",
+    "venue": "DIS 2025",
+    "title": "Searching for the Words that \"Feel Right\": Resonating with our Bodies and Felt Senses Through Haiku and Large Language Models (LLMs)"
+   },
+   "collections": [
+    "dis"
+   ]
+  },
+  {
+   "id": "kristina-hook--intelligence-is-corporeal",
+   "creator_ids": [
+    "kristina-hook"
+   ],
+   "title": "Intelligence Is Corporeal",
+   "year": 2025,
+   "field": "machines-xr",
+   "sub": "ai-ml",
+   "modalities": [
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "more-than-human",
+    "first-person"
+   ],
+   "kind": "paper",
+   "description": "In a 2025 lecture and a 2026 interactions article, Höök argues that current AI lives mostly in language, while intelligence, aesthetics and ethics are rooted in bodily existence, and asks how soma design can shape embodied AI.",
+   "description_zh": "在 2025 年的一场讲座和 2026 年发表于 interactions 的文章中，Höök 指出当下的 AI 主要存在于语言之中，而智能、审美与伦理都根植于身体性的存在，并追问身体设计如何塑造具身的 AI。",
+   "idea_en": "Why we turn toward what is good and away from harm is felt in the body; AI that ignores the soma leaves out the ground of value itself.",
+   "idea_zh": "我们为何趋向美好、避开伤害，是在身体里被感受到的；忽视身体的 AI，也就遗漏了价值本身的根基。",
+   "method": "Position lecture and essay drawing on a decade of soma design with shape-changing garments, drones and robots.",
+   "method_zh": "一场立场性讲座与一篇论文，以十年来关于形变服装、无人机与机器人的身体设计实践为依据。",
+   "keywords": [
+    "embodied AI",
+    "corporeal intelligence",
+    "robots",
+    "soma design",
+    "ethics"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Y1_ySUJvTMA"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3801726",
+    "doi": "10.1145/3801726",
+    "arxiv": "",
+    "venue": "ACM interactions 2026",
+    "title": "Shaping and Being Shaped by Embodied Intelligence"
+   }
+  }
+ ],
+ "leads": [
+  {
+   "name": "Isbister, Höök, Sharp, Laaksolahti — The Sensual Evaluation Instrument (CHI 2006)",
+   "why": "Non-verbal, sculpted-object self-report of affect; a method, left to the methods batch.",
+   "link": "https://doi.org/10.1145/1124772.1124946",
+   "found_via": "kristina-hook",
+   "status": "duplicate"
+  },
+  {
+   "name": "Höök, Jonsson, Ståhl, Mercurio — Somaesthetic Appreciation Design (CHI 2016)",
+   "why": "The design-method paper behind Soma Mat and Breathing Light; claimed by the methods batch.",
+   "link": "https://doi.org/10.1145/2858036.2858583",
+   "found_via": "kristina-hook",
+   "status": "duplicate"
+  },
+  {
+   "name": "Ståhl, Tsaknaki, Balaam — Validity and Rigour in Soma Design: Sketching with the Soma (TOCHI 2021)",
+   "why": "Method paper on sketching with the soma; for the methods batch.",
+   "link": "https://doi.org/10.1145/3470132",
+   "found_via": "kristina-hook",
+   "status": "open"
+  },
+  {
+   "name": "Tsaknaki, Balaam, Ståhl, Sanches, Windlin, Karpashevich, Höök — Teaching Soma Design (DIS 2019)",
+   "why": "Pedagogy of soma design; for the methods batch.",
+   "link": "https://doi.org/10.1145/3322276.3322327",
+   "found_via": "kristina-hook",
+   "status": "open"
+  },
+  {
+   "name": "Garrett, Popova, Núñez-Pacheco et al. — Felt Ethics: Cultivating Ethical Sensibility in Design Practice (CHI 2023)",
+   "why": "Felt ethics as a design method; for the methods batch.",
+   "link": "https://doi.org/10.1145/3544548.3580875",
+   "found_via": "kristina-hook",
+   "status": "open"
+  },
+  {
+   "name": "Popova, Garrett, Núñez-Pacheco, Lampinen, Höök — Vulnerability as an ethical stance in soma design processes (CHI 2022)",
+   "why": "Method / ethics paper by Kristina Popova (KTH); for the methods batch.",
+   "link": "https://doi.org/10.1145/3491102.3501994",
+   "found_via": "kristina-hook",
+   "status": "open"
+  },
+  {
+   "name": "Popova, Demir — Voicing Discomfort, Communicating Breakdowns: felt ethics in a body-based workshop (NordiCHI 2024)",
+   "why": "Body-based workshop method by Kristina Popova; methods batch.",
+   "link": "https://doi.org/10.1145/3679318.3685375",
+   "found_via": "kristina-hook",
+   "status": "duplicate"
+  },
+  {
+   "name": "Garrett, Kisić-Merino, Núñez-Pacheco, Sanches, Höök — Five Political Provocations for Soma Design (2024)",
+   "why": "Politics of soma design; theory for methods / design-knowledge.",
+   "link": "https://doi.org/10.1145/3686169.3686213",
+   "found_via": "kristina-hook",
+   "status": "duplicate"
+  },
+  {
+   "name": "Höök, Eriksson, Søndergaard et al. — Soma Design and Politics of the Body (Halfway to the Future 2019)",
+   "why": "Key theory paper on whose bodies soma design serves; methods or foundations.",
+   "link": "https://doi.org/10.1145/3363384.3363385",
+   "found_via": "kristina-hook",
+   "status": "duplicate"
+  },
+  {
+   "name": "Fritsch, Höök, Núñez-Pacheco, Sanches, Ståhl, Tsaknaki — Estrangement through Silence (DIS 2025)",
+   "why": "Estrangement method; methods batch.",
+   "link": "https://doi.org/10.1145/3715336.3735711",
+   "found_via": "kristina-hook",
+   "status": "duplicate"
+  },
+  {
+   "name": "Höök, Löwgren, Ståhl — Change and Be Changed: 10 Years of the Soma Design Research Program (TOCHI 2026)",
+   "why": "Retrospective of the whole programme; landmark theory paper for methods / foundations.",
+   "link": "https://doi.org/10.1145/3793670",
+   "found_via": "kristina-hook",
+   "status": "duplicate"
+  },
+  {
+   "name": "Zheng, Andrikopoulos, Paterson, Bianchi-Berthouze, Nygren, Luft, Balaam — Towards Robot and Technologies that Touch Well (DIS 2024)",
+   "why": "KTH affective-touch robotics agenda; no visual found.",
+   "link": "https://doi.org/10.1145/3656156.3658401",
+   "found_via": "kristina-hook",
+   "status": "no_media"
+  },
+  {
+   "name": "Zheng et al. — Towards Caring Touch From Technologies: Knowledge From Healthcare Practitioners (CHI 2025)",
+   "why": "Interview study on caring touch; could pair with Balaam's TEDxKTH talk (youtube gSYStO-CzZM).",
+   "link": "https://doi.org/10.1145/3706598.3713736",
+   "found_via": "kristina-hook",
+   "status": "no_media"
+  },
+  {
+   "name": "Gómez Ortega, Park, Ståhl, Ciolfi Felice, Campo Woytuk et al. — Consentful Lights (DIS 2026)",
+   "why": "Playful, touch-based consent artefacts for sharing fertility data; no visual found.",
+   "link": "https://doi.org/10.1145/3800645.3812866",
+   "found_via": "kristina-hook",
+   "status": "no_media"
+  },
+  {
+   "name": "Campo Woytuk, Bell, Park, Alistar, Balaam — A Plurality of More-than-Humanness: the vaginal microbiome (2024)",
+   "why": "Speculative feminist bio-design; no visual found.",
+   "link": "https://doi.org/10.1145/3686169.3686170",
+   "found_via": "kristina-hook",
+   "status": "no_media"
+  },
+  {
+   "name": "Alfaras, Primett, Umair, Windlin, Karpashevich et al. — Biosensing and Actuation Platforms (Sensors 2020)",
+   "why": "Hardware platforms (BITalino + actuation) behind Somadata; MDPI images blocked (403).",
+   "link": "https://doi.org/10.3390/s20215968",
+   "found_via": "kristina-hook",
+   "status": "no_media"
+  },
+  {
+   "name": "Karpashevich / Höök — 'Brightr'",
+   "why": "Not found in any source. The Informatics 2018 first-person paper discusses George Khut's BrightHearts (not Höök's group); 'Brightr' is likely a misremembering of it.",
+   "link": "https://doi.org/10.3390/informatics5010008",
+   "found_via": "kristina-hook",
+   "status": "off_topic"
+  },
+  {
+   "name": "George Khut — BrightHearts",
+   "why": "Heart-rate biofeedback artwork, a case in Höök et al. 2018 (first-person-soma-2018); for affect-biodata batch.",
+   "link": "https://doi.org/10.3390/informatics5010008",
+   "found_via": "kristina-hook",
+   "status": "open"
+  },
+  {
+   "name": "Tennent, Marshall, Tsaknaki, Windlin, Höök, Alfaras — Soma Design and Sensory Misalignment (CHI 2020)",
+   "why": "VR swing / misalignment; Nottingham-led, for social-machines.",
+   "link": "https://doi.org/10.1145/3313831.3376812",
+   "found_via": "kristina-hook",
+   "status": "open"
+  },
+  {
+   "name": "Benford, Garrett et al. — Somatic Safety: An Embodied Approach Towards Safe Human-Robot Interaction (HRI 2025)",
+   "why": "Nottingham-led somatic HRI with Höök; for social-machines.",
+   "link": "https://doi.org/10.1109/hri61500.2025.10973822",
+   "found_via": "kristina-hook",
+   "status": "open"
+  },
+  {
+   "name": "Benford, Garrett et al. — Tangles: Extended Collision Experiences with Soma Trajectories (TOCHI 2025)",
+   "why": "Soma trajectories applied to collisions; methods or movement.",
+   "link": "https://doi.org/10.1145/3723875",
+   "found_via": "kristina-hook",
+   "status": "open"
+  },
+  {
+   "name": "Balaam, Comber, Clarke, Windlin, Ståhl, Höök et al. — Emotion Work in Experience-Centered Design (CHI 2019)",
+   "why": "Designer's emotion work; methods.",
+   "link": "https://doi.org/10.1145/3290605.3300832",
+   "found_via": "kristina-hook",
+   "status": "open"
+  },
+  {
+   "name": "Tsaknaki, Fernaeus — Expanding on Wabi-Sabi as a Design Resource in HCI (CHI 2016)",
+   "why": "Japanese aesthetics of imperfection in craft-based interaction design; east-asia or methods.",
+   "link": "https://doi.org/10.1145/2858036.2858459",
+   "found_via": "kristina-hook",
+   "status": "open"
+  },
+  {
+   "name": "Lindegren, Lindberg, Fernaeus et al. — Material meditation: Experiencing craft as an extension to soma design (Nordes 2023)",
+   "why": "Craft as soma practice at KTH; no visual found.",
+   "link": "https://doi.org/10.21606/nordes.2023.75",
+   "found_via": "kristina-hook",
+   "status": "no_media"
+  },
+  {
+   "name": "Ylva Fernaeus (KTH / Umeå)",
+   "why": "Material and craft-oriented interaction design, robotic toys; no clearly soma-design first-author work found.",
+   "link": "https://doi.org/10.1145/2317956.2318029",
+   "found_via": "kristina-hook",
+   "status": "open"
+  },
+  {
+   "name": "Kristina Popova (KTH)",
+   "why": "Felt ethics and body-based workshops; all first-author works are methods (see leads above).",
+   "link": "https://doi.org/10.1145/3679318.3685375",
+   "found_via": "kristina-hook",
+   "status": "open"
+  },
+  {
+   "name": "Cotton, de Vries, Tatar — Singing for the Missing: Bringing the Body Back to AI Voice and Speech Technologies (MOCO 2024)",
+   "why": "Cotton's Chalmers-era work on voice, body and AI.",
+   "link": "https://doi.org/10.1145/3658852.3659065",
+   "found_via": "kristina-hook",
+   "status": "open"
+  },
+  {
+   "name": "Höök, Sengers, Andersson — Sense and Sensibility: Evaluation and Interactive Art (CHI 2003)",
+   "why": "Early SICS work on interpreting the Influencing Machine; affect evaluation.",
+   "link": "https://doi.org/10.1145/642611.642654",
+   "found_via": "kristina-hook",
+   "status": "open"
+  },
+  {
+   "name": "Stepanova, Desnoyers-Stewart, Höök, Riecke — Ethereal Virtual Touch / Strategies for Fostering a Genuine Feeling of Connection (CHI 2022, 2026)",
+   "why": "Social VR connection with Höök as co-author; SFU-led, for social-machines.",
+   "link": "https://doi.org/10.1145/3491102.3517580",
+   "found_via": "kristina-hook",
+   "status": "open"
+  },
+  {
+   "name": "Grimstad Bang, Fdili Alaoui — Suspended Circles: Soma Designing a Musical Instrument (CHI 2023)",
+   "why": "Soma-designed instrument outside Höök's group; for movement-art.",
+   "link": "https://doi.org/10.1145/3544548.3581488",
+   "found_via": "kristina-hook",
+   "status": "open"
+  },
+  {
+   "name": "Madeline Balaam — Designing Care Robots without the 'Ick' Factor (TEDxKTH 2024)",
+   "why": "Talk on how care robots should touch bodies; video https://www.youtube.com/watch?v=gSYStO-CzZM.",
+   "link": "https://www.youtube.com/watch?v=gSYStO-CzZM",
+   "found_via": "kristina-hook",
+   "status": "open"
+  }
+ ]
+}

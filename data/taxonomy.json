@@ -1,0 +1,936 @@
+{
+ "fields": [
+  {
+   "id": "foundations",
+   "en": "Foundations: Soma & Somaesthetics",
+   "zh": "奠基：身心与身体美学",
+   "desc_en": "The ideas under soma design: the body-mind as one living whole, felt from within, and the philosophy of cultivating it.",
+   "desc_zh": "身体设计背后的思想：身与心是一个从内部被感受的整体，以及修养这个整体的哲学。",
+   "subs": [
+    {
+     "id": "somaesthetics",
+     "en": "Somaesthetics",
+     "zh": "身体美学",
+     "desc_en": "Shusterman's discipline of the body as the site of sensory appreciation and self-cultivation.",
+     "desc_zh": "Shusterman 提出的身体美学：身体是感官鉴赏与自我修养的所在。"
+    },
+    {
+     "id": "phenomenology",
+     "en": "Phenomenology of the Lived Body",
+     "zh": "活的身体的现象学",
+     "desc_en": "Leib, flesh, felt sense, the absent body: Husserl, Merleau-Ponty, Sheets-Johnstone, Gendlin, Leder.",
+     "desc_zh": "活的身体、肉身、体会、缺席的身体：Husserl、Merleau-Ponty、Sheets-Johnstone、Gendlin、Leder。"
+    },
+    {
+     "id": "enactive",
+     "en": "Embodied & Enactive Mind",
+     "zh": "具身与生成的心智",
+     "desc_en": "Mind as lived, embodied action: Varela, Thompson, Rosch, Johnson, Lakoff, Noë, Damasio.",
+     "desc_zh": "心智是活出来的具身行动：Varela、Thompson、Rosch、Johnson、Lakoff、Noë、Damasio。"
+    },
+    {
+     "id": "east-asian-thought",
+     "en": "Body-Mind Oneness in East Asian Thought",
+     "zh": "东亚思想中的身心一如",
+     "desc_en": "Shinjin ichinyo, qi and self-cultivation: Yuasa Yasuo, Ichikawa Hiroshi, Zen, Daoist and Confucian body thought.",
+     "desc_zh": "身心一如、气与修身：汤浅泰雄、市川浩、禅宗、道家与儒家的身体思想。"
+    },
+    {
+     "id": "hci-theory",
+     "en": "Embodied Interaction Theory",
+     "zh": "具身交互理论",
+     "desc_en": "How HCI turned to the body: Dourish, Klemmer, Hornecker, Loke & Robertson, Höök's somaesthetic interaction design.",
+     "desc_zh": "人机交互如何转向身体：Dourish、Klemmer、Hornecker、Loke & Robertson、Höök 的身体美学交互设计。"
+    }
+   ]
+  },
+  {
+   "id": "practices",
+   "en": "Somatic Practices",
+   "zh": "身体修习",
+   "desc_en": "The practices soma designers train in and borrow from: movement education, meditation, breath, martial and dance traditions that treat body and mind as one.",
+   "desc_zh": "身体设计师修习并借鉴的实践：动作教育、冥想、呼吸，以及把身心视为一体的武术与舞蹈传统。",
+   "subs": [
+    {
+     "id": "movement-education",
+     "en": "Movement Education & Somatics",
+     "zh": "动作教育与身心学",
+     "desc_en": "Feldenkrais, Alexander Technique, Body-Mind Centering, Laban/Bartenieff, Hanna Somatics.",
+     "desc_zh": "Feldenkrais、亚历山大技巧、身心平衡技法（BMC）、Laban/Bartenieff、Hanna 身心学。"
+    },
+    {
+     "id": "east-asian-practices",
+     "en": "Qi, Tai Chi, Yoga & Zen",
+     "zh": "气功、太极、瑜伽与禅",
+     "desc_en": "Practices of body-mind unity from Asia: qigong, tai chi, yoga, zazen, aikido, butoh roots.",
+     "desc_zh": "来自亚洲的身心合一修习：气功、太极、瑜伽、坐禅、合气道等。"
+    },
+    {
+     "id": "meditation-breath",
+     "en": "Meditation, Mindfulness & Breath",
+     "zh": "冥想、正念与呼吸",
+     "desc_en": "Mindfulness, body scan, breathwork and contemplative practice.",
+     "desc_zh": "正念、身体扫描、呼吸练习与沉思修习。"
+    },
+    {
+     "id": "dance-improvisation",
+     "en": "Somatic Dance & Improvisation",
+     "zh": "身体舞蹈与即兴",
+     "desc_en": "Contact Improvisation, Authentic Movement, Continuum, Halprin, Butoh, Deborah Hay.",
+     "desc_zh": "接触即兴、真实动作、Continuum、Halprin、舞踏、Deborah Hay。"
+    },
+    {
+     "id": "somatic-therapy",
+     "en": "Somatic Therapy & Healing",
+     "zh": "身体疗愈",
+     "desc_en": "Focusing, Somatic Experiencing, Hakomi and body-based approaches to trauma and pain.",
+     "desc_zh": "Focusing（体会聚焦）、身体经验疗法（SE）、Hakomi，以及以身体为本的创伤与疼痛疗法。"
+    }
+   ]
+  },
+  {
+   "id": "methods",
+   "en": "Soma Design Methods",
+   "zh": "身体设计方法",
+   "desc_en": "How to design from the body: first-person inquiry, estrangement, somatic training of the designer, bodystorming, material exploration, articulating felt experience.",
+   "desc_zh": "如何从身体出发做设计：第一人称探究、陌生化、设计师的身体训练、身体风暴、材料探索、说出被感受到的经验。",
+   "subs": [
+    {
+     "id": "first-person",
+     "en": "First-Person & Autobiographical Methods",
+     "zh": "第一人称与自传式方法",
+     "desc_en": "The designer's own felt experience as data: first-person research, autoethnography, autobiographical design.",
+     "desc_zh": "把设计师自身的感受当作数据：第一人称研究、自我民族志、自传式设计。"
+    },
+    {
+     "id": "estrangement",
+     "en": "Estrangement & Making Strange",
+     "zh": "陌生化",
+     "desc_en": "Disrupting habitual movement and perception to notice the body anew.",
+     "desc_zh": "打破惯常的动作与感知，重新注意到身体。"
+    },
+    {
+     "id": "somatic-training",
+     "en": "Somatic Training of the Designer",
+     "zh": "设计师的身体训练",
+     "desc_en": "Feldenkrais lessons, body scans and movement practice to sharpen the designer's sensitivity (somaesthetic appreciation).",
+     "desc_zh": "用 Feldenkrais 课、身体扫描和动作练习，磨练设计师的感受力（身体美学鉴赏）。"
+    },
+    {
+     "id": "embodied-ideation",
+     "en": "Bodystorming & Embodied Sketching",
+     "zh": "身体风暴与具身草图",
+     "desc_en": "Ideating with and through moving bodies, props and play.",
+     "desc_zh": "借由运动的身体、道具与游戏来构思。"
+    },
+    {
+     "id": "material-exploration",
+     "en": "Soma-Based Material Exploration",
+     "zh": "以身体探索材料",
+     "desc_en": "Feeling materials, actuators and biosignals on the body: Soma Bits, somaesthetic toolkits, somadata.",
+     "desc_zh": "在身体上感受材料、执行器与生物信号：Soma Bits、身体美学工具包、somadata。"
+    },
+    {
+     "id": "articulation",
+     "en": "Articulating & Evaluating Felt Experience",
+     "zh": "说出并评估被感受到的经验",
+     "desc_en": "Micro-phenomenology, body maps, soma trajectories, the Sensual Evaluation Instrument, somatic connoisseurship.",
+     "desc_zh": "微观现象学、身体地图、身体轨迹、感官评估工具、身体鉴赏力。"
+    },
+    {
+     "id": "design-knowledge",
+     "en": "Strong Concepts, Qualities & Ethics",
+     "zh": "强概念、设计品质与伦理",
+     "desc_en": "Intermediate-level design knowledge from soma design: strong concepts, design qualities, felt ethics.",
+     "desc_zh": "从身体设计中提炼的中间层设计知识：强概念、设计品质、被感受的伦理。"
+    }
+   ]
+  },
+  {
+   "id": "somaesthetic",
+   "en": "Somaesthetic Interaction Design",
+   "zh": "身体美学交互设计",
+   "desc_en": "Interactive systems that help us feel our own body-mind more richly: soma mats, breathing lights, heat, shape-change, sound and garments.",
+   "desc_zh": "帮助我们更丰富地感受自身身心的交互系统：身体垫、呼吸灯、热、形变、声音与衣物。",
+   "subs": [
+    {
+     "id": "appreciation",
+     "en": "Somaesthetic Appreciation & Attunement",
+     "zh": "身体美学鉴赏与调谐",
+     "desc_en": "Systems that slow us down and direct attention inward: Soma Mat, Breathing Light, guided body scans.",
+     "desc_zh": "让我们慢下来、把注意力转向身体内部的系统：Soma Mat、Breathing Light、引导式身体扫描。"
+    },
+    {
+     "id": "breath",
+     "en": "Designing with Breath",
+     "zh": "以呼吸设计",
+     "desc_en": "Breath as input, output and shared rhythm.",
+     "desc_zh": "把呼吸当作输入、输出与共享的节律。"
+    },
+    {
+     "id": "actuation",
+     "en": "Touching Back: Heat, Vibration & Shape-Change",
+     "zh": "回触：热、振动与形变",
+     "desc_en": "Technology that acts on the skin and body: heat, vibration, inflatables, shape-changing surfaces.",
+     "desc_zh": "作用于皮肤与身体的技术：热、振动、充气结构、形变表面。"
+    },
+    {
+     "id": "sound-voice",
+     "en": "Sound, Voice & Sonification",
+     "zh": "声音、嗓音与声音化",
+     "desc_en": "Hearing the body: movement sonification, singing, the voice as felt.",
+     "desc_zh": "听见身体：动作声音化、歌唱、被感受到的嗓音。"
+    },
+    {
+     "id": "garments",
+     "en": "Garments, Textiles & Soft Wearables",
+     "zh": "衣物、织物与柔性可穿戴",
+     "desc_en": "Clothing and soft materials that sense and touch: corsets, shirts, e-textiles.",
+     "desc_zh": "能感知与触碰的衣物和柔软材料：胸衣、衬衫、电子织物。"
+    }
+   ]
+  },
+  {
+   "id": "affect",
+   "en": "Affective Loops & Biodata",
+   "zh": "情感回路与生物数据",
+   "desc_en": "Emotion as a bodily, felt process: affective loops, biosignals as design material, interoception, and the ambiguity of body data.",
+   "desc_zh": "情绪是身体的、被感受的过程：情感回路、作为设计材料的生物信号、内感受，以及身体数据的模糊性。",
+   "subs": [
+    {
+     "id": "affective-loops",
+     "en": "Affective Loops",
+     "zh": "情感回路",
+     "desc_en": "Systems where emotion is co-produced through gesture and response: eMoto, Affective Diary, SenToy.",
+     "desc_zh": "情绪在手势与回应中被共同产生的系统：eMoto、Affective Diary、SenToy。"
+    },
+    {
+     "id": "biosignals",
+     "en": "Biosignals as Design Material",
+     "zh": "作为设计材料的生物信号",
+     "desc_en": "EDA, heart rate, EMG, EEG turned into felt experience: from biodata to somadata.",
+     "desc_zh": "把皮肤电、心率、肌电、脑电转化为可感受的体验：从生物数据到身体数据。"
+    },
+    {
+     "id": "interoception",
+     "en": "Interoception & the Inner Body",
+     "zh": "内感受与内在身体",
+     "desc_en": "Heartbeat, gut, breath and inner sensations made perceptible or altered.",
+     "desc_zh": "让心跳、肠胃、呼吸等内在感觉变得可感知或被改变。"
+    },
+    {
+     "id": "body-data",
+     "en": "Body Data, Reflection & Ambiguity",
+     "zh": "身体数据、反思与模糊性",
+     "desc_en": "Self-tracking reconsidered: open interpretation, ambiguity, reflection rather than measurement.",
+     "desc_zh": "重新思考自我追踪：开放诠释、模糊性，重在反思而非测量。"
+    }
+   ]
+  },
+  {
+   "id": "movement",
+   "en": "Movement, Dance & Somatic Art",
+   "zh": "运动、舞蹈与身体艺术",
+   "desc_en": "The moving body in dance, performance, sport, play and art, and the computing built around it.",
+   "desc_zh": "舞蹈、表演、运动、游戏与艺术中运动的身体，以及围绕它构建的计算。",
+   "subs": [
+    {
+     "id": "dance-tech",
+     "en": "Dance & Technology",
+     "zh": "舞蹈与技术",
+     "desc_en": "Choreography, sensing and projection with and for dancers.",
+     "desc_zh": "与舞者一起、为舞者而做的编舞、传感与投影。"
+    },
+    {
+     "id": "movement-computing",
+     "en": "Movement & Computing",
+     "zh": "运动与计算",
+     "desc_en": "Modelling movement quality: Laban effort, MOCO, interactive machine learning for movement.",
+     "desc_zh": "对动作质感建模：Laban 力效、MOCO、面向动作的交互式机器学习。"
+    },
+    {
+     "id": "exertion-play",
+     "en": "Exertion, Sport & Somatic Play",
+     "zh": "运动、体育与身体游戏",
+     "desc_en": "Exertion games, body-centric play, physical training and sport.",
+     "desc_zh": "运动型游戏、以身体为中心的玩、体能训练与体育。"
+    },
+    {
+     "id": "performance",
+     "en": "Performance, Voice & Opera",
+     "zh": "表演、嗓音与歌剧",
+     "desc_en": "Somatic performance, the singing body, opera with machines.",
+     "desc_zh": "身体性表演、歌唱的身体、与机器同台的歌剧。"
+    },
+    {
+     "id": "somatic-art",
+     "en": "Somatic & Participatory Art",
+     "zh": "身体与参与式艺术",
+     "desc_en": "Art that works directly on the visitor's senses and body: Lygia Clark, Rebecca Horn, Char Davies.",
+     "desc_zh": "直接作用于观众感官与身体的艺术：Lygia Clark、Rebecca Horn、Char Davies。"
+    }
+   ]
+  },
+  {
+   "id": "intimate",
+   "en": "Intimate, Feminist & Queer Soma",
+   "zh": "亲密、女性主义与酷儿身体",
+   "desc_en": "Designing for bodies that design has ignored or made taboo: menstruation, pleasure, fertility, menopause, queer and trans bodies.",
+   "desc_zh": "为设计长期忽视或视为禁忌的身体而设计：月经、愉悦、生育、更年期、酷儿与跨性别身体。",
+   "subs": [
+    {
+     "id": "menstruation",
+     "en": "Menstruation & Menarche",
+     "zh": "月经与初潮",
+     "desc_en": "Touching and being in touch with the menstruating body.",
+     "desc_zh": "触碰并贴近来月经的身体。"
+    },
+    {
+     "id": "pleasure",
+     "en": "Pleasure & Sexual Health",
+     "zh": "愉悦与性健康",
+     "desc_en": "Pleasure, intimacy and sexual wellbeing as design topics.",
+     "desc_zh": "把愉悦、亲密与性健康作为设计主题。"
+    },
+    {
+     "id": "feminist-body",
+     "en": "Feminist HCI & Women's Health",
+     "zh": "女性主义人机交互与女性健康",
+     "desc_en": "Pelvic floor, fertility, pregnancy and the politics of tracking women's bodies.",
+     "desc_zh": "盆底、生育、怀孕，以及追踪女性身体的政治。"
+    },
+    {
+     "id": "life-transitions",
+     "en": "Menopause, Ageing & Life Transitions",
+     "zh": "更年期、衰老与生命转折",
+     "desc_en": "Bodies changing over a life: menopause, ageing, illness.",
+     "desc_zh": "一生中变化的身体：更年期、衰老、疾病。"
+    },
+    {
+     "id": "queer-trans",
+     "en": "Queer & Trans Bodies",
+     "zh": "酷儿与跨性别身体",
+     "desc_en": "Soma design with and for queer, trans and non-normative bodies.",
+     "desc_zh": "与酷儿、跨性别及非规范身体一起、为他们而做的身体设计。"
+    }
+   ]
+  },
+  {
+   "id": "care",
+   "en": "Health, Care & Wellbeing",
+   "zh": "健康、照护与安适",
+   "desc_en": "Somatic approaches to pain, rehabilitation, stress and mental health, where feeling better starts from feeling more.",
+   "desc_zh": "面向疼痛、康复、压力与心理健康的身体取向：感觉更好，始于感觉更多。",
+   "subs": [
+    {
+     "id": "pain-rehab",
+     "en": "Chronic Pain & Rehabilitation",
+     "zh": "慢性疼痛与康复",
+     "desc_en": "Movement confidence, pain and physical rehabilitation.",
+     "desc_zh": "动作信心、疼痛与身体康复。"
+    },
+    {
+     "id": "stress-mental-health",
+     "en": "Stress, Anxiety & Mental Health",
+     "zh": "压力、焦虑与心理健康",
+     "desc_en": "Biofeedback, breath and body awareness for stress and mental health.",
+     "desc_zh": "借助生物反馈、呼吸与身体觉察应对压力、改善心理健康。"
+    },
+    {
+     "id": "neuro-motor",
+     "en": "Neurodiversity & Motor Conditions",
+     "zh": "神经多样性与运动障碍",
+     "desc_en": "Parkinson's, stroke, autism, sensory differences.",
+     "desc_zh": "帕金森、中风、自闭症与感官差异。"
+    },
+    {
+     "id": "ageing-care",
+     "en": "Ageing, Care & Caregiving",
+     "zh": "衰老与照护",
+     "desc_en": "Bodies in care: older adults, caregivers, touch in care.",
+     "desc_zh": "处在照护关系中的身体：老年人、照护者、照护中的触碰。"
+    }
+   ]
+  },
+  {
+   "id": "social",
+   "en": "Social & Collective Soma",
+   "zh": "社会与集体身体",
+   "desc_en": "Intercorporeality: feeling each other's bodies through mediated touch, shared breath and heartbeat, and collective movement.",
+   "desc_zh": "身体间性：通过中介的触碰、共享的呼吸与心跳，以及集体动作，感受彼此的身体。",
+   "subs": [
+    {
+     "id": "mediated-touch",
+     "en": "Social & Mediated Touch",
+     "zh": "社会触碰与中介触碰",
+     "desc_en": "Touch at a distance, hugs, holding hands through technology.",
+     "desc_zh": "远距离的触碰、拥抱，以技术牵手。"
+    },
+    {
+     "id": "synchrony",
+     "en": "Shared Breath, Heartbeat & Synchrony",
+     "zh": "共享的呼吸、心跳与同步",
+     "desc_en": "Sharing biosignals and falling into rhythm with others.",
+     "desc_zh": "分享生物信号，与他人进入同一节律。"
+    },
+    {
+     "id": "collective",
+     "en": "Collective & Participatory Somatics",
+     "zh": "集体与参与式的身体经验",
+     "desc_en": "Groups moving, breathing and sensing together.",
+     "desc_zh": "一群人一起运动、呼吸与感受。"
+    }
+   ]
+  },
+  {
+   "id": "machines-xr",
+   "en": "Soma with Machines, AI & XR",
+   "zh": "身体与机器、AI 与扩展现实",
+   "desc_en": "Soma design meets drones, robots, machine learning, virtual bodies and more-than-human others.",
+   "desc_zh": "身体设计遇上无人机、机器人、机器学习、虚拟身体与超越人类的他者。",
+   "subs": [
+    {
+     "id": "robots-drones",
+     "en": "Somaesthetic Robots & Drones",
+     "zh": "身体美学的机器人与无人机",
+     "desc_en": "Drone Chi, soft and inflatable robots, robots felt through the body.",
+     "desc_zh": "Drone Chi、软体与充气机器人、用身体去感受的机器人。"
+    },
+    {
+     "id": "ai-ml",
+     "en": "Soma Design with AI & Machine Learning",
+     "zh": "与 AI 和机器学习的身体设计",
+     "desc_en": "Machine learning as a somatic material; AI that listens to the body.",
+     "desc_zh": "把机器学习当作身体材料；聆听身体的 AI。"
+    },
+    {
+     "id": "xr-virtual-body",
+     "en": "Virtual Bodies & XR",
+     "zh": "虚拟身体与扩展现实",
+     "desc_en": "Body ownership, embodiment swaps, breath- and biosignal-driven VR/AR.",
+     "desc_zh": "身体拥有感、身体互换、由呼吸与生物信号驱动的 VR/AR。"
+    },
+    {
+     "id": "more-than-human",
+     "en": "More-than-Human Soma",
+     "zh": "超越人类的身体",
+     "desc_en": "Feeling with plants, animals, weather and ecosystems.",
+     "desc_zh": "与植物、动物、天气和生态系统一同感受。"
+    }
+   ]
+  }
+ ],
+ "modalities": [
+  [
+   "whole-soma",
+   "Whole body-mind",
+   "整体身心"
+  ],
+  [
+   "breath",
+   "Breath",
+   "呼吸"
+  ],
+  [
+   "touch",
+   "Touch & pressure",
+   "触摸与压力"
+  ],
+  [
+   "heat",
+   "Heat & temperature",
+   "温度与热"
+  ],
+  [
+   "vibration",
+   "Vibration & haptics",
+   "振动与触觉反馈"
+  ],
+  [
+   "shape-change",
+   "Shape-change & inflatables",
+   "形变与充气"
+  ],
+  [
+   "movement",
+   "Movement & kinesthesia",
+   "动作与动觉"
+  ],
+  [
+   "posture-balance",
+   "Posture, balance & proprioception",
+   "姿态、平衡与本体感"
+  ],
+  [
+   "heartbeat",
+   "Heartbeat",
+   "心跳"
+  ],
+  [
+   "skin-arousal",
+   "Skin conductance & arousal",
+   "皮肤电与唤醒"
+  ],
+  [
+   "muscle",
+   "Muscle tension (EMG)",
+   "肌肉张力（肌电）"
+  ],
+  [
+   "brain",
+   "Brain (EEG)",
+   "脑（脑电）"
+  ],
+  [
+   "voice-sound",
+   "Voice, sound & listening",
+   "嗓音、声音与聆听"
+  ],
+  [
+   "light-vision",
+   "Light & vision",
+   "光与视觉"
+  ],
+  [
+   "intimate-body",
+   "Intimate & hormonal body",
+   "私密与激素的身体"
+  ],
+  [
+   "pain-interoception",
+   "Pain & inner sensations",
+   "疼痛与内在感觉"
+  ]
+ ],
+ "kinds": [
+  [
+   "prototype",
+   "Research prototype",
+   "研究原型"
+  ],
+  [
+   "method",
+   "Method & toolkit",
+   "方法与工具包"
+  ],
+  [
+   "practice",
+   "Somatic practice",
+   "身体修习"
+  ],
+  [
+   "artwork",
+   "Artwork & installation",
+   "艺术作品与装置"
+  ],
+  [
+   "performance",
+   "Performance, dance & music",
+   "表演、舞蹈与音乐"
+  ],
+  [
+   "film",
+   "Film & video",
+   "影片与影像"
+  ],
+  [
+   "product",
+   "Product & app",
+   "产品与应用"
+  ],
+  [
+   "paper",
+   "Paper",
+   "论文"
+  ],
+  [
+   "publication",
+   "Book & essay",
+   "书与文章"
+  ]
+ ],
+ "collections": [
+  {
+   "id": "designing-with-the-body",
+   "type": "survey",
+   "en": "Designing with the Body (Höök, MIT Press 2018)",
+   "zh": "《用身体设计》（Höök，MIT 出版社 2018）",
+   "desc_en": "Works and methods discussed in Kristina Höök's book that defined soma design.",
+   "desc_zh": "Kristina Höök 奠定身体设计的专著中讨论的作品与方法。",
+   "url": "https://mitpress.mit.edu/9780262038560/designing-with-the-body/",
+   "work": "kristina-hook--designing-with-the-body"
+  },
+  {
+   "id": "first-person-soma-2018",
+   "type": "survey",
+   "en": "Embracing First-Person Perspectives in Soma-Based Design (2018)",
+   "zh": "《在身体设计中拥抱第一人称视角》（2018）",
+   "desc_en": "The 22-author paper (Höök et al., Informatics 2018) gathering designers' first-person soma design cases.",
+   "desc_zh": "Höök 等 22 位作者（Informatics 2018）汇集设计师第一人称身体设计案例的论文。",
+   "url": "https://doi.org/10.3390/informatics5010008",
+   "work": "kristina-hook--first-person-soma-based-design"
+  },
+  {
+   "id": "chi",
+   "type": "venue",
+   "en": "ACM CHI",
+   "zh": "ACM CHI 人机交互大会",
+   "desc_en": "Soma design papers at the ACM CHI Conference on Human Factors in Computing Systems.",
+   "desc_zh": "发表于 ACM CHI 人机交互大会的身体设计论文。",
+   "url": "https://chi.acm.org"
+  },
+  {
+   "id": "dis",
+   "type": "venue",
+   "en": "ACM DIS",
+   "zh": "ACM DIS 交互系统设计会议",
+   "desc_en": "Papers at ACM Designing Interactive Systems.",
+   "desc_zh": "发表于 ACM DIS 交互系统设计会议的论文。",
+   "url": "https://dis.acm.org"
+  },
+  {
+   "id": "tei",
+   "type": "venue",
+   "en": "ACM TEI",
+   "zh": "ACM TEI 有形、嵌入与具身交互会议",
+   "desc_en": "Papers and works at Tangible, Embedded and Embodied Interaction.",
+   "desc_zh": "发表于 TEI 有形、嵌入与具身交互会议的论文与作品。",
+   "url": "https://tei.acm.org"
+  },
+  {
+   "id": "moco",
+   "type": "venue",
+   "en": "MOCO — Movement and Computing",
+   "zh": "MOCO 运动与计算会议",
+   "desc_en": "Papers and works at the International Conference on Movement and Computing.",
+   "desc_zh": "发表于国际运动与计算会议（MOCO）的论文与作品。",
+   "url": "https://moco.movementcomputing.org"
+  },
+  {
+   "id": "nime",
+   "type": "venue",
+   "en": "NIME",
+   "zh": "NIME 新音乐表达界面会议",
+   "desc_en": "Works at New Interfaces for Musical Expression.",
+   "desc_zh": "发表于 NIME 新音乐表达界面会议的作品。",
+   "url": "https://nime.org"
+  }
+ ],
+ "lenses": [
+  [
+   "body-mind-unity",
+   "Body-mind unity",
+   "身心一体",
+   "Soma as one living whole: non-dualist design, thinking through the felt body.",
+   "身体是一个活的整体：非二元的设计，用被感受的身体思考。"
+  ],
+  [
+   "first-person",
+   "First-person & felt experience",
+   "第一人称与亲身感受",
+   "The designer's and user's own felt experience as knowledge.",
+   "设计者与使用者的亲身感受即是知识。"
+  ],
+  [
+   "attunement",
+   "Attunement & appreciation",
+   "调谐与鉴赏",
+   "Slowing down, turning inward, cultivating somatic sensitivity.",
+   "慢下来、向内转、培养身体的感受力。"
+  ],
+  [
+   "estrangement",
+   "Estrangement",
+   "陌生化",
+   "Making the habitual body strange so it can be felt again.",
+   "让习以为常的身体变得陌生，从而再次被感受到。"
+  ],
+  [
+   "affective-loop",
+   "Affective loops",
+   "情感回路",
+   "Emotion as embodied, felt and co-produced between body and system.",
+   "情绪是具身的、被感受的，在身体与系统之间被共同产生。"
+  ],
+  [
+   "touching-back",
+   "Technology that touches back",
+   "会回触的技术",
+   "Actuation onto the body: heat, pressure, vibration, shape.",
+   "作用于身体的执行：热、压力、振动、形状。"
+  ],
+  [
+   "intercorporeality",
+   "Intercorporeality",
+   "身体间性",
+   "Bodies sensing and resonating with other bodies.",
+   "身体感受他人的身体，并与之共振。"
+  ],
+  [
+   "movement-expression",
+   "Movement & expression",
+   "动作与表达",
+   "Movement quality, gesture and choreography as meaning.",
+   "动作质感、手势与编舞承载意义。"
+  ],
+  [
+   "body-data",
+   "Body data & ambiguity",
+   "身体数据与模糊性",
+   "Biosignals and tracking, read as open and ambiguous rather than as truth.",
+   "把生物信号和追踪数据读作开放、模糊的，而不是真相。"
+  ],
+  [
+   "care-healing",
+   "Care & healing",
+   "照护与疗愈",
+   "Wellbeing, rehabilitation and caring for bodies.",
+   "安适、康复与对身体的照护。"
+  ],
+  [
+   "pleasure-play",
+   "Pleasure & play",
+   "愉悦与游戏",
+   "Joy, sensuality, playfulness and exertion.",
+   "快乐、感官享受、玩性与身体的发力。"
+  ],
+  [
+   "body-politics",
+   "Body politics",
+   "身体政治",
+   "Whose bodies, which norms: feminist, queer, disability and cultural perspectives.",
+   "谁的身体、什么规范：女性主义、酷儿、残障与文化视角。"
+  ],
+  [
+   "more-than-human",
+   "More-than-human",
+   "超越人类",
+   "Soma extended to machines, other species and environments.",
+   "把身体延伸到机器、其他物种与环境。"
+  ]
+ ],
+ "disciplines": [
+  [
+   "hci",
+   "HCI & interaction design",
+   "人机交互与交互设计"
+  ],
+  [
+   "design",
+   "Design",
+   "设计"
+  ],
+  [
+   "art",
+   "Art",
+   "艺术"
+  ],
+  [
+   "dance",
+   "Dance, performance & music",
+   "舞蹈、表演与音乐"
+  ],
+  [
+   "somatics",
+   "Somatic practice & education",
+   "身体修习与教育"
+  ],
+  [
+   "philosophy",
+   "Philosophy & theory",
+   "哲学与理论"
+  ],
+  [
+   "health",
+   "Health, psychology & neuroscience",
+   "健康、心理学与神经科学"
+  ],
+  [
+   "engineering",
+   "Engineering, haptics & robotics",
+   "工程、触觉与机器人学"
+  ]
+ ],
+ "org_types": [
+  [
+   "researcher",
+   "Soma design & HCI researchers",
+   "身体设计与人机交互研究者",
+   "Researchers and designers who built soma design and embodied interaction.",
+   "建立身体设计与具身交互的研究者和设计师。",
+   "person"
+  ],
+  [
+   "thinker",
+   "Philosophers & theorists",
+   "哲学家与理论家",
+   "Philosophers and scholars of the lived body, somaesthetics and embodied mind.",
+   "研究活的身体、身体美学与具身心智的哲学家和学者。",
+   "person"
+  ],
+  [
+   "practitioner",
+   "Somatic practitioners & teachers",
+   "身体修习者与教师",
+   "Founders and teachers of somatic practices, meditation, martial and movement arts.",
+   "身体修习、冥想、武术与动作艺术的创始人和教师。",
+   "person"
+  ],
+  [
+   "artist",
+   "Artists, dancers & choreographers",
+   "艺术家、舞者与编舞家",
+   "Artists and performers whose work is felt through the body.",
+   "作品需要用身体去感受的艺术家与表演者。",
+   "person"
+  ],
+  [
+   "lab",
+   "Labs & research groups",
+   "实验室与研究组",
+   "University labs and research groups working on soma design and embodied interaction.",
+   "研究身体设计与具身交互的大学实验室与研究组。",
+   "org"
+  ],
+  [
+   "school",
+   "Somatic schools & trainings",
+   "身体修习学校与培训",
+   "Schools, guilds and trainings for somatic practices.",
+   "身体修习的学校、协会与培训。",
+   "org"
+  ],
+  [
+   "conference",
+   "Conferences & workshops",
+   "会议与工作坊",
+   "Conferences, workshops and seminars where soma design is discussed.",
+   "讨论身体设计的会议、工作坊与研讨会。",
+   "org"
+  ],
+  [
+   "venue",
+   "Art & dance venues, festivals",
+   "艺术与舞蹈场馆、艺术节",
+   "Venues, festivals and residencies for somatic art and dance.",
+   "身体艺术与舞蹈的场馆、艺术节与驻留。",
+   "org"
+  ],
+  [
+   "media",
+   "Journals, books & podcasts",
+   "期刊、书籍与播客",
+   "Journals, book series, podcasts and newsletters.",
+   "期刊、丛书、播客与通讯。",
+   "org"
+  ],
+  [
+   "network",
+   "Networks & associations",
+   "网络与协会",
+   "Professional associations, networks and communities.",
+   "专业协会、网络与社群。",
+   "org"
+  ],
+  [
+   "archive",
+   "Archives & resources",
+   "档案与资源",
+   "Archives, databases, toolkits and online resources.",
+   "档案、数据库、工具包与在线资源。",
+   "org"
+  ]
+ ],
+ "org_themes": [
+  [
+   "soma-design",
+   "Soma design",
+   "身体设计"
+  ],
+  [
+   "somaesthetics",
+   "Somaesthetics",
+   "身体美学"
+  ],
+  [
+   "phenomenology",
+   "Phenomenology & embodied mind",
+   "现象学与具身心智"
+  ],
+  [
+   "east-asian",
+   "East Asian body-mind traditions",
+   "东亚身心传统"
+  ],
+  [
+   "first-person",
+   "First-person methods",
+   "第一人称方法"
+  ],
+  [
+   "somatic-practice",
+   "Somatic practice",
+   "身体修习"
+  ],
+  [
+   "meditation",
+   "Meditation & breath",
+   "冥想与呼吸"
+  ],
+  [
+   "movement-dance",
+   "Movement & dance",
+   "运动与舞蹈"
+  ],
+  [
+   "affective",
+   "Affective computing & emotion",
+   "情感计算与情绪"
+  ],
+  [
+   "biosignals",
+   "Biosignals & biofeedback",
+   "生物信号与生物反馈"
+  ],
+  [
+   "haptics-touch",
+   "Haptics & touch",
+   "触觉与触碰"
+  ],
+  [
+   "feminist",
+   "Feminist & queer HCI",
+   "女性主义与酷儿人机交互"
+  ],
+  [
+   "health",
+   "Health & wellbeing",
+   "健康与安适"
+  ],
+  [
+   "play-exertion",
+   "Play & exertion",
+   "游戏与身体运动"
+  ],
+  [
+   "xr-embodiment",
+   "XR & virtual embodiment",
+   "扩展现实与虚拟具身"
+  ],
+  [
+   "robots-ai",
+   "Robots & AI",
+   "机器人与 AI"
+  ],
+  [
+   "more-than-human",
+   "More-than-human",
+   "超越人类"
+  ],
+  [
+   "art",
+   "Somatic art & performance",
+   "身体艺术与表演"
+  ]
+ ]
+}

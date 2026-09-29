@@ -1,0 +1,242 @@
+{
+ "scott-brave--intouch": {
+  "zh": "inTouch",
+  "src": "keep"
+ },
+ "angela-chang--comtouch": {
+  "zh": "ComTouch",
+  "src": "keep"
+ },
+ "cutecircuit--hug-shirt": {
+  "zh": "拥抱衬衫（The Hug Shirt）",
+  "src": "translated"
+ },
+ "florian-mueller--hug-over-a-distance": {
+  "zh": "远距离拥抱",
+  "src": "translated"
+ },
+ "carl-disalvo--the-hug": {
+  "zh": "The Hug",
+  "src": "keep"
+ },
+ "gijs-huisman--tasst": {
+  "zh": "TaSST 社会触碰触觉袖套",
+  "src": "translated"
+ },
+ "gijs-huisman--social-touch-technology": {
+  "zh": "社会触碰技术：面向社会触碰的触觉技术综述",
+  "src": "translated"
+ },
+ "holland-haptics--frebble": {
+  "zh": "Frebble",
+  "src": "keep"
+ },
+ "carey-jewitt--digital-touch": {
+  "zh": "数字触碰沟通的跨学科洞见",
+  "src": "translated"
+ },
+ "john-desnoyers-stewart--embodied-telepresent-connection": {
+  "zh": "具身远程联结（ETC）",
+  "src": "translated"
+ },
+ "julia-werner--united-pulse": {
+  "zh": "United-pulse",
+  "src": "keep"
+ },
+ "thecla-schiphorst--exhale": {
+  "zh": "exhale：身体之间的呼吸",
+  "src": "translated"
+ },
+ "mikko-salminen--physiological-synchrony-vr": {
+  "zh": "以生物反馈社交 VR 唤起生理同步与共情",
+  "src": "translated"
+ },
+ "clara-moge--shared-physiological-uis": {
+  "zh": "生理数据的共享用户界面",
+  "src": "translated"
+ },
+ "bronwyn-tarr--synchrony-vr": {
+  "zh": "沉浸式虚拟现实中的同步与社会联结",
+  "src": "translated"
+ },
+ "katherine-isbister--yamove": {
+  "zh": "Yamove!",
+  "src": "keep"
+ },
+ "game-oven--bounden": {
+  "zh": "Bounden",
+  "src": "keep"
+ },
+ "thecla-schiphorst--whispers": {
+  "zh": "whisper[s]",
+  "src": "keep"
+ },
+ "brendan-walker--thrill-laboratory": {
+  "zh": "游乐场：刺激实验室",
+  "src": "translated"
+ },
+ "john-desnoyers-stewart--body-remixer": {
+  "zh": "Body RemiXer",
+  "src": "keep"
+ },
+ "john-desnoyers-stewart--jel": {
+  "zh": "JeL",
+  "src": "keep"
+ },
+ "joseph-la-delfa--drone-chi": {
+  "zh": "Drone Chi",
+  "src": "keep"
+ },
+ "joseph-la-delfa--designing-drone-chi": {
+  "zh": "设计 Drone Chi",
+  "src": "translated"
+ },
+ "joseph-la-delfa--tai-chi-in-the-clouds": {
+  "zh": "云中太极",
+  "src": "translated"
+ },
+ "joe-marshall--broncomatic": {
+  "zh": "Broncomatic 呼吸机械牛",
+  "src": "translated"
+ },
+ "holger-schnadelbach--exobuilding": {
+  "zh": "ExoBuilding",
+  "src": "keep"
+ },
+ "steve-benford--somatic-safety": {
+  "zh": "身体的安全感（Somatic Safety）",
+  "src": "translated"
+ },
+ "alexis-block--huggiebot": {
+  "zh": "HuggieBot",
+  "src": "keep"
+ },
+ "steve-yohanan--haptic-creature": {
+  "zh": "触觉生物（The Haptic Creature）",
+  "src": "translated"
+ },
+ "paul-bucci--cuddlebits": {
+  "zh": "CuddleBits",
+  "src": "keep"
+ },
+ "alice-haynes--calming-hug": {
+  "zh": "安抚的拥抱",
+  "src": "translated"
+ },
+ "pedro-lopes--proprioceptive-interaction": {
+  "zh": "本体感交互",
+  "src": "translated"
+ },
+ "pedro-lopes--affordance-plus-plus": {
+  "zh": "Affordance++",
+  "src": "keep"
+ },
+ "florian-mueller--human-computer-integration": {
+  "zh": "人机融合的下一步",
+  "src": "translated"
+ },
+ "laura-devendorf--being-the-machine": {
+  "zh": "成为机器",
+  "src": "translated"
+ },
+ "rebecca-fiebrink--wekinator": {
+  "zh": "Wekinator",
+  "src": "keep"
+ },
+ "baptiste-caramiaux--gesture-expressivity-muscle": {
+  "zh": "以肌肉传感理解手势表现力",
+  "src": "translated"
+ },
+ "marco-gillies--iml-movement-design": {
+  "zh": "理解交互式机器学习在动作交互设计中的角色",
+  "src": "translated"
+ },
+ "matthew-botvinick--rubber-hand-illusion": {
+  "zh": "橡胶手“感觉到”眼睛所见的触碰",
+  "src": "translated"
+ },
+ "bigna-lenggenhager--video-ergo-sum": {
+  "zh": "Video Ergo Sum（我见故我在）",
+  "src": "translated"
+ },
+ "henrik-ehrsson--out-of-body-experience": {
+  "zh": "离体体验的实验诱发",
+  "src": "translated"
+ },
+ "valeria-petkova--body-swap-illusion": {
+  "zh": "如果我是你：身体互换的知觉错觉",
+  "src": "translated"
+ },
+ "mel-slater--body-transfer-vr": {
+  "zh": "虚拟现实中身体转移的第一人称体验",
+  "src": "translated"
+ },
+ "konstantina-kilteni--sense-of-embodiment": {
+  "zh": "虚拟现实中的具身感",
+  "src": "translated"
+ },
+ "domna-banakou--virtual-child-body": {
+  "zh": "对虚拟儿童身体的错觉拥有感",
+  "src": "translated"
+ },
+ "william-steptoe--human-tails": {
+  "zh": "人类的尾巴（Human Tails）",
+  "src": "translated"
+ },
+ "tabitha-peck--black-avatar-bias": {
+  "zh": "进入黑人化身的皮肤",
+  "src": "translated"
+ },
+ "beanotherlab--machine-to-be-another": {
+  "zh": "成为他人的机器",
+  "src": "translated"
+ },
+ "owen-harris--deep": {
+  "zh": "DEEP",
+  "src": "keep"
+ },
+ "mirjana-prpa--attending-to-breath": {
+  "zh": "关注呼吸",
+  "src": "translated"
+ },
+ "paul-tennent--soma-design-sensory-misalignment": {
+  "zh": "身体设计与感官错位",
+  "src": "translated"
+ },
+ "brendan-walker--vr-playground": {
+  "zh": "VR 游乐场（VR Playground）",
+  "src": "translated"
+ },
+ "marshmallow-laser-feast--in-the-eyes-of-the-animal": {
+  "zh": "动物之眼",
+  "src": "translated"
+ },
+ "marshmallow-laser-feast--treehugger-wawona": {
+  "zh": "Treehugger：Wawona",
+  "src": "keep"
+ },
+ "marshmallow-laser-feast--we-live-in-an-ocean-of-air": {
+  "zh": "我们生活在空气的海洋中",
+  "src": "translated"
+ },
+ "somniacs--birdly": {
+  "zh": "Birdly",
+  "src": "keep"
+ },
+ "milica-zec--tree": {
+  "zh": "Tree",
+  "src": "keep"
+ },
+ "thomas-thwaites--goatman": {
+  "zh": "山羊人（GoatMan）",
+  "src": "translated"
+ },
+ "chris-woebken--animal-superpowers": {
+  "zh": "动物超能力",
+  "src": "translated"
+ },
+ "art-oriente-objet--may-the-horse-live-in-me": {
+  "zh": "愿马活在我体内",
+  "src": "translated"
+ }
+}

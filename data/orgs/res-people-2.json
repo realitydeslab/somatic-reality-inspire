@@ -1,0 +1,2520 @@
+{
+ "batch": "res-people-2",
+ "orgs": [
+  {
+   "id": "person--jiabao-li",
+   "name": "Jiabao Li",
+   "type": "researcher",
+   "themes": [
+    "art",
+    "feminist",
+    "more-than-human"
+   ],
+   "fields": [
+    "movement",
+    "intimate"
+   ],
+   "description": "Artist-researcher at Northeastern University working across wearables, robots, performance and biotechnology on interspecies and climate themes and on the female body, from Glacier's Lament to Menstrual Garden.",
+   "description_zh": "艺术家兼研究者，任教于东北大学，横跨可穿戴、机器人、表演与生物技术，关注跨物种、气候以及女性身体，作品从《Glacier's Lament》到《Menstrual Garden》。",
+   "known_for": [
+    "Glacier's Lament (Fast Company World Changing Ideas finalist, 2021)",
+    "Body-focused works Menstrual Garden, Womb Wetware and Sentient Clit (years not verified)"
+   ],
+   "url": "https://www.jiabaoli.org/about",
+   "image": "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/b2e71877-5354-4cdd-9cb6-781a977f0aee/Jiabao+Li+6.jpg",
+   "based": "Oakland, US",
+   "based_zh": "奥克兰，美国",
+   "found_via": "https://www.jiabaoli.org/about",
+   "creator_id": "jiabao-li"
+  },
+  {
+   "id": "person--hiroshi-ishii",
+   "name": "Hiroshi Ishii",
+   "name_zh": "石井裕",
+   "type": "researcher",
+   "themes": [
+    "haptics-touch"
+   ],
+   "fields": [
+    "foundations"
+   ],
+   "description": "MIT Media Lab professor who founded the Tangible Media Group; his Tangible Bits and Radical Atoms visions established tangible and shape-changing interfaces, a strand of the material and embodied turn in HCI.",
+   "description_zh": "麻省理工学院媒体实验室教授，创立 Tangible Media Group；他提出的 Tangible Bits 与 Radical Atoms 奠定了实体与形变界面，是人机交互物质与具身转向的一条脉络。",
+   "known_for": [
+    "Tangible Bits (CHI 1997, with B. Ullmer)",
+    "Radical Atoms (ACM Interactions, 2012)",
+    "inFORM shape display (UIST 2013)"
+   ],
+   "url": "https://www.media.mit.edu/people/ishii/overview/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Hiroshi_Ishii_(computer_scientist)"
+    }
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Hiroshi_Ishii_cropped_2_Hiroshi_Ishii_20130406_1.jpg",
+   "based": "Cambridge, US",
+   "based_zh": "坎布里奇，美国",
+   "born": 1956,
+   "found_via": "https://en.wikipedia.org/wiki/Hiroshi_Ishii_(computer_scientist)"
+  },
+  {
+   "id": "person--richard-shusterman",
+   "name": "Richard Shusterman",
+   "name_zh": "理查德·舒斯特曼",
+   "type": "thinker",
+   "themes": [
+    "somaesthetics",
+    "phenomenology",
+    "east-asian"
+   ],
+   "fields": [
+    "foundations"
+   ],
+   "description": "Pragmatist philosopher at Florida Atlantic University who founded somaesthetics, the study of the body as the site of sensory appreciation and creative self-fashioning. Höök's soma design takes its name and its call for cultivated bodily awareness from his work, which also draws on Confucian and Zen self-cultivation.",
+   "description_zh": "佛罗里达大西洋大学的实用主义哲学家，创立身体美学：研究身体作为感官鉴赏与创造性自我塑造的所在。Höök 的身体设计沿用了他的术语与“修养身体觉察”的主张；他的思想也汲取儒家与禅宗的修身传统。",
+   "known_for": [
+    "Pragmatist Aesthetics (1992)",
+    "Performing Live (2000)",
+    "Body Consciousness (2008)",
+    "Thinking through the Body (2012)"
+   ],
+   "url": "https://www.shusterman.net",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Richard_Shusterman"
+    }
+   ],
+   "based": "Boca Raton, US",
+   "based_zh": "博卡拉顿，美国",
+   "born": 1949,
+   "creator_id": "richard-shusterman"
+  },
+  {
+   "id": "person--maurice-merleau-ponty",
+   "name": "Maurice Merleau-Ponty",
+   "name_zh": "莫里斯·梅洛-庞蒂",
+   "type": "thinker",
+   "themes": [
+    "phenomenology"
+   ],
+   "fields": [
+    "foundations"
+   ],
+   "description": "French phenomenologist who argued that perception and meaning are rooted in the lived body (corps propre) and its motor intentionality, not in a detached mind. His notions of body schema, flesh and intercorporeality run through embodied interaction and soma design.",
+   "description_zh": "法国现象学家，主张知觉与意义扎根于活的身体（本己身体）及其运动意向性，而非一个抽离的心灵。他的身体图式、肉身与身体间性等概念贯穿具身交互与身体设计。",
+   "known_for": [
+    "Phenomenology of Perception (1945)",
+    "The Visible and the Invisible (1964)",
+    "Eye and Mind (1961)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Maurice_Merleau-Ponty",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Maurice_Merleau-Ponty.jpg",
+   "based": "Paris, France",
+   "based_zh": "巴黎，法国",
+   "born": 1908,
+   "died": 1961,
+   "creator_id": "maurice-merleau-ponty"
+  },
+  {
+   "id": "person--edmund-husserl",
+   "name": "Edmund Husserl",
+   "name_zh": "埃德蒙德·胡塞尔",
+   "type": "thinker",
+   "themes": [
+    "phenomenology",
+    "first-person"
+   ],
+   "fields": [
+    "foundations"
+   ],
+   "description": "Founder of phenomenology whose distinction between the body as object (Körper) and as lived, sensing body (Leib) and whose method of describing experience from the first person underlie phenomenology of the body and first-person design research.",
+   "description_zh": "现象学创始人。他对作为物体的身体（Körper）与活的、感受着的身体（Leib）的区分，以及从第一人称描述经验的方法，是身体现象学与第一人称设计研究的根基。",
+   "known_for": [
+    "Logical Investigations (1900–01)",
+    "Ideas II (posthumous, 1952)",
+    "The Crisis of European Sciences (1936)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Edmund_Husserl",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Edmund_Husserl_1910s.jpg",
+   "based": "Freiburg, Germany",
+   "based_zh": "弗莱堡，德国",
+   "born": 1859,
+   "died": 1938,
+   "creator_id": "edmund-husserl"
+  },
+  {
+   "id": "person--maxine-sheets-johnstone",
+   "name": "Maxine Sheets-Johnstone",
+   "type": "thinker",
+   "themes": [
+    "phenomenology",
+    "movement-dance"
+   ],
+   "fields": [
+    "foundations"
+   ],
+   "description": "Dancer, choreographer and philosopher at the University of Oregon who argues for the primacy of movement: we first come to know ourselves and the world as animate, moving bodies, and thinking in movement comes before thinking in words. A key reference for kinesthetic and movement-based design.",
+   "description_zh": "舞者、编舞家与俄勒冈大学哲学家，主张“运动的首要性”：我们首先作为有生命、会运动的身体认识自己与世界，以动作思考先于以语言思考。她是动觉与以动作为基础的设计的重要参考。",
+   "known_for": [
+    "The Phenomenology of Dance (1966)",
+    "The Primacy of Movement (1999; 2nd ed. 2011)",
+    "The Corporeal Turn (2009)"
+   ],
+   "url": "https://benjamins.com/catalog/aicr.82",
+   "based": "Eugene, US",
+   "based_zh": "尤金，美国",
+   "born": 1930,
+   "creator_id": "maxine-sheets-johnstone"
+  },
+  {
+   "id": "person--eugene-gendlin",
+   "name": "Eugene Gendlin",
+   "name_zh": "尤金·简德林",
+   "type": "thinker",
+   "themes": [
+    "first-person",
+    "phenomenology",
+    "somatic-practice"
+   ],
+   "fields": [
+    "foundations",
+    "practices"
+   ],
+   "description": "Philosopher and psychotherapist who described the 'felt sense', the bodily, not-yet-verbal sense of a situation, and developed Focusing to attend to it. Soma designers and micro-phenomenologists use his felt sense to articulate experience from within.",
+   "description_zh": "哲学家与心理治疗师，提出“体会”（felt sense）：对处境的一种身体性的、尚未成言的感受，并发展出 Focusing（体会聚焦）来关注它。身体设计者与微观现象学研究者借用“体会”从内部说出经验。",
+   "known_for": [
+    "Experiencing and the Creation of Meaning (1962)",
+    "Focusing (1978)",
+    "A Process Model (2018)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Eugene_Gendlin",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Eugene_Gendlin.jpg",
+   "based": "Chicago, US",
+   "based_zh": "芝加哥，美国",
+   "born": 1926,
+   "died": 2017,
+   "creator_id": "eugene-gendlin"
+  },
+  {
+   "id": "person--drew-leder",
+   "name": "Drew Leder",
+   "type": "thinker",
+   "themes": [
+    "phenomenology",
+    "health"
+   ],
+   "fields": [
+    "foundations"
+   ],
+   "description": "Philosopher and physician at Loyola University Maryland whose 'The Absent Body' explains why the body recedes from awareness in smooth action and 'dys-appears' in pain or illness, a frame soma design uses to bring the body back into attention.",
+   "description_zh": "洛约拉马里兰大学的哲学家与医生，其《The Absent Body》解释了身体为何在顺畅的行动中从觉察里隐退，又在疼痛或疾病中“异常地显现”；身体设计借此把身体重新带回注意之中。",
+   "known_for": [
+    "The Absent Body (1990)",
+    "The Distressed Body (2016)"
+   ],
+   "url": "https://www.loyola.edu/academics/philosophy/faculty/leder-drew.html",
+   "based": "Baltimore, US",
+   "based_zh": "巴尔的摩，美国",
+   "born": 1954,
+   "creator_id": "drew-leder"
+  },
+  {
+   "id": "person--francisco-varela",
+   "name": "Francisco Varela",
+   "name_zh": "弗朗西斯科·瓦雷拉",
+   "type": "thinker",
+   "themes": [
+    "phenomenology",
+    "meditation",
+    "first-person"
+   ],
+   "fields": [
+    "foundations"
+   ],
+   "description": "Chilean biologist and neuroscientist who co-founded enactivism, arguing that cognition is embodied action, and joined Buddhist meditation with cognitive science. His neurophenomenology and first-person methods shaped micro-phenomenology and first-person design research.",
+   "description_zh": "智利生物学家与神经科学家，共同创立“生成主义”（enactivism），主张认知是具身的行动，并把佛教禅修与认知科学结合。他的神经现象学与第一人称方法影响了微观现象学与第一人称设计研究。",
+   "known_for": [
+    "Autopoiesis and Cognition (1980, with Maturana)",
+    "The Embodied Mind (1991, with Thompson and Rosch)",
+    "Neurophenomenology (1996)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Francisco_Varela",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Francisco_Varela_%28cropped%29.jpg",
+   "based": "Paris, France",
+   "based_zh": "巴黎，法国",
+   "born": 1946,
+   "died": 2001,
+   "creator_id": "francisco-varela"
+  },
+  {
+   "id": "person--evan-thompson",
+   "name": "Evan Thompson",
+   "name_zh": "伊凡·汤普森",
+   "type": "thinker",
+   "themes": [
+    "phenomenology",
+    "meditation"
+   ],
+   "fields": [
+    "foundations"
+   ],
+   "description": "University of British Columbia philosopher and co-author of 'The Embodied Mind' who develops enactive cognition in dialogue with phenomenology and contemplative traditions, arguing for the deep continuity of life and mind.",
+   "description_zh": "英属哥伦比亚大学哲学家，《The Embodied Mind》作者之一，在与现象学及沉思传统的对话中发展生成认知，论证生命与心智的深层连续性。",
+   "known_for": [
+    "The Embodied Mind (1991, with Varela and Rosch)",
+    "Mind in Life (2007)",
+    "Waking, Dreaming, Being (2015)",
+    "Why I Am Not a Buddhist (2020)"
+   ],
+   "url": "https://evanthompson.me/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Evan_Thompson"
+    },
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=ehhuawYAAAAJ"
+    }
+   ],
+   "image": "https://evanthompson.me/wp-content/uploads/2025/06/evanthompsonsq2-2.jpg",
+   "based": "Vancouver, Canada",
+   "based_zh": "温哥华，加拿大",
+   "born": 1962,
+   "creator_id": "evan-thompson"
+  },
+  {
+   "id": "person--eleanor-rosch",
+   "name": "Eleanor Rosch",
+   "name_zh": "埃莉诺·罗什",
+   "type": "thinker",
+   "themes": [
+    "phenomenology",
+    "meditation"
+   ],
+   "fields": [
+    "foundations"
+   ],
+   "description": "Berkeley psychologist known for prototype theory of categories and co-author of 'The Embodied Mind', which brought Buddhist mindfulness practice into cognitive science as a disciplined first-person method.",
+   "description_zh": "伯克利心理学家，以范畴的原型理论闻名，《The Embodied Mind》作者之一；该书把佛教正念修习作为严谨的第一人称方法引入认知科学。",
+   "known_for": [
+    "Prototype theory of categorisation (1970s)",
+    "The Embodied Mind (1991, with Varela and Thompson)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Eleanor_Rosch",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Eleanor_Rosch.jpg",
+   "based": "Berkeley, US",
+   "based_zh": "伯克利，美国",
+   "born": 1938,
+   "creator_id": "eleanor-rosch"
+  },
+  {
+   "id": "person--mark-johnson",
+   "name": "Mark Johnson",
+   "name_zh": "马克·约翰逊",
+   "type": "thinker",
+   "themes": [
+    "phenomenology",
+    "somaesthetics"
+   ],
+   "fields": [
+    "foundations"
+   ],
+   "description": "University of Oregon philosopher who showed that abstract meaning grows out of bodily image schemas and felt, aesthetic experience; his embodied aesthetics of meaning is a basis for designing with felt qualities.",
+   "description_zh": "俄勒冈大学哲学家，指出抽象意义源自身体的意象图式与被感受的审美经验；他关于意义的具身美学是以被感受的品质做设计的依据。",
+   "known_for": [
+    "Metaphors We Live By (1980, with Lakoff)",
+    "The Body in the Mind (1987)",
+    "Philosophy in the Flesh (1999, with Lakoff)",
+    "The Meaning of the Body (2007)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Mark_Johnson_(philosopher)",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=CkhAAiQAAAAJ"
+    }
+   ],
+   "based": "Eugene, US",
+   "based_zh": "尤金，美国",
+   "born": 1949,
+   "creator_id": "mark-johnson"
+  },
+  {
+   "id": "person--george-lakoff",
+   "name": "George Lakoff",
+   "name_zh": "乔治·莱考夫",
+   "type": "thinker",
+   "themes": [
+    "phenomenology"
+   ],
+   "fields": [
+    "foundations"
+   ],
+   "description": "Berkeley cognitive linguist whose theory of conceptual metaphor, developed with Mark Johnson, argues that thought is structured by bodily experience; widely used in embodied interaction to design with image schemas.",
+   "description_zh": "伯克利认知语言学家，与 Mark Johnson 发展出概念隐喻理论，认为思维由身体经验所构造；具身交互常借此以意象图式做设计。",
+   "known_for": [
+    "Metaphors We Live By (1980, with Johnson)",
+    "Women, Fire, and Dangerous Things (1987)",
+    "Philosophy in the Flesh (1999, with Johnson)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/George_Lakoff",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Pop%21Tech_2008_-_George_Lakoff.jpg",
+   "based": "Berkeley, US",
+   "based_zh": "伯克利，美国",
+   "born": 1941,
+   "creator_id": "george-lakoff"
+  },
+  {
+   "id": "person--alva-noe",
+   "name": "Alva Noë",
+   "name_zh": "阿尔瓦·诺伊",
+   "type": "thinker",
+   "themes": [
+    "phenomenology",
+    "movement-dance",
+    "art"
+   ],
+   "fields": [
+    "foundations"
+   ],
+   "description": "Berkeley philosopher who argues that perception is something we do with our moving bodies (the enactive, sensorimotor view) and that art and dance are 'strange tools' that reorganise our embodied habits.",
+   "description_zh": "伯克利哲学家，主张知觉是我们用运动的身体“做”出来的（生成的、感觉运动的观点），并认为艺术与舞蹈是重组我们身体习惯的“奇异工具”。",
+   "known_for": [
+    "Action in Perception (2004)",
+    "Out of Our Heads (2009)",
+    "Strange Tools: Art and Human Nature (2015)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Alva_No%C3%AB",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Alva_No%C3%AB_%283419836383%29.jpg",
+   "based": "Berkeley, US",
+   "based_zh": "伯克利，美国",
+   "born": 1964,
+   "creator_id": "alva-noe"
+  },
+  {
+   "id": "person--shaun-gallagher",
+   "name": "Shaun Gallagher",
+   "name_zh": "肖恩·加拉格尔",
+   "type": "thinker",
+   "themes": [
+    "phenomenology"
+   ],
+   "fields": [
+    "foundations"
+   ],
+   "description": "Philosopher at the University of Memphis who clarified the difference between body schema and body image and developed enactivist and phenomenological accounts of embodied cognition used in HCI and design.",
+   "description_zh": "孟菲斯大学哲学家，厘清了身体图式与身体意象的区别，并发展出生成主义与现象学取向的具身认知理论，为人机交互与设计所用。",
+   "known_for": [
+    "How the Body Shapes the Mind (2005)",
+    "The Phenomenological Mind (2008, with Zahavi)",
+    "Enactivist Interventions (2017)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Shaun_Gallagher",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=B1gMcHkAAAAJ"
+    }
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/ShaunGallagher.jpg",
+   "based": "Memphis, US",
+   "based_zh": "孟菲斯，美国",
+   "born": 1948,
+   "creator_id": "shaun-gallagher"
+  },
+  {
+   "id": "person--thomas-fuchs",
+   "name": "Thomas Fuchs",
+   "type": "thinker",
+   "themes": [
+    "phenomenology",
+    "health"
+   ],
+   "fields": [
+    "foundations"
+   ],
+   "description": "Psychiatrist and philosopher at Heidelberg University who develops phenomenological psychiatry and an ecological view of the brain as an organ of a living, embodied being, including work on body memory and intercorporeality.",
+   "description_zh": "海德堡大学精神科医生与哲学家，发展现象学精神病学，并把大脑视为一个活的、具身存在的器官；也研究身体记忆与身体间性。",
+   "known_for": [
+    "Ecology of the Brain (2018)",
+    "In Defence of the Human Being (2021)"
+   ],
+   "url": "https://de.wikipedia.org/wiki/Thomas_Fuchs_(Mediziner)",
+   "based": "Heidelberg, Germany",
+   "based_zh": "海德堡，德国",
+   "creator_id": "thomas-fuchs"
+  },
+  {
+   "id": "person--antonio-damasio",
+   "name": "Antonio Damasio",
+   "name_zh": "安东尼奥·达马西奥",
+   "type": "thinker",
+   "themes": [
+    "affective",
+    "phenomenology"
+   ],
+   "fields": [
+    "foundations",
+    "affect"
+   ],
+   "description": "Neuroscientist at USC whose somatic marker hypothesis argues that feelings rooted in body states guide reason, challenging Cartesian mind-body dualism; a key source for designing with emotion as a bodily process.",
+   "description_zh": "南加州大学神经科学家，他的“躯体标记假说”认为源于身体状态的感受引导理性，挑战笛卡尔式身心二元论；这是把情绪当作身体过程来设计的重要来源。",
+   "known_for": [
+    "Descartes' Error (1994)",
+    "The Feeling of What Happens (1999)",
+    "Looking for Spinoza (2003)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Antonio_Damasio",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Ant%C3%B3nio_Dam%C3%A1sio_no_Fronteiras_do_Pensamento_Porto_Alegre_2013_cropped.png",
+   "based": "Los Angeles, US",
+   "based_zh": "洛杉矶，美国",
+   "born": 1944,
+   "creator_id": "antonio-damasio"
+  },
+  {
+   "id": "person--thomas-hanna",
+   "name": "Thomas Hanna",
+   "name_zh": "托马斯·汉纳",
+   "type": "thinker",
+   "themes": [
+    "somatic-practice",
+    "somaesthetics"
+   ],
+   "fields": [
+    "foundations",
+    "practices"
+   ],
+   "description": "Philosopher and Feldenkrais practitioner who coined 'somatics' and defined the soma as the body perceived from within by first-person perception, the sense of 'soma' that soma design adopts; founder of Hanna Somatic Education.",
+   "description_zh": "哲学家与费登奎斯修习者，创造了“somatics”（身心学）一词，把 soma 定义为从内部以第一人称感知到的身体，身体设计中的“soma”即取此义；他也是 Hanna 身心教育的创始人。",
+   "known_for": [
+    "Bodies in Revolt (1970)",
+    "The Body of Life (1980)",
+    "Somatics (1988)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Thomas_Louis_Hanna",
+   "based": "Novato, US",
+   "based_zh": "诺瓦托，美国",
+   "born": 1928,
+   "died": 1990,
+   "creator_id": "thomas-hanna"
+  },
+  {
+   "id": "person--don-hanlon-johnson",
+   "name": "Don Hanlon Johnson",
+   "type": "thinker",
+   "themes": [
+    "somatic-practice",
+    "phenomenology"
+   ],
+   "fields": [
+    "foundations",
+    "practices"
+   ],
+   "description": "Founder of the first graduate programme in somatics, at the California Institute of Integral Studies, whose anthologies documented the pioneers of body-based practice and argued for the body as a source of knowledge.",
+   "description_zh": "加州整合研究学院（CIIS）创办了第一个身心学研究生项目，其编撰的文集记录了身体修习的先驱，主张身体是知识的来源。",
+   "known_for": [
+    "Body: Recovering Our Sensual Wisdom (1983)",
+    "Bone, Breath and Gesture (1995)",
+    "Diverse Bodies, Diverse Practices (2018)"
+   ],
+   "url": "https://www.ciis.edu/profiles/don-hanlon-johnson",
+   "image": "https://www.ciis.edu/sites/default/files/styles/facebook/public/2023-05/don-dd-1.jpg?h=a7e6d17b&itok=wR_SWe1P",
+   "based": "San Francisco, US",
+   "based_zh": "旧金山，美国",
+   "born": 1934,
+   "creator_id": "don-hanlon-johnson"
+  },
+  {
+   "id": "person--john-dewey",
+   "name": "John Dewey",
+   "name_zh": "约翰·杜威",
+   "type": "thinker",
+   "themes": [
+    "somaesthetics"
+   ],
+   "fields": [
+    "foundations"
+   ],
+   "description": "American pragmatist whose 'Art as Experience' grounds aesthetics in the lived, embodied flow of everyday experience; a student of F.M. Alexander, he is a root of Shusterman's somaesthetics and of experience-centred HCI.",
+   "description_zh": "美国实用主义哲学家，《艺术即经验》把美学建立在日常经验活生生的身体之流中；他曾随 F.M. 亚历山大学习，是 Shusterman 身体美学与以体验为中心的人机交互的思想源头。",
+   "known_for": [
+    "Experience and Nature (1925)",
+    "Art as Experience (1934)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/John_Dewey",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/John_Dewey_in_1902.jpg",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "born": 1859,
+   "died": 1952,
+   "creator_id": "john-dewey"
+  },
+  {
+   "id": "person--yuasa-yasuo",
+   "name": "Yuasa Yasuo",
+   "name_zh": "汤浅泰雄",
+   "type": "thinker",
+   "themes": [
+    "east-asian",
+    "somatic-practice",
+    "meditation"
+   ],
+   "fields": [
+    "foundations"
+   ],
+   "description": "Japanese philosopher who argued that in Eastern thought body-mind unity is not a given but an achievement of self-cultivation (shugyō) through practices such as meditation and the martial arts, a source for soma design's attention to training the body.",
+   "description_zh": "日本哲学家，主张在东方思想中，身心合一不是现成的状态，而是通过冥想、武道等修行（修行）而达成的成就；这是身体设计重视身体训练的思想来源之一。",
+   "known_for": [
+    "The Body: Toward an Eastern Mind-Body Theory (1977; English 1987)",
+    "The Body, Self-Cultivation, and Ki-Energy (1993)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Yasuo_Yuasa",
+   "based": "Tokyo, Japan",
+   "based_zh": "东京，日本",
+   "born": 1925,
+   "died": 2005,
+   "creator_id": "yuasa-yasuo"
+  },
+  {
+   "id": "person--ichikawa-hiroshi",
+   "name": "Ichikawa Hiroshi",
+   "name_zh": "市川浩",
+   "type": "thinker",
+   "themes": [
+    "east-asian",
+    "phenomenology"
+   ],
+   "fields": [
+    "foundations"
+   ],
+   "description": "Japanese philosopher of the body at Meiji University who developed a theory of 'mi', the living body-self that is at once body, mind and social being, in dialogue with Merleau-Ponty and Japanese language.",
+   "description_zh": "明治大学的日本身体论哲学家，在与梅洛-庞蒂及日语的对话中发展出“身”（mi）的理论：“身”是同时作为身体、心灵与社会存在的活的身体-自我。",
+   "known_for": [
+    "精神としての身体 (The Body as Spirit, 1975)",
+    "〈身〉の構造 (The Structure of Mi, 1984)"
+   ],
+   "url": "https://ja.wikipedia.org/wiki/市川浩",
+   "based": "Tokyo, Japan",
+   "based_zh": "东京，日本",
+   "born": 1931,
+   "died": 2002,
+   "creator_id": "ichikawa-hiroshi"
+  },
+  {
+   "id": "person--nishida-kitaro",
+   "name": "Nishida Kitarō",
+   "name_zh": "西田几多郎",
+   "type": "thinker",
+   "themes": [
+    "east-asian",
+    "phenomenology",
+    "meditation"
+   ],
+   "fields": [
+    "foundations"
+   ],
+   "description": "Founder of the Kyoto School whose 'pure experience', prior to the split of subject and object, and 'acting intuition', where seeing and making are one bodily act, bring Zen-informed body-mind thought into philosophy.",
+   "description_zh": "京都学派创始人，他主张主客未分的“纯粹经验”，以及看与做在身体行动中合而为一的“行为的直观”，把受禅影响的身心思想带入哲学。",
+   "known_for": [
+    "An Inquiry into the Good (1911)",
+    "Place (1926)",
+    "Acting intuition (kōiteki chokkan)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Kitar%C5%8D_Nishida",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Portrait-of-Kitaro-Nishida.png",
+   "based": "Kyoto, Japan",
+   "based_zh": "京都，日本",
+   "born": 1870,
+   "died": 1945,
+   "creator_id": "nishida-kitaro"
+  },
+  {
+   "id": "person--tu-weiming",
+   "name": "Tu Weiming",
+   "name_zh": "杜维明",
+   "type": "thinker",
+   "themes": [
+    "east-asian"
+   ],
+   "fields": [
+    "foundations"
+   ],
+   "description": "New Confucian philosopher at Harvard and Peking University who describes Confucian learning as embodied knowing (tizhi) and self-cultivation (xiushen), a Chinese frame for the knowing body in soma design.",
+   "description_zh": "任教哈佛与北京大学的新儒家哲学家，把儒家之学阐释为“体知”与“修身”，为身体设计中“会知的身体”提供了中文思想框架。",
+   "known_for": [
+    "Confucian Thought: Selfhood as Creative Transformation (1985)",
+    "Centrality and Commonality (1989)",
+    "Humanity and Self-Cultivation (1979)"
+   ],
+   "url": "http://tuweiming.net",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Tu_Weiming"
+    }
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/%E6%9D%9C%E7%B6%AD%E6%98%8E_Weiming_Tu.jpg",
+   "based": "Beijing, China",
+   "based_zh": "北京，中国",
+   "born": 1940,
+   "creator_id": "tu-weiming"
+  },
+  {
+   "id": "person--yang-rur-bin",
+   "name": "Yang Rur-bin",
+   "name_zh": "杨儒宾",
+   "type": "thinker",
+   "themes": [
+    "east-asian"
+   ],
+   "fields": [
+    "foundations"
+   ],
+   "description": "Philosopher at National Tsing Hua University in Taiwan whose studies of the Confucian view of the body trace how qi, form and mind were understood as one cultivated whole in classical Chinese thought.",
+   "description_zh": "台湾清华大学哲学学者，其儒家身体观研究梳理了中国古典思想中气、形与心如何被视为一个可以修养的整体。",
+   "known_for": [
+    "儒家身体观 (The Confucian View of the Body, 1996)",
+    "中国古代思想中的气论及身体观 (ed., 1993)"
+   ],
+   "url": "https://zh.wikipedia.org/wiki/楊儒賓",
+   "based": "Hsinchu, Taiwan",
+   "based_zh": "新竹，台湾",
+   "born": 1956
+  },
+  {
+   "id": "person--claire-petitmengin",
+   "name": "Claire Petitmengin",
+   "type": "thinker",
+   "themes": [
+    "first-person",
+    "phenomenology"
+   ],
+   "fields": [
+    "methods"
+   ],
+   "description": "French researcher who developed micro-phenomenology from Vermersch's explicitation interview and Varela's neurophenomenology: a guided interview that helps people describe fine-grained lived experience. Soma designers use it to articulate felt experience.",
+   "description_zh": "法国研究者，在 Vermersch 的“引导式访谈”与 Varela 的神经现象学基础上发展出微观现象学：一种帮助人细致描述亲历经验的引导式访谈。身体设计者用它来说出被感受的经验。",
+   "known_for": [
+    "Describing one's subjective experience in the second person (2006)",
+    "The Validity of First-Person Descriptions as Authenticity and Coherence (2013)",
+    "Discovering the structures of lived experience (2019)"
+   ],
+   "url": "https://www.clairepetitmengin.fr",
+   "based": "Paris, France",
+   "based_zh": "巴黎，法国",
+   "creator_id": "claire-petitmengin"
+  },
+  {
+   "id": "person--pierre-vermersch",
+   "name": "Pierre Vermersch",
+   "type": "thinker",
+   "themes": [
+    "first-person",
+    "phenomenology"
+   ],
+   "fields": [
+    "methods"
+   ],
+   "description": "French psychologist who created the explicitation interview (entretien d'explicitation) for eliciting detailed descriptions of lived action, the basis of micro-phenomenology and of many first-person methods in design research.",
+   "description_zh": "法国心理学家，创立“引导式访谈”（entretien d'explicitation），用以引出对亲历行动的细致描述；这是微观现象学以及设计研究中许多第一人称方法的基础。",
+   "known_for": [
+    "L'entretien d'explicitation (1994)",
+    "Groupe de Recherche sur l'Explicitation (GREX)"
+   ],
+   "url": "https://fr.wikipedia.org/wiki/Pierre_Vermersch",
+   "based": "Paris, France",
+   "based_zh": "巴黎，法国"
+  },
+  {
+   "id": "person--hubert-dreyfus",
+   "name": "Hubert Dreyfus",
+   "name_zh": "休伯特·德雷福斯",
+   "type": "thinker",
+   "themes": [
+    "phenomenology",
+    "robots-ai"
+   ],
+   "fields": [
+    "foundations"
+   ],
+   "description": "Berkeley philosopher who used Heidegger and Merleau-Ponty to argue that skilled coping is embodied and cannot be captured by rule-based AI; his critique influenced embodied interaction and the skill-acquisition model.",
+   "description_zh": "伯克利哲学家，借海德格尔与梅洛-庞蒂论证熟练应对是具身的，无法被基于规则的 AI 捕捉；他的批判影响了具身交互与技能习得模型。",
+   "known_for": [
+    "What Computers Can't Do (1972)",
+    "Being-in-the-World (1991)",
+    "Mind over Machine (1986, with Stuart Dreyfus)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Hubert_Dreyfus",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Hubert_Dreyfus.jpg",
+   "based": "Berkeley, US",
+   "based_zh": "伯克利，美国",
+   "born": 1929,
+   "died": 2017
+  },
+  {
+   "id": "person--iris-marion-young",
+   "name": "Iris Marion Young",
+   "name_zh": "艾丽斯·马瑞恩·杨",
+   "type": "thinker",
+   "themes": [
+    "feminist",
+    "phenomenology"
+   ],
+   "fields": [
+    "foundations",
+    "intimate"
+   ],
+   "description": "Political philosopher whose essay 'Throwing Like a Girl' showed how women's bodily comportment and motility are shaped by social constraint; a founding text of feminist phenomenology of the body.",
+   "description_zh": "政治哲学家，其文章《像女孩那样丢球》揭示了女性的身体举止与运动能力如何受社会约束塑造；是女性主义身体现象学的奠基文本。",
+   "known_for": [
+    "Throwing Like a Girl (1980)",
+    "On Female Body Experience (2005)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Iris_Marion_Young",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Iris_Marion_Young.jpg",
+   "based": "Chicago, US",
+   "based_zh": "芝加哥，美国",
+   "born": 1949,
+   "died": 2006,
+   "creator_id": "iris-marion-young"
+  },
+  {
+   "id": "person--marcel-mauss",
+   "name": "Marcel Mauss",
+   "name_zh": "马塞尔·莫斯",
+   "type": "thinker",
+   "themes": [
+    "somatic-practice",
+    "movement-dance"
+   ],
+   "fields": [
+    "foundations"
+   ],
+   "description": "French anthropologist whose lecture 'Techniques of the Body' showed that walking, swimming, sleeping and breathing are learned, culturally specific techniques, opening the study of how cultures train bodies.",
+   "description_zh": "法国人类学家，其讲演《身体技术》指出行走、游泳、睡眠与呼吸都是后天习得、因文化而异的技术，开启了对文化如何训练身体的研究。",
+   "known_for": [
+    "Techniques of the Body (1935)",
+    "The Gift (1925)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Marcel_Mauss",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/M.Mauss_1872-1950.jpg",
+   "based": "Paris, France",
+   "based_zh": "巴黎，法国",
+   "born": 1872,
+   "died": 1950
+  },
+  {
+   "id": "person--erin-manning",
+   "name": "Erin Manning",
+   "name_zh": "艾琳·曼宁",
+   "type": "thinker",
+   "themes": [
+    "movement-dance",
+    "phenomenology",
+    "art"
+   ],
+   "fields": [
+    "foundations",
+    "movement"
+   ],
+   "description": "Artist and philosopher at Concordia University who founded the SenseLab and writes on movement, relation and neurodiversity, thinking movement as relational before it is a body's property.",
+   "description_zh": "康考迪亚大学的艺术家与哲学家，创立 SenseLab，书写运动、关系与神经多样性，把运动视为先于个体身体而存在的关系。",
+   "known_for": [
+    "Relationscapes: Movement, Art, Philosophy (2009)",
+    "Always More Than One (2013)",
+    "SenseLab"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Erin_Manning",
+   "based": "Montréal, Canada",
+   "based_zh": "蒙特利尔，加拿大",
+   "born": 1969
+  },
+  {
+   "id": "person--hanne-de-jaegher",
+   "name": "Hanne De Jaegher",
+   "type": "thinker",
+   "themes": [
+    "phenomenology",
+    "movement-dance"
+   ],
+   "fields": [
+    "social",
+    "foundations"
+   ],
+   "description": "Enactive philosopher who, with Ezequiel Di Paolo, proposed participatory sense-making: meaning is made together in the coordination of moving bodies, a key idea for designing shared and social soma experiences.",
+   "description_zh": "生成主义哲学家，与 Ezequiel Di Paolo 提出“参与式意义建构”：意义在运动身体之间的协调中共同生成；这是设计共享与社会性身体体验的关键思想。",
+   "known_for": [
+    "Participatory sense-making (2007, with Di Paolo)",
+    "Linguistic Bodies (2018, with Di Paolo and Cuffari)"
+   ],
+   "url": "https://hannedejaegher.net/",
+   "creator_id": "hanne-de-jaegher"
+  },
+  {
+   "id": "person--lisa-feldman-barrett",
+   "name": "Lisa Feldman Barrett",
+   "name_zh": "丽莎·费德曼·巴瑞特",
+   "type": "thinker",
+   "themes": [
+    "affective",
+    "biosignals"
+   ],
+   "fields": [
+    "affect"
+   ],
+   "description": "Northeastern University neuroscientist whose theory of constructed emotion holds that emotions are made from interoceptive body budgeting and concepts, not triggered by fixed circuits, undercutting recognition-based affective computing.",
+   "description_zh": "东北大学神经科学家，她的“建构情绪理论”认为情绪由内感受的身体预算与概念共同建构，而非固定回路触发，这动摇了识别式情感计算的前提。",
+   "known_for": [
+    "How Emotions Are Made (2017)",
+    "Seven and a Half Lessons About the Brain (2020)"
+   ],
+   "url": "https://lisafeldmanbarrett.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Lisa_Feldman_Barrett"
+    }
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Lisa_Feldman.jpg",
+   "based": "Boston, US",
+   "based_zh": "波士顿，美国",
+   "born": 1963,
+   "creator_id": "lisa-feldman-barrett"
+  },
+  {
+   "id": "person--shigehisa-kuriyama",
+   "name": "Shigehisa Kuriyama",
+   "name_zh": "栗山茂久",
+   "type": "thinker",
+   "themes": [
+    "east-asian",
+    "health"
+   ],
+   "fields": [
+    "foundations"
+   ],
+   "description": "Harvard historian of medicine whose comparison of Greek and Chinese medicine shows how touching the pulse and seeing the muscles produced different felt bodies, a reminder that body experience is culturally trained.",
+   "description_zh": "哈佛医学史学者，他对希腊与中国医学的比较显示：切脉与看肌肉塑造出不同的被感受的身体，提醒我们身体经验是文化训练的结果。",
+   "known_for": [
+    "The Expressiveness of the Body and the Divergence of Greek and Chinese Medicine (1999)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Shigehisa_Kuriyama",
+   "based": "Cambridge, US",
+   "based_zh": "坎布里奇，美国",
+   "born": 1954,
+   "creator_id": "shigehisa-kuriyama"
+  },
+  {
+   "id": "person--watsuji-tetsuro",
+   "name": "Watsuji Tetsurō",
+   "name_zh": "和辻哲郎",
+   "type": "thinker",
+   "themes": [
+    "east-asian",
+    "phenomenology"
+   ],
+   "fields": [
+    "foundations"
+   ],
+   "description": "Japanese philosopher who described human being as 'betweenness' (aidagara), always embodied in relations and in climate (fūdo), a counterpoint to individualist views of the body.",
+   "description_zh": "日本哲学家，把人的存在描述为“间柄”（aidagara）：总是具身于人际关系与“风土”之中，与个人主义的身体观形成对照。",
+   "known_for": [
+    "Fūdo: Climate and Culture (1935)",
+    "Ethics (Rinrigaku, 1937–49)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Tetsur%C5%8D_Watsuji",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Tetsuro_Watsuji_01.jpg",
+   "based": "Tokyo, Japan",
+   "based_zh": "东京，日本",
+   "born": 1889,
+   "died": 1960
+  },
+  {
+   "id": "person--dogen",
+   "name": "Dōgen",
+   "name_zh": "道元",
+   "type": "thinker",
+   "themes": [
+    "east-asian",
+    "meditation"
+   ],
+   "fields": [
+    "foundations",
+    "practices"
+   ],
+   "description": "Japanese Zen master who founded the Sōtō school and taught 'just sitting' (shikantaza) and the dropping off of body and mind (shinjin datsuraku), where practice with the whole body-mind is itself realisation.",
+   "description_zh": "日本禅师，创立曹洞宗，教导“只管打坐”与“身心脱落”：以整个身心修行，修行本身即是证悟。",
+   "known_for": [
+    "Shōbōgenzō (正法眼蔵)",
+    "Fukanzazengi (普勧坐禅儀)",
+    "Shinjin datsuraku (身心脱落)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/D%C5%8Dgen",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Dogen.jpg",
+   "based": "Echizen, Japan",
+   "based_zh": "越前，日本",
+   "born": 1200,
+   "died": 1253,
+   "creator_id": "dogen"
+  },
+  {
+   "id": "person--dan-zahavi",
+   "name": "Dan Zahavi",
+   "name_zh": "丹·扎哈维",
+   "type": "thinker",
+   "themes": [
+    "phenomenology",
+    "first-person"
+   ],
+   "fields": [
+    "foundations"
+   ],
+   "description": "Danish philosopher at the University of Copenhagen who directs the Center for Subjectivity Research and argues for the minimal, embodied self given in first-person experience.",
+   "description_zh": "哥本哈根大学丹麦哲学家，主持主体性研究中心，主张在第一人称经验中被给予的、具身的“最小自我”。",
+   "known_for": [
+    "Subjectivity and Selfhood (2005)",
+    "The Phenomenological Mind (2008, with Gallagher)",
+    "Self and Other (2014)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Dan_Zahavi",
+   "links": [
+    {
+     "label": "Google Scholar",
+     "url": "https://scholar.google.com/citations?user=nuQOo2oAAAAJ"
+    }
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Dan_Zahavi%2C_2014.JPG",
+   "based": "Copenhagen, Denmark",
+   "based_zh": "哥本哈根，丹麦",
+   "born": 1967
+  },
+  {
+   "id": "person--vittorio-gallese",
+   "name": "Vittorio Gallese",
+   "name_zh": "维托里奥·加莱塞",
+   "type": "thinker",
+   "themes": [
+    "phenomenology",
+    "affective"
+   ],
+   "fields": [
+    "foundations",
+    "social"
+   ],
+   "description": "Neuroscientist at the University of Parma, co-discoverer of mirror neurons, whose embodied simulation theory explains how we understand others' actions and feelings by re-enacting them in our own bodies.",
+   "description_zh": "帕尔马大学神经科学家，镜像神经元的共同发现者，其“具身模拟”理论解释我们如何通过在自己身体中重演他人的动作与感受来理解他人。",
+   "known_for": [
+    "Discovery of mirror neurons (1990s, Parma group)",
+    "Embodied simulation theory"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Vittorio_Gallese",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Vittorio_Gallese.jpg",
+   "based": "Parma, Italy",
+   "based_zh": "帕尔马，意大利",
+   "born": 1959
+  },
+  {
+   "id": "person--elizabeth-grosz",
+   "name": "Elizabeth Grosz",
+   "name_zh": "伊丽莎白·格罗兹",
+   "type": "thinker",
+   "themes": [
+    "feminist",
+    "phenomenology"
+   ],
+   "fields": [
+    "foundations",
+    "intimate"
+   ],
+   "description": "Australian feminist philosopher whose 'Volatile Bodies' argues for a corporeal feminism that refuses the split between mind and body and between biology and culture.",
+   "description_zh": "澳大利亚女性主义哲学家，其《Volatile Bodies》主张一种“身体的女性主义”，拒绝身与心、生物与文化的二分。",
+   "known_for": [
+    "Volatile Bodies: Toward a Corporeal Feminism (1994)",
+    "Becoming Undone (2011)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Elizabeth_Grosz",
+   "based": "Durham, US",
+   "based_zh": "达勒姆，美国",
+   "born": 1952
+  },
+  {
+   "id": "person--donna-haraway",
+   "name": "Donna Haraway",
+   "name_zh": "唐娜·哈拉维",
+   "type": "thinker",
+   "themes": [
+    "feminist",
+    "more-than-human"
+   ],
+   "fields": [
+    "foundations",
+    "machines-xr"
+   ],
+   "description": "Feminist scholar of science whose cyborg and situated knowledges unsettle boundaries between human, animal and machine; her work underpins feminist and more-than-human strands of soma design.",
+   "description_zh": "女性主义科学研究学者，她的赛博格与“情境知识”理论动摇了人、动物与机器的边界，是身体设计中女性主义与超越人类脉络的基础。",
+   "known_for": [
+    "A Cyborg Manifesto (1985)",
+    "Situated Knowledges (1988)",
+    "Staying with the Trouble (2016)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Donna_Haraway",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Donna_Haraway_2006_%28cropped%29.jpg",
+   "based": "Santa Cruz, US",
+   "based_zh": "圣克鲁兹，美国",
+   "born": 1944
+  },
+  {
+   "id": "person--william-james",
+   "name": "William James",
+   "name_zh": "威廉·詹姆斯",
+   "type": "thinker",
+   "themes": [
+    "affective",
+    "phenomenology"
+   ],
+   "fields": [
+    "foundations",
+    "affect"
+   ],
+   "description": "American pragmatist and psychologist who argued that emotion is the feeling of bodily changes ('we feel sorry because we cry'), an early body-first theory of emotion that affective loops return to.",
+   "description_zh": "美国实用主义者与心理学家，主张情绪就是对身体变化的感受（“我们因为哭泣而感到难过”），这一早期“身体先行”的情绪理论为情感回路所重拾。",
+   "known_for": [
+    "What Is an Emotion? (1884)",
+    "The Principles of Psychology (1890)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/William_James",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/William_James_by_Alice_M._Boughton%2C_c._1907%2C_platinum_print%2C_from_the_National_Portrait_Gallery_-_NPG-NPG_87_37James-000001_%28cropped%29.jpg",
+   "based": "Cambridge, US",
+   "based_zh": "坎布里奇，美国",
+   "born": 1842,
+   "died": 1910
+  },
+  {
+   "id": "person--moshe-feldenkrais",
+   "name": "Moshé Feldenkrais",
+   "name_zh": "摩谢·费登奎斯",
+   "type": "practitioner",
+   "themes": [
+    "somatic-practice",
+    "movement-dance"
+   ],
+   "fields": [
+    "practices",
+    "methods"
+   ],
+   "description": "Physicist and judoka who created the Feldenkrais Method, gentle, attentive movement lessons that refine self-awareness. Höök and her lab trained in Feldenkrais, and its lessons became a core soma design practice for sensitising the designer.",
+   "description_zh": "物理学家与柔道家，创立费登奎斯方法：以轻柔、专注的动作课程提升自我觉察。Höök 与团队修习费登奎斯，其课程成为身体设计中训练设计师感受力的核心修习。",
+   "known_for": [
+    "Awareness Through Movement (1972)",
+    "The Feldenkrais Method (Awareness Through Movement and Functional Integration)",
+    "Body and Mature Behavior (1949)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Mosh%C3%A9_Feldenkrais",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Moshe_Feldenkrais.png",
+   "based": "Tel Aviv, Israel",
+   "based_zh": "特拉维夫，以色列",
+   "born": 1904,
+   "died": 1984,
+   "creator_id": "moshe-feldenkrais"
+  },
+  {
+   "id": "person--f-m-alexander",
+   "name": "F. M. Alexander",
+   "name_zh": "F·M·亚历山大",
+   "type": "practitioner",
+   "themes": [
+    "somatic-practice"
+   ],
+   "fields": [
+    "practices"
+   ],
+   "description": "Australian actor who developed the Alexander Technique to unlearn habitual tension through 'inhibition' and conscious direction of head, neck and back; John Dewey was his student, and the technique is a root of somatics.",
+   "description_zh": "澳大利亚演员，创立亚历山大技巧：通过“抑制”与对头、颈、背的有意识引导，去除惯性紧张；杜威曾是他的学生，该技巧是身心学的源头之一。",
+   "known_for": [
+    "The Alexander Technique",
+    "The Use of the Self (1932)",
+    "Man's Supreme Inheritance (1910)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/F._Matthias_Alexander",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "born": 1869,
+   "died": 1955,
+   "creator_id": "f-matthias-alexander"
+  },
+  {
+   "id": "person--bonnie-bainbridge-cohen",
+   "name": "Bonnie Bainbridge Cohen",
+   "type": "practitioner",
+   "themes": [
+    "somatic-practice",
+    "movement-dance"
+   ],
+   "fields": [
+    "practices"
+   ],
+   "description": "Movement artist and therapist who founded Body-Mind Centering, an embodied study of the body's systems, from organs and fluids to developmental movement patterns, experienced from the inside.",
+   "description_zh": "动作艺术家与治疗师，创立身心平衡技法（BMC）：从内部体验身体各系统，从器官、体液到发展性动作模式的具身研究。",
+   "known_for": [
+    "Body-Mind Centering (founded 1973)",
+    "Sensing, Feeling, and Action (1993)"
+   ],
+   "url": "https://www.bodymindcentering.com",
+   "image": "https://www.bodymindcentering.com/wp-content/uploads/2017/06/bonnie-bainbridge-cohen-about-ksw-2-400x400.jpg",
+   "based": "El Sobrante, US",
+   "based_zh": "埃尔索布兰特，美国",
+   "born": 1941,
+   "creator_id": "bonnie-bainbridge-cohen"
+  },
+  {
+   "id": "person--rudolf-laban",
+   "name": "Rudolf Laban",
+   "name_zh": "鲁道夫·拉班",
+   "type": "practitioner",
+   "themes": [
+    "movement-dance"
+   ],
+   "fields": [
+    "practices",
+    "movement"
+   ],
+   "description": "Dance theorist who created Labanotation and the effort and space theory that became Laban Movement Analysis, the vocabulary movement computing and MOCO researchers use to model movement qualities.",
+   "description_zh": "舞蹈理论家，创立拉班舞谱与力效、空间理论，后发展为拉班动作分析；运动计算与 MOCO 研究者用它来描述与建模动作质感。",
+   "known_for": [
+    "Labanotation (1928)",
+    "Effort (1947, with Lawrence)",
+    "The Mastery of Movement (1950)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Rudolf_von_Laban",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Labanotation1.jpg",
+   "based": "Weybridge, UK",
+   "based_zh": "韦布里奇，英国",
+   "born": 1879,
+   "died": 1958,
+   "creator_id": "rudolf-laban"
+  },
+  {
+   "id": "person--irmgard-bartenieff",
+   "name": "Irmgard Bartenieff",
+   "name_zh": "伊姆加德·巴特尼耶夫",
+   "type": "practitioner",
+   "themes": [
+    "movement-dance",
+    "somatic-practice",
+    "health"
+   ],
+   "fields": [
+    "practices"
+   ],
+   "description": "Laban's student, dancer and physical therapist who developed the Bartenieff Fundamentals of connected, whole-body movement and brought Laban analysis to dance therapy in the United States.",
+   "description_zh": "拉班的学生、舞者与物理治疗师，发展出强调全身连接动作的 Bartenieff 基础训练，并把拉班分析带入美国舞蹈治疗。",
+   "known_for": [
+    "Bartenieff Fundamentals",
+    "Body Movement: Coping with the Environment (1980)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Irmgard_Bartenieff",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Irmgard_Bartenieff.jpg",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "born": 1900,
+   "died": 1981,
+   "creator_id": "irmgard-bartenieff"
+  },
+  {
+   "id": "person--ida-rolf",
+   "name": "Ida Rolf",
+   "name_zh": "艾达·罗尔夫",
+   "type": "practitioner",
+   "themes": [
+    "somatic-practice",
+    "health"
+   ],
+   "fields": [
+    "practices"
+   ],
+   "description": "Biochemist who created Structural Integration (Rolfing), hands-on work on fascia to reorganise the body in gravity; one of the founding figures of somatic bodywork.",
+   "description_zh": "生物化学家，创立结构整合（罗尔夫疗法）：以手法作用于筋膜，使身体在重力中重新组织；身体工作（bodywork）的奠基人物之一。",
+   "known_for": [
+    "Structural Integration (Rolfing)",
+    "Rolfing: The Integration of Human Structures (1977)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Ida_Rolf",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "born": 1896,
+   "died": 1979,
+   "creator_id": "ida-rolf"
+  },
+  {
+   "id": "person--elsa-gindler",
+   "name": "Elsa Gindler",
+   "name_zh": "埃尔莎·金德勒",
+   "type": "practitioner",
+   "themes": [
+    "somatic-practice",
+    "meditation"
+   ],
+   "fields": [
+    "practices"
+   ],
+   "description": "Berlin teacher whose practice of attentive, experimental sensing of breathing, standing and moving, rather than exercises, seeded Sensory Awareness and influenced many later somatic methods.",
+   "description_zh": "柏林的教师，她不是教体操，而是对呼吸、站立与移动进行专注、实验性的感受；这一修习孕育了 Sensory Awareness，影响了众多后来的身心方法。",
+   "known_for": [
+    "Gymnastik für Berufsmenschen (1926)",
+    "Sensory awareness work (Berlin, 1910s–1961)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Elsa_Gindler",
+   "based": "Berlin, Germany",
+   "based_zh": "柏林，德国",
+   "born": 1885,
+   "died": 1961,
+   "creator_id": "elsa-gindler"
+  },
+  {
+   "id": "person--charlotte-selver",
+   "name": "Charlotte Selver",
+   "name_zh": "夏洛特·塞尔弗",
+   "type": "practitioner",
+   "themes": [
+    "somatic-practice",
+    "meditation"
+   ],
+   "fields": [
+    "practices"
+   ],
+   "description": "Gindler's student who brought Sensory Awareness to the United States, teaching at Esalen and with Zen teachers; her simple experiments in noticing sensation are close cousins of soma design's attunement exercises.",
+   "description_zh": "金德勒的学生，把 Sensory Awareness 带到美国，在伊莎兰学院任教并与禅师合作；她那些觉察感觉的简单实验，与身体设计中的调谐练习一脉相承。",
+   "known_for": [
+    "Sensory Awareness (taught in the US from 1938)",
+    "Reclaiming Vitality and Presence (2007)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Charlotte_Selver",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "born": 1901,
+   "died": 2003,
+   "creator_id": "charlotte-selver"
+  },
+  {
+   "id": "person--emilie-conrad",
+   "name": "Emilie Conrad",
+   "type": "practitioner",
+   "themes": [
+    "somatic-practice",
+    "movement-dance",
+    "meditation"
+   ],
+   "fields": [
+    "practices"
+   ],
+   "description": "Dancer who founded Continuum, a practice of breath, sound and wave-like micro-movement that explores the body as fluid process, informing somatic dance and fluid, undulating forms of interaction.",
+   "description_zh": "舞者，创立 Continuum：以呼吸、声音与波浪般的微动作，把身体作为流动的过程来探索，影响了身体舞蹈与流动、起伏式的交互形态。",
+   "known_for": [
+    "Continuum Movement (founded 1967)",
+    "Life on Land (2007)"
+   ],
+   "url": "https://www.continuummovement.com",
+   "based": "Los Angeles, US",
+   "based_zh": "洛杉矶，美国",
+   "born": 1934,
+   "died": 2014,
+   "creator_id": "emilie-conrad"
+  },
+  {
+   "id": "person--mary-starks-whitehouse",
+   "name": "Mary Starks Whitehouse",
+   "type": "practitioner",
+   "themes": [
+    "somatic-practice",
+    "movement-dance",
+    "health"
+   ],
+   "fields": [
+    "practices"
+   ],
+   "description": "Dancer and Jungian-trained therapist whose 'movement in depth' became Authentic Movement: a mover follows inner impulses with eyes closed while a witness attends, a model of first- and second-person bodily attention.",
+   "description_zh": "舞者与受荣格训练的治疗师，她的“深层动作”后来发展为真实动作（Authentic Movement）：动者闭眼跟随内在冲动，见证者在旁专注观看；这是第一人称与第二人称身体注意的范式。",
+   "known_for": [
+    "Authentic Movement ('movement in depth', 1950s–60s)",
+    "Physical Movement and Personality (1963)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Authentic_Movement",
+   "based": "Los Angeles, US",
+   "based_zh": "洛杉矶，美国",
+   "born": 1911,
+   "died": 1979,
+   "creator_id": "mary-starks-whitehouse"
+  },
+  {
+   "id": "person--steve-paxton",
+   "name": "Steve Paxton",
+   "name_zh": "史蒂夫·帕克斯顿",
+   "type": "practitioner",
+   "themes": [
+    "movement-dance",
+    "somatic-practice",
+    "haptics-touch"
+   ],
+   "fields": [
+    "practices",
+    "social"
+   ],
+   "description": "Dancer and Judson Dance Theater member who initiated Contact Improvisation, where partners move through shared weight, touch and momentum; a model for designing with touch and intercorporeality.",
+   "description_zh": "舞者、贾德森舞蹈剧场成员，开创接触即兴：舞伴通过分担重量、触碰与动量一起移动；这是以触碰与身体间性做设计的范本。",
+   "known_for": [
+    "Contact Improvisation (1972)",
+    "Material for the Spine (2008)",
+    "Magnesium (1972)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Steve_Paxton",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Steve_Paxton_2012.jpg",
+   "based": "Vermont, US",
+   "based_zh": "佛蒙特，美国",
+   "born": 1939,
+   "died": 2024,
+   "creator_id": "steve-paxton"
+  },
+  {
+   "id": "person--nancy-stark-smith",
+   "name": "Nancy Stark Smith",
+   "name_zh": "南希·史塔克·史密斯",
+   "type": "practitioner",
+   "themes": [
+    "movement-dance",
+    "somatic-practice",
+    "haptics-touch"
+   ],
+   "fields": [
+    "practices",
+    "social"
+   ],
+   "description": "Dancer who co-developed Contact Improvisation with Steve Paxton and co-edited Contact Quarterly for decades, spreading the practice and its underscore worldwide.",
+   "description_zh": "舞者，与 Steve Paxton 共同发展接触即兴，并长期合编《Contact Quarterly》，将这一实践及其“底谱”（Underscore）推向世界。",
+   "known_for": [
+    "Contact Quarterly (co-founded 1975)",
+    "Caught Falling (2008, with David Koteen)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Nancy_Stark_Smith",
+   "based": "Northampton, US",
+   "based_zh": "北安普敦，美国",
+   "born": 1952,
+   "died": 2020,
+   "creator_id": "nancy-stark-smith"
+  },
+  {
+   "id": "person--peter-levine",
+   "name": "Peter A. Levine",
+   "name_zh": "彼得·列文",
+   "type": "practitioner",
+   "themes": [
+    "somatic-practice",
+    "health"
+   ],
+   "fields": [
+    "practices",
+    "care"
+   ],
+   "description": "Psychologist who developed Somatic Experiencing, a body-based approach to trauma that tracks sensation and lets arrested survival responses complete, widely used in somatic therapy.",
+   "description_zh": "心理学家，创立身体经验疗法（Somatic Experiencing）：一种以身体为本的创伤疗法，追踪身体感觉，让受阻的生存反应得以完成，广泛用于身体疗愈。",
+   "known_for": [
+    "Waking the Tiger (1997)",
+    "In an Unspoken Voice (2010)",
+    "Somatic Experiencing"
+   ],
+   "url": "https://www.somaticexperiencing.com/about-peter",
+   "links": [
+    {
+     "label": "Wikipedia: Somatic Experiencing",
+     "url": "https://en.wikipedia.org/wiki/Somatic_experiencing"
+    }
+   ],
+   "based": "Boulder, US",
+   "based_zh": "博尔德，美国",
+   "creator_id": "peter-levine"
+  },
+  {
+   "id": "person--jon-kabat-zinn",
+   "name": "Jon Kabat-Zinn",
+   "name_zh": "乔·卡巴金",
+   "type": "practitioner",
+   "themes": [
+    "meditation",
+    "health"
+   ],
+   "fields": [
+    "practices",
+    "care"
+   ],
+   "description": "Founder of Mindfulness-Based Stress Reduction at the University of Massachusetts, whose body scan and mindful movement brought Buddhist-derived practice into medicine; the body scan is a standard soma design exercise.",
+   "description_zh": "马萨诸塞大学正念减压（MBSR）创始人，他的身体扫描与正念动作把源自佛教的修习带入医学；身体扫描也是身体设计的常用练习。",
+   "known_for": [
+    "Mindfulness-Based Stress Reduction (1979)",
+    "Full Catastrophe Living (1990)",
+    "Wherever You Go, There You Are (1994)"
+   ],
+   "url": "https://jonkabat-zinn.com/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Jon_Kabat-Zinn"
+    }
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Jon_Kabat-Zinn_%282018%29.png",
+   "based": "Massachusetts, US",
+   "based_zh": "马萨诸塞，美国",
+   "born": 1944,
+   "creator_id": "jon-kabat-zinn"
+  },
+  {
+   "id": "person--cheng-man-ching",
+   "name": "Cheng Man-ch'ing",
+   "name_zh": "郑曼青",
+   "type": "practitioner",
+   "themes": [
+    "east-asian",
+    "somatic-practice"
+   ],
+   "fields": [
+    "practices"
+   ],
+   "description": "Chinese tai chi master, painter and physician who created the Yang-style short form and brought tai chi to Taiwan and New York, where it spread as a practice of relaxed, rooted body-mind unity.",
+   "description_zh": "中国太极拳家、画家与医师，创编杨式简化三十七式，并把太极拳带到台湾与纽约，作为松沉、身心合一的修习广为流传。",
+   "known_for": [
+    "Yang-style short form (37 postures)",
+    "Cheng Tzu's Thirteen Treatises on T'ai Chi Ch'uan"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Cheng_Man-ch%27ing",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Cheng_Man-ching.jpg",
+   "based": "Taipei, Taiwan; New York, US",
+   "based_zh": "台北，台湾；纽约，美国",
+   "born": 1902,
+   "died": 1975,
+   "creator_id": "cheng-man-ching"
+  },
+  {
+   "id": "person--morihei-ueshiba",
+   "name": "Ueshiba Morihei",
+   "name_zh": "植芝盛平",
+   "type": "practitioner",
+   "themes": [
+    "east-asian",
+    "somatic-practice"
+   ],
+   "fields": [
+    "practices"
+   ],
+   "description": "Founder of aikido, a martial art of blending with an attacker's movement and ki, framed as a spiritual practice of harmony; a reference for designing with partnered movement and yielding.",
+   "description_zh": "合气道创始人。合气道顺应对手的动作与“气”，被视为追求和谐的精神修习；是设计双人协同动作与“顺势”的参照。",
+   "known_for": [
+    "Aikido",
+    "Budō (1938)",
+    "The Art of Peace (teachings)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Morihei_Ueshiba",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Morihei_Ueshiba_1939.jpg",
+   "based": "Iwama, Japan",
+   "based_zh": "岩间，日本",
+   "born": 1883,
+   "died": 1969,
+   "creator_id": "morihei-ueshiba"
+  },
+  {
+   "id": "person--noguchi-michizo",
+   "name": "Noguchi Michizō",
+   "name_zh": "野口三千三",
+   "type": "practitioner",
+   "themes": [
+    "east-asian",
+    "somatic-practice",
+    "movement-dance"
+   ],
+   "fields": [
+    "practices"
+   ],
+   "description": "Japanese physical educator who created Noguchi Taisō, a practice of feeling the body as a water-filled sack moved by gravity and ease rather than muscular effort, influential in Japanese theatre and somatics.",
+   "description_zh": "日本体育教育者，创立野口体操：把身体感受为一个装满水的袋子，借重力与放松而非肌肉用力来运动，影响了日本戏剧与身体修习。",
+   "known_for": [
+    "Noguchi Taisō (野口体操)",
+    "原初生命体としての人間 (The Human as Primordial Life Form, 1972)"
+   ],
+   "url": "https://ja.wikipedia.org/wiki/野口三千三",
+   "based": "Tokyo, Japan",
+   "based_zh": "东京，日本",
+   "born": 1914,
+   "died": 1998,
+   "creator_id": "noguchi-michizo"
+  },
+  {
+   "id": "person--thich-nhat-hanh",
+   "name": "Thích Nhất Hạnh",
+   "name_zh": "释一行",
+   "type": "practitioner",
+   "themes": [
+    "meditation",
+    "east-asian"
+   ],
+   "fields": [
+    "practices"
+   ],
+   "description": "Vietnamese Zen monk who founded Plum Village and taught mindful breathing and walking meditation worldwide; his practices of coming home to the body through breath inform breath-based design.",
+   "description_zh": "越南禅宗僧人，创立梅村，在世界各地教授正念呼吸与行禅；他“借呼吸回到身体”的修习启发了以呼吸为核心的设计。",
+   "known_for": [
+    "The Miracle of Mindfulness (1975)",
+    "Plum Village (founded 1982)",
+    "Walking meditation"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Thich_Nhat_Hanh_12_%28cropped%29.jpg",
+   "based": "Hue, Vietnam",
+   "based_zh": "顺化，越南",
+   "born": 1926,
+   "died": 2022,
+   "creator_id": "thich-nhat-hanh"
+  },
+  {
+   "id": "person--ron-kurtz",
+   "name": "Ron Kurtz",
+   "type": "practitioner",
+   "themes": [
+    "somatic-practice",
+    "health",
+    "meditation"
+   ],
+   "fields": [
+    "practices",
+    "care"
+   ],
+   "description": "Psychotherapist who created the Hakomi Method, a body-centred, mindfulness-based therapy that uses gentle experiments in present-moment bodily experience.",
+   "description_zh": "心理治疗师，创立 Hakomi 方法：一种以身体为中心、以正念为基础的疗法，在当下的身体经验中进行温和的实验。",
+   "known_for": [
+    "Hakomi Method (1970s)",
+    "Body-Centered Psychotherapy: The Hakomi Method (1990)"
+   ],
+   "url": "https://ronkurtz.com",
+   "based": "Ashland, US",
+   "based_zh": "阿什兰，美国",
+   "born": 1934,
+   "died": 2011,
+   "creator_id": "ron-kurtz"
+  },
+  {
+   "id": "person--gerda-alexander",
+   "name": "Gerda Alexander",
+   "name_zh": "格尔达·亚历山大",
+   "type": "practitioner",
+   "themes": [
+    "somatic-practice"
+   ],
+   "fields": [
+    "practices"
+   ],
+   "description": "Danish teacher who created Eutony, a practice of sensing and adjusting muscle tone through contact with the floor, objects and one's own skin.",
+   "description_zh": "丹麦教师，创立 Eutony（优张力）：通过与地面、物件及自身皮肤的接触，感受并调节肌张力的修习。",
+   "known_for": [
+    "Eutony (Eutonie, from 1940)",
+    "Eutony: The Holistic Discovery of the Total Person (1985)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Gerda_Alexander",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Gerda_Alexander.jpg",
+   "based": "Copenhagen, Denmark",
+   "based_zh": "哥本哈根，丹麦",
+   "born": 1908,
+   "died": 1994,
+   "creator_id": "gerda-alexander"
+  },
+  {
+   "id": "person--mabel-todd",
+   "name": "Mabel Elsworth Todd",
+   "name_zh": "梅布尔·托德",
+   "type": "practitioner",
+   "themes": [
+    "somatic-practice",
+    "movement-dance"
+   ],
+   "fields": [
+    "practices"
+   ],
+   "description": "Teacher whose 'The Thinking Body' used anatomical imagery to change posture and movement, the origin of ideokinesis in dance and somatic education.",
+   "description_zh": "教师，其《The Thinking Body》以解剖意象改变姿态与动作，是舞蹈与身心教育中“意念动觉法”（ideokinesis）的源头。",
+   "known_for": [
+    "The Thinking Body (1937)",
+    "Ideokinesis"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Mabel_Elsworth_Todd",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "born": 1880,
+   "died": 1956,
+   "creator_id": "mabel-todd"
+  },
+  {
+   "id": "person--chungliang-al-huang",
+   "name": "Chungliang Al Huang",
+   "name_zh": "黄忠良",
+   "type": "practitioner",
+   "themes": [
+    "east-asian",
+    "movement-dance",
+    "somatic-practice"
+   ],
+   "fields": [
+    "practices"
+   ],
+   "description": "Chinese-American dancer and tai chi teacher who taught at Esalen with Alan Watts and blended tai chi, dance and calligraphy into a practice of Tao as moving, felt experience.",
+   "description_zh": "华裔美国舞者与太极老师，曾与 Alan Watts 在伊莎兰学院授课，把太极、舞蹈与书法融为一种以流动、可感的身体体会“道”的修习。",
+   "known_for": [
+    "Embrace Tiger, Return to Mountain (1973)",
+    "Tao: The Watercourse Way (1975, with Alan Watts)",
+    "Living Tao Foundation"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Chungliang_Al_Huang",
+   "born": 1937
+  },
+  {
+   "id": "person--shunryu-suzuki",
+   "name": "Shunryū Suzuki",
+   "name_zh": "铃木俊隆",
+   "type": "practitioner",
+   "themes": [
+    "meditation",
+    "east-asian"
+   ],
+   "fields": [
+    "practices"
+   ],
+   "description": "Sōtō Zen priest who founded the San Francisco Zen Center; 'Zen Mind, Beginner's Mind' taught zazen posture and breath as the practice itself, shaping Western contemplative practice.",
+   "description_zh": "曹洞宗僧人，创立旧金山禅中心；《禅者的初心》把坐禅的姿势与呼吸本身作为修行，塑造了西方的沉思修习。",
+   "known_for": [
+    "Zen Mind, Beginner's Mind (1970)",
+    "San Francisco Zen Center (founded 1962)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Shunry%C5%AB_Suzuki",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Shunryu_Suzuki_at_Zen_Mountain_Center_%28cropped%29.png",
+   "based": "San Francisco, US",
+   "based_zh": "旧金山，美国",
+   "born": 1904,
+   "died": 1971
+  },
+  {
+   "id": "person--wang-xiangzhai",
+   "name": "Wang Xiangzhai",
+   "name_zh": "王芗斋",
+   "type": "practitioner",
+   "themes": [
+    "east-asian",
+    "somatic-practice"
+   ],
+   "fields": [
+    "practices"
+   ],
+   "description": "Chinese martial artist who founded Yiquan and championed zhan zhuang (standing post), a practice of cultivating whole-body awareness and intent through stillness.",
+   "description_zh": "中国武术家，创立意拳并倡导站桩：以静立培养全身的觉察与意念的修习。",
+   "known_for": [
+    "Yiquan (意拳)",
+    "Zhan zhuang standing practice (站桩)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Wang_Xiangzhai",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Wang_Xiangzhai.png",
+   "based": "Beijing, China",
+   "based_zh": "北京，中国",
+   "born": 1885,
+   "died": 1963,
+   "creator_id": "wang-xiangzhai"
+  },
+  {
+   "id": "person--bks-iyengar",
+   "name": "B. K. S. Iyengar",
+   "name_zh": "B·K·S·艾扬格",
+   "type": "practitioner",
+   "themes": [
+    "east-asian",
+    "somatic-practice",
+    "meditation"
+   ],
+   "fields": [
+    "practices"
+   ],
+   "description": "Indian yoga teacher whose precise, prop-supported Iyengar Yoga and 'Light on Yoga' made asana and pranayama widely teachable as practices of alignment and breath awareness.",
+   "description_zh": "印度瑜伽导师，以精确、借助辅具的艾扬格瑜伽与《瑜伽之光》，让体式与调息作为对位与呼吸觉察的修习得以广泛传授。",
+   "known_for": [
+    "Light on Yoga (1966)",
+    "Light on Pranayama (1981)",
+    "Iyengar Yoga"
+   ],
+   "url": "https://en.wikipedia.org/wiki/B._K._S._Iyengar",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/BKS_Iyengar.jpg",
+   "based": "Pune, India",
+   "based_zh": "浦那，印度",
+   "born": 1918,
+   "died": 2014,
+   "creator_id": "bks-iyengar"
+  },
+  {
+   "id": "person--wilhelm-reich",
+   "name": "Wilhelm Reich",
+   "name_zh": "威廉·赖希",
+   "type": "practitioner",
+   "themes": [
+    "somatic-practice",
+    "health"
+   ],
+   "fields": [
+    "practices"
+   ],
+   "description": "Austrian psychoanalyst who argued that emotional history is held in the body as 'muscular armour', founding body psychotherapy; later lineages include bioenergetics and Hakomi.",
+   "description_zh": "奥地利精神分析师，主张情绪史以“肌肉盔甲”的形式储存在身体中，开创身体心理治疗；生物能疗法与 Hakomi 等都承其脉络。",
+   "known_for": [
+    "Character Analysis (1933)",
+    "Body armour (muscular armouring) concept"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Wilhelm_Reich",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Wilhelm_Reich.jpg",
+   "based": "Rangeley, US",
+   "based_zh": "兰格利，美国",
+   "born": 1897,
+   "died": 1957
+  },
+  {
+   "id": "person--lygia-clark",
+   "name": "Lygia Clark",
+   "name_zh": "莉吉亚·克拉克",
+   "type": "artist",
+   "themes": [
+    "art",
+    "haptics-touch",
+    "health"
+   ],
+   "fields": [
+    "movement"
+   ],
+   "description": "Brazilian artist who moved from Neo-Concrete sculpture to relational objects handled on the body, and finally to therapeutic sessions; her sensorial works are touchstones for art felt through the skin.",
+   "description_zh": "巴西艺术家，从新具体主义雕塑走向贴身使用的“关系物件”，最终发展为疗愈性的工作；她的感官作品是“用皮肤感受的艺术”的标杆。",
+   "known_for": [
+    "Bichos (1960)",
+    "Sensorial masks and Relational Objects (1960s–70s)",
+    "Structuring of the Self (1976–88)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Lygia_Clark",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/L%C3%ADgia_Clark%2C_1967.tif",
+   "based": "Rio de Janeiro, Brazil",
+   "based_zh": "里约热内卢，巴西",
+   "born": 1920,
+   "died": 1988,
+   "creator_id": "lygia-clark"
+  },
+  {
+   "id": "person--helio-oiticica",
+   "name": "Hélio Oiticica",
+   "name_zh": "埃利奥·奥蒂西卡",
+   "type": "artist",
+   "themes": [
+    "art",
+    "movement-dance"
+   ],
+   "fields": [
+    "movement"
+   ],
+   "description": "Brazilian artist whose Parangolés, capes worn and danced in by participants, and immersive environments such as Tropicália made art something completed by the moving body.",
+   "description_zh": "巴西艺术家，他的 Parangolés 是由参与者穿上并起舞的披风，与《Tropicália》等沉浸环境一起，让艺术由运动的身体来完成。",
+   "known_for": [
+    "Parangolés (1964)",
+    "Tropicália (1967)",
+    "Éden (1969)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/H%C3%A9lio_Oiticica",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/H%C3%A9lio_Oiticica_%281966%29.tif",
+   "based": "Rio de Janeiro, Brazil",
+   "based_zh": "里约热内卢，巴西",
+   "born": 1937,
+   "died": 1980,
+   "creator_id": "helio-oiticica"
+  },
+  {
+   "id": "person--anna-halprin",
+   "name": "Anna Halprin",
+   "name_zh": "安娜·哈尔普林",
+   "type": "artist",
+   "themes": [
+    "movement-dance",
+    "somatic-practice",
+    "health"
+   ],
+   "fields": [
+    "practices",
+    "movement"
+   ],
+   "description": "Dancer who pioneered postmodern and community dance on her outdoor deck, using dance for healing and collective ritual (Planetary Dance); a reference for participatory, somatic movement.",
+   "description_zh": "舞者，在自家户外舞台开创后现代与社区舞蹈，以舞蹈疗愈并创造集体仪式（Planetary Dance）；是参与式、身体性动作的参照。",
+   "known_for": [
+    "Parades and Changes (1965)",
+    "Planetary Dance (from 1981)",
+    "Tamalpa Institute (1978, with Daria Halprin)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Anna_Halprin",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Anna_Halprin_USF_S_Calhoun.jpg",
+   "based": "Kentfield, US",
+   "based_zh": "肯特菲尔德，美国",
+   "born": 1920,
+   "died": 2021,
+   "creator_id": "anna-halprin"
+  },
+  {
+   "id": "person--char-davies",
+   "name": "Char Davies",
+   "name_zh": "夏尔·戴维斯",
+   "type": "artist",
+   "themes": [
+    "art",
+    "xr-embodiment",
+    "meditation"
+   ],
+   "fields": [
+    "machines-xr"
+   ],
+   "description": "Canadian artist whose VR works Osmose and Ephémère are navigated by breath and balance, letting the 'immersant' float through translucent landscapes; a founding example of breath-based, embodied VR.",
+   "description_zh": "加拿大艺术家，其 VR 作品《Osmose》《Ephémère》以呼吸与平衡导航，让“沉浸者”漂浮在半透明的景观中；是以呼吸为基础的具身 VR 的开创性范例。",
+   "known_for": [
+    "Osmose (1995)",
+    "Ephémère (1998)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Char_Davies",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Char_davies_wiki.jpg",
+   "based": "Montréal, Canada",
+   "based_zh": "蒙特利尔，加拿大",
+   "born": 1954,
+   "creator_id": "char-davies"
+  },
+  {
+   "id": "person--rebecca-horn",
+   "name": "Rebecca Horn",
+   "name_zh": "丽贝卡·霍恩",
+   "type": "artist",
+   "themes": [
+    "art",
+    "haptics-touch"
+   ],
+   "fields": [
+    "movement"
+   ],
+   "description": "German artist whose early body extensions, prosthetic gloves, fans and masks, altered how wearers touch and sense space, early examples of wearable estrangement.",
+   "description_zh": "德国艺术家，她早期的身体延伸装置（义肢手套、扇子与面具）改变了穿戴者触碰与感知空间的方式，是可穿戴“陌生化”的早期范例。",
+   "known_for": [
+    "Unicorn (1970–72)",
+    "Finger Gloves (1972)",
+    "Arm Extensions (1968)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Rebecca_Horn",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/The_Union_Minister_for_Housing_and_Urban_Poverty_Alleviation_and_Culture%2C_Kum._Selja_lighting_the_lamp_to_inaugurate_the_exhibition-_REBECCA_HORN_Passage_through_Light%2C_in_New_Delhi_on_April_07%2C_2012_%28cropped%29.jpg",
+   "based": "Berlin, Germany",
+   "based_zh": "柏林，德国",
+   "born": 1944,
+   "died": 2024,
+   "creator_id": "rebecca-horn"
+  },
+  {
+   "id": "person--stelarc",
+   "name": "Stelarc",
+   "name_zh": "斯特拉克",
+   "type": "artist",
+   "themes": [
+    "art",
+    "robots-ai",
+    "xr-embodiment"
+   ],
+   "fields": [
+    "machines-xr"
+   ],
+   "description": "Cypriot-Australian performance artist who extends and exposes the body with robotic arms, internet-actuated muscles and a cell-grown ear, provoking questions about the obsolete and augmented body.",
+   "description_zh": "塞浦路斯裔澳大利亚表演艺术家，以机械臂、由网络驱动的肌肉与细胞培养的耳朵延展和暴露身体，引发关于“过时”与增强身体的追问。",
+   "known_for": [
+    "Third Hand (1980)",
+    "Ping Body (1996)",
+    "Ear on Arm (2006–)"
+   ],
+   "url": "http://stelarc.org/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Stelarc"
+    }
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Stelarc_3rd_ear_2011f.jpg",
+   "based": "Perth, Australia",
+   "based_zh": "珀斯，澳大利亚",
+   "born": 1946,
+   "creator_id": "stelarc"
+  },
+  {
+   "id": "person--william-forsythe",
+   "name": "William Forsythe",
+   "name_zh": "威廉·福赛斯",
+   "type": "artist",
+   "themes": [
+    "movement-dance",
+    "art"
+   ],
+   "fields": [
+    "movement"
+   ],
+   "description": "Choreographer whose Improvisation Technologies and Synchronous Objects made the principles of movement visible and analysable, bridging choreography and computing.",
+   "description_zh": "编舞家，他的《Improvisation Technologies》与《Synchronous Objects》让动作的原理可视、可分析，架起了编舞与计算之间的桥梁。",
+   "known_for": [
+    "Improvisation Technologies (CD-ROM, 1999)",
+    "Choreographic Objects",
+    "Synchronous Objects (2009)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/William_Forsythe_(choreographer)",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/William_Forsythe_2012_%28cropped%29.jpg",
+   "based": "Frankfurt, Germany",
+   "based_zh": "法兰克福，德国",
+   "born": 1949,
+   "creator_id": "william-forsythe"
+  },
+  {
+   "id": "person--wayne-mcgregor",
+   "name": "Wayne McGregor",
+   "name_zh": "韦恩·麦格雷戈",
+   "type": "artist",
+   "themes": [
+    "movement-dance",
+    "robots-ai"
+   ],
+   "fields": [
+    "movement",
+    "machines-xr"
+   ],
+   "description": "British choreographer who works with cognitive scientists and AI, from studies of choreographic thinking to Living Archive, a tool trained on his archive that proposes movement to dancers.",
+   "description_zh": "英国编舞家，与认知科学家及 AI 合作，从“编舞思维”研究到 Living Archive：一个以其作品档案训练、为舞者提议动作的工具。",
+   "known_for": [
+    "Company Wayne McGregor (founded 1992)",
+    "Living Archive: An AI Performance Experiment (2019, with Google Arts & Culture)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Wayne_McGregor",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Wayne_McGregor_%28Random_Dance_Company%29_%282545447164%29.jpg",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "born": 1970,
+   "creator_id": "wayne-mcgregor"
+  },
+  {
+   "id": "person--hijikata-tatsumi",
+   "name": "Hijikata Tatsumi",
+   "name_zh": "土方巽",
+   "type": "artist",
+   "themes": [
+    "east-asian",
+    "movement-dance",
+    "art"
+   ],
+   "fields": [
+    "movement",
+    "practices"
+   ],
+   "description": "Japanese dancer who founded butoh, a dance of the 'body that has died', using imagery-driven transformation that rejects Western dance form; a radical source for somatic performance.",
+   "description_zh": "日本舞者，开创舞踏：一种“死去的身体”的舞蹈，以意象驱动身体变形，拒绝西方舞蹈形式；是身体表演的激进源头。",
+   "known_for": [
+    "Kinjiki (1959)",
+    "Revolt of the Body (1968)",
+    "Butoh-fu (butoh notation)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Tatsumi_Hijikata",
+   "based": "Tokyo, Japan",
+   "based_zh": "东京，日本",
+   "born": 1928,
+   "died": 1986,
+   "creator_id": "tatsumi-hijikata"
+  },
+  {
+   "id": "person--kazuo-ohno",
+   "name": "Ohno Kazuo",
+   "name_zh": "大野一雄",
+   "type": "artist",
+   "themes": [
+    "east-asian",
+    "movement-dance",
+    "art"
+   ],
+   "fields": [
+    "movement"
+   ],
+   "description": "Co-founder of butoh with Hijikata, whose improvised, deeply interior dancing into his hundreds made the felt inner life of the body visible.",
+   "description_zh": "与土方巽共同开创舞踏，他即兴、极度内在的舞蹈一直持续到百岁，让身体内部的感受生命变得可见。",
+   "known_for": [
+    "Admiring La Argentina (1977)",
+    "My Mother (1981)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Kazuo_Ohno",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Kazuo_Ohno.jpg",
+   "based": "Yokohama, Japan",
+   "based_zh": "横滨，日本",
+   "born": 1906,
+   "died": 2010,
+   "creator_id": "kazuo-ohno"
+  },
+  {
+   "id": "person--lin-hwai-min",
+   "name": "Lin Hwai-min",
+   "name_zh": "林怀民",
+   "type": "artist",
+   "themes": [
+    "east-asian",
+    "movement-dance",
+    "meditation"
+   ],
+   "fields": [
+    "movement",
+    "practices"
+   ],
+   "description": "Taiwanese choreographer who founded Cloud Gate Dance Theatre and trained dancers in tai chi daoyin, meditation, martial arts and calligraphy, building a contemporary dance from East Asian body-mind practice.",
+   "description_zh": "台湾编舞家，创立云门舞集，以太极导引、静坐、武术与书法训练舞者，以东亚身心修习建立当代舞蹈。",
+   "known_for": [
+    "Cloud Gate Dance Theatre (founded 1973)",
+    "Songs of the Wanderers (1994)",
+    "Cursive trilogy (2001–05)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Lin_Hwai-min",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/2008TIBE_Day5_Hall1_ThemeSquare_Hwai-min_Lin.jpg",
+   "based": "Taipei, Taiwan",
+   "based_zh": "台北，台湾",
+   "born": 1947,
+   "creator_id": "lin-hwai-min"
+  },
+  {
+   "id": "person--marina-abramovic",
+   "name": "Marina Abramović",
+   "name_zh": "玛丽娜·阿布拉莫维奇",
+   "type": "artist",
+   "themes": [
+    "art",
+    "meditation"
+   ],
+   "fields": [
+    "movement"
+   ],
+   "description": "Serbian performance artist whose durational works test the limits of body and presence, and whose Abramović Method trains audiences in slow walking, stillness and attention.",
+   "description_zh": "塞尔维亚行为艺术家，她的长时作品测试身体与在场的极限，“阿布拉莫维奇方法”训练观众慢走、静止与专注。",
+   "known_for": [
+    "Rhythm 0 (1974)",
+    "The Artist Is Present (2010)",
+    "Abramović Method"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Marina_Abramovi%C4%87",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Marina_Abramovi%C4%87._The_Cleaner_%2845524492341%29.jpg",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "born": 1946
+  },
+  {
+   "id": "person--yvonne-rainer",
+   "name": "Yvonne Rainer",
+   "name_zh": "伊冯娜·雷纳",
+   "type": "artist",
+   "themes": [
+    "movement-dance",
+    "art"
+   ],
+   "fields": [
+    "movement"
+   ],
+   "description": "Judson Dance Theater choreographer whose Trio A stripped dance to task-like, everyday movement, turning attention to the ordinary moving body.",
+   "description_zh": "贾德森舞蹈剧场编舞家，《Trio A》把舞蹈剥离为如同完成任务的日常动作，把注意转向普通的运动身体。",
+   "known_for": [
+    "Trio A (1966)",
+    "No Manifesto (1965)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Yvonne_Rainer",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Yvonne_Rainer_-_Museum_Ludwig-1431.jpg",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "born": 1934
+  },
+  {
+   "id": "person--trisha-brown",
+   "name": "Trisha Brown",
+   "name_zh": "崔莎·布朗",
+   "type": "artist",
+   "themes": [
+    "movement-dance",
+    "art"
+   ],
+   "fields": [
+    "movement"
+   ],
+   "description": "Postmodern choreographer whose release-based, fluid movement and gravity-defying equipment pieces changed how dancers use weight, momentum and ease.",
+   "description_zh": "后现代编舞家，她以释放为基础的流动动作与借器械对抗重力的作品，改变了舞者运用重量、动量与轻松的方式。",
+   "known_for": [
+    "Man Walking Down the Side of a Building (1970)",
+    "Accumulation (1971)",
+    "Set and Reset (1983)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Trisha_Brown",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "born": 1936,
+   "died": 2017
+  },
+  {
+   "id": "person--deborah-hay",
+   "name": "Deborah Hay",
+   "name_zh": "黛博拉·海",
+   "type": "artist",
+   "themes": [
+    "movement-dance",
+    "first-person"
+   ],
+   "fields": [
+    "practices",
+    "movement"
+   ],
+   "description": "Choreographer whose practice asks performers questions such as 'what if every cell in my body at once has the potential to perceive?', making perception itself the dance.",
+   "description_zh": "编舞家，她的实践向表演者提问，如“如果我身体的每个细胞同时都能感知会怎样？”，让知觉本身成为舞蹈。",
+   "known_for": [
+    "Solo Performance Commissioning Project (1998–)",
+    "My Body, The Buddhist (2000)",
+    "Using the Sky (2015)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Deborah_Hay",
+   "based": "Austin, US",
+   "based_zh": "奥斯汀，美国",
+   "born": 1941,
+   "creator_id": "deborah-hay"
+  },
+  {
+   "id": "person--merce-cunningham",
+   "name": "Merce Cunningham",
+   "name_zh": "默斯·坎宁汉",
+   "type": "artist",
+   "themes": [
+    "movement-dance",
+    "art"
+   ],
+   "fields": [
+    "movement"
+   ],
+   "description": "Choreographer who used chance procedures and, from 1989, the LifeForms software co-developed with Thecla Schiphorst to compose dance, an early meeting of choreography and computing.",
+   "description_zh": "编舞家，以机遇手法编舞，1989 年起使用与 Thecla Schiphorst 共同开发的 LifeForms 软件，是编舞与计算的早期相遇。",
+   "known_for": [
+    "Merce Cunningham Dance Company (1953)",
+    "Trackers (1991, made with LifeForms)",
+    "BIPED (1999)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Merce_Cunningham",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Merce_Cunningham_April_16%2C_1919-_July_26%2C_2009.png",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "born": 1919,
+   "died": 2009,
+   "creator_id": "merce-cunningham"
+  },
+  {
+   "id": "person--ernesto-neto",
+   "name": "Ernesto Neto",
+   "name_zh": "埃内斯托·内托",
+   "type": "artist",
+   "themes": [
+    "art",
+    "haptics-touch"
+   ],
+   "fields": [
+    "movement"
+   ],
+   "description": "Brazilian artist whose soft, spice-scented, walk-in crocheted installations invite visitors to touch, smell and lie down, extending the Neo-Concrete tradition of sensorial participation.",
+   "description_zh": "巴西艺术家，他柔软、散发香料气味、可走入的钩织装置邀请观众触摸、闻嗅与躺下，延续了新具体主义的感官参与传统。",
+   "known_for": [
+    "Leviathan Thot (2006)",
+    "anthropodino (2009)",
+    "GaiaMotherTree (2018)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Ernesto_Neto",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Ernsto_Neto_portrait_4.JPG",
+   "based": "Rio de Janeiro, Brazil",
+   "based_zh": "里约热内卢，巴西",
+   "born": 1964,
+   "creator_id": "ernesto-neto"
+  },
+  {
+   "id": "person--min-tanaka",
+   "name": "Min Tanaka",
+   "name_zh": "田中泯",
+   "type": "artist",
+   "themes": [
+    "east-asian",
+    "movement-dance",
+    "more-than-human"
+   ],
+   "fields": [
+    "practices",
+    "movement"
+   ],
+   "description": "Japanese dancer who developed Body Weather, a training that treats the body as weather, changing with its environment, practised on his farm; it shaped Lian Loke and many dance-tech practitioners.",
+   "description_zh": "日本舞者，发展出“身体气象”（Body Weather）：把身体视为随环境变化的天气，并在他的农场修习；这一训练影响了 Lian Loke 等众多舞蹈与技术实践者。",
+   "known_for": [
+    "Body Weather (from 1978)",
+    "Hyperdance",
+    "Body Weather Farm (1985)"
+   ],
+   "url": "http://www.min-tanaka.com",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Min_Tanaka"
+    }
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/MinTanaka.HA2.jpg",
+   "based": "Yamanashi, Japan",
+   "based_zh": "山梨，日本",
+   "born": 1945,
+   "creator_id": "min-tanaka"
+  },
+  {
+   "id": "person--tehching-hsieh",
+   "name": "Tehching Hsieh",
+   "name_zh": "谢德庆",
+   "type": "artist",
+   "themes": [
+    "art",
+    "east-asian"
+   ],
+   "fields": [
+    "movement"
+   ],
+   "description": "Taiwanese-American artist whose year-long performances, punching a time clock every hour or being tied to another person, make lived time and bodily endurance the material of art.",
+   "description_zh": "台裔美国艺术家，他长达一年的行为作品（每小时打卡一次，或与他人以绳相系）把亲历的时间与身体的耐受作为艺术材料。",
+   "known_for": [
+    "Time Clock Piece (1980–81)",
+    "Rope Piece (1983–84, with Linda Montano)",
+    "Thirteen Year Plan (1986–99)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Tehching_Hsieh",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/TehchingHsiehExhibitMOMA.jpg",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "born": 1950
+  },
+  {
+   "id": "person--shen-wei",
+   "name": "Shen Wei",
+   "name_zh": "沈伟",
+   "type": "artist",
+   "themes": [
+    "east-asian",
+    "movement-dance"
+   ],
+   "fields": [
+    "movement",
+    "practices"
+   ],
+   "description": "Chinese choreographer and painter who created Natural Body Development, a movement system drawing on Chinese opera, tai chi and anatomy, and choreographed the 2008 Beijing Olympics opening scroll.",
+   "description_zh": "中国编舞家与画家，创立“自然身体发展”动作体系，汲取戏曲、太极与解剖学，并为 2008 年北京奥运会开幕式编排画卷段落。",
+   "known_for": [
+    "Natural Body Development",
+    "Folding (2000)",
+    "Connect Transfer (2004)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Shen_Wei",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Self-portrait_by_Shen_Wei.jpg",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "born": 1968
+  },
+  {
+   "id": "person--wen-hui",
+   "name": "Wen Hui",
+   "name_zh": "文慧",
+   "type": "artist",
+   "themes": [
+    "movement-dance",
+    "art",
+    "feminist"
+   ],
+   "fields": [
+    "movement"
+   ],
+   "description": "Beijing choreographer who co-founded Living Dance Studio, China's first independent dance company, and makes documentary dance from women's and everyday bodies and their memories.",
+   "description_zh": "北京编舞家，与吴文光共同创立中国第一个独立舞团“生活舞蹈工作室”，以女性与日常身体及其记忆创作纪录剧场式舞蹈。",
+   "known_for": [
+    "Living Dance Studio (co-founded 1994 with Wu Wenguang)",
+    "Report on the Body (2002)",
+    "Memory (2008)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Wen_Hui_(dancer)",
+   "based": "Beijing, China",
+   "based_zh": "北京，中国",
+   "born": 1960
+  },
+  {
+   "id": "person--eiko-otake",
+   "name": "Eiko Otake",
+   "type": "artist",
+   "themes": [
+    "east-asian",
+    "movement-dance",
+    "art"
+   ],
+   "fields": [
+    "movement"
+   ],
+   "description": "Japanese-born movement artist who, with Koma, made slow, earth-bound dances shaped by butoh study with Ohno and Hijikata; her solo 'A Body in Places' brings the fragile body into sites of disaster and memory.",
+   "description_zh": "日本出生的动作艺术家，曾与 Koma 合作，师承大野一雄、土方巽，创作缓慢、贴近大地的舞蹈；她的独舞《A Body in Places》把脆弱的身体带入灾难与记忆之地。",
+   "known_for": [
+    "Eiko & Koma (1972–2014)",
+    "A Body in Places (2014–)",
+    "Duet Project"
+   ],
+   "url": "https://www.eikootake.org/",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Eiko_%26_Koma"
+    }
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Eiko_Otake.jpg",
+   "based": "New York, US",
+   "based_zh": "纽约，美国"
+  },
+  {
+   "id": "person--lisa-park",
+   "name": "Lisa Park",
+   "type": "artist",
+   "themes": [
+    "art",
+    "biosignals",
+    "meditation"
+   ],
+   "fields": [
+    "affect"
+   ],
+   "description": "Korean-American artist whose Eunoia uses an EEG headset to turn her brainwaves and emotional states into vibrations rippling pools of water, making inner states visible through the body.",
+   "description_zh": "韩裔美国艺术家，作品《Eunoia》用脑电头戴把她的脑波与情绪状态转化为振动，在水面激起波纹，借身体让内在状态可见。",
+   "known_for": [
+    "Eunoia (2013)",
+    "Eunoia II (2014)",
+    "Blooming (2018)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Lisa_Park_(artist)",
+   "based": "New York, US",
+   "based_zh": "纽约，美国"
+  },
+  {
+   "id": "person--rafael-lozano-hemmer",
+   "name": "Rafael Lozano-Hemmer",
+   "name_zh": "拉斐尔·洛萨诺-亨默",
+   "type": "artist",
+   "themes": [
+    "art",
+    "biosignals"
+   ],
+   "fields": [
+    "affect",
+    "social"
+   ],
+   "description": "Mexican-Canadian artist whose biometric installations, such as Pulse Room, where each visitor's heartbeat makes a bulb flicker among hundreds, turn shared bodily rhythms into public space.",
+   "description_zh": "墨西哥裔加拿大艺术家，其生物识别装置如《Pulse Room》：每位观众的心跳使一盏灯泡在数百盏中闪烁，把共享的身体节律变成公共空间。",
+   "known_for": [
+    "Pulse Room (2006)",
+    "Pulse Park (2008)",
+    "Body Movies (2001)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Rafael_Lozano-Hemmer",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Lozano-Hemmer.jpg",
+   "based": "Montréal, Canada",
+   "based_zh": "蒙特利尔，加拿大",
+   "born": 1967,
+   "creator_id": "rafael-lozano-hemmer"
+  },
+  {
+   "id": "person--marco-donnarumma",
+   "name": "Marco Donnarumma",
+   "name_zh": "马可·多纳鲁马",
+   "type": "artist",
+   "themes": [
+    "art",
+    "biosignals",
+    "robots-ai"
+   ],
+   "fields": [
+    "movement",
+    "machines-xr"
+   ],
+   "description": "Italian performer and researcher who plays the sounds of his own muscles with the Xth Sense biosensor and performs with AI-driven prostheses, staging the body as unstable and hybrid.",
+   "description_zh": "意大利表演者与研究者，以 Xth Sense 生物传感器演奏自身肌肉的声音，并与 AI 驱动的义肢同台，把身体呈现为不稳定、混杂的存在。",
+   "known_for": [
+    "Xth Sense (2011)",
+    "Corpus Nil (2016)",
+    "Amygdala (2018)"
+   ],
+   "url": "http://marcodonnarumma.com",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Marco_Donnarumma"
+    }
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Marco-donnarumma_CC-BY-SA-4-0.jpg",
+   "based": "Berlin, Germany",
+   "based_zh": "柏林，德国",
+   "born": 1984,
+   "creator_id": "marco-donnarumma"
+  },
+  {
+   "id": "person--myron-krueger",
+   "name": "Myron Krueger",
+   "name_zh": "迈伦·克鲁格",
+   "type": "artist",
+   "themes": [
+    "art",
+    "xr-embodiment",
+    "play-exertion"
+   ],
+   "fields": [
+    "machines-xr",
+    "movement"
+   ],
+   "description": "Computer artist whose VIDEOPLACE let people's silhouettes play with graphics and with each other through whole-body movement, decades before motion sensing; an origin of responsive environments.",
+   "description_zh": "计算机艺术家，他的 VIDEOPLACE 让人的身影以全身动作与图形及彼此嬉戏，比动作传感早了几十年；是响应式环境的源头之一。",
+   "known_for": [
+    "VIDEOPLACE (1975)",
+    "Artificial Reality (1983)"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Myron_W._Krueger",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/MyronKrueger_DanSandin_1999.jpg",
+   "based": "US",
+   "based_zh": "美国",
+   "born": 1942,
+   "creator_id": "myron-krueger"
+  },
+  {
+   "id": "person--zhang-huan",
+   "name": "Zhang Huan",
+   "name_zh": "张洹",
+   "type": "artist",
+   "themes": [
+    "art",
+    "east-asian"
+   ],
+   "fields": [
+    "movement"
+   ],
+   "description": "Chinese artist from Beijing's East Village whose endurance performances, such as sitting covered in honey in a public latrine, use the body to register physical and social conditions.",
+   "description_zh": "出自北京东村的中国艺术家，他的耐力行为作品（如在公厕中浑身涂满蜂蜜静坐）以身体记录物质与社会的处境。",
+   "known_for": [
+    "12 Square Meters (1994)",
+    "To Add One Meter to an Anonymous Mountain (1995)",
+    "Family Tree (2000)"
+   ],
+   "url": "http://www.zhanghuan.com",
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Zhang_Huan"
+    }
+   ],
+   "based": "Shanghai, China",
+   "based_zh": "上海，中国",
+   "born": 1965
+  }
+ ]
+}

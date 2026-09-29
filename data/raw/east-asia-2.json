@@ -1,0 +1,1906 @@
+{
+ "batch": "east-asia-2",
+ "creators": [
+  {
+   "id": "aaron-pengyu-zhu",
+   "name": "Aaron Pengyu Zhu",
+   "kind": "person",
+   "role": "HCI researcher",
+   "role_zh": "人机交互研究者",
+   "based": "",
+   "based_zh": "",
+   "bio": "HCI researcher studying reflection, contemplative traditions and non-Western epistemologies in interaction design.",
+   "bio_zh": "研究反思、沉思传统与非西方认识论的人机交互研究者。",
+   "why": "Brings Daoist stillness, resonance and emergence into HCI as design resources for embodied, relational reflection.",
+   "why_zh": "他把道家的静、感应与生成带入人机交互，作为具身、关系性反思的设计资源。",
+   "disciplines": [
+    "hci",
+    "philosophy"
+   ],
+   "links": {},
+   "connected_to": [
+    "janghee-cho"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "janghee-cho",
+   "name": "Janghee Cho",
+   "kind": "person",
+   "role": "Assistant Professor, National University of Singapore",
+   "role_zh": "新加坡国立大学助理教授",
+   "based": "Singapore, SG",
+   "based_zh": "新加坡",
+   "bio": "Korean HCI researcher who studies reflection, wellbeing and everyday technology use.",
+   "bio_zh": "韩国人机交互研究者，研究反思、安适与日常技术使用。",
+   "why": "Research on reflection in HCI opens space for Asian contemplative traditions as design knowledge.",
+   "why_zh": "他对人机交互中反思的研究，为亚洲沉思传统成为设计知识打开了空间。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "aaron-pengyu-zhu"
+   ],
+   "discovered_via": "aaron-pengyu-zhu"
+  },
+  {
+   "id": "ping-hsuan-han",
+   "name": "Ping-Hsuan Han",
+   "kind": "person",
+   "role": "HCI researcher, National Taiwan University (Yi-Ping Hung's lab)",
+   "role_zh": "人机交互研究者，台湾大学（洪一平实验室）",
+   "based": "Taipei, TW",
+   "based_zh": "台北，台湾",
+   "bio": "Taiwanese researcher who builds mixed reality tools for learning embodied skills such as tai chi.",
+   "bio_zh": "台湾研究者，开发用于学习太极拳等身体技能的混合现实工具。",
+   "why": "My Tai-Chi Coaches asks how a learner can see, and so feel, a form from every side.",
+   "why_zh": "他的太极教练系统追问：学习者如何从各个方向看见、进而感受一个拳架。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "kouta-minamizawa",
+   "name": "Kouta Minamizawa",
+   "name_zh": "南泽孝太",
+   "kind": "person",
+   "role": "Professor, Keio University Graduate School of Media Design (KMD)",
+   "role_zh": "庆应义塾大学媒体设计研究科（KMD）教授",
+   "based": "Yokohama, JP",
+   "based_zh": "横滨，日本",
+   "bio": "Haptics researcher who leads the Embodied Media Project at Keio KMD, working on telexistence, haptic transmission and shared bodies.",
+   "bio_zh": "触觉研究者，主持庆应 KMD 的 Embodied Media 项目，研究远程临场、触觉传输与共享身体。",
+   "why": "The TECHTILE toolkit made touch into a material that anyone can record, play back and sketch with.",
+   "why_zh": "他的 TECHTILE 工具包让触觉成为任何人都能录制、回放和用来构思的材料。",
+   "disciplines": [
+    "engineering",
+    "hci"
+   ],
+   "links": {
+    "site": "https://embodiedmedia.org"
+   },
+   "connected_to": [
+    "tomoya-sasaki"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "tomoya-sasaki",
+   "name": "Tomoya Sasaki",
+   "kind": "person",
+   "role": "Researcher, Embodied Media Project (Keio KMD) and University of Tokyo",
+   "role_zh": "研究者，庆应 KMD Embodied Media 项目、东京大学",
+   "based": "Tokyo, JP",
+   "based_zh": "东京，日本",
+   "bio": "Japanese researcher who designs wearable robotic limbs and studies how extra limbs enter the body schema.",
+   "bio_zh": "日本研究者，设计可穿戴机械肢体，研究额外的肢体如何进入身体图式。",
+   "why": "MetaLimbs asks how new arms come to be felt as one's own.",
+   "why_zh": "MetaLimbs 追问：新的手臂如何被感受为自己的一部分。",
+   "disciplines": [
+    "engineering",
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "kouta-minamizawa"
+   ],
+   "discovered_via": "kouta-minamizawa"
+  },
+  {
+   "id": "taro-maeda",
+   "name": "Taro Maeda",
+   "name_zh": "前田太郎",
+   "kind": "person",
+   "role": "Professor, Osaka University; formerly NTT Communication Science Laboratories",
+   "role_zh": "大阪大学教授；曾任职 NTT 通信科学基础研究所",
+   "based": "Osaka, JP",
+   "based_zh": "大阪，日本",
+   "bio": "Japanese researcher in human interfaces and telexistence who led the galvanic vestibular stimulation (GVS) work at NTT.",
+   "bio_zh": "日本人机接口与远程临场研究者，在 NTT 主持电前庭刺激（GVS）研究。",
+   "why": "The NTT galvanic vestibular stimulation work showed that the sense of balance itself can be written to, not only read.",
+   "why_zh": "他的 GVS 研究说明，平衡感本身也可以被写入，而不只是被读取。",
+   "disciplines": [
+    "engineering"
+   ],
+   "links": {},
+   "connected_to": [
+    "hideyuki-ando"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "hideyuki-ando",
+   "name": "Hideyuki Ando",
+   "name_zh": "安藤英由树",
+   "kind": "person",
+   "role": "Professor, Osaka University",
+   "role_zh": "大阪大学教授",
+   "based": "Osaka, JP",
+   "based_zh": "大阪，日本",
+   "bio": "Japanese researcher and media artist working on perception, galvanic vestibular stimulation and sensory interfaces.",
+   "bio_zh": "日本研究者与媒体艺术家，研究感知、电前庭刺激与感官接口。",
+   "why": "Turns perceptual research into art that lets visitors feel their own sensing.",
+   "why_zh": "他把感知研究转化为艺术，让观众感受到自己的感知过程。",
+   "disciplines": [
+    "engineering",
+    "art"
+   ],
+   "links": {},
+   "connected_to": [
+    "taro-maeda"
+   ],
+   "discovered_via": "taro-maeda"
+  },
+  {
+   "id": "jun-nishida",
+   "name": "Jun Nishida",
+   "name_zh": "西田惇",
+   "kind": "person",
+   "role": "Assistant Professor, University of Maryland; director of the Embodied Dynamics Lab",
+   "role_zh": "马里兰大学助理教授，Embodied Dynamics Lab 主任",
+   "based": "College Park, US",
+   "based_zh": "大学公园市，美国",
+   "bio": "Japanese researcher who designs wearables that let people borrow each other's bodies: EMS devices that share muscle activity and rigs that give you a child's eye height; previously at the University of Tsukuba and the University of Chicago.",
+   "bio_zh": "日本研究者，设计让人“借用”彼此身体的可穿戴设备：共享肌肉活动的电刺激装置、给你儿童视高的头戴装置；曾在筑波大学与芝加哥大学工作。",
+   "why": "The devices make another person's bodily experience felt in one's own body, a technology of kinesthetic empathy.",
+   "why_zh": "他的设备让他人的身体经验在自己的身体里被感受到，是一种动觉共情的技术。",
+   "disciplines": [
+    "hci",
+    "engineering"
+   ],
+   "links": {
+    "site": "https://junnishida.net"
+   },
+   "connected_to": [
+    "shunichi-kasahara"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "shunichi-kasahara",
+   "name": "Shunichi Kasahara",
+   "name_zh": "笠原俊一",
+   "kind": "person",
+   "role": "Researcher, Sony Computer Science Laboratories; Cybernetic Humanity Studio",
+   "role_zh": "索尼计算机科学研究所研究员，Cybernetic Humanity Studio",
+   "based": "Tokyo, JP",
+   "based_zh": "东京，日本",
+   "bio": "Japanese researcher who studies the sense of agency and self in human augmentation.",
+   "bio_zh": "日本研究者，研究人类增强中的能动感与自我感。",
+   "why": "Asks when a movement assisted by a machine still feels like 'I did it'.",
+   "why_zh": "他追问：一个由机器辅助完成的动作，何时仍然让人感到“是我做的”。",
+   "disciplines": [
+    "hci",
+    "health"
+   ],
+   "links": {},
+   "connected_to": [
+    "jun-nishida"
+   ],
+   "discovered_via": "jun-nishida"
+  },
+  {
+   "id": "shigeo-yoshida",
+   "name": "Shigeo Yoshida",
+   "name_zh": "吉田成朗",
+   "kind": "person",
+   "role": "Researcher, OMRON SINIC X; formerly University of Tokyo",
+   "role_zh": "OMRON SINIC X 研究员；曾任职东京大学",
+   "based": "Tokyo, JP",
+   "based_zh": "东京，日本",
+   "bio": "Japanese researcher on how altered bodily feedback, such as one's own facial expression, changes emotion and behaviour.",
+   "bio_zh": "日本研究者，研究被改变的身体反馈（如自己的表情）如何改变情绪与行为。",
+   "why": "The Incendiary Reflection mirror shows that emotion can travel from the felt face inward, not only from mind to face.",
+   "why_zh": "他的镜子作品说明，情绪可以从被感知的脸向内传递，而不只是从心到脸。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": "http://www.shigeodayo.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "kyung-yun-choi",
+   "name": "Kyung Yun Choi",
+   "kind": "person",
+   "role": "Researcher; PhD, MIT Media Lab",
+   "role_zh": "研究者，MIT 媒体实验室博士",
+   "based": "Cambridge, MA, US",
+   "based_zh": "剑桥（马萨诸塞州），美国",
+   "bio": "Korean designer-researcher who builds tactile and pneumatic wearables that guide heart rate and breathing through gentle rhythms on the skin.",
+   "bio_zh": "韩国设计研究者，开发触觉与气动可穿戴设备，通过皮肤上的柔和节律引导心率与呼吸。",
+   "why": "These devices regulate the body by offering it a rhythm to fall into, rather than by instructing the mind.",
+   "why_zh": "她的设备通过给身体一个可以跟随的节律来调节身体，而不是向头脑发出指令。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "zhuying-li",
+   "name": "Zhuying Li",
+   "kind": "person",
+   "role": "HCI researcher; PhD, Exertion Games Lab (RMIT and Monash)",
+   "role_zh": "人机交互研究者；Exertion Games Lab（RMIT、莫纳什大学）博士",
+   "based": "",
+   "based_zh": "",
+   "bio": "Chinese HCI researcher whose doctoral work founded 'ingestible play', games played with sensors swallowed into the body.",
+   "bio_zh": "中国人机交互研究者，其博士研究开创了“可吞咽游戏”：用吞入体内的传感器进行的游戏。",
+   "why": "Ingestible play turns the inside of the body, usually invisible and unfelt, into a playground.",
+   "why_zh": "她把平时看不见、也感觉不到的身体内部变成了游戏场。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "xinglin-sun",
+   "name": "Xinglin Sun",
+   "kind": "person",
+   "role": "HCI researcher",
+   "role_zh": "人机交互研究者",
+   "based": "",
+   "based_zh": "",
+   "bio": "HCI researcher who designs embodied probes for adolescent mental health.",
+   "bio_zh": "设计面向青少年心理健康的具身探针的人机交互研究者。",
+   "why": "The Embodied Probes workshops let teenage girls speak about stress through their bodies before words.",
+   "why_zh": "她的工作坊让少女先用身体、再用语言谈论压力。",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ziyue-piao",
+   "name": "Ziyue Piao",
+   "kind": "person",
+   "role": "Researcher, McGill University (Input Devices and Music Interaction Laboratory)",
+   "role_zh": "麦吉尔大学研究者（输入设备与音乐交互实验室）",
+   "based": "Montreal, CA",
+   "based_zh": "蒙特利尔，加拿大",
+   "bio": "Researcher in music technology who studies performers' breathing and somatic experience.",
+   "bio_zh": "音乐科技研究者，研究演奏者的呼吸与身体经验。",
+   "why": "Breathing Mirror connects breath data to performers' own first-person recall of what their body did.",
+   "why_zh": "她把呼吸数据与演奏者对自己身体的第一人称回忆联系起来。",
+   "disciplines": [
+    "hci",
+    "dance"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "botao-amber-hu",
+   "name": "Botao 'Amber' Hu",
+   "kind": "person",
+   "role": "Researcher, University of Oxford; founder of Reality Design Lab; inventor of HoloKit",
+   "role_zh": "牛津大学研究者；Reality Design Lab 创始人；HoloKit 发明者",
+   "based": "Oxford, UK / Beijing, CN",
+   "based_zh": "牛津，英国／北京，中国",
+   "bio": "Designer and researcher (Tsinghua BS, Stanford MS in AI) who leads Reality Design Lab's work on embodied, social mixed reality and XR soma design; his group's works have been shown at SIGGRAPH, CHI, TEI and Ars Electronica.",
+   "bio_zh": "设计师与研究者（清华大学本科、斯坦福大学人工智能硕士），主持 Reality Design Lab 关于具身、社交混合现实与 XR 身体设计的研究；团队作品在 SIGGRAPH、CHI、TEI 与 Ars Electronica 展出。",
+   "why": "Reality Design Lab treats mixed reality as a medium for intercorporeal, felt experience and teaches XR soma design.",
+   "why_zh": "他把混合现实当作身体间的、被感受的经验媒介，并教授 XR 身体设计课程。",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {
+    "site": "https://reality.design",
+    "scholar": "https://scholar.google.com/citations?user=CL-VmpYAAAAJ"
+   },
+   "connected_to": [
+    "jiabao-li",
+    "danlin-huang",
+    "rem-rungu-lin",
+    "ke-huang"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "rem-rungu-lin",
+   "name": "Rem RunGu Lin",
+   "kind": "person",
+   "role": "Media artist and researcher; Reality Design Lab collaborator",
+   "role_zh": "媒体艺术家与研究者；Reality Design Lab 合作者",
+   "based": "China",
+   "based_zh": "中国",
+   "bio": "Media artist and researcher who combines contact improvisation, neurofeedback and mixed reality; co-teaches XR soma design with Botao Amber Hu.",
+   "bio_zh": "媒体艺术家与研究者，把接触即兴、神经反馈与混合现实结合；与胡博涛合作教授 XR 身体设计。",
+   "why": "Cell Space extends intercorporeality from touching bodies to shared biosignals.",
+   "why_zh": "他的作品把身体间性从相互触碰的身体延伸到共享的生物信号。",
+   "disciplines": [
+    "art",
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "botao-amber-hu"
+   ],
+   "discovered_via": "botao-amber-hu"
+  },
+  {
+   "id": "ke-huang",
+   "name": "Ke Huang",
+   "kind": "person",
+   "role": "Artist and designer; Reality Design Lab collaborator",
+   "role_zh": "艺术家、设计师；Reality Design Lab 合作者",
+   "based": "Beijing, CN",
+   "based_zh": "北京，中国",
+   "bio": "Designer who directs Reality Design Lab's kinetic and machine-vision installations Cybroc and Body Oracle.",
+   "bio_zh": "设计师，主导 Reality Design Lab 的动态与机器视觉装置《Cybroc》和《Body Oracle》。",
+   "why": "Body Oracle turns postures into written characters, asking how a script could make bodies more aware of one another.",
+   "why_zh": "《Body Oracle》把姿势变成文字，追问一种书写系统如何让身体更觉察彼此。",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {},
+   "connected_to": [
+    "botao-amber-hu",
+    "danlin-huang"
+   ],
+   "discovered_via": "botao-amber-hu"
+  },
+  {
+   "id": "danlin-huang",
+   "name": "Danlin Huang",
+   "kind": "person",
+   "role": "Artist, designer-researcher and AR developer; Reality Design Lab",
+   "role_zh": "艺术家、设计研究者与 AR 开发者；Reality Design Lab",
+   "based": "China",
+   "based_zh": "中国",
+   "bio": "Trained in industrial design and media art at the China Academy of Art; uses XR, biosensors and AI to enrich bodily experience; lead designer of FeltSight.",
+   "bio_zh": "毕业于中国美术学院工业设计与媒体艺术专业，用 XR、生物传感与 AI 丰富身体经验；FeltSight 的主设计师。",
+   "why": "FeltSight designs for touch and proximity as ways of knowing, shifting attention away from vision.",
+   "why_zh": "她把触觉与接近感作为认识方式来设计，把注意力从视觉转开。",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {},
+   "connected_to": [
+    "botao-amber-hu"
+   ],
+   "discovered_via": "botao-amber-hu"
+  },
+  {
+   "id": "whitefeather-hunter",
+   "name": "WhiteFeather Hunter",
+   "kind": "person",
+   "role": "Bioartist and researcher",
+   "role_zh": "生物艺术家、研究者",
+   "based": "",
+   "based_zh": "",
+   "bio": "Artist and researcher working with tissue culture, bioart and feminist technoscience.",
+   "bio_zh": "从事组织培养、生物艺术与女性主义技术科学的艺术家与研究者。",
+   "why": "Sentient Clit, made with Jiabao Li, grows tissue from menstrual cells to question who owns pleasure in biotech.",
+   "why_zh": "她与李佳宝一起用经血细胞培养组织，追问生物技术中谁拥有愉悦。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "connected_to": [
+    "jiabao-li"
+   ],
+   "discovered_via": "jiabao-li"
+  },
+  {
+   "id": "dianya-mia-hua",
+   "name": "Dianya Mia Hua",
+   "kind": "person",
+   "role": "HCI and design researcher",
+   "role_zh": "人机交互与设计研究者",
+   "based": "",
+   "based_zh": "",
+   "bio": "HCI researcher working on somaesthetic, feminist and disability-informed design for sexual wellbeing.",
+   "bio_zh": "研究身体美学、女性主义与残障视角下性健康设计的人机交互研究者。",
+   "why": "Uses the researcher's own body and embroidery as design resources for women's pleasure.",
+   "why_zh": "以研究者自己的身体与刺绣作为女性愉悦设计的资源。",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "connected_to": [
+    "jeffrey-bardzell",
+    "shaowen-bardzell"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "wonjun-lee",
+   "name": "Wonjun Lee",
+   "kind": "person",
+   "role": "Design researcher; KAIST Department of Industrial Design (at the time of the study)",
+   "role_zh": "设计研究者；研究时就读于韩国科学技术院工业设计系",
+   "based": "Daejeon, KR",
+   "based_zh": "大田，韩国",
+   "bio": "Korean design researcher who, with Youn-kyung Lim and Richard Shusterman, tested somaesthetic practice as preparation for product ideation.",
+   "bio_zh": "韩国设计研究者，与 Youn-kyung Lim 和 Richard Shusterman 合作，检验身体美学练习作为产品构思前准备的效果。",
+   "why": "One of the first empirical studies of training designers' somaesthetic awareness before they design.",
+   "why_zh": "最早在设计之前训练设计者身体美学觉察力的实证研究之一。",
+   "disciplines": [
+    "design",
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "richard-shusterman"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "michi-kanda",
+   "name": "Michi Kanda",
+   "kind": "person",
+   "role": "Researcher, Keio University Graduate School of Media Design (KMD)",
+   "role_zh": "庆应义塾大学媒体设计研究科（KMD）研究者",
+   "based": "Yokohama, JP",
+   "based_zh": "横滨，日本",
+   "bio": "Japanese researcher designing somaesthetic toolkits with and for people with visual impairment.",
+   "bio_zh": "日本研究者，与视障人士一起、为视障人士设计身体美学工具包。",
+   "why": "Treats the heightened somatic sensitivity of blind and low-vision people as expertise for soma design.",
+   "why_zh": "把盲人与低视力人士更敏锐的身体感受力视为身体设计的专长。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "sputniko",
+   "name": "Sputniko! (Hiromi Ozaki)",
+   "kind": "person",
+   "role": "Artist and designer",
+   "role_zh": "艺术家、设计师",
+   "based": "Tokyo, JP",
+   "based_zh": "东京，日本",
+   "bio": "Japanese artist and designer (born 1985) known for speculative films and devices about technology and gender; trained in Design Interactions at the Royal College of Art.",
+   "bio_zh": "日本艺术家与设计师（1985 年生），以关于技术与性别的思辨影片和装置闻名，毕业于英国皇家艺术学院设计互动专业。",
+   "why": "Menstruation Machine lets people who do not menstruate feel its pain and bleeding in their own body.",
+   "why_zh": "《月经机器》让不来月经的人在自己身体上感受月经的疼痛与出血。",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {
+    "site": "https://sputniko.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "haiyan-zhang",
+   "name": "Haiyan Zhang",
+   "kind": "person",
+   "role": "Designer and engineer; Director of Innovation, Microsoft Research",
+   "role_zh": "设计师与工程师；微软研究院创新总监",
+   "based": "Cambridge, UK",
+   "based_zh": "剑桥，英国",
+   "bio": "China-born Australian designer and engineer at Microsoft Research who builds assistive and playful technologies; featured on the BBC's Big Life Fix.",
+   "bio_zh": "生于中国的澳大利亚设计师与工程师，在微软研究院开发辅助性与游戏性的技术，曾参与 BBC 节目《Big Life Fix》。",
+   "why": "The Emma Watch shows how a vibration felt on the wrist can quiet a tremor enough for a designer with Parkinson's to draw again.",
+   "why_zh": "Emma Watch 说明了腕部被感受到的振动如何能平息震颤，让一位帕金森病设计师重新画画。",
+   "disciplines": [
+    "design",
+    "engineering"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "takanori-shibata",
+   "name": "Takanori Shibata",
+   "name_zh": "柴田崇德",
+   "kind": "person",
+   "role": "Chief senior research scientist, AIST (National Institute of Advanced Industrial Science and Technology)",
+   "role_zh": "日本产业技术综合研究所首席研究员",
+   "based": "Tsukuba, JP",
+   "based_zh": "筑波，日本",
+   "bio": "Japanese roboticist who has developed PARO, a therapeutic seal robot, since 1993.",
+   "bio_zh": "日本机器人学家，自 1993 年起开发治疗型海豹机器人 PARO。",
+   "why": "PARO is a robot meant to be touched and held, bringing animal-assisted calm to people in care.",
+   "why_zh": "PARO 是一台为被抚摸、被抱着而设计的机器人，把类似动物辅助疗法的安定带给被照护的人。",
+   "disciplines": [
+    "engineering",
+    "health"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Paro_(robot)"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "aaron-pengyu-zhu--daoism-reflection",
+   "creator_ids": [
+    "aaron-pengyu-zhu",
+    "janghee-cho"
+   ],
+   "title": "Toward Pluralizing Reflection in HCI through Daoism",
+   "year": 2026,
+   "field": "foundations",
+   "sub": "hci-theory",
+   "also": [
+    "methods"
+   ],
+   "modalities": [
+    "whole-soma",
+    "breath"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "attunement",
+    "more-than-human"
+   ],
+   "kind": "paper",
+   "description": "Drawing on Daoist texts and interviews with 18 Daoist practitioners, scholars and priests, the paper describes everyday reflection as Stillness, Resonance and Emergence, and proposes 'reflecting-with' rather than reflecting on oneself.",
+   "description_zh": "论文以道家文献以及对 18 位道家修行者、学者与道士的访谈为基础，把日常反思描述为“静”“感应”“生成”三个维度，并提出“与之共同反思”而不是只反思自身。",
+   "idea_en": "Reflection need not be a mind looking back at data: in Daoist practice it is embodied, relational and emerges from stillness with the world.",
+   "idea_zh": "反思不必是头脑回看数据：在道家实践中，它是具身的、关系性的，从与世界一同静下来的状态中生成。",
+   "method": "Qualitative study combining textual analysis of Daoist literature with semi-structured interviews, analysed thematically for HCI design implications.",
+   "method_zh": "质性研究，结合道家文献的文本分析与半结构访谈，并通过主题分析提出人机交互设计启示。",
+   "keywords": [
+    "Daoism",
+    "道家",
+    "reflection",
+    "Stillness",
+    "Resonance",
+    "Emergence",
+    "CHI 2026"
+   ],
+   "paper": {
+    "arxiv": "2601.22831",
+    "url": "https://arxiv.org/abs/2601.22831",
+    "venue": "CHI 2026",
+    "title": "Toward Pluralizing Reflection in HCI through Daoism"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "ping-hsuan-han--my-tai-chi-coaches",
+   "creator_ids": [
+    "ping-hsuan-han"
+   ],
+   "title": "My Tai-Chi Coaches",
+   "year": 2017,
+   "field": "machines-xr",
+   "sub": "xr-virtual-body",
+   "also": [
+    "practices"
+   ],
+   "modalities": [
+    "movement",
+    "posture-balance",
+    "light-vision"
+   ],
+   "lenses": [
+    "movement-expression",
+    "attunement"
+   ],
+   "kind": "prototype",
+   "description": "A head-mounted augmented reality tool in which several virtual tai chi coaches surround the learner, so that whichever way the learner turns during the form, a coach is in view to follow.",
+   "description_zh": "一个头戴式增强现实工具：多个虚拟太极教练围绕在学习者周围，无论学习者在拳架中转向哪个方向，眼前都有一位教练可以跟随。",
+   "idea_en": "Learning a form is learning from many viewpoints; placing the teacher's body around the learner keeps attention on one's own movement instead of on turning to look.",
+   "idea_zh": "学拳架需要从多个视角学习；把教练的身体安排在学习者四周，能让注意力留在自己的动作上，而不是用在转头观看上。",
+   "method": "Virtual coach avatars rendered in a head-mounted display around the learner's tracked position, likely evaluated with novice tai chi learners at National Taiwan University (Yi-Ping Hung's group).",
+   "method_zh": "在头戴显示器中，把虚拟教练化身呈现在被追踪的学习者四周，很可能在台湾大学（洪一平团队）与太极初学者一起做了评估。",
+   "keywords": [
+    "tai chi",
+    "太极拳",
+    "augmented reality",
+    "motor learning",
+    "coach",
+    "HMD"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3041164.3041194",
+    "doi": "10.1145/3041164.3041194",
+    "venue": "Augmented Human 2017",
+    "title": "My Tai-Chi coaches: an augmented-learning tool for practicing Tai-Chi Chuan"
+   }
+  },
+  {
+   "id": "kouta-minamizawa--techtile-toolkit",
+   "creator_ids": [
+    "kouta-minamizawa"
+   ],
+   "title": "TECHTILE Toolkit",
+   "year": 2012,
+   "field": "methods",
+   "sub": "material-exploration",
+   "also": [
+    "somaesthetic"
+   ],
+   "modalities": [
+    "touch",
+    "vibration",
+    "voice-sound"
+   ],
+   "lenses": [
+    "touching-back",
+    "first-person",
+    "attunement"
+   ],
+   "kind": "method",
+   "description": "A kit of a microphone, an amplifier and vibration actuators that lets anyone record the feel of an action, such as pouring marbles into a cup, and play it back into another object or hand; used in workshops where people sketch with touch.",
+   "description_zh": "一套由麦克风、放大器与振动器组成的工具包，任何人都能录下某个动作的触感（如把弹珠倒进杯子），再回放到另一个物体或手上；常用于用触觉来构思的工作坊。",
+   "idea_en": "Touch becomes a design material once it can be recorded and replayed: designers learn by feeling and remixing textures with their own hands.",
+   "idea_zh": "触觉一旦可以被录制和回放，就成为设计材料：设计者通过亲手感受并重新组合质感来学习。",
+   "method": "Audio-based haptic recording: contact microphones capture vibration, which is amplified and sent to voice-coil actuators attached to cups, paper or skin.",
+   "method_zh": "基于音频的触觉录制：接触式麦克风捕捉振动，经放大后传给贴在杯子、纸或皮肤上的音圈振动器。",
+   "keywords": [
+    "TECHTILE",
+    "haptics",
+    "触觉",
+    "toolkit",
+    "workshop",
+    "haptic sketching",
+    "Keio KMD"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=eoztAbSlpfU"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/2343456.2343478",
+    "doi": "10.1145/2343456.2343478",
+    "venue": "SIGGRAPH 2012 Emerging Technologies",
+    "title": "TECHTILE toolkit: a prototyping tool for designing haptic media"
+   }
+  },
+  {
+   "id": "tomoya-sasaki--metalimbs",
+   "creator_ids": [
+    "tomoya-sasaki",
+    "kouta-minamizawa"
+   ],
+   "title": "MetaLimbs",
+   "year": 2017,
+   "field": "machines-xr",
+   "sub": "robots-drones",
+   "modalities": [
+    "movement",
+    "posture-balance"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "estrangement"
+   ],
+   "kind": "prototype",
+   "description": "Two robotic arms mounted on the wearer's back are controlled by the wearer's own legs and feet, so that after practice the person uses four arms to hold, reach and solder at once.",
+   "description_zh": "两条装在穿戴者背后的机械臂由穿戴者自己的腿和脚来控制，经过练习后，人可以用四条手臂同时拿、够、焊接。",
+   "idea_en": "The body schema is plastic: with direct, continuous control, new limbs start to feel like part of one's own body rather than a tool.",
+   "idea_zh": "身体图式是可塑的：在直接、连续的控制下，新的肢体开始被感受为自己身体的一部分，而不是工具。",
+   "method": "Backpack-mounted robot arms mapped to foot and knee positions tracked by motion sensors, with toe-controlled grippers and haptic feedback at the feet (Keio KMD with Masahiko Inami's lab).",
+   "method_zh": "背负式机械臂，映射到由运动传感器追踪的脚与膝的位置，脚趾控制夹爪，脚部有触觉反馈（庆应 KMD 与稻见昌彦实验室合作）。",
+   "keywords": [
+    "MetaLimbs",
+    "supernumerary limbs",
+    "body schema",
+    "JIZAI body",
+    "Embodied Media",
+    "Inami"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=NIuIiI5mVhI"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3084822.3084837",
+    "doi": "10.1145/3084822.3084837",
+    "venue": "SIGGRAPH 2017 Emerging Technologies",
+    "title": "MetaLimbs: multiple arms interaction metamorphism"
+   }
+  },
+  {
+   "id": "taro-maeda--shaking-the-world",
+   "creator_ids": [
+    "taro-maeda",
+    "hideyuki-ando"
+   ],
+   "title": "Shaking the World / Save YourSelf!!!",
+   "year": 2005,
+   "field": "somaesthetic",
+   "sub": "actuation",
+   "also": [
+    "machines-xr"
+   ],
+   "modalities": [
+    "posture-balance",
+    "whole-soma"
+   ],
+   "lenses": [
+    "estrangement",
+    "touching-back"
+   ],
+   "kind": "prototype",
+   "description": "A headset passes weak currents behind the ears (galvanic vestibular stimulation) so the wearer feels pulled left or right; the related art piece Save YourSelf!!! lets visitors feel their balance being shifted from outside.",
+   "description_zh": "头戴装置在耳后施加微弱电流（电前庭刺激），让穿戴者感到被向左或向右拉；相关艺术作品《Save YourSelf!!!》让观众感受到自己的平衡被外力改变。",
+   "idea_en": "Balance is felt, not given: when technology writes directly to the vestibular sense, the ground itself seems to move and the body's certainty becomes strange.",
+   "idea_zh": "平衡是被感受出来的，而不是既定的：当技术直接写入前庭觉时，地面仿佛在动，身体的确定感变得陌生。",
+   "method": "Bilateral GVS electrodes on the mastoids driven by a small current controller; the art version likely drives the current from sensor input.",
+   "method_zh": "在乳突处放置双侧电前庭刺激电极，由小型电流控制器驱动；艺术版本很可能以传感器输入来驱动电流。",
+   "keywords": [
+    "galvanic vestibular stimulation",
+    "GVS",
+    "前庭",
+    "balance",
+    "NTT",
+    "Save YourSelf!!!"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=jPeWwvsnaaQ"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/1187297.1187315",
+    "doi": "10.1145/1187297.1187315",
+    "venue": "SIGGRAPH 2005 Emerging Technologies",
+    "title": "Shaking the world: galvanic vestibular stimulation as a novel sensation interface"
+   }
+  },
+  {
+   "id": "jun-nishida--biosync",
+   "creator_ids": [
+    "jun-nishida"
+   ],
+   "title": "bioSync",
+   "year": 2017,
+   "field": "social",
+   "sub": "synchrony",
+   "also": [
+    "care"
+   ],
+   "modalities": [
+    "muscle",
+    "movement",
+    "touch"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "care-healing"
+   ],
+   "kind": "prototype",
+   "description": "A pair of wearables that read muscle activity from one person and play it into another person's muscles through electrical stimulation, so that, for example, a therapist can feel a patient's tremor or stiffness in their own arm.",
+   "description_zh": "一对可穿戴设备：读取一个人的肌肉活动，并通过电刺激传到另一个人的肌肉中；例如治疗师可以在自己的手臂上感受到患者的震颤或僵硬。",
+   "idea_en": "Empathy can be kinesthetic: feeling another's movement in your own muscles gives an understanding that watching cannot.",
+   "idea_zh": "共情可以是动觉的：在自己的肌肉中感受他人的动作，能获得旁观无法带来的理解。",
+   "method": "Wearable electrodes that switch between EMG sensing and EMS actuation, linking two people bidirectionally in real time.",
+   "method_zh": "可在肌电感测与肌肉电刺激之间切换的可穿戴电极，实时双向连接两个人。",
+   "keywords": [
+    "bioSync",
+    "EMS",
+    "EMG",
+    "kinesthetic empathy",
+    "rehabilitation",
+    "shared body"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=vOyt4pA6wow"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3025453.3025829",
+    "doi": "10.1145/3025453.3025829",
+    "venue": "CHI 2017",
+    "title": "bioSync: A Paired Wearable Device for Blending Kinesthetic Experience"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "jun-nishida--smaller-person-experience",
+   "creator_ids": [
+    "jun-nishida"
+   ],
+   "title": "Egocentric Smaller-Person Experience",
+   "year": 2019,
+   "field": "machines-xr",
+   "sub": "xr-virtual-body",
+   "modalities": [
+    "light-vision",
+    "movement",
+    "posture-balance"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "estrangement"
+   ],
+   "kind": "prototype",
+   "description": "A wearable visual translator lowers the wearer's eye level to waist height, so adults see and move through a nursing school or museum from a child's viewpoint.",
+   "description_zh": "一种可穿戴的视觉转换装置，把穿戴者的视线高度降到腰部，让成年人以儿童的视角观看和穿行于护理学校或博物馆中。",
+   "idea_en": "Changing only the height of the eyes changes the felt size of the body, and with it how people act toward objects and others.",
+   "idea_zh": "只改变眼睛的高度，就会改变身体被感受到的大小，也随之改变人对物与他人的行动方式。",
+   "method": "Head-mounted display fed by a waist-mounted stereo camera that follows head movements, tested in field studies with nursing students and museum visitors.",
+   "method_zh": "头戴显示器接收腰部立体摄像头的画面，摄像头随头部转动；在护理学生与博物馆观众中进行实地研究。",
+   "keywords": [
+    "perspective",
+    "child",
+    "body representation",
+    "HMD",
+    "empathy",
+    "Jun Nishida"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ZkZjfqo6h3I"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3290605.3300926",
+    "doi": "10.1145/3290605.3300926",
+    "venue": "CHI 2019",
+    "title": "Egocentric Smaller-person Experience through a Change in Visual Perspective"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "shunichi-kasahara--preemptive-action",
+   "creator_ids": [
+    "shunichi-kasahara",
+    "jun-nishida"
+   ],
+   "title": "Preemptive Action",
+   "year": 2019,
+   "field": "somaesthetic",
+   "sub": "actuation",
+   "also": [
+    "machines-xr"
+   ],
+   "modalities": [
+    "muscle",
+    "movement"
+   ],
+   "lenses": [
+    "first-person",
+    "body-mind-unity"
+   ],
+   "kind": "prototype",
+   "description": "Electrical muscle stimulation makes the user's hand react faster than it would alone, and by timing the stimulation just before the person's own reaction, users still feel that they moved.",
+   "description_zh": "肌肉电刺激让使用者的手比自身反应更快地动作；通过把刺激时机安排在本人即将反应之前，使用者仍会觉得是自己在动。",
+   "idea_en": "The sense of 'I did it' depends on timing: assistance that arrives in step with one's intention is felt as one's own movement.",
+   "idea_zh": "“是我做的”这种感觉取决于时机：与意图同步到来的辅助，会被感受为自己的动作。",
+   "method": "Reaction-time studies varying EMS onset relative to natural reaction, with sense-of-agency ratings (with Pedro Lopes, University of Chicago).",
+   "method_zh": "反应时实验，改变电刺激相对于自然反应的起始时间，并测量能动感评分（与芝加哥大学 Pedro Lopes 合作）。",
+   "keywords": [
+    "sense of agency",
+    "EMS",
+    "reaction time",
+    "human augmentation",
+    "Sony CSL"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=1BT8REEJibM"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3290605.3300873",
+    "doi": "10.1145/3290605.3300873",
+    "venue": "CHI 2019",
+    "title": "Preemptive Action: Accelerating Human Reaction using Electrical Muscle Stimulation Without Compromising Agency"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "shigeo-yoshida--incendiary-reflection",
+   "creator_ids": [
+    "shigeo-yoshida"
+   ],
+   "title": "Incendiary Reflection",
+   "year": 2013,
+   "field": "affect",
+   "sub": "affective-loops",
+   "modalities": [
+    "light-vision",
+    "whole-soma"
+   ],
+   "lenses": [
+    "affective-loop",
+    "body-mind-unity"
+   ],
+   "kind": "prototype",
+   "description": "A mirror-like display subtly deforms the viewer's face in real time into a slight smile or frown; people who see themselves smiling report feeling more positive and rate things more favourably.",
+   "description_zh": "一面类似镜子的显示屏实时轻微改变观看者的面孔，使之略带微笑或愁容；看到自己在微笑的人会报告情绪更积极，对事物的评价也更正面。",
+   "idea_en": "Emotion flows from the felt and seen face inward: changing the body's expression changes the feeling, not only the other way round.",
+   "idea_zh": "情绪会从被感受、被看见的面孔向内流动：改变身体的表情就会改变感受，而不只是反过来。",
+   "method": "Camera and real-time facial image warping shown on a display framed as a mirror, with studies on emotion and preference (University of Tokyo, Hirose-Narumi lab).",
+   "method_zh": "摄像头加实时面部图像变形，呈现在镜框式显示屏上，并进行情绪与偏好实验（东京大学广濑-鸣海实验室）。",
+   "keywords": [
+    "facial feedback",
+    "emotion",
+    "mirror",
+    "扇情的な鏡",
+    "Takuji Narumi",
+    "affective loop"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=1ORSFameZZI"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/2459236.2459243",
+    "doi": "10.1145/2459236.2459243",
+    "venue": "Augmented Human 2013",
+    "title": "Manipulation of an emotional experience by real-time deformed facial feedback"
+   },
+   "source_url": "http://www.shigeodayo.com/incendiary_reflection.html"
+  },
+  {
+   "id": "kyung-yun-choi--ambienbeat",
+   "creator_ids": [
+    "kyung-yun-choi"
+   ],
+   "title": "ambienBeat",
+   "year": 2020,
+   "field": "affect",
+   "sub": "interoception",
+   "also": [
+    "care"
+   ],
+   "modalities": [
+    "heartbeat",
+    "vibration",
+    "touch"
+   ],
+   "lenses": [
+    "attunement",
+    "care-healing"
+   ],
+   "kind": "prototype",
+   "description": "A wristband that taps a gentle pulse on the skin at a rhythm slightly slower than the wearer's heart rate, helping the heart settle without the wearer having to watch a screen or follow instructions.",
+   "description_zh": "一款腕带，以略慢于佩戴者心率的节律在皮肤上轻轻敲击，帮助心跳平缓下来，佩戴者无需看屏幕或遵循指令。",
+   "idea_en": "The body entrains to rhythms it feels: a calm beat on the skin can guide the heart below the level of deliberate effort.",
+   "idea_zh": "身体会与它感受到的节律同步：皮肤上平静的拍子可以在刻意努力之外引导心跳。",
+   "method": "Wrist-worn tactile actuator paired with heart rate sensing, delivering a personalised 'calming heartbeat' pattern (MIT Media Lab, Tangible Media Group).",
+   "method_zh": "腕戴触觉振动器结合心率感测，提供个性化的“安定心跳”节律（MIT 媒体实验室 Tangible Media Group）。",
+   "keywords": [
+    "heart rate",
+    "biofeedback",
+    "entrainment",
+    "tactile",
+    "wristband",
+    "calm"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=5SzRCJtwrxg"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3374920.3374938",
+    "doi": "10.1145/3374920.3374938",
+    "venue": "TEI 2020",
+    "title": "ambienBeat: Wrist-worn Mobile Tactile Biofeedback for Heart Rate Rhythmic Regulation"
+   },
+   "collections": [
+    "tei"
+   ]
+  },
+  {
+   "id": "kyung-yun-choi--aspire",
+   "creator_ids": [
+    "kyung-yun-choi"
+   ],
+   "title": "aSpire",
+   "year": 2021,
+   "field": "somaesthetic",
+   "sub": "breath",
+   "also": [
+    "care"
+   ],
+   "modalities": [
+    "breath",
+    "shape-change",
+    "touch"
+   ],
+   "lenses": [
+    "attunement",
+    "touching-back",
+    "care-healing"
+   ],
+   "kind": "prototype",
+   "description": "A small pneumatic device clipped to a strap or belt inflates air pouches against the body at a slow, personalised rhythm, and breathing tends to follow; tested with car passengers during real commutes.",
+   "description_zh": "一个夹在背带或腰带上的小型气动装置，以缓慢、个性化的节律让气囊贴着身体充气，呼吸会随之放慢；在真实通勤中与乘车者一起测试。",
+   "idea_en": "Breath can be guided by touch rather than by instruction: a soft rhythm on the body invites slower breathing without adding mental load.",
+   "idea_zh": "呼吸可以由触摸而不是指令来引导：身体上柔和的节律邀请呼吸放慢，而不会增加心理负担。",
+   "method": "Array of individually inflating air pouches driven by a mobile pump and valves, with adjustable pattern, intensity and frequency (MIT Media Lab).",
+   "method_zh": "由移动气泵与阀门驱动的可独立充放气的气囊阵列，模式、强度与频率可调（MIT 媒体实验室）。",
+   "keywords": [
+    "aSpire",
+    "breathing",
+    "呼吸",
+    "pneumatic haptics",
+    "inflatable",
+    "stress"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=2aIHXcMv-qM"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3411763.3451602",
+    "doi": "10.1145/3411763.3451602",
+    "venue": "CHI 2021 Extended Abstracts",
+    "title": "aSpire: Clippable, Mobile Pneumatic-Haptic Device for Breathing Rate Regulation via Personalizable Tactile Feedback"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "zhuying-li--guts-game",
+   "creator_ids": [
+    "zhuying-li"
+   ],
+   "title": "The Guts Game",
+   "year": 2018,
+   "field": "movement",
+   "sub": "exertion-play",
+   "also": [
+    "affect"
+   ],
+   "modalities": [
+    "pain-interoception",
+    "heat",
+    "whole-soma"
+   ],
+   "lenses": [
+    "pleasure-play",
+    "first-person",
+    "body-data"
+   ],
+   "kind": "prototype",
+   "description": "Two players each swallow a temperature-sensing capsule and compete over a day or more to raise or lower their core body temperature on command; the game ends when the capsule leaves one player's body.",
+   "description_zh": "两名玩家各吞下一粒测温胶囊，在一天或更长时间里按指令升高或降低自己的核心体温来比赛；当胶囊离开某位玩家的身体时，游戏结束。",
+   "idea_en": "The inside of the body can be played with: making core temperature a game goal turns hidden physiology into felt, shared awareness.",
+   "idea_zh": "身体内部也可以成为游戏对象：把核心体温设为游戏目标，让隐藏的生理过程变成被感受、被分享的觉察。",
+   "method": "Ingestible core-temperature sensor pill transmitting to a phone app with tasks; interview study with 14 players yielding themes of bodily awareness, integration, agency and discomfort (Exertion Games Lab).",
+   "method_zh": "可吞咽的核心体温传感胶囊把数据传到手机应用，应用发布任务；对 14 名玩家的访谈得出身体觉察、人机融合、能动性与不适感等主题（Exertion Games Lab）。",
+   "keywords": [
+    "ingestible sensor",
+    "ingestible play",
+    "body temperature",
+    "interoception",
+    "Exertion Games Lab",
+    "CHI PLAY"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=TLtPxjy3jNQ"
+   },
+   "images": [
+    "https://i0.wp.com/exertiongameslab.org/wp-content/uploads/2018/06/guts_game-300x244.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3242671.3242681",
+    "doi": "10.1145/3242671.3242681",
+    "venue": "CHI PLAY 2018",
+    "title": "The Guts Game: Towards Designing Ingestible Games"
+   },
+   "source_url": "https://exertiongameslab.org/projects/the-guts-game"
+  },
+  {
+   "id": "xinglin-sun--conversations-with-the-stressed-body",
+   "creator_ids": [
+    "xinglin-sun"
+   ],
+   "title": "Conversations With The Stressed Body",
+   "year": 2025,
+   "field": "care",
+   "sub": "stress-mental-health",
+   "also": [
+    "methods"
+   ],
+   "modalities": [
+    "whole-soma",
+    "touch",
+    "pain-interoception"
+   ],
+   "lenses": [
+    "first-person",
+    "care-healing",
+    "body-politics"
+   ],
+   "kind": "method",
+   "description": "A co-design workshop in which nine girls aged 15–18 used Embodied Probes, artefacts and bodily activities, to locate, express and discuss the sensations of stress, then designed prototypes for their own stress relief.",
+   "description_zh": "一场共同设计工作坊：九名 15 至 18 岁的女孩使用“具身探针”（物件与身体活动）来定位、表达并讨论压力的身体感受，再为自己设计缓解压力的原型。",
+   "idea_en": "Starting from bodily sensation makes stress easier to speak about: the body opens a path to self-disclosure that words alone block.",
+   "idea_zh": "从身体感受出发，压力更容易被说出来：身体打开了一条仅靠语言会被堵住的自我表露之路。",
+   "method": "Workshop sessions with body mapping, tangible expression materials and embodied prototyping, analysed qualitatively.",
+   "method_zh": "工作坊包括身体地图、可触的表达材料与具身原型制作，并进行质性分析。",
+   "keywords": [
+    "adolescent girls",
+    "stress",
+    "embodied probes",
+    "co-design",
+    "body map",
+    "DIS 2025"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3715336.3735707",
+    "doi": "10.1145/3715336.3735707",
+    "arxiv": "2505.10863",
+    "venue": "DIS 2025",
+    "title": "Conversations With The Stressed Body: Facilitating Stress Self-Disclosure Among Adolescent Girls Through An Embodied Approach"
+   },
+   "collections": [
+    "dis"
+   ]
+  },
+  {
+   "id": "ziyue-piao--breathing-mirror",
+   "creator_ids": [
+    "ziyue-piao"
+   ],
+   "title": "Breathing Mirror",
+   "year": 2026,
+   "field": "somaesthetic",
+   "sub": "breath",
+   "also": [
+    "methods"
+   ],
+   "modalities": [
+    "breath",
+    "voice-sound",
+    "movement"
+   ],
+   "lenses": [
+    "first-person",
+    "body-data",
+    "attunement"
+   ],
+   "kind": "method",
+   "description": "Pianists wear a breathing belt while playing and afterwards watch their breathing aligned with the music, using it to recall and describe what their body was doing at each moment.",
+   "description_zh": "钢琴家演奏时佩戴呼吸带，演奏后观看与音乐对齐的呼吸曲线，借此回忆并描述每个时刻自己的身体在做什么。",
+   "idea_en": "Body data works best as a mirror for first-person recall, not as a verdict: seeing one's breath brings back the felt experience of playing.",
+   "idea_zh": "身体数据最好的用法是作为第一人称回忆的镜子，而不是评判：看见自己的呼吸，能唤回演奏时的身体感受。",
+   "method": "Stretch-sensor breathing belt synchronised with audio and MIDI, plus an annotation interface used in stimulated-recall interviews with pianists.",
+   "method_zh": "与音频、MIDI 同步的拉伸传感呼吸带，加上一个在刺激回忆访谈中使用的标注界面。",
+   "keywords": [
+    "breathing",
+    "piano",
+    "somatic reflection",
+    "stimulated recall",
+    "NIME",
+    "musicians"
+   ],
+   "images": [
+    "https://arxiv.org/html/2609.01974v1/images/GummiStra_Belt.jpeg"
+   ],
+   "paper": {
+    "arxiv": "2609.01974",
+    "url": "https://arxiv.org/abs/2609.01974",
+    "venue": "NIME 2026",
+    "title": "Exploring Breathing-Music Coupling: Using the Breathing Mirror for Somatic Reflection in Piano Performance"
+   },
+   "collections": [
+    "nime"
+   ]
+  },
+  {
+   "id": "botao-amber-hu--gravfield",
+   "creator_ids": [
+    "botao-amber-hu"
+   ],
+   "title": "GravField",
+   "year": 2024,
+   "field": "social",
+   "sub": "collective",
+   "also": [
+    "machines-xr",
+    "movement"
+   ],
+   "modalities": [
+    "movement",
+    "voice-sound",
+    "light-vision"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "movement-expression",
+    "pleasure-play"
+   ],
+   "kind": "performance",
+   "description": "Participants wearing mixed reality headsets move together while an 'object jockey' live-codes virtual ropes, springs and magnetic fields between their bodies; distance, formation and synchrony between the bodies generate music and visuals.",
+   "description_zh": "佩戴混合现实头显的参与者一起移动，一位“物件 DJ”在他们身体之间实时编写虚拟的绳索、弹簧与磁场；身体间的距离、队形与同步生成音乐与视觉。",
+   "idea_en": "Virtual objects with felt 'digital physics' can nudge a group into moving together without choreography, while leaving each person their agency.",
+   "idea_zh": "带有可感“数字物理”的虚拟物件，可以在没有编舞的情况下引导一群人一起移动，同时保留每个人的能动性。",
+   "method": "Co-located HoloKit AR headsets tracking head poses, mapped to live-coded parameters (weight, elasticity, force) and sound; studied through video, interviews, soma trajectories and field notes.",
+   "method_zh": "同地协作的 HoloKit 增强现实头显追踪头部姿态，映射到实时编码的参数（重量、弹性、力）与声音；通过录像、访谈、身体轨迹与田野笔记进行研究。",
+   "keywords": [
+    "GravField",
+    "intercorporeality",
+    "mixed reality",
+    "live coding",
+    "HoloKit",
+    "soma trajectories",
+    "Nudging the Somas"
+   ],
+   "video": {
+    "url": "https://vimeo.com/955522087"
+   },
+   "images": [
+    "https://reality.design/media/_resources/GravField/project-gravfield-figure-01.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3772318.3790651",
+    "doi": "10.1145/3772318.3790651",
+    "venue": "CHI 2026",
+    "title": "Nudging the Somas: Exploring How Live-Configurable Mixed Reality Objects Shape Open-Ended Intercorporeal Movements"
+   },
+   "source_url": "https://reality.design/project/gravfield",
+   "collections": [
+    "chi",
+    "nime"
+   ],
+   "exhibited": [
+    "NIME 2025",
+    "SIGGRAPH Asia 2024 XR",
+    "IEEE VR 2025 XR Gallery"
+   ]
+  },
+  {
+   "id": "rem-rungu-lin--cell-space",
+   "creator_ids": [
+    "rem-rungu-lin",
+    "botao-amber-hu"
+   ],
+   "title": "Cell Space",
+   "year": 2024,
+   "field": "social",
+   "sub": "synchrony",
+   "also": [
+    "machines-xr",
+    "movement"
+   ],
+   "modalities": [
+    "heartbeat",
+    "touch",
+    "movement"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "body-data",
+    "movement-expression"
+   ],
+   "kind": "performance",
+   "description": "Dancers and visitors practising contact improvisation each occupy a mixed reality 'cell' whose fluid boundary shows their heartbeat and pressure in real time, so the cells merge and split as bodies meet.",
+   "description_zh": "进行接触即兴的舞者与观众各自处在一个混合现实“细胞”中，细胞流动的边界实时显示心跳与压力，身体相遇时细胞随之融合或分离。",
+   "idea_en": "Making biosignals visible between touching bodies extends intercorporeality: partners sense each other's inner state as part of the dance.",
+   "idea_zh": "让生物信号在相互触碰的身体之间可见，拓展了身体间性：舞伴把彼此的内在状态当作舞蹈的一部分来感知。",
+   "method": "Co-located AR headsets rendering Voronoi cells around tracked participants, fed by heart rate and pressure sensors (neurofeedback).",
+   "method_zh": "同地增强现实头显围绕被追踪的参与者渲染 Voronoi 细胞，数据来自心率与压力传感器（神经反馈）。",
+   "keywords": [
+    "Cell Space",
+    "contact improvisation",
+    "接触即兴",
+    "biofeedback",
+    "mixed reality",
+    "Voronoi"
+   ],
+   "video": {
+    "url": "https://vimeo.com/915076535"
+   },
+   "images": [
+    "https://reality.design/media/project-cell-space-gallery-01.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3689050.3707678",
+    "doi": "10.1145/3689050.3707678",
+    "venue": "TEI 2025 Art and Performance",
+    "title": "Cell Space"
+   },
+   "source_url": "https://reality.design/project/cell-space",
+   "collections": [
+    "tei"
+   ],
+   "exhibited": [
+    "SIGGRAPH 2024 Art Papers",
+    "TEI 2025",
+    "IEEE VR 2025 XR Gallery"
+   ]
+  },
+  {
+   "id": "ke-huang--body-oracle",
+   "creator_ids": [
+    "ke-huang",
+    "danlin-huang",
+    "botao-amber-hu"
+   ],
+   "title": "Body Oracle",
+   "year": 2024,
+   "field": "social",
+   "sub": "collective",
+   "also": [
+    "machines-xr"
+   ],
+   "modalities": [
+    "posture-balance",
+    "movement",
+    "light-vision"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "attunement",
+    "movement-expression"
+   ],
+   "kind": "artwork",
+   "description": "A camera reads the poses of one or several visitors and an AI model turns them into new pictograms styled on Chinese oracle-bone inscriptions, a written vocabulary for bodily and inter-bodily positions.",
+   "description_zh": "摄像头识别一位或多位观众的姿势，AI 模型把它们转化为模仿甲骨文风格的新象形字，形成一套描述身体及身体间位置的书写词汇。",
+   "idea_en": "A language that has words for postures and for how bodies stand together could make people more aware of their own and each other's bodies.",
+   "idea_zh": "如果一种语言拥有描述姿势以及身体如何共处的字词，人们就可能对自己和彼此的身体更有觉察。",
+   "method": "MoveNet keypoint detection feeding an image-to-image model trained on paired examples of volunteers re-enacting oracle-bone characters.",
+   "method_zh": "MoveNet 关键点检测，输入到图像转换模型中；模型以志愿者重演甲骨文字形所得的配对样本训练。",
+   "keywords": [
+    "Body Oracle",
+    "oracle bone script",
+    "甲骨文",
+    "proprioception",
+    "AI",
+    "pictograms"
+   ],
+   "video": {
+    "url": "https://vimeo.com/1020163664"
+   },
+   "images": [
+    "https://reality.design/media/_resources/Body%20Oracle/project-body-oracle-figure-01.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3689050.3707688",
+    "doi": "10.1145/3689050.3707688",
+    "venue": "TEI 2025 Art and Performance",
+    "title": "Body Oracle"
+   },
+   "source_url": "https://reality.design/project/body-oracle",
+   "collections": [
+    "tei"
+   ],
+   "exhibited": [
+    "Ars Electronica Expanded 2025",
+    "SIGGRAPH Asia 2025 XR",
+    "IEEE VR 2026 XR Gallery"
+   ]
+  },
+  {
+   "id": "danlin-huang--feltsight",
+   "creator_ids": [
+    "danlin-huang",
+    "botao-amber-hu",
+    "rem-rungu-lin"
+   ],
+   "title": "FeltSight",
+   "year": 2025,
+   "field": "machines-xr",
+   "sub": "more-than-human",
+   "modalities": [
+    "touch",
+    "vibration",
+    "light-vision"
+   ],
+   "lenses": [
+    "more-than-human",
+    "estrangement",
+    "attunement"
+   ],
+   "kind": "prototype",
+   "description": "Inspired by the star-nosed mole, soft haptic gloves worn with a mixed reality headset let wearers feel nearby surfaces through their fingertips before touching them, while vision fades to darkness and small clouds of light surround the hands.",
+   "description_zh": "受星鼻鼹启发，柔软的触觉手套与混合现实头显配合使用，让佩戴者在触碰之前就能通过指尖感受附近的表面；视觉则淡入黑暗，只有小团光晕环绕双手。",
+   "idea_en": "Reducing sight and extending touch slows people down and makes them probe the world with the hand as an organ of knowing.",
+   "idea_zh": "削弱视觉、延伸触觉，会让人慢下来，把手当作认识世界的器官去探索。",
+   "method": "Apple Vision Pro scene meshes and hand tracking drive vibrotactile actuators in splayed soft gloves according to distance to surfaces.",
+   "method_zh": "Apple Vision Pro 的场景网格与手部追踪，根据与表面的距离驱动张开式软手套中的振动器。",
+   "keywords": [
+    "FeltSight",
+    "star-nosed mole",
+    "haptic gloves",
+    "Vision Pro",
+    "proximity",
+    "more-than-human"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=7Pq6s3VnD0A"
+   },
+   "images": [
+    "https://reality.design/media/feltsight-cover-forest-closeup.webp"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3800645.3812822",
+    "doi": "10.1145/3800645.3812822",
+    "venue": "DIS 2026 Pictorial",
+    "title": "Designing \"FeltSight\": Feeling the World Like a Star-Nosed Mole"
+   },
+   "source_url": "https://reality.design/project/feltsight",
+   "collections": [
+    "dis"
+   ],
+   "exhibited": [
+    "SIGGRAPH Asia 2025 Art Papers",
+    "CHI 2026 Interactivity",
+    "IEEE VR 2026 XR Gallery"
+   ]
+  },
+  {
+   "id": "botao-amber-hu--echovision",
+   "creator_ids": [
+    "botao-amber-hu",
+    "jiabao-li",
+    "danlin-huang"
+   ],
+   "title": "EchoVision",
+   "year": 2024,
+   "field": "machines-xr",
+   "sub": "more-than-human",
+   "modalities": [
+    "voice-sound",
+    "light-vision"
+   ],
+   "lenses": [
+    "more-than-human",
+    "estrangement",
+    "pleasure-play"
+   ],
+   "kind": "artwork",
+   "description": "Visitors lift a bat-shaped mixed reality mask, make a sound with their voice and see waves of light travel over the people and objects around them, a simulation of bat echolocation.",
+   "description_zh": "观众举起一副蝙蝠形状的混合现实面具，用嗓音发出声音，便会看到光波在周围的人与物上扫过，模拟蝙蝠的回声定位。",
+   "idea_en": "Using one's own voice to 'see' turns a familiar place strange and makes perception feel like an active, bodily act.",
+   "idea_zh": "用自己的声音去“看”，让熟悉的地方变得陌生，也让知觉被感受为一种主动的身体行为。",
+   "method": "Smartphone-based HoloKit headset in a custom mask; LiDAR scene reconstruction and microphone input trigger expanding echo shaders.",
+   "method_zh": "定制面具内的智能手机 HoloKit 头显；激光雷达重建场景，麦克风输入触发扩散的回声着色效果。",
+   "keywords": [
+    "EchoVision",
+    "bat",
+    "echolocation",
+    "HoloKit",
+    "mixed reality",
+    "voice"
+   ],
+   "video": {
+    "url": "https://vimeo.com/955577972"
+   },
+   "images": [
+    "https://reality.design/media/_resources/echovision-jiabao-01.webp"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3706599.3721192",
+    "doi": "10.1145/3706599.3721192",
+    "venue": "CHI 2025 Interactivity",
+    "title": "Seeing with Sound: Demonstrating \"EchoVision\", a Mixed Reality Simulation of Bat Echolocation"
+   },
+   "source_url": "https://reality.design/project/echovision",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": [
+    "SIGGRAPH Asia 2024 Art Papers",
+    "Augmented Humans 2025 Best Demo Award",
+    "Plásmata 3, Athens, 2025"
+   ]
+  },
+  {
+   "id": "jiabao-li--menstrual-garden",
+   "creator_ids": [
+    "jiabao-li"
+   ],
+   "title": "Menstrual Garden",
+   "year": 2022,
+   "field": "intimate",
+   "sub": "menstruation",
+   "modalities": [
+    "intimate-body",
+    "pain-interoception"
+   ],
+   "lenses": [
+    "body-politics",
+    "first-person"
+   ],
+   "kind": "artwork",
+   "description": "A multisensory installation with scent bottles holding the smells of fresh menstrual blood, stagnant menstrual blood and menstrual pain, beside 3D-printed sculptures of proteins found only in menstrual blood, identified from the artist's own samples.",
+   "description_zh": "一件多感官装置：香水瓶中分别装着新鲜经血、陈旧经血和经痛的气味，旁边是只存在于经血中的蛋白质的 3D 打印雕塑，这些蛋白质来自艺术家本人的样本。",
+   "idea_en": "Giving menstrual pain a smell makes an inner, often hidden sensation shareable and discussable.",
+   "idea_zh": "为经痛赋予气味，让一种内在的、常被隐藏的感受变得可以分享、可以讨论。",
+   "method": "Mass spectrometry of the artist's menstrual effluent over many cycles to build a menstrual blood proteome, translated into perfumes and 3D-printed protein models.",
+   "method_zh": "对艺术家多个周期的经血进行质谱分析，建立经血蛋白质组，再转化为香水与 3D 打印的蛋白质模型。",
+   "keywords": [
+    "menstruation",
+    "月经",
+    "olfactory art",
+    "proteome",
+    "bioart",
+    "feminist"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1669072958670-Y5OZPGTKSBGKPQFVU1L0/Jiabao+Li+menstrual+garden+4-3.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1669072954462-P6HVTCDOE9M9M4TRT58F/Jiabao+Li+menstrual+garden+2-2.jpg"
+   ],
+   "source_url": "https://www.jiabaoli.org/menstrual-garden",
+   "exhibited": [
+    "Olfactory Art Keller, New York, 2022"
+   ]
+  },
+  {
+   "id": "jiabao-li--sentient-clit",
+   "creator_ids": [
+    "jiabao-li",
+    "whitefeather-hunter"
+   ],
+   "title": "Sentient Clit: The Pussification of BioTech",
+   "year": 2024,
+   "field": "intimate",
+   "sub": "pleasure",
+   "modalities": [
+    "intimate-body",
+    "touch"
+   ],
+   "lenses": [
+    "pleasure-play",
+    "body-politics"
+   ],
+   "kind": "artwork",
+   "description": "Video performances, lab experiments and digital art around growing clitoral tissue by 3D bioprinting stem cells from menstrual fluid, centring pleasure rather than reproduction.",
+   "description_zh": "以视频表演、实验室实验与数字艺术，探讨用经血中的干细胞进行 3D 生物打印、培育阴蒂组织的可能，把愉悦而不是生殖放在中心。",
+   "idea_en": "Biotech can be designed around felt pleasure: asking who owns an organ that can sense opens questions of consent and sentience.",
+   "idea_zh": "生物技术可以围绕被感受的愉悦来设计：追问一个能够感知的器官归谁所有，会引出关于同意与感知能力的问题。",
+   "method": "Primary cell culture from a menstrual cup to petri dish, 3D bioprinting and distribution of the work through social platforms such as OnlyFans.",
+   "method_zh": "从月经杯到培养皿的原代细胞培养、3D 生物打印，并通过 OnlyFans 等社交平台传播作品。",
+   "keywords": [
+    "clitoris",
+    "bioprinting",
+    "pleasure",
+    "menstrual stem cells",
+    "feminist biotech",
+    "OnlyFans"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=DkvH62jYCjM"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/714f6ccf-9ea2-4a1b-b5fd-38214abb33dd/Clitoris+bio+print+1-2.jpg"
+   ],
+   "source_url": "https://www.jiabaoli.org/sentient-clit",
+   "exhibited": [
+    "Exploratorium: Sexplorations"
+   ]
+  },
+  {
+   "id": "jiabao-li--what-makes-us-most-human",
+   "creator_ids": [
+    "jiabao-li"
+   ],
+   "title": "What Makes Us Most Human Is Also So Animal",
+   "year": 2026,
+   "field": "intimate",
+   "sub": "life-transitions",
+   "modalities": [
+    "intimate-body",
+    "whole-soma"
+   ],
+   "lenses": [
+    "more-than-human",
+    "first-person",
+    "body-politics"
+   ],
+   "kind": "performance",
+   "description": "A blind tasting in which visitors drink a line of milks from mammals, including the artist's own breast milk, cow, goat, camel, yak, bat and coyote, and try to guess the source.",
+   "description_zh": "一场盲品：观众依次品尝多种哺乳动物的奶，包括艺术家本人的母乳，以及牛、山羊、骆驼、牦牛、蝙蝠和郊狼的奶，并猜测其来源。",
+   "idea_en": "Breastfeeding, the most intimate bodily act, is also what we share with other mammals: tasting it crosses the line between human and animal.",
+   "idea_zh": "哺乳是最私密的身体行为，也是我们与其他哺乳动物共有的东西：品尝它，就跨越了人与动物的界限。",
+   "method": "Performance and tasting made after the artist's pregnancy, part of the solo exhibition Womb Wetware (2026).",
+   "method_zh": "艺术家产后创作的表演与品尝活动，属于个展《Womb Wetware》（2026）。",
+   "keywords": [
+    "breastfeeding",
+    "母乳",
+    "mammal",
+    "tasting",
+    "motherhood",
+    "Womb Wetware"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=8k3acKrF-o8"
+   },
+   "source_url": "https://www.jiabaoli.org/what-makes-us-most-human-is-also-so-animal",
+   "exhibited": [
+    "Womb Wetware, tiat, San Francisco, 2026",
+    "Fusebox Festival, Austin, 2026"
+   ]
+  },
+  {
+   "id": "dianya-mia-hua--embodied-embroidery",
+   "creator_ids": [
+    "dianya-mia-hua",
+    "jeffrey-bardzell",
+    "shaowen-bardzell"
+   ],
+   "title": "Embodied Embroidery",
+   "year": 2023,
+   "field": "intimate",
+   "sub": "pleasure",
+   "also": [
+    "methods"
+   ],
+   "modalities": [
+    "intimate-body",
+    "touch"
+   ],
+   "lenses": [
+    "first-person",
+    "pleasure-play",
+    "body-politics"
+   ],
+   "kind": "method",
+   "description": "The first author, a woman with an invisible disability, tried other women's masturbation techniques on her own body and articulated each felt experience as an embroidered piece.",
+   "description_zh": "第一作者是一位有隐性残障的女性，她在自己身上尝试其他女性的自慰方式，并把每一种身体感受以刺绣作品表达出来。",
+   "idea_en": "Embroidery can articulate felt pleasure where words fail, turning first-person sexual experience into shareable design knowledge.",
+   "idea_zh": "在语言无力之处，刺绣可以表达被感受到的愉悦，把第一人称的性经验变成可以分享的设计知识。",
+   "method": "First-person somaesthetic study guided by first-person perspective, intersubjectivity and articulation, with handmade embroidery as the articulation medium (pictorial).",
+   "method_zh": "以第一人称视角、主体间性与表达为指引的第一人称身体美学研究，以手工刺绣作为表达媒介（图文论文）。",
+   "keywords": [
+    "masturbation",
+    "pleasure activism",
+    "embroidery",
+    "first-person",
+    "disability",
+    "TEI 2023"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3569009.3572803",
+    "doi": "10.1145/3569009.3572803",
+    "venue": "TEI 2023 (Pictorial)",
+    "title": "Embodied Embroidery: Somaesthetic Interaction Design for Women's Masturbation"
+   },
+   "collections": [
+    "tei"
+   ]
+  },
+  {
+   "id": "wonjun-lee--practicing-somaesthetics",
+   "creator_ids": [
+    "wonjun-lee",
+    "richard-shusterman"
+   ],
+   "title": "Practicing Somaesthetics",
+   "year": 2014,
+   "field": "methods",
+   "sub": "somatic-training",
+   "modalities": [
+    "whole-soma",
+    "movement"
+   ],
+   "lenses": [
+    "attunement",
+    "first-person"
+   ],
+   "kind": "method",
+   "description": "Design students did somaesthetic awareness exercises before ideating interactive products, and the study compared their ideas with those produced without the practice.",
+   "description_zh": "设计学生在构思交互产品之前先做身体美学觉察练习，研究比较了有无这些练习时产生的想法。",
+   "idea_en": "Training the designer's own body awareness before ideation shifts ideas toward bodily experience: somatic practice is a design tool.",
+   "idea_zh": "在构思前训练设计者自身的身体觉察，会让想法更关注身体经验：身体修习本身就是设计工具。",
+   "method": "Workshop study (likely comparing practice and control conditions) with somaesthetic exercises drawn from Shusterman's pragmatic somaesthetics, followed by ideation and analysis of the resulting concepts.",
+   "method_zh": "工作坊研究（很可能比较有练习与无练习两种条件），练习取自 Shusterman 的实用身体美学，随后进行构思并分析所得概念。",
+   "keywords": [
+    "somaesthetics",
+    "身体美学",
+    "ideation",
+    "design education",
+    "KAIST",
+    "Shusterman",
+    "DIS 2014"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2598510.2598561",
+    "doi": "10.1145/2598510.2598561",
+    "venue": "DIS 2014",
+    "title": "Practicing somaesthetics: exploring its impact on interactive product design ideation"
+   },
+   "collections": [
+    "dis"
+   ]
+  },
+  {
+   "id": "michi-kanda--soma-express-kit",
+   "creator_ids": [
+    "michi-kanda"
+   ],
+   "title": "Soma Express Kit",
+   "year": 2023,
+   "field": "methods",
+   "sub": "material-exploration",
+   "also": [
+    "care"
+   ],
+   "modalities": [
+    "touch",
+    "vibration",
+    "voice-sound"
+   ],
+   "lenses": [
+    "first-person",
+    "intercorporeality",
+    "body-politics"
+   ],
+   "kind": "method",
+   "description": "A toolkit of wearable physiological sensors with haptic and sound modules that lets people with visual impairment express their somaesthetic experience of a place to sighted partners in real time.",
+   "description_zh": "一套由可穿戴生理传感器与触觉、声音模块组成的工具包，让视障人士把自己对场所的身体美学经验实时传达给明眼的同伴。",
+   "idea_en": "Blind and low-vision people's heightened somatic sensitivity is expertise: designing from it produces non-visual, shared experiences for everyone.",
+   "idea_zh": "盲人与低视力人士更敏锐的身体感受力是一种专长：从这种专长出发设计，可以为所有人创造非视觉的共享体验。",
+   "method": "Wearable physiological sensing combined with multi-sensory haptic and audio output modules, used in collaborative sessions (with Kai Kunze, Keio KMD).",
+   "method_zh": "可穿戴生理传感结合多感官的触觉与声音输出模块，用于协作体验环节（与庆应 KMD 的 Kai Kunze 合作）。",
+   "keywords": [
+    "visual impairment",
+    "somaesthetic toolkit",
+    "haptics",
+    "cross-ability",
+    "Keio KMD"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3627050.3631571",
+    "doi": "10.1145/3627050.3631571",
+    "venue": "IoT 2023",
+    "title": "Soma Express Kit: Understanding the Somaesthetic Experience of People with Visual Impairment"
+   }
+  },
+  {
+   "id": "sputniko--menstruation-machine",
+   "creator_ids": [
+    "sputniko"
+   ],
+   "title": "Menstruation Machine – Takashi's Take",
+   "year": 2010,
+   "field": "intimate",
+   "sub": "menstruation",
+   "modalities": [
+    "intimate-body",
+    "pain-interoception"
+   ],
+   "lenses": [
+    "body-politics",
+    "estrangement"
+   ],
+   "kind": "artwork",
+   "description": "A metal device resembling a chastity belt, with a blood-dispensing system and electrodes that stimulate the lower abdomen, reproduces the pain and bleeding of a five-day period; in the music video a boy, Takashi, wears it to feel what menstruation is like.",
+   "description_zh": "一个形似贞操带的金属装置，配有出血装置与刺激下腹部的电极，重现五天经期的疼痛与出血；在音乐录像中，少年 Takashi 戴上它，去感受来月经是什么样子。",
+   "idea_en": "Feeling another body's cycle in your own body turns a gendered experience into shared, felt knowledge and questions who gets to have it.",
+   "idea_zh": "在自己身上感受另一种身体的周期，把一种性别化的经验变成共享的、被感受的知识，也追问谁有资格拥有这种经验。",
+   "method": "Wearable device with electrical abdominal stimulation and a blood reservoir, presented with a pop music video; made at the Royal College of Art.",
+   "method_zh": "带腹部电刺激与血液储存装置的可穿戴设备，配合一支流行音乐录像展出；创作于英国皇家艺术学院。",
+   "keywords": [
+    "Sputniko!",
+    "menstruation",
+    "speculative design",
+    "pain",
+    "gender",
+    "wearable"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=gnb-rdGbm6s"
+   },
+   "images": [
+    "https://storage.googleapis.com/production-os-assets/assets/6afd6133-e6f0-48e5-95f7-1b17034f2529"
+   ],
+   "source_url": "https://sputniko.com/Menstruation-Machine"
+  },
+  {
+   "id": "haiyan-zhang--emma-watch",
+   "creator_ids": [
+    "haiyan-zhang"
+   ],
+   "title": "Emma Watch",
+   "year": 2016,
+   "field": "care",
+   "sub": "neuro-motor",
+   "modalities": [
+    "vibration",
+    "muscle",
+    "movement"
+   ],
+   "lenses": [
+    "care-healing",
+    "touching-back",
+    "first-person"
+   ],
+   "kind": "prototype",
+   "description": "A wrist-worn device with vibrating motors that reduced the hand tremor of Emma Lawton, a graphic designer with early-onset Parkinson's, enough for her to write and draw straight lines again.",
+   "description_zh": "一款装有振动马达的腕戴设备，减轻了早发性帕金森病患者、平面设计师 Emma Lawton 的手部震颤，让她重新能够写字和画直线。",
+   "idea_en": "A rhythm felt on the skin can change how a body moves: designing with one person's lived experience produced care that feels like getting one's hand back.",
+   "idea_zh": "皮肤上感受到的节律可以改变身体的运动：与一个人的亲身经验一同设计，产生的照护就像把自己的手找回来。",
+   "method": "Wrist wearable with an array of vibration motors running a pattern (likely distracting the brain's feedback loop), designed with Emma Lawton for the BBC's Big Life Fix at Microsoft Research.",
+   "method_zh": "带振动马达阵列的腕戴设备，以某种节律振动（很可能是在干扰大脑的反馈回路），在微软研究院与 Emma Lawton 共同设计，参与 BBC《Big Life Fix》节目。",
+   "keywords": [
+    "Parkinson's",
+    "帕金森",
+    "tremor",
+    "vibration",
+    "Microsoft Research",
+    "Big Life Fix"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=R6rAlFYDffQ"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Haiyan_Zhang",
+   "exhibited": [
+    "BBC Big Life Fix (2016)",
+    "Microsoft Build 2017"
+   ]
+  },
+  {
+   "id": "takanori-shibata--paro",
+   "creator_ids": [
+    "takanori-shibata"
+   ],
+   "title": "PARO Therapeutic Robot",
+   "year": 2004,
+   "field": "machines-xr",
+   "sub": "robots-drones",
+   "also": [
+    "care"
+   ],
+   "modalities": [
+    "touch",
+    "voice-sound",
+    "heat"
+   ],
+   "lenses": [
+    "care-healing",
+    "touching-back",
+    "more-than-human"
+   ],
+   "kind": "product",
+   "description": "A furry baby harp seal robot that responds to being stroked, held and spoken to by moving its head and flippers, blinking and crying, used in hospitals and nursing homes, especially with people living with dementia.",
+   "description_zh": "一只毛茸茸的小竖琴海豹机器人，被抚摸、抱着或说话时会转头、摆动鳍肢、眨眼和鸣叫，用于医院与养老院，尤其是与失智症患者一起使用。",
+   "idea_en": "A robot designed to be touched and held can calm the body the way animal contact does, without asking for any cognitive effort.",
+   "idea_zh": "一台为被触摸、被抱着而设计的机器人，可以像接触动物那样让身体安定下来，而不要求任何认知上的努力。",
+   "method": "Tactile, light, sound, temperature and posture sensors under soft fur drive actuators and recorded harp seal cries; developed at AIST from 1993 and sold since 2004.",
+   "method_zh": "柔软毛皮下的触觉、光、声音、温度与姿态传感器驱动执行器与录下的竖琴海豹叫声；自 1993 年起在日本产业技术综合研究所开发，2004 年起销售。",
+   "keywords": [
+    "PARO",
+    "robot seal",
+    "dementia",
+    "animal-assisted therapy",
+    "AIST",
+    "touch"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=KhyCbtqnEYI"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/6/60/Paro_robot.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Paro_(robot)"
+  }
+ ],
+ "leads": []
+}

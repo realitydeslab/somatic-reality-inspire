@@ -1,0 +1,2630 @@
+{
+ "batch": "foundations",
+ "creators": [
+  {
+   "id": "richard-shusterman",
+   "name": "Richard Shusterman",
+   "name_zh": "理查德·舒斯特曼",
+   "kind": "person",
+   "role": "Dorothy F. Schmidt Eminent Scholar in the Humanities, Florida Atlantic University",
+   "based": "Boca Raton, US",
+   "bio": "American pragmatist philosopher who founded somaesthetics, the study of the body as the site of sensory appreciation and self-fashioning, and a trained Feldenkrais practitioner.",
+   "why": "Soma design takes its name and its core idea, cultivating felt bodily awareness as an aesthetic practice, from his somaesthetics.",
+   "disciplines": [
+    "philosophy",
+    "somatics"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Richard_Shusterman"
+   },
+   "role_zh": "美国佛罗里达大西洋大学人文学科杰出学者",
+   "bio_zh": "美国实用主义哲学家，身体美学（somaesthetics）的创立者，研究身体作为感官鉴赏与自我塑造的所在；也是受过训练的费登奎斯从业者。",
+   "why_zh": "身体设计的名字与核心思想——把培养对身体的感受当作一种审美实践——都来自他的身体美学。",
+   "based_zh": "博卡拉顿，美国",
+   "connected_to": [
+    "john-dewey",
+    "kristina-hook"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "john-dewey",
+   "name": "John Dewey",
+   "name_zh": "约翰·杜威",
+   "kind": "person",
+   "role": "Philosopher, psychologist and educator (1859–1952)",
+   "based": "New York, US",
+   "bio": "American pragmatist philosopher whose theory of experience treated the live creature and its environment as one continuous process; he also studied with F. M. Alexander.",
+   "why": "His idea of 'an experience' as a felt, embodied whole is the pragmatist ground under Shusterman's somaesthetics and experience-centred HCI.",
+   "disciplines": [
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/John_Dewey"
+   },
+   "role_zh": "哲学家、心理学家、教育家（1859–1952）",
+   "bio_zh": "美国实用主义哲学家，他的经验理论把有生命的机体与环境看作一个连续的过程；他也曾跟随 F. M. Alexander 学习。",
+   "why_zh": "他所说的“一个经验”是被感受的、具身的整体，这是 Shusterman 身体美学和以经验为中心的人机交互的实用主义根基。",
+   "based_zh": "纽约，美国",
+   "connected_to": [
+    "richard-shusterman"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "thomas-hanna",
+   "name": "Thomas Hanna",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Philosopher and founder of Hanna Somatic Education (1928–1990)",
+   "based": "Novato, US",
+   "bio": "American philosopher who coined 'somatics' and defined the soma as the body experienced from within by first-person perception; he trained with Moshe Feldenkrais.",
+   "why": "The word 'soma' in soma design comes from Hanna: the living body-mind as felt from the inside, not the body seen from outside.",
+   "disciplines": [
+    "philosophy",
+    "somatics"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Thomas_Hanna"
+   },
+   "role_zh": "哲学家，Hanna 身心教育创始人（1928–1990）",
+   "bio_zh": "美国哲学家，提出“身心学”（somatics）一词，把 soma 定义为以第一人称从内部感知的身体；曾随 Moshe Feldenkrais 学习。",
+   "why_zh": "身体设计中的“soma”一词来自 Hanna：从内部被感受的活的身心，而不是从外部被观看的身体。",
+   "based_zh": "诺瓦托，美国",
+   "connected_to": [
+    "don-hanlon-johnson"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "don-hanlon-johnson",
+   "name": "Don Hanlon Johnson",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor, founder of the Somatics graduate program, California Institute of Integral Studies",
+   "based": "San Francisco, US",
+   "bio": "Philosopher and Rolfer who founded the first accredited graduate program in somatics and edited anthologies that gathered the founders of the somatic movement.",
+   "why": "His writing links the somatic practices designers train in (Feldenkrais, BMC, Alexander) to a philosophy of the body-mind as one.",
+   "disciplines": [
+    "somatics",
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://www.donhanlonjohnson.com"
+   },
+   "role_zh": "加州整合研究学院教授，身心学研究生项目创始人",
+   "bio_zh": "哲学家、罗尔夫治疗师，创立了第一个获认证的身心学研究生项目，并编选文集汇集身心学运动的创始者。",
+   "why_zh": "他的写作把设计师修习的身体实践（Feldenkrais、BMC、亚历山大技巧）与身心一体的哲学联系起来。",
+   "based_zh": "旧金山，美国",
+   "connected_to": [
+    "thomas-hanna"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "edmund-husserl",
+   "name": "Edmund Husserl",
+   "name_zh": "埃德蒙德·胡塞尔",
+   "kind": "person",
+   "role": "Philosopher, founder of phenomenology (1859–1938)",
+   "based": "Freiburg, DE",
+   "bio": "German philosopher who founded phenomenology and distinguished the lived body (Leib), felt from within, from the physical body (Körper) seen as a thing.",
+   "why": "The Leib/Körper distinction is the starting point for every later account of the lived body that soma designers cite.",
+   "disciplines": [
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Edmund_Husserl"
+   },
+   "role_zh": "哲学家，现象学创始人（1859–1938）",
+   "bio_zh": "德国哲学家，现象学的创始人，区分了从内部被感受的“活的身体”（Leib）与被当作物体看待的“物理身体”（Körper）。",
+   "why_zh": "Leib 与 Körper 的区分，是身体设计师引用的所有“活的身体”理论的起点。",
+   "based_zh": "弗莱堡，德国",
+   "connected_to": [
+    "maurice-merleau-ponty"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "maurice-merleau-ponty",
+   "name": "Maurice Merleau-Ponty",
+   "name_zh": "莫里斯·梅洛-庞蒂",
+   "kind": "person",
+   "role": "Philosopher, Collège de France (1908–1961)",
+   "based": "Paris, FR",
+   "bio": "French phenomenologist who argued that perception is the body's lived engagement with the world, and later described body and world as one 'flesh'.",
+   "why": "He is the most cited philosopher in embodied interaction: the body schema, motor intentionality and the flesh underpin Svanæs, Dourish, Loke and Höök.",
+   "disciplines": [
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Maurice_Merleau-Ponty"
+   },
+   "role_zh": "法兰西学院哲学家（1908–1961）",
+   "bio_zh": "法国现象学家，主张知觉是身体对世界的亲身投入，晚期又把身体与世界描述为同一块“肉身”（la chair）。",
+   "why_zh": "他是具身交互中被引用最多的哲学家：身体图式、运动意向性与肉身概念支撑了 Svanæs、Dourish、Loke 与 Höök 的工作。",
+   "based_zh": "巴黎，法国",
+   "connected_to": [
+    "edmund-husserl"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "maxine-sheets-johnstone",
+   "name": "Maxine Sheets-Johnstone",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Philosopher and former dancer-choreographer, University of Oregon",
+   "based": "Eugene, US",
+   "bio": "Dancer turned phenomenologist who argues that movement, not the static body, is the ground of thinking, feeling and self.",
+   "why": "Her 'thinking in movement' and kinesthetic memory give dance-tech and movement-based soma design a philosophical base.",
+   "disciplines": [
+    "philosophy",
+    "dance"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Maxine_Sheets-Johnstone"
+   },
+   "role_zh": "俄勒冈大学哲学家，前舞者与编舞家",
+   "bio_zh": "由舞者转为现象学家，她主张运动而非静止的身体，才是思考、感受与自我的根基。",
+   "why_zh": "她的“在运动中思考”与动觉记忆，为舞蹈科技和基于动作的身体设计提供了哲学基础。",
+   "based_zh": "尤金，美国",
+   "connected_to": [
+    "shaun-gallagher"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "eugene-gendlin",
+   "name": "Eugene Gendlin",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Philosopher and psychotherapist, University of Chicago (1926–2017)",
+   "based": "Chicago, US",
+   "bio": "American philosopher who described the 'felt sense', a bodily, pre-verbal sense of a whole situation, and developed Focusing and Thinking at the Edge from it.",
+   "why": "The felt sense is how soma designers name what they attend to in first-person design, and it shaped micro-phenomenology and articulation methods.",
+   "disciplines": [
+    "philosophy",
+    "health"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Eugene_Gendlin"
+   },
+   "role_zh": "芝加哥大学哲学家与心理治疗师（1926–2017）",
+   "bio_zh": "美国哲学家，提出“体会”（felt sense）：一种身体的、先于语言的对整个情境的感受，并由此发展出 Focusing（体会聚焦）与 Thinking at the Edge。",
+   "why_zh": "“体会”是身体设计师在第一人称设计中称呼自己所注意之物的方式，也影响了微观现象学与经验言说的方法。",
+   "based_zh": "芝加哥，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "drew-leder",
+   "name": "Drew Leder",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Western and Eastern Philosophy, Loyola University Maryland",
+   "based": "Baltimore, US",
+   "bio": "Philosopher and physician who analysed why the body usually recedes from awareness and 'dys-appears' in pain and illness.",
+   "why": "His absent body explains why soma design must work to bring the body back into attention, and why pain makes it return uninvited.",
+   "disciplines": [
+    "philosophy",
+    "health"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Drew_Leder"
+   },
+   "role_zh": "马里兰洛约拉大学东西方哲学教授",
+   "bio_zh": "哲学家、医生，分析了身体为何平时从意识中隐退，又为何在疼痛与疾病中“异常显现”（dys-appear）。",
+   "why_zh": "他的“缺席的身体”解释了为何身体设计要努力把身体带回注意之中，以及疼痛为何让身体不请自来。",
+   "based_zh": "巴尔的摩，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "iris-marion-young",
+   "name": "Iris Marion Young",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Political philosopher, University of Chicago (1949–2006)",
+   "based": "Chicago, US",
+   "bio": "Feminist philosopher whose phenomenology of feminine bodily comportment showed how social norms shape how bodies move and feel their own capacities.",
+   "why": "She gives soma design its body-politics lens: lived bodies are gendered, and felt capacity is shaped by norms.",
+   "disciplines": [
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Iris_Marion_Young"
+   },
+   "role_zh": "芝加哥大学政治哲学家（1949–2006）",
+   "bio_zh": "女性主义哲学家，她对女性身体举止的现象学分析揭示了社会规范如何塑造身体的动作方式和对自身能力的感受。",
+   "why_zh": "她为身体设计提供了身体政治的视角：活的身体是有性别的，对能力的感受由规范塑造。",
+   "based_zh": "芝加哥，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "shaun-gallagher",
+   "name": "Shaun Gallagher",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Lillian and Morris Moss Professor of Excellence in Philosophy, University of Memphis",
+   "based": "Memphis, US",
+   "bio": "Phenomenologist and cognitive scientist who distinguished body schema from body image and helped found 4E (embodied, embedded, enactive, extended) cognition.",
+   "why": "His body schema / body image distinction is a working tool for designers who alter how the body is felt versus how it is seen.",
+   "disciplines": [
+    "philosophy",
+    "health"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Shaun_Gallagher"
+   },
+   "role_zh": "孟菲斯大学哲学教授",
+   "bio_zh": "现象学家与认知科学家，区分了“身体图式”与“身体意象”，并参与奠定 4E 认知（具身、嵌入、生成、延展）。",
+   "why_zh": "身体图式与身体意象的区分，是设计师改变身体“如何被感受”与“如何被看见”时的实用工具。",
+   "based_zh": "孟菲斯，美国",
+   "connected_to": [
+    "maxine-sheets-johnstone",
+    "thomas-fuchs"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "thomas-fuchs",
+   "name": "Thomas Fuchs",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Karl Jaspers Professor of Philosophical Foundations of Psychiatry, Heidelberg University",
+   "based": "Heidelberg, DE",
+   "bio": "Psychiatrist and phenomenologist who describes the brain as an organ of a living body in relation with others, and developed the idea of intercorporeality.",
+   "why": "His account of body memory and mutual incorporation grounds soma design work on shared touch, synchrony and care.",
+   "disciplines": [
+    "health",
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Thomas_Fuchs_(psychiatrist)"
+   },
+   "role_zh": "海德堡大学精神医学哲学基础 Karl Jaspers 讲席教授",
+   "bio_zh": "精神科医生与现象学家，把大脑描述为一个与他人相处的活的身体中的器官，并发展了“身体间性”的概念。",
+   "why_zh": "他关于身体记忆与“相互吸纳”的论述，是身体设计中共享触碰、同步与照护类工作的理论基础。",
+   "based_zh": "海德堡，德国",
+   "connected_to": [
+    "hanne-de-jaegher",
+    "shaun-gallagher"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "hanne-de-jaegher",
+   "name": "Hanne De Jaegher",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Ikerbasque Research Fellow, University of the Basque Country",
+   "based": "San Sebastián, ES",
+   "bio": "Enactive philosopher who, with Ezequiel Di Paolo, developed participatory sense-making: meaning created in the coordinated movement of interacting bodies.",
+   "why": "Participatory sense-making is the enactive account of intercorporeality that social soma design and shared-biosignal work draw on.",
+   "disciplines": [
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://hannedejaegher.net"
+   },
+   "role_zh": "巴斯克大学 Ikerbasque 研究员",
+   "bio_zh": "生成论哲学家，与 Ezequiel Di Paolo 一起提出“参与式意义生成”：意义在互动身体的协调运动中被共同创造。",
+   "why_zh": "参与式意义生成是对身体间性的生成论解释，社会性身体设计和共享生物信号的研究以此为据。",
+   "based_zh": "圣塞巴斯蒂安，西班牙",
+   "connected_to": [
+    "thomas-fuchs"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "francisco-varela",
+   "name": "Francisco Varela",
+   "name_zh": "弗朗西斯科·瓦雷拉",
+   "kind": "person",
+   "role": "Biologist, neuroscientist and philosopher, CNRS Paris (1946–2001)",
+   "based": "Paris, FR",
+   "bio": "Chilean biologist who co-developed autopoiesis, founded enactivism and neurophenomenology, and brought Buddhist mindfulness practice into cognitive science.",
+   "why": "Enaction, the idea that mind is brought forth by a living body acting in its world, and his call to train first-person experience, are foundations of soma design.",
+   "disciplines": [
+    "philosophy",
+    "health"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Francisco_Varela"
+   },
+   "role_zh": "生物学家、神经科学家与哲学家，法国国家科学研究中心（1946–2001）",
+   "bio_zh": "智利生物学家，共同提出自创生（autopoiesis），开创生成论与神经现象学，并把佛教正念修习带入认知科学。",
+   "why_zh": "“生成”——心智由在世界中行动的活的身体带出——以及他对训练第一人称经验的呼吁，是身体设计的根基。",
+   "based_zh": "巴黎，法国",
+   "connected_to": [
+    "evan-thompson",
+    "eleanor-rosch",
+    "humberto-maturana"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "evan-thompson",
+   "name": "Evan Thompson",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Philosophy, University of British Columbia",
+   "based": "Vancouver, CA",
+   "bio": "Philosopher of mind who co-authored The Embodied Mind and developed the deep continuity of life and mind, working across phenomenology, biology and Buddhist thought.",
+   "why": "His enactive account of mind as living, embodied sense-making is one of the main non-dualist references in soma design.",
+   "disciplines": [
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://evanthompson.me"
+   },
+   "role_zh": "不列颠哥伦比亚大学哲学教授",
+   "bio_zh": "心灵哲学家，《具身心智》合著者，提出生命与心智的深度连续性，跨越现象学、生物学与佛教思想。",
+   "why_zh": "他把心智理解为活的、具身的意义生成，这是身体设计最主要的非二元参照之一。",
+   "based_zh": "温哥华，加拿大",
+   "connected_to": [
+    "francisco-varela",
+    "eleanor-rosch"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "eleanor-rosch",
+   "name": "Eleanor Rosch",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor Emerita of Psychology, University of California, Berkeley",
+   "based": "Berkeley, US",
+   "bio": "Cognitive psychologist known for prototype theory of categories and for bringing contemplative practice into the study of mind.",
+   "why": "Co-author of The Embodied Mind; her work ties categories and meaning to bodily experience and meditative awareness.",
+   "disciplines": [
+    "health",
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Eleanor_Rosch"
+   },
+   "role_zh": "加州大学伯克利分校心理学荣休教授",
+   "bio_zh": "认知心理学家，以范畴的原型理论著称，并把沉思修习带入心智研究。",
+   "why_zh": "《具身心智》合著者；她的工作把范畴与意义系于身体经验和冥想觉察。",
+   "based_zh": "伯克利，美国",
+   "connected_to": [
+    "francisco-varela",
+    "evan-thompson"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "humberto-maturana",
+   "name": "Humberto Maturana",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Biologist, University of Chile (1928–2021)",
+   "based": "Santiago, CL",
+   "bio": "Chilean biologist who, with Francisco Varela, defined living systems as autopoietic, self-producing, and cognition as the living process itself.",
+   "why": "Autopoiesis ('to live is to know') is the biological root of the enactive, non-dualist view that soma design builds on.",
+   "disciplines": [
+    "philosophy",
+    "health"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Humberto_Maturana"
+   },
+   "role_zh": "智利大学生物学家（1928–2021）",
+   "bio_zh": "智利生物学家，与 Francisco Varela 一起把生命系统定义为自创生的、自我生产的系统，并把认知看作生命过程本身。",
+   "why_zh": "自创生（“活着就是认知”）是身体设计所依据的生成论、非二元观点的生物学根源。",
+   "based_zh": "圣地亚哥，智利",
+   "connected_to": [
+    "francisco-varela"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "george-lakoff",
+   "name": "George Lakoff",
+   "name_zh": "乔治·莱考夫",
+   "kind": "person",
+   "role": "Professor Emeritus of Cognitive Science and Linguistics, UC Berkeley",
+   "based": "Berkeley, US",
+   "bio": "Cognitive linguist who, with Mark Johnson, showed that abstract thought is structured by metaphors grounded in bodily experience.",
+   "why": "Embodied metaphor (up is good, warmth is affection) is used in soma and tangible design to map felt qualities to meaning.",
+   "disciplines": [
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/George_Lakoff"
+   },
+   "role_zh": "加州大学伯克利分校认知科学与语言学荣休教授",
+   "bio_zh": "认知语言学家，与 Mark Johnson 一起指出，抽象思维由扎根于身体经验的隐喻所结构。",
+   "why_zh": "具身隐喻（上即好、温暖即亲密）被身体设计与有形交互设计用来把被感受的品质对应到意义。",
+   "based_zh": "伯克利，美国",
+   "connected_to": [
+    "mark-johnson"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "mark-johnson",
+   "name": "Mark Johnson",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Philip H. Knight Professor of Liberal Arts and Sciences, University of Oregon",
+   "based": "Eugene, US",
+   "bio": "Pragmatist philosopher who developed image schemas and argues that meaning is rooted in bodily, felt, aesthetic experience.",
+   "why": "His claim that meaning begins in felt bodily qualities is the philosophical core of designing for aesthetic, embodied experience.",
+   "disciplines": [
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Mark_Johnson_(philosopher)"
+   },
+   "role_zh": "俄勒冈大学文理学院讲席教授",
+   "bio_zh": "实用主义哲学家，提出“意象图式”，主张意义扎根于身体的、被感受的、审美的经验。",
+   "why_zh": "他认为意义始于被感受的身体品质，这是为审美的具身经验而设计的哲学核心。",
+   "based_zh": "尤金，美国",
+   "connected_to": [
+    "george-lakoff",
+    "maxine-sheets-johnstone"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "alva-noe",
+   "name": "Alva Noë",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Philosophy, University of California, Berkeley",
+   "based": "Berkeley, US",
+   "bio": "Philosopher who argues that perceiving is something we do with our moving bodies, through our practical grasp of how sensation changes as we move.",
+   "why": "His enactive, sensorimotor account of perception tells designers that feeling changes when movement changes.",
+   "disciplines": [
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Alva_No%C3%AB"
+   },
+   "role_zh": "加州大学伯克利分校哲学教授",
+   "bio_zh": "哲学家，主张知觉是我们用运动的身体去做的事，依赖我们对“运动时感觉如何变化”的实践把握。",
+   "why_zh": "他的生成论、感觉运动的知觉理论告诉设计师：动作改变，感受就随之改变。",
+   "based_zh": "伯克利，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "antonio-damasio",
+   "name": "Antonio Damasio",
+   "name_zh": "安东尼奥·达马西奥",
+   "kind": "person",
+   "role": "University Professor of Neuroscience, University of Southern California",
+   "based": "Los Angeles, US",
+   "bio": "Neuroscientist whose somatic marker hypothesis showed that bodily feeling is part of reasoning, and who traces consciousness to the body's homeostatic feelings.",
+   "why": "He gave soma and affective design the neuroscience for treating emotion and reason as bodily processes rather than separate faculties.",
+   "disciplines": [
+    "health"
+   ],
+   "links": {
+    "site": "https://en.wikipedia.org/wiki/Antonio_Damasio"
+   },
+   "role_zh": "南加州大学神经科学讲席教授",
+   "bio_zh": "神经科学家，他的“躯体标记假说”表明身体感受是推理的一部分，并把意识追溯到身体稳态的感受。",
+   "why_zh": "他为身体设计与情感设计提供了神经科学依据：情绪与理性都是身体过程，而非分离的官能。",
+   "based_zh": "洛杉矶，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "giovanna-colombetti",
+   "name": "Giovanna Colombetti",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Philosophy, University of Exeter",
+   "based": "Exeter, UK",
+   "bio": "Philosopher who brought affective science and enactivism together, arguing that the whole living body, not only the brain, is the organ of feeling.",
+   "why": "Her affective, enactive account of emotion grounds affective loops and biodata work that treats emotion as a felt bodily process.",
+   "disciplines": [
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://experts.exeter.ac.uk/1082-giovanna-colombetti"
+   },
+   "role_zh": "埃克塞特大学哲学教授",
+   "bio_zh": "哲学家，把情感科学与生成论结合起来，主张整个活的身体而不只是大脑，才是感受的器官。",
+   "why_zh": "她对情绪的情感性、生成论解释，是把情绪当作被感受的身体过程的情感回路与生物数据研究的依据。",
+   "based_zh": "埃克塞特，英国",
+   "connected_to": [
+    "evan-thompson"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "paul-dourish",
+   "name": "Paul Dourish",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Chancellor's Professor of Informatics, University of California, Irvine",
+   "based": "Irvine, US",
+   "bio": "Computer scientist and social scientist who brought phenomenology into HCI and defined embodied interaction.",
+   "why": "Where the Action Is made embodiment a central concept in HCI and opened the path that somaesthetic interaction design followed.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": "https://www.dourish.com"
+   },
+   "role_zh": "加州大学欧文分校信息学讲席教授",
+   "bio_zh": "计算机科学家与社会科学家，把现象学引入人机交互，并定义了“具身交互”。",
+   "why_zh": "《Where the Action Is》让具身成为人机交互的核心概念，开辟了身体美学交互设计后来走的路。",
+   "based_zh": "欧文，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "peter-wright",
+   "name": "Peter Wright",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Social Computing, Open Lab, Newcastle University",
+   "based": "Newcastle, UK",
+   "bio": "HCI researcher who, with John McCarthy, drew on Dewey and Bakhtin to frame technology use as felt, lived experience.",
+   "why": "Experience-centred design gave HCI the pragmatist vocabulary of felt, sensual experience that somaesthetic design extends.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "纽卡斯尔大学 Open Lab 社会计算教授",
+   "bio_zh": "人机交互研究者，与 John McCarthy 一起借鉴 Dewey 与 Bakhtin，把技术使用理解为被感受的、亲历的经验。",
+   "why_zh": "以经验为中心的设计为人机交互带来了关于被感受的、感官经验的实用主义词汇，身体美学设计在此基础上延伸。",
+   "based_zh": "纽卡斯尔，英国",
+   "connected_to": [
+    "john-mccarthy-hci"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "john-mccarthy-hci",
+   "name": "John McCarthy",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Applied Psychology, University College Cork",
+   "based": "Cork, IE",
+   "bio": "Psychologist and HCI researcher who co-developed experience-centred design with Peter Wright.",
+   "why": "Co-author of Technology as Experience, which named the sensual thread of experience as a design concern.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "科克大学应用心理学教授",
+   "bio_zh": "心理学家与人机交互研究者，与 Peter Wright 共同发展了以经验为中心的设计。",
+   "why_zh": "《Technology as Experience》的合著者，这本书把经验中的“感官线索”列为设计议题。",
+   "based_zh": "科克，爱尔兰",
+   "connected_to": [
+    "peter-wright"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "scott-klemmer",
+   "name": "Scott Klemmer",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Cognitive Science and Computer Science, UC San Diego",
+   "based": "San Diego, US",
+   "bio": "HCI researcher working on design tools, tangible interaction and how people learn design.",
+   "why": "His 'How Bodies Matter' gave interaction designers five practical themes for thinking with the body.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": "https://d.ucsd.edu/srk/"
+   },
+   "role_zh": "加州大学圣迭戈分校认知科学与计算机科学教授",
+   "bio_zh": "人机交互研究者，研究设计工具、有形交互以及人们如何学习设计。",
+   "why_zh": "他的《How Bodies Matter》为交互设计师提供了借助身体思考的五个实用主题。",
+   "based_zh": "圣迭戈，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "eva-hornecker",
+   "name": "Eva Hornecker",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Human-Computer Interaction, Bauhaus-Universität Weimar",
+   "based": "Weimar, DE",
+   "bio": "HCI researcher who built frameworks for tangible and embodied interaction, focusing on physical space, bodily movement and social use.",
+   "why": "Her tangible interaction framework named embodied facilitation and full-body interaction as design qualities.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "魏玛包豪斯大学人机交互教授",
+   "bio_zh": "人机交互研究者，建立了有形与具身交互的框架，关注物理空间、身体动作与社会性使用。",
+   "why_zh": "她的有形交互框架把“具身促成”与全身交互列为设计品质。",
+   "based_zh": "魏玛，德国",
+   "connected_to": [
+    "jacob-buur"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jacob-buur",
+   "name": "Jacob Buur",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of User-Centred Design, University of Southern Denmark",
+   "based": "Sønderborg, DK",
+   "bio": "Design researcher who works on participatory innovation and on design as a bodily, material practice.",
+   "why": "Co-author of the tangible interaction framework that brought physical space and bodily interaction into HCI theory.",
+   "disciplines": [
+    "design",
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "南丹麦大学以用户为中心的设计教授",
+   "bio_zh": "设计研究者，研究参与式创新，以及作为身体与材料实践的设计。",
+   "why_zh": "有形交互框架的合著者，这一框架把物理空间与身体互动带入人机交互理论。",
+   "based_zh": "森讷堡，丹麦",
+   "connected_to": [
+    "eva-hornecker"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "astrid-twenebowa-larssen",
+   "name": "Astrid Twenebowa Larssen",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Interaction design researcher, University of Technology Sydney (formerly)",
+   "based": "Sydney, AU",
+   "bio": "Interaction design researcher who studied how movement-based interaction feels from the mover's own perspective.",
+   "why": "Her 'feel dimension' framed technology interaction as kinaesthetic, felt experience rather than visual appearance.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "交互设计研究者，曾任职于悉尼科技大学",
+   "bio_zh": "交互设计研究者，研究基于动作的交互在动作者自身视角中的感受。",
+   "why_zh": "她提出的“感觉维度”把技术交互理解为动觉的、被感受的经验，而非视觉外观。",
+   "based_zh": "悉尼，澳大利亚",
+   "connected_to": [
+    "toni-robertson"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "toni-robertson",
+   "name": "Toni Robertson",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor Emerita of Interaction Design, University of Technology Sydney",
+   "based": "Sydney, AU",
+   "bio": "Interaction design researcher who brought Merleau-Ponty's phenomenology into the study of cooperative work and movement-based interaction.",
+   "why": "With Lian Loke and Astrid Larssen she built the Sydney school of movement-based design that soma design draws on.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "悉尼科技大学交互设计荣休教授",
+   "bio_zh": "交互设计研究者，把 Merleau-Ponty 的现象学引入协同工作与基于动作的交互研究。",
+   "why_zh": "她与 Lian Loke、Astrid Larssen 共同建立了身体设计所借鉴的悉尼动作设计学派。",
+   "based_zh": "悉尼，澳大利亚",
+   "connected_to": [
+    "astrid-twenebowa-larssen"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "maiken-hillerup-fogtmann",
+   "name": "Maiken Hillerup Fogtmann",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Interaction design researcher, Aarhus School of Architecture / Aarhus University",
+   "based": "Aarhus, DK",
+   "bio": "Interaction design researcher who studied bodily engaging games and interactive environments for movement.",
+   "why": "Her kinesthetic interaction concept names the body's kinaesthetic sense as a design material for interaction.",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "role_zh": "奥胡斯建筑学院 / 奥胡斯大学交互设计研究者",
+   "bio_zh": "交互设计研究者，研究调动身体的游戏与鼓励运动的交互环境。",
+   "why_zh": "她提出的“动觉交互”把身体的动觉当作交互的设计材料。",
+   "based_zh": "奥胡斯，丹麦",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "caroline-hummels",
+   "name": "Caroline Hummels",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Design and Theory for Transformative Qualities, Eindhoven University of Technology",
+   "based": "Eindhoven, NL",
+   "bio": "Design researcher who works on embodied, movement-based and first-person design, and on design for societal transformation.",
+   "why": "Her work at TU/e made expressive, rich movement a design aim and connected phenomenology to design practice.",
+   "disciplines": [
+    "design",
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "埃因霍温理工大学变革品质设计与理论教授",
+   "bio_zh": "设计研究者，从事具身的、基于动作的与第一人称的设计，以及面向社会变革的设计。",
+   "why_zh": "她在埃因霍温理工大学的工作把富有表现力的动作确立为设计目标，并把现象学与设计实践联系起来。",
+   "based_zh": "埃因霍温，荷兰",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "dag-svanaes",
+   "name": "Dag Svanæs",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Interaction Design, Norwegian University of Science and Technology (NTNU)",
+   "based": "Trondheim, NO",
+   "bio": "Interaction design researcher who has worked since the 1990s on what Merleau-Ponty's phenomenology means for interaction design.",
+   "why": "His TOCHI paper is the standard reference for designing 'for and with the lived body' in soma design.",
+   "disciplines": [
+    "hci",
+    "philosophy"
+   ],
+   "links": {},
+   "role_zh": "挪威科技大学交互设计教授",
+   "bio_zh": "交互设计研究者，自 1990 年代起研究 Merleau-Ponty 的现象学对交互设计意味着什么。",
+   "why_zh": "他发表在 TOCHI 的论文是身体设计中“为活的身体、与活的身体一起设计”的标准参考。",
+   "based_zh": "特隆赫姆，挪威",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "david-kirsh",
+   "name": "David Kirsh",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Cognitive Science, UC San Diego",
+   "based": "San Diego, US",
+   "bio": "Cognitive scientist who studies thinking with bodies and things, including how dancers think through marking movement.",
+   "why": "His studies of dancers show that the body can be a thinking medium, a key claim for embodied design.",
+   "disciplines": [
+    "hci",
+    "health"
+   ],
+   "links": {
+    "site": "https://adrenaline.ucsd.edu/kirsh/"
+   },
+   "role_zh": "加州大学圣迭戈分校认知科学教授",
+   "bio_zh": "认知科学家，研究人如何借助身体与物来思考，包括舞者如何通过“标记”动作来思考。",
+   "why_zh": "他对舞者的研究表明身体可以是思考的媒介，这是具身设计的关键论点。",
+   "based_zh": "圣迭戈，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "sarah-homewood",
+   "name": "Sarah Homewood",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Design researcher, feminist and somatic HCI",
+   "based": "Copenhagen, DK",
+   "bio": "Design researcher working on feminist, somatic and more-than-human perspectives on the body and self-tracking.",
+   "why": "Her survey traces how HCI has conceived the body, from user to lived soma to more-than-human.",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "role_zh": "设计研究者，女性主义与身体取向的人机交互",
+   "bio_zh": "设计研究者，从女性主义、身体与超越人类的视角研究身体与自我追踪。",
+   "why_zh": "她的综述梳理了人机交互如何理解身体：从“用户”到活的身体，再到超越人类。",
+   "based_zh": "哥本哈根，丹麦",
+   "connected_to": [
+    "susan-kozel"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "susan-kozel",
+   "name": "Susan Kozel",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor, School of Arts and Communication, Malmö University",
+   "based": "Malmö, SE",
+   "bio": "Dancer, philosopher and researcher whose phenomenology of performance with technology shaped somatic approaches in HCI.",
+   "why": "Her book Closer (2007) and her practice bridge dance, phenomenology and interaction design.",
+   "disciplines": [
+    "dance",
+    "philosophy"
+   ],
+   "links": {},
+   "role_zh": "马尔默大学艺术与传播学院教授",
+   "bio_zh": "舞者、哲学家与研究者，她关于技术表演的现象学塑造了人机交互中的身体取向。",
+   "why_zh": "她的著作《Closer》（2007）与实践连接了舞蹈、现象学与交互设计。",
+   "based_zh": "马尔默，瑞典",
+   "connected_to": [
+    "sarah-homewood"
+   ],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "richard-shusterman--pragmatist-aesthetics",
+   "creator_ids": [
+    "richard-shusterman"
+   ],
+   "title": "Pragmatist Aesthetics: Living Beauty, Rethinking Art",
+   "year": 1992,
+   "field": "foundations",
+   "sub": "somaesthetics",
+   "modalities": [
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "attunement"
+   ],
+   "kind": "publication",
+   "description": "Shusterman's first major book reads Dewey's aesthetics against analytic philosophy and ends by proposing that the body and its disciplines belong inside aesthetics, the seed of somaesthetics.",
+   "description_zh": "Shusterman 的第一部重要著作，以 Dewey 的美学回应分析哲学，并在结尾提出身体及其修习应属于美学，这正是身体美学的萌芽。",
+   "idea_en": "Aesthetic experience is lived and bodily, so cultivating how we feel and move is itself an art of living.",
+   "idea_zh": "审美经验是亲历的、身体的，因此培养我们如何感受与运动，本身就是一门生活的艺术。",
+   "method": "Philosophical argument drawing on Dewey's pragmatism, popular arts (rap, dance) and the ethics of self-fashioning.",
+   "method_zh": "以 Dewey 的实用主义为基础，结合流行艺术（说唱、舞蹈）与自我塑造的伦理展开哲学论证。",
+   "keywords": [
+    "somaesthetics",
+    "pragmatism",
+    "Dewey",
+    "art of living",
+    "Richard Shusterman"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=orpesq31bIg"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/id/643150-L.jpg"
+   ],
+   "paper": {
+    "title": "Pragmatist Aesthetics: Living Beauty, Rethinking Art",
+    "venue": "Blackwell 1992; 2nd ed. Rowman & Littlefield 2000",
+    "doi": "10.5771/9781461641179",
+    "url": "https://doi.org/10.5771/9781461641179"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Richard_Shusterman"
+  },
+  {
+   "id": "richard-shusterman--somaesthetics-disciplinary-proposal",
+   "creator_ids": [
+    "richard-shusterman"
+   ],
+   "title": "Somaesthetics: A Disciplinary Proposal",
+   "year": 1999,
+   "field": "foundations",
+   "sub": "somaesthetics",
+   "modalities": [
+    "whole-soma",
+    "movement"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "attunement",
+    "first-person"
+   ],
+   "kind": "paper",
+   "description": "The essay that named and defined somaesthetics as the critical study and meliorative cultivation of the body as the site of sensory-aesthetic appreciation and creative self-fashioning.",
+   "description_zh": "为身体美学命名并下定义的文章：把身体作为感官审美鉴赏与创造性自我塑造的所在，对其进行批判性研究与改良性修养。",
+   "idea_en": "The soma is a sentient, purposive body-mind; improving its felt awareness improves perception, thought and action together.",
+   "idea_zh": "soma 是有感知、有意图的身心；提升对它的感受觉察，就同时提升了知觉、思考与行动。",
+   "method": "Proposes three branches: analytic (theory of the body), pragmatic (methods such as Feldenkrais, yoga, Alexander) and practical (actually doing the disciplines).",
+   "method_zh": "提出三个分支：分析的（身体理论）、实用的（Feldenkrais、瑜伽、亚历山大技巧等方法）与实践的（亲身去修习）。",
+   "keywords": [
+    "somaesthetics",
+    "soma",
+    "Feldenkrais",
+    "Alexander Technique",
+    "JAAC"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Uxe73YY56Zg"
+   },
+   "paper": {
+    "title": "Somaesthetics: A Disciplinary Proposal",
+    "venue": "The Journal of Aesthetics and Art Criticism 57(3)",
+    "doi": "10.2307/432196",
+    "url": "https://doi.org/10.2307/432196"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Somaesthetics"
+  },
+  {
+   "id": "richard-shusterman--body-consciousness",
+   "creator_ids": [
+    "richard-shusterman"
+   ],
+   "title": "Body Consciousness: A Philosophy of Mindfulness and Somaesthetics",
+   "year": 2008,
+   "field": "foundations",
+   "sub": "somaesthetics",
+   "modalities": [
+    "whole-soma",
+    "posture-balance",
+    "movement"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "attunement",
+    "first-person"
+   ],
+   "kind": "publication",
+   "description": "Shusterman reads Merleau-Ponty, Foucault, Beauvoir, Wittgenstein, James and Dewey to argue that explicit, reflective body awareness is worth cultivating, against the view that it disturbs spontaneous action.",
+   "description_zh": "Shusterman 通过解读 Merleau-Ponty、Foucault、Beauvoir、Wittgenstein、James 与 Dewey，论证明确的、反思性的身体觉察值得培养，反驳它会干扰自发行动的观点。",
+   "idea_en": "Habits live in the body-mind; to change them you must first notice, through trained attention, how you actually move and feel.",
+   "idea_zh": "习惯存在于身心之中；要改变它们，必须先通过训练过的注意力，觉察自己实际上如何运动与感受。",
+   "method": "Philosophical critique combined with Shusterman's own Feldenkrais practice, using examples such as neck tension, breathing and posture.",
+   "method_zh": "哲学批判结合 Shusterman 自身的 Feldenkrais 实践，以颈部紧张、呼吸与姿态等为例展开。",
+   "keywords": [
+    "somaesthetics",
+    "body consciousness",
+    "mindfulness",
+    "Feldenkrais",
+    "Merleau-Ponty"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=LXBf2l_tUVI"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/id/2469617-L.jpg"
+   ],
+   "paper": {
+    "title": "Body Consciousness: A Philosophy of Mindfulness and Somaesthetics",
+    "venue": "Cambridge University Press",
+    "doi": "10.1017/CBO9780511802829",
+    "url": "https://doi.org/10.1017/CBO9780511802829"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Somaesthetics"
+  },
+  {
+   "id": "richard-shusterman--thinking-through-the-body",
+   "creator_ids": [
+    "richard-shusterman"
+   ],
+   "title": "Thinking through the Body: Essays in Somaesthetics",
+   "year": 2012,
+   "field": "foundations",
+   "sub": "somaesthetics",
+   "modalities": [
+    "whole-soma",
+    "movement"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "attunement"
+   ],
+   "kind": "publication",
+   "description": "A collection of essays that extends somaesthetics to education, the art of living, East Asian self-cultivation, eroticism and urban experience.",
+   "description_zh": "身体美学文集，把身体美学延伸到教育、生活艺术、东亚修身传统、情爱与城市经验。",
+   "idea_en": "We think with and through the body; educating somatic sensibility is part of educating the mind.",
+   "idea_zh": "我们用身体、也透过身体思考；培养身体的感受力，就是培养心智的一部分。",
+   "method": "Essays combining philosophy, somatic practice and cross-cultural readings, including Confucian and Zen body cultivation.",
+   "method_zh": "结合哲学、身体修习与跨文化解读的文章，包括儒家与禅宗的身体修养。",
+   "keywords": [
+    "somaesthetics",
+    "self-cultivation",
+    "education",
+    "Zen",
+    "Confucianism"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=qzKI9VJbEnY"
+   },
+   "paper": {
+    "title": "Thinking through the Body: Essays in Somaesthetics",
+    "venue": "Cambridge University Press",
+    "doi": "10.1017/CBO9781139094030",
+    "url": "https://doi.org/10.1017/CBO9781139094030"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Richard_Shusterman"
+  },
+  {
+   "id": "john-dewey--art-as-experience",
+   "creator_ids": [
+    "john-dewey"
+   ],
+   "title": "Art as Experience",
+   "year": 1934,
+   "field": "foundations",
+   "sub": "somaesthetics",
+   "modalities": [
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "first-person"
+   ],
+   "kind": "publication",
+   "description": "Dewey's lectures on aesthetics describe 'an experience' as a felt, rhythmic whole that arises when a live creature engages its environment, and root art in everyday bodily life.",
+   "description_zh": "Dewey 的美学讲座把“一个经验”描述为有生命的机体与环境相互作用时产生的、被感受的、有节律的整体，并把艺术扎根于日常身体生活。",
+   "idea_en": "Experience is neither mind nor body alone but the undergoing and doing of a whole organism; aesthetic quality is that experience made full.",
+   "idea_zh": "经验既不单属于心也不单属于身，而是整个机体的“承受”与“作为”；审美品质就是这一经验的充盈。",
+   "method": "Philosophical lectures (William James Lectures, Harvard, 1931) developing a pragmatist theory of experience, art and perception.",
+   "method_zh": "哈佛 William James 讲座（1931）的哲学讲稿，发展了关于经验、艺术与知觉的实用主义理论。",
+   "keywords": [
+    "pragmatism",
+    "an experience",
+    "aesthetic experience",
+    "live creature",
+    "Dewey"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=o3t4TEm6y_w"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/id/260869-L.jpg"
+   ],
+   "paper": {
+    "title": "Art as Experience",
+    "venue": "Minton, Balch & Co. 1934; TarcherPerigee",
+    "url": "https://www.penguinrandomhouse.com/books/296640/art-as-experience-by-john-dewey/"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Art_as_Experience"
+  },
+  {
+   "id": "thomas-hanna--bodies-in-revolt",
+   "creator_ids": [
+    "thomas-hanna"
+   ],
+   "title": "Bodies in Revolt: A Primer in Somatic Thinking",
+   "year": 1970,
+   "field": "foundations",
+   "sub": "somaesthetics",
+   "modalities": [
+    "whole-soma",
+    "movement"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "first-person"
+   ],
+   "kind": "publication",
+   "description": "Hanna's manifesto for 'somatic thinking' argues that Western culture is shifting to treat humans as living somas, bodies experienced from within, rather than as minds carried by machines.",
+   "description_zh": "Hanna 的“身心思维”宣言，认为西方文化正在转向把人看作活的 soma——从内部被经验的身体，而不是被机器承载的心智。",
+   "idea_en": "A soma is the body perceived from within by first-person perception: one self-sensing, self-moving process, not a mind plus a body.",
+   "idea_zh": "soma 是以第一人称从内部感知的身体：一个自我感受、自我运动的过程，而不是心加上身。",
+   "method": "Philosophical essay drawing on Darwin, Nietzsche, Merleau-Ponty and phenomenology; Hanna later defined the term in 'What Is Somatics?' (1986) and built Hanna Somatic Education on it.",
+   "method_zh": "以达尔文、尼采、Merleau-Ponty 与现象学为资源的哲学论著；Hanna 后来在《What Is Somatics?》（1986）中界定了这个词，并据此创立 Hanna 身心教育。",
+   "keywords": [
+    "somatics",
+    "soma",
+    "first-person",
+    "Thomas Hanna",
+    "somatic thinking"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=6PvvNq0E7Vs"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/id/8365877-L.jpg"
+   ],
+   "paper": {
+    "title": "Bodies in Revolt: A Primer in Somatic Thinking",
+    "venue": "Holt, Rinehart and Winston",
+    "url": "https://openlibrary.org/works/OL3811159W"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Thomas_Hanna"
+  },
+  {
+   "id": "don-hanlon-johnson--bone-breath-and-gesture",
+   "creator_ids": [
+    "don-hanlon-johnson"
+   ],
+   "title": "Bone, Breath, and Gesture: Practices of Embodiment",
+   "year": 1995,
+   "field": "foundations",
+   "sub": "somaesthetics",
+   "modalities": [
+    "whole-soma",
+    "breath",
+    "movement"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "attunement"
+   ],
+   "kind": "publication",
+   "description": "An anthology of first-hand writings by the founders of somatic practices, including Elsa Gindler, Charlotte Selver, Ida Rolf, Moshe Feldenkrais, F. M. Alexander, Bonnie Bainbridge Cohen and Emilie Conrad.",
+   "description_zh": "身心学实践创始人的第一手文字选集，收录 Elsa Gindler、Charlotte Selver、Ida Rolf、Moshe Feldenkrais、F. M. Alexander、Bonnie Bainbridge Cohen 与 Emilie Conrad 等人的文章。",
+   "idea_en": "The somatic practices share one premise: attending to breath, bone and movement from within changes the whole person, not a body part.",
+   "idea_zh": "身体修习共享一个前提：从内部留意呼吸、骨骼与动作，改变的是整个人，而不是某个身体部位。",
+   "method": "Edited collection with Johnson's introductions placing each practice in the history of the somatics movement.",
+   "method_zh": "编选文集，Johnson 为每种实践撰写导言，把它放入身心学运动的历史中。",
+   "keywords": [
+    "somatics",
+    "Feldenkrais",
+    "Sensory Awareness",
+    "Rolfing",
+    "Body-Mind Centering"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=HwSdcnPK8bQ"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/id/777359-L.jpg"
+   ],
+   "paper": {
+    "title": "Bone, Breath, and Gesture: Practices of Embodiment",
+    "venue": "North Atlantic Books",
+    "url": "https://openlibrary.org/works/OL4141346W"
+   },
+   "source_url": "https://www.donhanlonjohnson.com"
+  },
+  {
+   "id": "edmund-husserl--ideas-ii",
+   "creator_ids": [
+    "edmund-husserl"
+   ],
+   "title": "Ideas II: Studies in the Phenomenology of Constitution",
+   "year": 1952,
+   "field": "foundations",
+   "sub": "phenomenology",
+   "modalities": [
+    "whole-soma",
+    "touch",
+    "movement"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "first-person"
+   ],
+   "kind": "publication",
+   "description": "The second book of Husserl's Ideas analyses how the lived body (Leib) is constituted: as the zero point of orientation, the organ of will and the bearer of localised sensations felt when one hand touches the other.",
+   "description_zh": "Husserl《观念》第二卷分析“活的身体”（Leib）如何被构成：它是定向的零点、意志的器官，也是一只手触摸另一只手时被感受到的定位感觉的载体。",
+   "idea_en": "The body I live is felt from inside as mine; touching and being touched at once shows it is both subject and object.",
+   "idea_zh": "我所活的身体从内部被感受为“我的”；触摸与被触摸同时发生，表明它既是主体也是客体。",
+   "method": "Phenomenological description written 1912–1928 and published posthumously in Husserliana IV (1952); English translation by Rojcewicz and Schuwer (1989).",
+   "method_zh": "写于 1912–1928 年的现象学描述，身后于 1952 年收入《胡塞尔全集》第四卷出版；英译本由 Rojcewicz 与 Schuwer 于 1989 年完成。",
+   "keywords": [
+    "Leib",
+    "Körper",
+    "lived body",
+    "double sensation",
+    "Husserl"
+   ],
+   "images": [
+    "https://covers.openlibrary.org/b/isbn/9780792307136-L.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/8/8d/Edmund_Husserl_1910s.jpg"
+   ],
+   "paper": {
+    "title": "Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, Second Book",
+    "venue": "Kluwer / Springer (Husserliana: Collected Works III)",
+    "doi": "10.1007/978-94-009-2233-4",
+    "url": "https://doi.org/10.1007/978-94-009-2233-4"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Edmund_Husserl"
+  },
+  {
+   "id": "maurice-merleau-ponty--phenomenology-of-perception",
+   "creator_ids": [
+    "maurice-merleau-ponty"
+   ],
+   "title": "Phenomenology of Perception",
+   "year": 1945,
+   "field": "foundations",
+   "sub": "phenomenology",
+   "modalities": [
+    "whole-soma",
+    "movement",
+    "posture-balance"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "first-person"
+   ],
+   "kind": "publication",
+   "description": "Merleau-Ponty's main work shows that perception is carried out by a lived body with its own motor know-how, the body schema, which reaches into tools and space before any thought about them.",
+   "description_zh": "Merleau-Ponty 的代表作表明，知觉由拥有自身运动知识（身体图式）的活的身体完成，身体在任何思考之前就已伸展进工具与空间。",
+   "idea_en": "I do not have a body, I am my body: understanding happens first as motor intentionality, the body's 'I can'.",
+   "idea_zh": "我不是拥有一个身体，我就是我的身体：理解首先以运动意向性、即身体的“我能”发生。",
+   "method": "Phenomenological analysis drawing on Gestalt psychology and clinical cases such as Schneider, phantom limbs and the blind man's cane.",
+   "method_zh": "借助格式塔心理学与临床案例（如 Schneider 病例、幻肢、盲人的手杖）进行现象学分析。",
+   "keywords": [
+    "Merleau-Ponty",
+    "body schema",
+    "motor intentionality",
+    "lived body",
+    "phenomenology"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=JFj8kWm_N-Y"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/9/98/Maurice_Merleau-Ponty.jpg"
+   ],
+   "paper": {
+    "title": "Phenomenology of Perception",
+    "venue": "Gallimard 1945; Routledge (trans. Donald A. Landes, 2012)",
+    "doi": "10.4324/9780203720714",
+    "url": "https://doi.org/10.4324/9780203720714"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Phenomenology_of_Perception"
+  },
+  {
+   "id": "maurice-merleau-ponty--the-visible-and-the-invisible",
+   "creator_ids": [
+    "maurice-merleau-ponty"
+   ],
+   "title": "The Visible and the Invisible",
+   "year": 1964,
+   "field": "foundations",
+   "sub": "phenomenology",
+   "modalities": [
+    "touch",
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "intercorporeality"
+   ],
+   "kind": "publication",
+   "description": "Merleau-Ponty's unfinished last work introduces 'the flesh', a single element of which perceiver and perceived, body and world, are both made, and the reversibility of touching and being touched.",
+   "description_zh": "Merleau-Ponty 未完成的遗作提出“肉身”（la chair）：感知者与被感知者、身体与世界都由这同一元素构成；以及触摸与被触摸的可逆性。",
+   "idea_en": "Body and world are of one flesh; to feel is always also to be felt, which dissolves the line between subject and object.",
+   "idea_zh": "身体与世界同属一块肉身；感受总同时是被感受，这消解了主体与客体的界线。",
+   "method": "Manuscript and working notes edited by Claude Lefort after Merleau-Ponty's death in 1961.",
+   "method_zh": "Merleau-Ponty 于 1961 年去世后，由 Claude Lefort 编辑出版的手稿与工作笔记。",
+   "keywords": [
+    "flesh",
+    "chiasm",
+    "reversibility",
+    "intercorporeality",
+    "Merleau-Ponty"
+   ],
+   "images": [
+    "https://northwest-press-us.imgix.net/covers/9780810104570.jpg",
+    "https://covers.openlibrary.org/b/id/9791967-L.jpg"
+   ],
+   "paper": {
+    "title": "The Visible and the Invisible",
+    "venue": "Gallimard 1964; Northwestern University Press (trans. Alphonso Lingis, 1968)",
+    "url": "https://nupress.northwestern.edu/9780810104570/the-visible-and-the-invisible/"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Maurice_Merleau-Ponty"
+  },
+  {
+   "id": "maxine-sheets-johnstone--the-primacy-of-movement",
+   "creator_ids": [
+    "maxine-sheets-johnstone"
+   ],
+   "title": "The Primacy of Movement",
+   "year": 1999,
+   "field": "foundations",
+   "sub": "phenomenology",
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "movement-expression",
+    "first-person"
+   ],
+   "kind": "publication",
+   "description": "Sheets-Johnstone argues that animate movement is the origin of our sense of self, agency and concepts: we are first movers, and we learn ourselves by moving.",
+   "description_zh": "Sheets-Johnstone 主张有生命的运动是自我感、能动性与概念的源头：我们首先是运动者，并在运动中认识自己。",
+   "idea_en": "Thinking in movement is real thinking; kinesthetic experience comes before and shapes language and reflection.",
+   "idea_zh": "“在运动中思考”是真正的思考；动觉经验先于语言与反思，并塑造它们。",
+   "method": "Phenomenological and evolutionary analysis drawing on dance, infant development and comparative biology.",
+   "method_zh": "结合舞蹈、婴儿发展与比较生物学的现象学与进化分析。",
+   "keywords": [
+    "kinesthesia",
+    "animate form",
+    "thinking in movement",
+    "dance",
+    "Sheets-Johnstone"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=zhYAqejZdzI"
+   },
+   "paper": {
+    "title": "The Primacy of Movement",
+    "venue": "John Benjamins (Advances in Consciousness Research 14)",
+    "doi": "10.1075/aicr.14",
+    "url": "https://doi.org/10.1075/aicr.14"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Maxine_Sheets-Johnstone"
+  },
+  {
+   "id": "eugene-gendlin--experiencing-and-the-creation-of-meaning",
+   "creator_ids": [
+    "eugene-gendlin"
+   ],
+   "title": "Experiencing and the Creation of Meaning",
+   "year": 1962,
+   "field": "foundations",
+   "sub": "phenomenology",
+   "modalities": [
+    "whole-soma",
+    "pain-interoception"
+   ],
+   "lenses": [
+    "first-person",
+    "body-mind-unity",
+    "attunement"
+   ],
+   "kind": "publication",
+   "description": "Gendlin's philosophical work describes 'experiencing', the bodily felt flow that is always richer than words, and how new meaning forms when we attend to it and let it be carried forward.",
+   "description_zh": "Gendlin 的哲学著作描述“体验”（experiencing）：一种总比语言更丰富的身体感受之流，以及当我们留意它、让它向前推进时新意义如何形成。",
+   "idea_en": "Meaning is felt in the body before it is said; attending to that felt sense lets precise words and new ideas emerge.",
+   "idea_zh": "意义在被说出之前已在身体中被感受到；留意这种“体会”，才能让准确的语言与新想法浮现。",
+   "method": "Philosophical analysis of the relation between felt experience and symbolisation; the basis for the Focusing practice (1978) and Thinking at the Edge.",
+   "method_zh": "对被感受的经验与符号化之间关系的哲学分析；是 Focusing 实践（1978）与 Thinking at the Edge 的基础。",
+   "keywords": [
+    "felt sense",
+    "experiencing",
+    "Focusing",
+    "implicit",
+    "Gendlin"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Wu7C67LscYk"
+   },
+   "images": [
+    "https://northwest-press-us.imgix.net/covers/9780810114272.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/b/ba/Gene_Gendlin_1088_PCE_conference_Germany.jpg"
+   ],
+   "paper": {
+    "title": "Experiencing and the Creation of Meaning",
+    "venue": "Free Press 1962; Northwestern University Press 1997",
+    "url": "https://nupress.northwestern.edu/9780810114272/experiencing-and-the-creation-of-meaning/"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Focusing_(psychotherapy)"
+  },
+  {
+   "id": "drew-leder--the-absent-body",
+   "creator_ids": [
+    "drew-leder"
+   ],
+   "title": "The Absent Body",
+   "year": 1990,
+   "field": "foundations",
+   "sub": "phenomenology",
+   "modalities": [
+    "pain-interoception",
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "attunement",
+    "care-healing"
+   ],
+   "kind": "publication",
+   "description": "Leder asks why the body, the ground of all experience, usually disappears from awareness, and shows how it 'dys-appears', returning as a problem, in pain, illness and breakdown.",
+   "description_zh": "Leder 追问：作为一切经验基础的身体为何平时从意识中消失？他指出身体在疼痛、疾病与失灵时会“异常显现”，作为问题回到意识里。",
+   "idea_en": "Dualism grows from the body's own tendency to recede; noticing the body without waiting for pain is a practice to cultivate.",
+   "idea_zh": "二元论源自身体自身的隐退倾向；不必等到疼痛才去觉察身体，这是一种需要培养的修习。",
+   "method": "Phenomenological analysis of the surface body, the visceral depths and the body in pain, drawing on Merleau-Ponty and on Asian contemplative traditions.",
+   "method_zh": "借鉴 Merleau-Ponty 与亚洲沉思传统，对表层身体、内脏深处与疼痛中的身体进行现象学分析。",
+   "keywords": [
+    "absent body",
+    "dys-appearance",
+    "visceral body",
+    "pain",
+    "Leder"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=baUVUUmHnf8"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/id/141745-L.jpg"
+   ],
+   "paper": {
+    "title": "The Absent Body",
+    "venue": "University of Chicago Press",
+    "url": "https://openlibrary.org/works/OL1807680W"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Drew_Leder"
+  },
+  {
+   "id": "iris-marion-young--throwing-like-a-girl",
+   "creator_ids": [
+    "iris-marion-young"
+   ],
+   "title": "Throwing Like a Girl: A Phenomenology of Feminine Body Comportment, Motility, and Spatiality",
+   "year": 1980,
+   "field": "foundations",
+   "sub": "phenomenology",
+   "modalities": [
+    "movement",
+    "posture-balance"
+   ],
+   "lenses": [
+    "body-politics",
+    "first-person",
+    "body-mind-unity"
+   ],
+   "kind": "paper",
+   "description": "Young describes how women in a sexist society often move with hesitancy, use only part of the body and experience it as a thing, and traces this to social norms rather than biology.",
+   "description_zh": "Young 描述了在性别歧视社会中女性常常迟疑地运动、只调用身体的一部分、并把身体当作物体来体验，并将此归因于社会规范而非生理。",
+   "idea_en": "How we feel our own capacities is shaped by norms; the lived body is always a gendered, situated body.",
+   "idea_zh": "我们如何感受自身的能力受规范塑造；活的身体总是有性别、处在情境中的身体。",
+   "method": "Feminist reading of Merleau-Ponty and Beauvoir, applied to everyday movements such as throwing, carrying and taking up space.",
+   "method_zh": "以女性主义视角解读 Merleau-Ponty 与 Beauvoir，并应用于投掷、搬运、占据空间等日常动作。",
+   "keywords": [
+    "feminist phenomenology",
+    "motility",
+    "comportment",
+    "gender",
+    "Iris Marion Young"
+   ],
+   "images": [
+    "https://covers.openlibrary.org/b/id/7358974-L.jpg"
+   ],
+   "paper": {
+    "title": "Throwing like a girl: A phenomenology of feminine body comportment motility and spatiality",
+    "venue": "Human Studies 3",
+    "doi": "10.1007/BF02331805",
+    "url": "https://doi.org/10.1007/BF02331805"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Throwing_Like_a_Girl"
+  },
+  {
+   "id": "shaun-gallagher--how-the-body-shapes-the-mind",
+   "creator_ids": [
+    "shaun-gallagher"
+   ],
+   "title": "How the Body Shapes the Mind",
+   "year": 2005,
+   "field": "foundations",
+   "sub": "phenomenology",
+   "modalities": [
+    "posture-balance",
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "first-person"
+   ],
+   "kind": "publication",
+   "description": "Gallagher separates the body schema, the pre-reflective system that runs posture and movement, from the body image, what we perceive and believe about our body, and shows how both shape cognition.",
+   "description_zh": "Gallagher 区分了身体图式（前反思地调控姿态与动作的系统）与身体意象（我们对自身身体的知觉与信念），并说明二者如何塑造认知。",
+   "idea_en": "Much of the mind works through a body schema we never notice; design can act on it without passing through conscious image.",
+   "idea_zh": "心智的大部分运作依赖我们从未察觉的身体图式；设计可以直接作用于它，而不必经过有意识的身体意象。",
+   "method": "Integrates phenomenology with neuroscience and clinical cases such as deafferentation (Ian Waterman), neonate imitation and schizophrenia.",
+   "method_zh": "把现象学与神经科学和临床案例相结合，如传入神经阻断（Ian Waterman）、新生儿模仿与精神分裂症。",
+   "keywords": [
+    "body schema",
+    "body image",
+    "4E cognition",
+    "proprioception",
+    "Gallagher"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=M7ghXdujfLE"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/id/133614-L.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/2/26/ShaunGallagher.jpg"
+   ],
+   "paper": {
+    "title": "How the Body Shapes the Mind",
+    "venue": "Oxford University Press",
+    "doi": "10.1093/0199271941.001.0001",
+    "url": "https://doi.org/10.1093/0199271941.001.0001"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Shaun_Gallagher"
+  },
+  {
+   "id": "francisco-varela--the-embodied-mind",
+   "creator_ids": [
+    "francisco-varela",
+    "evan-thompson",
+    "eleanor-rosch"
+   ],
+   "title": "The Embodied Mind: Cognitive Science and Human Experience",
+   "year": 1991,
+   "field": "foundations",
+   "sub": "enactive",
+   "modalities": [
+    "whole-soma",
+    "breath"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "first-person",
+    "attunement"
+   ],
+   "kind": "publication",
+   "description": "The book that named enaction: cognition as embodied action that brings forth a world, joined with Buddhist mindfulness as a disciplined way to examine lived experience.",
+   "description_zh": "为“生成”（enaction）命名的著作：认知是带出一个世界的具身行动，并以佛教正念作为考察亲历经验的严谨方法。",
+   "idea_en": "Mind is not inside the head but enacted by a living body in its world, and experience can be trained and studied from within.",
+   "idea_zh": "心智不在头颅之内，而是由活的身体在其世界中生成的；经验可以从内部被训练、被研究。",
+   "method": "Brings together cognitive science, phenomenology and Madhyamaka and Abhidharma Buddhism, with mindfulness/awareness meditation as a method.",
+   "method_zh": "融合认知科学、现象学与中观、阿毗达磨佛学，以正念/觉知禅修为方法。",
+   "keywords": [
+    "enaction",
+    "embodied cognition",
+    "mindfulness",
+    "Buddhism",
+    "Varela"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=xhS9ffDcLOk"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/id/152634-L.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/c/cf/Francisco_Varela.jpg"
+   ],
+   "paper": {
+    "title": "The Embodied Mind: Cognitive Science and Human Experience",
+    "venue": "MIT Press",
+    "doi": "10.7551/mitpress/6730.001.0001",
+    "url": "https://doi.org/10.7551/mitpress/6730.001.0001"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Enactivism"
+  },
+  {
+   "id": "evan-thompson--mind-in-life",
+   "creator_ids": [
+    "evan-thompson"
+   ],
+   "title": "Mind in Life: Biology, Phenomenology, and the Sciences of Mind",
+   "year": 2007,
+   "field": "foundations",
+   "sub": "enactive",
+   "modalities": [
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "first-person"
+   ],
+   "kind": "publication",
+   "description": "Thompson argues for a deep continuity of life and mind: the self-organising processes of living organisms already carry the basic structure of sense-making that experience develops.",
+   "description_zh": "Thompson 主张生命与心智的深度连续性：生命体自我组织的过程本身就具有意义生成的基本结构，经验在此之上展开。",
+   "idea_en": "Where there is life there is mind; the felt body is the living organism experiencing itself, not a container for a mind.",
+   "idea_zh": "有生命之处就有心智；被感受的身体是生命体对自身的经验，而不是装着心智的容器。",
+   "method": "Combines autopoiesis and dynamical systems theory with Husserlian phenomenology of time, emotion and empathy.",
+   "method_zh": "把自创生、动力系统理论与 Husserl 关于时间、情绪和移情的现象学相结合。",
+   "keywords": [
+    "enactivism",
+    "autopoiesis",
+    "sense-making",
+    "neurophenomenology",
+    "Evan Thompson"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=rG3daqNH700"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/id/412723-L.jpg"
+   ],
+   "paper": {
+    "title": "Mind in Life: Biology, Phenomenology, and the Sciences of Mind",
+    "venue": "Belknap Press of Harvard University Press",
+    "url": "https://www.hup.harvard.edu/books/9780674057517"
+   },
+   "source_url": "https://evanthompson.me"
+  },
+  {
+   "id": "humberto-maturana--the-tree-of-knowledge",
+   "creator_ids": [
+    "humberto-maturana",
+    "francisco-varela"
+   ],
+   "title": "The Tree of Knowledge: The Biological Roots of Human Understanding",
+   "year": 1987,
+   "field": "foundations",
+   "sub": "enactive",
+   "modalities": [
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "more-than-human"
+   ],
+   "kind": "publication",
+   "description": "An accessible account of autopoiesis: living beings are self-producing systems, and knowing is the living process by which an organism brings forth a world with others.",
+   "description_zh": "对自创生理论的通俗阐述：生命体是自我生产的系统，认知是生命体与他者一起带出一个世界的生命过程。",
+   "idea_en": "To live is to know: cognition is not a mind representing the world but the whole organism coupling with its environment.",
+   "idea_zh": "活着就是认知：认知不是心智表征世界，而是整个生命体与环境相互耦合。",
+   "method": "Biological and philosophical argument illustrated with examples from cell biology, nervous systems, language and social coupling.",
+   "method_zh": "以细胞生物学、神经系统、语言与社会耦合为例展开的生物学与哲学论证。",
+   "keywords": [
+    "autopoiesis",
+    "structural coupling",
+    "enaction",
+    "Maturana",
+    "Varela"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=fQFlceVouPA"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/isbn/9780877736424-L.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/0/02/Humberto_Maturana-FILSA2015.jpg"
+   ],
+   "paper": {
+    "title": "The Tree of Knowledge: The Biological Roots of Human Understanding",
+    "venue": "New Science Library / Shambhala",
+    "url": "https://openlibrary.org/works/OL1418978W"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Autopoiesis"
+  },
+  {
+   "id": "george-lakoff--metaphors-we-live-by",
+   "creator_ids": [
+    "george-lakoff",
+    "mark-johnson"
+   ],
+   "title": "Metaphors We Live By",
+   "year": 1980,
+   "field": "foundations",
+   "sub": "enactive",
+   "modalities": [
+    "whole-soma",
+    "posture-balance",
+    "heat"
+   ],
+   "lenses": [
+    "body-mind-unity"
+   ],
+   "kind": "publication",
+   "description": "Lakoff and Johnson show that everyday thought is structured by conceptual metaphors grounded in bodily experience, such as HAPPY IS UP, AFFECTION IS WARMTH and ARGUMENT IS WAR.",
+   "description_zh": "Lakoff 与 Johnson 指出，日常思维由扎根于身体经验的概念隐喻所结构，如“快乐是上”“亲密是温暖”“辩论是战争”。",
+   "idea_en": "Abstract meaning is built from felt bodily experience of up and down, warm and cold, near and far.",
+   "idea_zh": "抽象意义由上与下、暖与冷、近与远等被感受的身体经验建构。",
+   "method": "Linguistic analysis of systematic patterns in everyday English expressions.",
+   "method_zh": "对日常英语表达中系统模式的语言学分析。",
+   "keywords": [
+    "conceptual metaphor",
+    "embodied meaning",
+    "cognitive linguistics",
+    "Lakoff",
+    "Johnson"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=XWYaoAoijdQ"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/isbn/9780226468006-L.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/a/a4/Metaphors_We_Live_By_book_cover.jpg"
+   ],
+   "paper": {
+    "title": "Metaphors We Live By",
+    "venue": "University of Chicago Press",
+    "doi": "10.7208/chicago/9780226470993.001.0001",
+    "url": "https://doi.org/10.7208/chicago/9780226470993.001.0001"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Metaphors_We_Live_By"
+  },
+  {
+   "id": "george-lakoff--philosophy-in-the-flesh",
+   "creator_ids": [
+    "george-lakoff",
+    "mark-johnson"
+   ],
+   "title": "Philosophy in the Flesh: The Embodied Mind and Its Challenge to Western Thought",
+   "year": 1999,
+   "field": "foundations",
+   "sub": "enactive",
+   "modalities": [
+    "whole-soma",
+    "movement"
+   ],
+   "lenses": [
+    "body-mind-unity"
+   ],
+   "kind": "publication",
+   "description": "Lakoff and Johnson argue from cognitive science that the mind is inherently embodied, thought is mostly unconscious and abstract concepts are largely metaphorical, and re-read Western philosophy in that light.",
+   "description_zh": "Lakoff 与 Johnson 依据认知科学主张：心智本质上是具身的，思维大多是无意识的，抽象概念主要是隐喻性的，并据此重读西方哲学。",
+   "idea_en": "There is no disembodied reason: the same neural and bodily systems that let us move and perceive also structure how we think.",
+   "idea_zh": "不存在脱离身体的理性：让我们运动与知觉的神经与身体系统，同样结构着我们的思考方式。",
+   "method": "Synthesis of cognitive linguistics and neuroscience, applied to concepts of time, causation, mind, self and morality.",
+   "method_zh": "综合认知语言学与神经科学，应用于时间、因果、心智、自我与道德等概念。",
+   "keywords": [
+    "embodied mind",
+    "conceptual metaphor",
+    "cognitive unconscious",
+    "Lakoff",
+    "Johnson"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=WuUnMCq-ARQ"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/id/298974-L.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/2/25/George_Lakoff.jpg"
+   ],
+   "paper": {
+    "title": "Philosophy in the Flesh: The Embodied Mind and Its Challenge to Western Thought",
+    "venue": "Basic Books",
+    "url": "https://www.hachettebookgroup.com/titles/george-lakoff/philosophy-in-the-flesh/9780465056743/"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/George_Lakoff"
+  },
+  {
+   "id": "mark-johnson--the-body-in-the-mind",
+   "creator_ids": [
+    "mark-johnson"
+   ],
+   "title": "The Body in the Mind: The Bodily Basis of Meaning, Imagination, and Reason",
+   "year": 1987,
+   "field": "foundations",
+   "sub": "enactive",
+   "modalities": [
+    "posture-balance",
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-mind-unity"
+   ],
+   "kind": "publication",
+   "description": "Johnson introduces image schemas, recurring patterns of bodily experience such as balance, containment, path and force, and shows how they structure imagination and reason.",
+   "description_zh": "Johnson 提出“意象图式”——平衡、容器、路径、力等反复出现的身体经验模式，并说明它们如何结构想象与推理。",
+   "idea_en": "Reason grows out of the felt patterns of a moving, balancing body.",
+   "idea_zh": "理性从一个运动着、保持平衡的身体所感受到的模式中生长出来。",
+   "method": "Philosophical analysis of image schemas and their metaphorical projection, with examples from balance, force and containment.",
+   "method_zh": "对意象图式及其隐喻投射的哲学分析，以平衡、力与容器等为例。",
+   "keywords": [
+    "image schema",
+    "balance",
+    "embodied imagination",
+    "Mark Johnson"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=nda7xAIG3d0"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/id/11011367-L.jpg"
+   ],
+   "paper": {
+    "title": "The Body in the Mind: The Bodily Basis of Meaning, Imagination, and Reason",
+    "venue": "University of Chicago Press",
+    "doi": "10.7208/chicago/9780226177847.001.0001",
+    "url": "https://doi.org/10.7208/chicago/9780226177847.001.0001"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Image_schema"
+  },
+  {
+   "id": "mark-johnson--the-meaning-of-the-body",
+   "creator_ids": [
+    "mark-johnson"
+   ],
+   "title": "The Meaning of the Body: Aesthetics of Human Understanding",
+   "year": 2007,
+   "field": "foundations",
+   "sub": "enactive",
+   "modalities": [
+    "whole-soma",
+    "movement"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "attunement"
+   ],
+   "kind": "publication",
+   "description": "Johnson argues that meaning begins below words, in felt qualities, emotions and movement, and that aesthetics, the study of how things feel, is therefore the ground of all understanding.",
+   "description_zh": "Johnson 主张意义始于语言之下，在被感受的品质、情绪与动作之中；因此研究“事物如何被感受”的美学，是一切理解的基础。",
+   "idea_en": "Meaning is felt before it is thought; the qualities of bodily experience are where sense begins.",
+   "idea_zh": "意义先被感受，后被思考；身体经验的品质是意义开始的地方。",
+   "method": "Pragmatist philosophy drawing on Dewey, James, Gendlin and cognitive neuroscience, with examples from music, painting and infant development.",
+   "method_zh": "以 Dewey、James、Gendlin 与认知神经科学为资源的实用主义哲学，以音乐、绘画与婴儿发展为例。",
+   "keywords": [
+    "embodied meaning",
+    "aesthetics",
+    "felt qualities",
+    "pragmatism",
+    "Mark Johnson"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=HaMeGdrKnEE"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/id/1148004-L.jpg"
+   ],
+   "paper": {
+    "title": "The Meaning of the Body: Aesthetics of Human Understanding",
+    "venue": "University of Chicago Press",
+    "doi": "10.7208/chicago/9780226026992.001.0001",
+    "url": "https://doi.org/10.7208/chicago/9780226026992.001.0001"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Mark_Johnson_(philosopher)"
+  },
+  {
+   "id": "alva-noe--action-in-perception",
+   "creator_ids": [
+    "alva-noe"
+   ],
+   "title": "Action in Perception",
+   "year": 2004,
+   "field": "foundations",
+   "sub": "enactive",
+   "modalities": [
+    "movement",
+    "light-vision",
+    "touch"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "first-person"
+   ],
+   "kind": "publication",
+   "description": "Noë argues that perception is not something that happens in us but something we do: to perceive is to have practical, bodily knowledge of how sensation changes as we move.",
+   "description_zh": "Noë 主张知觉不是发生在我们身上的事，而是我们去做的事：知觉就是对“运动时感觉如何变化”的实践性、身体性知识。",
+   "idea_en": "Perceiving is a skilful activity of the whole moving body, so changing how we move changes what we feel and see.",
+   "idea_zh": "知觉是整个运动身体的技能活动，因此改变我们的动作方式就会改变我们的感受与所见。",
+   "method": "Philosophical argument using sensory substitution, change blindness, inverting goggles and touch as test cases for the sensorimotor theory.",
+   "method_zh": "以感官替代、变化盲视、倒视镜与触觉为检验案例，论证感觉运动理论。",
+   "keywords": [
+    "enactive perception",
+    "sensorimotor contingencies",
+    "sensory substitution",
+    "Alva Noë"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=MoOHWHEJOLU"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/id/152218-L.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/5/56/Alva_No%C3%AB_%283419836383%29.jpg"
+   ],
+   "paper": {
+    "title": "Action in Perception",
+    "venue": "MIT Press",
+    "url": "https://mitpress.mit.edu/9780262640633/action-in-perception/"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Alva_No%C3%AB"
+  },
+  {
+   "id": "antonio-damasio--descartes-error",
+   "creator_ids": [
+    "antonio-damasio"
+   ],
+   "title": "Descartes' Error: Emotion, Reason, and the Human Brain",
+   "year": 1994,
+   "field": "foundations",
+   "sub": "enactive",
+   "modalities": [
+    "pain-interoception",
+    "heartbeat",
+    "skin-arousal"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "affective-loop"
+   ],
+   "kind": "publication",
+   "description": "Damasio's somatic marker hypothesis shows that bodily feelings tied to emotion guide decisions, so patients who lose them reason badly despite intact logic.",
+   "description_zh": "Damasio 的躯体标记假说表明，与情绪相连的身体感受引导着决策；失去这些感受的病人即使逻辑完好，也难以做出合理判断。",
+   "idea_en": "Descartes' error was separating mind from body: reason depends on the body's felt signals.",
+   "idea_zh": "笛卡尔的错误在于把心与身分开：理性依赖身体被感受到的信号。",
+   "method": "Neurological case studies (Phineas Gage, patient Elliot), the Iowa Gambling Task and skin conductance measures.",
+   "method_zh": "神经学个案研究（Phineas Gage、病人 Elliot）、爱荷华赌博任务与皮肤电测量。",
+   "keywords": [
+    "somatic marker hypothesis",
+    "emotion",
+    "decision making",
+    "interoception",
+    "Damasio"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=1wup_K2WN0I"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/id/111239-L.jpg"
+   ],
+   "paper": {
+    "title": "Descartes' Error: Emotion, Reason, and the Human Brain",
+    "venue": "G. P. Putnam's Sons 1994; Penguin",
+    "url": "https://www.penguinrandomhouse.com/books/297609/descartes-error-by-antonio-damasio/"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Descartes%27_Error"
+  },
+  {
+   "id": "antonio-damasio--the-feeling-of-what-happens",
+   "creator_ids": [
+    "antonio-damasio"
+   ],
+   "title": "The Feeling of What Happens: Body and Emotion in the Making of Consciousness",
+   "year": 1999,
+   "field": "foundations",
+   "sub": "enactive",
+   "modalities": [
+    "pain-interoception",
+    "heartbeat",
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "affective-loop"
+   ],
+   "kind": "publication",
+   "description": "Damasio traces consciousness to the brain's ongoing mapping of the body's internal state: a proto-self from which core and extended selves arise as feelings of what happens.",
+   "description_zh": "Damasio 把意识追溯到大脑对身体内部状态的持续映射：由“原我”生出核心自我与延展自我，也就是对所发生之事的感受。",
+   "idea_en": "The sense of self begins as the felt body: consciousness is rooted in interoceptive feeling.",
+   "idea_zh": "自我感始于被感受的身体：意识扎根于内感受。",
+   "method": "Neuroscientific theory built on lesion studies, neuroanatomy and clinical observation of disorders of consciousness.",
+   "method_zh": "基于脑损伤研究、神经解剖与意识障碍临床观察的神经科学理论。",
+   "keywords": [
+    "consciousness",
+    "proto-self",
+    "interoception",
+    "emotion",
+    "Damasio"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=LMrzdk_YnYY"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/id/112081-L.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/e/e4/Ant%C3%B3nio_Dam%C3%A1sio_no_Fronteiras_do_Pensamento_Porto_Alegre_2013_cropped.png"
+   ],
+   "paper": {
+    "title": "The Feeling of What Happens: Body and Emotion in the Making of Consciousness",
+    "venue": "Harcourt Brace",
+    "url": "https://openlibrary.org/works/OL3499048W"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Antonio_Damasio"
+  },
+  {
+   "id": "giovanna-colombetti--the-feeling-body",
+   "creator_ids": [
+    "giovanna-colombetti"
+   ],
+   "title": "The Feeling Body: Affective Science Meets the Enactive Mind",
+   "year": 2014,
+   "field": "foundations",
+   "sub": "enactive",
+   "modalities": [
+    "whole-soma",
+    "heartbeat",
+    "skin-arousal"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "affective-loop"
+   ],
+   "kind": "publication",
+   "description": "Colombetti argues that the whole living body is affective, that emotion is not a separate module but a dynamical pattern of the organism, and that bodily feelings can be background, not only objects of attention.",
+   "description_zh": "Colombetti 主张整个活的身体都是情感性的：情绪不是独立的模块，而是机体的动态模式；身体感受可以作为背景存在，而不只是注意的对象。",
+   "idea_en": "Feeling is not added to cognition; the body is the feeling organ of a single, affective sense-making process.",
+   "idea_zh": "感受不是附加在认知之上的；身体是同一个情感性意义生成过程的感受器官。",
+   "method": "Philosophical synthesis of enactivism, phenomenology and affective science, including psychophysiology and dynamical systems.",
+   "method_zh": "综合生成论、现象学与情感科学（包括心理生理学与动力系统）的哲学论述。",
+   "keywords": [
+    "affectivity",
+    "enactivism",
+    "emotion",
+    "bodily feelings",
+    "Colombetti"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=s3SaLKHBmxU"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/id/8882071-L.jpg"
+   ],
+   "paper": {
+    "title": "The Feeling Body: Affective Science Meets the Enactive Mind",
+    "venue": "MIT Press",
+    "doi": "10.7551/mitpress/9780262019958.001.0001",
+    "url": "https://doi.org/10.7551/mitpress/9780262019958.001.0001"
+   },
+   "source_url": "https://experts.exeter.ac.uk/1082-giovanna-colombetti"
+  },
+  {
+   "id": "thomas-fuchs--enactive-intersubjectivity",
+   "creator_ids": [
+    "thomas-fuchs",
+    "hanne-de-jaegher"
+   ],
+   "title": "Enactive Intersubjectivity: Participatory Sense-Making and Mutual Incorporation",
+   "year": 2009,
+   "field": "foundations",
+   "sub": "enactive",
+   "modalities": [
+    "touch",
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "body-mind-unity"
+   ],
+   "kind": "paper",
+   "description": "Fuchs and De Jaegher describe social understanding as bodies in interaction: through coordinated movement and rhythm, each partner's body extends into the other's, creating meaning neither makes alone.",
+   "description_zh": "Fuchs 与 De Jaegher 把社会理解描述为互动中的身体：通过协调的动作与节律，每个人的身体都延伸进对方的身体，创造出单方无法独自产生的意义。",
+   "idea_en": "Understanding others is not mind-reading but mutual incorporation: two bodies forming one felt system.",
+   "idea_zh": "理解他人不是“读心”，而是相互吸纳：两个身体构成一个被共同感受的系统。",
+   "method": "Theoretical paper combining Merleau-Ponty's intercorporeality with dynamical systems and developmental studies of interaction.",
+   "method_zh": "把 Merleau-Ponty 的身体间性与动力系统和互动发展研究相结合的理论论文。",
+   "keywords": [
+    "participatory sense-making",
+    "intercorporeality",
+    "mutual incorporation",
+    "enactivism",
+    "social cognition"
+   ],
+   "also": [
+    "social"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=AiFuQD-ZWy4"
+   },
+   "paper": {
+    "title": "Enactive intersubjectivity: Participatory sense-making and mutual incorporation",
+    "venue": "Phenomenology and the Cognitive Sciences 8(4)",
+    "doi": "10.1007/s11097-009-9136-4",
+    "url": "https://doi.org/10.1007/s11097-009-9136-4"
+   },
+   "source_url": "https://hannedejaegher.net"
+  },
+  {
+   "id": "thomas-fuchs--ecology-of-the-brain",
+   "creator_ids": [
+    "thomas-fuchs"
+   ],
+   "title": "Ecology of the Brain: The Phenomenology and Biology of the Embodied Mind",
+   "year": 2018,
+   "field": "foundations",
+   "sub": "enactive",
+   "modalities": [
+    "whole-soma",
+    "heartbeat"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "intercorporeality"
+   ],
+   "kind": "publication",
+   "description": "Fuchs argues against 'brain-centrism': the brain is an organ that mediates the relations of a living body with its environment and with others, not the seat of the mind.",
+   "description_zh": "Fuchs 反对“大脑中心主义”：大脑是调节活的身体与环境、与他人之间关系的器官，而不是心智的居所。",
+   "idea_en": "The person, not the brain, feels and thinks; mind is a living body in relation.",
+   "idea_zh": "感受与思考的是人，而不是大脑；心智是处在关系中的活的身体。",
+   "method": "Phenomenological and biological argument using circular causality, homeostasis, body memory and psychiatric cases.",
+   "method_zh": "以循环因果、稳态、身体记忆与精神病学案例展开的现象学与生物学论证。",
+   "keywords": [
+    "embodied mind",
+    "brain",
+    "circular causality",
+    "body memory",
+    "Fuchs"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=m4eB2VfvYwk"
+   },
+   "paper": {
+    "title": "Ecology of the Brain: The Phenomenology and Biology of the Embodied Mind",
+    "venue": "Oxford University Press",
+    "doi": "10.1093/med/9780199646883.001.0001",
+    "url": "https://doi.org/10.1093/med/9780199646883.001.0001"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Thomas_Fuchs_(psychiatrist)"
+  },
+  {
+   "id": "paul-dourish--where-the-action-is",
+   "creator_ids": [
+    "paul-dourish"
+   ],
+   "title": "Where the Action Is: The Foundations of Embodied Interaction",
+   "year": 2001,
+   "field": "foundations",
+   "sub": "hci-theory",
+   "modalities": [
+    "whole-soma",
+    "touch"
+   ],
+   "lenses": [
+    "body-mind-unity"
+   ],
+   "kind": "publication",
+   "description": "Dourish draws on Heidegger, Merleau-Ponty, Schutz and Wittgenstein to define embodied interaction: meaning arises through engaged action in the physical and social world, which tangible and social computing should support.",
+   "description_zh": "Dourish 借助 Heidegger、Merleau-Ponty、Schutz 与 Wittgenstein 定义了“具身交互”：意义在物理与社会世界中的投入行动中产生，有形计算与社会计算应当支持这一点。",
+   "idea_en": "Interaction is not a mind operating a device but a body acting in a world; design for what people do, not what they represent.",
+   "idea_zh": "交互不是心智操作设备，而是身体在世界中行动；要为人们“做什么”设计，而不是为他们“表征什么”设计。",
+   "method": "Theoretical synthesis of phenomenology with tangible and social computing research, closing with design principles for embodied interaction.",
+   "method_zh": "把现象学与有形计算、社会计算研究相综合，最后提出具身交互的设计原则。",
+   "keywords": [
+    "embodied interaction",
+    "phenomenology",
+    "tangible computing",
+    "social computing",
+    "Dourish"
+   ],
+   "images": [
+    "https://covers.openlibrary.org/b/id/149713-L.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/9/97/Paul_Dourish_in_Pasadena%2C_2010.jpg"
+   ],
+   "paper": {
+    "title": "Where the Action Is: The Foundations of Embodied Interaction",
+    "venue": "MIT Press",
+    "doi": "10.7551/mitpress/7221.001.0001",
+    "url": "https://doi.org/10.7551/mitpress/7221.001.0001"
+   },
+   "source_url": "https://www.dourish.com"
+  },
+  {
+   "id": "john-mccarthy-hci--technology-as-experience",
+   "creator_ids": [
+    "john-mccarthy-hci",
+    "peter-wright"
+   ],
+   "title": "Technology as Experience",
+   "year": 2004,
+   "field": "foundations",
+   "sub": "hci-theory",
+   "modalities": [
+    "whole-soma"
+   ],
+   "lenses": [
+    "first-person",
+    "body-mind-unity"
+   ],
+   "kind": "publication",
+   "description": "McCarthy and Wright build a pragmatist account of experience with technology, naming four threads, the sensual, emotional, compositional and spatio-temporal, and six sense-making processes.",
+   "description_zh": "McCarthy 与 Wright 建立了技术经验的实用主义解释，提出四条线索（感官的、情感的、构成的、时空的）与六个意义生成过程。",
+   "idea_en": "Experience with technology is felt and lived as a whole; the sensual thread is as much part of it as function.",
+   "idea_zh": "与技术相处的经验是作为整体被感受和亲历的；感官线索与功能同样是它的一部分。",
+   "method": "Theoretical framework drawing on Dewey and Bakhtin, illustrated with cases from online shopping to Internet banking.",
+   "method_zh": "以 Dewey 与 Bakhtin 为资源的理论框架，以从网购到网上银行等案例加以说明。",
+   "keywords": [
+    "experience-centred design",
+    "pragmatism",
+    "Dewey",
+    "sensual thread",
+    "felt experience"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=V8ZnMHysJkw"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/id/1154743-L.jpg"
+   ],
+   "paper": {
+    "title": "Technology as Experience",
+    "venue": "MIT Press",
+    "doi": "10.7551/mitpress/6687.001.0001",
+    "url": "https://doi.org/10.7551/mitpress/6687.001.0001"
+   }
+  },
+  {
+   "id": "scott-klemmer--how-bodies-matter",
+   "creator_ids": [
+    "scott-klemmer"
+   ],
+   "title": "How Bodies Matter: Five Themes for Interaction Design",
+   "year": 2006,
+   "field": "foundations",
+   "sub": "hci-theory",
+   "modalities": [
+    "movement",
+    "touch"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "movement-expression"
+   ],
+   "kind": "paper",
+   "description": "Klemmer, Hartmann and Takayama distil five themes from embodied cognition for interaction design: thinking through doing, performance, visibility, risk, and thickness of practice.",
+   "description_zh": "Klemmer、Hartmann 与 Takayama 从具身认知中提炼出五个交互设计主题：通过做来思考、表演、可见性、风险与实践的厚度。",
+   "idea_en": "People think with their hands and bodies, so interfaces that strip away bodily engagement also strip away thinking.",
+   "idea_zh": "人用手和身体思考；剥夺身体参与的界面，也剥夺了思考。",
+   "method": "Synthesis of research from psychology, education, sociology and philosophy into design themes, with examples from tangible interfaces.",
+   "method_zh": "把心理学、教育、社会学与哲学的研究综合为设计主题，并以有形界面为例。",
+   "keywords": [
+    "embodied cognition",
+    "thinking through doing",
+    "tangible interaction",
+    "DIS"
+   ],
+   "paper": {
+    "title": "How bodies matter: five themes for interaction design",
+    "venue": "DIS 2006",
+    "doi": "10.1145/1142405.1142429",
+    "url": "https://doi.org/10.1145/1142405.1142429"
+   },
+   "source_url": "https://d.ucsd.edu/srk/",
+   "collections": [
+    "dis"
+   ]
+  },
+  {
+   "id": "eva-hornecker--getting-a-grip-on-tangible-interaction",
+   "creator_ids": [
+    "eva-hornecker",
+    "jacob-buur"
+   ],
+   "title": "Getting a Grip on Tangible Interaction: A Framework on Physical Space and Social Interaction",
+   "year": 2006,
+   "field": "foundations",
+   "sub": "hci-theory",
+   "modalities": [
+    "touch",
+    "movement"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "movement-expression"
+   ],
+   "kind": "paper",
+   "description": "Hornecker and Buur propose a framework for tangible interaction with four themes, tangible manipulation, spatial interaction, embodied facilitation and expressive representation, that treats bodily movement in space as interaction.",
+   "description_zh": "Hornecker 与 Buur 提出有形交互的框架，包含四个主题：有形操作、空间交互、具身促成与表现性表征，把身体在空间中的运动视为交互。",
+   "idea_en": "Bodies in space are always interacting, with things and with each other; design should shape that whole-body, social situation.",
+   "idea_zh": "空间中的身体始终在与物、与彼此互动；设计要塑造的是这一全身的、社会性的情境。",
+   "method": "Conceptual framework derived from literature and case studies of tangible and interactive installations.",
+   "method_zh": "从文献与有形/交互装置案例研究中推导出的概念框架。",
+   "keywords": [
+    "tangible interaction",
+    "embodied facilitation",
+    "spatial interaction",
+    "CHI"
+   ],
+   "paper": {
+    "title": "Getting a grip on tangible interaction: a framework on physical space and social interaction",
+    "venue": "CHI 2006",
+    "doi": "10.1145/1124772.1124838",
+    "url": "https://doi.org/10.1145/1124772.1124838"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "astrid-twenebowa-larssen--the-feel-dimension",
+   "creator_ids": [
+    "astrid-twenebowa-larssen",
+    "toni-robertson"
+   ],
+   "title": "The Feel Dimension of Technology Interaction: Exploring Tangibles through Movement and Touch",
+   "year": 2007,
+   "field": "foundations",
+   "sub": "hci-theory",
+   "modalities": [
+    "movement",
+    "touch"
+   ],
+   "lenses": [
+    "first-person",
+    "movement-expression"
+   ],
+   "kind": "paper",
+   "description": "Larssen, Robertson and Edwards argue that interaction with technology should be understood from how it feels to the moving body, using kinaesthetic and tactile experience rather than visual appearance as the design lens.",
+   "description_zh": "Larssen、Robertson 与 Edwards 主张从运动中的身体“感觉如何”来理解技术交互，以动觉与触觉经验而非视觉外观作为设计视角。",
+   "idea_en": "How an interaction feels in the mover's body is a design dimension in its own right.",
+   "idea_zh": "交互在动作者身体中的感受，本身就是一个设计维度。",
+   "method": "Conceptual paper grounded in Merleau-Ponty and illustrated with analysis of movement-based and tangible interactions.",
+   "method_zh": "以 Merleau-Ponty 为理论基础，并以对动作与有形交互的分析加以说明的概念性论文。",
+   "keywords": [
+    "feel dimension",
+    "kinaesthesia",
+    "tangible interaction",
+    "movement-based interaction",
+    "TEI"
+   ],
+   "paper": {
+    "title": "The feel dimension of technology interaction: exploring tangibles through movement and touch",
+    "venue": "TEI 2007",
+    "doi": "10.1145/1226969.1227024",
+    "url": "https://doi.org/10.1145/1226969.1227024"
+   },
+   "collections": [
+    "tei"
+   ]
+  },
+  {
+   "id": "maiken-hillerup-fogtmann--kinesthetic-interaction",
+   "creator_ids": [
+    "maiken-hillerup-fogtmann"
+   ],
+   "title": "Kinesthetic Interaction: Revealing the Bodily Potential in Interaction Design",
+   "year": 2008,
+   "field": "foundations",
+   "sub": "hci-theory",
+   "modalities": [
+    "movement",
+    "posture-balance"
+   ],
+   "lenses": [
+    "movement-expression",
+    "pleasure-play"
+   ],
+   "kind": "paper",
+   "description": "Fogtmann, Fritsch and Kortbek define kinesthetic interaction as a concept for designing with the body's kinaesthetic sense, with design parameters such as engagement, sociality and movability.",
+   "description_zh": "Fogtmann、Fritsch 与 Kortbek 把“动觉交互”定义为借助身体动觉进行设计的概念，并提出投入度、社会性与可动性等设计参数。",
+   "idea_en": "The kinaesthetic sense, how we feel our own movement, is a material designers can work with directly.",
+   "idea_zh": "动觉——我们对自身运动的感受——是设计师可以直接使用的材料。",
+   "method": "Theoretical framework drawing on physiology and phenomenology, applied to interactive installations for movement.",
+   "method_zh": "借鉴生理学与现象学的理论框架，应用于鼓励运动的交互装置。",
+   "keywords": [
+    "kinesthetic interaction",
+    "kinaesthesia",
+    "movement",
+    "OZCHI"
+   ],
+   "paper": {
+    "title": "Kinesthetic interaction: revealing the bodily potential in interaction design",
+    "venue": "OZCHI 2008",
+    "doi": "10.1145/1517744.1517770",
+    "url": "https://doi.org/10.1145/1517744.1517770"
+   }
+  },
+  {
+   "id": "caroline-hummels--move-to-get-moved",
+   "creator_ids": [
+    "caroline-hummels"
+   ],
+   "title": "Move to Get Moved: A Search for Methods, Tools and Knowledge to Design for Expressive and Rich Movement-Based Interaction",
+   "year": 2007,
+   "field": "foundations",
+   "sub": "hci-theory",
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "movement-expression",
+    "body-mind-unity"
+   ],
+   "kind": "paper",
+   "description": "Hummels, Overbeeke and Klooster argue that movement-based interaction should aim at expressive, rich movement that engages people's perceptual-motor, emotional and social skills, and propose design methods to get there.",
+   "description_zh": "Hummels、Overbeeke 与 Klooster 主张基于动作的交互应追求富有表现力的、丰富的动作，调动人的知觉运动、情感与社会技能，并提出实现这一目标的设计方法。",
+   "idea_en": "Designers must move to be moved: bodily skill and emotion are one, and designing movement requires moving yourself.",
+   "idea_zh": "设计师要“动起来才能被打动”：身体技能与情感是一体的，设计动作就要亲身去动。",
+   "method": "Reflection on design cases and education at TU/e, drawing on phenomenology and Gibson's ecological psychology.",
+   "method_zh": "基于埃因霍温理工大学的设计案例与教学反思，借鉴现象学与 Gibson 的生态心理学。",
+   "keywords": [
+    "movement-based interaction",
+    "expressive movement",
+    "design methods",
+    "TU/e"
+   ],
+   "also": [
+    "methods"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=GHtx5SCuYgY"
+   },
+   "paper": {
+    "title": "Move to get moved: a search for methods, tools and knowledge to design for expressive and rich movement-based interaction",
+    "venue": "Personal and Ubiquitous Computing 11(8)",
+    "doi": "10.1007/s00779-006-0135-y",
+    "url": "https://doi.org/10.1007/s00779-006-0135-y"
+   }
+  },
+  {
+   "id": "dag-svanaes--interaction-design-for-and-with-the-lived-body",
+   "creator_ids": [
+    "dag-svanaes"
+   ],
+   "title": "Interaction Design for and with the Lived Body: Some Implications of Merleau-Ponty's Phenomenology",
+   "year": 2013,
+   "field": "foundations",
+   "sub": "hci-theory",
+   "modalities": [
+    "whole-soma",
+    "movement"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "first-person"
+   ],
+   "kind": "paper",
+   "description": "Svanæs reads Merleau-Ponty for interaction designers: the lived body, body schema and motor intentionality, and proposes that designers use their own bodies as instruments in the design process.",
+   "description_zh": "Svanæs 为交互设计师解读 Merleau-Ponty：活的身体、身体图式与运动意向性，并提出设计师应在设计过程中把自己的身体当作工具。",
+   "idea_en": "Design for the lived body by designing with it: the designer's own felt, moving body is a source of design knowledge.",
+   "idea_zh": "为活的身体设计，就要用活的身体来设计：设计师自身被感受的、运动的身体是设计知识的来源。",
+   "method": "Philosophical analysis with design examples, including role-play and bodily enactment in a health-technology project.",
+   "method_zh": "结合设计实例的哲学分析，包括一个健康技术项目中的角色扮演与身体演绎。",
+   "keywords": [
+    "Merleau-Ponty",
+    "lived body",
+    "body schema",
+    "TOCHI",
+    "embodied interaction"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=pmwt0JRdEzA"
+   },
+   "paper": {
+    "title": "Interaction design for and with the lived body: Some implications of Merleau-Ponty's phenomenology",
+    "venue": "ACM Transactions on Computer-Human Interaction 20(1)",
+    "doi": "10.1145/2442106.2442114",
+    "url": "https://doi.org/10.1145/2442106.2442114"
+   }
+  },
+  {
+   "id": "david-kirsh--embodied-cognition-and-the-magical-future",
+   "creator_ids": [
+    "david-kirsh"
+   ],
+   "title": "Embodied Cognition and the Magical Future of Interaction Design",
+   "year": 2013,
+   "field": "foundations",
+   "sub": "hci-theory",
+   "modalities": [
+    "movement",
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "movement-expression"
+   ],
+   "kind": "paper",
+   "description": "Kirsh reviews embodied cognition and reports his studies of dancers 'marking' a phrase, showing that people think by using their bodies and things as external representations.",
+   "description_zh": "Kirsh 回顾具身认知，并报告他对舞者“标记”舞句的研究，表明人把身体与物当作外部表征来思考。",
+   "idea_en": "The body is a thinking medium: moving a partial version of an action helps us reason about the whole.",
+   "idea_zh": "身体是思考的媒介：做出一个动作的局部版本，能帮助我们推理整个动作。",
+   "method": "Review of embodied cognition plus empirical study with professional dancers at Random Dance (Wayne McGregor).",
+   "method_zh": "具身认知综述，加上与 Wayne McGregor 的 Random Dance 舞团专业舞者合作的实证研究。",
+   "keywords": [
+    "embodied cognition",
+    "marking",
+    "dance",
+    "TOCHI",
+    "thinking with the body"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Vhcubb00g6c"
+   },
+   "paper": {
+    "title": "Embodied cognition and the magical future of interaction design",
+    "venue": "ACM Transactions on Computer-Human Interaction 20(1)",
+    "doi": "10.1145/2442106.2442109",
+    "url": "https://doi.org/10.1145/2442106.2442109"
+   }
+  },
+  {
+   "id": "sarah-homewood--tracing-conceptions-of-the-body-in-hci",
+   "creator_ids": [
+    "sarah-homewood",
+    "susan-kozel"
+   ],
+   "title": "Tracing Conceptions of the Body in HCI: From User to More-Than-Human",
+   "year": 2021,
+   "field": "foundations",
+   "sub": "hci-theory",
+   "modalities": [
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-politics",
+    "more-than-human",
+    "body-mind-unity"
+   ],
+   "kind": "paper",
+   "description": "Homewood, Hedemyr, Fagerberg Ranten and Kozel trace how HCI has conceived the body, from the user's body as an input device, through the lived, somatic body, to the more-than-human body entangled with other beings.",
+   "description_zh": "Homewood、Hedemyr、Fagerberg Ranten 与 Kozel 梳理了人机交互如何理解身体：从作为输入设备的用户身体，到活的、身体性的身体，再到与其他存在交织的超越人类的身体。",
+   "idea_en": "Which body we assume shapes what we design; the soma is one step toward bodies that are relational and more-than-human.",
+   "idea_zh": "我们预设怎样的身体，就会设计出怎样的东西；soma 是走向关系性、超越人类的身体的一步。",
+   "method": "Critical literature review of CHI and related publications, organised by conceptions of the body.",
+   "method_zh": "对 CHI 及相关出版物的批判性文献综述，按身体观加以组织。",
+   "keywords": [
+    "body in HCI",
+    "more-than-human",
+    "soma",
+    "feminist HCI",
+    "CHI"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=g4Nrd5mv_Tk"
+   },
+   "paper": {
+    "title": "Tracing Conceptions of the Body in HCI: From User to More-Than-Human",
+    "venue": "CHI 2021",
+    "doi": "10.1145/3411764.3445656",
+    "url": "https://doi.org/10.1145/3411764.3445656"
+   },
+   "collections": [
+    "chi"
+   ]
+  }
+ ],
+ "leads": [
+  {
+   "name": "Wonjun Lee, Youn-kyung Lim & Richard Shusterman — Practicing Somaesthetics (DIS 2014)",
+   "why": "Somaesthetic training for product designers; Korean first authors (KAIST), passed to the east-asia batch as a lead by methods.",
+   "link": "https://doi.org/10.1145/2598510.2598561",
+   "found_via": "richard-shusterman",
+   "status": "open"
+  },
+  {
+   "name": "Thomas Hanna — What Is Somatics? (1986)",
+   "why": "Source of the definition of soma as the body perceived from within by first-person perception; no stable online copy found (somatics.org behind a bot wall).",
+   "link": "https://en.wikipedia.org/wiki/Thomas_Hanna",
+   "found_via": "thomas-hanna",
+   "status": "no_media"
+  },
+  {
+   "name": "Eugene Gendlin — Focusing (1978)",
+   "why": "Already in the practices batch (eugene-gendlin--focusing-book).",
+   "link": "https://en.wikipedia.org/wiki/Focusing_(psychotherapy)",
+   "found_via": "eugene-gendlin",
+   "status": "duplicate"
+  },
+  {
+   "name": "Loke & Robertson — Moving and Making Strange (TOCHI 2013)",
+   "why": "Estrangement method; owned by methods batch.",
+   "link": "https://doi.org/10.1145/2442106.2442112",
+   "found_via": "toni-robertson",
+   "status": "duplicate"
+  },
+  {
+   "name": "Thecla Schiphorst — soft(n) (CHI EA 2009) and Self-evidence: somatic connoisseurship (CHI EA 2011)",
+   "why": "Schiphorst's somatic theory papers; left to methods (articulation) / social batches.",
+   "link": "https://doi.org/10.1145/1979742.1979640",
+   "found_via": "richard-shusterman",
+   "status": "open"
+  },
+  {
+   "name": "Ezequiel Di Paolo, Marieke Rohde & Hanne De Jaegher — Sensorimotor Life (2017) / Linguistic Bodies (2018)",
+   "why": "Current enactive theory of bodily sense-making; could join foundations/enactive.",
+   "link": "https://global.oup.com/academic/product/sensorimotor-life-9780198786849",
+   "found_via": "hanne-de-jaegher",
+   "status": "open"
+  },
+  {
+   "name": "Susan Kozel — Closer: Performance, Technologies, Phenomenology (MIT Press 2007)",
+   "why": "Already in the methods batch (first-person method).",
+   "link": "https://mitpress.mit.edu/9780262113106/closer/",
+   "found_via": "susan-kozel",
+   "status": "duplicate"
+  },
+  {
+   "name": "Maxine Sheets-Johnstone — The Corporeal Turn (2009) / The Phenomenology of Dance (1966)",
+   "why": "Further key works on kinesthesia and dance.",
+   "link": "https://en.wikipedia.org/wiki/Maxine_Sheets-Johnstone",
+   "found_via": "maxine-sheets-johnstone",
+   "status": "open"
+  },
+  {
+   "name": "Shaun Gallagher & Dan Zahavi — The Phenomenological Mind (2008)",
+   "why": "Standard textbook linking phenomenology and cognitive science.",
+   "link": "https://en.wikipedia.org/wiki/Dan_Zahavi",
+   "found_via": "shaun-gallagher",
+   "status": "open"
+  },
+  {
+   "name": "Lucy Suchman — Plans and Situated Actions (1987)",
+   "why": "Situated action; precursor to embodied interaction in HCI (less body-focused).",
+   "link": "https://en.wikipedia.org/wiki/Lucy_Suchman",
+   "found_via": "paul-dourish",
+   "status": "open"
+  },
+  {
+   "name": "Jin Moen — From hand-held to body-worn / Kinetic movement design (2005–2007)",
+   "why": "Early movement-based interaction theory (KTH).",
+   "link": "https://dblp.org/search?q=Jin+Moen",
+   "found_via": "astrid-twenebowa-larssen",
+   "status": "open"
+  },
+  {
+   "name": "Lian Loke, Astrid Larssen & Toni Robertson — Understanding movement for interaction design: frameworks and approaches (PUC 2007)",
+   "why": "Survey of movement frameworks (Laban, Benesh, Feldenkrais) for HCI.",
+   "link": "https://doi.org/10.1007/s00779-006-0132-1",
+   "found_via": "toni-robertson",
+   "status": "open"
+  },
+  {
+   "name": "Yuasa Yasuo — The Body: Toward an Eastern Mind-Body Theory (1987); Ichikawa Hiroshi — 精神としての身体",
+   "why": "East Asian body-mind oneness; owned by east-asia batch.",
+   "link": "https://en.wikipedia.org/wiki/Yasuo_Yuasa",
+   "found_via": "drew-leder",
+   "status": "open"
+  },
+  {
+   "name": "Lisa Feldman Barrett — How Emotions Are Made (2017); Bud Craig — How Do You Feel? (2015)",
+   "why": "Interoception and constructed emotion; could join foundations/enactive or affect/interoception.",
+   "link": "https://en.wikipedia.org/wiki/Lisa_Feldman_Barrett",
+   "found_via": "antonio-damasio",
+   "status": "open"
+  },
+  {
+   "name": "Richard Shusterman — The Adventures of the Man in Gold (2016)",
+   "why": "Shusterman's own somaesthetic performance-art project with Yann Toma; fits movement/somatic-art.",
+   "link": "https://en.wikipedia.org/wiki/Richard_Shusterman",
+   "found_via": "richard-shusterman",
+   "status": "open"
+  }
+ ]
+}

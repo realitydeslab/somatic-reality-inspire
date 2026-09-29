@@ -1,0 +1,2294 @@
+{
+ "batch": "affect-biodata",
+ "creators": [
+  {
+   "id": "noura-howell",
+   "name": "Noura Howell",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Assistant Professor, School of Literature, Media, and Communication, Georgia Tech",
+   "based": "Atlanta, US",
+   "bio": "HCI researcher and designer who builds emotional biosensing garments and installations; PhD from UC Berkeley's School of Information, now directs the Future Feelings Lab at Georgia Tech.",
+   "why": "Howell's work treats biosignals as ambiguous social cues and life-affirming presence rather than as readings of what a person 'really' feels.",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {
+    "site": "https://nourahowell.com"
+   },
+   "role_zh": "佐治亚理工学院文学、媒体与传播学院助理教授",
+   "bio_zh": "人机交互研究者与设计师，制作情绪生物传感服装与装置；博士毕业于加州大学伯克利分校信息学院，现主持佐治亚理工的 Future Feelings Lab。",
+   "why_zh": "Howell 把生物信号当作模糊的社交线索和对生命在场的肯定，而不是对人“真实”情绪的读数。",
+   "based_zh": "亚特兰大，美国",
+   "connected_to": [
+    "fannie-liu"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "fannie-liu",
+   "name": "Fannie Liu",
+   "name_zh": "",
+   "kind": "person",
+   "role": "HCI researcher; research scientist at Snap Research during Significant Otter",
+   "based": "New York, US",
+   "bio": "HCI researcher who studied expressive biosignals in a PhD at Carnegie Mellon's HCI Institute and built heart-rate sharing apps for close relationships.",
+   "why": "Liu showed how shared heart rate can become an expressive, felt social cue between people, and where it threatens agency over one's own feelings.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": "https://research.snap.com/publications/significant-otter-understanding-the-role-of-biosignals-in-communication.html"
+   },
+   "role_zh": "人机交互研究者；Significant Otter 期间任 Snap Research 研究科学家",
+   "bio_zh": "人机交互研究者，在卡内基梅隆大学人机交互研究所的博士研究聚焦“可表达的生物信号”，为亲密关系设计了心率分享应用。",
+   "why_zh": "Liu 展示了共享心率如何成为人与人之间可表达、可感受的社交线索，也指出它在哪些地方威胁到人对自身感受的主导权。",
+   "based_zh": "纽约，美国",
+   "connected_to": [
+    "noura-howell"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "george-poonkhin-khut",
+   "name": "George Poonkhin Khut",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist; Senior Lecturer, UNSW Art & Design",
+   "based": "Sydney, AU",
+   "bio": "Australian artist and interaction designer who has made heart-rate, breath and brainwave biofeedback artworks since the early 2000s, for galleries and for children's hospitals.",
+   "why": "Khut's biofeedback art turns heart and breath into a slow, first-person practice of attending to the body-mind, citing somatic bodywork and Shusterman's somaesthetics.",
+   "disciplines": [
+    "art",
+    "health"
+   ],
+   "links": {
+    "site": "https://www.georgekhut.com",
+    "youtube": "https://www.youtube.com/@georgekhut/videos"
+   },
+   "role_zh": "艺术家；新南威尔士大学艺术与设计学院高级讲师",
+   "bio_zh": "澳大利亚艺术家、交互设计师，自 2000 年代初起创作心率、呼吸与脑电生物反馈艺术，作品既进美术馆也进儿童医院。",
+   "why_zh": "Khut 的生物反馈艺术把心跳与呼吸变成一种慢下来、以第一人称关照身心的练习，并明确援引身体工作法与 Shusterman 的身体美学。",
+   "based_zh": "悉尼，澳大利亚",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ana-tajadura-jimenez",
+   "name": "Ana Tajadura-Jiménez",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Associate Professor, Universidad Carlos III de Madrid; lead of the i_mBODY Lab",
+   "based": "Madrid, ES",
+   "bio": "Researcher in multisensory body perception who uses sound to change how people feel their own body; led the ERC project BODYinTRANSIT.",
+   "why": "Tajadura-Jiménez shows that the felt body is plastic: altering the sounds of one's own steps can make the body feel lighter and change mood and gait together.",
+   "disciplines": [
+    "hci",
+    "health"
+   ],
+   "links": {
+    "site": "https://imbodylab.com/ana-tajadura-jimenez/"
+   },
+   "role_zh": "马德里卡洛斯三世大学副教授，i_mBODY 实验室负责人",
+   "bio_zh": "研究多感官身体知觉，用声音改变人对自身身体的感受；主持欧洲研究理事会项目 BODYinTRANSIT。",
+   "why_zh": "Tajadura-Jiménez 揭示了被感受的身体是可塑的：改变自己脚步的声音，就能让身体变轻，同时改变情绪与步态。",
+   "based_zh": "马德里，西班牙",
+   "connected_to": [
+    "manos-tsakiris"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "manos-tsakiris",
+   "name": "Manos Tsakiris",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Psychology, Royal Holloway, University of London",
+   "based": "London, GB",
+   "bio": "Psychologist and neuroscientist of the bodily self, interoception and body ownership; leads the Lab of Action & Body.",
+   "why": "Tsakiris's experiments tie how well we feel our own heartbeat to how firmly we feel we own our body, grounding the self in interoception.",
+   "disciplines": [
+    "health"
+   ],
+   "links": {
+    "site": "https://www.royalholloway.ac.uk/"
+   },
+   "role_zh": "伦敦大学皇家霍洛威学院心理学教授",
+   "bio_zh": "研究身体自我、内感受与身体拥有感的心理学家与神经科学家，主持 Lab of Action & Body。",
+   "why_zh": "Tsakiris 的实验把人感受自己心跳的能力与身体拥有感的稳固程度联系起来，让“自我”扎根于内感受。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [
+    "ana-tajadura-jimenez",
+    "doppel"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "doppel",
+   "name": "doppel",
+   "name_zh": "",
+   "kind": "company",
+   "role": "Wearable technology company",
+   "based": "London, GB",
+   "bio": "London start-up founded in 2015 by four Royal College of Art / Imperial College graduates that makes a wristband emitting a heartbeat-like pulse.",
+   "why": "Instead of measuring the body, doppel acts on it through felt rhythm, using interoceptive entrainment to change arousal.",
+   "disciplines": [
+    "design",
+    "engineering"
+   ],
+   "links": {
+    "site": "https://feeldoppel.co.uk"
+   },
+   "role_zh": "可穿戴技术公司",
+   "bio_zh": "伦敦初创公司，由四位皇家艺术学院 / 帝国理工学院毕业生于 2015 年创立，产品是一只发出类似心跳脉动的腕带。",
+   "why_zh": "doppel 不去测量身体，而是通过可感受的节律作用于身体，借内感受的同步来改变唤醒水平。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [
+    "manos-tsakiris"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jean-costa",
+   "name": "Jean Costa",
+   "name_zh": "",
+   "kind": "person",
+   "role": "HCI researcher (PhD, Cornell University)",
+   "based": "Ithaca, US",
+   "bio": "HCI researcher who designed wearables that regulate emotion through false and ambient bodily feedback, working with Tanzeem Choudhury and Malte Jung at Cornell.",
+   "why": "Costa's work shows that what we believe about our own body signals changes what we feel, opening a design space of interoceptive suggestion.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "人机交互研究者（康奈尔大学博士）",
+   "bio_zh": "人机交互研究者，在康奈尔大学与 Tanzeem Choudhury、Malte Jung 合作，设计通过虚假或环境化的身体反馈来调节情绪的可穿戴设备。",
+   "why_zh": "Costa 的研究表明，我们对自身身体信号的相信会改变我们的感受，由此打开“内感受暗示”的设计空间。",
+   "based_zh": "伊萨卡，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "kirsten-boehner",
+   "name": "Kirsten Boehner",
+   "name_zh": "",
+   "kind": "person",
+   "role": "HCI researcher (PhD, Cornell University)",
+   "based": "Ithaca, US",
+   "bio": "Researcher in information science and critical HCI who, with Dourish and Sengers, formulated the interactional approach to emotion in design.",
+   "why": "Boehner's work reframed emotion in HCI from information to be detected into experience that people make and interpret together.",
+   "disciplines": [
+    "hci",
+    "philosophy"
+   ],
+   "links": {},
+   "role_zh": "人机交互研究者（康奈尔大学博士）",
+   "bio_zh": "信息科学与批判性人机交互研究者，与 Dourish、Sengers 一起提出了设计中理解情绪的“互动观”。",
+   "why_zh": "Boehner 的工作把人机交互中的情绪从“有待检测的信息”重新定义为人们共同创造、共同诠释的经验。",
+   "based_zh": "伊萨卡，美国",
+   "connected_to": [
+    "phoebe-sengers"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "phoebe-sengers",
+   "name": "Phoebe Sengers",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Information Science and Science & Technology Studies, Cornell University",
+   "based": "Ithaca, US",
+   "bio": "Cultural theorist and technologist whose work on reflective design, affect and ambiguity shaped critical and experiential HCI.",
+   "why": "Sengers argued that systems should leave room for multiple interpretations of experience, a basis for designing with ambiguous body data.",
+   "disciplines": [
+    "hci",
+    "philosophy"
+   ],
+   "links": {},
+   "role_zh": "康奈尔大学信息科学与科学技术研究教授",
+   "bio_zh": "文化理论家与技术研究者，其关于反思性设计、情感与模糊性的工作塑造了批判性与体验导向的人机交互。",
+   "why_zh": "Sengers 主张系统应为经验保留多重诠释的空间，这是用模糊的身体数据做设计的基础。",
+   "based_zh": "伊萨卡，美国",
+   "connected_to": [
+    "kirsten-boehner"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "rosalind-picard",
+   "name": "Rosalind Picard",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor, MIT Media Lab; founder of the Affective Computing group",
+   "based": "Cambridge, US",
+   "bio": "Electrical engineer who founded the field of affective computing and co-founded Affectiva and Empatica.",
+   "why": "Picard's programme of sensing and modelling emotion is the reference point that soma design both builds on and argues with.",
+   "disciplines": [
+    "engineering",
+    "hci"
+   ],
+   "links": {
+    "site": "https://www.media.mit.edu/people/picard/overview/"
+   },
+   "role_zh": "麻省理工学院媒体实验室教授，情感计算研究组创始人",
+   "bio_zh": "电气工程师，开创了情感计算领域，并参与创办 Affectiva 与 Empatica。",
+   "why_zh": "Picard 感知并建模情绪的研究纲领，是身体设计既借鉴又与之争论的参照点。",
+   "based_zh": "剑桥（马萨诸塞州），美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "lisa-feldman-barrett",
+   "name": "Lisa Feldman Barrett",
+   "name_zh": "",
+   "kind": "person",
+   "role": "University Distinguished Professor of Psychology, Northeastern University",
+   "based": "Boston, US",
+   "bio": "Psychologist and neuroscientist who developed the theory of constructed emotion, in which the brain builds emotions from interoceptive predictions.",
+   "why": "Barrett's theory places interoception and the body's energy budget at the root of every feeling, undoing the split between emotion and body.",
+   "disciplines": [
+    "health",
+    "philosophy"
+   ],
+   "links": {
+    "site": "https://lisafeldmanbarrett.com"
+   },
+   "role_zh": "美国东北大学心理学校级杰出教授",
+   "bio_zh": "心理学家与神经科学家，提出情绪建构理论：大脑依据对身体内部状态的预测来建构情绪。",
+   "why_zh": "Barrett 的理论把内感受与身体的“能量预算”放在一切感受的根部，拆解了情绪与身体的二分。",
+   "based_zh": "波士顿，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "a-d-craig",
+   "name": "A. D. (Bud) Craig",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Neuroanatomist; formerly Barrow Neurological Institute",
+   "based": "Phoenix, US",
+   "bio": "Neuroanatomist who mapped the interoceptive pathway from the body to the insular cortex and wrote How Do You Feel? (2015).",
+   "why": "Craig redefined interoception as the sense of the physiological condition of the whole body, the ground of felt emotion.",
+   "disciplines": [
+    "health"
+   ],
+   "links": {},
+   "role_zh": "神经解剖学家；曾任职巴罗神经研究所",
+   "bio_zh": "神经解剖学家，描绘了从身体通往脑岛皮层的内感受通路，著有 How Do You Feel?（2015）。",
+   "why_zh": "Craig 把内感受重新定义为对全身生理状态的感觉，这是被感受的情绪的根基。",
+   "based_zh": "菲尼克斯，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "sarah-garfinkel",
+   "name": "Sarah Garfinkel",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Cognitive Neuroscience, Institute of Cognitive Neuroscience, UCL",
+   "based": "London, GB",
+   "bio": "Neuroscientist who studies how signals from the heart shape emotion, cognition and mental health.",
+   "why": "Garfinkel's model separates how accurately we sense our body from how we believe we sense it, a key distinction for any interoceptive design.",
+   "disciplines": [
+    "health"
+   ],
+   "links": {},
+   "role_zh": "伦敦大学学院认知神经科学研究所认知神经科学教授",
+   "bio_zh": "神经科学家，研究来自心脏的信号如何塑造情绪、认知与心理健康。",
+   "why_zh": "Garfinkel 的模型区分了“我们感受身体有多准确”与“我们自认为感受得如何”，这是任何内感受设计都要面对的区分。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jeremy-frey",
+   "name": "Jérémy Frey",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Co-founder, Ullo; HCI and physiological computing researcher",
+   "based": "Bordeaux, FR",
+   "bio": "Researcher in physiological computing and tangible interfaces (Inria, IDC Herzliya) who co-founded Ullo to make biofeedback objects.",
+   "why": "Frey designs objects that externalise breath, heart and brain activity so people can feel and share inner states.",
+   "disciplines": [
+    "hci",
+    "engineering"
+   ],
+   "links": {
+    "site": "https://phd.jfrey.info"
+   },
+   "role_zh": "Ullo 联合创始人；人机交互与生理计算研究者",
+   "bio_zh": "生理计算与实体界面研究者（曾在 Inria、赫兹利亚跨学科中心），联合创办 Ullo，制作生物反馈物件。",
+   "why_zh": "Frey 设计把呼吸、心跳与脑活动外化的物件，让人感受并分享内在状态。",
+   "based_zh": "波尔多，法国",
+   "connected_to": [
+    "joan-sol-roo"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "petr-slovak",
+   "name": "Petr Slovák",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Reader in Human-Computer Interaction, King's College London",
+   "based": "London, GB",
+   "bio": "HCI researcher working on social-emotional learning, mental health and technologies that support felt, embodied skills.",
+   "why": "Slovák's early heart-rate sharing study named the 'physiosocial' space in which a shared body signal becomes intimate.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "伦敦国王学院人机交互高级讲师（Reader）",
+   "bio_zh": "人机交互研究者，关注社会情感学习、心理健康，以及支持具身感受技能的技术。",
+   "why_zh": "Slovák 早期的心率分享研究提出了“生理-社会”空间：共享的身体信号在其中变得亲密。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [
+    "joris-janssen"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "joris-janssen",
+   "name": "Joris H. Janssen",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher in affective computing (formerly Philips Research / TU Eindhoven)",
+   "based": "Eindhoven, NL",
+   "bio": "Researcher who studied heartbeats as social signals and physiological empathy at Philips Research and Eindhoven University of Technology.",
+   "why": "Janssen showed that a heard heartbeat is felt as intimate and can shift how close people feel to one another.",
+   "disciplines": [
+    "hci",
+    "health"
+   ],
+   "links": {},
+   "role_zh": "情感计算研究者（曾任职飞利浦研究院 / 埃因霍温理工大学）",
+   "bio_zh": "在飞利浦研究院与埃因霍温理工大学研究作为社交信号的心跳与生理共情。",
+   "why_zh": "Janssen 展示了被听见的心跳会被体验为亲密，并能改变人与人之间感到的距离。",
+   "based_zh": "埃因霍温，荷兰",
+   "connected_to": [
+    "petr-slovak"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "mariam-hassib",
+   "name": "Mariam Hassib",
+   "name_zh": "",
+   "kind": "person",
+   "role": "HCI researcher (LMU Munich at the time of HeartChat)",
+   "based": "Munich, DE",
+   "bio": "HCI researcher working on physiological sensing for communication and on affective and brain-computer interfaces.",
+   "why": "Hassib's HeartChat brings heart rate into everyday messaging as a cue for empathy.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "人机交互研究者（HeartChat 期间在慕尼黑大学）",
+   "bio_zh": "人机交互研究者，研究用于沟通的生理传感，以及情感与脑机界面。",
+   "why_zh": "Hassib 的 HeartChat 把心率带进日常聊天，作为共情的线索。",
+   "based_zh": "慕尼黑，德国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "r-michael-winters",
+   "name": "R. Michael Winters",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Researcher in sonification and auditory display (PhD, Georgia Tech)",
+   "based": "Atlanta, US",
+   "bio": "Researcher in sonification and music technology who studied heartbeat sounds as expressive biosignals at Georgia Tech's Sonification Lab.",
+   "why": "Winters shows that hearing another person's heartbeat can be an embodied route to empathy.",
+   "disciplines": [
+    "hci",
+    "dance"
+   ],
+   "links": {},
+   "role_zh": "声音化与听觉显示研究者（佐治亚理工学院博士）",
+   "bio_zh": "声音化与音乐科技研究者，在佐治亚理工学院声音化实验室研究作为可表达生物信号的心跳声。",
+   "why_zh": "Winters 的研究表明，听见他人的心跳可以是一条通向共情的具身路径。",
+   "based_zh": "亚特兰大，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "marianna-obrist",
+   "name": "Marianna Obrist",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Multisensory Interfaces, University College London",
+   "based": "London, GB",
+   "bio": "HCI researcher who leads the SCHI Lab and studies touch, taste and smell as channels of experience and emotion.",
+   "why": "Obrist's work maps how felt qualities of touch and other senses carry emotion, bringing the non-visual body into interaction design.",
+   "disciplines": [
+    "hci",
+    "engineering"
+   ],
+   "links": {},
+   "role_zh": "伦敦大学学院多感官界面教授",
+   "bio_zh": "人机交互研究者，领导 SCHI Lab，研究触觉、味觉与嗅觉如何承载体验与情绪。",
+   "why_zh": "Obrist 的工作描绘了触觉等感官的质感如何承载情绪，把非视觉的身体带入交互设计。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jane-aspell",
+   "name": "Jane Aspell",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Professor of Cognitive Neuroscience, Anglia Ruskin University",
+   "based": "Cambridge, GB",
+   "bio": "Cognitive neuroscientist of bodily self-consciousness who worked with Olaf Blanke at EPFL on full-body and cardio-visual illusions.",
+   "why": "Aspell's cardio-visual illusion shows that inner signals like the heartbeat help decide where we feel our self to be.",
+   "disciplines": [
+    "health"
+   ],
+   "links": {},
+   "role_zh": "安格利亚鲁斯金大学认知神经科学教授",
+   "bio_zh": "研究身体自我意识的认知神经科学家，曾在洛桑联邦理工学院与 Olaf Blanke 合作研究全身错觉与心-视错觉。",
+   "why_zh": "Aspell 的心-视错觉表明，心跳这样的内部信号参与决定我们感到“自我”在哪里。",
+   "based_zh": "剑桥，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "chris-elsden",
+   "name": "Chris Elsden",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Research Fellow in Design Informatics, University of Edinburgh",
+   "based": "Edinburgh, GB",
+   "bio": "HCI researcher who studies personal data, memory and speculative design of data-driven futures.",
+   "why": "Elsden reframes self-tracking data as material for remembering and reflection instead of a record of performance.",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "role_zh": "爱丁堡大学设计信息学研究员",
+   "bio_zh": "人机交互研究者，研究个人数据、记忆，以及关于数据驱动未来的思辨设计。",
+   "why_zh": "Elsden 把自我追踪数据重新定义为回忆与反思的材料，而不是表现记录。",
+   "based_zh": "爱丁堡，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "rafael-lozano-hemmer",
+   "name": "Rafael Lozano-Hemmer",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Montreal, CA",
+   "bio": "Mexican-Canadian media artist whose large-scale participatory installations use biometric signals such as heartbeat, breath and fingerprints.",
+   "why": "Lozano-Hemmer's pulse works turn the private rhythm of one's heart into light and sound shared in public space.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.lozano-hemmer.com"
+   },
+   "role_zh": "艺术家",
+   "bio_zh": "墨西哥裔加拿大媒体艺术家，其大型参与式装置使用心跳、呼吸、指纹等生物特征信号。",
+   "why_zh": "Lozano-Hemmer 的“脉搏”系列把私人的心跳节律变成在公共空间中共享的光与声。",
+   "based_zh": "蒙特利尔，加拿大",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "christian-nold",
+   "name": "Christian Nold",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist, designer and researcher",
+   "based": "London, GB",
+   "bio": "Artist and researcher who invented the Bio Mapping device and has run participatory emotion-mapping projects in more than 25 cities.",
+   "why": "Bio Mapping made skin conductance a prompt for collective storytelling about how places feel, not a verdict on feeling.",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {
+    "site": "http://biomapping.net/"
+   },
+   "role_zh": "艺术家、设计师与研究者",
+   "bio_zh": "艺术家与研究者，发明了 Bio Mapping 装置，在二十五个以上城市主持参与式情绪地图项目。",
+   "why_zh": "Bio Mapping 让皮肤电成为人们集体讲述“地方给人什么感受”的引子，而不是对感受的裁决。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "christian-boltanski",
+   "name": "Christian Boltanski",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist (1944–2021)",
+   "based": "Paris, FR",
+   "bio": "French artist whose installations about memory, absence and death used photographs, clothing, light bulbs and sound.",
+   "why": "Boltanski's heartbeat archive treats the sound of a beating heart as the most intimate trace of a living person.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "艺术家（1944–2021）",
+   "bio_zh": "法国艺术家，以照片、衣物、灯泡和声音制作关于记忆、缺席与死亡的装置。",
+   "why_zh": "Boltanski 的心跳档案把心跳声视为一个活着的人最私密的痕迹。",
+   "based_zh": "巴黎，法国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "terminalbeach",
+   "name": "TERMINALBEACH",
+   "name_zh": "",
+   "kind": "studio",
+   "role": "Artist duo (Peter Votava and Erich Berger)",
+   "based": "Vienna, AT",
+   "bio": "Austrian artist duo of Peter Votava and Erich Berger working with audiovisual performance, biofeedback and generative systems.",
+   "why": "Their Heart Chamber Orchestra lets the musicians' own heartbeats write the score they play.",
+   "disciplines": [
+    "art",
+    "dance"
+   ],
+   "links": {},
+   "role_zh": "艺术家二人组（Peter Votava 与 Erich Berger）",
+   "bio_zh": "由 Peter Votava 与 Erich Berger 组成的奥地利艺术二人组，创作视听表演、生物反馈与生成系统作品。",
+   "why_zh": "他们的 Heart Chamber Orchestra 让乐手自己的心跳谱写他们所演奏的乐谱。",
+   "based_zh": "维也纳，奥地利",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "erin-gee",
+   "name": "Erin Gee",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and composer",
+   "based": "Montreal, CA",
+   "bio": "Canadian artist and composer who builds biosensors and robotic instruments to make emotional and bodily states audible.",
+   "why": "Gee's work turns the physiology of emotion into music, asking what of feeling can and cannot travel through data.",
+   "disciplines": [
+    "art",
+    "dance"
+   ],
+   "links": {
+    "site": "https://eringee.net"
+   },
+   "role_zh": "艺术家与作曲家",
+   "bio_zh": "加拿大艺术家与作曲家，自制生物传感器与机器人乐器，让情绪与身体状态可被听见。",
+   "why_zh": "Gee 把情绪的生理变成音乐，追问感受中哪些能、哪些不能经由数据传递。",
+   "based_zh": "蒙特利尔，加拿大",
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "noura-howell--hint",
+   "creator_ids": [
+    "noura-howell"
+   ],
+   "title": "Hint",
+   "year": 2016,
+   "field": "affect",
+   "sub": "body-data",
+   "modalities": [
+    "skin-arousal",
+    "heat"
+   ],
+   "lenses": [
+    "body-data",
+    "affective-loop",
+    "intercorporeality"
+   ],
+   "kind": "prototype",
+   "description": "A T-shirt whose screen-printed thermochromic pattern slowly changes colour when the wearer's skin conductance rises; pairs of friends wore it while talking and tried to read what the change meant.",
+   "description_zh": "一件 T 恤，丝网印刷的热致变色图案会在穿着者皮肤电升高时慢慢变色；两位朋友穿着它交谈，试着读出这些变化意味着什么。",
+   "idea_en": "A body signal worn in public becomes a social cue whose meaning is made together; keeping it ambiguous lets people treat arousal as joy, embarrassment or nothing, instead of a verdict on what they feel.",
+   "idea_zh": "穿在身上、公开可见的身体信号会变成一种由双方共同赋义的社交线索；保持它的模糊，人们才能把唤醒读成喜悦、尴尬或什么都不是，而不是一纸对感受的裁决。",
+   "method": "A skin conductance sensor and microcontroller detect sudden rises and heat conductive thread under thermochromic ink; studied with pairs of friends in conversation (DIS 2016).",
+   "method_zh": "皮肤电传感器与微控制器检测突然的升高，并加热热致变色油墨下的导电线；研究以朋友两两对话的方式进行（DIS 2016）。",
+   "keywords": [
+    "skin conductance",
+    "EDA",
+    "thermochromic",
+    "ambiguity",
+    "social display",
+    "emotional biosensing"
+   ],
+   "images": [
+    "https://nourahowell.com/static/img/1000px_wide/hint_shirt.jpg",
+    "https://biosense.berkeley.edu/files/2018/03/3Hint.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2901790.2901850",
+    "doi": "10.1145/2901790.2901850",
+    "venue": "DIS 2016",
+    "title": "Biosignals as Social Cues: Ambiguity and Emotional Interpretation in Social Displays of Skin Conductance"
+   },
+   "source_url": "https://biosense.berkeley.edu/portfolio/biosignals-as-social-cues-designing-color-changing-clothing-displays/",
+   "collections": [
+    "dis"
+   ]
+  },
+  {
+   "id": "noura-howell--ripple",
+   "creator_ids": [
+    "noura-howell"
+   ],
+   "title": "Ripple",
+   "year": 2018,
+   "field": "affect",
+   "sub": "body-data",
+   "modalities": [
+    "skin-arousal",
+    "heat"
+   ],
+   "lenses": [
+    "body-data",
+    "first-person",
+    "body-politics"
+   ],
+   "kind": "prototype",
+   "description": "Everyday shirts with thermochromic pinstripes embroidered on the sleeve that shift colour at moments of heightened skin conductance; friends, housemates and couples wore them in daily life.",
+   "description_zh": "日常穿着的衬衫，袖子上用热致变色线绣出的细条纹会在皮肤电升高时变色；朋友、室友和伴侣把它穿进了日常生活。",
+   "idea_en": "Emotional biosensing raises the question of who has interpretive authority over a feeling, the person or the data; a subtle garment display keeps that authority with the wearer's own felt sense.",
+   "idea_zh": "情绪生物传感引出一个问题：谁对一种感受拥有诠释权，是人还是数据？一件含蓄显示的衣服把这份诠释权留给了穿着者自己的体感。",
+   "method": "A Bitalino skin conductance sensor feeds an Arduino that heats embroidered conductive thread coated with thermochromic pigment when a spike is detected; a field study with pairs of wearers (CHI 2018).",
+   "method_zh": "Bitalino 皮肤电传感器把数据送入 Arduino，检测到峰值时加热涂有热致变色颜料的刺绣导电线；以成对穿着者进行实地研究（CHI 2018）。",
+   "keywords": [
+    "skin conductance",
+    "thermochromic embroidery",
+    "data-driven reflection",
+    "interpretive authority",
+    "e-textiles"
+   ],
+   "video": {
+    "url": "https://vimeo.com/363031801"
+   },
+   "images": [
+    "https://nourahowell.com/static/img/1000px_wide/ripple_shirts.jpg",
+    "https://nourahowell.com/static/img/1000px_wide/inlay_embroidery.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3173574.3174005",
+    "doi": "10.1145/3173574.3174005",
+    "venue": "CHI 2018",
+    "title": "Tensions of Data-Driven Reflection: A Case Study of Real-Time Emotional Biosensing"
+   },
+   "source_url": "https://nourahowell.com/projects/ripple.html",
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "noura-howell--emotional-biosensing",
+   "creator_ids": [
+    "noura-howell"
+   ],
+   "title": "Emotional Biosensing: Exploring Critical Alternatives",
+   "year": 2018,
+   "field": "affect",
+   "sub": "body-data",
+   "modalities": [
+    "skin-arousal",
+    "heartbeat"
+   ],
+   "lenses": [
+    "body-data",
+    "body-politics"
+   ],
+   "kind": "paper",
+   "description": "A critical study of emotion-sensing products and research that reads their promises against their assumptions, and sketches alternatives in which biosensing supports people's own emotional meaning-making.",
+   "description_zh": "一篇批判性研究：把情绪传感产品与研究的承诺和其背后的假设对照阅读，并勾勒另一些可能，让生物传感支持人们自己为情绪赋义。",
+   "idea_en": "Emotion is not a hidden state that sensors reveal; designs that return interpretation to the feeling person resist the reduction of the body-mind to a category.",
+   "idea_zh": "情绪不是等待传感器揭示的隐藏状态；把诠释交还给正在感受的人的设计，才能抵抗把身心化约为一个类别。",
+   "method": "Critical analysis of emotional biosensing technologies, drawing on design research and critical theory (CSCW / PACM HCI 2018).",
+   "method_zh": "结合设计研究与批判理论，对情绪生物传感技术进行批判性分析（CSCW / PACM HCI 2018）。",
+   "keywords": [
+    "emotion AI",
+    "biosensing",
+    "critical design",
+    "biopolitics",
+    "emotional meaning-making"
+   ],
+   "images": [
+    "https://nourahowell.com/static/img/largest/spire_feel_oura.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3274338",
+    "doi": "10.1145/3274338",
+    "venue": "CSCW 2018 (PACM HCI)",
+    "title": "Emotional Biosensing: Exploring Critical Alternatives"
+   },
+   "source_url": "https://nourahowell.com/projects/emotional_biosensing.html"
+  },
+  {
+   "id": "noura-howell--heart-sounds-bench",
+   "creator_ids": [
+    "noura-howell"
+   ],
+   "title": "Heart Sounds Bench",
+   "year": 2019,
+   "field": "affect",
+   "sub": "interoception",
+   "modalities": [
+    "heartbeat",
+    "voice-sound"
+   ],
+   "lenses": [
+    "attunement",
+    "intercorporeality",
+    "body-data"
+   ],
+   "kind": "artwork",
+   "description": "A red public bench that amplifies the heart sounds of the people sitting on it into the surrounding space, and also plays back recorded heartbeats of earlier sitters.",
+   "description_zh": "一张红色公共长椅，把坐在上面的人的心音放大到周围空间，也回放此前坐过的人被录下的心跳。",
+   "idea_en": "Biosensing can affirm being alive rather than diagnose or score; heart sounds felt as intimate yet anonymous invite rest and a sense of shared life, while respecting each person's right to stay opaque to data.",
+   "idea_zh": "生物传感可以是对“活着”的肯定，而不是诊断或打分；亲密却匿名的心音邀请人休息、感到共享的生命，同时尊重每个人不被数据看透的权利。",
+   "method": "Heart sounds, likely picked up with stethoscope-style microphones, are amplified through speakers without labels or scores, and past sitters' recordings are replayed; a study with 19 participants in public space (CHI 2019).",
+   "method_zh": "心音（很可能由听诊器式麦克风拾取）经扬声器放大，不做标注或打分，并回放此前坐者的录音；在公共空间中与 19 位参与者进行研究（CHI 2019）。",
+   "keywords": [
+    "heart sounds",
+    "public space",
+    "life-affirming",
+    "opacity",
+    "Glissant",
+    "red bench"
+   ],
+   "video": {
+    "url": "https://vimeo.com/314159216"
+   },
+   "images": [
+    "https://nourahowell.com/static/img/1000px_wide/red_bench.jpg",
+    "https://nourahowell.com/static/img/1000px_wide/hsbv3.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3290605.3300910",
+    "doi": "10.1145/3290605.3300910",
+    "venue": "CHI 2019",
+    "title": "Life-Affirming Biosensing in Public: Sounding Heartbeats on a Red Bench"
+   },
+   "source_url": "https://nourahowell.com/projects/heart_sounds_bench.html",
+   "collections": [
+    "chi"
+   ],
+   "exhibited": [
+    "Extension of Self, Georgia Tech Art Gallery (2022)"
+   ]
+  },
+  {
+   "id": "fannie-liu--animo",
+   "creator_ids": [
+    "fannie-liu"
+   ],
+   "title": "Animo",
+   "year": 2019,
+   "field": "affect",
+   "sub": "biosignals",
+   "modalities": [
+    "heartbeat"
+   ],
+   "lenses": [
+    "affective-loop",
+    "intercorporeality",
+    "body-data"
+   ],
+   "kind": "prototype",
+   "description": "A smartwatch app that turns the wearer's heart rate into a small animated shape, an 'animo', that close friends or partners can send to each other as a lightweight way of saying how they are.",
+   "description_zh": "一款智能手表应用，把佩戴者的心率变成一个会动的小图形（animo），亲密的朋友或伴侣可以互相发送，以轻量的方式告诉对方自己的状态。",
+   "idea_en": "A biosignal shared as an expressive, abstract form lets people feel close without words, while leaving the meaning of the body's state open to both.",
+   "idea_zh": "以可表达的抽象形态分享的生物信号，让人无需言语就感到亲近，同时让身体状态的意义对双方保持开放。",
+   "method": "Smartwatch heart rate drives the colour and motion of an animated shape, likely with features for dyadic sending and viewing; a two-week field study with 34 participants (IMWUT 2019).",
+   "method_zh": "智能手表采集的心率驱动动画图形的颜色与运动，并支持两人之间的发送与查看；与 34 位参与者进行了为期两周的实地研究（IMWUT 2019）。",
+   "keywords": [
+    "heart rate sharing",
+    "smartwatch",
+    "expressive biosignals",
+    "social connection"
+   ],
+   "also": [
+    "social"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=qE-H8bYmlgs"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3314405",
+    "doi": "10.1145/3314405",
+    "venue": "IMWUT 2019 (UbiComp)",
+    "title": "Animo: Sharing Biosignals on a Smartwatch for Lightweight Social Connection"
+   }
+  },
+  {
+   "id": "fannie-liu--significant-otter",
+   "creator_ids": [
+    "fannie-liu"
+   ],
+   "title": "Significant Otter",
+   "year": 2021,
+   "field": "affect",
+   "sub": "biosignals",
+   "modalities": [
+    "heartbeat"
+   ],
+   "lenses": [
+    "affective-loop",
+    "intercorporeality",
+    "body-data"
+   ],
+   "kind": "prototype",
+   "description": "A watch and phone app for romantic partners: the app reads the sender's heart rate and suggests matching animated otters (calm, excited, angry…) to send, and the partner can respond with otter gestures such as a hug.",
+   "description_zh": "为恋人设计的手表与手机应用：它读取发送者的心率，推荐相应的水獭动画（平静、兴奋、生气……）供其发送，对方可以用拥抱等水獭动作回应。",
+   "idea_en": "Sensing made communication feel easier and more authentic, but also raised worries about who authors a feeling; biosignals work best as suggestions the person can accept or refuse.",
+   "idea_zh": "传感让交流更轻松、更真实，却也引发“一种感受由谁执笔”的担忧；生物信号最好作为可接受也可拒绝的建议。",
+   "method": "Apple Watch heart rate informs a small set of suggested otter animations; a one-month study with 20 couples compared sensing off and on (CHI 2021).",
+   "method_zh": "Apple Watch 心率决定推荐的几种水獭动画；与 20 对伴侣进行了为期一个月、比较传感开与关的研究（CHI 2021）。",
+   "keywords": [
+    "heart rate sharing",
+    "couples",
+    "Apple Watch",
+    "agency",
+    "Snap Research",
+    "expressive biosignals"
+   ],
+   "also": [
+    "social"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Oub3OY5j7Z8"
+   },
+   "images": [
+    "https://www.cmu.edu/news/stories/archives/2021/june/images/otter-900x600.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3411764.3445200",
+    "doi": "10.1145/3411764.3445200",
+    "venue": "CHI 2021",
+    "title": "Significant Otter: Understanding the Role of Biosignals in Communication"
+   },
+   "source_url": "https://research.snap.com/publications/significant-otter-understanding-the-role-of-biosignals-in-communication.html",
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "george-poonkhin-khut--cardiomorphologies",
+   "creator_ids": [
+    "george-poonkhin-khut"
+   ],
+   "title": "Cardiomorphologies",
+   "year": 2004,
+   "field": "affect",
+   "sub": "interoception",
+   "modalities": [
+    "heartbeat",
+    "breath",
+    "light-vision"
+   ],
+   "lenses": [
+    "attunement",
+    "first-person",
+    "body-mind-unity"
+   ],
+   "kind": "artwork",
+   "description": "A seated participant watches a floor-to-ceiling, mandala-like projection of concentric circles and hears a soundscape that expand and contract with their own breath and heart rate over a 20–30 minute session.",
+   "description_zh": "参与者坐着，面对一幅落地的曼陀罗式同心圆投影，并聆听一段声景；在 20–30 分钟里，它们随参与者自己的呼吸与心率扩张、收缩。",
+   "idea_en": "Seeing and hearing one's heart and breath in slow, simple forms turns attention inward; participants learn by doing how thought, feeling and physiology change together.",
+   "idea_zh": "以缓慢、简单的形式看见和听见自己的心跳与呼吸，会把注意力转向内部；参与者在实践中体会到念头、感受与生理是一起变化的。",
+   "method": "Heart rate and chest or abdominal breathing sensors drive real-time video and sound (with Lizzie Muller, Greg Turner and John Tonkin); experience was studied through post-session interviews.",
+   "method_zh": "心率传感器与胸腹部呼吸传感器实时驱动影像与声音（与 Lizzie Muller、Greg Turner、John Tonkin 合作）；通过体验后的访谈研究参与者的经验。",
+   "keywords": [
+    "biofeedback art",
+    "heart rate",
+    "breath",
+    "mandala",
+    "somaesthetics",
+    "participant-centred"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=efiDTIpiHR4"
+   },
+   "images": [
+    "https://static1.squarespace.com/static/6572a8653a6cba0345e9e3cb/6572cc375a2d8a284b57b09d/65a25f3d60057e7829a8216b/1705151654572/cm2_Website-1038-x-576.jpg?format=1500w"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1109/mmul.2007.70",
+    "doi": "10.1109/mmul.2007.70",
+    "venue": "IEEE MultiMedia 2007",
+    "title": "Cardiomorphologies: An Inner Journey through Art"
+   },
+   "source_url": "https://www.georgekhut.com/media-art/cardiomorphologies"
+  },
+  {
+   "id": "george-poonkhin-khut--brighthearts",
+   "creator_ids": [
+    "george-poonkhin-khut"
+   ],
+   "title": "BrightHearts",
+   "year": 2011,
+   "field": "affect",
+   "sub": "interoception",
+   "modalities": [
+    "heartbeat",
+    "breath",
+    "light-vision"
+   ],
+   "lenses": [
+    "care-healing",
+    "attunement"
+   ],
+   "kind": "product",
+   "description": "An iPad app in which glowing, overlapping circles change colour and size as a child's heart rate slows, used to help children relax during painful and recurring hospital procedures.",
+   "description_zh": "一款 iPad 应用：随着孩子心率放缓，发光的重叠圆环改变颜色与大小；用于帮助孩子在痛苦且反复的住院治疗中放松。",
+   "idea_en": "Relaxation can be learned as a felt skill: a gentle, playful mirror of the heart gives a child a way to act on fear from inside the body.",
+   "idea_zh": "放松可以作为一种体感技能被学会：一面温和、好玩的“心之镜”让孩子得以从身体内部应对恐惧。",
+   "method": "A pulse sensor streams heart rate to the app, which maps slowing heart rate to visual and sound changes; developed with Dr Angela Morrow at The Children's Hospital at Westmead and evaluated in clinical pilot studies.",
+   "method_zh": "脉搏传感器把心率传给应用，心率放缓对应视觉与声音的变化；与威斯敏德儿童医院的 Angela Morrow 医生合作开发，并在临床试点研究中评估。",
+   "keywords": [
+    "biofeedback",
+    "paediatric pain",
+    "arts in health",
+    "heart rate",
+    "iPad",
+    "relaxation"
+   ],
+   "also": [
+    "care"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=VfUeXEZ8dYE"
+   },
+   "images": [
+    "https://static1.squarespace.com/static/6572a8653a6cba0345e9e3cb/6572cc375a2d8a284b57b09d/65a28ca6f4576c6533190d94/1755912521535/brighthearts-heart-rate-biofeedback-app-ipad-red-2048.jpg?format=1500w"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1111/papr.12655",
+    "doi": "10.1111/papr.12655",
+    "venue": "Pain Practice 2018",
+    "title": "Developing BrightHearts: A Pediatric Biofeedback-Mediated Relaxation App to Manage Procedural Pain and Anxiety"
+   },
+   "source_url": "https://www.georgekhut.com/media-art/brighthearts-app"
+  },
+  {
+   "id": "george-poonkhin-khut--distillery-waveforming",
+   "creator_ids": [
+    "george-poonkhin-khut"
+   ],
+   "title": "Distillery: Waveforming",
+   "year": 2012,
+   "field": "affect",
+   "sub": "interoception",
+   "modalities": [
+    "heartbeat",
+    "light-vision"
+   ],
+   "lenses": [
+    "attunement",
+    "first-person"
+   ],
+   "kind": "artwork",
+   "description": "A gallery version of Khut's heart-rate-controlled tablet work: visitors hold a sensor and watch forms bloom as their heart rate changes, beside video portraits of earlier participants recalling what they thought and felt.",
+   "description_zh": "Khut 心率控制平板作品的美术馆版本：观众握住传感器，看着图形随心率变化而绽放；旁边是早先参与者回忆当时所思所感的视频肖像。",
+   "idea_en": "Directing attention quietly inward to the heartbeat reveals how mind and body answer each other moment by moment.",
+   "idea_zh": "把注意力安静地转向心跳，就能看见心与身如何时时刻刻地相互回应。",
+   "method": "Heart-rate sensing on iPads drives generative visuals and sound; shown with three vertical video portraits of participants' first-person accounts.",
+   "method_zh": "iPad 上的心率感测驱动生成式图像与声音；与三幅竖屏视频肖像一同展出，记录参与者的第一人称讲述。",
+   "keywords": [
+    "biofeedback art",
+    "heart rate",
+    "National New Media Art Award",
+    "first-person accounts"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=I_dvtZzqK90"
+   },
+   "images": [
+    "https://static1.squarespace.com/static/6572a8653a6cba0345e9e3cb/6572cc375a2d8a284b57b09d/65a31ea6a57eae28c787c6b7/1705194648691/Distillery-Estee-Wah-photo-by-Julia-Charles.jpg?format=1500w"
+   ],
+   "source_url": "https://www.georgekhut.com/media-art/distillery-waveforming",
+   "exhibited": [
+    "2012 National New Media Art Award (winner), Queensland Art Gallery | Gallery of Modern Art"
+   ]
+  },
+  {
+   "id": "george-poonkhin-khut--mettamatics",
+   "creator_ids": [
+    "george-poonkhin-khut"
+   ],
+   "title": "Mettāmatics",
+   "year": 2020,
+   "field": "affect",
+   "sub": "interoception",
+   "modalities": [
+    "heartbeat",
+    "breath"
+   ],
+   "lenses": [
+    "attunement",
+    "body-mind-unity",
+    "first-person"
+   ],
+   "kind": "artwork",
+   "description": "A meditation artwork in which a guided loving-kindness practice, a real-time visualisation and a soundscape respond to changes in the participant's heart rate variability.",
+   "description_zh": "一件冥想艺术作品：引导式的慈心（mettā）练习、实时可视化与声景，随参与者心率变异性的变化而回应。",
+   "idea_en": "Feelings of compassion and gratitude have a bodily signature; a slow interface lets people sense that shift in themselves, a 'being as a way of doing'.",
+   "idea_zh": "慈悲与感恩的感受有其身体印记；一个缓慢的界面让人感知自身的这种转变——“以存在作为行动”。",
+   "method": "A fingertip or earlobe pulse sensor feeds heart rate variability into visuals and sound, paired with guided mettā meditation (with Callum Howard; TEI 2020).",
+   "method_zh": "指尖或耳垂脉搏传感器把心率变异性送入影像与声音，配合引导式慈心冥想（与 Callum Howard 合作；TEI 2020）。",
+   "keywords": [
+    "heart rate variability",
+    "loving-kindness meditation",
+    "mettā",
+    "slow interaction",
+    "biofeedback art"
+   ],
+   "also": [
+    "practices"
+   ],
+   "images": [
+    "https://static1.squarespace.com/static/6572a8653a6cba0345e9e3cb/6572cc375a2d8a284b57b09d/65a33498eafaaf1208540946/1705202744813/george-khut-mettamatics-TEI2019-installation-view-1920x1080.jpg?format=1500w"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3374920.3375286",
+    "doi": "10.1145/3374920.3375286",
+    "venue": "TEI 2020",
+    "title": "Mettāmatics"
+   },
+   "source_url": "https://www.georgekhut.com/media-art/mettamatics",
+   "collections": [
+    "tei"
+   ]
+  },
+  {
+   "id": "ana-tajadura-jimenez--as-light-as-your-footsteps",
+   "creator_ids": [
+    "ana-tajadura-jimenez"
+   ],
+   "title": "As Light as Your Footsteps",
+   "year": 2015,
+   "field": "affect",
+   "sub": "affective-loops",
+   "modalities": [
+    "voice-sound",
+    "movement",
+    "posture-balance"
+   ],
+   "lenses": [
+    "estrangement",
+    "affective-loop",
+    "body-mind-unity"
+   ],
+   "kind": "prototype",
+   "description": "Shoes with microphones pick up the wearer's footsteps and play them back through headphones with the high frequencies raised or lowered; walkers feel lighter or heavier, walk differently and report a changed mood.",
+   "description_zh": "装有麦克风的鞋拾取穿着者的脚步声，经耳机回放时提高或降低其高频；行走者会感到身体变轻或变重，步态随之改变，情绪也不同了。",
+   "idea_en": "The felt size and weight of the body is not fixed: changing one sound of one's own movement shifts body image, emotion and gait together, showing them as one process.",
+   "idea_zh": "身体被感受到的大小与重量并非固定：改变自身动作的一种声音，身体意象、情绪与步态会一起变化，说明它们是同一个过程。",
+   "method": "Real-time frequency shifting of footstep sounds captured by shoe-mounted microphones; body-weight estimates, emotion ratings, galvanic skin response and gait were measured (CHI 2015).",
+   "method_zh": "对鞋上麦克风捕捉的脚步声做实时频移；测量了体重估计、情绪评分、皮肤电与步态（CHI 2015）。",
+   "keywords": [
+    "footsteps illusion",
+    "body perception",
+    "sonic feedback",
+    "body image",
+    "BODYinTRANSIT"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=6Tcx6F5y6Rw"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/2702123.2702374",
+    "doi": "10.1145/2702123.2702374",
+    "venue": "CHI 2015",
+    "title": "As Light as your Footsteps: Altering Walking Sounds to Change Perceived Body Weight, Emotional State and Gait"
+   },
+   "source_url": "https://imbodylab.com/ana-tajadura-jimenez/",
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "ana-tajadura-jimenez--as-light-as-you-aspire-to-be",
+   "creator_ids": [
+    "ana-tajadura-jimenez"
+   ],
+   "title": "As Light as You Aspire to Be",
+   "year": 2019,
+   "field": "affect",
+   "sub": "affective-loops",
+   "modalities": [
+    "voice-sound",
+    "movement"
+   ],
+   "lenses": [
+    "affective-loop",
+    "care-healing",
+    "estrangement"
+   ],
+   "kind": "prototype",
+   "description": "Sound-altering footwear (the 'Magic Shoes' line of work) tested during exertion such as gym stepping and stair climbing: lighter footstep sounds made people feel lighter even while working hard, depending on the body they aspired to.",
+   "description_zh": "改变声音的鞋（“魔法鞋”系列研究）在健身踏步、爬楼梯等发力情境中测试：更轻的脚步声让人即使在用力时也感到身体变轻，效果因人所向往的身体而异。",
+   "idea_en": "Altering the felt body can support physical activity without numbers or targets, but the effect depends on each person's weight and body ideals and fades when the sound stops, which design must take seriously.",
+   "idea_zh": "改变被感受的身体可以在没有数字与目标的情况下支持身体活动，但效果取决于每个人的体重与身体理想，并在声音停止后消退，设计必须认真对待。",
+   "method": "A wearable senses footsteps and alters their sound in real time; two studies in exertion contexts measured body perception, emotion and after-effects (CHI 2019).",
+   "method_zh": "可穿戴设备感测脚步并实时改变其声音；在两项发力情境研究中测量身体知觉、情绪与后效（CHI 2019）。",
+   "keywords": [
+    "Magic Shoes",
+    "footsteps illusion",
+    "physical activity",
+    "body image",
+    "sonic feedback"
+   ],
+   "also": [
+    "care"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Dw_LC-YpjFw"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3290605.3300888",
+    "doi": "10.1145/3290605.3300888",
+    "venue": "CHI 2019",
+    "title": "As Light as You Aspire to Be: Changing Body Perception with Sound to Support Physical Activity"
+   },
+   "source_url": "https://imbodylab.com/ana-tajadura-jimenez/",
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "manos-tsakiris--just-a-heartbeat-away",
+   "creator_ids": [
+    "manos-tsakiris",
+    "ana-tajadura-jimenez"
+   ],
+   "title": "Just a Heartbeat Away from One's Body",
+   "year": 2011,
+   "field": "affect",
+   "sub": "interoception",
+   "modalities": [
+    "heartbeat",
+    "touch"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "first-person"
+   ],
+   "kind": "paper",
+   "description": "People counted their own heartbeats and then took part in the rubber hand illusion; those who sensed their heartbeat less accurately more readily felt a rubber hand as their own.",
+   "description_zh": "参与者先数自己的心跳，再体验橡胶手错觉；心跳感知越不准确的人，越容易把橡胶手感到是自己的。",
+   "idea_en": "Interoception anchors the sense of owning one's body: the better we feel from inside, the less our body-image is pulled around by what we see.",
+   "idea_zh": "内感受为身体拥有感提供了锚点：从内部感受得越清楚，身体意象就越不容易被所见之物牵着走。",
+   "method": "Heartbeat perception task to measure interoceptive sensitivity, followed by the rubber hand illusion with proprioceptive drift and questionnaires (Proceedings of the Royal Society B, 2011).",
+   "method_zh": "用心跳感知任务测量内感受敏感性，随后进行橡胶手错觉实验，测量本体感偏移并填写问卷（《英国皇家学会学报 B》，2011）。",
+   "keywords": [
+    "interoceptive sensitivity",
+    "heartbeat perception",
+    "rubber hand illusion",
+    "body ownership"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1098/rspb.2010.2547",
+    "doi": "10.1098/rspb.2010.2547",
+    "venue": "Proceedings of the Royal Society B 2011",
+    "title": "Just a heartbeat away from one's body: interoceptive sensitivity predicts malleability of body-representations"
+   }
+  },
+  {
+   "id": "doppel--doppel",
+   "creator_ids": [
+    "doppel",
+    "manos-tsakiris"
+   ],
+   "title": "doppel",
+   "year": 2015,
+   "field": "affect",
+   "sub": "interoception",
+   "modalities": [
+    "heartbeat",
+    "vibration"
+   ],
+   "lenses": [
+    "touching-back",
+    "care-healing"
+   ],
+   "kind": "product",
+   "description": "A wristband that taps a heartbeat-like rhythm on the inside of the wrist; a slow rhythm is meant to calm and a faster one to energise, without displaying any data.",
+   "description_zh": "一只在手腕内侧敲出类似心跳节律的腕带；慢节律用于平静，快节律用于提神，不显示任何数据。",
+   "idea_en": "Rather than measuring the body and telling us about it, technology can speak to the body in its own rhythms and let it respond.",
+   "idea_zh": "技术不必测量身体再向我们报告，它可以用身体自己的节律对身体说话，让身体自己回应。",
+   "method": "A vibrotactile actuator produces heartbeat-like pulses at a chosen tempo; a controlled study found lower skin conductance and anxiety before public speaking (Scientific Reports, 2017).",
+   "method_zh": "振动触觉执行器以设定的速度产生类似心跳的脉动；对照研究发现，演讲前佩戴者的皮肤电反应与焦虑更低（Scientific Reports，2017）。",
+   "keywords": [
+    "heartbeat-like vibration",
+    "entrainment",
+    "anxiety",
+    "wearable",
+    "Royal Holloway"
+   ],
+   "also": [
+    "care"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=XU_UEcvbJW8"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1038/s41598-017-02274-2",
+    "doi": "10.1038/s41598-017-02274-2",
+    "venue": "Scientific Reports 2017",
+    "title": "The calming effect of a new wearable device during the anticipation of public speech"
+   },
+   "source_url": "https://feeldoppel.co.uk/pages/science"
+  },
+  {
+   "id": "jean-costa--emotioncheck",
+   "creator_ids": [
+    "jean-costa"
+   ],
+   "title": "EmotionCheck",
+   "year": 2016,
+   "field": "affect",
+   "sub": "interoception",
+   "modalities": [
+    "heartbeat",
+    "vibration"
+   ],
+   "lenses": [
+    "affective-loop",
+    "touching-back"
+   ],
+   "kind": "prototype",
+   "description": "A wrist device that lets anxious users feel, through vibration, a heart rate slower than their real one; believing their heart was calm, people reported less anxiety.",
+   "description_zh": "一款腕上设备，通过振动让焦虑的使用者感到比真实心率更慢的心跳；以为自己的心很平静，人们报告的焦虑就减少了。",
+   "idea_en": "Emotion is partly built from how we read our body: feeling a slower heartbeat can calm us, a reminder that interoceptive feedback is itself persuasive.",
+   "idea_zh": "情绪部分地由我们如何解读身体建构而成：感到心跳变慢就能让人平静，这也提醒我们，内感受反馈本身就有说服力。",
+   "method": "A wearable renders vibrotactile heartbeats at a false, slower rate; tested in an anxiety-inducing task with physiological and self-report measures (UbiComp 2016).",
+   "method_zh": "可穿戴设备以虚假的、较慢的速率呈现振动心跳；在诱发焦虑的任务中结合生理与自我报告测量进行测试（UbiComp 2016）。",
+   "keywords": [
+    "false feedback",
+    "heart rate",
+    "emotion regulation",
+    "vibrotactile",
+    "anxiety",
+    "interoceptive suggestion"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2971648.2971752",
+    "doi": "10.1145/2971648.2971752",
+    "venue": "UbiComp 2016",
+    "title": "EmotionCheck: Leveraging Bodily Signals and False Feedback to Regulate Our Emotions"
+   }
+  },
+  {
+   "id": "kirsten-boehner--how-emotion-is-made-and-measured",
+   "creator_ids": [
+    "kirsten-boehner",
+    "phoebe-sengers"
+   ],
+   "title": "How Emotion Is Made and Measured",
+   "year": 2007,
+   "field": "affect",
+   "sub": "affective-loops",
+   "modalities": [
+    "whole-soma"
+   ],
+   "lenses": [
+    "affective-loop",
+    "body-mind-unity",
+    "body-data"
+   ],
+   "kind": "paper",
+   "description": "A critique of affective computing's 'informational' view of emotion as an internal state to be sensed and transmitted, proposing instead an 'interactional' view in which emotion is made in social and cultural interaction.",
+   "description_zh": "对情感计算“信息观”的批判：该观点把情绪看作可被感测和传输的内部状态；作者提出“互动观”，认为情绪是在社会与文化互动中被造就的。",
+   "idea_en": "Design should help people experience, interpret and reflect on their own emotions rather than have a system decide what they feel, which is the ground of affective loops.",
+   "idea_zh": "设计应帮助人们体验、诠释并反思自己的情绪，而不是由系统判定他们感受到什么，这正是情感回路的基础。",
+   "method": "A theoretical argument drawing on social and cultural accounts of emotion, with design examples of interactional systems (International Journal of Human-Computer Studies, 2007; with Rogério DePaula and Paul Dourish).",
+   "method_zh": "借助关于情绪的社会与文化理论进行论证，并给出互动式系统的设计示例（《国际人机研究期刊》，2007；合著者 Rogério DePaula、Paul Dourish）。",
+   "keywords": [
+    "interactional approach",
+    "affective computing critique",
+    "emotion as experience",
+    "Dourish",
+    "Sengers"
+   ],
+   "also": [
+    "foundations"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1016/j.ijhcs.2006.11.016",
+    "doi": "10.1016/j.ijhcs.2006.11.016",
+    "venue": "International Journal of Human-Computer Studies 2007",
+    "title": "How emotion is made and measured"
+   }
+  },
+  {
+   "id": "phoebe-sengers--staying-open-to-interpretation",
+   "creator_ids": [
+    "phoebe-sengers"
+   ],
+   "title": "Staying Open to Interpretation",
+   "year": 2006,
+   "field": "affect",
+   "sub": "body-data",
+   "modalities": [
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-data",
+    "first-person"
+   ],
+   "kind": "paper",
+   "description": "An argument that interactive systems, and their evaluations, should support many valid interpretations by users rather than one meaning fixed by the designer.",
+   "description_zh": "一篇论述：交互系统及其评估，应支持使用者作出多种合理诠释，而不是由设计者固定唯一的意义。",
+   "idea_en": "Leaving body data ambiguous is a design resource: it invites people to bring their own felt sense and context to what a signal means.",
+   "idea_zh": "让身体数据保持模糊是一种设计资源：它邀请人们把自己的体感与处境带入对信号意义的理解。",
+   "method": "Conceptual analysis with examples from the authors' own design projects and evaluation practices (DIS 2006; with Bill Gaver).",
+   "method_zh": "以作者自己的设计项目与评估实践为例进行概念分析（DIS 2006；合著者 Bill Gaver）。",
+   "keywords": [
+    "ambiguity",
+    "multiple interpretations",
+    "evaluation",
+    "Gaver",
+    "critical design"
+   ],
+   "also": [
+    "methods"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/1142405.1142422",
+    "doi": "10.1145/1142405.1142422",
+    "venue": "DIS 2006",
+    "title": "Staying open to interpretation: engaging multiple meanings in design and evaluation"
+   },
+   "collections": [
+    "dis"
+   ]
+  },
+  {
+   "id": "rosalind-picard--affective-computing",
+   "creator_ids": [
+    "rosalind-picard"
+   ],
+   "title": "Affective Computing",
+   "year": 1997,
+   "field": "affect",
+   "sub": "affective-loops",
+   "modalities": [
+    "skin-arousal",
+    "heartbeat"
+   ],
+   "lenses": [
+    "affective-loop",
+    "body-data"
+   ],
+   "kind": "publication",
+   "description": "The book that named and founded affective computing: computing that relates to, arises from or deliberately influences emotion, including wearable sensing of physiological signals.",
+   "description_zh": "为情感计算命名并奠基的书：与情绪相关、源于情绪或有意影响情绪的计算，包括对生理信号的可穿戴感测。",
+   "idea_en": "It put the body's signals at the centre of computing with emotion; soma design keeps that attention to the body but questions the idea that emotion can be read off it as a label.",
+   "idea_zh": "它把身体信号放到了与情绪相关的计算的中心；身体设计保留了对身体的关注，但质疑情绪可以作为标签从身体上被读出的想法。",
+   "method": "A monograph combining emotion theory, signal processing, pattern recognition and early wearable prototypes from the MIT Media Lab.",
+   "method_zh": "一部结合情绪理论、信号处理、模式识别与麻省理工学院媒体实验室早期可穿戴原型的专著。",
+   "keywords": [
+    "affective computing",
+    "emotion recognition",
+    "wearables",
+    "MIT Media Lab",
+    "physiological signals"
+   ],
+   "also": [
+    "foundations"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.7551/mitpress/1140.001.0001",
+    "doi": "10.7551/mitpress/1140.001.0001",
+    "venue": "MIT Press 1997",
+    "title": "Affective Computing"
+   }
+  },
+  {
+   "id": "lisa-feldman-barrett--how-emotions-are-made",
+   "creator_ids": [
+    "lisa-feldman-barrett"
+   ],
+   "title": "How Emotions Are Made",
+   "year": 2017,
+   "field": "affect",
+   "sub": "interoception",
+   "modalities": [
+    "pain-interoception",
+    "heartbeat",
+    "whole-soma"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "affective-loop"
+   ],
+   "kind": "publication",
+   "description": "A book presenting the theory of constructed emotion: emotions are not fixed circuits or universal expressions but are built by the brain from interoceptive sensations, concepts and context.",
+   "description_zh": "一本阐述情绪建构理论的书：情绪不是固定的神经回路或普遍的面部表情，而是大脑依据内感受、概念与情境建构出来的。",
+   "idea_en": "Every feeling starts from the body's own budget of energy and sensation; emotion is body-mind activity, which undercuts designs that 'detect' emotions as fixed categories.",
+   "idea_zh": "每一种感受都始于身体自身的能量与感觉预算；情绪是身心的活动，这动摇了把情绪当固定类别去“检测”的设计。",
+   "method": "Synthesis of neuroscience, psychology and anthropology on predictive processing, interoception ('body budgeting') and emotion concepts (Houghton Mifflin Harcourt).",
+   "method_zh": "综合神经科学、心理学与人类学关于预测加工、内感受（“身体预算”）与情绪概念的研究（Houghton Mifflin Harcourt 出版）。",
+   "keywords": [
+    "theory of constructed emotion",
+    "interoception",
+    "body budget",
+    "predictive brain",
+    "emotion concepts"
+   ],
+   "also": [
+    "foundations"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=0gks6ceq4eQ"
+   },
+   "images": [
+    "https://lisafeldmanbarrett.com/wp-content/uploads/sites/4/2020/06/BookTemplate_Square_HowEmotionsMade.jpg"
+   ],
+   "paper": {
+    "url": "https://lisafeldmanbarrett.com/books/how-emotions-are-made/",
+    "venue": "Houghton Mifflin Harcourt 2017",
+    "title": "How Emotions Are Made: The Secret Life of the Brain"
+   },
+   "source_url": "https://lisafeldmanbarrett.com/books/how-emotions-are-made/"
+  },
+  {
+   "id": "a-d-craig--how-do-you-feel",
+   "creator_ids": [
+    "a-d-craig"
+   ],
+   "title": "How Do You Feel? Interoception",
+   "year": 2002,
+   "field": "affect",
+   "sub": "interoception",
+   "modalities": [
+    "pain-interoception",
+    "heartbeat",
+    "heat"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "first-person"
+   ],
+   "kind": "paper",
+   "description": "A review that redefines interoception as the sense of the physiological condition of the entire body, carried by a dedicated pathway to the insular cortex, and links it to feelings and emotional awareness.",
+   "description_zh": "一篇综述：把内感受重新定义为对全身生理状态的感觉，经由专门通路抵达脑岛皮层，并把它与感受及情绪觉知联系起来。",
+   "idea_en": "Pain, temperature, itch, hunger and heartbeat belong to one sense of the body's inner state, and that sense is the stuff that subjective feeling is made of.",
+   "idea_zh": "疼痛、温度、瘙痒、饥饿与心跳同属一种对身体内部状态的感觉，而主观感受正是由这种感觉构成的。",
+   "method": "Review of neuroanatomical and functional imaging evidence on the lamina I spinothalamocortical pathway and the insula (Nature Reviews Neuroscience, 2002).",
+   "method_zh": "综述关于脊髓丘脑皮层通路（I 层）与脑岛的神经解剖及功能成像证据（Nature Reviews Neuroscience，2002）。",
+   "keywords": [
+    "interoception",
+    "insula",
+    "homeostasis",
+    "feelings",
+    "neuroscience"
+   ],
+   "also": [
+    "foundations"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/nrn894",
+    "doi": "10.1038/nrn894",
+    "venue": "Nature Reviews Neuroscience 2002",
+    "title": "How do you feel? Interoception: the sense of the physiological condition of the body"
+   }
+  },
+  {
+   "id": "sarah-garfinkel--knowing-your-own-heart",
+   "creator_ids": [
+    "sarah-garfinkel"
+   ],
+   "title": "Knowing Your Own Heart",
+   "year": 2015,
+   "field": "affect",
+   "sub": "interoception",
+   "modalities": [
+    "heartbeat"
+   ],
+   "lenses": [
+    "first-person",
+    "body-data"
+   ],
+   "kind": "paper",
+   "description": "A study showing that how accurately people detect their heartbeat, how well they believe they sense their body, and how well their confidence tracks their accuracy are three separate abilities.",
+   "description_zh": "一项研究表明：人们感知心跳的准确度、自认为感知身体的能力，以及信心与准确度是否相符，是三种彼此独立的能力。",
+   "idea_en": "Feeling the body well is not one thing: a design that trains or displays interoception should say whether it addresses accuracy, belief or the awareness between them.",
+   "idea_zh": "“感受身体”并非一件事：训练或呈现内感受的设计，应说明它针对的是准确度、自我信念，还是二者之间的觉知。",
+   "method": "Heartbeat tracking and discrimination tasks, confidence ratings and questionnaires with 80 participants (Biological Psychology, 2015; with Anil Seth, Hugo Critchley and others).",
+   "method_zh": "在 80 名参与者中进行心跳追踪与辨别任务、信心评分与问卷（Biological Psychology，2015；合作者包括 Anil Seth、Hugo Critchley 等）。",
+   "keywords": [
+    "interoceptive accuracy",
+    "interoceptive sensibility",
+    "interoceptive awareness",
+    "heartbeat detection",
+    "metacognition"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=hI_gG49sV2s"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1016/j.biopsycho.2014.11.004",
+    "doi": "10.1016/j.biopsycho.2014.11.004",
+    "venue": "Biological Psychology 2015",
+    "title": "Knowing your own heart: Distinguishing interoceptive accuracy from interoceptive awareness"
+   }
+  },
+  {
+   "id": "jane-aspell--turning-body-and-self-inside-out",
+   "creator_ids": [
+    "jane-aspell"
+   ],
+   "title": "Turning Body and Self Inside Out",
+   "year": 2013,
+   "field": "affect",
+   "sub": "interoception",
+   "modalities": [
+    "heartbeat",
+    "light-vision"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "estrangement"
+   ],
+   "kind": "paper",
+   "description": "Participants saw a projected image of their own body outlined by a silhouette that flashed with their heartbeat; when the flashing was in sync, they identified more with the virtual body and felt touch displaced toward it.",
+   "description_zh": "参与者看到自己身体的投影影像，轮廓光圈随其心跳闪烁；当闪烁与心跳同步时，他们更认同这具虚拟身体，触觉也向它偏移。",
+   "idea_en": "The inner heartbeat helps locate the self in space: making interoception visible outside the body can move where 'I' feel I am.",
+   "idea_zh": "内部的心跳参与在空间中定位自我：把内感受在体外变得可见，就能挪动“我”所感到的所在之处。",
+   "method": "A cardio-visual full-body illusion: real-time video of the participant's body with a heartbeat-synchronous or asynchronous illuminated silhouette, measuring self-identification, self-location and tactile perception (Psychological Science, 2013; with Olaf Blanke and others).",
+   "method_zh": "心-视全身错觉：参与者身体的实时影像配以与心跳同步或不同步的发光轮廓，测量自我认同、自我定位与触觉知觉（Psychological Science，2013；合作者包括 Olaf Blanke）。",
+   "keywords": [
+    "cardio-visual illusion",
+    "bodily self-consciousness",
+    "full-body illusion",
+    "heartbeat",
+    "EPFL"
+   ],
+   "also": [
+    "machines-xr"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1177/0956797613498395",
+    "doi": "10.1177/0956797613498395",
+    "venue": "Psychological Science 2013",
+    "title": "Turning Body and Self Inside Out: Visualized Heartbeats Alter Bodily Self-Consciousness and Tactile Perception"
+   }
+  },
+  {
+   "id": "chris-elsden--a-quantified-past",
+   "creator_ids": [
+    "chris-elsden"
+   ],
+   "title": "A Quantified Past",
+   "year": 2016,
+   "field": "affect",
+   "sub": "body-data",
+   "modalities": [
+    "whole-soma",
+    "movement"
+   ],
+   "lenses": [
+    "body-data",
+    "first-person"
+   ],
+   "kind": "paper",
+   "description": "A study of how self-trackers look back on their old personal data, arguing that tracking is also a way of remembering one's life, not only of monitoring performance.",
+   "description_zh": "一项研究：考察自我追踪者如何回看旧的个人数据，并主张追踪也是一种回忆自己生活的方式，而不只是监测表现。",
+   "idea_en": "Body data gains meaning when it is tied back to lived experience and memory; design should support reminiscence and ambiguity, not only goals.",
+   "idea_zh": "身体数据只有与亲历经验和记忆重新联结时才有意义；设计应支持回忆与模糊性，而不只是目标。",
+   "method": "Qualitative interviews with Quantified Self practitioners about revisiting their data, leading to design considerations for remembering (Human-Computer Interaction journal; with David Kirk and Abigail Durrant).",
+   "method_zh": "对 Quantified Self 实践者回看自身数据进行质性访谈，并提出面向回忆的设计考量（Human-Computer Interaction 期刊；合著者 David Kirk、Abigail Durrant）。",
+   "keywords": [
+    "personal informatics",
+    "Quantified Self",
+    "remembering",
+    "self-tracking critique",
+    "reflection"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1080/07370024.2015.1093422",
+    "doi": "10.1080/07370024.2015.1093422",
+    "venue": "Human-Computer Interaction 2016",
+    "title": "A Quantified Past: Toward Design for Remembering With Personal Informatics"
+   }
+  },
+  {
+   "id": "jeremy-frey--breeze",
+   "creator_ids": [
+    "jeremy-frey"
+   ],
+   "title": "Breeze",
+   "year": 2018,
+   "field": "affect",
+   "sub": "biosignals",
+   "modalities": [
+    "breath",
+    "vibration",
+    "light-vision"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "affective-loop"
+   ],
+   "kind": "prototype",
+   "description": "A pendant worn around the neck that senses the wearer's breathing and relays it to a partner's pendant as light, vibration or sound; people often breathed along with the feedback to sense what the other felt.",
+   "description_zh": "一枚挂在颈间的吊坠，感测佩戴者的呼吸，并以光、振动或声音传给伴侣的吊坠；人们常常跟着反馈一起呼吸，以体会对方的感受。",
+   "idea_en": "Sharing breath invites bodily attunement: matching another's breathing is itself a way of understanding their emotion, from the inside.",
+   "idea_zh": "分享呼吸会引发身体上的调谐：去跟随他人的呼吸，本身就是一种从内部理解对方情绪的方式。",
+   "method": "A wearable pendant measures breathing and renders digital breathing patterns through visual, audio and haptic output; patterns were evaluated for emotional interpretation in a lab study (CHI 2018).",
+   "method_zh": "可穿戴吊坠测量呼吸，并以视觉、听觉与触觉输出呈现数字化呼吸模式；在实验室研究中评估人们对这些模式的情绪诠释（CHI 2018）。",
+   "keywords": [
+    "breathing",
+    "inter-biofeedback",
+    "pendant",
+    "empathy",
+    "wearable"
+   ],
+   "also": [
+    "social"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=QPQ8-hbWKyM"
+   },
+   "images": [
+    "https://labs.ullo.fr/wp-content/uploads/2021/04/breeze_teaser.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3173574.3174219",
+    "doi": "10.1145/3173574.3174219",
+    "venue": "CHI 2018",
+    "title": "Breeze: Sharing Biofeedback through Wearable Technologies"
+   },
+   "source_url": "https://labs.ullo.fr/projects/breeze/",
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "jeremy-frey--teegi",
+   "creator_ids": [
+    "jeremy-frey"
+   ],
+   "title": "Teegi",
+   "year": 2014,
+   "field": "affect",
+   "sub": "biosignals",
+   "modalities": [
+    "brain",
+    "touch",
+    "light-vision"
+   ],
+   "lenses": [
+    "body-data",
+    "first-person"
+   ],
+   "kind": "prototype",
+   "description": "A small tangible character on whose head a person's own EEG activity is projected in real time; by handling and turning it, novices explore what their brain is doing as they move, close their eyes or relax.",
+   "description_zh": "一个小巧的实体人偶，头上实时投射出使用者自己的脑电活动；新手通过拿起、转动它，探索自己在动作、闭眼或放松时大脑在做什么。",
+   "idea_en": "Turning an abstract brain signal into a figure one can hold makes one's own inner activity approachable and felt, rather than a chart to be decoded.",
+   "idea_zh": "把抽象的脑信号变成可以握在手中的形象，让自身的内在活动变得亲近、可感，而不是一张有待解码的图表。",
+   "method": "EEG headset signals are processed in real time and projected onto a tracked figurine with spatial augmented reality; an exploratory study with novice users (UIST 2014).",
+   "method_zh": "脑电头戴设备的信号经实时处理，通过空间增强现实投射到被追踪的人偶上；与新手用户进行探索性研究（UIST 2014）。",
+   "keywords": [
+    "EEG",
+    "tangible interface",
+    "spatial augmented reality",
+    "neurofeedback",
+    "self-knowledge",
+    "Inria"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=fxiARWdgSCU"
+   },
+   "images": [
+    "https://phd.jfrey.info/images/teaser_teegi.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2642918.2647368",
+    "doi": "10.1145/2642918.2647368",
+    "venue": "UIST 2014",
+    "title": "Teegi: Tangible EEG Interface"
+   },
+   "source_url": "https://phd.jfrey.info/projects/teegi/"
+  },
+  {
+   "id": "petr-slovak--understanding-heart-rate-sharing",
+   "creator_ids": [
+    "petr-slovak",
+    "joris-janssen"
+   ],
+   "title": "Understanding Heart Rate Sharing",
+   "year": 2012,
+   "field": "affect",
+   "sub": "biosignals",
+   "modalities": [
+    "heartbeat"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "body-data"
+   ],
+   "kind": "paper",
+   "description": "A qualitative study of people sharing their heart rate with others in everyday situations, which found that a shared heartbeat can feel intimate and create connection, and that its meaning depends on the relationship.",
+   "description_zh": "一项质性研究：考察人们在日常情境中与他人分享心率，发现共享的心跳会让人感到亲密、产生联结，而其意义取决于彼此的关系。",
+   "idea_en": "A heartbeat shared between people is not neutral data but a 'physiosocial' cue: it carries intimacy and responsibility and must be designed for as a relationship.",
+   "idea_zh": "人与人之间共享的心跳不是中性的数据，而是一种“生理-社会”线索：它承载亲密与责任，必须当作一段关系来设计。",
+   "method": "Qualitative field study of heart rate sharing across social settings, analysed to map the dimensions of a 'physiosocial space' (CHI 2012; with Geraldine Fitzpatrick).",
+   "method_zh": "对不同社交情境中的心率分享进行质性实地研究，并据此勾画“生理-社会空间”的维度（CHI 2012；合作者 Geraldine Fitzpatrick）。",
+   "keywords": [
+    "heart rate sharing",
+    "physiosocial",
+    "intimacy",
+    "social biofeedback"
+   ],
+   "also": [
+    "social"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2207676.2208526",
+    "doi": "10.1145/2207676.2208526",
+    "venue": "CHI 2012",
+    "title": "Understanding heart rate sharing: towards unpacking physiosocial space"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "joris-janssen--intimate-heartbeats",
+   "creator_ids": [
+    "joris-janssen"
+   ],
+   "title": "Intimate Heartbeats",
+   "year": 2010,
+   "field": "affect",
+   "sub": "biosignals",
+   "modalities": [
+    "heartbeat",
+    "voice-sound"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "affective-loop"
+   ],
+   "kind": "paper",
+   "description": "A set of studies, including one in an immersive virtual environment, showing that people perceive another's heartbeat as an intimate signal and that hearing it changes how close they feel to that person.",
+   "description_zh": "一组研究（其中一项在沉浸式虚拟环境中进行）表明，人们把他人的心跳感知为一种亲密信号，而听见它会改变人们感到与对方的亲近程度。",
+   "idea_en": "The heartbeat is felt as one of the most intimate body signals; hearing it gives technology a way to mediate closeness through the body, with the care that intimacy requires.",
+   "idea_zh": "心跳被体验为最亲密的身体信号之一；听见它，让技术有了一种经由身体传递亲近的途径，也要求相应的审慎。",
+   "method": "Survey and experimental studies on the perceived intimacy of heartbeats, including an immersive virtual environment study of interpersonal distance (IEEE Transactions on Affective Computing, 2010; with Jeremy Bailenson and others).",
+   "method_zh": "关于心跳亲密感的问卷与实验研究，包括一项在沉浸式虚拟环境中测量人际距离的研究（IEEE Transactions on Affective Computing，2010；合作者包括 Jeremy Bailenson）。",
+   "keywords": [
+    "heartbeat",
+    "intimacy",
+    "affective communication",
+    "interpersonal distance",
+    "virtual environment"
+   ],
+   "also": [
+    "social"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1109/t-affc.2010.13",
+    "doi": "10.1109/t-affc.2010.13",
+    "venue": "IEEE Transactions on Affective Computing 2010",
+    "title": "Intimate Heartbeats: Opportunities for Affective Communication Technology"
+   }
+  },
+  {
+   "id": "mariam-hassib--heartchat",
+   "creator_ids": [
+    "mariam-hassib"
+   ],
+   "title": "HeartChat",
+   "year": 2017,
+   "field": "affect",
+   "sub": "biosignals",
+   "modalities": [
+    "heartbeat"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "body-data"
+   ],
+   "kind": "prototype",
+   "description": "A mobile chat app that attaches the sender's heart rate, sensed by a wearable, to messages, so friends and partners can glimpse each other's bodily state while texting.",
+   "description_zh": "一款手机聊天应用，把可穿戴设备感测到的发送者心率附在消息上，让朋友和伴侣在聊天时瞥见彼此的身体状态。",
+   "idea_en": "Adding a live body signal to text restores some of the felt presence that written messages lose, supporting empathy as well as raising questions about privacy.",
+   "idea_zh": "在文字中加入实时的身体信号，能找回书面消息丢失的一部分可感在场，既支持共情，也带来隐私问题。",
+   "method": "Heart rate from a wearable sensor is displayed in the chat interface in several forms; evaluated in a field study with pairs of users (CHI 2017).",
+   "method_zh": "可穿戴传感器的心率以多种形式显示在聊天界面中；与成对用户进行实地研究评估（CHI 2017）。",
+   "keywords": [
+    "heart rate",
+    "mobile chat",
+    "empathy",
+    "awareness",
+    "physiological sensing"
+   ],
+   "also": [
+    "social"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=elTsjD4wBuE"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3025453.3025758",
+    "doi": "10.1145/3025453.3025758",
+    "venue": "CHI 2017",
+    "title": "HeartChat: Heart Rate Augmented Mobile Chat to Support Empathy and Awareness"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "r-michael-winters--can-you-hear-my-heartbeat",
+   "creator_ids": [
+    "r-michael-winters"
+   ],
+   "title": "Can You Hear My Heartbeat?",
+   "year": 2021,
+   "field": "affect",
+   "sub": "biosignals",
+   "modalities": [
+    "heartbeat",
+    "voice-sound"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "affective-loop"
+   ],
+   "kind": "paper",
+   "description": "In a lab study, 27 people recognised others' emotions while sometimes hearing that person's heartbeat; hearing it shifted their emotional perspective and raised their sense of 'feeling what the other was feeling'.",
+   "description_zh": "在一项实验室研究中，27 名参与者辨认他人的情绪，其间有时能听见对方的心跳；听见心跳改变了他们的情绪视角，也增强了“感受对方所感”的体验。",
+   "idea_en": "A heartbeat heard, not seen, reaches the listener's body directly and can open an embodied path to empathy.",
+   "idea_zh": "被听见而非被看见的心跳，直接抵达聆听者的身体，可以打开一条具身的共情之路。",
+   "method": "Within-subjects emotion recognition task with auditory heartbeat conditions and empathy measures (CHI 2021; with Bruce Walker and Grace Leslie).",
+   "method_zh": "被试内设计的情绪识别任务，设置不同的心跳声条件并测量共情（CHI 2021；合作者 Bruce Walker、Grace Leslie）。",
+   "keywords": [
+    "heartbeat sonification",
+    "empathy",
+    "expressive biosignals",
+    "auditory display"
+   ],
+   "also": [
+    "social"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=7N9GOKW1mbA"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3411764.3445545",
+    "doi": "10.1145/3411764.3445545",
+    "venue": "CHI 2021",
+    "title": "Can You Hear My Heartbeat?: Hearing an Expressive Biosignal Elicits Empathy"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "marianna-obrist--emotions-mediated-through-mid-air-haptics",
+   "creator_ids": [
+    "marianna-obrist"
+   ],
+   "title": "Emotions Mediated Through Mid-Air Haptics",
+   "year": 2015,
+   "field": "affect",
+   "sub": "affective-loops",
+   "modalities": [
+    "touch",
+    "vibration"
+   ],
+   "lenses": [
+    "affective-loop",
+    "touching-back"
+   ],
+   "kind": "paper",
+   "description": "One group of people designed mid-air ultrasound touch patterns on the palm to express emotions such as happy, sad, excited and afraid; two further groups recognised and validated them.",
+   "description_zh": "一组参与者在掌心设计半空超声触觉图样，用来表达快乐、悲伤、兴奋、害怕等情绪；另两组参与者对其进行识别与验证。",
+   "idea_en": "How a touch feels, where, how fast and how strong, carries emotion in non-arbitrary ways, so felt qualities of touch are a vocabulary for affective design.",
+   "idea_zh": "触碰的感觉，包括位置、速度与强度，以非任意的方式承载情绪；因此触觉的质感可以成为情感设计的词汇。",
+   "method": "An ultrasonic mid-air haptic array; participants composed haptic descriptions for emotions, which were reviewed and validated by two other groups (CHI 2015).",
+   "method_zh": "使用超声波半空触觉阵列；参与者为情绪创作触觉描述，再由另两组参与者审阅与验证（CHI 2015）。",
+   "keywords": [
+    "mid-air haptics",
+    "ultrasound",
+    "emotion",
+    "touch",
+    "SCHI Lab",
+    "Ultrahaptics"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=OBOxuFmsxBY"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/2702123.2702361",
+    "doi": "10.1145/2702123.2702361",
+    "venue": "CHI 2015",
+    "title": "Emotions Mediated Through Mid-Air Haptics"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "rafael-lozano-hemmer--pulse-room",
+   "creator_ids": [
+    "rafael-lozano-hemmer"
+   ],
+   "title": "Pulse Room",
+   "year": 2006,
+   "field": "affect",
+   "sub": "biosignals",
+   "modalities": [
+    "heartbeat",
+    "light-vision"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "body-data"
+   ],
+   "kind": "artwork",
+   "description": "A visitor grips a sensor and a bare light bulb above starts to flash with their heartbeat; the pulse then moves along a field of hundreds of bulbs, each blinking with the heartbeat of an earlier visitor.",
+   "description_zh": "观众握住传感器，头顶一只裸灯泡开始随其心跳闪烁；随后这段脉搏沿着数百只灯泡的阵列移动，每只灯泡都在以某位先前观众的心跳闪烁。",
+   "idea_en": "One's own heartbeat, seen as light among hundreds of others, is felt both as intimately personal and as part of a collective pulse.",
+   "idea_zh": "自己的心跳化作数百盏灯中的一盏光，既被感到是极其私人的，也被感到是集体脉搏的一部分。",
+   "method": "A heart-rate sensor on a handle drives up to 300 incandescent bulbs through dimmers, keeping the most recent recordings; the combined pulses are also heard.",
+   "method_zh": "手柄上的心率传感器通过调光器驱动多达 300 只白炽灯泡，保存最近的录入；众多脉搏的叠加也可以被听见。",
+   "keywords": [
+    "heartbeat",
+    "light bulbs",
+    "participatory installation",
+    "biometric art",
+    "collective pulse"
+   ],
+   "video": {
+    "url": "https://vimeo.com/33929373"
+   },
+   "images": [
+    "https://www.lozano-hemmer.com/image_sets/pulse_room/kanazawa_2025/pulse_room_kanazawa_2025_ko_001_t.jpg",
+    "https://canadianart.ca/wp-content/uploads/2014/07/pulse_room11-1000x628.jpg"
+   ],
+   "source_url": "https://www.lozano-hemmer.com/pulse_room.php",
+   "exhibited": [
+    "52nd Venice Biennale, Mexican Pavilion (2007)"
+   ]
+  },
+  {
+   "id": "christian-nold--bio-mapping",
+   "creator_ids": [
+    "christian-nold"
+   ],
+   "title": "Bio Mapping",
+   "year": 2004,
+   "field": "affect",
+   "sub": "body-data",
+   "modalities": [
+    "skin-arousal",
+    "movement"
+   ],
+   "lenses": [
+    "body-data",
+    "intercorporeality",
+    "body-politics"
+   ],
+   "kind": "artwork",
+   "description": "Participants walk their neighbourhood wearing a skin conductance sensor linked to GPS; afterwards they annotate the peaks of arousal on a map together, producing community 'emotion maps' of places such as Greenwich and San Francisco.",
+   "description_zh": "参与者佩戴与 GPS 相连的皮肤电传感器在社区里行走，之后一起在地图上为唤醒峰值加注释，形成格林尼治、旧金山等地的社区“情绪地图”。",
+   "idea_en": "A skin conductance peak says little on its own; its meaning comes from the walker's memory and from collective discussion, making body data a starting point for shared stories.",
+   "idea_zh": "单独一个皮肤电峰值说明不了什么；它的意义来自行走者的记忆与集体讨论，让身体数据成为共同讲述的起点。",
+   "method": "A galvanic skin response logger and a GPS unit record arousal and position; mapping software visualises tracks, and group workshops add annotations (published as Emotional Cartography, 2009).",
+   "method_zh": "皮肤电记录器与 GPS 记录唤醒与位置；地图软件把轨迹可视化，工作坊中集体添加注释（汇编为 Emotional Cartography，2009）。",
+   "keywords": [
+    "galvanic skin response",
+    "GPS",
+    "emotion map",
+    "participatory mapping",
+    "Emotional Cartography"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=2mVYKVrIXs4"
+   },
+   "images": [
+    "http://www.softhook.com/biomap.jpg"
+   ],
+   "source_url": "http://biomapping.net/"
+  },
+  {
+   "id": "christian-boltanski--les-archives-du-coeur",
+   "creator_ids": [
+    "christian-boltanski"
+   ],
+   "title": "Les Archives du Cœur",
+   "year": 2008,
+   "field": "affect",
+   "sub": "interoception",
+   "modalities": [
+    "heartbeat",
+    "voice-sound",
+    "light-vision"
+   ],
+   "lenses": [
+    "body-data",
+    "intercorporeality"
+   ],
+   "kind": "artwork",
+   "description": "An archive of recorded human heartbeats, collected from people around the world since 2008 and housed on Teshima island, Japan, where visitors listen to strangers' hearts, record their own, and stand in a dark room where a bulb pulses with a heartbeat.",
+   "description_zh": "一座人类心跳录音档案，自 2008 年起在世界各地收集，收藏于日本丰岛；来访者可以聆听陌生人的心跳、录下自己的心跳，并走进一间灯泡随心跳明灭的暗室。",
+   "idea_en": "The sound of a heartbeat is at once anonymous and unmistakably a living person; hearing it in the dark makes one's own life felt as fragile and shared.",
+   "idea_zh": "心跳声既是匿名的，又无疑属于一个活着的人；在黑暗中聆听它，会让人感到自己的生命既脆弱又与他人相连。",
+   "method": "Heartbeats are recorded in a recording room (likely with a stethoscope-style microphone), stored in a small permanent museum for listening, and visitors take their own recording home on CD; a heart room links a bulb to amplified heartbeat sound.",
+   "method_zh": "在录音室中录下心跳（很可能使用听诊器式麦克风），存入一座可供聆听的小型永久美术馆，来访者可把自己的录音制成 CD 带回家；“心之房间”让一只灯泡与放大的心跳声联动。",
+   "keywords": [
+    "heartbeat archive",
+    "Teshima",
+    "Benesse Art Site",
+    "memory",
+    "sound installation"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=5-8OtBaeYTA"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/c/c4/Les_Archives_du_C%C5%93ur.jpg",
+    "https://benesse-artsite.jp/en/art/boltanski_kv_thumb_01_pc.jpg"
+   ],
+   "source_url": "https://benesse-artsite.jp/en/art/boltanski.html",
+   "exhibited": [
+    "Setouchi International Art Festival, Teshima (2010)"
+   ]
+  },
+  {
+   "id": "terminalbeach--heart-chamber-orchestra",
+   "creator_ids": [
+    "terminalbeach"
+   ],
+   "title": "Heart Chamber Orchestra",
+   "year": 2006,
+   "field": "affect",
+   "sub": "biosignals",
+   "modalities": [
+    "heartbeat",
+    "voice-sound"
+   ],
+   "lenses": [
+    "affective-loop",
+    "intercorporeality"
+   ],
+   "kind": "performance",
+   "description": "Twelve classical musicians wear heart sensors; their heartbeats generate the musical score in real time, which they read from screens and play, so the music feeds back into the hearts that write it.",
+   "description_zh": "十二位古典乐手佩戴心脏传感器；他们的心跳实时生成乐谱，乐手看着屏幕演奏，于是音乐又反过来作用于书写它的心脏。",
+   "idea_en": "A performance is a loop between bodies and sound: the players' excitement shapes the score, and the score shapes their excitement.",
+   "idea_zh": "表演是一个身体与声音之间的回路：乐手的激动塑造乐谱，乐谱又塑造他们的激动。",
+   "method": "ECG sensors stream the musicians' heartbeats to software that generates notation and visuals live on stage.",
+   "method_zh": "心电传感器把乐手的心跳传给软件，在台上实时生成乐谱与影像。",
+   "keywords": [
+    "biofeedback performance",
+    "heartbeat",
+    "generative score",
+    "orchestra",
+    "audiovisual"
+   ],
+   "also": [
+    "movement"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=T3FJ4YYJC0U"
+   }
+  },
+  {
+   "id": "erin-gee--swarming-emotional-pianos",
+   "creator_ids": [
+    "erin-gee"
+   ],
+   "title": "Swarming Emotional Pianos",
+   "year": 2012,
+   "field": "affect",
+   "sub": "biosignals",
+   "modalities": [
+    "heartbeat",
+    "skin-arousal",
+    "breath"
+   ],
+   "lenses": [
+    "affective-loop",
+    "body-data"
+   ],
+   "kind": "artwork",
+   "description": "Six robotic chime instruments surround a projection of an actress moving through extreme emotions; her recorded heartbeat, sweat and breathing drive the robots' musical outbursts.",
+   "description_zh": "六台机器人鸣钟乐器环绕着一位女演员的投影，她正经历一段段极端情绪；录下的心跳、出汗与呼吸数据驱动机器人奏出一阵阵音乐。",
+   "idea_en": "Visitors meet two windows onto one emotional body, the face and the physiology, and feel how much, and how little, of feeling survives the translation into data.",
+   "idea_zh": "观众面对同一个情绪身体的两扇窗：面孔与生理；并感受到感受在转译为数据时，能留存多少、又丢失多少。",
+   "method": "Custom biosensors recorded heart rate, skin conductance and respiration during timed emotional performances; the data drives servo-mallets on aluminium-tube robots.",
+   "method_zh": "自制生物传感器在限时情绪表演中记录心率、皮肤电与呼吸；这些数据驱动铝管机器人上的舵机琴槌。",
+   "keywords": [
+    "biosensors",
+    "robotic instruments",
+    "emotion",
+    "actress",
+    "music composition"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=8crC5vGj44A"
+   },
+   "images": [
+    "https://eringee.net/wp-content/uploads/2016/01/erin_gee-swarming_emotional_pianos-1.jpg"
+   ],
+   "source_url": "https://eringee.net/swarming-emotional-pianos/"
+  }
+ ],
+ "leads": [
+  {
+   "name": "Mirjana Prpa — Attending to Breath (DIS 2018) and Pulse Breath Water (2016)",
+   "why": "Attending to Breath added by social-machines; Pulse Breath Water still unverified.",
+   "link": "https://doi.org/10.1145/3196709.3196765",
+   "found_via": "jeremy-frey",
+   "status": "duplicate"
+  },
+  {
+   "name": "Clara Moge, Katherine Wang, Youngjun Cho — Shared User Interfaces of Physiological Data (CHI 2022)",
+   "why": "Systematic review of social biofeedback systems; added by social-machines.",
+   "link": "https://doi.org/10.1145/3491102.3517495",
+   "found_via": "jeremy-frey",
+   "status": "duplicate"
+  },
+  {
+   "name": "Jean Costa — BoostMeUp (IMWUT 2019)",
+   "why": "Smartwatch false heart-rate feedback to regulate emotion during tests; follow-up to EmotionCheck.",
+   "link": "https://doi.org/10.1145/3328911",
+   "found_via": "jean-costa",
+   "status": "open"
+  },
+  {
+   "name": "Rosalind Picard & Jocelyn Scheirer — The Galvactivator (2001)",
+   "why": "Glove whose LED glows with skin conductance, an early felt EDA wearable; no stable image or DOI found.",
+   "link": "https://affect.media.mit.edu/",
+   "found_via": "rosalind-picard",
+   "status": "no_media"
+  },
+  {
+   "name": "Rosalind Picard & Jennifer Healey — Affective Wearables (1997)",
+   "why": "Early wearable emotion sensing paper; measurement-centred, add only as context.",
+   "link": "https://doi.org/10.1007/bf01682026",
+   "found_via": "rosalind-picard",
+   "status": "open"
+  },
+  {
+   "name": "Kiel Gilleade, Alan Dix, Jen Allanson — Affective Videogames (DiGRA 2005) / Stephen Fairclough, physiological computing",
+   "why": "Biocybernetic loop in games; borderline (control-oriented).",
+   "link": "https://doi.org/10.26503/dl.v2005i1.229",
+   "found_via": "rosalind-picard",
+   "status": "open"
+  },
+  {
+   "name": "George Khut — The Heart Library Project (2009) and Alpha Lab (2013)",
+   "why": "Heart-rate artwork with hand-drawn body-map responses; EEG neurofeedback music event with drawing-based interviews.",
+   "link": "https://www.georgekhut.com/media-art/heart-library",
+   "found_via": "george-poonkhin-khut",
+   "status": "open"
+  },
+  {
+   "name": "Noura Howell — Heart Sounds Buckets (2019), Cherishing Laughter as Biosensory Data",
+   "why": "Further life-affirming biosensing pieces by Howell.",
+   "link": "https://nourahowell.com/projects/heart_sounds_buckets.html",
+   "found_via": "noura-howell",
+   "status": "open"
+  },
+  {
+   "name": "Kristi Kuusk, Ana Tajadura-Jiménez, Aleksander Väljamäe — Magic Lining (EKSIG 2019)",
+   "why": "E-textile garment lining that changes the wearer's body perception with vibration and sound; garments field.",
+   "link": "https://doi.org/10.21606/eksig2019.112",
+   "found_via": "ana-tajadura-jimenez",
+   "status": "open"
+  },
+  {
+   "name": "Ana Tajadura-Jiménez et al. — Designing a gesture-sound wearable to motivate physical activity by altering body perception (MOCO 2018)",
+   "why": "Body-perception sound wearable; movement/care overlap.",
+   "link": "https://doi.org/10.1145/3212721.3212877",
+   "found_via": "ana-tajadura-jimenez",
+   "status": "open"
+  },
+  {
+   "name": "Kirsten Boehner et al. — Affect: From Information to Interaction (Critical Computing 2005)",
+   "why": "Earlier statement of the interactional view of emotion.",
+   "link": "https://doi.org/10.1145/1094562.1094570",
+   "found_via": "kirsten-boehner",
+   "status": "open"
+  },
+  {
+   "name": "Phoebe Sengers et al. — The Enigmatics of Affect (DIS 2002)",
+   "why": "Early critical-affect design paper.",
+   "link": "https://doi.org/10.1145/778712.778728",
+   "found_via": "phoebe-sengers",
+   "status": "open"
+  },
+  {
+   "name": "Bill Gaver, Jake Beaver, Steve Benford — Ambiguity as a Resource for Design (CHI 2003)",
+   "why": "Canonical ambiguity paper; belongs to methods.",
+   "link": "https://doi.org/10.1145/642611.642653",
+   "found_via": "phoebe-sengers",
+   "status": "open"
+  },
+  {
+   "name": "Dawn Nafus (ed.) — Quantified: Biosensing Technologies in Everyday Life (MIT Press 2016)",
+   "why": "Edited volume on critical biosensing; body-data context.",
+   "link": "https://mitpress.mit.edu/",
+   "found_via": "chris-elsden",
+   "status": "open"
+  },
+  {
+   "name": "Grace Leslie — biosignal music and MoodMixer",
+   "why": "Co-author of Can You Hear My Heartbeat; EEG/biosignal musical performance.",
+   "link": "https://doi.org/10.1145/3411764.3445545",
+   "found_via": "r-michael-winters",
+   "status": "open"
+  },
+  {
+   "name": "Marco Donnarumma — Xth Sense (2011)",
+   "why": "Muscle-sound biophysical instrument; belongs to movement-art.",
+   "link": "https://marcodonnarumma.com",
+   "found_via": "erin-gee",
+   "status": "duplicate"
+  },
+  {
+   "name": "Rong-Hao Liang et al. — BioFidget (CHI 2018)",
+   "why": "Respiration biofeedback fidget spinner; East Asian creator, for east-asia.",
+   "link": "https://www.youtube.com/watch?v=yegunt35lZ4",
+   "found_via": "jeremy-frey",
+   "status": "open"
+  },
+  {
+   "name": "Lisa Park — Eunoia (2013)",
+   "why": "EEG-driven water vibration performance; Korean-American artist, for east-asia.",
+   "link": "https://www.thelisapark.com",
+   "found_via": "erin-gee",
+   "status": "open"
+  },
+  {
+   "name": "Keisuke Suzuki et al. — interoceptive (cardio-visual) rubber hand illusion (2013)",
+   "why": "Heartbeat-synchronous virtual hand; for east-asia or social-machines.",
+   "link": "https://doi.org/10.1016/j.neuropsychologia.2013.08.014",
+   "found_via": "jane-aspell",
+   "status": "open"
+  },
+  {
+   "name": "Yan He, George Chernyshov, Kai Kunze — Frisson Waves / shared physiological experiences",
+   "why": "Shared chills and biosignals in audiences (Keio KMD); for east-asia.",
+   "link": "https://www.kmd.keio.ac.jp/",
+   "found_via": "r-michael-winters",
+   "status": "open"
+  },
+  {
+   "name": "Kristina Höök, Petra Sundström et al. — affective loops, eMoto, Affective Diary",
+   "why": "Core affective-loops works; owned by hook-lab.",
+   "link": "https://doi.org/10.1145/642611.642654",
+   "found_via": "kirsten-boehner",
+   "status": "duplicate"
+  }
+ ]
+}

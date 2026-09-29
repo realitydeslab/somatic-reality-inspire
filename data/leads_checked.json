@@ -1,0 +1,314 @@
+[
+ {
+  "name": "Mirjana Prpa — Attending to Breath (DIS 2018) and Pulse Breath Water (2016)",
+  "why": "Attending to Breath added by social-machines; Pulse Breath Water still unverified.",
+  "link": "https://doi.org/10.1145/3196709.3196765",
+  "found_via": "jeremy-frey",
+  "status": "duplicate",
+  "batch": "affect-biodata"
+ },
+ {
+  "name": "Clara Moge, Katherine Wang, Youngjun Cho — Shared User Interfaces of Physiological Data (CHI 2022)",
+  "why": "Systematic review of social biofeedback systems; added by social-machines.",
+  "link": "https://doi.org/10.1145/3491102.3517495",
+  "found_via": "jeremy-frey",
+  "status": "duplicate",
+  "batch": "affect-biodata"
+ },
+ {
+  "name": "Rosalind Picard & Jocelyn Scheirer — The Galvactivator (2001)",
+  "why": "Glove whose LED glows with skin conductance, an early felt EDA wearable; no stable image or DOI found.",
+  "link": "https://affect.media.mit.edu/",
+  "found_via": "rosalind-picard",
+  "status": "no_media",
+  "batch": "affect-biodata"
+ },
+ {
+  "name": "Marco Donnarumma — Xth Sense (2011)",
+  "why": "Muscle-sound biophysical instrument; belongs to movement-art.",
+  "link": "https://marcodonnarumma.com",
+  "found_via": "erin-gee",
+  "status": "duplicate",
+  "batch": "affect-biodata"
+ },
+ {
+  "name": "Kristina Höök, Petra Sundström et al. — affective loops, eMoto, Affective Diary",
+  "why": "Core affective-loops works; owned by hook-lab.",
+  "link": "https://doi.org/10.1145/642611.642654",
+  "found_via": "kirsten-boehner",
+  "status": "duplicate",
+  "batch": "affect-biodata"
+ },
+ {
+  "name": "Shusterman on Confucius and Zen",
+  "why": "Somaesthetics' engagement with Asian thought; belongs to the foundations batch.",
+  "link": "",
+  "found_via": "yuasa-yasuo",
+  "status": "duplicate",
+  "batch": "east-asia"
+ },
+ {
+  "name": "Sayagyi U Ba Khin, vipassana body sweeping (Yangon, 1952)",
+  "why": "Burmese root of the Goenka body scan; the practices batch already has s-n-goenka--vipassana, so not added again.",
+  "link": "https://en.wikipedia.org/wiki/Sayagyi_U_Ba_Khin",
+  "found_via": "thich-nhat-hanh",
+  "status": "duplicate",
+  "batch": "east-asia"
+ },
+ {
+  "name": "Drone Chi (La Delfa et al.)",
+  "why": "Tai chi-inspired human-drone interaction; owned by social-machines batch (first author not East Asian).",
+  "link": "",
+  "found_via": "yang-chengfu",
+  "status": "duplicate",
+  "batch": "east-asia"
+ },
+ {
+  "name": "Thomas Hanna — What Is Somatics? (1986)",
+  "why": "Source of the definition of soma as the body perceived from within by first-person perception; no stable online copy found (somatics.org behind a bot wall).",
+  "link": "https://en.wikipedia.org/wiki/Thomas_Hanna",
+  "found_via": "thomas-hanna",
+  "status": "no_media",
+  "batch": "foundations"
+ },
+ {
+  "name": "Eugene Gendlin — Focusing (1978)",
+  "why": "Already in the practices batch (eugene-gendlin--focusing-book).",
+  "link": "https://en.wikipedia.org/wiki/Focusing_(psychotherapy)",
+  "found_via": "eugene-gendlin",
+  "status": "duplicate",
+  "batch": "foundations"
+ },
+ {
+  "name": "Loke & Robertson — Moving and Making Strange (TOCHI 2013)",
+  "why": "Estrangement method; owned by methods batch.",
+  "link": "https://doi.org/10.1145/2442106.2442112",
+  "found_via": "toni-robertson",
+  "status": "duplicate",
+  "batch": "foundations"
+ },
+ {
+  "name": "Susan Kozel — Closer: Performance, Technologies, Phenomenology (MIT Press 2007)",
+  "why": "Already in the methods batch (first-person method).",
+  "link": "https://mitpress.mit.edu/9780262113106/closer/",
+  "found_via": "susan-kozel",
+  "status": "duplicate",
+  "batch": "foundations"
+ },
+ {
+  "name": "Isbister, Höök, Sharp, Laaksolahti — The Sensual Evaluation Instrument (CHI 2006)",
+  "why": "Non-verbal, sculpted-object self-report of affect; a method, left to the methods batch.",
+  "link": "https://doi.org/10.1145/1124772.1124946",
+  "found_via": "kristina-hook",
+  "status": "duplicate",
+  "batch": "hook-lab"
+ },
+ {
+  "name": "Höök, Jonsson, Ståhl, Mercurio — Somaesthetic Appreciation Design (CHI 2016)",
+  "why": "The design-method paper behind Soma Mat and Breathing Light; claimed by the methods batch.",
+  "link": "https://doi.org/10.1145/2858036.2858583",
+  "found_via": "kristina-hook",
+  "status": "duplicate",
+  "batch": "hook-lab"
+ },
+ {
+  "name": "Popova, Demir — Voicing Discomfort, Communicating Breakdowns: felt ethics in a body-based workshop (NordiCHI 2024)",
+  "why": "Body-based workshop method by Kristina Popova; methods batch.",
+  "link": "https://doi.org/10.1145/3679318.3685375",
+  "found_via": "kristina-hook",
+  "status": "duplicate",
+  "batch": "hook-lab"
+ },
+ {
+  "name": "Garrett, Kisić-Merino, Núñez-Pacheco, Sanches, Höök — Five Political Provocations for Soma Design (2024)",
+  "why": "Politics of soma design; theory for methods / design-knowledge.",
+  "link": "https://doi.org/10.1145/3686169.3686213",
+  "found_via": "kristina-hook",
+  "status": "duplicate",
+  "batch": "hook-lab"
+ },
+ {
+  "name": "Höök, Eriksson, Søndergaard et al. — Soma Design and Politics of the Body (Halfway to the Future 2019)",
+  "why": "Key theory paper on whose bodies soma design serves; methods or foundations.",
+  "link": "https://doi.org/10.1145/3363384.3363385",
+  "found_via": "kristina-hook",
+  "status": "duplicate",
+  "batch": "hook-lab"
+ },
+ {
+  "name": "Fritsch, Höök, Núñez-Pacheco, Sanches, Ståhl, Tsaknaki — Estrangement through Silence (DIS 2025)",
+  "why": "Estrangement method; methods batch.",
+  "link": "https://doi.org/10.1145/3715336.3735711",
+  "found_via": "kristina-hook",
+  "status": "duplicate",
+  "batch": "hook-lab"
+ },
+ {
+  "name": "Höök, Löwgren, Ståhl — Change and Be Changed: 10 Years of the Soma Design Research Program (TOCHI 2026)",
+  "why": "Retrospective of the whole programme; landmark theory paper for methods / foundations.",
+  "link": "https://doi.org/10.1145/3793670",
+  "found_via": "kristina-hook",
+  "status": "duplicate",
+  "batch": "hook-lab"
+ },
+ {
+  "name": "Zheng, Andrikopoulos, Paterson, Bianchi-Berthouze, Nygren, Luft, Balaam — Towards Robot and Technologies that Touch Well (DIS 2024)",
+  "why": "KTH affective-touch robotics agenda; no visual found.",
+  "link": "https://doi.org/10.1145/3656156.3658401",
+  "found_via": "kristina-hook",
+  "status": "no_media",
+  "batch": "hook-lab"
+ },
+ {
+  "name": "Zheng et al. — Towards Caring Touch From Technologies: Knowledge From Healthcare Practitioners (CHI 2025)",
+  "why": "Interview study on caring touch; could pair with Balaam's TEDxKTH talk (youtube gSYStO-CzZM).",
+  "link": "https://doi.org/10.1145/3706598.3713736",
+  "found_via": "kristina-hook",
+  "status": "no_media",
+  "batch": "hook-lab"
+ },
+ {
+  "name": "Gómez Ortega, Park, Ståhl, Ciolfi Felice, Campo Woytuk et al. — Consentful Lights (DIS 2026)",
+  "why": "Playful, touch-based consent artefacts for sharing fertility data; no visual found.",
+  "link": "https://doi.org/10.1145/3800645.3812866",
+  "found_via": "kristina-hook",
+  "status": "no_media",
+  "batch": "hook-lab"
+ },
+ {
+  "name": "Campo Woytuk, Bell, Park, Alistar, Balaam — A Plurality of More-than-Humanness: the vaginal microbiome (2024)",
+  "why": "Speculative feminist bio-design; no visual found.",
+  "link": "https://doi.org/10.1145/3686169.3686170",
+  "found_via": "kristina-hook",
+  "status": "no_media",
+  "batch": "hook-lab"
+ },
+ {
+  "name": "Alfaras, Primett, Umair, Windlin, Karpashevich et al. — Biosensing and Actuation Platforms (Sensors 2020)",
+  "why": "Hardware platforms (BITalino + actuation) behind Somadata; MDPI images blocked (403).",
+  "link": "https://doi.org/10.3390/s20215968",
+  "found_via": "kristina-hook",
+  "status": "no_media",
+  "batch": "hook-lab"
+ },
+ {
+  "name": "Karpashevich / Höök — 'Brightr'",
+  "why": "Not found in any source. The Informatics 2018 first-person paper discusses George Khut's BrightHearts (not Höök's group); 'Brightr' is likely a misremembering of it.",
+  "link": "https://doi.org/10.3390/informatics5010008",
+  "found_via": "kristina-hook",
+  "status": "off_topic",
+  "batch": "hook-lab"
+ },
+ {
+  "name": "Lindegren, Lindberg, Fernaeus et al. — Material meditation: Experiencing craft as an extension to soma design (Nordes 2023)",
+  "why": "Craft as soma practice at KTH; no visual found.",
+  "link": "https://doi.org/10.21606/nordes.2023.75",
+  "found_via": "kristina-hook",
+  "status": "no_media",
+  "batch": "hook-lab"
+ },
+ {
+  "name": "Ciolfi Felice, Søndergaard, Balaam — Resisting the Medicalisation of Menopause (CHI 2021)",
+  "why": "Soma design for menopause from Höök's KTH group; belongs to hook-lab.",
+  "link": "https://doi.org/10.1145/3411764.3445153",
+  "found_via": "madeline-balaam",
+  "status": "duplicate",
+  "batch": "intimate-care"
+ },
+ {
+  "name": "Søndergaard / Campo Woytuk menstruation and Menarche Bits works",
+  "why": "KTH group; hook-lab owns them.",
+  "link": "https://doi.org/10.1145/3411764.3445153",
+  "found_via": "madeline-balaam",
+  "status": "duplicate",
+  "batch": "intimate-care"
+ },
+ {
+  "name": "Owen Harris — DEEP (breath-controlled VR)",
+  "why": "Breath VR for anxiety; social-machines has it.",
+  "link": "https://www.exploredeep.com",
+  "found_via": "jay-vidyarthi",
+  "status": "duplicate",
+  "batch": "intimate-care"
+ },
+ {
+  "name": "Mehrnezhad & Almeida — Caring for Intimate Data in Fertility Technologies (CHI 2021)",
+  "why": "Privacy of intimate body data; data-focused rather than somatic.",
+  "link": "https://doi.org/10.1145/3411764.3445132",
+  "found_via": "teresa-almeida",
+  "status": "off_topic",
+  "batch": "intimate-care"
+ },
+ {
+  "name": "Vermersch — Explicitation interview",
+  "why": "Origin of the micro-phenomenological interview; no stable English source found.",
+  "link": "https://doi.org/10.5840/zeta-premiere201410",
+  "found_via": "claire-petitmengin",
+  "status": "no_media",
+  "batch": "methods"
+ },
+ {
+  "name": "Lian Loke — Breath Temple",
+  "why": "Breath-based performance/installation listed on her art page; needs a source and year.",
+  "link": "https://www.lianloke.com/art.html",
+  "found_via": "lian-loke",
+  "status": "no_media",
+  "batch": "movement-art"
+ },
+ {
+  "name": "Marina Abramović — The Abramović Method (2012)",
+  "why": "Slow walking, counting and stillness exercises for audiences; no creator-owned video found.",
+  "link": "https://en.wikipedia.org/wiki/Marina_Abramovi%C4%87",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "movement-art"
+ },
+ {
+  "name": "Anna Halprin — Planetary Dance / Parades and Changes",
+  "why": "Participatory ritual dance; practices batch owns Halprin.",
+  "link": "https://en.wikipedia.org/wiki/Anna_Halprin",
+  "found_via": "seed",
+  "status": "duplicate",
+  "batch": "movement-art"
+ },
+ {
+  "name": "Klein Technique (Susan Klein)",
+  "why": "Dance somatics of bone-level support; no official video or verifiable founding year found.",
+  "link": "https://kleintechnique.com",
+  "found_via": "joan-skinner",
+  "status": "no_media",
+  "batch": "practices"
+ },
+ {
+  "name": "Joseph La Delfa — How to Train Your Drone (DIS 2024) and Mechanical Sympathy (DIS 2024)",
+  "why": "KTH-era somaesthetic human-drone works co-authored with Höök; left to hook-lab (reuse creator id joseph-la-delfa).",
+  "link": "https://doi.org/10.1145/3643834.3660737",
+  "found_via": "joseph-la-delfa",
+  "status": "duplicate",
+  "batch": "social-machines"
+ },
+ {
+  "name": "Sondoqah et al. — Shaping and Being Shaped by Drones (DIS 2024)",
+  "why": "Programming drones in perception-action loops; added by hook-lab as mousa-sondoqah--drone-arena.",
+  "link": "https://doi.org/10.1145/3643834.3661636",
+  "found_via": "joseph-la-delfa",
+  "status": "duplicate",
+  "batch": "social-machines"
+ },
+ {
+  "name": "La Delfa et al. — Articulating Mechanical Sympathy (DIS 2024)",
+  "why": "Design-knowledge concept for somaesthetic human-machine relations; added by hook-lab as joseph-la-delfa--mechanical-sympathy.",
+  "link": "https://doi.org/10.1145/3643834.3661514",
+  "found_via": "joseph-la-delfa",
+  "status": "duplicate",
+  "batch": "social-machines"
+ },
+ {
+  "name": "Somnox sleep robot",
+  "why": "Breathing pillow product for sleep entrainment; product with wellness framing, weak evidence.",
+  "link": "https://somnox.com",
+  "found_via": "alice-haynes",
+  "status": "off_topic",
+  "batch": "social-machines"
+ }
+]

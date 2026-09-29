@@ -1,0 +1,1162 @@
+{
+ "batch": "movement-art-2",
+ "creators": [
+  {
+   "id": "david-rokeby",
+   "name": "David Rokeby",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Media artist",
+   "based": "Toronto, CA",
+   "bio": "Canadian artist whose Very Nervous System (1982–91) was one of the first camera-based interactive sound environments.",
+   "why": "He described interaction as encounter, a loop where the sense of control dissolves into involvement.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "http://www.davidrokeby.com/"
+   },
+   "role_zh": "媒体艺术家",
+   "bio_zh": "加拿大艺术家，他的《Very Nervous System》（1982–1991）是最早的基于摄像头的交互声音环境之一。",
+   "why_zh": "他把交互描述为相遇：在这个回路里，控制感消融为投入。",
+   "based_zh": "多伦多，加拿大",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "myron-krueger",
+   "name": "Myron Krueger",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Computer artist; pioneer of 'artificial reality'",
+   "based": "Storrs, US",
+   "bio": "American artist-engineer who from the 1970s built responsive environments in which people's video silhouettes play with graphics.",
+   "why": "Videoplace let the unencumbered whole body, not a device, be the interface.",
+   "disciplines": [
+    "art",
+    "engineering"
+   ],
+   "links": {},
+   "role_zh": "计算机艺术家；“人工现实”先驱",
+   "bio_zh": "美国艺术家兼工程师，自 1970 年代起建造响应式环境，让人的视频剪影与图形互动。",
+   "why_zh": "《Videoplace》让不穿戴任何设备的整个身体成为界面。",
+   "based_zh": "斯托尔斯，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "chunky-move",
+   "name": "Chunky Move (Gideon Obarzanek with Frieder Weiss)",
+   "name_zh": "",
+   "kind": "company",
+   "role": "Contemporary dance company",
+   "based": "Melbourne, AU",
+   "bio": "Australian dance company; its piece Glow (2006) was made by choreographer Gideon Obarzanek with software artist Frieder Weiss.",
+   "why": "Glow is a widely shown example of projection that follows and reshapes the dancing body in real time.",
+   "disciplines": [
+    "dance"
+   ],
+   "links": {
+    "site": "https://chunkymove.com/"
+   },
+   "role_zh": "当代舞团",
+   "bio_zh": "澳大利亚舞团；作品《Glow》（2006）由编舞 Gideon Obarzanek 与软件艺术家 Frieder Weiss 创作。",
+   "why_zh": "《Glow》是实时追随并重塑舞动身体的投影作品中流传最广的例子之一。",
+   "based_zh": "墨尔本，澳大利亚",
+   "connected_to": [
+    "palindrome"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "marco-donnarumma",
+   "name": "Marco Donnarumma",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Performance artist, composer and researcher",
+   "based": "Berlin, DE",
+   "bio": "Italian artist who makes biophysical music and performances in which muscle sounds and bioelectric signals drive sound, light and machines.",
+   "why": "He performs the inner, felt body (muscle tension, effort) as sound, rather than tracking outer gesture.",
+   "disciplines": [
+    "art",
+    "dance"
+   ],
+   "links": {
+    "site": "https://marcodonnarumma.com/"
+   },
+   "role_zh": "行为艺术家、作曲家与研究者",
+   "bio_zh": "意大利艺术家，创作生物物理音乐与表演，用肌肉声音和生物电信号驱动声音、灯光与机器。",
+   "why_zh": "他把内在的、被感受到的身体（肌肉张力、用力）演成声音，而不是追踪外部手势。",
+   "based_zh": "柏林，德国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "asa-unander-scharin",
+   "name": "Åsa Unander-Scharin",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Choreographer; Professor, Luleå University of Technology",
+   "based": "Stockholm, SE",
+   "bio": "Swedish choreographer and dancer who choreographs robots and mechatronic opera with Carl Unander-Scharin (Opera Mecatronica).",
+   "why": "She transfers a dancer's felt movement into machines and asks what a robot body can express.",
+   "disciplines": [
+    "dance",
+    "art"
+   ],
+   "links": {
+    "site": "https://www.operamecatronica.com/"
+   },
+   "role_zh": "编舞家；吕勒奥理工大学教授",
+   "bio_zh": "瑞典编舞家与舞者，与 Carl Unander-Scharin 一起为机器人与机电歌剧编舞（Opera Mecatronica）。",
+   "why_zh": "她把舞者感受到的动作转移到机器上，追问机器人的身体能表达什么。",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "connected_to": [
+    "carl-unander-scharin"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "carl-unander-scharin",
+   "name": "Carl Unander-Scharin",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Composer and opera singer; Professor, Karlstad University",
+   "based": "Stockholm, SE",
+   "bio": "Swedish tenor and composer who builds interactive instruments for singers, co-author with Kristina Höök.",
+   "why": "His instruments start from the singer's own bodily needs on stage (autobiographical design).",
+   "disciplines": [
+    "dance",
+    "hci"
+   ],
+   "links": {
+    "site": "https://www.operamecatronica.com/"
+   },
+   "role_zh": "作曲家与歌剧演唱家；卡尔斯塔德大学教授",
+   "bio_zh": "瑞典男高音与作曲家，为歌手制作互动乐器，曾与 Kristina Höök 合作。",
+   "why_zh": "他的乐器从歌手在舞台上的身体需要出发（自传式设计）。",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "connected_to": [
+    "asa-unander-scharin"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "stelarc",
+   "name": "Stelarc",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Performance artist; Distinguished Research Fellow, Curtin University",
+   "based": "Melbourne, AU",
+   "bio": "Cyprus-born Australian artist who since the 1970s has extended, suspended and wired his own body with robots, prostheses and networks.",
+   "why": "His performances are extreme first-person experiments in what an extended body feels like from inside.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://stelarc.org/"
+   },
+   "role_zh": "行为艺术家；科廷大学杰出研究员",
+   "bio_zh": "生于塞浦路斯的澳大利亚艺术家，自 1970 年代起用机器人、义体与网络延伸、悬吊和连接自己的身体。",
+   "why_zh": "他的表演是极端的第一人称实验：从内部去感受一个被延伸的身体。",
+   "based_zh": "墨尔本，澳大利亚",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "lygia-clark",
+   "name": "Lygia Clark",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist and therapist (1920–1988)",
+   "based": "Rio de Janeiro, BR",
+   "bio": "Brazilian Neo-Concrete artist who moved from painting to 'propositions' completed by participants' bodies, and finally to a therapy with relational objects.",
+   "why": "Her sensorial propositions are a direct ancestor of soma design: objects that exist only in felt relation with a body.",
+   "disciplines": [
+    "art",
+    "somatics"
+   ],
+   "links": {
+    "site": "https://portal.lygiaclark.org.br/"
+   },
+   "role_zh": "艺术家与治疗师（1920–1988）",
+   "bio_zh": "巴西新具体主义艺术家，从绘画转向由参与者身体完成的“提议”，最终发展出使用关系物件的疗法。",
+   "why_zh": "她的感官提议是身体设计的直接先声：物件只在与身体的感受关系中存在。",
+   "based_zh": "里约热内卢，巴西",
+   "connected_to": [
+    "helio-oiticica"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "helio-oiticica",
+   "name": "Hélio Oiticica",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist (1937–1980)",
+   "based": "Rio de Janeiro, BR",
+   "bio": "Brazilian Neo-Concrete artist whose Parangolés, Penetrables and environments turned viewers into wearers, dancers and inhabitants.",
+   "why": "He called the goal 'suprasensorial': art completed by the whole moving, sensing body.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "艺术家（1937–1980）",
+   "bio_zh": "巴西新具体主义艺术家，他的《帕兰戈莱》、可穿透物与环境装置把观众变成穿戴者、舞者和居住者。",
+   "why_zh": "他把目标称为“超感官”：由整个运动与感知的身体来完成的艺术。",
+   "based_zh": "里约热内卢，巴西",
+   "connected_to": [
+    "lygia-clark"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "rebecca-horn",
+   "name": "Rebecca Horn",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist (1944–2024)",
+   "based": "Berlin, DE",
+   "bio": "German artist who began with wearable body extensions (horns, feathers, long gloves) and moved on to kinetic sculpture.",
+   "why": "Her body extensions are estrangement devices: they change balance and reach so the body is felt again.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "艺术家（1944–2024）",
+   "bio_zh": "德国艺术家，早期创作可穿戴的身体延伸（角、羽毛、长手套），后转向动态雕塑。",
+   "why_zh": "她的身体延伸是陌生化装置：改变平衡与触及范围，让身体被重新感受到。",
+   "based_zh": "柏林，德国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "char-davies",
+   "name": "Char Davies",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Painter and virtual reality artist; founder of Immersence",
+   "based": "Quebec, CA",
+   "bio": "Canadian artist who made Osmose (1995) and Ephémère (1998), VR works navigated by breath and balance.",
+   "why": "She used breath and balance to reconnect VR with the felt, living body.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.immersence.com"
+   },
+   "role_zh": "画家与虚拟现实艺术家；Immersence 创始人",
+   "bio_zh": "加拿大艺术家，创作了以呼吸和平衡导航的 VR 作品《Osmose》（1995）与《Ephémère》（1998）。",
+   "why_zh": "她用呼吸与平衡把 VR 重新连回被感受的、活的身体。",
+   "based_zh": "魁北克，加拿大",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ernesto-neto",
+   "name": "Ernesto Neto",
+   "name_zh": "",
+   "kind": "person",
+   "role": "Artist; soft walk-in sculptures",
+   "based": "Rio de Janeiro, BR",
+   "bio": "Brazilian artist who builds large crocheted and stretch-fabric environments, often scented, that visitors walk through, lie in and touch.",
+   "why": "He continues Clark and Oiticica's line: sculpture as something felt with the whole body.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "艺术家；可进入的柔软雕塑",
+   "bio_zh": "巴西艺术家，用钩织与弹力织物搭建常带香气的大型空间，观众可以穿行、躺卧和触摸。",
+   "why_zh": "他延续了 Clark 与 Oiticica 的路线：雕塑是用整个身体去感受的东西。",
+   "based_zh": "里约热内卢，巴西",
+   "connected_to": [
+    "lygia-clark",
+    "helio-oiticica"
+   ],
+   "discovered_via": "lygia-clark"
+  }
+ ],
+ "works": [
+  {
+   "id": "david-rokeby--very-nervous-system",
+   "creator_ids": [
+    "david-rokeby"
+   ],
+   "title": "Very Nervous System",
+   "year": 1986,
+   "field": "movement",
+   "sub": "somatic-art",
+   "modalities": [
+    "movement",
+    "voice-sound",
+    "whole-soma"
+   ],
+   "lenses": [
+    "affective-loop",
+    "movement-expression",
+    "body-mind-unity"
+   ],
+   "kind": "artwork",
+   "description": "Video cameras watch a person moving in an empty space and a computer answers every movement with sound, so the body plays the room like an instrument.",
+   "description_zh": "摄像头注视在空旷空间里移动的人，计算机以声音回应每一个动作，身体就像演奏乐器一样演奏整个房间。",
+   "idea_en": "Rokeby: the loop is fast enough that control dissolves into 'encounter and involvement', a felt partnership rather than command.",
+   "idea_zh": "Rokeby 说：回路快到控制感消融为“相遇与投入”，成为一种被感受的伙伴关系，而不是命令。",
+   "method": "Custom video-motion analysis of camera images, mapped in real time to synthesised and sampled sound (developed 1982–1991).",
+   "method_zh": "自制的视频运动分析处理摄像头图像，实时映射为合成与采样声音（1982–1991 年间开发）。",
+   "keywords": [
+    "interactive sound",
+    "video tracking",
+    "responsive environment",
+    "media art"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=FsR7EQgG7N0"
+   },
+   "images": [
+    "http://www.davidrokeby.com/VNS_Potsdam_web.jpg"
+   ],
+   "source_url": "http://www.davidrokeby.com/vns.html",
+   "exhibited": [
+    "Ars Electronica 2009, Lentos Kunstmuseum Linz"
+   ]
+  },
+  {
+   "id": "myron-krueger--videoplace",
+   "creator_ids": [
+    "myron-krueger"
+   ],
+   "title": "Videoplace",
+   "year": 1975,
+   "field": "movement",
+   "sub": "somatic-art",
+   "modalities": [
+    "movement",
+    "light-vision",
+    "whole-soma"
+   ],
+   "lenses": [
+    "movement-expression",
+    "pleasure-play",
+    "intercorporeality"
+   ],
+   "kind": "artwork",
+   "description": "Visitors see their live silhouettes on a large screen, where they can play with graphic creatures, draw with their fingers and touch the silhouettes of people in another room.",
+   "description_zh": "观众在大屏幕上看到自己的实时剪影，可以与图形生物玩耍、用手指作画，并触碰另一房间里其他人的剪影。",
+   "idea_en": "The whole, unencumbered body can be the interface; no gloves, goggles or controllers are needed to feel present.",
+   "idea_zh": "不穿戴任何设备的整个身体就可以是界面；无需手套、眼镜或控制器也能感到在场。",
+   "method": "Real-time camera silhouette extraction on custom hardware, composited with graphics and linked between separate rooms.",
+   "method_zh": "在自制硬件上实时提取摄像头剪影，与图形合成，并连接不同的房间。",
+   "keywords": [
+    "artificial reality",
+    "silhouette",
+    "responsive environment",
+    "Critter"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=dqZyZrN3Pl0"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/317456.317463",
+    "doi": "10.1145/317456.317463",
+    "venue": "CHI 1985",
+    "title": "VIDEOPLACE—an artificial reality"
+   },
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "chunky-move--glow",
+   "creator_ids": [
+    "chunky-move"
+   ],
+   "title": "Glow",
+   "year": 2006,
+   "field": "movement",
+   "sub": "dance-tech",
+   "modalities": [
+    "movement",
+    "light-vision"
+   ],
+   "lenses": [
+    "movement-expression",
+    "more-than-human"
+   ],
+   "kind": "performance",
+   "description": "A 27-minute duet between a dancer on the floor and projected light that tracks, outlines and extends her body as it moves.",
+   "description_zh": "一段 27 分钟的双人舞：舞者在地面上舞动，投影光追踪、勾勒并延伸她的身体。",
+   "idea_en": "Projection that answers the body in real time can make the dancer's own kinesphere visible and strange.",
+   "idea_zh": "实时回应身体的投影，可以让舞者自身的动作空间变得可见而陌生。",
+   "method": "Infrared camera tracking from above drives real-time generative graphics projected onto the floor (software by Frieder Weiss).",
+   "method_zh": "从上方的红外摄像追踪驱动实时生成图形并投影到地面（软件由 Frieder Weiss 开发）。",
+   "keywords": [
+    "infrared tracking",
+    "projection",
+    "Frieder Weiss",
+    "Gideon Obarzanek"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=C4He543_a80"
+   },
+   "images": [
+    "https://chunkymove.com/site/wp-content/uploads/2026/03/ChunkyMovesGLOW.PhotoRomAnthoni_PerformerKristyAyre_300dpi_2.webp"
+   ],
+   "source_url": "https://chunkymove.com/works/glow/"
+  },
+  {
+   "id": "marco-donnarumma--xth-sense",
+   "creator_ids": [
+    "marco-donnarumma"
+   ],
+   "title": "Xth Sense",
+   "year": 2011,
+   "field": "movement",
+   "sub": "performance",
+   "also": [
+    "affect"
+   ],
+   "modalities": [
+    "muscle",
+    "voice-sound",
+    "movement"
+   ],
+   "lenses": [
+    "first-person",
+    "body-mind-unity",
+    "movement-expression"
+   ],
+   "kind": "performance",
+   "description": "A wearable instrument that amplifies the sound of the performer's own muscle contractions and blood flow and shapes it into live music.",
+   "description_zh": "一件可穿戴乐器，把表演者自己肌肉收缩与血流的声音放大，并塑造成现场音乐。",
+   "idea_en": "Music can come from inside the body: the felt effort of muscles, not visible gesture, drives the sound.",
+   "idea_zh": "音乐可以来自身体内部：驱动声音的是肌肉被感受到的用力，而不是可见的手势。",
+   "method": "Microphone sensors on the arms capture mechanomyographic (MMG) vibrations, which software analyses and processes into sound; free and open hardware (created 2010).",
+   "method_zh": "手臂上的麦克风传感器采集肌音（MMG）振动，由软件分析并处理成声音；开源免费硬件（2010 年创建）。",
+   "keywords": [
+    "mechanomyography",
+    "biophysical music",
+    "muscle sound",
+    "open hardware",
+    "Guthman"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=v4jz_7PDVfo"
+   },
+   "images": [
+    "https://marcodonnarumma.com/live/wp-content/uploads/2012/08/marco-donnarumma_xthsense_speakers_1000px.jpg"
+   ],
+   "source_url": "https://marcodonnarumma.com/works/xth-sense/",
+   "exhibited": [
+    "1st Prize, Guthman Musical Instrument Competition 2012"
+   ]
+  },
+  {
+   "id": "marco-donnarumma--corpus-nil",
+   "creator_ids": [
+    "marco-donnarumma"
+   ],
+   "title": "Corpus Nil",
+   "year": 2016,
+   "field": "movement",
+   "sub": "performance",
+   "also": [
+    "machines-xr"
+   ],
+   "modalities": [
+    "muscle",
+    "movement",
+    "light-vision"
+   ],
+   "lenses": [
+    "more-than-human",
+    "body-politics",
+    "first-person"
+   ],
+   "kind": "performance",
+   "description": "A performer moves slowly in near darkness while an autonomous system listens to his muscles' electrical and acoustic signals and answers with sound and light.",
+   "description_zh": "表演者在近乎黑暗中缓慢移动，一个自主系统聆听他肌肉的电信号与声学信号，并以声音和光回应。",
+   "idea_en": "Human and machine form a hybrid body; bodily norms are unsettled when a machine co-shapes how a body moves and sounds.",
+   "idea_zh": "人与机器构成一个混合的身体；当机器共同塑造身体如何移动和发声时，身体规范被动摇。",
+   "method": "Biophysical sensors (Xth Sense bioacoustic and bioelectric) on the limbs feed machine-learning algorithms that autonomously drive sound and light (premiered at ZKM, 2016).",
+   "method_zh": "四肢上的生物物理传感器（Xth Sense 生物声学与生物电）输入机器学习算法，由其自主驱动声音与灯光（2016 年于 ZKM 首演）。",
+   "keywords": [
+    "bioacoustics",
+    "EMG",
+    "machine learning",
+    "body art",
+    "ZKM"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=CAIh8FxLMtk"
+   },
+   "images": [
+    "https://marcodonnarumma.com/live/wp-content/uploads/2017/03/Marco-Donnarumma_Corpus-Nil_1_web_by-onuk.jpg"
+   ],
+   "source_url": "https://marcodonnarumma.com/works/corpus-nil/",
+   "exhibited": [
+    "Prix Ars Electronica 2017, Award of Distinction (Sound Art)",
+    "Bains Numériques 2018, 1st Prize Performing Arts"
+   ]
+  },
+  {
+   "id": "asa-unander-scharin--robocygne",
+   "creator_ids": [
+    "asa-unander-scharin",
+    "carl-unander-scharin"
+   ],
+   "title": "Robocygne",
+   "year": 2010,
+   "field": "movement",
+   "sub": "performance",
+   "also": [
+    "machines-xr"
+   ],
+   "modalities": [
+    "movement"
+   ],
+   "lenses": [
+    "more-than-human",
+    "movement-expression",
+    "estrangement"
+   ],
+   "kind": "performance",
+   "description": "A small robot performs the dying swan from Swan Lake, its movements recorded from the choreographer's own body.",
+   "description_zh": "一台小型机器人表演《天鹅湖》中的天鹅之死，其动作录自编舞家自己的身体。",
+   "idea_en": "Moving a dancer's felt movement into a machine body makes both the robot and the ballet strange, and asks what expression survives the transfer.",
+   "idea_zh": "把舞者被感受的动作移入机器身体，让机器人与芭蕾都变得陌生，也追问经过转移后还剩下什么表达。",
+   "method": "Humanoid robot programmed from motion recordings of Åsa Unander-Scharin, built with Mälardalen University, to Tchaikovsky's music arranged by Carl Unander-Scharin.",
+   "method_zh": "人形机器人依据 Åsa Unander-Scharin 的动作录制编程，由梅拉达伦大学参与制造，配以 Carl Unander-Scharin 改编的柴可夫斯基音乐。",
+   "keywords": [
+    "robot choreography",
+    "Swan Lake",
+    "Opera Mecatronica",
+    "Mälardalen University"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=r6ohpNi_BpY"
+   },
+   "images": [
+    "https://www.operamecatronica.com/wp-content/uploads/2019/12/3.png"
+   ],
+   "source_url": "https://www.operamecatronica.com/robocygne/"
+  },
+  {
+   "id": "carl-unander-scharin--vocal-chorder",
+   "creator_ids": [
+    "carl-unander-scharin",
+    "asa-unander-scharin"
+   ],
+   "title": "The Vocal Chorder",
+   "year": 2013,
+   "field": "movement",
+   "sub": "performance",
+   "also": [
+    "somaesthetic"
+   ],
+   "modalities": [
+    "voice-sound",
+    "touch",
+    "posture-balance"
+   ],
+   "lenses": [
+    "first-person",
+    "movement-expression"
+   ],
+   "kind": "prototype",
+   "description": "A large instrument of steel wires that an opera singer pushes, leans on and bends while singing, to control their own accompaniment.",
+   "description_zh": "一件由钢丝构成的大型乐器，歌剧演唱者在演唱时推、倚、弯折钢丝，来控制自己的伴奏。",
+   "idea_en": "Designed from the singer's own bodily experience on stage, it lets the whole singing body, not only the voice, shape the music.",
+   "idea_zh": "它从歌手自己在舞台上的身体经验出发设计，让整个歌唱的身体，而不只是嗓音，塑造音乐。",
+   "method": "Sensors measure the bending of tensioned steel wires and map it to tempo and accompaniment; developed through autobiographical design and stage material explorations, with Kristina Höök.",
+   "method_zh": "传感器测量张紧钢丝的弯曲，并映射为速度与伴奏；通过自传式设计与舞台材料探索开发，合作者包括 Kristina Höök。",
+   "keywords": [
+    "opera",
+    "autobiographical design",
+    "singing body",
+    "interactive instrument",
+    "Kristina Höök"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=oxUGb6rmFos"
+   },
+   "images": [
+    "https://www.operamecatronica.com/wp-content/uploads/2019/10/scharin_MB-6778_3sp_hi.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2556288.2557050",
+    "doi": "10.1145/2556288.2557050",
+    "venue": "CHI 2014",
+    "title": "The vocal chorder: empowering opera singers with a large interactive instrument"
+   },
+   "source_url": "https://www.operamecatronica.com/",
+   "collections": [
+    "chi"
+   ]
+  },
+  {
+   "id": "stelarc--third-hand",
+   "creator_ids": [
+    "stelarc"
+   ],
+   "title": "Third Hand",
+   "year": 1980,
+   "field": "movement",
+   "sub": "somatic-art",
+   "also": [
+    "machines-xr"
+   ],
+   "modalities": [
+    "muscle",
+    "movement"
+   ],
+   "lenses": [
+    "first-person",
+    "estrangement",
+    "more-than-human"
+   ],
+   "kind": "performance",
+   "description": "A robotic right hand attached to Stelarc's arm is driven by muscle signals from his abdomen and legs; he spent years learning to write with three hands.",
+   "description_zh": "一只机械右手装在 Stelarc 的手臂上，由他腹部和腿部的肌肉信号驱动；他花了数年学会用三只手写字。",
+   "idea_en": "An added limb has to be learned from inside: the body remaps which muscles 'mean' a hand, a slow first-person training of body schema.",
+   "idea_zh": "新增的肢体必须从内部学会：身体重新分配哪些肌肉“代表”一只手，这是对身体图式缓慢的第一人称训练。",
+   "method": "Electromyographic (EMG) electrodes on abdominal and leg muscles control the grasp, rotation and release of a mechanical hand built in Japan.",
+   "method_zh": "腹部与腿部肌肉上的肌电电极控制一只在日本制造的机械手的抓握、旋转与松开。",
+   "keywords": [
+    "EMG",
+    "prosthesis",
+    "body extension",
+    "body schema",
+    "performance art"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Or1CVc6A9YA"
+   },
+   "images": [
+    "https://stelarc.org/media/img/projects-overview/3rdhand2.jpg"
+   ],
+   "source_url": "https://stelarc.org/_activity-20265.php"
+  },
+  {
+   "id": "stelarc--ping-body",
+   "creator_ids": [
+    "stelarc"
+   ],
+   "title": "Ping Body",
+   "year": 1996,
+   "field": "movement",
+   "sub": "somatic-art",
+   "also": [
+    "machines-xr"
+   ],
+   "modalities": [
+    "muscle",
+    "movement"
+   ],
+   "lenses": [
+    "estrangement",
+    "more-than-human",
+    "body-politics"
+   ],
+   "kind": "performance",
+   "description": "Internet traffic moves Stelarc's body: network ping times are turned into electrical muscle stimulation, so his arms and legs jerk without his intention.",
+   "description_zh": "互联网流量驱动 Stelarc 的身体：网络 ping 值被转为肌肉电刺激，让他的手臂和腿不由自主地抽动。",
+   "idea_en": "Being moved from outside makes the felt boundary between voluntary and involuntary movement vivid.",
+   "idea_zh": "被外部驱动，让主动与被动动作之间被感受到的界线变得鲜明。",
+   "method": "Ping values to global internet domains are mapped to a muscle-stimulation system on his limbs; his own movements also drive a robotic Third Hand.",
+   "method_zh": "对全球互联网域名的 ping 值被映射到他四肢上的肌肉刺激系统；他自己的动作也驱动机械“第三只手”。",
+   "keywords": [
+    "electrical muscle stimulation",
+    "internet",
+    "involuntary movement",
+    "V2_",
+    "DEAF96"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=45MOlsFGSHI"
+   },
+   "source_url": "https://stelarc.org/",
+   "exhibited": [
+    "DEAF96, Rotterdam"
+   ]
+  },
+  {
+   "id": "lygia-clark--caminhando",
+   "creator_ids": [
+    "lygia-clark"
+   ],
+   "title": "Caminhando (Walking)",
+   "year": 1963,
+   "field": "movement",
+   "sub": "somatic-art",
+   "modalities": [
+    "touch",
+    "movement"
+   ],
+   "lenses": [
+    "first-person",
+    "body-mind-unity"
+   ],
+   "kind": "artwork",
+   "description": "The participant cuts a paper Möbius strip lengthwise with scissors, again and again, choosing where to go until the strip becomes too thin to cut.",
+   "description_zh": "参与者用剪刀沿纵向一次次剪开纸质莫比乌斯带，自己选择走向，直到纸条细得无法再剪。",
+   "idea_en": "The work is the act: meaning lives in the time and attention of the participant's hands, not in an object.",
+   "idea_zh": "作品就是行为本身：意义存在于参与者双手的时间与注意之中，而不在某个物件里。",
+   "method": "A paper strip, glue and scissors; instructions invite anyone to perform it.",
+   "method_zh": "一条纸带、胶水和一把剪刀；说明邀请任何人来完成它。",
+   "keywords": [
+    "Neo-Concretism",
+    "Möbius strip",
+    "proposition",
+    "participation"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=3sP-uT5DQLM"
+   },
+   "images": [
+    "http://www.bauhaus-imaginista.org/images/20243.jpg?w=2000&h=2000"
+   ],
+   "source_url": "https://www.bauhaus-imaginista.org/articles/3822/walking-on-a-mobius-strip/"
+  },
+  {
+   "id": "lygia-clark--breathe-with-me",
+   "creator_ids": [
+    "lygia-clark"
+   ],
+   "title": "Respire Comigo (Breathe with Me)",
+   "year": 1966,
+   "field": "movement",
+   "sub": "somatic-art",
+   "modalities": [
+    "breath",
+    "voice-sound",
+    "touch"
+   ],
+   "lenses": [
+    "attunement",
+    "first-person",
+    "body-mind-unity"
+   ],
+   "kind": "artwork",
+   "description": "A rubber tube, closed at both ends, is stretched and released by the participant's hands so that it rhythmically 'breathes' next to their ear.",
+   "description_zh": "一根两端封闭的橡胶管，被参与者双手拉伸又放开，在耳边有节奏地“呼吸”。",
+   "idea_en": "An object can lend the body a breath to follow; noticing its rhythm turns attention to one's own breathing.",
+   "idea_zh": "一个物件可以借给身体一种可以跟随的呼吸；注意它的节奏，注意力就转向自己的呼吸。",
+   "method": "A length of diving-hose rubber tube; its air sound and elasticity respond to hand pressure.",
+   "method_zh": "一段潜水用橡胶软管；它的气声与弹性回应手的压力。",
+   "keywords": [
+    "breath",
+    "sensorial object",
+    "Neo-Concretism",
+    "MoMA"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=XG2qmCYQ7Ps"
+   },
+   "exhibited": [
+    "Lygia Clark: The Abandonment of Art, 1948–1988, MoMA 2014"
+   ]
+  },
+  {
+   "id": "lygia-clark--sensorial-masks",
+   "creator_ids": [
+    "lygia-clark"
+   ],
+   "title": "Máscaras Sensoriais (Sensorial Masks)",
+   "year": 1967,
+   "field": "movement",
+   "sub": "somatic-art",
+   "modalities": [
+    "light-vision",
+    "voice-sound",
+    "whole-soma"
+   ],
+   "lenses": [
+    "estrangement",
+    "first-person"
+   ],
+   "kind": "artwork",
+   "description": "Cloth hoods that cover the whole head, fitted with small bags of herbs at the nose, sound devices at the ears and lenses at the eyes, change how the wearer smells, hears and sees.",
+   "description_zh": "覆盖整个头部的布质头罩，鼻前有装着香草的小袋，耳边有发声装置，眼前有镜片，改变佩戴者的嗅觉、听觉与视觉。",
+   "idea_en": "Blocking and altering the everyday senses turns the wearer inward and makes perception itself felt.",
+   "idea_zh": "阻断并改变日常感官，把佩戴者转向内部，让感知本身被感受到。",
+   "method": "Fabric masks in different colours, each with its own combination of scent sachets, ear devices and optical eyepieces.",
+   "method_zh": "不同颜色的织物面罩，各自组合了香料包、耳部装置与光学目镜。",
+   "keywords": [
+    "sensorial masks",
+    "smell",
+    "perception",
+    "estrangement"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=0kZ-WIORsZg"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/0kZ-WIORsZg/hqdefault.jpg"
+   ]
+  },
+  {
+   "id": "lygia-clark--the-i-and-the-you",
+   "creator_ids": [
+    "lygia-clark"
+   ],
+   "title": "O Eu e o Tu (The I and the You)",
+   "year": 1967,
+   "field": "movement",
+   "sub": "somatic-art",
+   "also": [
+    "social"
+   ],
+   "modalities": [
+    "touch",
+    "whole-soma"
+   ],
+   "lenses": [
+    "intercorporeality",
+    "estrangement",
+    "body-politics"
+   ],
+   "kind": "artwork",
+   "description": "Two people, hooded and unable to see, wear heavy suits joined by a tube; zippers on each suit open onto textures the other can explore by touch.",
+   "description_zh": "两个人戴着头罩、看不见，穿着以一根管子相连的厚重连体衣；每件衣服上的拉链打开后露出可供对方触摸探索的材质。",
+   "idea_en": "Knowing another person through touch alone reorganises the felt sense of self and other, including gendered expectations.",
+   "idea_zh": "只通过触摸去认识另一个人，会重组对自我与他人的感受，也包括性别化的预期。",
+   "method": "Industrial plastic overalls lined with materials such as foam, rubber and water bags, with hoods and a connecting tube.",
+   "method_zh": "工业塑料连体衣，内衬泡沫、橡胶、水袋等材料，配有头罩与连接管。",
+   "keywords": [
+    "touch",
+    "blindfold",
+    "relational",
+    "gender",
+    "Neo-Concretism"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=5oxfmJpfVY4"
+   }
+  },
+  {
+   "id": "lygia-clark--structuring-the-self",
+   "creator_ids": [
+    "lygia-clark"
+   ],
+   "title": "Estruturação do Self (Structuring of the Self)",
+   "year": 1976,
+   "field": "movement",
+   "sub": "somatic-art",
+   "also": [
+    "care"
+   ],
+   "modalities": [
+    "touch",
+    "heat",
+    "whole-soma"
+   ],
+   "lenses": [
+    "care-healing",
+    "touching-back",
+    "first-person"
+   ],
+   "kind": "practice",
+   "description": "A therapeutic practice in which Clark placed 'relational objects' (air bags, stones, shells, bags of water and seeds) on the body of a person lying down, in sessions lasting months.",
+   "description_zh": "一种治疗实践：Clark 在躺着的人身上放置“关系物件”（气囊、石头、贝壳、装水或种子的袋子），疗程持续数月。",
+   "idea_en": "Objects exist only in relation to a body: weight, warmth and texture on the skin can reorganise body memory and sense of self.",
+   "idea_zh": "物件只在与身体的关系中存在：皮肤上的重量、温度与质地可以重组身体记忆与自我感。",
+   "method": "Individual sessions with hand-made relational objects applied to the client's body, developed from 1976 until her death in 1988.",
+   "method_zh": "一对一的疗程，把手工制作的关系物件施于来访者身体上，从 1976 年一直发展到她 1988 年去世。",
+   "keywords": [
+    "relational objects",
+    "therapy",
+    "body memory",
+    "Neo-Concretism"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ckQEQ4HKCE8"
+   }
+  },
+  {
+   "id": "helio-oiticica--parangole",
+   "creator_ids": [
+    "helio-oiticica"
+   ],
+   "title": "Parangolé",
+   "year": 1964,
+   "field": "movement",
+   "sub": "somatic-art",
+   "modalities": [
+    "movement",
+    "whole-soma",
+    "light-vision"
+   ],
+   "lenses": [
+    "movement-expression",
+    "body-politics",
+    "pleasure-play"
+   ],
+   "kind": "artwork",
+   "description": "Layered capes, banners and tents of fabric and plastic that only come alive when worn and danced in, first by samba dancers of the Mangueira community in Rio.",
+   "description_zh": "用织物和塑料叠成的斗篷、旗帜与帐篷，只有被穿上并随之起舞时才活起来，最初由里约 Mangueira 社区的桑巴舞者穿着。",
+   "idea_en": "Colour and structure are completed by the dancing body; the wearer is at once artwork, performer and viewer.",
+   "idea_zh": "色彩与结构由舞动的身体完成；穿戴者同时是作品、表演者与观看者。",
+   "method": "Wearable fabric constructions with painted colour fields and written phrases, activated through samba movement.",
+   "method_zh": "带有色块和文字的可穿戴织物结构，通过桑巴动作被激活。",
+   "keywords": [
+    "Parangolé",
+    "samba",
+    "Mangueira",
+    "wearable",
+    "Neo-Concretism"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=iaQBW7FitQE"
+   },
+   "images": [
+    "https://mam.rio/wp-content/uploads/2020/12/2016-65-16-687x1024.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/a/ae/Gerardo_Mosquera_wearing_H%C3%A9lio_Oiticica%27s_parangol%C3%A9_Da_adversidade_vivemos.JPG"
+   ],
+   "source_url": "https://mam.rio/historia/parangole-em-opiniao-65/"
+  },
+  {
+   "id": "helio-oiticica--eden",
+   "creator_ids": [
+    "helio-oiticica"
+   ],
+   "title": "Éden",
+   "year": 1969,
+   "field": "movement",
+   "sub": "somatic-art",
+   "modalities": [
+    "touch",
+    "whole-soma"
+   ],
+   "lenses": [
+    "attunement",
+    "pleasure-play",
+    "body-mind-unity"
+   ],
+   "kind": "artwork",
+   "description": "A walk-through environment of sand, straw, water, leaves and small shelters where visitors go barefoot, lie down and rest.",
+   "description_zh": "一个可穿行的环境，铺着沙子、稻草、水和树叶，还有小小的棚屋，观众赤脚行走、躺下、休息。",
+   "idea_en": "Oiticica called it a place for 'crelazer' (creative leisure): sensing with the whole body, slowly, is the work.",
+   "idea_zh": "Oiticica 称之为“创造性闲暇”（crelazer）的场所：用整个身体、缓慢地感受，就是作品。",
+   "method": "Installation of natural materials and enclosures (Ninhos, Bólides) first built for his exhibition at the Whitechapel Gallery, London.",
+   "method_zh": "由自然材料和围合空间（Ninhos、Bólides）构成的装置，最初为伦敦 Whitechapel 画廊的展览搭建。",
+   "keywords": [
+    "crelazer",
+    "Whitechapel",
+    "barefoot",
+    "environment",
+    "suprasensorial"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=pm6tvOfN80Y"
+   },
+   "exhibited": [
+    "Whitechapel Gallery, London 1969",
+    "To Organize Delirium, Carnegie Museum of Art 2016"
+   ]
+  },
+  {
+   "id": "rebecca-horn--unicorn",
+   "creator_ids": [
+    "rebecca-horn"
+   ],
+   "title": "Einhorn (Unicorn)",
+   "year": 1970,
+   "field": "movement",
+   "sub": "somatic-art",
+   "modalities": [
+    "posture-balance",
+    "movement"
+   ],
+   "lenses": [
+    "estrangement",
+    "first-person",
+    "body-politics"
+   ],
+   "kind": "performance",
+   "description": "A woman walks slowly through fields and woods wearing a tall white horn strapped to her head with bandages around her upper body.",
+   "description_zh": "一位女性头上用绑带固定着一只高高的白色角，绷带缠绕上身，缓慢地穿过田野和树林。",
+   "idea_en": "A small addition to the head changes posture, balance and pace completely; extension makes the whole body newly felt.",
+   "idea_zh": "头上的一点添加就彻底改变了姿态、平衡与步伐；延伸让整个身体被重新感受到。",
+   "method": "Wearable body sculpture of wood and fabric straps, performed outdoors and recorded on 16 mm film.",
+   "method_zh": "由木材与织物绑带构成的可穿戴身体雕塑，在户外表演并以 16 毫米胶片记录。",
+   "keywords": [
+    "body extension",
+    "balance",
+    "performance film",
+    "Body Sculptures"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=8-uShAVpDLM"
+   }
+  },
+  {
+   "id": "rebecca-horn--pencil-mask",
+   "creator_ids": [
+    "rebecca-horn"
+   ],
+   "title": "Pencil Mask",
+   "year": 1972,
+   "field": "movement",
+   "sub": "somatic-art",
+   "modalities": [
+    "movement",
+    "touch"
+   ],
+   "lenses": [
+    "estrangement",
+    "movement-expression"
+   ],
+   "kind": "artwork",
+   "description": "A mask of fabric straps with pencils sticking out from the face; by rocking her head in front of a wall, Horn draws marks that record the rhythm of her movement.",
+   "description_zh": "一副布带面罩，脸前伸出许多铅笔；Horn 在墙前摆动头部，画下记录自己动作节奏的痕迹。",
+   "idea_en": "The body becomes a drawing instrument; the drawing is a trace of how the head and neck felt their way across the wall.",
+   "idea_zh": "身体成了绘画工具；画面是头颈摸索着划过墙面时的感受痕迹。",
+   "method": "Wearable mask of straps and pencils, used in a filmed performance; the mask is in the Tate collection.",
+   "method_zh": "由绑带与铅笔构成的可穿戴面罩，用于一段拍摄下来的表演；面罩现藏于泰特美术馆。",
+   "keywords": [
+    "body extension",
+    "drawing",
+    "mask",
+    "Tate"
+   ],
+   "images": [
+    "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-600_lfxgvMS.jpg"
+   ],
+   "source_url": "https://www.tate.org.uk/art/artworks/horn-pencil-mask-t07847"
+  },
+  {
+   "id": "char-davies--osmose",
+   "creator_ids": [
+    "char-davies"
+   ],
+   "title": "Osmose",
+   "year": 1995,
+   "field": "movement",
+   "sub": "somatic-art",
+   "also": [
+    "machines-xr"
+   ],
+   "modalities": [
+    "breath",
+    "posture-balance",
+    "light-vision"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "attunement",
+    "first-person"
+   ],
+   "kind": "artwork",
+   "description": "An immersive virtual space of trees, clouds and code navigated by breath and balance: breathe in to float up, breathe out to sink, lean to drift.",
+   "description_zh": "一个由树木、云和代码构成的沉浸式虚拟空间，用呼吸和平衡来导航：吸气上浮，呼气下沉，倾身漂移。",
+   "idea_en": "Tying navigation to breath and balance turns VR into a meditative, embodied experience instead of hand-and-eye control.",
+   "idea_zh": "把导航与呼吸、平衡绑定，让 VR 成为冥想式的具身体验，而不是手眼控制。",
+   "method": "Head-mounted display with a vest that senses chest expansion (breath) and tilt sensors for balance, inspired by scuba diving; real-time graphics on SGI computers.",
+   "method_zh": "头戴显示器配合感知胸廓扩张（呼吸）的背心与感知平衡的倾斜传感器，灵感来自潜水；实时图形运行于 SGI 计算机。",
+   "keywords": [
+    "breath",
+    "balance",
+    "VR",
+    "scuba",
+    "Immersence",
+    "Softimage"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=54O4VP3tCoY"
+   },
+   "images": [
+    "https://www.immersence.com/images/osmose/Osm_Tree_Pond_600.jpg",
+    "https://www.immersence.com/images/osmose/Osm_Subt_Earth_600_v2.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/240806.240808",
+    "doi": "10.1145/240806.240808",
+    "venue": "ACM SIGGRAPH Computer Graphics",
+    "title": "Osmose: towards broadening the aesthetics of virtual reality"
+   },
+   "source_url": "https://www.immersence.com/osmose/"
+  },
+  {
+   "id": "char-davies--ephemere",
+   "creator_ids": [
+    "char-davies"
+   ],
+   "title": "Ephémère",
+   "year": 1998,
+   "field": "movement",
+   "sub": "somatic-art",
+   "also": [
+    "machines-xr"
+   ],
+   "modalities": [
+    "breath",
+    "posture-balance",
+    "light-vision"
+   ],
+   "lenses": [
+    "body-mind-unity",
+    "attunement",
+    "more-than-human"
+   ],
+   "kind": "artwork",
+   "description": "A breath-and-balance VR work in three layers (landscape, earth and the inside of the body), where organs and seeds appear and fade with the seasons.",
+   "description_zh": "一件以呼吸和平衡导航的 VR 作品，分为三层（地景、大地与身体内部），器官与种子随季节浮现又消失。",
+   "idea_en": "Moving between landscape and body interior suggests that the felt body and the world share one living process.",
+   "idea_zh": "在地景与身体内部之间穿行，暗示被感受的身体与世界属于同一个生命过程。",
+   "method": "Same breath-sensing vest and balance interface as Osmose, with time-varying generative imagery and spatial sound.",
+   "method_zh": "沿用 Osmose 的呼吸感应背心与平衡界面，配以随时间变化的生成图像和空间声音。",
+   "keywords": [
+    "breath",
+    "balance",
+    "VR",
+    "body interior",
+    "Immersence"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=XCWaMll0leI"
+   },
+   "images": [
+    "https://www.immersence.com/images/ephemere/Eph_Autumn_Flux_I_600.jpg",
+    "https://www.immersence.com/images/ephemere/016_Ephemere_Installation_View_2.jpg"
+   ],
+   "source_url": "https://www.immersence.com/ephemere/"
+  },
+  {
+   "id": "ernesto-neto--celula-nave",
+   "creator_ids": [
+    "ernesto-neto"
+   ],
+   "title": "Célula Nave",
+   "year": 2004,
+   "field": "movement",
+   "sub": "somatic-art",
+   "modalities": [
+    "touch",
+    "posture-balance",
+    "whole-soma"
+   ],
+   "lenses": [
+    "attunement",
+    "pleasure-play"
+   ],
+   "kind": "artwork",
+   "description": "A large soft architecture of stretched fabric held down by eighteen legs of sand-filled stockings, made for the central hall of Museum Boijmans Van Beuningen.",
+   "description_zh": "为博伊曼斯·范·伯宁恩博物馆中央大厅制作的大型柔软建筑：拉伸的织物由十八条装满沙子的长袜“腿”固定。",
+   "idea_en": "Soft, weighted, body-scale sculpture makes visitors feel gravity, tension and softness with the whole body.",
+   "idea_zh": "柔软、有重量、与身体尺度相当的雕塑，让观众用整个身体感受重力、张力与柔软。",
+   "method": "Stretch fabric and eighteen legs made of eight sand-filled socks each (about eight kilos per sock), installed from the artist's written instructions.",
+   "method_zh": "弹力织物与十八条“腿”，每条由八只装沙的袜子组成（每只约八公斤），依照艺术家的书面说明安装。",
+   "keywords": [
+    "soft sculpture",
+    "Boijmans",
+    "lycra",
+    "sand",
+    "body scale"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=GSl5QJCuOlE"
+   }
+  }
+ ],
+ "leads": []
+}

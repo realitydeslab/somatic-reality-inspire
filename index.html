@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Somatic Reality Inspire</title>
+<meta name="description" content="Soma design and somaesthetic interaction design, centred on Kristina Höök's lineage: prototypes, methods, somatic practices, artworks and theory that treat body and mind as one. Bilingual, with images, videos and paper links. By Reality Design Lab.">
+<meta property="og:title" content="Somatic Reality Inspire">
+<meta property="og:description" content="You don't have a body, you are one. Breathing lights, warming mats, drones that move like tai chi, first-person methods and the somatic practices behind soma design. A bilingual gallery by Reality Design Lab.">
+<link rel="alternate" type="text/markdown" href="catalog.md" title="Full catalog for AI (Markdown)">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/app.css?v=1790646143">
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead__top">
+    <a class="brand" href="https://reality.design" target="_blank" rel="noopener" aria-label="reality design lab">
+      <span class="brand__name">reality design lab</span>
+      <span class="brand__tag">design new realities</span>
+    </a>
+    <div class="masthead__tools">
+      <button class="lang-toggle mono" id="langToggle" type="button" aria-label="Switch language"></button>
+      <button class="theme-toggle mono" id="themeToggle" type="button" aria-label="Toggle light or dark theme">◐</button>
+    </div>
+  </div>
+  <h1 class="title" data-i18n-html="title"></h1>
+  <p class="lede" data-i18n="lede"></p>
+  <dl class="stats mono" id="stats"></dl>
+</header>
+
+<nav class="tabs" id="tabs" role="tablist" aria-label="Views"></nav>
+
+<section class="filters" id="filters" aria-label="Filters">
+  <div class="filters__row">
+    <label class="search">
+      <span class="visually-hidden" data-i18n="search_label"></span>
+      <input id="q" type="search" autocomplete="off">
+    </label>
+    <div class="chips" id="eraChips"></div>
+    <select id="sort" class="mono" aria-label="Sort">
+      <option value="new" data-i18n="sort_new"></option>
+      <option value="old" data-i18n="sort_old"></option>
+      <option value="creator" data-i18n="sort_creator"></option>
+    </select>
+    <button id="hasVideo" class="chip" type="button" aria-pressed="false" data-i18n="has_video"></button>
+    <button id="hasPaper" class="chip" type="button" aria-pressed="false" data-i18n="has_paper"></button>
+    <button id="clear" class="mono clear" type="button" data-i18n="clear"></button>
+  </div>
+  <div class="facets" id="facetChips"></div>
+  <div class="active-creator mono" id="activeCreator" hidden></div>
+</section>
+
+<main id="main">
+  <div id="view-atlas" class="view"><div id="atlas"></div></div>
+  <div id="view-field" class="view"><div id="fieldHead"></div><div id="fieldGrid"></div></div>
+  <div id="view-collections" class="view"><div id="collectionList"></div></div>
+  <div id="view-orgs" class="view"><div id="orgHead"></div><div id="orgList"></div></div>
+  <div id="view-works" class="view"><p class="count mono" id="worksCount"></p><div class="grid" id="grid"></div></div>
+  <div id="view-papers" class="view"><div id="papersHead"></div><div id="paperTable"></div></div>
+  <div id="view-creators" class="view"><div id="creatorList"></div></div>
+  <div id="view-starred" class="view"><div id="starredHead"></div><div class="grid" id="starGrid"></div></div>
+  <p class="empty" id="empty" hidden></p>
+</main>
+
+<footer class="foot mono">
+  <span id="generated"></span>
+  <span data-i18n-html="foot_ai"></span>
+  <span data-i18n="foot_rights"></span>
+</footer>
+
+<dialog id="player" class="player" aria-label="Work details">
+  <div class="player__inner">
+    <div class="player__media" id="playerMedia"></div>
+    <aside class="player__info" id="playerInfo"></aside>
+    <button class="player__close mono" id="playerClose" type="button" aria-label="Close">ESC ✕</button>
+    <button class="player__nav player__nav--prev" id="prev" type="button" aria-label="Previous">←</button>
+    <button class="player__nav player__nav--next" id="next" type="button" aria-label="Next">→</button>
+  </div>
+</dialog>
+
+<div class="toast mono" id="toast" role="status" hidden></div>
+
+<script src="data/entries.js?v=1790646143"></script>
+<script src="assets/i18n.js?v=1790646143"></script>
+<script src="assets/export.js?v=1790646143"></script>
+<script src="assets/app.js?v=1790646143"></script>
+</body>
+</html>

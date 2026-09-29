@@ -1,0 +1,2559 @@
+{
+  "batch": "practices",
+  "creators": [
+    {
+      "id": "moshe-feldenkrais",
+      "name": "Moshé Feldenkrais",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Physicist, judo teacher and founder of the Feldenkrais Method",
+      "based": "Tel Aviv, IL",
+      "bio": "Moshé Feldenkrais (1904–1984) was a physicist and judo black belt who developed a method of learning through slow, attentive movement, taught as Awareness Through Movement group lessons and hands-on Functional Integration.",
+      "why": "The Feldenkrais Method is the somatic practice Kristina Höök's soma design group trains in and designs from.",
+      "disciplines": [
+        "somatics"
+      ],
+      "links": {
+        "site": "https://feldenkrais-method.org"
+      },
+      "role_zh": "物理学家、柔道教师，费登奎斯方法创始人",
+      "bio_zh": "摩谢·费登奎斯（1904–1984）是物理学家和柔道黑带，他发展出一种通过缓慢、专注的动作来学习的方法，以“动中觉察”团体课和手把手的“功能整合”来教授。",
+      "why_zh": "费登奎斯方法是 Kristina Höök 的身体设计团队日常训练并用于设计的身体修习。",
+      "based_zh": "特拉维夫，以色列",
+      "connected_to": [
+        "thomas-hanna"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "f-matthias-alexander",
+      "name": "F. Matthias Alexander",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Actor and founder of the Alexander Technique",
+      "based": "London, UK",
+      "bio": "Frederick Matthias Alexander (1869–1955), an Australian reciter, lost his voice on stage and spent years watching himself in mirrors until he found how his head-neck habits interfered with his whole coordination.",
+      "why": "The Alexander Technique is the earliest modern method for noticing and inhibiting a habitual body-mind pattern, and John Dewey built his philosophy of habit partly on it.",
+      "disciplines": [
+        "somatics"
+      ],
+      "links": {
+        "site": "https://en.wikipedia.org/wiki/Frederick_Matthias_Alexander"
+      },
+      "role_zh": "演员，亚历山大技巧创始人",
+      "bio_zh": "弗雷德里克·马提亚斯·亚历山大（1869–1955）是澳大利亚朗诵者，因舞台上失声，他花了多年对镜观察自己，发现头颈的习惯如何干扰整个身体的协调。",
+      "why_zh": "亚历山大技巧是最早的现代身体方法之一，教人觉察并抑制习惯性的身心模式；杜威的习惯哲学部分建立在它之上。",
+      "based_zh": "伦敦，英国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "bonnie-bainbridge-cohen",
+      "name": "Bonnie Bainbridge Cohen",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Movement artist, occupational therapist, founder of Body-Mind Centering",
+      "based": "El Sobrante, US",
+      "bio": "Bonnie Bainbridge Cohen is an occupational therapist, dancer and educator who founded the School for Body-Mind Centering in 1973.",
+      "why": "Body-Mind Centering gives designers an experiential anatomy: learning organs, fluids, cells and developmental patterns by moving and feeling them.",
+      "disciplines": [
+        "somatics",
+        "dance"
+      ],
+      "links": {
+        "site": "https://www.bodymindcentering.com",
+        "youtube": "https://www.youtube.com/@BodyMindCentering"
+      },
+      "role_zh": "动作艺术家、职业治疗师，Body-Mind Centering 创始人",
+      "bio_zh": "邦妮·班布里奇·科恩是职业治疗师、舞者和教育者，1973 年创立 Body-Mind Centering 学校。",
+      "why_zh": "Body-Mind Centering 为设计者提供一种“体验式解剖学”：通过动起来、感受它们，去认识器官、体液、细胞与发育动作模式。",
+      "based_zh": "埃尔索夫兰特，美国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "rudolf-laban",
+      "name": "Rudolf Laban",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Dance theorist, choreographer, founder of Labanotation and Effort theory",
+      "based": "London, UK",
+      "bio": "Rudolf von Laban (1879–1958) was a Hungarian-born dance artist and theorist who created a notation for movement (1928) and theories of Effort and space harmony.",
+      "why": "Laban's categories of movement quality are the most used vocabulary for describing how a movement feels in movement-based interaction design.",
+      "disciplines": [
+        "dance"
+      ],
+      "links": {
+        "site": "https://en.wikipedia.org/wiki/Rudolf_von_Laban"
+      },
+      "role_zh": "舞蹈理论家、编舞家，拉班舞谱与“力效”理论创始人",
+      "bio_zh": "鲁道夫·冯·拉班（1879–1958）是匈牙利出生的舞蹈艺术家与理论家，1928 年创立动作记谱法，并提出“力效”（Effort）与空间和谐理论。",
+      "why_zh": "拉班的动作质感范畴，是动作交互设计中描述“动作感觉如何”最常用的词汇。",
+      "based_zh": "伦敦，英国",
+      "connected_to": [
+        "irmgard-bartenieff"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "irmgard-bartenieff",
+      "name": "Irmgard Bartenieff",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Dance theorist, physical therapist, pioneer of dance therapy",
+      "based": "New York, US",
+      "bio": "Irmgard Bartenieff (1900–1981), a student of Laban, applied his spatial concepts to polio rehabilitation in the 1940s and developed the body-level exercises known as Bartenieff Fundamentals.",
+      "why": "Bartenieff joined Laban's movement analysis to physical therapy and insisted there is no purely physical or purely mental therapy.",
+      "disciplines": [
+        "dance",
+        "health"
+      ],
+      "links": {
+        "site": "https://labaninstitute.org"
+      },
+      "role_zh": "舞蹈理论家、物理治疗师、舞蹈治疗先驱",
+      "bio_zh": "伊姆加德·巴特尼夫（1900–1981）是拉班的学生，1940 年代把拉班的空间概念用于小儿麻痹症康复，发展出后来称为“巴特尼夫基础动作”的练习。",
+      "why_zh": "巴特尼夫把拉班的动作分析与物理治疗结合，坚持不存在纯粹“身体的”或纯粹“心理的”治疗。",
+      "based_zh": "纽约，美国",
+      "connected_to": [
+        "rudolf-laban"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "thomas-hanna",
+      "name": "Thomas Hanna",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Philosopher, founder of Hanna Somatic Education",
+      "based": "Novato, US",
+      "bio": "Thomas Hanna (1928–1990) was a philosophy professor who coined the term somatics in 1976, trained with Moshé Feldenkrais and founded Hanna Somatic Education.",
+      "why": "Hanna's definition of soma, the body experienced from within by a first person, is the root of the word soma design.",
+      "disciplines": [
+        "philosophy",
+        "somatics"
+      ],
+      "links": {
+        "site": "https://en.wikipedia.org/wiki/Thomas_Louis_Hanna"
+      },
+      "role_zh": "哲学家，汉纳身体教育创始人",
+      "bio_zh": "托马斯·汉纳（1928–1990）是哲学教授，1976 年提出“somatics”（身体学）一词，师从费登奎斯，创立汉纳身体教育。",
+      "why_zh": "汉纳把 soma 定义为“由第一人称从内部体验的身体”，这正是“身体设计”（soma design）一词的来源。",
+      "based_zh": "诺瓦托，美国",
+      "connected_to": [
+        "moshe-feldenkrais"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "ida-rolf",
+      "name": "Ida Rolf",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Biochemist, founder of Structural Integration (Rolfing)",
+      "based": "Boulder, US",
+      "bio": "Ida Rolf (1896–1979) held a PhD in biochemistry and from the 1940s developed Structural Integration, a ten-session series of deep manual work on connective tissue.",
+      "why": "Rolfing brought fascia and whole-body organisation in gravity into the somatics movement at Esalen, where Hanna and others met it.",
+      "disciplines": [
+        "somatics"
+      ],
+      "links": {
+        "site": "https://rolf.org",
+        "youtube": "https://www.youtube.com/c/rolfinstitute"
+      },
+      "role_zh": "生物化学家，结构整合（Rolfing）创始人",
+      "bio_zh": "艾达·罗尔夫（1896–1979）拥有生物化学博士学位，自 1940 年代起发展出“结构整合”：针对结缔组织、为期十次的深层手法工作。",
+      "why_zh": "Rolfing 把筋膜和“身体在重力中的整体组织”带进了伊莎兰学院的身体学运动。",
+      "based_zh": "博尔德，美国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "gerda-alexander",
+      "name": "Gerda Alexander",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Rhythmics teacher, founder of Eutony",
+      "based": "Copenhagen, DK",
+      "bio": "Gerda Alexander (1908–1994), a German-born Dalcroze rhythmics teacher, emigrated to Denmark in 1933, founded her training school in Copenhagen in 1940 and named her method Eutony in 1956.",
+      "why": "Eutony treats muscle tone as something a person can sense and regulate, which is a direct model for designing with bodily tension.",
+      "disciplines": [
+        "somatics"
+      ],
+      "links": {
+        "site": "https://en.wikipedia.org/wiki/Gerda_Alexander"
+      },
+      "role_zh": "律动教师，优张力法（Eutony）创始人",
+      "bio_zh": "格尔达·亚历山大（1908–1994）是德国出生的达尔克罗兹律动教师，1933 年移居丹麦，1940 年在哥本哈根创办培训学校，1956 年将其方法命名为 Eutony（优张力）。",
+      "why_zh": "优张力法把肌张力当作人可以感知并调节的东西，这为“以身体紧张度为材料”的设计提供了直接的模型。",
+      "based_zh": "哥本哈根，丹麦",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "mabel-todd",
+      "name": "Mabel Elsworth Todd",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Movement educator, author of The Thinking Body",
+      "based": "New York, US",
+      "bio": "Mabel Elsworth Todd (c.1880–1956) taught posture through imagery at Columbia Teachers College and published The Thinking Body in 1937.",
+      "why": "Todd showed that imagining a movement changes how the body organises itself, the root of ideokinesis and much dance somatics.",
+      "disciplines": [
+        "somatics",
+        "dance"
+      ],
+      "links": {
+        "site": "https://en.wikipedia.org/wiki/Mabel_Elsworth_Todd"
+      },
+      "role_zh": "动作教育者，《思考的身体》作者",
+      "bio_zh": "梅布尔·埃尔斯沃思·托德（约 1880–1956）在哥伦比亚大学师范学院用意象教授姿态，1937 年出版《思考的身体》。",
+      "why_zh": "托德表明，想象一个动作会改变身体组织自身的方式，这是意念动觉法和许多舞蹈身体学的源头。",
+      "based_zh": "纽约，美国",
+      "connected_to": [
+        "lulu-sweigard"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "lulu-sweigard",
+      "name": "Lulu Sweigard",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Movement educator, developer of Ideokinesis",
+      "based": "New York, US",
+      "bio": "Lulu Sweigard (1895–1974), a student of Mabel Todd, researched imagery and skeletal alignment, taught at the Juilliard School and named the practice ideokinesis.",
+      "why": "Sweigard turned Todd's imagery into a teachable lying-down practice of 'lines of movement' that dancers still use.",
+      "disciplines": [
+        "somatics",
+        "dance"
+      ],
+      "links": {
+        "site": "https://en.wikipedia.org/wiki/Ideokinesis"
+      },
+      "role_zh": "动作教育者，意念动觉法的发展者",
+      "bio_zh": "露露·斯威加德（1895–1974）是托德的学生，研究意象与骨骼排列，在茱莉亚学院任教，并把这一修习命名为 ideokinesis（意念动觉法）。",
+      "why_zh": "斯威加德把托德的意象发展成一套可教授的、躺着进行的“动作线”练习，至今仍为舞者所用。",
+      "based_zh": "纽约，美国",
+      "connected_to": [
+        "mabel-todd"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "charlotte-selver",
+      "name": "Charlotte Selver",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Teacher of Sensory Awareness",
+      "based": "Muir Beach, US",
+      "bio": "Charlotte Selver (1901–2003) studied with Elsa Gindler in Berlin, emigrated to the US in 1938 and taught the work as Sensory Awareness, including at Esalen from 1963.",
+      "why": "Selver's teaching of plain sensing, of sitting, standing and breathing, fed the human potential movement and body psychotherapy.",
+      "disciplines": [
+        "somatics"
+      ],
+      "links": {
+        "site": "https://www.sensoryawareness.org"
+      },
+      "role_zh": "感官觉察教师",
+      "bio_zh": "夏洛特·塞尔弗（1901–2003）在柏林师从埃尔莎·金德勒，1938 年移居美国，以“感官觉察”之名教授这一工作，1963 年起也在伊莎兰学院任教。",
+      "why_zh": "塞尔弗教人单纯地去感觉坐、站和呼吸，这深刻影响了人类潜能运动与身体心理治疗。",
+      "based_zh": "缪尔海滩，美国",
+      "connected_to": [
+        "elsa-gindler"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "elsa-gindler",
+      "name": "Elsa Gindler",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Gymnastik teacher, pioneer of somatic education",
+      "based": "Berlin, DE",
+      "bio": "Elsa Gindler (1885–1961) was a Berlin gymnastik teacher whose 'work on the human being' explored sitting, standing and walking through self-observation, in collaboration with Heinrich Jacoby.",
+      "why": "Gindler is the common root of Sensory Awareness, Rosen Method and much body psychotherapy.",
+      "disciplines": [
+        "somatics"
+      ],
+      "links": {
+        "site": "https://en.wikipedia.org/wiki/Elsa_Gindler"
+      },
+      "role_zh": "体操教师，身体教育先驱",
+      "bio_zh": "埃尔莎·金德勒（1885–1961）是柏林的体操教师，她与海因里希·雅各比合作的“对人的工作”通过自我观察探索坐、站、走。",
+      "why_zh": "金德勒是感官觉察、罗森疗法和许多身体心理治疗的共同源头。",
+      "based_zh": "柏林，德国",
+      "connected_to": [
+        "charlotte-selver",
+        "marion-rosen"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "emilie-conrad",
+      "name": "Emilie Conrad",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Dancer, founder of Continuum",
+      "based": "Santa Monica, US",
+      "bio": "Emilie Conrad (1934–2014) was a dancer who, after years in Haiti, founded Continuum in 1967, a practice of breath, sound and fluid micro-movement.",
+      "why": "Continuum treats the body as fluid rather than as a structure of parts, a strong image for designing slow, undulating interactions.",
+      "disciplines": [
+        "somatics",
+        "dance"
+      ],
+      "links": {
+        "site": "https://continuummovement.com"
+      },
+      "role_zh": "舞者，Continuum 创始人",
+      "bio_zh": "艾米莉·康拉德（1934–2014）是舞者，在海地生活多年后于 1967 年创立 Continuum，一种以呼吸、声音和流体微动作为主的修习。",
+      "why_zh": "Continuum 把身体看作流体而非由部件组成的结构，这为设计缓慢、波动的交互提供了有力的意象。",
+      "based_zh": "圣莫尼卡，美国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "mary-starks-whitehouse",
+      "name": "Mary Starks Whitehouse",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Dancer and dance therapist, originator of Authentic Movement",
+      "based": "Los Angeles, US",
+      "bio": "Mary Starks Whitehouse (1911–1979) studied with Mary Wigman and Martha Graham and, drawing on Jungian active imagination, developed 'movement in depth' in the 1950s.",
+      "why": "Whitehouse distinguished 'I move' from 'I am moved', a distinction that matters to anyone designing for involuntary or emergent movement.",
+      "disciplines": [
+        "dance",
+        "health"
+      ],
+      "links": {
+        "site": "https://en.wikipedia.org/wiki/Authentic_Movement"
+      },
+      "role_zh": "舞者与舞蹈治疗师，真实动作的开创者",
+      "bio_zh": "玛丽·斯塔克斯·怀特豪斯（1911–1979）师从玛丽·魏格曼与玛莎·葛兰姆，借鉴荣格的积极想象，于 1950 年代发展出“深度动作”。",
+      "why_zh": "怀特豪斯区分了“我在动”与“我被动起来”，这对设计非自主、涌现的动作很重要。",
+      "based_zh": "洛杉矶，美国",
+      "connected_to": [
+        "janet-adler"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "janet-adler",
+      "name": "Janet Adler",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Dance therapist, developer of the Discipline of Authentic Movement",
+      "based": "Northampton, US",
+      "bio": "Janet Adler studied with Mary Starks Whitehouse and developed Authentic Movement into a discipline of mover and witness.",
+      "why": "Adler's witness role models a way of attending to another body without judgment, useful for first-person and second-person design studies.",
+      "disciplines": [
+        "dance",
+        "health"
+      ],
+      "links": {
+        "site": "https://disciplineofauthenticmovement.com"
+      },
+      "role_zh": "舞蹈治疗师，“真实动作修习”的发展者",
+      "bio_zh": "珍妮特·阿德勒师从怀特豪斯，把真实动作发展为“动者与见证者”的修习。",
+      "why_zh": "阿德勒的“见证者”角色示范了一种不带评判地关注他人身体的方式，适用于第一人称与第二人称的设计研究。",
+      "based_zh": "北安普顿，美国",
+      "connected_to": [
+        "mary-starks-whitehouse"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "steve-paxton",
+      "name": "Steve Paxton",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Dancer, choreographer, initiator of Contact Improvisation",
+      "based": "Vermont, US",
+      "bio": "Steve Paxton (1939–2024) danced with Merce Cunningham, co-founded Judson Dance Theater and Grand Union, and in 1972 initiated Contact Improvisation.",
+      "why": "Paxton's Contact Improvisation and his Small Dance made reflexes, weight and touch into material for improvisation.",
+      "disciplines": [
+        "dance"
+      ],
+      "links": {
+        "site": "https://en.wikipedia.org/wiki/Steve_Paxton"
+      },
+      "role_zh": "舞者、编舞家，接触即兴的发起人",
+      "bio_zh": "史蒂夫·帕克斯顿（1939–2024）曾在默斯·坎宁汉舞团跳舞，参与创立贾德森舞蹈剧场和 Grand Union，1972 年发起接触即兴。",
+      "why_zh": "帕克斯顿的接触即兴与“小舞”（Small Dance）把反射、重量和触碰变成即兴的材料。",
+      "based_zh": "佛蒙特，美国",
+      "connected_to": [
+        "nancy-stark-smith"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "nancy-stark-smith",
+      "name": "Nancy Stark Smith",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Dancer, co-founder of Contact Improvisation and Contact Quarterly",
+      "based": "Northampton, US",
+      "bio": "Nancy Stark Smith (1952–2020) was a founding participant of Contact Improvisation, co-editor of Contact Quarterly and creator of the Underscore.",
+      "why": "Stark Smith's Underscore is a shared score for long improvisations that moves from arriving in the body to dancing with others and back.",
+      "disciplines": [
+        "dance"
+      ],
+      "links": {
+        "site": "https://en.wikipedia.org/wiki/Nancy_Stark_Smith"
+      },
+      "role_zh": "舞者，接触即兴与《Contact Quarterly》的共同创始人",
+      "bio_zh": "南希·斯塔克·史密斯（1952–2020）是接触即兴最早的参与者之一，《Contact Quarterly》的共同编辑，也是 Underscore 的创造者。",
+      "why_zh": "她的 Underscore 是一份用于长时间即兴的共享谱：从进入身体，到与他人共舞，再回到自身。",
+      "based_zh": "北安普顿，美国",
+      "connected_to": [
+        "steve-paxton"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "anna-halprin",
+      "name": "Anna Halprin",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Choreographer, pioneer of postmodern dance and dance for healing",
+      "based": "Kentfield, US",
+      "bio": "Anna Halprin (1920–2021) founded the San Francisco Dancers' Workshop, developed the RSVP Cycles with Lawrence Halprin and co-founded the Tamalpa Institute with her daughter Daria in 1978.",
+      "why": "Halprin used scores, kinesthetic awareness and community ritual to make dance a way to live with illness and with others.",
+      "disciplines": [
+        "dance",
+        "art"
+      ],
+      "links": {
+        "site": "https://en.wikipedia.org/wiki/Anna_Halprin"
+      },
+      "role_zh": "编舞家，后现代舞蹈与疗愈舞蹈的先驱",
+      "bio_zh": "安娜·哈普林（1920–2021）创立旧金山舞者工作坊，与劳伦斯·哈普林共同发展 RSVP 循环，并于 1978 年与女儿达莉亚共同创立塔玛帕学院。",
+      "why_zh": "哈普林用乐谱、动觉觉察和社区仪式，让舞蹈成为与疾病、与他人共处的方式。",
+      "based_zh": "肯特菲尔德，美国",
+      "connected_to": [
+        "daria-halprin"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "daria-halprin",
+      "name": "Daria Halprin",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Expressive arts therapist, co-founder of the Tamalpa Institute",
+      "based": "Kentfield, US",
+      "bio": "Daria Halprin is a movement-based expressive arts therapist who co-founded the Tamalpa Institute with Anna Halprin in 1978 and directs it.",
+      "why": "She codified the Tamalpa Life/Art Process that links movement, drawing and spoken reflection.",
+      "disciplines": [
+        "dance",
+        "health"
+      ],
+      "links": {
+        "site": "https://www.tamalpa.org",
+        "youtube": "https://www.youtube.com/channel/UCm_1sbnfQOQPPDZpqUsMGCA"
+      },
+      "role_zh": "表达性艺术治疗师，塔玛帕学院共同创始人",
+      "bio_zh": "达莉亚·哈普林是以动作为基础的表达性艺术治疗师，1978 年与安娜·哈普林共同创立塔玛帕学院并担任院长。",
+      "why_zh": "她系统化了塔玛帕“生命/艺术历程”，把动作、绘画与口头反思连在一起。",
+      "based_zh": "肯特菲尔德，美国",
+      "connected_to": [
+        "anna-halprin"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "ohad-naharin",
+      "name": "Ohad Naharin",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Choreographer, creator of Gaga",
+      "based": "Tel Aviv, IL",
+      "bio": "Ohad Naharin (born 1952) was artistic director of Batsheva Dance Company from 1990 to 2018 and developed the movement language Gaga.",
+      "why": "Gaga asks dancers and non-dancers to listen to sensation before shaping movement, and bans mirrors so movement is guided from inside.",
+      "disciplines": [
+        "dance"
+      ],
+      "links": {
+        "site": "https://www.gagapeople.com",
+        "youtube": "https://www.youtube.com/channel/UCJuG8LobRKuBD0134W6hoBA"
+      },
+      "role_zh": "编舞家，Gaga 的创造者",
+      "bio_zh": "欧哈德·纳哈林（1952 年生）1990–2018 年任巴希瓦舞团艺术总监，发展了动作语言 Gaga。",
+      "why_zh": "Gaga 要求舞者和非舞者先倾听感觉，再塑造动作，并且不用镜子，让动作从内部被引导。",
+      "based_zh": "特拉维夫，以色列",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "joan-skinner",
+      "name": "Joan Skinner",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Dancer, creator of Skinner Releasing Technique",
+      "based": "Seattle, US",
+      "bio": "Joan Skinner (1924–2021) danced with Martha Graham and Merce Cunningham and first shared the beginnings of Skinner Releasing Technique with her students at the University of Illinois in 1966–67.",
+      "why": "Skinner Releasing uses poetic imagery to release held tension, so technique and creative exploration become the same act.",
+      "disciplines": [
+        "dance",
+        "somatics"
+      ],
+      "links": {
+        "site": "https://en.wikipedia.org/wiki/Skinner_Releasing_Technique"
+      },
+      "role_zh": "舞者，斯金纳释放技巧创始人",
+      "bio_zh": "琼·斯金纳（1924–2021）曾在葛兰姆和坎宁汉舞团跳舞，1966–67 年在伊利诺伊大学首次与学生分享“斯金纳释放技巧”的雏形。",
+      "why_zh": "斯金纳释放技巧用诗意的意象释放紧张，让技术训练与创造性探索成为同一件事。",
+      "based_zh": "西雅图，美国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "mary-overlie",
+      "name": "Mary Overlie",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Choreographer, originator of the Six Viewpoints",
+      "based": "New York, US",
+      "bio": "Mary Overlie (1946–2020) was a choreographer and teacher who originated the Six Viewpoints (space, shape, time, emotion, movement, story), taught at NYU's Experimental Theater Wing from 1978.",
+      "why": "The Viewpoints give a shared vocabulary for attending to space, time and other bodies, widely used in theater and embodied design workshops.",
+      "disciplines": [
+        "dance"
+      ],
+      "links": {
+        "site": "https://en.wikipedia.org/wiki/Mary_Overlie"
+      },
+      "role_zh": "编舞家，“六观点”的开创者",
+      "bio_zh": "玛丽·奥弗利（1946–2020）是编舞家与教师，开创“六观点”（空间、形状、时间、情感、动作、故事），1978 年起在纽约大学实验剧场系教授。",
+      "why_zh": "“观点”为关注空间、时间与他人身体提供了共享词汇，广泛用于戏剧与具身设计工作坊。",
+      "based_zh": "纽约，美国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "pauline-oliveros",
+      "name": "Pauline Oliveros",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Composer, founder of Deep Listening",
+      "based": "Kingston, US",
+      "bio": "Pauline Oliveros (1932–2016) was a composer and accordionist, a founder of the San Francisco Tape Music Center, whose Sonic Meditations (1971) grew into the practice of Deep Listening.",
+      "why": "Deep Listening trains attention to sound as a bodily, relational act, a model for designing with listening rather than with signals.",
+      "disciplines": [
+        "art",
+        "dance"
+      ],
+      "links": {
+        "site": "https://www.deeplistening.rpi.edu"
+      },
+      "role_zh": "作曲家，深度聆听的创立者",
+      "bio_zh": "宝琳·奥利维罗斯（1932–2016）是作曲家与手风琴演奏家，旧金山磁带音乐中心的创始人之一，她的《声音冥想》（1971）后来发展成“深度聆听”修习。",
+      "why_zh": "深度聆听把对声音的注意训练成一种身体性、关系性的行为，为“以聆听而非信号来设计”提供了范例。",
+      "based_zh": "金斯顿，美国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "jon-kabat-zinn",
+      "name": "Jon Kabat-Zinn",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Molecular biologist, founder of Mindfulness-Based Stress Reduction",
+      "based": "Massachusetts, US",
+      "bio": "Jon Kabat-Zinn (born 1944) holds a PhD in molecular biology and founded the Stress Reduction Clinic and MBSR at the University of Massachusetts Medical School in 1979.",
+      "why": "MBSR and its body scan put a secular, body-first meditation into hospitals, and the body scan is now a standard warm-up in soma design workshops.",
+      "disciplines": [
+        "health"
+      ],
+      "links": {
+        "site": "https://en.wikipedia.org/wiki/Jon_Kabat-Zinn"
+      },
+      "role_zh": "分子生物学家，正念减压（MBSR）创始人",
+      "bio_zh": "乔恩·卡巴金（1944 年生）拥有分子生物学博士学位，1979 年在马萨诸塞大学医学院创立减压诊所和正念减压课程。",
+      "why_zh": "正念减压及其身体扫描把一种世俗的、以身体为先的冥想带进医院；身体扫描如今是身体设计工作坊的常用热身。",
+      "based_zh": "马萨诸塞，美国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "s-n-goenka",
+      "name": "S. N. Goenka",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Teacher of Vipassana meditation",
+      "based": "Igatpuri, IN",
+      "bio": "Satya Narayan Goenka (1924–2013) was born in Burma to an Indian family, learned Vipassana from Sayagyi U Ba Khin and from 1969 taught free ten-day residential courses worldwide.",
+      "why": "Goenka's technique of sweeping attention through bodily sensation is a direct ancestor of the body scan used in clinics and design studios.",
+      "disciplines": [
+        "somatics"
+      ],
+      "links": {
+        "site": "https://www.dhamma.org"
+      },
+      "role_zh": "内观禅修导师",
+      "bio_zh": "萨提亚·纳拉扬·葛印卡（1924–2013）生于缅甸的印度家庭，随乌巴庆学习内观，1969 年起在全球开设免费的十日住宿课程。",
+      "why_zh": "葛印卡以注意力“扫过”身体感受的方法，是临床与设计工作室中身体扫描的直接前身。",
+      "based_zh": "伊加特普里，印度",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "eugene-gendlin",
+      "name": "Eugene Gendlin",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Philosopher and psychotherapist, developer of Focusing",
+      "based": "Spring Valley, US",
+      "bio": "Eugene Gendlin (1926–2017) was a philosopher who worked with Carl Rogers at the University of Chicago and developed Focusing, a practice of attending to the bodily 'felt sense'.",
+      "why": "Gendlin's felt sense is the most cited bridge between bodily feeling and meaning in first-person design research.",
+      "disciplines": [
+        "philosophy",
+        "health"
+      ],
+      "links": {
+        "site": "https://focusing.org"
+      },
+      "role_zh": "哲学家与心理治疗师，聚焦的创立者",
+      "bio_zh": "尤金·简德林（1926–2017）是哲学家，在芝加哥大学与卡尔·罗杰斯合作，发展出“聚焦”——一种关注身体“感觉感”（felt sense）的修习。",
+      "why_zh": "简德林的“感觉感”是第一人称设计研究中连接身体感受与意义最常被引用的概念。",
+      "based_zh": "斯普林瓦利，美国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "peter-levine",
+      "name": "Peter A. Levine",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Psychologist, developer of Somatic Experiencing",
+      "based": "Boulder, US",
+      "bio": "Peter A. Levine (born 1942) holds doctorates in medical biophysics and psychology and developed Somatic Experiencing, a body-based approach to trauma.",
+      "why": "Levine frames trauma as incomplete bodily responses, which gives designers a vocabulary of titration and pendulation for pacing felt experience.",
+      "disciplines": [
+        "health"
+      ],
+      "links": {
+        "site": "https://traumahealing.org",
+        "youtube": "https://www.youtube.com/c/SomaticExperiencingInternational"
+      },
+      "role_zh": "心理学家，身体经验疗法（SE）创立者",
+      "bio_zh": "彼得·莱文（1942 年生）拥有医学生物物理学与心理学博士学位，发展出以身体为基础处理创伤的“身体经验疗法”。",
+      "why_zh": "莱文把创伤理解为未完成的身体反应，这为设计者提供了“滴定”与“摆荡”等调节亲身体验节奏的词汇。",
+      "based_zh": "博尔德，美国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "ron-kurtz",
+      "name": "Ron Kurtz",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Psychotherapist, founder of the Hakomi Method",
+      "based": "Ashland, US",
+      "bio": "Ron Kurtz (1934–2011) developed the Hakomi Method in the 1970s, a body-centred psychotherapy that works in mindfulness, and co-founded the Hakomi Institute in 1981.",
+      "why": "Hakomi uses small, precise 'probes' offered to a mindful person to reveal how beliefs are held in the body.",
+      "disciplines": [
+        "health"
+      ],
+      "links": {
+        "site": "https://hakomiinstitute.com"
+      },
+      "role_zh": "心理治疗师，哈科米疗法创立者",
+      "bio_zh": "罗恩·库尔茨（1934–2011）于 1970 年代发展出哈科米疗法，一种在正念状态下进行的身体取向心理治疗，并于 1981 年共同创立哈科米学院。",
+      "why_zh": "哈科米向处于正念中的人提供细小而精确的“探针”，揭示信念如何被保存在身体里。",
+      "based_zh": "阿什兰，美国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "marian-chace",
+      "name": "Marian Chace",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Dancer, founder of dance/movement therapy",
+      "based": "Washington, DC, US",
+      "bio": "Marian Chace (1896–1970) trained at Denishawn, began dancing with psychiatric patients at St. Elizabeths Hospital in 1942 and became the first president of the American Dance Therapy Association in 1966.",
+      "why": "Chace built therapy on mirroring and group rhythm, showing that moving together can open communication where talk cannot.",
+      "disciplines": [
+        "dance",
+        "health"
+      ],
+      "links": {
+        "site": "https://en.wikipedia.org/wiki/Marian_Chace"
+      },
+      "role_zh": "舞者，舞动治疗的奠基人",
+      "bio_zh": "玛丽安·蔡斯（1896–1970）出身丹尼肖恩舞蹈学校，1942 年起在圣伊丽莎白医院与精神科病人一起跳舞，1966 年成为美国舞蹈治疗协会首任主席。",
+      "why_zh": "蔡斯以镜像与团体节奏为治疗基础，表明一起动能在言语失效处打开交流。",
+      "based_zh": "华盛顿特区，美国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "marion-rosen",
+      "name": "Marion Rosen",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Physical therapist, founder of Rosen Method",
+      "based": "Berkeley, US",
+      "bio": "Marion Rosen (1914–2012) trained in Berlin with Lucy Heyer, a student of Elsa Gindler, and developed Rosen Method Bodywork in Berkeley; the Rosen Institute was formed in 1980.",
+      "why": "Rosen Method uses a 'listening' touch that notices held tension without fixing it, a model for touch that attends rather than acts.",
+      "disciplines": [
+        "health",
+        "somatics"
+      ],
+      "links": {
+        "site": "https://rosenmethod.org"
+      },
+      "role_zh": "物理治疗师，罗森疗法创立者",
+      "bio_zh": "玛丽安·罗森（1914–2012）在柏林师从金德勒的学生露西·海尔，在伯克利发展出罗森身体疗法；罗森学院成立于 1980 年。",
+      "why_zh": "罗森疗法用一种“聆听式”触碰去注意被保持的紧张而不去修正它，是“关注而非作用”的触碰范例。",
+      "based_zh": "伯克利，美国",
+      "connected_to": [
+        "elsa-gindler"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "ilse-middendorf",
+      "name": "Ilse Middendorf",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Breath therapist, founder of the Perceptible Breath",
+      "based": "Berlin, DE",
+      "bio": "Ilse Middendorf (1910–2009) developed 'Der Erfahrbare Atem' (the perceptible breath), founded her breath-therapy institute in Berlin in 1965 and became a professor at the Berlin University of the Arts in 1971.",
+      "why": "Middendorf taught letting breath come and go on its own and sensing where it moves, a counterpoint to breath-control apps.",
+      "disciplines": [
+        "somatics",
+        "health"
+      ],
+      "links": {
+        "site": "https://de.wikipedia.org/wiki/Ilse_Middendorf"
+      },
+      "role_zh": "呼吸治疗师，“可感知的呼吸”创立者",
+      "bio_zh": "伊尔瑟·米登多夫（1910–2009）发展出“可感知的呼吸”（Der Erfahrbare Atem），1965 年在柏林创立呼吸治疗学院，1971 年成为柏林艺术大学教授。",
+      "why_zh": "米登多夫教人让呼吸自己来去，并感受它在身体何处流动，这与“控制呼吸”的应用形成对照。",
+      "based_zh": "柏林，德国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "joseph-pilates",
+      "name": "Joseph Pilates",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Physical trainer, creator of Contrology (Pilates)",
+      "based": "New York, US",
+      "bio": "Joseph Pilates (1883–1967) was a German-born trainer who opened a studio in New York and set out his method, Contrology, in books of 1934 and 1945.",
+      "why": "Pilates is a historical case of movement education framed as mind controlling body, useful to contrast with non-dualist somatics.",
+      "disciplines": [
+        "somatics"
+      ],
+      "links": {
+        "site": "https://en.wikipedia.org/wiki/Joseph_Pilates"
+      },
+      "role_zh": "体能训练师，控制术（普拉提）创始人",
+      "bio_zh": "约瑟夫·普拉提（1883–1967）是德国出生的训练师，在纽约开设工作室，并在 1934 与 1945 年的著作中阐述其方法“控制术”（Contrology）。",
+      "why_zh": "普拉提是“心控制身”框架下动作教育的历史案例，适合用来与非二元的身体学作对照。",
+      "based_zh": "纽约，美国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "bks-iyengar",
+      "name": "B. K. S. Iyengar",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Yoga teacher, founder of Iyengar Yoga",
+      "based": "Pune, IN",
+      "bio": "B. K. S. Iyengar (1918–2014) learned yoga from Tirumalai Krishnamacharya, taught in Pune and, after meeting Yehudi Menuhin in 1952, in Europe and the US; Light on Yoga (1966) made his method known worldwide.",
+      "why": "Iyengar's precise alignment and use of props made yoga a practice of detailed interoceptive and proprioceptive attention, as it is mostly taught in the West.",
+      "disciplines": [
+        "somatics"
+      ],
+      "links": {
+        "site": "https://bksiyengar.com"
+      },
+      "role_zh": "瑜伽教师，艾扬格瑜伽创始人",
+      "bio_zh": "B. K. S. 艾扬格（1918–2014）师从克里希那玛查雅，在浦那教学；1952 年结识小提琴家梅纽因后赴欧美教学，《瑜伽之光》（1966）使他的方法闻名世界。",
+      "why_zh": "艾扬格对体式排列的精确要求和辅具的使用，让瑜伽成为一种细致的内感受与本体感训练，这也是它在西方的主要教授方式。",
+      "based_zh": "浦那，印度",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "deborah-hay",
+      "name": "Deborah Hay",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Choreographer, member of Judson Dance Theater",
+      "based": "Austin, US",
+      "bio": "Deborah Hay (born 1941) danced with Merce Cunningham, took part in Judson Dance Theater and developed a choreographic practice built on attention questions such as 'What if every cell in my body at once has the potential to perceive…'.",
+      "why": "Hay treats perception itself as the dance, which offers designers a way to choreograph attention rather than movement.",
+      "disciplines": [
+        "dance"
+      ],
+      "links": {
+        "site": "https://www.deborahhay.com"
+      },
+      "role_zh": "编舞家，贾德森舞蹈剧场成员",
+      "bio_zh": "黛博拉·海（1941 年生）曾在坎宁汉舞团跳舞，参与贾德森舞蹈剧场，发展出以注意力提问为核心的编舞实践，例如“假如我身体里的每一个细胞同时都有感知的潜能……”。",
+      "why_zh": "海把知觉本身当作舞蹈，为设计者提供了一种“编排注意力而非编排动作”的思路。",
+      "based_zh": "奥斯汀，美国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "bessel-van-der-kolk",
+      "name": "Bessel van der Kolk",
+      "name_zh": "",
+      "kind": "person",
+      "role": "Psychiatrist and trauma researcher",
+      "based": "Boston, US",
+      "bio": "Bessel van der Kolk (born 1943) is a Dutch-born psychiatrist and trauma researcher, author of The Body Keeps the Score (2014).",
+      "why": "His book popularised the view that trauma lives in the body and that yoga, theatre and movement can help, bringing somatic therapy into public debate.",
+      "disciplines": [
+        "health"
+      ],
+      "links": {
+        "site": "https://en.wikipedia.org/wiki/Bessel_van_der_Kolk"
+      },
+      "role_zh": "精神科医生与创伤研究者",
+      "bio_zh": "贝塞尔·范德考克（1943 年生）是荷兰出生的精神科医生与创伤研究者，著有《身体从未忘记》（2014）。",
+      "why_zh": "他的书让“创伤存在于身体中、瑜伽戏剧与动作有助康复”的观点广为人知，把身体疗法带入公共讨论。",
+      "based_zh": "波士顿，美国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    }
+  ],
+  "works": [
+    {
+      "id": "moshe-feldenkrais--feldenkrais-method",
+      "creator_ids": [
+        "moshe-feldenkrais"
+      ],
+      "title": "Feldenkrais Method",
+      "year": 1949,
+      "field": "practices",
+      "sub": "movement-education",
+      "modalities": [
+        "movement",
+        "posture-balance",
+        "whole-soma"
+      ],
+      "lenses": [
+        "body-mind-unity",
+        "attunement",
+        "first-person"
+      ],
+      "kind": "practice",
+      "description": "A teacher talks a group through slow, small, often lying-down movement variations (Awareness Through Movement); in Functional Integration the teacher guides one person's movement by touch. People notice how a small change in one part reorganises the whole self.",
+      "description_zh": "教师用语言引导一群人做缓慢、细小、常常躺着进行的动作变化（动中觉察）；在“功能整合”中，教师用双手引导个人的动作。人们会注意到身体某处的细小改变如何重组整个自我。",
+      "idea_en": "Feldenkrais held that we act according to our self-image, and that sensing, feeling, thinking and moving change together; Höök's soma design group trains in Feldenkrais before designing, and its Soma Mat and Breathing Light grew out of Feldenkrais lessons.",
+      "idea_zh": "费登奎斯认为人按照自我意象行动，感觉、感受、思考与动作会一同改变；Höök 的身体设计团队在设计前先练习费登奎斯，Soma Mat 与 Breathing Light 正是从费登奎斯课中生长出来的。",
+      "method": "Verbally guided sequences of slow, reduced-effort movements with attention to differences, plus hands-on lessons; first set out in Body and Mature Behavior (1949).",
+      "method_zh": "以语言引导、缓慢且减少用力的动作序列，关注前后差异；另有手把手的个别课。最早阐述于《身体与成熟行为》（1949）。",
+      "keywords": [
+        "Feldenkrais",
+        "Awareness Through Movement",
+        "Functional Integration",
+        "self-image",
+        "soma design training",
+        "Soma Mat"
+      ],
+      "also": [
+        "methods"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=e1bjUmxkf5Q"
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/b/b9/Feldenkrais_Awareness_Through_Movement_Lesson.png",
+        "https://upload.wikimedia.org/wikipedia/commons/f/fc/Moshe_Feldenkrais_Demonstrates_Functional_Integration.png"
+      ],
+      "source_url": "https://feldenkrais-method.org",
+      "collections": [
+        "designing-with-the-body"
+      ]
+    },
+    {
+      "id": "f-matthias-alexander--alexander-technique",
+      "creator_ids": [
+        "f-matthias-alexander"
+      ],
+      "title": "Alexander Technique",
+      "year": 1910,
+      "field": "practices",
+      "sub": "movement-education",
+      "modalities": [
+        "posture-balance",
+        "movement",
+        "voice-sound"
+      ],
+      "lenses": [
+        "body-mind-unity",
+        "estrangement",
+        "attunement"
+      ],
+      "kind": "practice",
+      "description": "In lessons, a teacher's light hands and verbal 'directions' help a person pause before an everyday act such as sitting, standing or speaking, and let the head-neck-back relation free up. The person discovers that what feels 'right' is often just habitual.",
+      "description_zh": "课上，教师以轻柔的双手和口头“指引”帮助学习者在坐下、站起或说话等日常动作前先停一下，让头、颈、背之间的关系放松。人会发现，“感觉正确”的往往只是习惯。",
+      "idea_en": "Alexander called the self a 'psycho-physical' unity and showed that sensory appreciation can be unreliable; noticing and inhibiting a habit is itself an estrangement method, and Shusterman's somaesthetics discusses it at length.",
+      "idea_zh": "亚历山大称自我为“心理—生理”统一体，并表明身体感觉的判断并不可靠；觉察并抑制习惯本身就是一种陌生化方法，舒斯特曼的身体美学对此有长篇讨论。",
+      "method": "One-to-one lessons with light touch, practising 'inhibition' (pausing the habitual response) and 'direction' in daily activities; first set out in Man's Supreme Inheritance (1910).",
+      "method_zh": "一对一课程，配合轻触，在日常活动中练习“抑制”（暂停习惯反应）与“指引”；最早阐述于《人的最高遗产》（1910）。",
+      "keywords": [
+        "Alexander Technique",
+        "inhibition",
+        "primary control",
+        "use of the self",
+        "John Dewey",
+        "habit"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=lEmQHuYt404"
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/2/24/Poster_made_to_advertise_services_of_F_M_Alexander.gif",
+        "https://upload.wikimedia.org/wikipedia/commons/0/06/Learning_Alexander_Technique_with_Graham_Fandrei_%2828692247726%29.jpg"
+      ],
+      "source_url": "https://alexandertechniqueusa.org"
+    },
+    {
+      "id": "bonnie-bainbridge-cohen--body-mind-centering",
+      "creator_ids": [
+        "bonnie-bainbridge-cohen"
+      ],
+      "title": "Body-Mind Centering",
+      "year": 1973,
+      "field": "practices",
+      "sub": "movement-education",
+      "modalities": [
+        "whole-soma",
+        "movement",
+        "pain-interoception"
+      ],
+      "lenses": [
+        "body-mind-unity",
+        "first-person",
+        "attunement"
+      ],
+      "kind": "practice",
+      "description": "Students embody one body system at a time (bones, organs, fluids, glands, cells) and the developmental movement patterns of infancy, moving and vocalising from it until they can feel how that system shapes mood and attention.",
+      "description_zh": "学员一次“体现”一个身体系统（骨骼、器官、体液、腺体、细胞）以及婴儿期的发育动作模式，从这个系统出发去动、去发声，直到能感受到它如何塑造情绪与注意力。",
+      "idea_en": "In Body-Mind Centering the mind is found in each tissue: every body system has its own quality of feeling and moving, so a designer can ask which system an interaction speaks to, not just which muscle.",
+      "idea_zh": "在 Body-Mind Centering 里，心就在每一种组织之中：每个身体系统都有自己的感受与运动质感，因此设计者可以追问一个交互在与哪个系统对话，而不只是哪块肌肉。",
+      "method": "Experiential anatomy: touch, imagery, sound and movement explorations of body systems and developmental patterns, taught through the School for Body-Mind Centering founded in 1973.",
+      "method_zh": "体验式解剖学：用触碰、意象、声音与动作探索身体系统和发育模式，经由 1973 年创立的 Body-Mind Centering 学校教授。",
+      "keywords": [
+        "Body-Mind Centering",
+        "BMC",
+        "experiential anatomy",
+        "developmental movement",
+        "embodiment",
+        "fluids"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=UuqXL-ua06g"
+      },
+      "images": [
+        "https://www.bodymindcentering.com/wp-content/uploads/2017/08/bonnie-teaching.jpg"
+      ],
+      "source_url": "https://www.bodymindcentering.com"
+    },
+    {
+      "id": "rudolf-laban--laban-movement-analysis",
+      "creator_ids": [
+        "rudolf-laban",
+        "irmgard-bartenieff"
+      ],
+      "title": "Laban Movement Analysis",
+      "year": 1928,
+      "field": "practices",
+      "sub": "movement-education",
+      "modalities": [
+        "movement",
+        "whole-soma"
+      ],
+      "lenses": [
+        "movement-expression",
+        "first-person"
+      ],
+      "kind": "practice",
+      "description": "A language for observing and doing movement in four categories, Body, Effort, Shape and Space; movers explore Effort qualities such as light or strong, sudden or sustained, direct or indirect, bound or free, and feel how each changes intention and mood.",
+      "description_zh": "一套观察和执行动作的语言，分为身体、力效、形状、空间四个范畴；练习者探索轻或强、突然或持续、直接或间接、束缚或自由等力效质感，感受每一种如何改变意图与情绪。",
+      "idea_en": "Laban treated effort as the inner attitude of the mover made visible, so movement quality is felt meaning; Schiphorst and Fdili Alaoui (a Certified Movement Analyst) use LMA to design and model how movement feels.",
+      "idea_zh": "拉班把“力效”看作动者内在态度的外显，因此动作质感就是被感受到的意义；Schiphorst 与认证动作分析师 Fdili Alaoui 用 LMA 来设计并建模“动作的感觉”。",
+      "method": "Observation, notation (Kinetography Laban, 1928) and embodied exploration of Effort, Shape and Space, extended by Lisa Ullmann, Irmgard Bartenieff and Warren Lamb; taught by certification programs such as LIMS.",
+      "method_zh": "观察、记谱（拉班舞谱，1928）以及对力效、形状、空间的亲身探索，由丽莎·乌尔曼、巴特尼夫与沃伦·兰姆拓展；通过 LIMS 等认证课程教授。",
+      "keywords": [
+        "Laban Movement Analysis",
+        "LMA",
+        "Effort",
+        "BESS",
+        "Labanotation",
+        "movement qualities",
+        "Fdili Alaoui",
+        "Schiphorst"
+      ],
+      "also": [
+        "movement"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=X437LVhmeeg"
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/8d/Laban_and_pupils.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/98/Laban-Effort-graph-labeled.jpg"
+      ],
+      "source_url": "https://labaninstitute.org"
+    },
+    {
+      "id": "irmgard-bartenieff--bartenieff-fundamentals",
+      "creator_ids": [
+        "irmgard-bartenieff"
+      ],
+      "title": "Bartenieff Fundamentals",
+      "year": 1980,
+      "field": "practices",
+      "sub": "movement-education",
+      "modalities": [
+        "movement",
+        "breath",
+        "posture-balance"
+      ],
+      "lenses": [
+        "body-mind-unity",
+        "movement-expression",
+        "care-healing"
+      ],
+      "kind": "practice",
+      "description": "A set of floor-based movement sequences, the 'Basic Six' such as the thigh lift, pelvic shift and arm circles, that connect breath, core and limbs through developmental patterns like head-tail, upper-lower and cross-lateral connectivity.",
+      "description_zh": "一组在地面进行的动作序列，即“基础六式”，如抬大腿、骨盆移动与手臂画圈，经由头尾、上下、对侧等发育连接模式，把呼吸、核心与四肢连在一起。",
+      "idea_en": "Bartenieff insisted that intention and spatial imagination drive physical recovery, so exercises are about where you are going, not muscle strength; for designers, a movement is always movement toward something.",
+      "idea_zh": "巴特尼夫坚持意图与空间想象驱动身体康复，练习关注的是“往哪里去”而不是肌力；对设计者而言，动作总是朝向某处的动作。",
+      "method": "Breath-supported, spatially intended floor sequences based on six patterns of total body connectivity; set out in Body Movement: Coping with the Environment (1980, with Dori Lewis).",
+      "method_zh": "以呼吸支撑、带空间意图的地面序列，基于六种全身连接模式；在《身体动作：应对环境》（1980，与多丽·刘易斯合著）中系统阐述。",
+      "keywords": [
+        "Bartenieff Fundamentals",
+        "Basic Six",
+        "total body connectivity",
+        "developmental patterns",
+        "Laban/Bartenieff"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=HeQgq7L9yOo"
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/3a/Irmgard_Bartenieff.jpg"
+      ],
+      "source_url": "https://labaninstitute.org"
+    },
+    {
+      "id": "thomas-hanna--hanna-somatic-education",
+      "creator_ids": [
+        "thomas-hanna"
+      ],
+      "title": "Hanna Somatic Education",
+      "year": 1976,
+      "field": "practices",
+      "sub": "movement-education",
+      "modalities": [
+        "muscle",
+        "movement",
+        "pain-interoception"
+      ],
+      "lenses": [
+        "body-mind-unity",
+        "first-person",
+        "care-healing"
+      ],
+      "kind": "practice",
+      "description": "Slow 'pandiculation' exercises, in which a person voluntarily contracts a habitually tight muscle group and then releases it very slowly, to regain sensation and control of muscles lost to what Hanna called sensory-motor amnesia.",
+      "description_zh": "缓慢的“伸展收放”（pandiculation）练习：主动收紧长期紧张的肌群，再非常缓慢地放开，以重新获得因汉纳所说“感觉—运动失忆”而失去的感觉与控制。",
+      "idea_en": "Hanna defined soma as the body perceived from within by a first person, as distinct from the body seen from outside; soma design takes both its name and its first-person stance from this definition.",
+      "idea_zh": "汉纳把 soma 定义为由第一人称从内部感知的身体，区别于从外部看见的身体；身体设计的名称与第一人称立场都来自这一定义。",
+      "method": "Guided voluntary contraction and slow release of muscle groups plus hands-on sessions, drawing on Feldenkrais; Hanna coined 'somatics' in 1976.",
+      "method_zh": "引导性的肌群主动收缩与缓慢放松，并配合手法课程，借鉴费登奎斯；汉纳于 1976 年提出“somatics”一词。",
+      "keywords": [
+        "Hanna Somatics",
+        "somatics",
+        "soma",
+        "sensory-motor amnesia",
+        "pandiculation",
+        "first-person"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=elHCMJDE1vI"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Thomas_Louis_Hanna"
+    },
+    {
+      "id": "ida-rolf--structural-integration",
+      "creator_ids": [
+        "ida-rolf"
+      ],
+      "title": "Rolfing Structural Integration",
+      "year": 1971,
+      "field": "practices",
+      "sub": "somatic-therapy",
+      "modalities": [
+        "touch",
+        "posture-balance",
+        "whole-soma"
+      ],
+      "lenses": [
+        "touching-back",
+        "body-mind-unity"
+      ],
+      "kind": "practice",
+      "description": "A series of ten hands-on sessions in which a practitioner works slowly and deeply on connective tissue and gives movement prompts, aiming to reorganise how the whole body stands and moves in gravity.",
+      "description_zh": "由十次手法课程组成：治疗者缓慢而深入地处理结缔组织并给出动作提示，意在重组整个身体在重力中站立与运动的方式。",
+      "idea_en": "Rolf treated posture as an organisation of the whole person in gravity, with emotional and bodily holding inseparable; its health claims are not supported by evidence, but it shaped how somatics thinks about fascia and touch.",
+      "idea_zh": "罗尔夫把姿态看作整个人在重力中的组织方式，情绪与身体的“保持”不可分；其健康功效缺乏证据支持，但它影响了身体学对筋膜与触碰的理解。",
+      "method": "Ten-session manual therapy protocol ('the recipe') on fascia combined with movement education, developed from the 1940s and taught by the Rolf Institute founded in 1971.",
+      "method_zh": "针对筋膜、为期十次的手法治疗方案（“配方”），结合动作教育；自 1940 年代发展，由 1971 年成立的罗尔夫学院教授。",
+      "keywords": [
+        "Rolfing",
+        "Structural Integration",
+        "fascia",
+        "gravity",
+        "manual therapy",
+        "Esalen"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=9_Vwd7-GA3o"
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/7b/Rolfing.jpg"
+      ],
+      "source_url": "https://rolf.org"
+    },
+    {
+      "id": "gerda-alexander--eutony",
+      "creator_ids": [
+        "gerda-alexander"
+      ],
+      "title": "Eutony",
+      "year": 1940,
+      "field": "practices",
+      "sub": "movement-education",
+      "modalities": [
+        "muscle",
+        "touch",
+        "posture-balance"
+      ],
+      "lenses": [
+        "attunement",
+        "body-mind-unity"
+      ],
+      "kind": "practice",
+      "description": "People lie, sit or move while sensing skin, bones and the space inside the body, often with bamboo sticks or balls under them, to find a flexible, well-adapted tone rather than simply relaxing.",
+      "description_zh": "人们躺、坐或移动，同时感受皮肤、骨骼与身体内部的空间，常在身下放竹棍或小球，以找到一种灵活、适应情境的张力，而不是单纯放松。",
+      "idea_en": "Eutony treats tone as a relation between person and situation: good tension is the one that fits the moment, so a design can aim to tune tension rather than to relax the user.",
+      "idea_zh": "优张力法把张力看作人与情境之间的关系：好的张力是与当下相称的张力，因此设计可以去“调谐”张力，而不只是让使用者放松。",
+      "method": "Contact with the floor and small objects, attention to skin and bone, and 'transport' of pressure through the skeleton; Alexander founded her Copenhagen school in 1940 and named the method in 1956.",
+      "method_zh": "借助与地面和小物件的接触，注意皮肤与骨骼，并让压力经由骨架“传导”；亚历山大 1940 年创办哥本哈根学校，1956 年为方法命名。",
+      "keywords": [
+        "Eutony",
+        "Eutonie",
+        "Gerda Alexander",
+        "muscle tone",
+        "skin",
+        "bone",
+        "somatic education"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=srJWpSTGTQo"
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/7e/Gerda_Alexander.jpg"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Gerda_Alexander"
+    },
+    {
+      "id": "mabel-todd--ideokinesis",
+      "creator_ids": [
+        "mabel-todd",
+        "lulu-sweigard"
+      ],
+      "title": "Ideokinesis",
+      "year": 1937,
+      "field": "practices",
+      "sub": "movement-education",
+      "modalities": [
+        "posture-balance",
+        "movement"
+      ],
+      "lenses": [
+        "body-mind-unity",
+        "attunement"
+      ],
+      "kind": "practice",
+      "description": "Lying still in 'constructive rest', a person imagines movements along the skeleton, for example the spine lengthening down or the thigh bones sinking, without doing them, and the body's alignment changes in response.",
+      "description_zh": "在“建设性休息”姿势中静躺，想象沿骨骼发生的动作，例如脊柱向下延长、股骨下沉，但并不真的去做，身体的排列会随之改变。",
+      "idea_en": "Ideokinesis shows that an image is already a motor act: thinking a movement reorganises posture, so imagery is a design material for the body.",
+      "idea_zh": "意念动觉法表明，意象本身就是一种运动行为：想着一个动作就会重组姿态，因此意象是作用于身体的设计材料。",
+      "method": "Guided imagery of 'lines of movement' in a supine rest position, from Mabel Todd's The Thinking Body (1937) and Lulu Sweigard's research on imagery and alignment.",
+      "method_zh": "在仰卧休息姿势中引导想象“动作线”，源自托德的《思考的身体》（1937）与斯威加德关于意象与排列的研究。",
+      "keywords": [
+        "Ideokinesis",
+        "The Thinking Body",
+        "constructive rest",
+        "imagery",
+        "dance somatics",
+        "Lulu Sweigard"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=8nG1DdSkF4o"
+      },
+      "paper": {
+        "url": "https://openlibrary.org/works/OL6916763W",
+        "doi": "",
+        "arxiv": "",
+        "venue": "Book, 1937",
+        "title": "The Thinking Body"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Ideokinesis"
+    },
+    {
+      "id": "charlotte-selver--sensory-awareness",
+      "creator_ids": [
+        "charlotte-selver",
+        "elsa-gindler"
+      ],
+      "title": "Sensory Awareness",
+      "year": 1938,
+      "field": "practices",
+      "sub": "meditation-breath",
+      "modalities": [
+        "whole-soma",
+        "breath",
+        "touch"
+      ],
+      "lenses": [
+        "attunement",
+        "first-person",
+        "body-mind-unity"
+      ],
+      "kind": "practice",
+      "description": "In a class, people simply sit, stand, lie, walk, lift a stone or touch a partner's head, and are asked open questions about what they sense, with no correct form to reach.",
+      "description_zh": "课上，人们只是坐、站、躺、走、拿起一块石头或触碰同伴的头，并被问到开放的问题：你感觉到了什么？没有需要达到的正确形式。",
+      "idea_en": "Gindler and Selver held that everyday acts, done attentively, are enough: noticing how you sit is already practice, which licenses designers to work with ordinary acts rather than special exercises.",
+      "idea_zh": "金德勒与塞尔弗认为，专注地去做日常动作就已足够：觉察自己怎么坐本身就是修习；这允许设计者从日常动作而非特殊练习出发。",
+      "method": "Experiential 'experiments' in everyday activities guided by questions rather than instructions, from Gindler's Berlin work; Selver taught it in the US from 1938 and at Esalen from 1963.",
+      "method_zh": "以提问而非指令引导的日常活动“实验”，源自金德勒在柏林的工作；塞尔弗 1938 年起在美国教授，1963 年起在伊莎兰学院任教。",
+      "keywords": [
+        "Sensory Awareness",
+        "Elsa Gindler",
+        "Charlotte Selver",
+        "Heinrich Jacoby",
+        "Esalen",
+        "everyday activities"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=fDSKUBt-Z9k"
+      },
+      "source_url": "https://www.sensoryawareness.org"
+    },
+    {
+      "id": "emilie-conrad--continuum",
+      "creator_ids": [
+        "emilie-conrad"
+      ],
+      "title": "Continuum",
+      "year": 1967,
+      "field": "practices",
+      "sub": "movement-education",
+      "modalities": [
+        "breath",
+        "voice-sound",
+        "movement"
+      ],
+      "lenses": [
+        "body-mind-unity",
+        "attunement",
+        "more-than-human"
+      ],
+      "kind": "practice",
+      "description": "Practitioners lie or sit and combine breaths and sounds with very small wave-like movements, then rest and sense the aftermath, often discovering spiralling motions that feel more like water than muscle.",
+      "description_zh": "练习者躺或坐，把呼吸与发声结合非常细小的波浪状动作，然后休息并感受余韵，常会发现一种更像水而非肌肉的螺旋运动。",
+      "idea_en": "Conrad saw the body as fluid, continuous with the oceans and with early life forms; designing from this view means working with undulation and resonance instead of discrete commands.",
+      "idea_zh": "康拉德把身体看作流体，与海洋和早期生命形态相连；从这一视角设计，意味着以波动与共振而非离散指令来工作。",
+      "method": "Breath and sound sequences, micro-movement, and 'open attention' rests between explorations; founded by Emilie Conrad in 1967.",
+      "method_zh": "呼吸与发声序列、微动作，以及探索之间的“开放注意”休息；1967 年由艾米莉·康拉德创立。",
+      "keywords": [
+        "Continuum",
+        "Emilie Conrad",
+        "fluid body",
+        "breath",
+        "sound",
+        "micro-movement"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=IAacwbfveys"
+      },
+      "images": [
+        "https://continuummovement.com/wp-content/uploads/2015/12/emilie-1.png"
+      ],
+      "source_url": "https://continuummovement.com"
+    },
+    {
+      "id": "mary-starks-whitehouse--authentic-movement",
+      "creator_ids": [
+        "mary-starks-whitehouse",
+        "janet-adler"
+      ],
+      "title": "Authentic Movement",
+      "year": 1958,
+      "field": "practices",
+      "sub": "dance-improvisation",
+      "modalities": [
+        "movement",
+        "whole-soma"
+      ],
+      "lenses": [
+        "first-person",
+        "intercorporeality",
+        "body-mind-unity"
+      ],
+      "kind": "practice",
+      "description": "A mover closes their eyes and waits for movement to arise, following it without planning, while a witness sits at the edge and watches; afterwards both speak about their experience in the first person.",
+      "description_zh": "动者闭上眼睛，等待动作自己出现并不加计划地跟随它；见证者坐在一旁观看；之后两人都以第一人称讲述各自的体验。",
+      "idea_en": "The practice separates 'I move' from 'I am moved' and trains a non-judging inner witness, a first-person method that designers can borrow for describing felt experience without evaluation.",
+      "idea_zh": "这一修习区分“我在动”与“我被动起来”，并训练一个不评判的内在见证者，是设计者可借用、以不加评价的方式描述亲身体验的第一人称方法。",
+      "method": "Eyes-closed movement with an external witness and first-person spoken reflection; from Whitehouse's Jungian 'movement in depth' (1950s), developed by Janet Adler into the mover–witness discipline.",
+      "method_zh": "闭眼动作、外部见证者与第一人称的口头回顾；源自怀特豪斯基于荣格理论的“深度动作”（1950 年代），由珍妮特·阿德勒发展为“动者—见证者”修习。",
+      "keywords": [
+        "Authentic Movement",
+        "mover and witness",
+        "Janet Adler",
+        "Mary Starks Whitehouse",
+        "active imagination",
+        "witness consciousness"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=fcZGUTy5wYk"
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/9/91/Movers.jpg"
+      ],
+      "source_url": "https://disciplineofauthenticmovement.com"
+    },
+    {
+      "id": "steve-paxton--contact-improvisation",
+      "creator_ids": [
+        "steve-paxton",
+        "nancy-stark-smith"
+      ],
+      "title": "Contact Improvisation",
+      "year": 1972,
+      "field": "practices",
+      "sub": "dance-improvisation",
+      "modalities": [
+        "touch",
+        "posture-balance",
+        "movement"
+      ],
+      "lenses": [
+        "intercorporeality",
+        "movement-expression",
+        "pleasure-play"
+      ],
+      "kind": "practice",
+      "description": "Two or more dancers keep a rolling point of physical contact, sharing weight, falling, lifting and following momentum; the 'Small Dance' of standing still and sensing the reflexes that keep you upright is its basic exercise.",
+      "description_zh": "两名或更多舞者保持一个滚动的身体接触点，分担重量、跌落、托举、顺着动量走；静立并感受维持站立的反射的“小舞”是它的基本练习。",
+      "idea_en": "Contact Improvisation shows that two bodies can think together through touch, faster than conscious decision; for designers of social touch it offers a trained vocabulary of listening through skin and weight.",
+      "idea_zh": "接触即兴表明，两个身体能通过触碰一起“思考”，比有意识的决定更快；对社交触觉的设计者而言，它提供了一套经由皮肤与重量去“聆听”的训练有素的词汇。",
+      "method": "Duet improvisation through shared weight, rolling contact and reflexes, practised in classes and open jams; initiated by Steve Paxton in 1972 (Magnesium) and documented in the Videoda film Fall After Newton (1987).",
+      "method_zh": "以分担重量、滚动接触与反射为基础的双人即兴，在课程与开放“即兴会”中练习；1972 年由帕克斯顿发起（Magnesium），并由 Videoda 影片《牛顿之后的坠落》（1987）记录。",
+      "keywords": [
+        "Contact Improvisation",
+        "CI",
+        "Small Dance",
+        "shared weight",
+        "touch",
+        "jam",
+        "Fall After Newton"
+      ],
+      "also": [
+        "social"
+      ],
+      "video": {
+        "url": "https://vimeo.com/181794954"
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/3e/Contact_Improvisation_Trio_Dojo_Florence.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/e9/Steve_Paxton_2012.jpg"
+      ],
+      "source_url": "https://contactquarterly.com"
+    },
+    {
+      "id": "nancy-stark-smith--underscore",
+      "creator_ids": [
+        "nancy-stark-smith"
+      ],
+      "title": "Underscore",
+      "year": 1990,
+      "field": "practices",
+      "sub": "dance-improvisation",
+      "modalities": [
+        "movement",
+        "touch",
+        "whole-soma"
+      ],
+      "lenses": [
+        "intercorporeality",
+        "attunement"
+      ],
+      "kind": "practice",
+      "description": "A long group improvisation, often three hours or more, that follows a shared map of phases: arriving alone, the 'small dance', expanding into space and contact with others, and slowly returning to stillness and reflection.",
+      "description_zh": "一场通常长达三小时以上的集体即兴，依循一张共享的阶段地图：独自抵达、“小舞”、扩展到空间并与他人接触，再缓慢回到静止与回顾。",
+      "idea_en": "The Underscore gives structure to emergence: a common score of states lets many bodies improvise together without a leader, a model for designing open-ended collective somatic experiences.",
+      "idea_zh": "Underscore 为“涌现”提供结构：一份关于状态的共同乐谱，让许多身体无需领导者即可一起即兴，是设计开放式集体身体体验的范例。",
+      "method": "Scored group improvisation with named phases and graphic symbols, developed by Nancy Stark Smith from 1990 within the Contact Improvisation community.",
+      "method_zh": "带有阶段命名与图形符号的有谱集体即兴，由南希·斯塔克·史密斯自 1990 年起在接触即兴社群中发展。",
+      "keywords": [
+        "Underscore",
+        "Nancy Stark Smith",
+        "score",
+        "Contact Improvisation",
+        "collective improvisation",
+        "Small Dance"
+      ],
+      "also": [
+        "social"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=BFWRF0WXkAs"
+      },
+      "source_url": "https://contactquarterly.com"
+    },
+    {
+      "id": "anna-halprin--tamalpa-life-art-process",
+      "creator_ids": [
+        "anna-halprin",
+        "daria-halprin"
+      ],
+      "title": "Tamalpa Life/Art Process",
+      "year": 1978,
+      "field": "practices",
+      "sub": "somatic-therapy",
+      "modalities": [
+        "movement",
+        "whole-soma"
+      ],
+      "lenses": [
+        "body-mind-unity",
+        "care-healing",
+        "movement-expression"
+      ],
+      "kind": "practice",
+      "description": "Participants move a theme from their life, draw what they felt, speak or write about it, and dance again, cycling between body, image and word; Anna Halprin developed it from her own dances through cancer.",
+      "description_zh": "参与者把生活中的一个主题动出来，画下感受，说或写下来，再跳一次，在身体、图像与语言之间循环；安娜·哈普林从自己与癌症共处时的舞蹈中发展出它。",
+      "idea_en": "The process assumes that body, feeling and imagination speak the same story in different languages, so moving between them (the 'psychokinetic visualisation' loop) deepens both; designers can borrow this loop for somatic reflection.",
+      "idea_zh": "这一历程假设身体、情感与想象用不同的语言讲述同一个故事，在它们之间转换（“心理动觉视觉化”循环）会让两者都更深；设计者可以借用这一循环做身体反思。",
+      "method": "Movement, drawing and verbal reflection in a structured cycle, informed by the RSVP Cycles scoring method; taught by the Tamalpa Institute founded in 1978.",
+      "method_zh": "动作、绘画与口头反思组成的结构化循环，受 RSVP 循环乐谱方法影响；由 1978 年创立的塔玛帕学院教授。",
+      "keywords": [
+        "Anna Halprin",
+        "Daria Halprin",
+        "Tamalpa Institute",
+        "Life/Art Process",
+        "RSVP Cycles",
+        "expressive arts therapy"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=yVQ50oG2bnE"
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/77/Anna_Halprin_Breath_Made_Visible.jpg",
+        "https://tamalpa.org/wp-content/uploads/about_03-1200x550.jpg"
+      ],
+      "source_url": "https://www.tamalpa.org"
+    },
+    {
+      "id": "ohad-naharin--gaga",
+      "creator_ids": [
+        "ohad-naharin"
+      ],
+      "title": "Gaga",
+      "year": 2003,
+      "field": "practices",
+      "sub": "dance-improvisation",
+      "modalities": [
+        "movement",
+        "whole-soma"
+      ],
+      "lenses": [
+        "attunement",
+        "pleasure-play",
+        "movement-expression"
+      ],
+      "kind": "practice",
+      "description": "A teacher talks continuously, layering images such as 'float', 'shaking' or letting the body melt, while dancers or non-dancers keep moving for an hour without mirrors, attending to sensation, effort and pleasure.",
+      "description_zh": "教师不断说话，叠加“漂浮”“抖动”或让身体融化等意象，舞者或非舞者在没有镜子的房间里连续动一小时，关注感觉、用力与愉悦。",
+      "idea_en": "Gaga puts listening to sensation before telling the body what to do, and keeps earlier instructions active while new ones arrive; it is a model for designing layered, continuous guidance rather than step-by-step commands.",
+      "idea_zh": "Gaga 先倾听感觉，再告诉身体做什么，并在新指令到来时仍让先前的指令保持有效；这是设计“层叠、连续的引导”而非逐步命令的范例。",
+      "method": "Improvised classes guided by layered verbal imagery, without mirrors, in Gaga/dancers and Gaga/people tracks; developed with Batsheva from the 1990s and named Gaga in 2003.",
+      "method_zh": "由层叠的语言意象引导的即兴课，不用镜子，分为 Gaga/舞者与 Gaga/大众两个方向；自 1990 年代在巴希瓦舞团发展，2003 年命名为 Gaga。",
+      "keywords": [
+        "Gaga",
+        "Ohad Naharin",
+        "Batsheva",
+        "movement language",
+        "no mirrors",
+        "pleasure and effort"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=CBTWp-6PgFQ"
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/de/Ohad_Naharin._Herzliya_Conference_2016_2034_%28cropped%29.jpg"
+      ],
+      "source_url": "https://www.gagapeople.com"
+    },
+    {
+      "id": "joan-skinner--skinner-releasing-technique",
+      "creator_ids": [
+        "joan-skinner"
+      ],
+      "title": "Skinner Releasing Technique",
+      "year": 1966,
+      "field": "practices",
+      "sub": "dance-improvisation",
+      "modalities": [
+        "movement",
+        "posture-balance"
+      ],
+      "lenses": [
+        "attunement",
+        "movement-expression"
+      ],
+      "kind": "practice",
+      "description": "Dancers are led through poetic images, such as being suspended by threads or moving like seaweed, often with a partner's hands-on support, until held tension releases and movement becomes spontaneous.",
+      "description_zh": "舞者被诗意的意象引导，例如被细线悬起、像海草一样摆动，常配合同伴的手把手支持，直到保持的紧张释放、动作变得自发。",
+      "idea_en": "In Skinner Releasing, technique and creativity are the same act: alignment is found through imagination rather than correction, a stance close to soma design's joining of craft and felt experience.",
+      "idea_zh": "在斯金纳释放技巧中，技术与创造是同一件事：通过想象而非纠正找到排列，这与身体设计把手艺与亲身体验结合的立场相近。",
+      "method": "Image-guided classes, partner 'hands-on' studies and improvisation, first shared with students at the University of Illinois in 1966–67.",
+      "method_zh": "以意象引导的课程、同伴手把手练习与即兴，1966–67 年首次在伊利诺伊大学与学生分享。",
+      "keywords": [
+        "Skinner Releasing Technique",
+        "SRT",
+        "release technique",
+        "imagery",
+        "Joan Skinner",
+        "dance somatics"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=w_kvkPfI07c"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Skinner_Releasing_Technique"
+    },
+    {
+      "id": "mary-overlie--six-viewpoints",
+      "creator_ids": [
+        "mary-overlie"
+      ],
+      "title": "Six Viewpoints",
+      "year": 1978,
+      "field": "practices",
+      "sub": "dance-improvisation",
+      "modalities": [
+        "movement",
+        "whole-soma"
+      ],
+      "lenses": [
+        "intercorporeality",
+        "movement-expression",
+        "attunement"
+      ],
+      "kind": "practice",
+      "description": "Performers practise noticing and working with six materials of performance, space, shape, time, emotion, movement and story, one at a time, in solo and group improvisations.",
+      "description_zh": "表演者在独舞与集体即兴中，一次只关注并运用一种表演材料：空间、形状、时间、情感、动作、故事。",
+      "idea_en": "The Viewpoints treat attention as a skill that can be split into channels; designers use this to structure what participants notice in embodied ideation and bodystorming.",
+      "idea_zh": "“观点”把注意力看作可以分频道训练的技能；设计者用它来组织参与者在具身构思与身体风暴中关注什么。",
+      "method": "Improvisation exercises organised by six 'viewpoints', taught in NYU's Experimental Theater Wing since 1978 and later adapted by Anne Bogart and Tina Landau.",
+      "method_zh": "以六个“观点”组织的即兴练习，1978 年起在纽约大学实验剧场系教授，后被安妮·博加特与蒂娜·兰道改编。",
+      "keywords": [
+        "Six Viewpoints",
+        "Viewpoints",
+        "Mary Overlie",
+        "improvisation",
+        "theater",
+        "attention"
+      ],
+      "also": [
+        "methods"
+      ],
+      "video": {
+        "url": "https://vimeo.com/160501353"
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/da/Mary_Overlie.jpg"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Mary_Overlie"
+    },
+    {
+      "id": "pauline-oliveros--deep-listening",
+      "creator_ids": [
+        "pauline-oliveros"
+      ],
+      "title": "Deep Listening",
+      "year": 1971,
+      "field": "practices",
+      "sub": "meditation-breath",
+      "modalities": [
+        "voice-sound",
+        "breath",
+        "whole-soma"
+      ],
+      "lenses": [
+        "attunement",
+        "intercorporeality",
+        "more-than-human"
+      ],
+      "kind": "practice",
+      "description": "Groups perform text scores that ask them to listen to everything, including their own body sounds and the room, and to sound or stay silent in response; workshops mix body work, dreams and listening walks.",
+      "description_zh": "团体演绎文字乐谱，被要求聆听一切，包括自身的身体声音和房间，并以发声或沉默回应；工作坊还结合身体练习、梦境与聆听漫步。",
+      "idea_en": "Oliveros distinguished hearing from listening: listening is a bodily, relational attention that can be trained, which invites designers to treat sound as something the whole soma takes part in.",
+      "idea_zh": "奥利维罗斯区分了“听见”与“聆听”：聆听是可以训练的身体性、关系性注意；这邀请设计者把声音当作整个身体参与其中的事。",
+      "method": "Listening and sounding exercises, text scores (Sonic Meditations, 1971) and group retreats; named Deep Listening after a 1988 recording in the Fort Worden cistern.",
+      "method_zh": "聆听与发声练习、文字乐谱（《声音冥想》，1971）和团体静修；因 1988 年在沃登堡蓄水池的录音而得名“深度聆听”。",
+      "keywords": [
+        "Deep Listening",
+        "Pauline Oliveros",
+        "Sonic Meditations",
+        "listening",
+        "text score",
+        "sonic awareness"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=Qgfgve0quYE"
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/0e/OliverosOM20.jpg"
+      ],
+      "source_url": "https://www.deeplistening.rpi.edu"
+    },
+    {
+      "id": "jon-kabat-zinn--mbsr",
+      "creator_ids": [
+        "jon-kabat-zinn"
+      ],
+      "title": "Mindfulness-Based Stress Reduction (MBSR)",
+      "year": 1979,
+      "field": "practices",
+      "sub": "meditation-breath",
+      "modalities": [
+        "breath",
+        "whole-soma",
+        "pain-interoception"
+      ],
+      "lenses": [
+        "attunement",
+        "care-healing",
+        "first-person"
+      ],
+      "kind": "practice",
+      "description": "An eight-week course in which participants learn the body scan, sitting meditation on the breath and gentle yoga, and bring non-judging attention to pain, stress and daily routines.",
+      "description_zh": "为期八周的课程，参与者学习身体扫描、以呼吸为对象的静坐和温和的瑜伽，并把不评判的注意带入疼痛、压力与日常生活。",
+      "idea_en": "MBSR framed attention to bodily sensation as a secular clinical skill; its body-first practices became the default template that many biofeedback and wellbeing technologies imitate, often without the non-striving attitude.",
+      "idea_zh": "正念减压把对身体感受的注意发展为一种世俗的临床技能；它以身体为先的练习成为许多生物反馈与健康科技模仿的默认模板，但常常丢掉了“不强求”的态度。",
+      "method": "Weekly group sessions, a day-long retreat and daily home practice with guided recordings; started at the University of Massachusetts Medical School in 1979.",
+      "method_zh": "每周团体课程、一日静修和每天的家庭练习（配合引导录音）；1979 年始于马萨诸塞大学医学院。",
+      "keywords": [
+        "MBSR",
+        "mindfulness",
+        "Jon Kabat-Zinn",
+        "stress",
+        "meditation",
+        "UMass"
+      ],
+      "also": [
+        "care"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=oqWIqRwCzJA"
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/b/b8/Jon_Kabat-Zinn_%282018%29.png"
+      ],
+      "source_url": "https://www.ummhealth.org/center-mindfulness"
+    },
+    {
+      "id": "jon-kabat-zinn--body-scan",
+      "creator_ids": [
+        "jon-kabat-zinn"
+      ],
+      "title": "Body Scan",
+      "year": 1979,
+      "field": "practices",
+      "sub": "meditation-breath",
+      "modalities": [
+        "whole-soma",
+        "pain-interoception",
+        "breath"
+      ],
+      "lenses": [
+        "attunement",
+        "first-person",
+        "body-mind-unity"
+      ],
+      "kind": "practice",
+      "description": "Lying down, a person moves attention slowly through the body, from the toes of one foot up to the crown of the head, noticing whatever sensations are present, including none, and breathing into each region.",
+      "description_zh": "人躺下来，让注意力从一只脚的脚趾开始，缓慢地移动到头顶，注意此刻存在的任何感觉（包括没有感觉），并向每个部位“呼吸”。",
+      "idea_en": "The body scan is the simplest tool for turning inward and making the body available to design; KTH's Teaching Soma Design course (DIS 2019) used body scans with Feldenkrais to widen students' design space.",
+      "idea_zh": "身体扫描是向内转、让身体成为设计材料的最简单工具；KTH 的“教授身体设计”课程（DIS 2019）把身体扫描与费登奎斯结合，拓宽学生的设计空间。",
+      "method": "A 30–45 minute guided sweep of attention through body regions, adapted in MBSR from the Burmese Vipassana tradition of U Ba Khin and S. N. Goenka.",
+      "method_zh": "30–45 分钟的引导练习，让注意逐区扫过身体；MBSR 将其改编自乌巴庆与葛印卡的缅甸内观传统。",
+      "keywords": [
+        "body scan",
+        "MBSR",
+        "interoception",
+        "attention",
+        "soma design training",
+        "Teaching Soma Design"
+      ],
+      "also": [
+        "methods"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=_DTmGtznab4"
+      }
+    },
+    {
+      "id": "s-n-goenka--vipassana",
+      "creator_ids": [
+        "s-n-goenka"
+      ],
+      "title": "Vipassana Meditation (as taught by S. N. Goenka)",
+      "year": 1969,
+      "field": "practices",
+      "sub": "meditation-breath",
+      "modalities": [
+        "breath",
+        "whole-soma",
+        "pain-interoception"
+      ],
+      "lenses": [
+        "attunement",
+        "first-person",
+        "body-mind-unity"
+      ],
+      "kind": "practice",
+      "description": "In a silent ten-day residential course, meditators first watch the breath at the nostrils (Anapana) and then sweep attention systematically through bodily sensations, observing them without reacting.",
+      "description_zh": "在为期十天的禁语住宿课程中，禅修者先观察鼻孔处的呼吸（安那般那），再系统地让注意扫过全身感受，只观察而不反应。",
+      "idea_en": "The technique treats mind and body as one flow of changing sensation and trains equanimity towards it; it is a direct source of the clinical body scan that soma design workshops use.",
+      "idea_zh": "这一方法把身与心视为一股不断变化的感受之流，并训练对它的平等心；它是身体设计工作坊所用的临床身体扫描的直接来源。",
+      "method": "Ten-day silent retreats with fixed timetables, recorded instructions and evening discourses, offered free worldwide since Goenka began teaching in India in 1969.",
+      "method_zh": "按固定作息进行的十日禁语静修，配合录音指导与晚间开示；葛印卡 1969 年在印度开始教学，此后在全球免费开设。",
+      "keywords": [
+        "Vipassana",
+        "S. N. Goenka",
+        "U Ba Khin",
+        "Anapana",
+        "body sweeping",
+        "equanimity"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=EmcgGP-RSGc"
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/b/bf/Global_Vipassana_Pagoda_2.jpg"
+      ],
+      "source_url": "https://www.dhamma.org"
+    },
+    {
+      "id": "eugene-gendlin--focusing",
+      "creator_ids": [
+        "eugene-gendlin"
+      ],
+      "title": "Focusing",
+      "year": 1969,
+      "field": "practices",
+      "sub": "somatic-therapy",
+      "modalities": [
+        "whole-soma",
+        "pain-interoception"
+      ],
+      "lenses": [
+        "first-person",
+        "body-mind-unity",
+        "attunement"
+      ],
+      "kind": "practice",
+      "description": "A person turns attention to the middle of the body and waits for a vague 'felt sense' of a situation, then tries words or images against it until one fits and the body registers a 'felt shift'.",
+      "description_zh": "人把注意转向身体中部，等待关于某个处境的模糊“感觉感”（felt sense），再用词语或意象去对照，直到有一个契合、身体出现“感觉转变”（felt shift）。",
+      "idea_en": "Gendlin showed that meaning is bodily before it is verbal: the felt sense knows more than we can say, which grounds first-person methods where designers articulate what a design feels like.",
+      "idea_zh": "简德林表明，意义在成为语言之前是身体性的：感觉感知道的比我们能说出的更多，这为设计者表述“设计感觉如何”的第一人称方法提供了基础。",
+      "method": "Six steps (clearing a space, felt sense, handle, resonating, asking, receiving), practised alone or in listening partnerships; first described in a 1969 paper from Gendlin's psychotherapy research with Carl Rogers.",
+      "method_zh": "六个步骤（清理空间、感觉感、把手、共鸣、询问、接收），可独自或在“聆听伙伴”中练习；最早见于简德林 1969 年基于与罗杰斯合作的心理治疗研究发表的论文。",
+      "keywords": [
+        "Focusing",
+        "felt sense",
+        "felt shift",
+        "Eugene Gendlin",
+        "first-person",
+        "micro-phenomenology"
+      ],
+      "also": [
+        "methods"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=4tvGdqIA27I"
+      },
+      "paper": {
+        "url": "https://doi.org/10.1037/h0088716",
+        "doi": "10.1037/h0088716",
+        "arxiv": "",
+        "venue": "Psychotherapy: Theory, Research & Practice 1969",
+        "title": "Focusing"
+      },
+      "source_url": "https://focusing.org"
+    },
+    {
+      "id": "peter-levine--somatic-experiencing",
+      "creator_ids": [
+        "peter-levine"
+      ],
+      "title": "Somatic Experiencing",
+      "year": 1989,
+      "field": "practices",
+      "sub": "somatic-therapy",
+      "modalities": [
+        "pain-interoception",
+        "whole-soma",
+        "movement"
+      ],
+      "lenses": [
+        "care-healing",
+        "first-person",
+        "body-mind-unity"
+      ],
+      "kind": "practice",
+      "description": "A practitioner helps a client track small bodily sensations, such as warmth, trembling or the urge to push, and moves attention slowly between activation and resources so that stuck survival responses can complete.",
+      "description_zh": "治疗者帮助来访者追踪细小的身体感觉，如温热、颤抖或想推开的冲动，并让注意在激活与资源之间缓慢往返，使卡住的生存反应得以完成。",
+      "idea_en": "Levine treats trauma as an incomplete bodily response rather than only a memory; his ideas of titration (small doses) and pendulation (swinging between states) are useful pacing rules for any design that stirs strong feeling.",
+      "idea_zh": "莱文把创伤看作未完成的身体反应，而不只是记忆；他的“滴定”（小剂量）与“摆荡”（在状态之间来回）是任何会激起强烈感受的设计都可用的节奏原则。",
+      "method": "Talk-and-sensation sessions using interoceptive tracking, titration and pendulation, developed by Levine from the 1970s and formalised under this name in the late 1980s; clinical evidence is still limited.",
+      "method_zh": "以内感受追踪、滴定与摆荡为核心的对话与感觉疗程，莱文自 1970 年代起发展，1980 年代末以此名称确立；临床证据仍有限。",
+      "keywords": [
+        "Somatic Experiencing",
+        "SE",
+        "Peter Levine",
+        "trauma",
+        "titration",
+        "pendulation",
+        "interoception"
+      ],
+      "also": [
+        "care"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=ByalBx85iC8"
+      },
+      "source_url": "https://traumahealing.org"
+    },
+    {
+      "id": "ron-kurtz--hakomi",
+      "creator_ids": [
+        "ron-kurtz"
+      ],
+      "title": "Hakomi Method",
+      "year": 1981,
+      "field": "practices",
+      "sub": "somatic-therapy",
+      "modalities": [
+        "whole-soma",
+        "touch"
+      ],
+      "lenses": [
+        "care-healing",
+        "first-person",
+        "attunement"
+      ],
+      "kind": "practice",
+      "description": "The client settles into mindfulness and the therapist offers a small experiment, such as a phrase ('you are welcome here') or a light touch, then both study the spontaneous bodily and emotional reaction.",
+      "description_zh": "来访者进入正念状态，治疗者提供一个小实验，例如一句话（“这里欢迎你”）或轻微的触碰，然后两人一起研究随之出现的身体与情绪反应。",
+      "idea_en": "Hakomi assumes that core beliefs are organised in the body and can be studied in mindful states; its gentle 'probes' are a template for designing stimuli that reveal rather than direct felt experience.",
+      "idea_zh": "哈科米假设核心信念组织在身体之中，可以在正念状态下被研究；它温和的“探针”为设计“揭示而非引导”亲身体验的刺激提供了模板。",
+      "method": "Mindfulness-based assisted self-study with verbal and touch 'probes', built on principles of nonviolence, organicity and mind-body holism; developed by Ron Kurtz in the 1970s, taught by the Hakomi Institute since 1981.",
+      "method_zh": "基于正念的辅助式自我探索，使用语言与触碰“探针”，以非暴力、有机性与身心整体性为原则；由库尔茨在 1970 年代发展，1981 年起由哈科米学院教授。",
+      "keywords": [
+        "Hakomi",
+        "Ron Kurtz",
+        "mindfulness",
+        "body-centered psychotherapy",
+        "probe",
+        "core beliefs"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=rcRda7-tsXU"
+      },
+      "source_url": "https://hakomiinstitute.com"
+    },
+    {
+      "id": "marian-chace--dance-movement-therapy",
+      "creator_ids": [
+        "marian-chace"
+      ],
+      "title": "Dance/Movement Therapy",
+      "year": 1942,
+      "field": "practices",
+      "sub": "somatic-therapy",
+      "modalities": [
+        "movement",
+        "whole-soma"
+      ],
+      "lenses": [
+        "care-healing",
+        "intercorporeality",
+        "movement-expression"
+      ],
+      "kind": "practice",
+      "description": "In a Chace circle, a therapist picks up and reflects each participant's movements and rhythms, builds a shared group rhythm and uses it to open expression and contact among people who may not speak.",
+      "description_zh": "在蔡斯式的圆圈中，治疗者捕捉并回映每位参与者的动作与节奏，建立共同的团体节奏，用它为可能无法言语的人打开表达与连接。",
+      "idea_en": "Chace showed that mirroring another's movement is a form of empathy that can reach where words cannot; designers of synchrony and shared biosignals are working in the same territory.",
+      "idea_zh": "蔡斯表明，镜像他人的动作是一种能抵达语言无法抵达之处的同理；做同步与共享生物信号的设计者正身处同一领域。",
+      "method": "Group circles with mirroring, rhythmic group action, symbolism and verbal reflection; begun by Chace with psychiatric patients at St. Elizabeths Hospital in 1942.",
+      "method_zh": "以镜像、团体节奏动作、象征与口头回应组成的团体圆圈；1942 年蔡斯在圣伊丽莎白医院与精神科病人一起开始。",
+      "keywords": [
+        "dance/movement therapy",
+        "DMT",
+        "Marian Chace",
+        "mirroring",
+        "ADTA",
+        "group rhythm"
+      ],
+      "also": [
+        "care"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=0lEYgtyLA8k"
+      },
+      "source_url": "https://en.wikipedia.org/wiki/Marian_Chace"
+    },
+    {
+      "id": "marion-rosen--rosen-method",
+      "creator_ids": [
+        "marion-rosen"
+      ],
+      "title": "Rosen Method Bodywork",
+      "year": 1980,
+      "field": "practices",
+      "sub": "somatic-therapy",
+      "modalities": [
+        "touch",
+        "breath",
+        "pain-interoception"
+      ],
+      "lenses": [
+        "touching-back",
+        "care-healing",
+        "attunement"
+      ],
+      "kind": "practice",
+      "description": "The client lies on a table while the practitioner rests hands on places where breath does not move and muscles are held, and gently names what they notice, so feelings connected to that holding can surface.",
+      "description_zh": "来访者躺在治疗床上，治疗者把手放在呼吸不流动、肌肉紧绷的位置，轻声说出所注意到的，让与这种“保持”相关的情感浮现。",
+      "idea_en": "Rosen Method's touch listens rather than manipulates; it models how a device that touches the body could invite awareness instead of correcting posture.",
+      "idea_zh": "罗森疗法的触碰是聆听而非操控；它示范了一个触碰身体的装置如何可以邀请觉察，而不是纠正姿态。",
+      "method": "Gentle 'listening' touch combined with dialogue about sensation and breath, rooted in Gindler's work via Lucy Heyer; the Rosen Institute was formed in 1980.",
+      "method_zh": "温和的“聆听式”触碰结合关于感觉与呼吸的对话，经由露西·海尔承接金德勒的工作；罗森学院成立于 1980 年。",
+      "keywords": [
+        "Rosen Method",
+        "Marion Rosen",
+        "listening touch",
+        "breath",
+        "bodywork",
+        "Elsa Gindler"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=HuGMM9njS24"
+      },
+      "source_url": "https://rosenmethod.org"
+    },
+    {
+      "id": "ilse-middendorf--perceptible-breath",
+      "creator_ids": [
+        "ilse-middendorf"
+      ],
+      "title": "The Perceptible Breath (Der Erfahrbare Atem)",
+      "year": 1965,
+      "field": "practices",
+      "sub": "meditation-breath",
+      "modalities": [
+        "breath",
+        "voice-sound",
+        "touch"
+      ],
+      "lenses": [
+        "attunement",
+        "first-person",
+        "body-mind-unity"
+      ],
+      "kind": "practice",
+      "description": "Sitting or lying, people let the breath come and go by itself and sense where it moves in the body, using pressure points, stretches, vowel sounds and a teacher's touch to explore breath 'spaces'.",
+      "description_zh": "人们坐着或躺着，让呼吸自己来去，并感受它在身体何处流动，借助按压点、伸展、元音发声和教师的触碰去探索呼吸的“空间”。",
+      "idea_en": "Middendorf's rule 'I let my breath come, I let it go, and wait until it comes by itself' contrasts with breath-pacing technology: the designer's job may be to make breath perceptible rather than to control it.",
+      "idea_zh": "米登多夫的原则“我让呼吸来，让它走，并等待它自己再来”与呼吸节拍类技术形成对照：设计者的任务或许是让呼吸可被感知，而不是控制它。",
+      "method": "Breath sensing with pressure points, movement, vowel resonance and hands-on work; Middendorf founded her breath-therapy institute in Berlin in 1965.",
+      "method_zh": "结合按压点、动作、元音共鸣与手法的呼吸感知练习；米登多夫 1965 年在柏林创立呼吸治疗学院。",
+      "keywords": [
+        "Middendorf",
+        "Erfahrbarer Atem",
+        "perceptible breath",
+        "breathwork",
+        "vowel",
+        "breath therapy"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=i7Ys151xqhg"
+      },
+      "source_url": "https://de.wikipedia.org/wiki/Ilse_Middendorf"
+    },
+    {
+      "id": "joseph-pilates--contrology",
+      "creator_ids": [
+        "joseph-pilates"
+      ],
+      "title": "Contrology (Pilates)",
+      "year": 1934,
+      "field": "practices",
+      "sub": "movement-education",
+      "modalities": [
+        "muscle",
+        "breath",
+        "posture-balance"
+      ],
+      "lenses": [
+        "body-politics",
+        "movement-expression"
+      ],
+      "kind": "practice",
+      "description": "A sequence of precise floor exercises and exercises on spring-loaded apparatus such as the Reformer, done with coordinated breathing and attention to the body's centre.",
+      "description_zh": "一组在地面及弹簧器械（如 Reformer 核心床）上进行的精确练习，配合协调的呼吸与对身体中心的注意。",
+      "idea_en": "Pilates wrote that Contrology 'begins with mind control over muscles', a mind-over-body model of movement education; comparing it with Feldenkrais or Gindler shows what shifts when control gives way to sensing.",
+      "idea_zh": "普拉提写道，控制术“始于心对肌肉的控制”，这是一种“心驾驭身”的二元论动作教育模式；把它与费登奎斯或金德勒对照，可以看到从“控制”转向“感知”时发生了什么变化。",
+      "method": "Mat and apparatus exercises with breath and core engagement, taught in Pilates's New York studio and set out in Your Health (1934) and Return to Life Through Contrology (1945).",
+      "method_zh": "配合呼吸与核心参与的垫上及器械练习，在普拉提纽约工作室教授，阐述于《你的健康》（1934）与《通过控制术回归生活》（1945）。",
+      "keywords": [
+        "Pilates",
+        "Contrology",
+        "Joseph Pilates",
+        "Reformer",
+        "core",
+        "mind over body"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=nQnLYoUHzps"
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/b/b8/Pilates_reformer.jpg"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Pilates"
+    },
+    {
+      "id": "bks-iyengar--iyengar-yoga",
+      "creator_ids": [
+        "bks-iyengar"
+      ],
+      "title": "Iyengar Yoga",
+      "year": 1966,
+      "field": "practices",
+      "sub": "movement-education",
+      "modalities": [
+        "posture-balance",
+        "breath",
+        "pain-interoception"
+      ],
+      "lenses": [
+        "attunement",
+        "body-mind-unity",
+        "care-healing"
+      ],
+      "kind": "practice",
+      "description": "Students hold yoga postures with exact attention to alignment, using belts, blocks, blankets and chairs so that each person can feel the intended action of the pose in their own body.",
+      "description_zh": "学员以对排列的精确注意保持瑜伽体式，借助带子、砖、毯子和椅子，使每个人都能在自己身体里感受到体式要求的动作。",
+      "idea_en": "Iyengar used precise alignment to bring awareness into every part of the body, down to the skin and the breath; his props show how external objects can help a body feel from within, a precedent for supportive soma design artefacts.",
+      "idea_zh": "艾扬格借助精确的排列把觉察带到身体的每一处，直至皮肤与呼吸；他的辅具表明外部物件可以帮助身体从内部去感受，是支持性身体设计物件的先例。",
+      "method": "Detailed alignment instruction, long holds, sequencing and props, set out in Light on Yoga (1966); yoga as practised in Western studios.",
+      "method_zh": "细致的排列指导、长时间停留、序列编排与辅具，阐述于《瑜伽之光》（1966）；即西方瑜伽馆中的练习方式。",
+      "keywords": [
+        "Iyengar Yoga",
+        "B. K. S. Iyengar",
+        "Light on Yoga",
+        "props",
+        "alignment",
+        "asana"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=Hs4ZqJwR14o"
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/32/Eyal_Shifroni_in_Vasisthasana_with_props.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/01/BKS_Iyengar.jpg"
+      ],
+      "source_url": "https://bksiyengar.com"
+    },
+    {
+      "id": "moshe-feldenkrais--awareness-through-movement",
+      "creator_ids": [
+        "moshe-feldenkrais"
+      ],
+      "title": "Awareness Through Movement",
+      "year": 1972,
+      "field": "practices",
+      "sub": "movement-education",
+      "modalities": [
+        "movement",
+        "posture-balance",
+        "breath"
+      ],
+      "lenses": [
+        "body-mind-unity",
+        "attunement",
+        "first-person"
+      ],
+      "kind": "publication",
+      "description": "Feldenkrais's book explains why we act according to our self-image and gives twelve lessons, such as lifting the head or coordinating flexors and extensors, that readers do lying on the floor.",
+      "description_zh": "费登奎斯在书中解释了人为何按照自我意象行动，并给出十二节课，例如抬头、协调屈肌与伸肌，读者躺在地上即可练习。",
+      "idea_en": "Its core claim, that every action involves moving, sensing, feeling and thinking together, is the practical non-dualism soma designers adopt when they design from Feldenkrais lessons.",
+      "idea_zh": "书的核心主张是每一个动作都同时包含运动、感觉、感受与思考，这正是身体设计者从费登奎斯课出发设计时所采纳的实践性非二元论。",
+      "method": "Theory chapters on self-image and learning followed by twelve scripted Awareness Through Movement lessons; Harper & Row, 1972.",
+      "method_zh": "关于自我意象与学习的理论章节，加上十二节有脚本的“动中觉察”课程；Harper & Row，1972 年。",
+      "keywords": [
+        "Feldenkrais",
+        "Awareness Through Movement",
+        "self-image",
+        "somatic education",
+        "book"
+      ],
+      "images": [
+        "https://i.harperapps.com/covers/9780062503220.jpg"
+      ],
+      "paper": {
+        "url": "https://www.harpercollins.ca/9780062503220/awareness-through-movement/",
+        "doi": "",
+        "arxiv": "",
+        "venue": "Harper & Row 1972",
+        "title": "Awareness Through Movement: Health Exercises for Personal Growth"
+      }
+    },
+    {
+      "id": "bonnie-bainbridge-cohen--sensing-feeling-and-action",
+      "creator_ids": [
+        "bonnie-bainbridge-cohen"
+      ],
+      "title": "Sensing, Feeling, and Action",
+      "year": 1993,
+      "field": "practices",
+      "sub": "movement-education",
+      "modalities": [
+        "whole-soma",
+        "movement",
+        "pain-interoception"
+      ],
+      "lenses": [
+        "body-mind-unity",
+        "first-person"
+      ],
+      "kind": "publication",
+      "description": "A collection of Bainbridge Cohen's essays and interviews from Contact Quarterly (1980 onward) on organs, glands, fluids, reflexes, the senses and developmental movement, with explorations readers can try.",
+      "description_zh": "汇集了班布里奇·科恩自 1980 年起在《Contact Quarterly》发表的文章与访谈，涉及器官、腺体、体液、反射、感官与发育动作，并附有读者可以尝试的探索练习。",
+      "idea_en": "The book argues that perception is an action: how we move shapes what we can sense and feel, so designing a sensation also designs a way of moving.",
+      "idea_zh": "书中认为知觉本身是一种行动：我们如何动，塑造了我们能感觉与感受到什么；因此设计一种感觉，也就是在设计一种动的方式。",
+      "method": "Essays, interviews and experiential exercises on the body systems of Body-Mind Centering; Contact Editions, 1993.",
+      "method_zh": "关于 Body-Mind Centering 各身体系统的文章、访谈与体验练习；Contact Editions，1993 年。",
+      "keywords": [
+        "Body-Mind Centering",
+        "experiential anatomy",
+        "Contact Quarterly",
+        "perception",
+        "book"
+      ],
+      "images": [
+        "https://bonniebainbridgecohen.com/cdn/shop/products/sensing-feeling-and-action-bonnie-bainbridge-cohen_630x630.jpg?v=1753184330"
+      ],
+      "paper": {
+        "url": "https://contactquarterly.com/contact-editions/title/sensing-feeling-and-action-3",
+        "doi": "",
+        "arxiv": "",
+        "venue": "Contact Editions 1993",
+        "title": "Sensing, Feeling, and Action: The Experiential Anatomy of Body-Mind Centering"
+      }
+    },
+    {
+      "id": "eugene-gendlin--focusing-book",
+      "creator_ids": [
+        "eugene-gendlin"
+      ],
+      "title": "Focusing",
+      "year": 1978,
+      "field": "practices",
+      "sub": "somatic-therapy",
+      "modalities": [
+        "whole-soma",
+        "pain-interoception"
+      ],
+      "lenses": [
+        "first-person",
+        "body-mind-unity"
+      ],
+      "kind": "publication",
+      "description": "Gendlin's popular book teaches the six Focusing steps for finding and staying with a bodily 'felt sense' of a problem until it shifts.",
+      "description_zh": "简德林的大众读物，教授聚焦的六个步骤：找到并停留在关于某个问题的身体“感觉感”上，直到它发生转变。",
+      "idea_en": "It makes the felt sense practical: a designer can use the same steps to articulate what a prototype feels like before having words for it.",
+      "idea_zh": "它让“感觉感”变得可操作：设计者可以用同样的步骤，在找到词语之前表述一个原型给人的感觉。",
+      "method": "A step-by-step manual with examples from therapy and everyday life; Everest House 1978, later Bantam.",
+      "method_zh": "附有治疗与日常例子的分步手册；Everest House 1978 年出版，后由 Bantam 再版。",
+      "keywords": [
+        "Focusing",
+        "felt sense",
+        "Eugene Gendlin",
+        "self-help",
+        "book"
+      ],
+      "also": [
+        "methods"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=pFIBvofcRNA"
+      },
+      "images": [
+        "https://images4.penguinrandomhouse.com/smedia/9780553278330"
+      ],
+      "paper": {
+        "url": "https://www.penguinrandomhouse.com/books/59035/focusing-by-eugene-tgendlin-phd/",
+        "doi": "",
+        "arxiv": "",
+        "venue": "Everest House 1978",
+        "title": "Focusing"
+      }
+    },
+    {
+      "id": "thomas-hanna--somatics-book",
+      "creator_ids": [
+        "thomas-hanna"
+      ],
+      "title": "Somatics: Reawakening the Mind's Control of Movement, Flexibility, and Health",
+      "year": 1988,
+      "field": "practices",
+      "sub": "movement-education",
+      "modalities": [
+        "muscle",
+        "movement",
+        "posture-balance"
+      ],
+      "lenses": [
+        "body-mind-unity",
+        "first-person",
+        "care-healing"
+      ],
+      "kind": "publication",
+      "description": "Hanna explains 'sensory-motor amnesia', habitual muscle contractions we no longer feel, and gives a set of slow exercises to regain voluntary sensing and control.",
+      "description_zh": "汉纳解释了“感觉—运动失忆”，即我们已感受不到的习惯性肌肉收缩，并给出一组缓慢的练习，以重新获得主动的感知与控制。",
+      "idea_en": "Hanna argues that many problems blamed on ageing are learned body-mind habits and can be unlearned from within, which puts first-person sensing at the centre of health.",
+      "idea_zh": "汉纳认为许多被归咎于衰老的问题其实是习得的身心习惯，可以从内部“去学习”，这把第一人称的感知放到了健康的中心。",
+      "method": "Theory of the reflexes of stress (red light, green light, trauma) plus illustrated self-practice exercises; Addison-Wesley, 1988.",
+      "method_zh": "关于压力反射（红灯、绿灯、创伤反射）的理论，加上配图的自我练习；Addison-Wesley，1988 年。",
+      "keywords": [
+        "Thomas Hanna",
+        "somatics",
+        "sensory-motor amnesia",
+        "red light reflex",
+        "book"
+      ],
+      "images": [
+        "https://archive.org/services/img/somaticsreawaken00hann"
+      ],
+      "paper": {
+        "url": "https://books.google.com/books/about/Somatics.html?id=sapXJRU4nH8C",
+        "doi": "",
+        "arxiv": "",
+        "venue": "Addison-Wesley 1988",
+        "title": "Somatics: Reawakening the Mind's Control of Movement, Flexibility, and Health"
+      }
+    },
+    {
+      "id": "peter-levine--waking-the-tiger",
+      "creator_ids": [
+        "peter-levine"
+      ],
+      "title": "Waking the Tiger: Healing Trauma",
+      "year": 1997,
+      "field": "practices",
+      "sub": "somatic-therapy",
+      "modalities": [
+        "pain-interoception",
+        "whole-soma"
+      ],
+      "lenses": [
+        "care-healing",
+        "body-mind-unity"
+      ],
+      "kind": "publication",
+      "description": "Levine asks why wild animals, threatened constantly, rarely stay traumatised, and describes how humans can let frozen survival energy discharge through felt sensation.",
+      "description_zh": "莱文追问为何常受威胁的野生动物很少留下创伤，并描述人如何通过感受身体感觉，让冻结的生存能量得以释放。",
+      "idea_en": "The book treats the body as healer and trauma as a physiological process, offering designers a cautious model for working with arousal and safety.",
+      "idea_zh": "此书把身体视为疗愈者、把创伤视为生理过程，为设计者处理唤醒与安全提供了一个需谨慎使用的模型。",
+      "method": "Popular book in four parts (the body as healer, symptoms, transformation, first aid) with self-exercises; North Atlantic Books, 1997, with Ann Frederick.",
+      "method_zh": "分为四部分（身体作为疗愈者、症状、转化、急救）并附自我练习的大众读物；North Atlantic Books，1997 年，与安·弗雷德里克合著。",
+      "keywords": [
+        "Peter Levine",
+        "Somatic Experiencing",
+        "trauma",
+        "freeze response",
+        "book"
+      ],
+      "also": [
+        "care"
+      ],
+      "images": [
+        "https://images.penguinrandomhouse.com/cover/9781556432330"
+      ],
+      "paper": {
+        "url": "https://penguinrandomhousehighereducation.com/book/?isbn=9781556432330",
+        "doi": "",
+        "arxiv": "",
+        "venue": "North Atlantic Books 1997",
+        "title": "Waking the Tiger: Healing Trauma"
+      }
+    },
+    {
+      "id": "jon-kabat-zinn--full-catastrophe-living",
+      "creator_ids": [
+        "jon-kabat-zinn"
+      ],
+      "title": "Full Catastrophe Living",
+      "year": 1990,
+      "field": "practices",
+      "sub": "meditation-breath",
+      "modalities": [
+        "breath",
+        "whole-soma",
+        "pain-interoception"
+      ],
+      "lenses": [
+        "attunement",
+        "care-healing",
+        "body-mind-unity"
+      ],
+      "kind": "publication",
+      "description": "Kabat-Zinn's book lays out the MBSR program week by week, with the body scan, sitting meditation and mindful yoga, for people living with stress, pain and illness.",
+      "description_zh": "卡巴金在书中按周介绍正念减压课程，包括身体扫描、静坐与正念瑜伽，面向与压力、疼痛和疾病共处的人。",
+      "idea_en": "The subtitle names its stance: using the wisdom of your body and mind together; it is the standard reference for the body scan used in HCI studies.",
+      "idea_zh": "副标题点明了立场：一起运用身体与心的智慧；它是人机交互研究中引用身体扫描时的标准文献。",
+      "method": "Program description, guided practices and patient stories from the UMass Stress Reduction Clinic; Delacorte, 1990 (revised 2013).",
+      "method_zh": "来自马萨诸塞大学减压诊所的课程说明、引导练习与病人故事；Delacorte，1990 年（2013 年修订）。",
+      "keywords": [
+        "Full Catastrophe Living",
+        "MBSR",
+        "body scan",
+        "mindfulness",
+        "book"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=ru87wojiBTo"
+      },
+      "images": [
+        "https://images3.penguinrandomhouse.com/smedia/9780345536938"
+      ],
+      "paper": {
+        "url": "https://www.penguinrandomhouse.com/books/89149/full-catastrophe-living-revised-edition-by-jon-kabat-zinn-preface-by-thich-nhat-hanh-foreword-by-joan-borysenko/",
+        "doi": "",
+        "arxiv": "",
+        "venue": "Delacorte 1990",
+        "title": "Full Catastrophe Living: Using the Wisdom of Your Body and Mind to Face Stress, Pain, and Illness"
+      }
+    },
+    {
+      "id": "bessel-van-der-kolk--the-body-keeps-the-score",
+      "creator_ids": [
+        "bessel-van-der-kolk"
+      ],
+      "title": "The Body Keeps the Score",
+      "year": 2014,
+      "field": "practices",
+      "sub": "somatic-therapy",
+      "modalities": [
+        "pain-interoception",
+        "heartbeat",
+        "whole-soma"
+      ],
+      "lenses": [
+        "care-healing",
+        "body-mind-unity"
+      ],
+      "kind": "publication",
+      "description": "Van der Kolk describes how trauma changes brain and body, including interoception and heart rate variability, and reviews treatments from EMDR and neurofeedback to yoga and theatre.",
+      "description_zh": "范德考克描述创伤如何改变大脑与身体，包括内感受与心率变异性，并综述了从 EMDR、神经反馈到瑜伽与戏剧的疗法。",
+      "idea_en": "The book brought the idea that recovery must go through the body to a mass audience; some of its neuroscience claims are contested, so designers should read it as a framing rather than as evidence.",
+      "idea_zh": "此书把“康复必须经由身体”的观点带给大众；其中部分神经科学主张存在争议，设计者应把它当作一种框架而非证据来读。",
+      "method": "Clinical narrative and research review on trauma, interoception and body-based therapies; Viking, 2014.",
+      "method_zh": "关于创伤、内感受与身体疗法的临床叙事与研究综述；Viking，2014 年。",
+      "keywords": [
+        "Bessel van der Kolk",
+        "trauma",
+        "interoception",
+        "yoga",
+        "heart rate variability",
+        "book"
+      ],
+      "also": [
+        "care"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=iTefkqYQz8g"
+      },
+      "images": [
+        "https://images1.penguinrandomhouse.com/smedia/9780143127741"
+      ],
+      "paper": {
+        "url": "https://www.penguinrandomhouse.com/books/313183/the-body-keeps-the-score-by-bessel-van-der-kolk-md/",
+        "doi": "",
+        "arxiv": "",
+        "venue": "Viking 2014",
+        "title": "The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma"
+      }
+    },
+    {
+      "id": "deborah-hay--my-body-the-buddhist",
+      "creator_ids": [
+        "deborah-hay"
+      ],
+      "title": "My Body, The Buddhist",
+      "year": 2000,
+      "field": "practices",
+      "sub": "dance-improvisation",
+      "modalities": [
+        "whole-soma",
+        "movement"
+      ],
+      "lenses": [
+        "first-person",
+        "attunement",
+        "body-mind-unity"
+      ],
+      "kind": "publication",
+      "description": "Nineteen short chapters with titles such as 'my body likes to rest' and 'my body is bored by answers', in which Hay reports what her dancing body taught her about attention and self.",
+      "description_zh": "十九个短章，标题如“我的身体喜欢休息”“我的身体对答案感到厌倦”，海在书中讲述跳舞的身体教给她的关于注意与自我的事。",
+      "idea_en": "Hay gives the body agency in the creative process and treats perception as the dance; for designers it shows how to write from the body in the first person.",
+      "idea_zh": "海赋予身体在创作中的能动性，把知觉当作舞蹈本身；它为设计者示范了如何以第一人称从身体出发写作。",
+      "method": "Short first-person essays linking choreographic practice and Buddhist ideas of the self, with a foreword by Susan Foster; Wesleyan University Press, 2000.",
+      "method_zh": "把编舞实践与佛教自我观联系起来的第一人称短文，苏珊·福斯特作序；卫斯理大学出版社，2000 年。",
+      "keywords": [
+        "Deborah Hay",
+        "choreography",
+        "perception",
+        "Buddhism",
+        "first-person writing",
+        "book"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=nLbGprgCoOo"
+      },
+      "images": [
+        "https://wesleyan-university-us.imgix.net/covers/9780819563286.jpg"
+      ],
+      "paper": {
+        "url": "https://www.weslpress.org/9780819563286/my-body-the-buddhist/",
+        "doi": "",
+        "arxiv": "",
+        "venue": "Wesleyan University Press 2000",
+        "title": "My Body, The Buddhist"
+      }
+    }
+  ],
+  "leads": [
+    {
+      "name": "Klein Technique (Susan Klein)",
+      "why": "Dance somatics of bone-level support; no official video or verifiable founding year found.",
+      "link": "https://kleintechnique.com",
+      "found_via": "joan-skinner",
+      "status": "no_media"
+    },
+    {
+      "name": "Steve Paxton, The Small Dance",
+      "why": "Standing-still reflex practice of CI, strong design exercise; folded into Contact Improvisation for lack of an official video.",
+      "link": "https://contactquarterly.com",
+      "found_via": "steve-paxton",
+      "status": "open"
+    },
+    {
+      "name": "Anna Halprin, Planetary Dance (1981)",
+      "why": "Community ritual score; belongs to movement-art (participatory performance).",
+      "link": "https://www.youtube.com/watch?v=7Fn-loTC_Dw",
+      "found_via": "anna-halprin",
+      "status": "open"
+    },
+    {
+      "name": "Lawrence & Anna Halprin, The RSVP Cycles (1969)",
+      "why": "Scoring method for collective creativity used in participatory design; needs publisher page.",
+      "link": "https://en.wikipedia.org/wiki/Anna_Halprin",
+      "found_via": "anna-halprin",
+      "status": "open"
+    },
+    {
+      "name": "Moshe Feldenkrais, Functional Integration demo 1981",
+      "why": "Archival FI footage, usable as extra media for the Feldenkrais work.",
+      "link": "https://www.youtube.com/watch?v=_rt9WR5msKg",
+      "found_via": "moshe-feldenkrais",
+      "status": "open"
+    },
+    {
+      "name": "Lisa Nelson, Tuning Scores",
+      "why": "Improvisation practice on perception and composition, close to first-person design exercises.",
+      "link": "https://vimeo.com/103767442",
+      "found_via": "steve-paxton",
+      "status": "open"
+    },
+    {
+      "name": "Elaine Summers, Kinetic Awareness",
+      "why": "Early somatic practice with balls and slow movement, Judson circle.",
+      "link": "https://en.wikipedia.org/wiki/Elaine_Summers",
+      "found_via": "deborah-hay",
+      "status": "open"
+    },
+    {
+      "name": "Joan Chodorow, Dance Therapy and Depth Psychology (1991)",
+      "why": "Authentic Movement / Jungian active imagination in movement.",
+      "link": "https://en.wikipedia.org/wiki/Authentic_Movement",
+      "found_via": "mary-starks-whitehouse",
+      "status": "open"
+    },
+    {
+      "name": "Cynthia Price, Mindful Awareness in Body-oriented Therapy (MABT)",
+      "why": "Research-based interoceptive training; overlaps affect/interoception.",
+      "link": "https://depts.washington.edu/mabt/",
+      "found_via": "jon-kabat-zinn",
+      "status": "open"
+    },
+    {
+      "name": "Stephen Porges, Polyvagal Theory",
+      "why": "Theory widely used in somatic therapy (SE, van der Kolk); contested; for foundations.",
+      "link": "https://en.wikipedia.org/wiki/Polyvagal_theory",
+      "found_via": "peter-levine",
+      "status": "open"
+    },
+    {
+      "name": "Andrea Olsen, Body and Earth",
+      "why": "Experiential anatomy and ecology; more-than-human somatics.",
+      "link": "https://vimeo.com/383297937",
+      "found_via": "nancy-stark-smith",
+      "status": "open"
+    },
+    {
+      "name": "Irene Dowd, Taking Root to Fly",
+      "why": "Ideokinesis lineage after Sweigard.",
+      "link": "https://www.youtube.com/watch?v=04UboK2-BGA",
+      "found_via": "lulu-sweigard",
+      "status": "open"
+    },
+    {
+      "name": "Trager Approach (Milton Trager)",
+      "why": "Somatic bodywork and Mentastics movement; check salience first.",
+      "link": "https://en.wikipedia.org/wiki/Trager_approach",
+      "found_via": "ida-rolf",
+      "status": "open"
+    }
+  ]
+}
